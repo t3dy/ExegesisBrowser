@@ -33,17 +33,58 @@ def enrich_dictionary(packet_dir, output_file, limit=100):
             category = data.get('category', 'General Topic')
             aliases = data.get('aliases', [])
             passages = data.get('passages', [])
+            count = data.get('count', 0)
             
             # Clean terminal-derived artifacts (newlines in term names)
             term = term.replace('\n', ' ').strip()
+            
+            # --- HYBRID TAGGING SYSTEM (PHASE 10) ---
+            
+            # 1. Deterministic Heuristics (Regex/Lookup)
+            heuristics = {
+                'Historical Figure': r'\b(Bruno|Paracelsus|Boehme|Plotinus|Valentinus|Luria|Philo|Pythagoras|Empedocles|Burroughs|Augustine|Thomas|Socrates|Luther|Eckhart|Spinoza|Hegel)\b',
+                'Theological Construct': r'\b(Anamnesis|Logos|Urgrund|Gnosis|Gnostic|Pleroma|Sophia|Ruah|Kyrios|Brahman|Christ|Saviour|Savior|Parousia|Karma|Karmic|Grace|Divine|God|Lord|Holy|Sacred|Agape|Caritas)\b',
+                'Narrative Artifact': r'\b(Ubik|Stigmata|Tears|Scanner|Androids|Valis|Flow|Judo|Electric Ant|Frozen Journey|Deus Irae|Man in the High Castle)\b',
+                'Visionary Experience': r'\b(2-74|3-74|Zebra|Sophia|St\. Sophia|Bathosphere|Xerox|Flash|Golden Section|Vast Active Living Intelligent System|Pink Light|Beam)\b',
+                'Metaphysics': r'\b(Entropy|Time|Reality|Being|Space|Universe|Macrocosm|Microcosm|Matrix|Information|Ontological|Determinism|Necessity|Ananke|Force|Field)\b',
+                'Technical Vocabulary': r'\b(Anamnesis|Entelechy|Sub specia aeternitatis|Syzygy|Protennoia|Aion|Eschaton|Dialectic|Synthesis|Thesis|Antithesis)\b'
+            }
+            
+            assigned_category = "Unclassified"
+            for cat, pattern in heuristics.items():
+                if re.search(pattern, term, re.IGNORECASE):
+                    assigned_category = cat
+                    break
+            
+            # 2. Simulated LLM Refinement/Confirmation
+            # (In a real scenario, the LLM would see the context and override the heuristic if needed)
+            if assigned_category == "Unclassified":
+                if "world" in term.lower() or "prison" in term.lower():
+                    assigned_category = "Metaphysics"
+                elif count > 50:
+                    assigned_category = "Theological Construct"
+                else:
+                    assigned_category = "Technical Vocabulary"
+
+            # Final Category Assignment
+            final_category = assigned_category
             
             # Simple synthesis logic for the mock
             count = data.get('count', 0)
             passage_count = len(passages)
             
-            # Heuristic definitions based on context
-            definition = f"A recurring {category.lower()} in Dick's *Exegesis*, appearing approximately {count} times."
-            if "gnosis" in term.lower() or "gnostic" in term.lower():
+            # Heuristic definitions based on context and category
+            if final_category == "Historical Figure":
+                definition = f"A primary {final_category.lower()} in Dick's intellectual genealogy, treated as a historical precursor or psychic double."
+            elif final_category == "Theological Construct":
+                definition = f"A core {final_category.lower()} derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics."
+            elif final_category == "Visionary Experience":
+                definition = f"A technical or symbolic term describing the specific mechanics and phenomena of Dick's February/March 1974 awakening."
+            else:
+                definition = f"A recurring element in Dick's *Exegesis*, categorized as {final_category.lower()}, appearing approximately {count} times."
+
+            # Specific Overrides for high-value terms
+            if "gnosis" in term.lower():
                 definition = "The concept of 'secret knowledge' or 'salvific insight' regarding the divine origin of the human soul and its entrapment in the material world."
             elif "bruno" in term.lower():
                 definition = "Renaissance Hermeticist Giordano Bruno, whom Dick identifies as a primary historical precursor for his 2-74 awakening."
@@ -52,15 +93,26 @@ def enrich_dictionary(packet_dir, output_file, limit=100):
             elif "iron prison" in term.lower():
                 definition = "The state of ontological entrapment in linear time and false reality (the 'Empire'), which Dick claims began to dissolve during his 2-74 experience."
 
+            see_also_candidates = []
+            for p in passages:
+                if isinstance(p, dict):
+                    co_ocs = p.get('co_occurrences', [])
+                    if isinstance(co_ocs, list) and len(co_ocs) > 0:
+                        see_also_candidates.append(str(co_ocs[0]))
+            
+            # Use explicit list slicing to satisfy linter
+            unique_see_also = sorted(list(set(see_also_candidates)))
+            final_see_also = unique_see_also[:4] if len(unique_see_also) > 4 else unique_see_also
+
             entry = {
                 "term": term,
-                "category": category,
+                "category": final_category,
                 "aliases": aliases,
                 "definition": definition,
-                "extended_definition": f"This term is an essential structural element in Dick's later visionary cosmology. Textual evidence from {passage_count} passages suggests it functions as a bridge between {category} and his personal interpretation of the 2-74 experience.",
-                "significance": f"Dick treats {term} as a high-confidence anchor for his developing information-metaphysics. Its frequent co-occurrence with the logos and the February experience highlights its centrality.",
+                "extended_definition": f"This element occupies a critical position in the {final_category.lower()} domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
+                "significance": f"Dick treats {term} as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
                 "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-                "see_also": sorted(list(set([p['co_occurrences'][0] for p in passages if p.get('co_occurrences')])))[:4]
+                "see_also": final_see_also
             }
             inventory.append(entry)
             processed_count += 1

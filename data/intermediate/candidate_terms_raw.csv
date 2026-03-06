@@ -98,7 +98,7 @@ Buddha,144,Top Term,word_mining
 Pythagoras,140,Top Term,word_mining
 Savior,139,Top Term,word_mining
 Platonism,138,Top Term,"naming_pattern, word_mining"
-Holy Wisdom,131,Top Term,"naming_pattern, phrase_mining"
+Holy Wisdom,131,Top Term,"phrase_mining, naming_pattern"
 Urgrund,131,Top Term,word_mining
 Good,129,Top Term,word_mining
 Mind,125,Top Term,word_mining
@@ -169,7 +169,7 @@ Nous,81,Top Term,word_mining
 Runciter,80,Top Term,word_mining
 Atman,80,Top Term,word_mining
 Missive,80,Top Term,word_mining
-Jesus Christ,79,Top Term,"naming_pattern, phrase_mining"
+Jesus Christ,79,Top Term,"phrase_mining, naming_pattern"
 Although,79,Top Term,word_mining
 Self,78,Top Term,word_mining
 Siddhartha,78,Top Term,word_mining
@@ -220,7 +220,7 @@ Anamnesis,61,Top Term,word_mining
 Chrissy,61,Top Term,word_mining
 Jewish,61,Top Term,word_mining
 Without,61,Top Term,word_mining
-Palmer Eldritch,60,Top Term,"naming_pattern, phrase_mining"
+Palmer Eldritch,60,Top Term,"phrase_mining, naming_pattern"
 "Indexed
 Folder",60,Top Term,phrase_mining
 Grace,59,Top Term,word_mining
@@ -642,7 +642,7 @@ Saint Sophia,16,Top Term,phrase_mining
 Mens Dei,16,Top Term,phrase_mining
 Upper Realm,16,Top Term,phrase_mining
 Rosy Cross,16,Top Term,phrase_mining
-Adam Kadmon,16,Top Term,"naming_pattern, phrase_mining"
+Adam Kadmon,16,Top Term,"phrase_mining, naming_pattern"
 Holy Week,16,Top Term,phrase_mining
 Angel Archer,16,Top Term,phrase_mining
 Rose,16,Top Term,word_mining

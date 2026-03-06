@@ -5,11 +5,54 @@ import csv
 from pathlib import Path
 import argparse
 
-def extract_candidates(input_file, output_dir, review_dir):
+import hashlib
+import json
+
+def verify_corpus(input_file, whitelist_file):
+    input_path = Path(input_file).resolve()
+    whitelist_path = Path(whitelist_file).resolve()
+
+    if not whitelist_path.exists():
+        print(f"Warning: Whitelist {whitelist_path} not found. Skipping hash verification.")
+        return True
+
+    with open(whitelist_path, 'r', encoding='utf-8') as f:
+        whitelist_data = json.load(f)
+
+    # Convert relative path in whitelist to absolute for comparison
+    whitelist_files = {Path(f['path']).name: f['sha256'] for f in whitelist_data.get('files', [])}
+    
+    if input_path.name not in whitelist_files:
+        print(f"Error: {input_path.name} is not in the corpus whitelist.")
+        return False
+
+    # Calculate Hash
+    sha256_hash = hashlib.sha256()
+    with open(input_path, "rb") as f:
+        for byte_block in iter(lambda: f.read(4096), b""):
+            sha256_hash.update(byte_block)
+    
+    actual_hash = sha256_hash.hexdigest().upper()
+    expected_hash = whitelist_files[input_path.name].upper()
+
+    if actual_hash != expected_hash:
+        print(f"CRITICAL: Hash mismatch for {input_path.name}!")
+        print(f"Expected: {expected_hash}")
+        print(f"Actual:   {actual_hash}")
+        return False
+
+    print(f"Verified {input_path.name} against whitelist.")
+    return True
+
+def extract_candidates(input_file, output_dir, review_dir, whitelist_file=None):
     input_path = Path(input_file)
     output_path = Path(output_dir)
     review_path = Path(review_dir)
     
+    if whitelist_file and not verify_corpus(input_file, whitelist_file):
+        print("Extraction aborted due to whitelist failure.")
+        return
+
     output_path.mkdir(parents=True, exist_ok=True)
     review_path.mkdir(parents=True, exist_ok=True)
 
@@ -64,8 +107,12 @@ def extract_candidates(input_file, output_dir, review_dir):
         for term, count in counter.items():
             if term not in all_candidates:
                 all_candidates[term] = {'count': 0, 'category': category, 'methods': set()}
-            all_candidates[term]['count'] += count
-            all_candidates[term]['methods'].add(method)
+            entry = all_candidates[term]
+            if isinstance(entry, dict):
+                entry['count'] += count
+                methods = entry['methods']
+                if isinstance(methods, set):
+                    methods.add(method)
 
     add_to_candidates(phrase_counts, 'Top Term', 'phrase_mining')
     add_to_candidates(word_counts, 'Top Term', 'word_mining')
@@ -74,14 +121,18 @@ def extract_candidates(input_file, output_dir, review_dir):
 
     # Filtering and Sorting
     results = []
-    for term, data in all_candidates.items():
-        if data['count'] > 10:
-            results.append({
-                'Term': term,
-                'Count': data['count'],
-                'Category': data['category'],
-                'Methods': ", ".join(data['methods'])
-            })
+    for term, entry in all_candidates.items():
+        if isinstance(entry, dict):
+            cnt = entry.get('count', 0)
+            if isinstance(cnt, int) and cnt > 10:
+                methods_set = entry.get('methods', set())
+                methods_str = ", ".join(list(methods_set)) if isinstance(methods_set, set) else ""
+                results.append({
+                    'Term': str(term),
+                    'Count': cnt,
+                    'Category': str(entry.get('category', 'Top Term')),
+                    'Methods': methods_str
+                })
     
     results.sort(key=lambda x: x['Count'], reverse=True)
 
@@ -97,7 +148,10 @@ def extract_candidates(input_file, output_dir, review_dir):
     with open(md_file, 'w', encoding='utf-8') as f:
         f.write("# Exegesis Portal Candidate Discovery\n\n")
         f.write("## High Confidence Candidates\n")
-        for r in results[:50]:
+        # Filter top 50
+        limit = 50 if len(results) > 50 else len(results)
+        for i in range(limit):
+            r = results[i]
             f.write(f"- **{r['Term']}** ({r['Count']}) | {r['Category']} | Methods: {r['Methods']}\n")
         
         f.write("\n## New Phrasal Patterns found\n")
@@ -111,6 +165,7 @@ if __name__ == "__main__":
     parser.add_argument("--input", default="data/raw/exegesis_ordered.txt", help="Path to raw source text.")
     parser.add_argument("--output", default="data/intermediate", help="Path to intermediate output folder.")
     parser.add_argument("--review", default="data/review", help="Path to review folder.")
+    parser.add_argument("--whitelist", default="data/raw/whitelist.json", help="Path to SHA256 whitelist.")
     args = parser.parse_args()
     
-    extract_candidates(args.input, args.output, args.review)
+    extract_candidates(args.input, args.output, args.review, args.whitelist)

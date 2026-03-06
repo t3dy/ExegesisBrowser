@@ -107,21 +107,72 @@ def build_static_site(data_dir, docs_dir):
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PKD Exegesis Knowledge Portal</title>
     <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.26.0/cytoscape.min.js"></script>
 </head>
 <body>
     <header>
         <h1>Exegesis Knowledge Portal</h1>
-        <p>A deterministic, evidence-backed reference system for Philip K. Dick's mystical journal.</p>
+        <p>A computational commentary on Philip K. Dick's intellectual network.</p>
     </header>
     
     <main>
+        <!-- Scholarly Introduction -->
+        <section class="scholarly-intro">
+            <h2>The Information Metaphysics of Philip K. Dick</h2>
+            <p>
+                This portal provides a deterministic, evidence-backed reference system for Philip K. Dick's 
+                <em>Exegesis</em>. Our methodology prioritizes strict corpus hygiene—enforcing SHA256-verified 
+                whitelisting of source texts—and models Dick's thought not merely as a collection of terms, 
+                but as a bidirectional network of passages and conceptual unit.
+            </p>
+            <p>
+                Dick's later work represents a radical synthesis of Hermetic initiation, Boehmean theosophy, 
+                Neoplatonic participation, and 20th-century information theory. By modeling these relations 
+                spatially, we reveal the "hinge passages" where these disparate traditions collide to form 
+                his idiosyncratic visionary cosmology.
+            </p>
+        </section>
+
+        <!-- Tab Navigation -->
+        <div class="tab-nav">
+            <button class="tab-btn active" data-tab="grid">Relational Cards</button>
+            <button class="tab-btn" data-tab="graph">Knowledge Graph (Experimental)</button>
+        </div>
+
+        <!-- Filter Bar -->
+        <div class="filter-bar">
+            <span class="filter-tag active" data-category="all">All</span>
+            <span class="filter-tag" data-category="Metaphysics">Metaphysics</span>
+            <span class="filter-tag" data-category="Visionary Experience">Visionary</span>
+            <span class="filter-tag" data-category="Historical Figure">Figures</span>
+            <span class="filter-tag" data-category="Theological Construct">Theology</span>
+            <span class="filter-tag" data-category="Narrative Artifact">Literature</span>
+            <span class="filter-tag" data-category="Technical Vocabulary">Technical</span>
+        </div>
+
         <div class="search-container">
             <input type="text" id="entrySearch" placeholder="Search terms (e.g., Bruno, Logos)...">
         </div>
         
+        <!-- Grid View -->
         <div class="grid" id="entryGrid">
             {cards_grid}
         </div>
+
+        <!-- Graph View -->
+        <div id="cy-container">
+            <div id="cy"></div>
+            <div class="graph-overlay">
+                <strong>Relational Explorer</strong>
+                <div class="graph-legend">
+                    <div class="legend-item"><span class="dot term"></span> Concept</div>
+                    <div class="legend-item"><span class="dot passage"></span> Passage Unit</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Node Info Sidebar -->
+        <div id="nodeInfo"></div>
     </main>
 
     <script src="assets/js/app.js"></script>
@@ -132,7 +183,8 @@ def build_static_site(data_dir, docs_dir):
     for entry in entries:
         slug = re.sub(r'[^a-z0-9]+', '_', entry['term'].lower()).strip('_')
         cards_grid_html += f"""
-        <div class="card" data-title="{entry['term']}">
+        <div class="card" data-title="{entry['term']}" data-category="{entry['category']}">
+            <span class="category">{entry['category']}</span>
             <h3>{entry['term']}</h3>
             <p>{entry['definition']}</p>
             <a href="cards/{slug}.html" class="portal-btn">View Portal &rarr;</a>
@@ -158,10 +210,16 @@ def main():
     
     if not args.skip_pipeline:
         print("--- RUNNING EXTRACTION PIPELINE ---")
-        if not run_step(["python", str(scripts / "exegesis_extractor.py"), "--input", "data/raw/exegesis_ordered.txt"]): return
+        # Step 1: Extractor with hash verification
+        if not run_step(["python", str(scripts / "exegesis_extractor.py"), "--input", "data/raw/exegesis_ordered.txt", "--whitelist", "data/raw/whitelist.json"]): return
+        # Step 2: Canonicalizer
         if not run_step(["python", str(scripts / "exegesis_canonicalizer.py")]): return
+        # Step 3: Evidence Generator
         if not run_step(["python", str(scripts / "exegesis_evidence_generator.py")]): return
+        # Step 4: LLM Enricher (Hybrid Tagging)
         if not run_step(["python", str(scripts / "exegesis_llm_enricher.py")]): return
+        # Step 5: Passage Graph Generator (Phase 10)
+        if not run_step(["python", str(scripts / "generate_passage_graph.py")]): return
     
     print("--- BUILDING STATIC SITE ---")
     build_static_site("docs/assets/data", "docs")

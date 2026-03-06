@@ -1,0 +1,11 @@
+{
+    "description": "Exegesis Browser Corpus Whitelist",
+    "version": "1.0",
+    "files": [
+        {
+            "path": "data/raw/exegesis_ordered.txt",
+            "sha256": "93D2469D9C018D2C84A25E2CCC5317C40A0305541E5BAF5C12F4294D87053E6F",
+            "description": "Primary Exegesis Source Text"
+        }
+    ]
+}

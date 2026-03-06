@@ -6,621 +6,772 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PKD Exegesis Knowledge Portal</title>
     <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.26.0/cytoscape.min.js"></script>
 </head>
 <body>
     <header>
         <h1>Exegesis Knowledge Portal</h1>
-        <p>A deterministic, evidence-backed reference system for Philip K. Dick's mystical journal.</p>
+        <p>A computational commentary on Philip K. Dick's intellectual network.</p>
     </header>
     
     <main>
+        <!-- Scholarly Introduction -->
+        <section class="scholarly-intro">
+            <h2>The Information Metaphysics of Philip K. Dick</h2>
+            <p>
+                This portal provides a deterministic, evidence-backed reference system for Philip K. Dick's 
+                <em>Exegesis</em>. Our methodology prioritizes strict corpus hygiene—enforcing SHA256-verified 
+                whitelisting of source texts—and models Dick's thought not merely as a collection of terms, 
+                but as a bidirectional network of passages and conceptual unit.
+            </p>
+            <p>
+                Dick's later work represents a radical synthesis of Hermetic initiation, Boehmean theosophy, 
+                Neoplatonic participation, and 20th-century information theory. By modeling these relations 
+                spatially, we reveal the "hinge passages" where these disparate traditions collide to form 
+                his idiosyncratic visionary cosmology.
+            </p>
+        </section>
+
+        <!-- Tab Navigation -->
+        <div class="tab-nav">
+            <button class="tab-btn active" data-tab="grid">Relational Cards</button>
+            <button class="tab-btn" data-tab="graph">Knowledge Graph (Experimental)</button>
+        </div>
+
+        <!-- Filter Bar -->
+        <div class="filter-bar">
+            <span class="filter-tag active" data-category="all">All</span>
+            <span class="filter-tag" data-category="Metaphysics">Metaphysics</span>
+            <span class="filter-tag" data-category="Visionary Experience">Visionary</span>
+            <span class="filter-tag" data-category="Historical Figure">Figures</span>
+            <span class="filter-tag" data-category="Theological Construct">Theology</span>
+            <span class="filter-tag" data-category="Narrative Artifact">Literature</span>
+            <span class="filter-tag" data-category="Technical Vocabulary">Technical</span>
+        </div>
+
         <div class="search-container">
             <input type="text" id="entrySearch" placeholder="Search terms (e.g., Bruno, Logos)...">
         </div>
         
+        <!-- Grid View -->
         <div class="grid" id="entryGrid">
             
-        <div class="card" data-title="Evidence Packet Index">
+        <div class="card" data-title="Evidence Packet Index" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Evidence Packet Index</h3>
-            <p>A recurring general topic in Dick's *Exegesis*, appearing approximately 0 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 0 times.</p>
             <a href="cards/evidence_packet_index.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Pentecost">
+        <div class="card" data-title="Pentecost" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Pentecost</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 22 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.</p>
             <a href="cards/pentecost.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Sacred">
+        <div class="card" data-title="Sacred" data-category="Theological Construct">
+            <span class="category">Theological Construct</span>
             <h3>Sacred</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 22 times.</p>
+            <p>A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.</p>
             <a href="cards/sacred.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="White">
+        <div class="card" data-title="White" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>White</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 22 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.</p>
             <a href="cards/white.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="August">
+        <div class="card" data-title="August" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>August</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 22 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.</p>
             <a href="cards/august.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Grail">
+        <div class="card" data-title="Grail" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Grail</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 22 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.</p>
             <a href="cards/grail.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Ananke">
+        <div class="card" data-title="Ananke" data-category="Metaphysics">
+            <span class="category">Metaphysics</span>
             <h3>Ananke</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 22 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as metaphysics, appearing approximately 22 times.</p>
             <a href="cards/ananke.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Until">
+        <div class="card" data-title="Until" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Until</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 22 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.</p>
             <a href="cards/until.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Mary">
+        <div class="card" data-title="Mary" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Mary</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 22 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.</p>
             <a href="cards/mary.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Simon Magus">
+        <div class="card" data-title="Simon Magus" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Simon Magus</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 22 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.</p>
             <a href="cards/simon_magus.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Judo">
+        <div class="card" data-title="Judo" data-category="Narrative Artifact">
+            <span class="category">Narrative Artifact</span>
             <h3>Judo</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as narrative artifact, appearing approximately 23 times.</p>
             <a href="cards/judo.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Track">
+        <div class="card" data-title="Track" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Track</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/track.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Pilate">
+        <div class="card" data-title="Pilate" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Pilate</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/pilate.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Answer">
+        <div class="card" data-title="Answer" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Answer</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/answer.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Someone">
+        <div class="card" data-title="Someone" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Someone</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/someone.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Right">
+        <div class="card" data-title="Right" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Right</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/right.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Crete">
+        <div class="card" data-title="Crete" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Crete</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/crete.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Final">
+        <div class="card" data-title="Final" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Final</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/final.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Chip">
+        <div class="card" data-title="Chip" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Chip</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/chip.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Form World">
+        <div class="card" data-title="Form World" data-category="Metaphysics">
+            <span class="category">Metaphysics</span>
             <h3>Form World</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as metaphysics, appearing approximately 23 times.</p>
             <a href="cards/form_world.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Joseph Campbell">
+        <div class="card" data-title="Joseph Campbell" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Joseph Campbell</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/joseph_campbell.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Phil Dick">
+        <div class="card" data-title="Phil Dick" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Phil Dick</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 23 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.</p>
             <a href="cards/phil_dick.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Ruah">
+        <div class="card" data-title="Ruah" data-category="Theological Construct">
+            <span class="category">Theological Construct</span>
             <h3>Ruah</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.</p>
             <a href="cards/ruah.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Asher">
+        <div class="card" data-title="Asher" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Asher</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/asher.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Pleroma">
+        <div class="card" data-title="Pleroma" data-category="Theological Construct">
+            <span class="category">Theological Construct</span>
             <h3>Pleroma</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.</p>
             <a href="cards/pleroma.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Free">
+        <div class="card" data-title="Free" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Free</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/free.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Doesn">
+        <div class="card" data-title="Doesn" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Doesn</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/doesn.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Baptist">
+        <div class="card" data-title="Baptist" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Baptist</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/baptist.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Durant">
+        <div class="card" data-title="Durant" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Durant</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/durant.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Genesis">
+        <div class="card" data-title="Genesis" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Genesis</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/genesis.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Lamb">
+        <div class="card" data-title="Lamb" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Lamb</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/lamb.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Ptath">
+        <div class="card" data-title="Ptath" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Ptath</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/ptath.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Chardin">
+        <div class="card" data-title="Chardin" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Chardin</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/chardin.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Whereas">
+        <div class="card" data-title="Whereas" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Whereas</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/whereas.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Evidently">
+        <div class="card" data-title="Evidently" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Evidently</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/evidently.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Salvation">
+        <div class="card" data-title="Salvation" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Salvation</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/salvation.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Dream">
+        <div class="card" data-title="Dream" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Dream</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.</p>
             <a href="cards/dream.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Electric Ant">
+        <div class="card" data-title="Electric Ant" data-category="Narrative Artifact">
+            <span class="category">Narrative Artifact</span>
             <h3>Electric Ant</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 24 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as narrative artifact, appearing approximately 24 times.</p>
             <a href="cards/electric_ant.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Iron Prison">
+        <div class="card" data-title="Iron Prison" data-category="Metaphysics">
+            <span class="category">Metaphysics</span>
             <h3>Iron Prison</h3>
             <p>The state of ontological entrapment in linear time and false reality (the 'Empire'), which Dick claims began to dissolve during his 2-74 experience.</p>
             <a href="cards/iron_prison.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Sandra">
+        <div class="card" data-title="Sandra" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Sandra</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/sandra.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Lower">
+        <div class="card" data-title="Lower" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Lower</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/lower.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Karmic">
+        <div class="card" data-title="Karmic" data-category="Theological Construct">
+            <span class="category">Theological Construct</span>
             <h3>Karmic</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.</p>
             <a href="cards/karmic.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Syria">
+        <div class="card" data-title="Syria" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Syria</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/syria.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Sons">
+        <div class="card" data-title="Sons" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Sons</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/sons.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Human">
+        <div class="card" data-title="Human" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Human</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/human.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Otherwise">
+        <div class="card" data-title="Otherwise" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Otherwise</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/otherwise.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Reformers">
+        <div class="card" data-title="Reformers" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Reformers</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/reformers.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Hermes">
+        <div class="card" data-title="Hermes" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Hermes</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/hermes.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="During">
+        <div class="card" data-title="During" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>During</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/during.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Qumran">
+        <div class="card" data-title="Qumran" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Qumran</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 25 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.</p>
             <a href="cards/qumran.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Horselover">
+        <div class="card" data-title="Horselover" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Horselover</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/horselover.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Impostor">
+        <div class="card" data-title="Impostor" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Impostor</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/impostor.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Magus">
+        <div class="card" data-title="Magus" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Magus</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/magus.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Comforter">
+        <div class="card" data-title="Comforter" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Comforter</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/comforter.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="West">
+        <div class="card" data-title="West" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>West</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/west.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Today">
+        <div class="card" data-title="Today" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Today</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/today.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Pauline">
+        <div class="card" data-title="Pauline" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Pauline</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/pauline.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Greater">
+        <div class="card" data-title="Greater" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Greater</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/greater.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="London">
+        <div class="card" data-title="London" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>London</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/london.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Suddenly">
+        <div class="card" data-title="Suddenly" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Suddenly</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/suddenly.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Dead">
+        <div class="card" data-title="Dead" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Dead</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/dead.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Magic">
+        <div class="card" data-title="Magic" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Magic</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/magic.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Truth">
+        <div class="card" data-title="Truth" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Truth</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.</p>
             <a href="cards/truth.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Deus Irae">
+        <div class="card" data-title="Deus Irae" data-category="Narrative Artifact">
+            <span class="category">Narrative Artifact</span>
             <h3>Deus Irae</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 26 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as narrative artifact, appearing approximately 26 times.</p>
             <a href="cards/deus_irae.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Upper">
+        <div class="card" data-title="Upper" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Upper</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/upper.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Blood">
+        <div class="card" data-title="Blood" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Blood</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/blood.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Dialectic">
+        <div class="card" data-title="Dialectic" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Dialectic</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/dialectic.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Wilson">
+        <div class="card" data-title="Wilson" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Wilson</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/wilson.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Kyrios">
+        <div class="card" data-title="Kyrios" data-category="Theological Construct">
+            <span class="category">Theological Construct</span>
             <h3>Kyrios</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.</p>
             <a href="cards/kyrios.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Nancy">
+        <div class="card" data-title="Nancy" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Nancy</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/nancy.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Cross">
+        <div class="card" data-title="Cross" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Cross</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/cross.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Israel">
+        <div class="card" data-title="Israel" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Israel</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/israel.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Eastern">
+        <div class="card" data-title="Eastern" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Eastern</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/eastern.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Joseph">
+        <div class="card" data-title="Joseph" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Joseph</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/joseph.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Elisha">
+        <div class="card" data-title="Elisha" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Elisha</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/elisha.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Knowledge">
+        <div class="card" data-title="Knowledge" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Knowledge</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/knowledge.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Sturgeon">
+        <div class="card" data-title="Sturgeon" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Sturgeon</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/sturgeon.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Except">
+        <div class="card" data-title="Except" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Except</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.</p>
             <a href="cards/except.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Frozen Journey">
+        <div class="card" data-title="Frozen Journey" data-category="Narrative Artifact">
+            <span class="category">Narrative Artifact</span>
             <h3>Frozen Journey</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as narrative artifact, appearing approximately 27 times.</p>
             <a href="cards/frozen_journey.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="God Himself">
+        <div class="card" data-title="God Himself" data-category="Theological Construct">
+            <span class="category">Theological Construct</span>
             <h3>God Himself</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 27 times.</p>
+            <p>A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.</p>
             <a href="cards/god_himself.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Eckhart">
+        <div class="card" data-title="Eckhart" data-category="Historical Figure">
+            <span class="category">Historical Figure</span>
             <h3>Eckhart</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A primary historical figure in Dick's intellectual genealogy, treated as a historical precursor or psychic double.</p>
             <a href="cards/eckhart.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Paradise">
+        <div class="card" data-title="Paradise" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Paradise</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/paradise.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Electric">
+        <div class="card" data-title="Electric" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Electric</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/electric.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Government">
+        <div class="card" data-title="Government" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Government</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/government.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Unless">
+        <div class="card" data-title="Unless" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Unless</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/unless.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Remember">
+        <div class="card" data-title="Remember" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Remember</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/remember.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Likewise">
+        <div class="card" data-title="Likewise" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Likewise</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/likewise.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Having">
+        <div class="card" data-title="Having" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Having</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/having.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Socrates">
+        <div class="card" data-title="Socrates" data-category="Historical Figure">
+            <span class="category">Historical Figure</span>
             <h3>Socrates</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A primary historical figure in Dick's intellectual genealogy, treated as a historical precursor or psychic double.</p>
             <a href="cards/socrates.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Passover">
+        <div class="card" data-title="Passover" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Passover</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/passover.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Babylonian">
+        <div class="card" data-title="Babylonian" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Babylonian</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/babylonian.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Evil">
+        <div class="card" data-title="Evil" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Evil</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/evil.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Trinity">
+        <div class="card" data-title="Trinity" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Trinity</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/trinity.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Whether">
+        <div class="card" data-title="Whether" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Whether</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/whether.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="America">
+        <div class="card" data-title="America" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>America</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/america.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Luther">
+        <div class="card" data-title="Luther" data-category="Historical Figure">
+            <span class="category">Historical Figure</span>
             <h3>Luther</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A primary historical figure in Dick's intellectual genealogy, treated as a historical precursor or psychic double.</p>
             <a href="cards/luther.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Days">
+        <div class="card" data-title="Days" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Days</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/days.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Testament">
+        <div class="card" data-title="Testament" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Testament</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/testament.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Later">
+        <div class="card" data-title="Later" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Later</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/later.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
-        <div class="card" data-title="Form One">
+        <div class="card" data-title="Form One" data-category="Technical Vocabulary">
+            <span class="category">Technical Vocabulary</span>
             <h3>Form One</h3>
-            <p>A recurring top term in Dick's *Exegesis*, appearing approximately 28 times.</p>
+            <p>A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.</p>
             <a href="cards/form_one.html" class="portal-btn">View Portal &rarr;</a>
         </div>
         
         </div>
+
+        <!-- Graph View -->
+        <div id="cy-container">
+            <div id="cy"></div>
+            <div class="graph-overlay">
+                <strong>Relational Explorer</strong>
+                <div class="graph-legend">
+                    <div class="legend-item"><span class="dot term"></span> Concept</div>
+                    <div class="legend-item"><span class="dot passage"></span> Passage Unit</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Node Info Sidebar -->
+        <div id="nodeInfo"></div>
     </main>
 
     <script src="assets/js/app.js"></script>
