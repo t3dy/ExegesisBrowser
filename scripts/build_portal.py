@@ -139,42 +139,76 @@ def build_static_site(data_dir, docs_dir):
             <button class="tab-btn" data-tab="graph">Knowledge Graph (Experimental)</button>
         </div>
 
-        <!-- Filter Bar -->
-        <div class="filter-bar">
-            <span class="filter-tag active" data-category="all">All</span>
-            <span class="filter-tag" data-category="Metaphysics">Metaphysics</span>
-            <span class="filter-tag" data-category="Visionary Experience">Visionary</span>
-            <span class="filter-tag" data-category="Historical Figure">Figures</span>
-            <span class="filter-tag" data-category="Theological Construct">Theology</span>
-            <span class="filter-tag" data-category="Narrative Artifact">Literature</span>
-            <span class="filter-tag" data-category="Technical Vocabulary">Technical</span>
-        </div>
+        <div class="tab-container">
+        <button class="tab-btn active" onclick="switchTab('cards')">Relational Cards</button>
+        <button class="tab-btn" onclick="switchTab('analytics')">Analytics Dashboard</button>
+        <button class="tab-btn" onclick="switchTab('graph')">Knowledge Graph (Experimental)</button>
+    </div>
 
-        <div class="search-container">
-            <input type="text" id="entrySearch" placeholder="Search terms (e.g., Bruno, Logos)...">
+    <!-- RELATIONAL CARDS VIEW -->
+    <div id="cards-view" class="view-active">
+        <div id="filter-bar">
+            <!-- Filter tags will be injected here -->
         </div>
         
-        <!-- Grid View -->
-        <div class="grid" id="entryGrid">
-            {cards_grid}
+        <div class="search-container">
+            <input type="text" id="term-search" placeholder="Search concepts, figures, systems...">
         </div>
+        
+        <div class="cards-grid" id="cards-grid">
+            <!-- Cards will be injected here -->
+        </div>
+    </div>
 
-        <!-- Graph View -->
-        <div id="cy-container">
-            <div id="cy"></div>
-            <div class="graph-overlay">
-                <strong>Relational Explorer</strong>
-                <div class="graph-legend">
-                    <div class="legend-item"><span class="dot term"></span> Concept</div>
-                    <div class="legend-item"><span class="dot passage"></span> Passage Unit</div>
-                </div>
+    <!-- ANALYTICS VIEW -->
+    <div id="analytics-view" class="view-hidden">
+        <div class="analytics-container">
+            <div class="analytics-card">
+                <h3>Top 10 Most Frequent Concepts</h3>
+                <canvas id="chart-top-terms"></canvas>
+            </div>
+            <div class="analytics-card">
+                <h3>Domain Distribution</h3>
+                <canvas id="chart-categories"></canvas>
+            </div>
+            <div class="analytics-card">
+                <h3>Key Historical Figures</h3>
+                <canvas id="chart-figures"></canvas>
+            </div>
+            <div class="analytics-card">
+                <h3>Theological / Metaphysical Themes</h3>
+                <canvas id="chart-themes"></canvas>
             </div>
         </div>
+    </div>
 
-        <!-- Node Info Sidebar -->
-        <div id="nodeInfo"></div>
-    </main>
+    <!-- GRAPH VIEW -->
+    <div id="graph-view" class="view-hidden">
+        <div class="graph-explorer">
+            <div class="graph-legend">
+                <h4>Relational Explorer</h4>
+                <div class="legend-item"><span class="node-color concept"></span> Concept</div>
+                <div class="legend-item"><span class="node-color passage"></span> Passage Unit</div>
+                <div class="legend-info">Scroll to zoom • Drag to pan • Click to pivot</div>
+                
+                <div class="graph-categories">
+                    <h5>Categories</h5>
+                    <div id="graph-category-list"></div>
+                </div>
+            </div>
+            <div id="cy"></div>
+            <div id="node-info" class="node-info-panel view-hidden">
+                <button class="close-btn" onclick="document.getElementById('node-info').classList.add('view-hidden')">&times;</button>
+                <div id="node-info-content"></div>
+            </div>
+        </div>
+    </div>
 
+    <footer>
+        <p>&copy; 2026 Exegesis Semantic Browser • Powered by Cytoscape.js & Chart.js • <a href="https://github.com/t3dy/ExegesisBrowser" style="color:var(--highlight); text-decoration:none;">GitHub Repository</a></p>
+    </footer>
+
+    <!-- Scripts -->
     <script src="assets/js/app.js"></script>
 </body>
 </html>

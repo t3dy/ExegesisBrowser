@@ -1,0 +1,40 @@
+{
+    "top_overall": {
+        "Christ": 4855,
+        "Valis": 4249,
+        "3-74": 3099,
+        "Ubik": 1834,
+        "Thomas": 1540,
+        "Zebra": 1133,
+        "Anamnesis": 1048,
+        "Logos": 1001,
+        "BIP": 820,
+        "2-74": 779,
+        "Sophia": 702,
+        "Plato": 665,
+        "Gnostic": 398,
+        "Empire": 391,
+        "Gnosticism": 324
+    },
+    "top_figures": {
+        "Paracelsus": 53,
+        "Bruno": 52,
+        "Burroughs": 33
+    },
+    "top_themes": {
+        "Anamnesis": 1048,
+        "Pleroma": 102,
+        "Beethoven": 65,
+        "Zoroaster": 57,
+        "Jung": 55
+    },
+    "category_distribution": {
+        "Technical Vocabulary": 227,
+        "Theological Construct": 58,
+        "Metaphysics": 5,
+        "Narrative Artifact": 4,
+        "Historical Figure": 6
+    },
+    "total_terms": 300,
+    "total_mentions": 25445
+}

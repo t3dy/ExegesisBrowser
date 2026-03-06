@@ -28,50 +28,84 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
 
-            if (target === 'graph' && !cy) {
+            if (target === 'graph' && !state.cy) {
                 initGraph();
+            } else if (target === 'analytics') {
+                initAnalytics();
             }
         });
     });
 
-    // --- SEARCH LOGIC ---
-    if (searchInput) {
-        searchInput.addEventListener('input', (e) => {
-            const query = e.target.value.toLowerCase().trim();
-            cards.forEach(card => {
-                const title = card.getAttribute('data-title').toLowerCase();
-                const text = card.querySelector('p').textContent.toLowerCase();
-                card.style.display = (title.includes(query) || text.includes(query)) ? 'flex' : 'none';
-            });
+    // --- ANALYTICS LOGIC ---
+    function initAnalytics() {
+        if (Object.keys(state.charts).length > 0) return; // Prevent re-rendering
+        if (!state.analyticsData) return;
+
+        const ctxTerms = document.getElementById('chart-top-terms').getContext('2d');
+        const ctxCats = document.getElementById('chart-categories').getContext('2d');
+        const ctxFigs = document.getElementById('chart-figures').getContext('2d');
+        const ctxThemes = document.getElementById('chart-themes').getContext('2d');
+
+        const chartConfig = (type, labels, data, label) => ({
+            type: type,
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: label,
+                    data: data,
+                    backgroundColor: type === 'pie' || type === 'doughnut' ?
+                        ['#ffcc00', '#ff6600', '#00ffcc', '#cc00ff', '#3399ff', '#66ff66'] :
+                        'rgba(255, 204, 0, 0.6)',
+                    borderColor: '#1a1a1a',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: { color: '#e0e0e0', font: { family: 'Inter' } }
+                    }
+                },
+                scales: type !== 'pie' && type !== 'doughnut' ? {
+                    y: { beginAtZero: true, ticks: { color: '#888' }, grid: { color: '#333' } },
+                    x: { ticks: { color: '#888' }, grid: { display: false } }
+                } : {}
+            }
         });
+
+        state.charts.terms = new Chart(ctxTerms, chartConfig('bar',
+            Object.keys(state.analyticsData.top_overall),
+            Object.values(state.analyticsData.top_overall),
+            'Mentions'
+        ));
+
+        state.charts.cats = new Chart(ctxCats, chartConfig('doughnut',
+            Object.keys(state.analyticsData.category_distribution),
+            Object.values(state.analyticsData.category_distribution),
+            'Terms'
+        ));
+
+        state.charts.figs = new Chart(ctxFigs, chartConfig('bar',
+            Object.keys(state.analyticsData.top_figures),
+            Object.values(state.analyticsData.top_figures),
+            'Mentions'
+        ));
+
+        state.charts.themes = new Chart(ctxThemes, chartConfig('bar',
+            Object.keys(state.analyticsData.top_themes),
+            Object.values(state.analyticsData.top_themes),
+            'Mentions'
+        ));
     }
-
-    // --- FILTERING LOGIC ---
-    filterTags.forEach(tag => {
-        tag.addEventListener('click', () => {
-            const category = tag.getAttribute('data-category');
-
-            filterTags.forEach(t => t.classList.remove('active'));
-            tag.classList.add('active');
-
-            cards.forEach(card => {
-                const cardCat = card.getAttribute('data-category');
-                if (category === 'all' || cardCat === category) {
-                    card.style.display = 'flex';
-                } else {
-                    card.style.display = 'none';
-                }
-            });
-        });
-    });
 
     // --- CYTOSCAPE GRAPH ---
     async function initGraph() {
         try {
-            const response = await fetch('assets/data/graph_data.json');
-            const elements = await response.json();
+            const elements = state.graphData; // Use pre-loaded data
 
-            cy = cytoscape({
+            state.cy = cytoscape({
                 container: document.getElementById('cy'),
                 elements: elements,
                 style: [
