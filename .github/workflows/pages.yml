@@ -33,7 +33,14 @@ jobs:
 
       - name: Build portal
         run: |
-          python scripts/build_portal.py
+          # Only run the full pipeline if the source file exists (it won't in a typical public repo)
+          if [ -f "data/raw/exegesis_ordered.txt" ]; then
+            python scripts/build_portal.py
+          else
+            echo "Source data missing, proceeding with prebuilt docs/"
+            # Ensure docs exists and has content
+            [ -d "docs" ] || mkdir docs
+          fi
 
       - name: Disable Jekyll
         run: touch docs/.nojekyll
