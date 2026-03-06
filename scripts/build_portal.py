@@ -134,12 +134,7 @@ def build_static_site(data_dir, docs_dir):
         </section>
 
         <!-- Tab Navigation -->
-        <div class="tab-nav">
-            <button class="tab-btn active" data-tab="grid">Relational Cards</button>
-            <button class="tab-btn" data-tab="graph">Knowledge Graph (Experimental)</button>
-        </div>
-
-        <div class="tab-container">
+    <div class="tab-container">
         <button class="tab-btn active" onclick="switchTab('cards')">Relational Cards</button>
         <button class="tab-btn" onclick="switchTab('analytics')">Analytics Dashboard</button>
         <button class="tab-btn" onclick="switchTab('graph')">Knowledge Graph (Experimental)</button>
