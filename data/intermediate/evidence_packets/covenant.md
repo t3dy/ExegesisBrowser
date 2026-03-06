@@ -1,0 +1,344 @@
+# Evidence Packet: Covenant
+
+- **Category**: Top Term
+- **Total Mentions**: 71
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 807-815 (Match: 'Covenant')
+**Folder**: part segment
+
+```text
+Jesus spoke of a coming "Kingship of God" which, He said, "Is among you/ around you/ within you." It could arrive any time. When it arrives, many men, most men, won't know. Since God created this world in the first place, the angle of error may be slight, and the percentage which He must remove and change may be relative, small. Is all this world, every thing and creature and idea and object in it, objectionable to God and a produce of the Adversary? Obviously not. Suppose there were a subtle seizing of power, behind the scenes as it were, by the Rightful King. He would retain the present order by and large, disturb as little of it as possible, act in an economical way to take control. We might only sense that some oppressive power had departed; some burden and fear had lifted.
+
+That this has happened I am positive. That so little has changed shows how slight the angle of error, the element which had to be "burned off like chaff." Death still exists; Jesus and Paul always said that this body would have to live out its natural cycle and die away, for the other body to replace it, which comes later. The main thing is, This world is under control, now, and two main spirits reign: Truth and Justice, although they are of necessity unfolding in time (i.e. it takes time, because sequence is necessary). This world does not operate on its own, independently, and having fallen into the hands of tyrants and liars. Truth and justice lie at the heart, and work out judiciously, where needed; they now, in a distinct and real sense, although subtle, prevail, and nothing can ever change this; any set back, or any retention of the lie, is only apparent. We must not go on what is apparent; that was never a good index. But, in another way of viewing this, we can say that at last that which is apparent, which appeard to be, in actuality is. This was not true before. There are no further real secrets, and no further fake facade cardboard Thought-control hypnotis pseudo-reality managed and manipulated, no invisible empire of police and criminals and dangerous covert power. What meets the eye can be trusted, except that still hidden to most people is the heart, not of darkness, but of light; it is the pulse at the core of things, whereas not so long ago at the core of things rotten darkness stank and conived.
+
+We have a concentric-ring society, and the innermost ring has been burned off by the fire, has now been replaced by light, by God, and this is parallelled by a discernment outside, by those on the rim, that the Lord of Hosts has in fact suddenly come to his temple, announced by the messenger of the covenant whom we delight in...as Malachi put it. There was a swift arrival (mainly by Elijah), a swift victory over the darkness, a tossing down of the tyranny, and then the enormous judging and destroying power was withdrawn and replaced by an assisting and healing power. Advocacy for the weak and oppressed is no longer necessary, now that God rules. Healing (as if after a battle which was won) has been in order, and so done. Finally, the freeing of the many
+
+Last edit over 5 years ago by Harpax
+52
+Needs Review
+```
+**Co-occurrences**: Jesus, King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+
+---
+### Line 2024-2032 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+I read now that the Passover celebrates the Exodus -- i.e. the Jews leaving Egypt and slavery. Lamb's blood was smeared on their doors to show they were God's children.
+
+I also read that "Yahwen" is the causative form of the Hebrew vern to be and means, "He Who Creates" (brings into being). It tells us the nature of (this) Deity. Knowing that name enabled Moses to understand that this God was sovereign over (one) nature and (two) nations. You know, the damn plagues show Yahweh as a nature god, all right: frogs and bugs, etc. He (Yahweh) assailed Egypt with naturalistic events. Understand this: He assailt Egypt, the State, from outside, from the realm of nature. (Yahweh, remember, had manifested Himself to Moses out of the desert in the burning bush. The outsider god!)
+
+The "Moses" TV program sees Yahweh pitted against the state, to destroy it & its slavery; also it describes him, incredibly, as "the dancing god," and, "the god of the young"! The parting of the waters of the Sea of Reeds (called Red Sea by mistaken now) is also a nature-god event...I'm convinced; qed. Dionysos, again. Yahweh had delivered the Hebrews, so he had a claim on them, for them to do his will; this was a fealty oath of obedience between a superior (lord) and vassal. A contractual relationship, not slavery. What God gives, then, is love and care; he asks back subordination to fulfilling His will (which is reasonable indeed!). "He was concerned to protect the powerless Hebrews." This His rules enjoins --requires-- us to protect the weak & helpless. "And guarantee justice for them." This is the Covenant. (Plus else.) "To regulate the civil rights of the community." Rule by law -- what we here now need most desperately! This is the essence of worship of Yahweh.
+
+I just can't get over this that I saw (the TV "Moses" program episode dealing with the plagues and then their leaving Egypt):
+
+(one) The situation obtaining was one of slavery. (two) Yahweh, from nature-outside the state, pitted himself against the state in their behalf, to free them. (three) The angel of death came as a plague, and I saw on the screen the moment of terrible silence at night, before it arrived, and then the dog howled, and we saw the dog running. (four) I finally understood about the lamb & the blood of the lamb. (five) I finally learned that the Passover Feast celebrates the Exodus; i.e. the Hebrews getting away from Egypt & slavery. (six) This is not to forget that it is a vernal equinox festival as well; thus springtime equals deliverance from slavery, which we get updated in Xtianity as Redemption.
+```
+**Co-occurrences**: Christianity, Form, Well, Dionysos, Lord, Hebrew, Just, Realm, Again, Being, Moses, Himself, Jews, Their, Egypt, Most, Love, Before, Yahweh, Death, Finally, Will, Deity, Angel, Were, Back, Justice, Passover, Remember, Blood, Lamb, Free, Right
+
+---
+### Line 2071-2079 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+But God ordained Passover to be an annual festival of celebration: that one was spared; that one had been made free (Exodus); and I guess lastly if at all that the destroying angel got one's enemies. It is a festival of celebration, thanksgiving and joy: we have been delivered (from slavery & death and the fear of death).
+
+Did I experience a re-enactment of the original pass over by the destroying angel, or an actual reoccurence of it? The latter, since Pinky did die; it was not an anamnesis celebration. This is important, to determine this; if it was only a replay --a memory thing that rolled in my head, or an enternity date outside of time, not an actual current event in our space-time world-- then the tyranny, the modern slavery equal to Egypt's, was untouched. It was only a head trip on my part. Pinky's death proves it wasn't a head trip. I had no idea he was even sick. Maybe he hadn't been. The destroying angel was there that Sunday night in our bedroom. But I suppose I could be wrong; it could have been a re-enactment, playing the role of the Paschal lamb. This, if true, would point to Pinky as already being more than a mere cat/animal, which I was convinced of anyhow; in any case, I had encountered the Deity for sure back in March, and there unfolded for me, supra, as I say, the very steps (or some of them) unfolded for Moses, ending with the final most dreadful plague, the destroying angel at the tyrant's throats, and then - FREIHEIT! As with the Israelites, their deliverance didn't take place easily or over night.
+
+Lord, I will never hear the word "passover" again with the same quietude born of ignorance as to its meaning and origination. But what this "make" on the destroying angel Sunday night event does it show that: (one) I have always been right to identify this with Passover, and I wonder how I got started doing that, since Easter comes simultaneously. Because of Elijah? I guess so. That's all I knew; Elijah comes each Passover. Ach; there was death present at the first pass over, and there was death present at the Crucifixion. (Easter.) This is extraordinary. In Hebrews it talks about the second (new) covenant sealed with blood, replacing the first one (achieved twixt God and Moses). At the first pass over, God spared the innocent and killed the guilty (wicked). At the Crucifixion, the ultimately good and innocent man died, the guilty did him not, as well as being spared. All reversed! Christ equals, then,
+
+Last edit over 5 years ago by Harpax
+153
+Needs Review
+```
+**Co-occurrences**: Christ, Well, Lord, Elijah, Maybe, World, Since, Because, Only, Time, Harpax, Good, Even, Could, Does, Pinky, Anyhow, Hebrew, Again, Suppose, Being, March, Moses, Anamnesis, Part, Their, More, Egypt, Most, True, Easter, Death, Will, Deity, Would, Angel, Very, Back, Have, Memory, Passover, Blood, Lamb, Free, Final, Right
+
+---
+### Line 2079-2087 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+Needs Review
+153
+- 6 -
+
+those who died at the first pass over, which is the firstborn of the Egyptians. Amazing. What does it mean? He was the sacrifice, and a voluntary one. Now has there been a third passover situation, with Pinky et al as the sacrifice? Has a new colloquy, a third, begun between God and man, hence we can expect a third covenant now? Something to do with the ecosphere and animals? I personally know who sacrificed himself this time and it was my poor cat. My cat, though, already transfigured into a spiritual being (I stick to this). But also, the bells (sic) which I heard are more like Easter bells; perhaps it was a total experience of the first pass over end then, so to speak, the second, Christianity's. I say this: the dying (lunar god); he is the one who died on the cross, but he is not who died at the first pass over. I say this: My experience was very Jewish. Hmmm...and this ratifies it, this I've learned about Moses. However, consider: at the first pass over God delivered man from slavery to freedom; at the second event, the crucifixion, nothing happened of a social sort like this; frankly, from a social action standpoint it was a total failure. And in 1974, we had a destruction of the slave state and emancipation, like the [excised] Israelites obtained via Moses from Jahweh -- from the father, who can accomplish this (to son cannot; he can't even extricat himself). Ah! The the King is here, not the son ([excised] represented in THE BACCHAE as the stranger, which is to say, the high priest of the [excised] god or the messenger who preceeds him). It is the King, it is Yahweh; or else it is the King, it is Christ elevated to the power position he failed to use or have in Biblical times. God's power has breached the state. But this is a definition of the Parousia! Which may by why I mistook the pale light as an indication of the arrival of the Dies Irae! Wrath! Whichever it is, it is majesty and power; and according to Catholic doctrine, where power predominates, it is God, not Christ not the Holy Spirit. This was God. Jesus just mingles and they get him. But he was supposed to return with power. Returning (the Second Advent) he would be older, and changed and resemble the Father. It is interesting that both Yahweh and Christ, for totally different reasons, are "vernal equinox" deities: the former because of the [excised] Exodus deliverance, the latter because of the cycle of the lunar-grain god. So, via Passover/Easter, they are related. (Nisan 14 and on.) Via Passover/ Easter, then, there is made a relationship between the lunar-grain god who is killed (which includes Zagreus & Dionysos etc) and Yahweh, who adds to this impression by being a nature god. But He (Yahweh) is not a nature god who dies & is reborn; he is totally constant. "I am what I am." Perhaps when, for instance, we see Zagreus we fail to see that standing (so to speak) behind him his [is?] a greater figure: his father. The lunar-grain god is a "son"; there is also one such as Yahweh. If Dionysos et al are grain gods, there is also the one who created the grain & sustains it in the first place: the father of it and its god. We see the grain, and its cycle, but we do not see the immanent creatorgod who created it and maintains it; he is invisible. We do not suspect his existence because we take the universe per se for granted; he is so great that truly he is everywhere. This is the ultimate God.
+
+Oh yes; on that Sunday night of the pale white light -- I knew that it (the angel of death) was, specifically and exactly overhead. To it, we were on a plain below, a landscape. It was passing over us.
+
+Last edit over 5 years ago by wtutwiler70
+```
+**Co-occurrences**: Christ, Spirit, Holy, Jesus, Christianity, Holy Spirit, King, Parousia, However, Dionysos, Perhaps, Advent, Father, Like, Because, Time, Light, Even, Does, Pinky, Just, Something, Both, Zagreus, Being, Catholic, Moses, Himself, Great, Bacchae, Gods, Jewish, Nothing, Those, More, Such, Consider, Yahweh, Easter, Irae, Messenger, Death, Universe, Would, Angel, Were, Biblical, Very, Have, Freedom, Passover, Cross, Greater, White
+
+---
+### Line 2093-2101 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+Let us turn now to the dream in TEARS. The wise old king, who obviously is God, leads a posse for the purpose of having the man sealed up inside the shed killed. Was this a vision of the impending death to be delt out by God to the wicked one(s)? I.E.: the man in the shed who shrieked would equal the firstborn of the Egyptians. This would tie in the dream in TEARS with my 3 74 Passover experience, now that I understand passover as when God once dealt out death as a final attack to create freedom. It is God the stern judge; it is Dies Irae. Or is it? The shriek of the man sealed up in darkness, the whine of the dog -- it may be related, two aspects of one prophetic vision. Ah! "The four horsemen of the apocolypse! Mounted warriors serving God, dealing out plague & death!
+
+"Pass over," then, implies that one is part of an elect group, those which God has selected (and hence not afflicted or destroyed). I sense that it could never become a universal celebration, inasmuch as they were passed over by something out to get those not passed over; I mean, something did pass over, going elsewhere. God will get someone, a majority in fact. This is where the realization of being the chosen people comes from. One is changed by this realization. God has delt out death to others, but life to us. Our freedom is more important to him, justice for us is more important to him, than their lives. It must by intrinsic definition be a minority experience and realization. It must. Were a Christian to have it, he would regard himself as among the company of the elect in the sense of the saved, the vital remnant spared by God at the time of the apocalypse. First he would be relieved and joyous, but gradually the fuller implications -- what it pointed to for his future -- would come to his mind and flower. It would tell him indubitably what his destiny would be. It would not be a temporary sparing, a reprieve. After all, I am not a Jew. The only Christian experience I can relate this to is being chosen as part of the saintly or saved elect, and the destroying angel directly to divine judgment on the Dies Irae. I have been delivered as the Israelites were by the God who delivered them, and from much the same thing, and He handled the slave tyranny here in much the same way. I think Pinky died because for me to see the angel of death etc. it was necessary for the angel of death to actually be there, which he was (Pinky did die very soon, in 4 days). I was not told about the destroying angel; I was aware of him. I was not told I was passed over; I was passed over.
+
+In essence it seems to me that everything which happened, plus everything I figured out about what happened in the following months, indicate, more than they indicate anything else, that I was placed under God's protection. This is the core of it. Expressed in purely Christian terms, I was granted an extreme amount of grace during a crisis. Put in a Jewish way, my enemies were destroyed when they had about netted me. I therefore construe myself to ba a servant of God, having received from Him what He extends to His servants; I believe without knowing it I must have served Him faithfully in some way. God kept his part of the covenant which I did not even know existed. What relationship my experience bears to the Parousia can be seen when it is realized that the main event in the Parousia (literally the arrival of the King) is the breaching of time by God, His entering, which is exactly what happened to me down at my
+
+Last edit over 5 years ago by wtutwiler70
+155
+Needs Review
+```
+**Co-occurrences**: Tears, Christian, King, Parousia, Because, Therefore, Only, Time, After, Mind, Even, Could, Pinky, Something, Once, Being, Obviously, Everything, Divine, Himself, Jewish, Without, Grace, Darkness, Those, Part, Their, More, Actually, Irae, Death, Will, Would, Angel, Judge, Were, Very, Under, Have, Judgment, Life, Justice, Freedom, Wise, Days, Passover, Having, During, Dream, Final, Someone
+
+---
+### Line 3031-3039 (Match: 'Covenant')
+**Folder**: Book of
+
+```text
+which is important, and if this is so, one could expect a long period of time for people to accept or reject him, and so be judged.
+
+"...Leads to the empty tomb." (Degrees of sight or understand¬ ing, which culminate in this, or understanding this.) A transmutation of His physical body, not just leaving it. The tomb was empty; the physical body was gone. This is implied by what I heard, that /she will be reborn inasmuch as he/she was not killed on the cross; had he/she been, how could he/she be reborn? The entity departed. This is the greatest mystery of all. Where did it go? Back where it had been before birth: it was pre-existent. The empty tomb points to this; it, the entity, only sojurned here. Was not truly born as we are, but was an epiphany, a manifestation of someone eternal. The judge is feminine, like Ma'at — the girl with the feather. Now I think, How Egyptian was the cut of hair and face of the "Jack Vance's wife" whom I saw! And skirt! And slippers! ("You must put your slippers on/ to walk toward the dawn.")
+
+Mark 4:11 says that the parables were intended to confuse and not inform everyone except the desciples, the latter under¬ standing the esoteric meaning, the outsiders getting only the exoteric meaning which would fail to save them; this was especially true regard¬ ing parables about the approaching Kingdom of God. I keep forgetting this. How much of the real inner meaning has come down to us? The written gospels record probably mostly the exoteric parable meanings, not the inner core. Whether we like it or not, it is there in Mark (if not elsewhere), and this favors the view of an elect within the body of mankind. At least so far as Jesus went. Maybe now there is a Third Covenant which will include all creation or anyhow all men. I am thinking in particular of the grain of wheat sown into the ground to rise again, a mystery theme common to Greek mystery religions; in fact evidently the basic one. What it really means —to know this— enables the hearer to achieve what is achieved: eternal life. The how is contained, as well as the what. I think that in 3-74, at the height of despair and fear and grieving I stumbled into the Kingdom, stumbled around for a while and then stumbled back out, none the wiser as to how I got there, barely aware of where I had been, and no idea as to how I stumbled out, and seeking always to find my way back ever since. Shucks. Drat. If it wasn't the Kingdom I don't know what it could be, with its bells and the lady singing and the void, with the trash in the gutter glowing, and the golden rectangle doorway with the sea and figure beyond, and the moonlight. There were people living there, especially the lady. It was all alive. It had per¬ sonality. It explained everything to me. Now I don't see or under¬ stand anything. At that time I could even remember back to my origins. My real origins: the stars. What am I doing here? I forget, but I knew once. Amnesia has returned; the veil has fallen, back where it was. The divine faculties are occluded as before. Obviously I didn't accomplish it; I was given it, since I don't know how to find it again. "Man is not as wise as some stones, which in the dark, point toward their homes." My soul, sunk down in ignorance again. Blind & deaf. Ensnared by gross matter, limited. The long dark night of the soul is a lousy place to be.
+
+Heraclitus says the Logos can be heard. My goodness.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Logos, Jesus, Kingdom, Greek, Well, Golden, Maybe, Like, Since, Only, Time, Even, Gospel, Could, Anyhow, Just, Once, Again, Kingdom of God, Heraclitus, Obviously, Girl, Everything, Divine, Probably, Their, Soul, Living, Ground, Real, Before, True, Will, Would, Creation, Judge, Were, Back, Egyptian, Beyond, Under, Life, Body, Dark, Wise, Whether, Remember, Except, Cross, Evidently, Someone
+
+---
+### Line 3063-3071 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+234
+Needs Review
+234
+I've seen her, heard her, in many guises, and finally the name "St. Sophia." Gnostic revelation has broken through into my head in the modern world. I think anyone versed in Gnosticism who read my notes would say, "You're a Gnostic." I am not happy about this, but it is so, based on 3-74. Simon Magus lives. Also, it is a thoroughly Greek syncretistic system. I must go where truth (as I've experienced it) takes me; my experience is of St. Sophia. Well, this is a modified Gnosticism, with Sophia sanctified as Wisdom of Proverbs and the book "Wisdom," so that it can be made to jibe with the Bible; thus Christ becomes the female spirit Sophia in a male body, a syzygy. Ah! Yes! This is the complete person! The missing half which Plato wrote about. In Jungian terms, psychological completeness; psychic integration. Not either or but both and. At last; the repressed female goddess Prinzip breaks through into Christianity, in a Third Testement or Covenant. Father (0. T.), Son (N.T.) and daughter or mother (3rd T.). The first emanation from God, according to the O.T., so I guess daughter as demiurge (cf Plato). The Godhead remains behind her; I experienced that; she is the Pantocrator. Ma'at. Or rather Pantocratrix. Two aspects differ from Gnosticism: It is holy Wisdom, not just Sophia; and: she was born before and rejected, which identifies hers with Christ, hence the Logos. This restores the cosmological quality to the system, lost in Gnosticism; the creating spirit (universe creating) is holy & good, not fallen (blech). And this maintains Christ correctly as the Redeemer and Revealer.
+
+Pantocrator: ruler of the universe. Creator and Savior com¬ bined. Also judge. He is represented as holding a book, bound, of the Gospels. But if the Pantocrator is/was creator (which is so) then it is close to Gnosticism, with their Sophia as creator, but the same exactly as the Bible with Wisdom (or Christ) as the actual creator of the universe, rather than God. In a sense Gnosticism is a correct exegesis of the Bible (i.e. Proverbs 8 and "Wisdom"). (And Paul in assigning the role of creator to Christ, who equals Holy Wisdom.) The Gnostics were grappling with the problem of why the space-time universe is so inferior and we are cut off from the pleroma — the answer of the Christians being the fall of man by Adam. Why are we in this dim place when we once were in that bright place? is the q. for both. We were once there; it is a far better place; we are going back; our father is there; it is our natural home — all this is derived from revelation and has passed into general Christian belief (like in the spiritual "Going Home"). Anamnesis (as with the Orphics too) brings recollection of celestial origin. The continual unanswered question is how come we fell? Nobody knows, and none of the answers is convincing; they're all obviously guesses & myths and arbitrary. Recall the story about the son sent on an errand to a strange land, who forgets his origins and lives there believing he's a native, and then a letter comes from his real parents, which restores his memory (Book of Thomas?), and he starts the journey back. Why was he sent to the strange land? and why did he forget his origins? Really, there are two unanswered questions. Anyhow, that is the state of things: exile and amnesia. But also: the Redeemer who restores us to our original estate, which seems to be after death (I guess), or else in the coming of the Kingdom of God here, which doesn't imply after death but an as simulation of
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Gnosticism, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Orphic, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Journey, Things, Body, Memory, Jungian, Truth, Magus, Doesn, Pleroma, Answer, Simon Magus
+
+---
+### Line 5587-5595 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+My suspicions of long standing are correct - were correct: there is a simulating, non-human "mantis" race among us; what I never suspected was: 1) They are super not sub human 2) Good, not bad - +: 3) I am one.
+
+We are "factory representatives" (q.v. "Autofac") of the great mimicking organism - perapatetic extensions: we as individuals mimic as it (Zebra) as a whole mimics.
+
+In 3-74 I was taken off "homeo" + (like [Pellig?] in Solar Lottery) placed on "hetero" - controlled by the master circuit entity. That is what took me over: my source, of which I am an expression, + my autonomy from it a mask, an illusion. "My yoke is easy, my burden light" [Matt 11:30] "The Lord of hosts will suddenly come to his temple - the messenger of the covenant whom ye delight in." [Mal 3:1] "In that day when I shall act." [Mal 3:17] What I forgot is that "Kingdom of God" really means "kingship of God" - it is he whom Christ called "My Father" + of whom he said, "My Father + I are one." [John 10:30] + so it is said, "Christ is the head of the (total) body, of which we are members."
+
+Last edit over 5 years ago by wtutwiler70
+10
+Needs Review
+```
+**Co-occurrences**: Christ, Zebra, Kingdom, Lord, Father, Like, John, Good, Light, Kingdom of God, Great, Messenger, Will, Kingship, Were, Body, Suddenly, Human
+
+---
+### Line 6986-6994 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Toso
+32
+Indexed
+32
+Eye of Horace Xtian fish Eye of Horace Tetraktys Construct camouflaged. Infiltrated our media. Fires Colors Light. God, you live. {Note} Pi Man Kabbala The tabernacle The Arc of the covenant This is YHWH, Lord of lords Greek to Hebrew, now I find God –the infinite– Durch Furcht + Pein und Sorg, YHWH ich finde. Ich glaube - lass mich gehen. Herr, ech knecte der Berg. If I could understand no other way. Ach oimi
+
+{Note:} I have found you - ah weh!
+
+"Faith of..." Agnus, a Peccata Behind the [alb] is Isis (lute) Orpheus lyre in "Tears"
+```
+**Co-occurrences**: Tears, Christian, Toso, Indexed, Fish, Greek, Lord, Faith, Light, Could, Hebrew, Other, Have
+
+---
+### Line 10684-10692 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+Last edit about 5 years ago by sekennedy62
+125
+Complete
+125
+back - must have it back: the new covenant, the person who is injected is a servant of the macro mentus, + rightly so. He is part of a corporate entity: [..] supernatural cephelus, + a transtemporal corpus voluntarily serving the superior (divine) will in whatever way it urges. He (the person) will be prompted by it, +, if he's very lucky, he may entering verbal dialog with it - may hear its voice. +, when he is in hopeless trouble, the macro entity can save him.
+
+How thrilling - when the person encounters the other like himself at different times in history who are receptables of the macro organism; he is bonded to them in invisible fraternity. A secret brotherhood spanning thousands of years! + communication among them is possible. Although I can't prove it, I'm convinced that in my writing I'm laying down hints, communications, + clues to future "style" - whether I mean to do this or not. My sense of the counterfeit nature of empire or world around me probably stems from a viewpoint somewhat above an "individual stylus" locus; reality seems to me to contain other, different realities to me because of my membership in the - or one of the - supra temporal + hence plural - world macro entities. Obviously there must be other like me, in the past + in the future. Only for those who are linked supratemporally through a "radius bar" (orthogonal) macro-entity could make sense of the irreal in the real make sense, resonate.
+
+But! I am (already) in my writing revealing that Zebra (+ what it does) is here. To solve the epistomological puzzles which my writing raises, one must be led to posit Zebra, as I eventually felt the thrust of the writing lead up to it. I hate to belabor this, but "Tears" is the really pregnant one.
+```
+**Co-occurrences**: Tears, Zebra, Complete, Empire, Like, World, Because, Only, Could, Does, Reality, Obviously, Although, Divine, Himself, Corpus, Probably, Those, Part, Through, Real, Voice, Secret, Macro, Will, Other, Very, Back, Whatever, Have, Whether
+
+---
+### Line 11205-11213 (Match: 'Covenant')
+**Folder**: part goes
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+76
+w 76. +, as one result the "St Sophia" scenes were added to "Deus Irae" + it was published (as well as "Scanner"). Then 3-74 represented a (i.e. the) plan vs no plan (rather than good us bad, etc). + all along the previous linear time path of my life preperation. (Teachings, messages) were laid down in me in anticipation of that day. I'd sure be interested to know more about the Xerox missive. But anyhow, God's grace or providence enveloped me in 3-74 fully. But a long history stretched back before it. of course I know perfectly well that there was some connection between "Tears" + 3-74 - in fact I know (supra) what "Tears" contained: the truth about where + when we really are. It boldly indicted the spurious interpolations (delusions), so of course a shaft was fired at me. Noos, which had placed the material in "Tears" in the first place, protected me (as in a covenant.). So the real substance lay in "Tears" + not the Xerox missive I had gotten the information out - encyphered but Nonetheless there. (+ I must not ignore the other stories + novels which came earlier - vide supra). + this Noos vs ananke fits my "vigsaw puzzle" scrap reap being used for parts for a structure: Noos is building a cosmos with in an essentially chaotic realm. Each part goes it - gets fitted in place - when the evolving structure is ready of for it. It is extracted out of the irreal + the irrational genuine parts for its structure (loob)
+
+Last edit almost 3 years ago by svayambhu108
+77
+Needs Review
+```
+**Co-occurrences**: Tears, Xerox, Sophia, Well, Scanner, Time, Noos, Good, St Sophia, Anyhow, Realm, Being, Missive, Xerox Missive, Deus, Grace, Part, More, Real, Nonetheless, Before, Irae, Other, Were, Back, Life, Information, Deus Irae, Truth, Ananke
+
+---
+### Line 16358-16366 (Match: 'Covenant')
+**Folder**: folder 20
+
+```text
+Complete
+folder 20 - 005
+4
+
+"...until the fulfillment of my covenant; when I will save thee + bring thee back again into the garden, into the abode of light which thee longest for, wherein is no darkness. I will bring thee to it - in the kingdom of heaven. All this misery that thou hast been made to take upon thee because of thy transgression, will not free thee from the hand of Satan, + will not save thee. But I will. When I shall come down from heaven, + shall become flesh of thy seed, + take upon me the infirmity from which thou sufferest, then the darkness that came upon thee is this cave shall come upon Me in the grave, when I am the flesh of thy seed. + I, who am without years, shall be subject to the reckoning of the years, of times, of months, + of days, + I shall be reckoned as one of the sons of men, in order to save thee." ___
+
+Thus the occlusion of faculties, but the promise of restoration, back to the garden, which is the Kingdom. It is specifically said, we are now in a dark prison which is small - + the garden was vast. (Cf. my sense of augmented space in 3-74, as well as my perception that we were living in a prison; + then eleven months later I was briefly in the Garden.) So small dark prison + perceptual occlusion vs vast garden of light + full perception: 1) BIP vs the PTG 2) Occlusion (blindness) vs seeing what is afar [Note] Exactly what I experienced.
+
+[Note] i.e. higher levels of creation!
+```
+**Co-occurrences**: Complete, Kingdom, Satan, Well, Because, Prison, Folder, Garden, Light, Again, Without, Darkness, Living, Heaven, Upon, Will, Creation, Were, Back, Dark, Later, Days, Sons, Free, Until
+
+---
+### Line 21193-21201 (Match: 'Covenant')
+**Folder**: part one
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+91
+s which I called transsubstantiation, the de vouring of world by Valis? Thus time will be or is started up again. Just as manfrea's view proliferates in "MTs So the introduced microcircuit [newness] (the little boy Philip on the raft) invades the complex by invading the minds of the complex, + of course it knows it's being invaded (it would call it contaminated"). As with Taverner in "Tears," or: the total mind miniaturizes itself + sends itself into its own complex to explore it from withing after a time the miniaturization reports back the precise degree (nature or state) of ossification. The mind is receiving a number of such reports. It Acts to weaken the ossification + start time up within the complex, The miniaturized "representative" remembers its true identity as soon as its job is done. Again it is in contact (dialog) with the total mind (Logos). the total mind rescues it from the trouble which its report has gotten it into. For years the miniaturized "representative" has had the impression that the world it is in isn't real, that it's somehow fake. - its own mind - as a dissolving It sensed itself agent vis-a-vis this world. Perhaps it had not only the task of reporting conditions but of dissolving con‐ ditions. The recent revelation, "we adopted you (because you adopted the children at Covenant House]" shows that primarily their mission toward one was, as I thought originally, one of interventive rescue; it was not what I did (accomplished), but what they did for me. The significance of my life does not lie in any supernatural plan which I fulfilled but rather in the exercise of Divine providence in my behalf. I have kept seeking to know what it was that I did; what I did was the adoption of the rids - which came after the intervention in my behalf in 2-3-74.
+
+Last edit almost 3 years ago by svayambhu108
+92
+Needs Review
+```
+**Co-occurrences**: Valis, Tears, Acts, Logos, Perhaps, World, Because, Only, Time, After, Mind, Taverner, Does, Just, Again, Being, Divine, Philip, House, Covenant House, Their, Real, Such, Revelation, True, Will, Would, Mission, Somehow, Back, Have, Life, Fake
+
+---
+### Line 21199-21207 (Match: 'Covenant')
+**Folder**: part one
+
+```text
+Last edit almost 3 years ago by svayambhu108
+92
+Needs Review
+92
+90 this, then, is a terribly important revelation. Empire: an ossified complex (circa Acts). Christ: random variable: newness. A dissolving catalyst. This is the essence of it. Into this frame of reference I (e.g.) fit. No time has passed for the Empire in 2000 years, but for the true Xtian, time moves. He - the true Xtian - is in a magic Garden Kingdom, post mortem in nature. The specific power + magic of Xtianity is time passing - i.e. the BIP the complex, dissolving. The Empire, since it is a complex, is psychotic - i.e. irrational. Into this, Valis the rational, is introduced; it invades the irrational dissolves it. This is what I saw + what I do + am. This condition is what "Tears" d picts: Taverner is like the variable man. vs the ossified Empire thought material in "Tears" made to look like code but not really code. But done so by whem? by "fred." Two psychoi - i.e. "Thomas" the dream: they were looking for matered in scanner" - but that is after '74. The article in "The real world." He died for one (Christ, my guide); the cosmic [determinist] machinery was aborted (deflected, short-circuited). I was scheduled to die + did not, through This sacrifice for me, in my place. As they told me A couple weeks ago: because I [later] adopted the childhen at Covenant House. my love came
+
+Last edit almost 3 years ago by svayambhu108
+93
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Tears, Acts, Christian, Thomas, Christianity, Kingdom, Empire, Scanner, Like, World, Since, Because, Time, After, Cosmic, Garden, Taverner, Look, House, Covenant House, Through, Real, Love, Revelation, True, Were, Later, Magic, Dream
+
+---
+### Line 21298-21306 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+109
+Needs Review
+109
+107 inscribes its writing onto it is clearly deity. If we are ever to become aware of deity most likely it will be in this way. 1) Reorganizes reality (improving it. 2) including inscribing words on it Even without theological knowledge we are instinctively aware that this is deity. Two things are involved: 1) repairing a decomposing (dying) world + 2) communicating or at least thinking aloud. that which repairs decomposing reality thinks, + that which thinks repairs decomposing reality, much is implied here. Unless we are to presume an artificial construct we must assume that we are experiencing "hieroglyphs" of God - if we are ever to get proof (evidence) of God it would be in such forms as this: repair + communical on. At least this is my understanding of what is meant by "God." There is no anthropomorphism. no hominoid figure: this is the ubiquitous artificer who is pure intelligence as well as artificer, + that he repairs shows him to be benign: he is good, he knows + he has power over reality + he seems to be everywhere (cf Xenophanes): He is distributed throughout the landscape - who else, then, but God" Also, as in 3-74, he impinges directly onto my mind; the voice written texts + visions are in me. My mind is not solus, suddenly; there is a dialog in which he instructs me. + I am protected + adopted - as to the latter, the reason given for this is a reason which conforms with what scripture tells us as to why God adopts humans (broadly speaking). It is the essence of the Hittite covenant where the powerful protect the man weak. This was moses' basic understanding of relationship to God, + was
+
+Last edit almost 3 years ago by svayambhu108
+110
+Needs Review
+```
+**Co-occurrences**: Form, Well, World, Good, Mind, Even, Reality, Moses, Without, Most, Xenophanes, Such, Voice, Will, Deity, Would, Clearly, Things, Unless, Knowledge, Suddenly
+
+---
+### Line 21304-21312 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+110
+Needs Review
+110
+108 Then axiomatically to be extended by strong men to weaker (less fortunate) men; viz - as God to man:: mants weaker men based on the principle that it is the basic duty of the strong to protect the weak - This is the Hittite covenant in res summate That's right - a long time ago the AI voice described itself as my tutulary - i.e. protecting - spirit! It is the Hittate Then my covenant of the God of thoses' childhood dream, upon reading the Bible (the O.T. specifically) is realized! + the idea of adoption links it to the N.T. as well. Here an elevation of the man adopted in implied i as I saw in 3-74, reality is made up of two parts: 1) a devolving regressing mass 2) onto which a divine power ubiquitously Acts. These two parts are shown in "Ubik" Hence "Ubik" is true. Ubik is the source of the written messages which show up in "Joint" +" Exe." In "Ubik" I got it right. Two parts to reality: 1) a regressive "inferior bulk" + 2) divine power + messages inserted everywhere into it. Sophia? The trick is getting the two components to disentangle is to somehow die to the world, whereupon it devolves away off into The past, leaving you in touch with the divine which does not regress. Again, I had this right in "Ubik" - the strange half-death or death which leaves you - I know what I alive - in a second birth? Wait did: I speeded up + got out of synch with world so that in relation to me it regressed.
+
+Last edit almost 3 years ago by svayambhu108
+
+111
+```
+**Co-occurrences**: Acts, Ubik, Spirit, Sophia, Well, Bible, These, World, Time, Joint, Does, Again, Reality, Divine, Wait, Voice, Upon, True, Death, Somehow, Dream, Right
+
+---
+### Line 21391-21399 (Match: 'Covenant')
+**Folder**: part ended
+
+```text
+Last edit almost 3 years ago by svayambhu108
+125
+Needs Review
+125
+123 the Gold metal reminded me. + this crime I comitted which got me sent to this [prison) planet is balanced by my compensatory drive to give my money (Gold) away. + this is why my giving money to the kids at Covenant House broke my karma + caused them to "adopt me - i.e. stop the punishment + accept me back (hence the AI voice). This fits brad Steiger's star seed theory, but with modifications, Thomas" is my original + real personality who committed the crimes, he is very shrewd + hard headed the Golden Fish - exactly the kind sacred objects which I had melted or down for the Gold - which is why it set off anamnesis. So I am an inglorious exile to this planet, to work my way back to my original moral state + race + home. I've been here thousands of years, born again + again, but this time I short circuited (or burned up) my karma through the mediation of Christ (in my act of giving to Covenan house + the kids). This is what 3-74 was all about. I guess my crime was not just materialism + greed but sacralidge. I converted the spiritual into the physical, + so, to set the balance right, have had to - on my own volition without memory - learn to convert the physical (material) into the spiritual. (although this was the solution it was preceeded by mere punishment: penury. That part ended. Thomas, my original self, certainly is a sharp operator. I (PKD) balance his acquisitive proclivin lies; together we are a balance syzygy.
+
+Last edit almost 3 years ago by svayambhu108
+
+126
+```
+**Co-occurrences**: Christ, Thomas, Fish, Golden, Golden Fish, Prison, Time, Karma, Just, Again, Although, Self, House, Anamnesis, Without, Covenant House, Part, Star, Through, Real, Gold, Voice, Certainly, Very, Back, Have, Memory, Right, Sacred
+
+---
+### Line 21396-21404 (Match: 'Covenant')
+**Folder**: part ended
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+126
+2 my - Thomas - original crime was an indication of a deranged psyche. It had to be reprogram med, + it had to find its own way to rectitude, by free will. It could not be ordered to convert the material into the spiritual; it had to will this, voluntarily, by an act of sincere choice without knowing that in so doing, it would save itself + restore itself. This certainty explains the syntonic superio position of the BIP: this is a black Iron Prison o (world) for me! Christ works here to effect the pardoning + release - restoration + return, inc anamnesis - of prisoners; he has the power to commite sentences - or to judge when restoration is achieved. He ruled that my giving to Covenant House was sufficient, + my remaining term of servin tude - or Karma - was obliterated, + in advance of my action! (4 years in advance.) Had he not intervened, I would have died in 1974 + been unable to rectify for my crime, + so would have had to be born here again; but now that is unecessary; I am free to return. Rome. Hence his intervention did not cut the time short by merely 4 years but by - well, perhaps I wouldn't have rectified in the next in carnation either; it could have dragged on + on So I was right: Christ intervened in 2-3to extend my life, to overrule my fated death at that time, but in addition there was a very specific reason: if I lived on into 1974 instead of dying in 1974 I would rectify my prim ordial transgression + be freed permanently from Karma, the wheel of rebirth + death, + can go home. What I had to do I had to do for totally disinterested reasons; so I could not know of my primordial crime + slow returned
+
+Last edit almost 3 years ago by svayambhu108
+127
+Needs Review
+```
+**Co-occurrences**: Christ, Thomas, Rome, Well, Perhaps, World, Iron, Prison, Time, Black, Karma, Could, Again, Black Iron Prison, Either, House, Anamnesis, Without, Covenant House, Death, Will, Would, Judge, Very, Have, Life, Instead, Iron Prison, Free, Right
+
+---
+### Line 21402-21410 (Match: 'Covenant')
+**Folder**: part ended
+
+```text
+Last edit almost 3 years ago by svayambhu108
+127
+Needs Review
+127
+125 So thwarting my fated death (ananks) in 1974 + extending my life was not the goal of Christ's intervention in 2-3-74, but a means to a of much more important - permanent - end: that makes karmic restitution + salvation itself. This my it clear that my salvation was desired, not punishment. In a sense there was no punishment per se my actions in 1978 vis-a-vis Covenant House also caused me to enter dialog with the AI voice who is someone back home, so even now - even back in 1974 - I am/was restored to contact with my own race. This has made my life a happy one, + I've seen what she looks like The strategy to save my life in '74 was to temporarily restore my original personality (who I call Thomas), who could then deal with the problems at hand. It worked then I returned, + resumed my largess, which was also necessary my punishment - compelled to give away all the money I ever had - led to/was my mechanism of salvation (re Covenant House.) (Which was not an accumulating quantity but a precise reversal of the original baleful transmutation of the spiritual into dross metal.) (The motive had to be precise, + The result precise, to balance the original crime of degrading) (so helping the poor or needy would ar be a precise analog of my original crime, however well intentioned. The reversal of degradation was essential.) (in the rectification, "Gold" + "sacred symbol" are rendered into the set of human dross metal vs human uplifted to dignity, a series of analogs.) It is kether who is the dying soul in cold-pal; he disdained his crown + so he descends through the sefiroth below him, dying (v. "Ubik") until he reaches the trash layer + the Shekhina (the AI voice) + can see his crown (the Gold fish in 2-74 as he should see it, + be led back to his throne."
+
+Last edit almost 3 years ago by svayambhu108
+128
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Thomas, Fish, Well, However, Like, Even, Could, House, Covenant House, More, Through, Soul, Shekhina, Gold, Voice, Death, Would, Back, Life, Human, Karmic, Salvation, Someone, Until, Sacred
+
+---
+### Line 21541-21549 (Match: 'Covenant')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+151
+149 writing is both important + unique. + it explains what happened to me in 2-3-74; as an early Xtian I was born again (or born from above or born in/through / by the spirit) + thus leased to be in the pseudo-reality but rather in the Kingdom of God + experienced God + regained my repressed memories. The Fall is understood, +, more portant, reversed, + the faculties lost or impaired in the Fall restored (v. Calvin). (v. my exclaim "I am no longer blind!" a one of the most promising aspects of this model is that it incorporates the "they are all lying inert + unconscious + imagining reality" theme - obsession - in my writing; + the value of this is to include it as a factor in what took place in 2-3-74 inasmuch as I am sure that it played a role. + I was freed in 2-3-74 because I broke my Karma, my karmic punishment, by what I did later in 1974 by sending help to Covenant House. If you wake up ("wachet auf") you are free have the power - to break the karmic hold over you. You can escape the "taped" programming of your memories + get to a place which is actually new If your memories came back you'd recognize present reality as them. Or, if you recognized present redity as prior memory, it might induce general total massive anamnesis ( This explains the future memory 3-74 "dissociative" behavior; (knowledge) of based on unconscious Xerox "Future" memories what the missive) missive memories were drawn ist upon to âž€ + an understanding present situation ow of
+
+Last edit almost 3 years ago by svayambhu108
+152
+Needs Review
+```
+**Co-occurrences**: Christian, Spirit, Xerox, Kingdom, Fall, Because, Karma, Again, Kingdom of God, Both, Reality, Missive, House, Anamnesis, Covenant House, More, Through, Most, Upon, Actually, Calvin, Were, Back, Have, Memory, Later, Knowledge, Karmic, Free
+
+---

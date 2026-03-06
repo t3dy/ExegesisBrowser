@@ -1,0 +1,345 @@
+# Evidence Packet: Tree
+
+- **Category**: Top Term
+- **Total Mentions**: 32
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 54-62 (Match: 'Tree')
+**Folder**: part of
+
+```text
+Ruffie Rat; that's what Tessa calls herself, also without realizing how these lives live on from the past.
+
+I think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND IN THE WILLOWS, to God. ("A motorcar???")
+
+God has returned. Resumed his Kingship (the Kingdom of God has been restored, here). I saw it --him-- in the alley, as I walked. I never saw that before because He was gone from her; or rather, our eyes were "dead," i.e. we were blind. He is with us again, as last night revealed; as soon as I got stoned and wint in to pray when I glanced up I saw two huge tree-trunk legs and shoes/feet -- a Great Man standing between me and my shrine. He was there...like I saw Mrs. Donlevy. ("God of the House of Levi".) (Discarded shoes on the beach...tennis shoes -- but huge and filled, but mostly the tree trunk legs. So dense. He remains here.)
+
+I forgot; only after that did I see anything else (e.g. Dionysos). My experience wouldkn't have been possible in our lineal time prior to March 1974. (He wasn't here.) And He remains; hence they can reoccur.
+
+(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.
+```
+**Co-occurrences**: Rome, Kingdom, Well, Dionysos, These, Like, Because, Iron, Only, Time, After, Just, Again, Kingdom of God, March, Great, House, Without, Tessa, Before, Kingship, Were, Have, Dead
+
+---
+### Line 244-252 (Match: 'Tree')
+**Folder**: book of
+
+```text
+Last edit over 5 years ago by Toso
+14
+Indexed
+14
+Handwritten notes in PKD’s hand: A Light struck meadow for Tony Hiss & the Real World. Hark! Each tree its silence breaks – Nicholas Brody 1692
+
+When I met Theodore Surgeon, who wrote MORE THAN HUMAN, this good man said to me right off, “What sort of universe is it that causes a man like Tony Boucher to die of cancer?” I had been wondering the same thing ever since Tony Boucher died. So had Ted Sturgeon, although he didn’t expect me to give an answer. He just wanted to show me what he – Ted Sturgeon – was like. I’ve found I can do that, too; let people know about me by asking that. It shows that I cared a lot about one of the warmest people who ever lived. Tony was warm and at the same time when he stood in the midst of a group of people, seat came out of his forehead from fear. Nobody ever wrote that about him but it’s true. He was terrified all the time. He told me so once, not in so many words. He loved people, but one time I met him on the electric train going to be opera and he was scared. He was music critic and he did reviewing for the New York Times and edited a magazine and wrote novels and stories. But he was scared to take a drive across town.
+
+Tony loved the universe and the universe frightened him, and I think I know where his head was at. A lot of people who are timid are that way because they love too much. They’re afraid it’ll all fall through. Naturally, it did with Tony. He died in middle-age. Now, I ask you, what good did it do him to be scared? He used to carry his rare old 78 records to radio station KPFA every week wrapping them up in a towel so they wouldn’t get broken. One time I decided to give Tony all my rare opera and vocal records, just plain give plain give them to him as a gift of my loving him. I phoned him up. “got Tisne Lemnitz records and Gerhard Husch,” I told him. Tony replied shyly, “They are my idols.” We was a Roman Catholic – the only one we knew – and that was a strong statement. Before I could get the records to him he was dead. “I feel tired half the day,” he had added. “I can’t work as much as I used to. I think I’m sick.” I explained I had the same thing. That was eight or so years ago. The doctor told him he had a bruised rib and taped it up. Someday I will meet that doctor on the street. Tony got bad advice from everyone who could talk.
+```
+**Co-occurrences**: Toso, Indexed, Roman, Like, World, Since, Fall, Because, Only, Time, Good, Light, Could, Just, Once, Catholic, Tony, Although, More, Through, Real, Love, Before, True, Universe, Will, Many, Electric, Sturgeon, Dead, Human, Right, Answer
+
+---
+### Line 347-355 (Match: 'Tree')
+**Folder**: book as
+
+```text
+Complete
+22
+After all, not all seeds are planted as wheat grains are... there are those concealed whithin ripening fruit: the seeds of the various shrubs and trees. The fruit around them is to entice and to hide.
+
+We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus died as any man dies -- but another Christ, and probably another Paul were born out of and after that. Rebirth does nor mean to return as you were, in a mere cycle; this is where the wheat seed could not have been a wheat seed, because Jesus specifically says that on its own the grain of wheat leads a solitary life, and after it is thrown into the furrow (the grave) it is reborn differently, into a communal life. "Reborn in glory and no longer alone." A single vast plant "the mustard tree in which birds roost" will come about; I think this is what we call the noösphere, and I myself have already entered it.
+
+In March it took me over totally; I was a spectator to my dream in waking life, as it awoke.
+
+If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
+```
+**Co-occurrences**: Christ, Logos, Jesus, Complete, Paul, These, Because, Only, After, Could, Does, Again, Zagreus, March, Runciter, Probably, Those, More, Another, Living, Real, Voice, Death, Will, Deity, Would, Were, Have, Life, Claudia, Testament, Dream
+
+---
+### Line 482-490 (Match: 'Tree')
+**Folder**: book about
+
+```text
+Complete
+30
+Jane Harrison in her PROLEGOMENA TO THE STUDY OF GREEK RELIGION, discusses the notion that Dionysos was the same as the ancient Greek philosophical principle of moisture, which makes me recall that the Egyptian god of death was in more precise terms the god of desiccation, the god Set or Sit. Here in the one short stanza of Pindar we have flock, we have trees, we have in addition to these two major symbols of Jesus, terms by which all the exoteri recognize him yet, two more inner terms: the root and the star.
+
+Dionysos appeared to the Greeks in vegetable form (root, tree, vine) and animal form (bull). He could influx himself into a human being and be him or her as well, as you and I know. What are names? This is the god of in-toxification, taking in poisons in a quantity small enough not to kill you but large enough for you to be lifted up to see outside space and time, and to come into a relaitonship with those vast powers who run the universe.
+
+And then later, "...He is drunken with music, not with wine." (Jane Harrision.) By stealthy degrees Dionysos became Zagreus and then Orpheus. The trouble with Jesus is that he isn't musical. I guess they could use lipsynch, but the fact is, Jesus is Orpheus, and Christianity is the next mirthful dodge which the Loving Dodger has worked on us, those whom he loves. I have this vision of Him: much like the Hurdy-Gurdy Man: I see Him invisible to us behind us as the flock moves on, and I see small stragglers and old stragglers and stupid stragglers and sick stragglers and stragglers in general who have given up hope or lost energy and have given up to perish as the flock or pack or herd or culture or race marches on, without a look back. And sparkling with light and silently, He emerges and without breaking stride gathers up all the stragglers.
+
+Since the flock never looks back or turns back it never sees Him. This is why Luther accurately called our God the "God of the very desperate." This is why the image of the flock and the lamb which has wandered off appear in our sacred writings, and others which refer to this archtypal rescue in stealth. Because of course if the flock knew, they'd stop trudging along and just stand or go back. They're not to know.
+```
+**Co-occurrences**: Jesus, Complete, Christianity, Form, Greek, Well, Dionysos, These, Like, Since, Because, Time, Light, Could, Just, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Very, Back, Egyptian, Have, Later, Luther, Human, Lamb, Sacred
+
+---
+### Line 1408-1416 (Match: 'Tree')
+**Folder**: book certainly
+
+```text
+since it could now really be an isolated thing; it pointed to an entire network of which it was representative (an accurate a sampling, although involuntarily so). Thus by revealing itself, evil destroyed itself (it had too much "bulk" to remain camoflaged any longer). Thus we can see the purpose served by the stage, in the Parousia, when evil is no longer restrained but can advance at will; it thereby exposes itself to the light, and those who are against it can discern it, finally. This so stengthens them that its defeat is forthwith assured. (It is identified with the Lie and shuns the light of day.)
+
+This really is a prime discovery, because it vitally assists me in understanding "Why me?" It has to do with my commitment to and involvement with The Game. This was not withdrawn, contemplative or mediative state, which produced this, but myself as homo ludens -- and awareness of myself as homo ludens. Zoroaster was right; we are most in deadly earnest. To be aware of it, to raise above it, is to see how serious it is. I, when aware, was even more --in fact totally-- involved[.] I saw/see the world as battleground, and myself as soldier devoted to truth, justice, freedom, joy.
+
+. . . The Rome which I saw in 3 74 was like the world of FLOW MY TEARS. But that is like GULOG. Did I see Gulog, then, in 3 74? The "Rome" tyranny is soviet and it is here? (How could what I saw be all there things? Roma circa 45 AD, Gulog, TEARS? Somehow they are the same -- in essence, in ontology, not accidentals. Was what I saw not a domestic tyranny, or rather, our domestic tyranny --I mean the Nixon regime-- was it in fact soviet? After all, the immediate threat to me was Soviet...I mean, the immediate threat was Nixon CIA anti-soviet[,] I mean both. I mean I saw them as the same. Another case of "either A or not-A" transcended, a sort of evil version of the "Secret Partnership," in which that which is absolutely opposed here is together as partners in the next level up, and you see the latter suddenly instead of the former. Glak. That certainly makes TEARS a remarkable book: it present a true picture of the essence of the US, a police state, but the paradigm is obviously not anti-soviet but soviet. What are we to make of this? US imperialism and soviet leftest tyranny are twin branches from the same tree, and that tree's name is Imperial Rome. Tweedledum and Tweedledee. (The archetypal from is identical for both.) (Thus in my dream I see Agent Payne as soviet KGB cop.) You have to strip away all the accretions, get it back to Roma c 45 AD to see the ontological identity. Wow, what a realization! No wonder I kicked ass re both groups. No wonder I feel the same way toward both soviet and US fuzz. Well, this always was at work in producing my worldview in 3 74, the fact that TEARS had just been released. I waited for the stealthy enemy to surface; he did: as the US Army (the 232 copies of TEARS they bought) and the Xerox KGB letter. I had to pass retrograde layer after layer to receive an outright vision of this, that I could then understand (i.e. understand what I had written & its meaning). The real meaning: Imperial Rome is back -- back here, back in the USSR. The true enemy is this, and our friend is the same Friend: the Christian underground, which is why I sent that $5. This is the what that I saw; the Who [W]hich showed it to me is God Himself (the Logos) (the Savior). But there was for sure a second vision one year later: positive: "Santa Sophia will be reborn; she was nor acceptable before." And the beautiful Levantime scene of palm trees and open places, and Springtime (ending with the dythramb and Rightful King returning).
+
+Last edit over 5 years ago by Harpax
+99
+Needs Review
+```
+**Co-occurrences**: Tears, Christian, Logos, Xerox, Rome, Sophia, King, Well, Parousia, Like, World, Since, Because, Nixon, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Secret, Before, True, Santa Sophia, Finally, Will, Somehow, Back, Have, Things, Justice, Freedom, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+
+---
+### Line 1441-1449 (Match: 'Tree')
+**Folder**: Unknown
+
+```text
+We could perhaps equate the One with God; Nous with Christ as Pantocrator, but Soul would have to go. In any case, to so equate God with the One, Christ with Nous, would be to abolish their equality in the Trinity, and to turn toward the JWs beliefs. However, Christ is said to be the Mediator between God and man, and that view does seem to coincide with the structure of Plotinus; also, I read in "Wisdom" that wisdom is the first emanation of or from God, and if Wisdom equals Christ, then we do have the same general structure as Plotinus gives. I'm going to wing it and say that the Cosmic Christ, St. Sophia (Holy Wisdom) are identical with Plotinus' Nous: i.e. Lord of the Universe. Whom we can reach via the forms. But I just don't understand Soul at all; Soul acts in time, whereas Nous is eternal. I guess Soul is sort of like instinct, a Bergsonian elan vital.
+
+One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
+
+Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
+
+Last edit over 5 years ago by Harpax
+102
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, Harpax, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Trinity, Evidently, Whereas, Answer
+
+---
+### Line 2118-2126 (Match: 'Tree')
+**Folder**: book of
+
+```text
+I just discovered that for 15 months I've labored in error as to who wrote "Acts." I had the idea it was Paul, undoubtedly because it deals with Paul. However, it was written by Luke, who also may have written "Romans." I am sitting here slowly perceiving the importance of this. First off, the stunning manifestation of theological material in TEARS is virtually all (all except for the dream) from "Acts." But the main point is that Luke was "the beloved physician," as Paul calls him, and a highly literate Greek writer. Also, in one recent dream, my attention was called to a large section of the Bible which when I looked up the page numbers was Luke's Gospel from the Sermon on the Mount to Christ at the Mount of Transfiguration. Also, my vision of the man or saint or angel informing me was of a Greek: he wore a toga and greaves. He carried a huge clasped book, which he held with both arms, affectionately. This wasn't Paul. A Greek physician and evangelist; one of the gospelists. The EB says that Luke was a darn good theologian and that he was into Christian prophecy. He was no mere chronocler of events. I've been looking over "Acts." It certainly is fluent. And he was a close friend of Paul; this fits my early dream in which "my friend Paul" is holding up a book of prophecy, now obviously sections of the Bible (specifically the New Testament.)
+
+If only I'd said plaintively to Father Rasch: "This man is a literate Greek, he's a physician and has something to do with 'Acts.'" On the spot, it'd have been put together then & there. You cannot get any more precise than that. A class with one member: St. Luke.
+
+Luke lived a lot in Syria. A palm tree country, like what I saw in 2 75. His beloved homeland. His concept of springtime.
+
+I'm certain that no other early great Christian (saint) was a physician; this distinguished St. Luke. Now, to return to contemplation of the personality which took me over 3 74. (The one who detested the aerosol sprays, etc.) That was St. Luke.
+
+Although I did not know who you were I thank you. "He found in heaven A friend," as Gray says. This was a meeting which I can't convey To anyone, this helping hand. Was it because I worried about Lorraine? Or lit the candles? Why you came I can understand a little; Why you left is another matter. The days are empty now: no friend speaks. The candles all are cold and dead And about the rest --her-- I know nothing. Days pass...will you return?
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Paul, Greek, Bible, Roman, However, Father, Like, Because, Only, Good, Book, Gospel, Just, Something, Both, Luke, Obviously, Although, Great, Palm, Nothing, More, Another, Heaven, Certainly, Will, Other, Angel, Page, Were, Have, Testament, Days, Except, Dead, Syria, Dream
+
+---
+### Line 2175-2183 (Match: 'Tree')
+**Folder**: part of
+
+```text
+The sentence, "St. Sophia will be reborn; she was not acceptable before," means exactly the same thing. Therefore, these sentences are in fact an explication of the dream; and the dream a visual graphic presentation of the sentences. Hence there is no need now to ask what the dream means; it has been explained. Anyhow, based on the Ancient of Days image in Daniel I was sure of this anyhow. But this removes any doubt as to the dream; and the sentences are self-explanatory anyhow. And then "the Buddha is in the park" is a further redundancy. These constitute essential redundancies for the purpose of insuring that the message gets through; we us[e] the same principles in our communication.
+
+The expression of God's creative force is visible as the universe itself; but His wisdom is concealed within it, as the still small voice, not visible and barely audible. Otherwise --jacked up futher-- it would thwart the power. It must accompany it without damaging it; thus it inspires us to minute adjustments.
+
+. . . The James-James dream: at the end, the scouts coming in resembling the Afrika Corps -- their standards & cycles, etc. I've been wondering, Why like the Afrika Corps? Aha: originially one time while looking at the Greek letters forming the fish sign I saw one as a plam tree, same as in the Afrika Corps insignia. Later, I learned that the mus[h]room was called "the small palm tree," but most important: the palm trees I saw in my vision and them again around Santa Sophia -- my vision of the Lavant; i.e. of Christ reborn. So "The Afrika Corps Scouts" smoothly-rapidly entering at the end of my dream are symbols of Christ (via the fish letters; via Santa Sophia, via the mushroom cult). Also, the standards were square, and -- aha! Resembled godseyes. (Plus, too, the burned palm branches used with oil to inscribe the sign of the cross on the forehead on Palm Sunday.) (A godseye is woven around a wooden cross.) So I guess James-James is the creator; the scouts, whom I ask for medical assistance from -- which is to say, I address them as physician or thereputi, healer -- i.e. the Savior. "Rette mich, Jesu." (Help equals save.)
+
+. . . If our universe is a mirror reflection or shadow of another more real universe behind it, then probably we --each of us and us collectively are shadows or reflections of something like what Henry Vaughn saw: as a ring of pure light wheeling endlessly. Our immortality is a rising back up to ourself, a rejoining or refinding. A recollection and regaining. We are split off from it right now, as if emitted. Plato's metaphor of the cave seemed to assume that each of us was absolutely real; it was only the outer or outside world that was a shadow. But each of our individual lives is an event in this shadow world, and therefore must have an ontologically actual counterpart beyond it.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Sophia, Plato, Fish, Greek, Wisdom, These, James, Like, World, Therefore, Only, Time, Harpax, Buddha, Savior, Light, Anyhow, Something, Again, Self, Daniel, Probably, Palm, Santa, Without, Creator, Still, Their, More, Another, Through, Most, Real, Voice, Before, Santa Sophia, Universe, Will, Would, Were, Back, Beyond, Further, Have, Later, Days, Cross, Otherwise, Dream, Right
+
+---
+### Line 2183-2191 (Match: 'Tree')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+162
+Needs Review
+162
+An experience like my 3/20/74 experience might then be seen as a temporary but real recontact and experience with, a sudden regained knowledge of this actual self-entity and of its world, rather than this one: self and world both, and both real(er). I can't think why this isn't realized, that any given person is an object of knowledge, an event or fact in this world same as a tree or billboard, and if there is an archetypal real world of forms, he has his corresponding real self-form there, the archetype of himself, his essence. The model had regarded us as actual audience-members in a picture theater watching a celluloid show and taking it as real; but how did all of us real people get here? And if we all are real, then for any given one of us, the entire species with all its members dead and alive both are not parts of the celluloid film adventure but of the superactual (i.e. beyond the cave: outside). And our primary environment is, after all, the others of our species -- other persons. By Plato's model it is only the scenery, not the characters (actors) who are fake. How important is scenery?
+
+We're not in the hologram; we ourselves are hologramatic.
+
+. . . We seem to be confined within a metal prison, but something vital has secretly penetrated the enclosing ring around us and fires assistance and advice to us in the form of video and audio signals. Neither the prison ring is visible to us nor the signal system which emerge as if from cores drilled through the metal; they're in color. Thus, our prison was breached a long time ago. Help is here, but we still remain here within the prison; we aren't yet free. I take it that the camouflaged invisibility of the signals is to keep the creator of the prison from knowing that help is here for us. The drilled out "tubes" through the prison wall to us can't be discerned; they blend perfectly, as if alive (the signals too seem alive). It is like the penetrating roots of a plant (!!!) which over the centuries have grown through rock or concrete. These root tips come through and into here, the enclosed open space where we're kept, and then they burst into colored changing light patterns which register on us subliminally.
+```
+**Co-occurrences**: Form, Plato, These, Like, World, Prison, Only, Time, Harpax, After, Light, Something, Both, Self, Himself, Creator, Still, Through, Real, Other, Beyond, Have, Fake, Neither, Knowledge, Dead, Free
+
+---
+### Line 2445-2453 (Match: 'Tree')
+**Folder**: part of
+
+```text
+which is to say, uncaused. I would know, wouldn't I? I heard the voice of my "physician," did I not, both in dreams and while awake? Given that there is a physician, who else could this physician be (Asklepios was an avatar of Him).
+
+. . . I remember: one of the most vivid and hard to understand parts of my 3 74 experience had to do with my craving a certain kind of damp in the air, a fog or moisture, a dew, or a light rain. . .I used to go out onto the patio at night and sit looking up at the stars. It was as if I yearned for a high, wet climate from somewhere else that I had been familiar with. This is something I never had any real theory for, this experience with moisture; I used to take cold showers, letting the cold water go over my face and head, all over me, something I'd never done before (I always had liked warm showers); it was cold water specifically that I craved. Now I read about malqosh, the "latter rain" mentioned in the Bible a number of times. "The rain before the harvest," is also is called. This is the time, the fall of this rain, "when the eyes of the blind shall be opened, and the ears of the deaf unstopped." The Mission says that this rain is Holy Spirit power and not actual rain, that it brings being "born again" which means "the Spirit birth from above." It is connected intimately with the reappearance of the Holy Spirit in the world, and forms (according to the Mission people) part of the Parousia. The earlier rain "former rain," which fell on the Apostles at Pentercost, meant in Hebrew "the teacher of righteousness," and the Mission says about the malqosh, the latter rain: "God is the great teacher, and He sent this knowledge by Holy Spirit Power." They say, too: "It is the rain to begin falling just before the harvest. Christ cannot reap the spiritual harvest of the earth --separating the wheat from the tares and gathering the golden sheaves unto life eternal-- until first His servants" etc.; wait: "This rain will come at the end of the age before Christ returns." There, that is it. The Prophet Elijah brings about the restoration of the Holy Spirit by his return, which means that Elijah will first come, then the malqosh and with it the Holy Spirit and its power, which evidently brings us God as Teacher, similar to the earlier teacher or rightousness; all this to make men changed and acceptable to God (wheat not tares). I wonder if back in 3 & 4 74 I perhaps sensed the presence of this malqosh, this gentle, steady, mist-like rain penetrating everything like a constant dew. It began the process which in 2 75 I saw as Spring: the new vine.
+
+. . . The Mission people say that the tree of life (in the Garden of E.) is a tree of wisdom -- wisdom from God, certainly. It is this wisdom which is "truth" which gives fruit robust spiritual life and finally eternal life. What is this if not the Hebrew for St. Sophia?
+
+. . . It is strange. . .I just realized that TEARS is what's called an apocalyptic novel. And in the narrative the dream of the king enters just where the king enters in "Revelation," the apocalyptic book of the Bible. A Platonic archetype is printing out on us down here, evidently; another conformation of the Platonistic view of reality. These are edola -- form-impressions here on us from above (obviously); then these are the anticipated portents & signs just before the Parousia; certainly they would not occur unless the Parousia were virtually here!
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Tears, Spirit, Holy, Holy Spirit, Form, Sophia, King, Bible, Parousia, Golden, Wisdom, These, Perhaps, Elijah, Like, World, Fall, Time, Earth, Harpax, Garden, Book, Light, Could, Hebrew, Just, Something, Again, Both, Reality, Being, Obviously, Everything, Platonic, Great, Part, Wait, Another, Most, Real, Voice, Certainly, Before, Revelation, Finally, Will, Would, Mission, Were, Back, Life, Spring, Remember, Unless, Knowledge, Truth, Dream, Evidently, Until
+
+---
+### Line 2455-2463 (Match: 'Tree')
+**Folder**: Book the
+
+```text
+Needs Review
+183
+The news-scoop on NBC TV about the vast police dossier network (computer linkage) shows that my apocalyptic view is essentially correct. But I now see this, too: the dream in TEARS is a description. Whereas 3 74 is not a description but an event. It is not a sign, then, but the thing alluded to (by such signs as the dream, which I had myself before finishing TEARS, 1970). However, the sign (same one) repeats itself in the "St. Sophia" message -- still a sign/portent of what's to come. But I think the events which come before that have come, or begun to come. The Mission booklet "The Kingdom of God" lists 3 or 4, and I count them all has having taken place, anyhow in my subjective life and experience, in the proper order: Elijah; the Holy Spirit; angelic messenger (telling about St. Sophia); Resurrection of early Christian, the essene; next is supposed to come the Rightful King and Judge returned, which the messages deal with: the Second Advent itself.
+
+. . . Eureka, I get it finally. My obtaining all this a priori over the 14 months, plus the religious material placed through me in TEARS shows -- what? Answer: It shows that Christianity is indeed a revealed religion (and its Book the Bible was dictated by God via the Holy Spirit, etc., as claimed). Christianity has always claimed to be a revealed religion, esp. its Book; I know that this claim is correct. What I call "a priori" is merely (sic) that it was revealed to me directly; so I can assume that the books of the Bible were indeed revealed (dictated by God) to the various authors. This is important because no one really believes this about Christianity, nor its Book. It is Elijah's gift from God to acquaint us with this fact, of this truth, in time (i.e. before the stark pale light of judgement comes on, as I was also allowed to foresee); this permits us to choose in the basis of absolutely correct knowledge; if we decline it (faith in Christ) while knowing this, we have no one to blame but ourselves; it would be a deliberate refusal, not due to mere ignorance. This is the well-document moment of last chance before the judgement hits. It is an act of graciousness and mercy on God's part. . .to bring as many people to safety (salvation) as possible. The tree of wisdom, which heals physically and spiritually. . .which is the tree of (eternal) life.
+
+"As you have not come to Me I come to thee." (In dream) (Seen on page of the Bible, Christ's words.)
+
+It is a totally crucial matter as to whether as the Megiddo Mission people say the Holy Spirit has been gone for 1400 years or whether as I think, as Christ promised, it has always been with us; the reason of couse (supra supra) is that if the Mission is right, then the fact that the Holy Spirit has been writing through me and poured itself into me in 3 74 indicates for certainty that the Parousia is/are here at last; but if the Holy Spirit has always been with us, then its activity in my life, inspiring (revealing) material into such writing as TEARS tells us that He Lives but nothing about the Parousia. One valuable point the Mission people make is that the Holy Spirit wrote the New Testament; they say it stuck around and got that accomplished; that was its mission entirely, and then it departed. Now, I construe TEARS as a weak latter-day
+```
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Christianity, Holy Spirit, Sophia, Kingdom, King, Well, Bible, Parousia, However, Wisdom, Advent, Elijah, Because, Time, Faith, Book, Light, Anyhow, Kingdom of God, Essene, Nothing, Still, Part, Through, Such, Before, Messenger, Finally, Would, Mission, Page, Judge, Were, Many, Have, Life, Testament, Whether, Having, Knowledge, Truth, Dream, Salvation, Whereas, Right, Answer
+
+---
+### Line 3041-3049 (Match: 'Tree')
+**Folder**: Book of
+
+```text
+Needs Review
+232
+Heraclitus also says the world (universe) is uncreated, by kept together by the Logos, which I guess is immanent/transcendent. Men do not listen to the Logos nor see it, but are asleep. Loren K. says that the essence of Christianity is an "inward suffering before God," which makes me a Christian I guess, especially today. The pull of matter is very great. I escaped for only a little while and then fell back further than ever. As Elton John says, "I've got ray memories," and it did induce some permanent changes in me. Mark says that God can cut short the time of tribulation for the elect, before it gets unbearable; maybe that's what He did in 3-74.
+
+Mark: "Those closest to Christ thought he was insane." So his mother and friends came to get him, but he rebuffed them. Shades of Dionysus; also, that the apostles appeared drunk to bystanders when the Holy Spirit came to them at Pentercost. Thinking about this I feel rushing back to me many many experiences around 3-74 and during the year after: the name Jesus in the Bible opening up to form ZeusZagreus, the dots on the alb of the saint becoming grape vines; the vine quality of the washing ladies' plaque; the dythramb being danced; the article DIONYSUS IN AMERICA and what it meant to me; the imagery of Pindar (root and star); the similiarities I noticed between THE BACCHAE and the passion story and Hamlet; the fact that Dionysus is a breaker of prisons and a destroyer of tyrants (e.g. King Penteus); Christ turning water into wine; Christ as corn god and lunar fertility god; the mystery religions et al; the fact that Dionysus was a god of metamorphosis; the Greek words & aspects of 3-74; the madness or intoxification I felt; the breaking down of the Nixon gang tyranny; my whole preoccupation with Dionysus during this...was Jesus an avatar of Diony¬ sus, a evolution of him via Orpheus into ultimate spirituality? Was this one of the cardinal mysteries revealed to me direct? The mad/god/ stranger who cannot be killed, and who is persecuted, but then returns with a vengence? That's what I put at the end of my U.K. speech. Where has he been for the past two thousand years? Locked in a death-struggle with authority: first the authority of his own church, then the secular authorities, all of them; bursting the prisons gradually. Or perhaps the human who experiences the theolepsy (like the sibyl in THE .SNEAD) becomes intoxicated by the energy of the spirit inhabiting it; which might include Jesus, and later the apostles. The spirit, in His case, could be Holy Wisdom, and she is quite sane (ma'at). It occurs to me at once that theolepsy must be limited to short intervals, so as to curtail the madness. But Jesus had the spirit in him most of the time...perhaps He struggled with it & conquered the madness, except for short outbursts, such as the fig tree episode.
+
+It is of note that the (1) language & (2) knowledge of 3-74 that was revealed to me took place within a "mystery" experience known only to the period (Graeco-Roman) when such experiences are known to have taken place. The key to all of this is precisely here. There is total consistency. I had an experience 2,000 years old, and heard language and knew knowledge of 2,000 years ago derived from that experience. If I were to leap to a conclusion I would say that 2,000 years ago someone versed in the mysteries planned for his own personal resurrection, and has slept through the interval, and then awoke: triggers back into existence by (most of all) the golden fish necklace.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, King, Fish, Greek, Bible, Golden, Roman, Wisdom, Perhaps, Maybe, Like, World, Golden Fish, Only, John, Time, Nixon, After, Holy Wisdom, Could, Once, Heraclitus, Being, Great, Bacchae, Sibyl, Dionysus, Those, Church, Star, Through, Most, Such, Before, Mother, Death, Universe, Would, Hamlet, Were, Very, Back, Many, Further, Have, Later, America, Except, Knowledge, Today, During, Human, Someone
+
+---
+### Line 3173-3181 (Match: 'Tree')
+**Folder**: part was
+
+```text
+Needs Review
+245
+That is the end of the fable. As I read it over I think, Could it be, the fear of the Romans I discerned in it, the wariness...could Jesus have been afraid? He did keep running from them, until there was no place left to run. How terrible and how sad, if so; whatever the spirit, whoever the man, he feared and hated the Romans so — it was such a force in him, trying to avoid them. The trauma of the cricifixion still in him? Who has ever thought of that, that after He went through the cricifixion he would be very wary and afraid of them, because of his awful suffering and humiliation — it is almost unbearable to imagine, to think of. But look what they did to him. My god, how He would then have empathized with me as I lay in dread night after night.
+
+I am thinking now about the vision in 2-75 of the land of palm trees where it was warm & peaceful. The palm tree motif shows up three times: (i) In the vision; (ii) coming out of the fish sign; (iii) in the James-James dream, where the Afrika Corps appears as savior carrying the palm tree insignia, and I tell them, "We need medical assistance." It seems to be a person (Christ), a place (the Holy Land) and a condition (salvation). The view of the Holy Land which I saw up in Placentia near the new post office was really the most noble and the most extraordinary thing I saw; that God could take one's perceptions of reality and transform them so that one would see the goal...I am almost tempted to say that He transformed the reality itself, but I think it is technically more accurate to suppose it was a metamorphosis of perception, not reality in itself. I saw it; I smelled the air; I felt it; in all ways I experienced it, totally. The normal reality gave way to an ultimate form lying within or behind it. God uncovered the essence within. It was the last thing of a supernatural order that I saw. It was the final revelation, (in both senses of the word final.)
+
+Plato's Timeus: divine intelligence prevailing (teleologically) over ananke, chance, is exactly the two-player conflict situation that I saw, with the demiurge (steersman) behind intelligence; I first under¬ stood this structure noetically, and then later at the time the infor¬ mation about Chrissy was conveyed to me I experienced the infusion of divine wisdom over chance from an exponential perceptual standpoit — I experienced it actually at work around me, this infusion. Plato uses the term "reason" (versus "necessity"); if I identify his divine reason with St. Sophia, I have bridged across to Christianity. Thus in asking myself what permanently acquired new information I got from the 3-74 experience I can place this high on the scale, this twoparty dialectic which moves the universe of becoming (change) through time. The Christian stamp, which is to say the element of Grace, enters where I saw reason (or Divine Wisdom or Christ) infuse a local section of ananke reality in order to inform & assist one person: me. It does not have a mere abstract, impersonal quality. But what I ex¬ perienced was not just a perception of wisdom at work in and in the world, but also wisdom entered me as a Holy Spirit, bringing this per¬ ception: wisdom within and without. A sanctification & ordination, I think. Wisdom, when she came to me, certainly was not miserly with her secrets.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Sophia, Plato, Fish, Roman, Wisdom, James, World, Because, Time, After, Savior, Could, Does, Just, Look, Suppose, Both, Reality, Divine, Palm, Chrissy, Without, Grace, Still, More, Through, Most, Such, Actually, Certainly, Revelation, Universe, Would, Very, Whatever, Under, Have, Information, Later, Dialectic, Dream, Salvation, Final, Until, Ananke
+
+---
+### Line 3237-3245 (Match: 'Tree')
+**Folder**: book by
+
+```text
+already, in the cats (esp. pinky). So many indices. But this all means: Christ reigns now; the Lord has come back! He didn't topple the tyranny and then leave; his reign begins, now. This is the good news, as of the JWs. The godspell.
+
+I can substantiate this, that Christ is here. The JWs know it by historic and Bible analysis and by faith; I know it by experience. I was your perfect mad fool for Christ, and I did pay for my resistance; i.e. Nov 17, 1971, in which I lost everything I owned, and was subjected to great hassible by the authorities (the ir leg). I was driven from my land, made an exile in fear, made penniless and a wanderer. I keep forgetting this; I not only risked, I actually paid, almost with my life. When you reflect on that (it appeared in the book by my friend Paul in an early visionary dream: "A Marin County writer will have troubles..." etc), you can better see how I came to be picked in 3-74 for a reward; I hope this isn't hubris, but I did pay heavily for my anti-war stand, and that is a fact. That was the well-documented Time of Great Tribulation — cut short in 3-74 by God, to spare me. And then the restoration of all things began. My last act against the regime was when I fired off TEARS and it was published. So from the standpoint of efficient causes the experience can be understood (a reward following what I did and what was done to me), and also in final-cause terms, it gave me wisdom and strength to do what I still had to do; such is the dovetailing of a true cosmos.
+
+In 28 months I've created an enormous exegesis of my 3-74 experience, which is what you are supposed to do: subject the mystical to the rational and see what comes of it. Look where I wind up. Now what can we expect? A return of the early saints, such as St. Luke — I believe this, too, has happened, and that I witnessed it in regard to one of them anyhow. The tribulations occured; the intervention and judging occured; the throwing down of the Prince of This World occured; now the millenial age is with us, but just as secretly as was the rule by Satan (as the JWs point out). I saw that millenial age in the palm tree universe. The Secret Garden, as I have called it: The Kingdom of Christ or God. But to appreciate this age completely we would have to have experienced where we'd be now if God hadn't intervened: probably completely downtrodden by the tyranny, our freedoms gone, and probably at war. It is the contrast which reveals, and we will never experience the contrast. Like me personally, we have been freed from a prison before it was built; God interceded in advance. So we can only guess what the alternative world would have been like. I personally would not be here at all. In DEUS IRAE the vision of the palm land,’the Holy Land, by Dr. Abernathy, signifies that the curse has been lifted; I deduce that my seeing it indicated too for us or for me, too. This is how the world ought to be; or, put another way, this is how we ought to see/experience it (Form One of Parmenides). The tyrant Nixon "died," like Lufteufel in the novel...and the curse was lifted; it is another absolute sign of the end-times.
+
+Last edit almost 5 years ago by svayambhu108
+252
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Holy, Form, Kingdom, Paul, Satan, Well, Bible, Wisdom, Lord, Like, World, Parmenides, Prison, Only, Time, Nixon, Faith, Garden, Good, Book, Pinky, Anyhow, Just, Look, Luke, Everything, Great, Probably, Palm, Deus, Still, Another, Such, Actually, Secret, Before, True, Irae, Universe, Will, Would, Back, Many, Have, Things, Life, Absolute, Form One, Deus Irae, Dream, Final
+
+---
+### Line 3382-3390 (Match: 'Tree')
+**Folder**: book when
+
+```text
+266
+-1-
+
+Augustine says that at the Parousia the veil will lift, and the City of Man will be visible as separate from the City of God. This is what I saw: the Iron City, Rome, was the first; then in 2-75 the palm tree kingdom, that was the City of God; so further evidence that the Parousia was here. No blend, no ambiguity; each had parted company with the other. The prison versus the palm garden. No, I guess the Parousia hasn't come yet in linear time; I was lifted up (into sacred eternal time) the way an adult lifts a child to witnes a parade; I saw it the way John and Daniel saw it; I am an apocalyptist. When the Parousia comes it can be seen with the unaided eye; whereas I needed aided eyes, enhanced percep¬ tion, to see what I witnessed. So, again: I did not reach or attain this condition; it reached down (back) to me. In attempting to determine the relationship between the events I saw and the world of linear time in which we live, I have the verbal statemtn, "St. Sophia will be born again etc." to go on, indicating that these events lie directly ahead, since the rebirth of St. Sophia is in itself the Parousia or Second Advent. The Parousia refers not to the presence of the Cosmic Christ, but to the Second Incarnation, reffered to as "St. Sophia being born again," Teilhard de Chardin to the contrary. Thus he/she/it will be visible to all, with unaided eyes. The Cosmic Christ, as resurrected spirit, is indeed present now (it was he probably who came to me, as Holy Spirit), but to our normal eyes nothing is visible; he can only enter inside, as does the Holy Spirit, not be visible as he was as Jesus, and will be again (incarnated in a physical body); but preparations are now being made: the anticipation & expectation are high; the herald angels are here already. Mankind, all of them, will see with unaided eyes precisely what I saw with aided (enhanced) eyes, such as the transformation of the animals; the dividing apartly clearly of the City of Man versus the City of God; the pale white light coming on which signals judgment, etc. This finally resolves my confusion as to what I saw, which was manifestly now, and the promise of a future rebirth. However powerful, actual and real the spirit is (the Cosmic Christ is), this constitutes no incarnation, and it specifically, with a fine economy of words, is an incarnation that was promised (foretold). The foretelling is by herald angels (v. Mathew). The event itself is still future (for all to experience). This was, of course, a Christian rebirth for me (3-74), a being born again from above; but the material I witnessed had specific content beyond the personal experience itself. I recall the "James, James" dream in which advance scouts of the Afrika Corps rolled into manifestation; this was the Second Advent, which I requested medical help from. The implication of this dream was that it would come soon. It came upon the smashing-down of the defective lamb, which seems to me present now. Well, to preview the Parousia is to experience the Parousia is to live through the Parousia, is to experience Christ as returned now. Thus my confusion between the idios and the koinos. The idios now, the koinos later (for everyone). This is the first time I've considered my experience from the standpoint of Heraclitus' distinction. His distinction makes it possible to suppose that I did indeed have the experience, even if no one else did.
+
+Last edit almost 5 years ago by svayambhu108
+267
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Sophia, Kingdom, Well, Parousia, However, These, Advent, James, World, Since, Iron, Prison, Only, John, Time, Cosmic, Garden, Cosmic Christ, Light, Even, Does, Again, Suppose, Heraclitus, Teilhard, Being, Daniel, Augustine, Probably, Palm, Nothing, Still, Through, Real, Such, Upon, Finally, Will, Would, Other, Back, Beyond, Further, Have, Clearly, Judgment, Body, Later, Dream, Whereas, Chardin, Lamb, White, Sacred
+
+---
+### Line 3693-3701 (Match: 'Tree')
+**Folder**: part of
+
+```text
+Needs Review
+299
+-2-
+
+The Second Coming is to be conceived (viewed and understood) primarily as that restoration, on a vast & general scale, for all, which I underwent in 3-74. I think I am right. I think this is so. This is the significance of it. One asks, What will the Second Coming achieve? No comprehension of the answer is possible unless one understands the titanic magnitude of the Fall (v. page one). Unless we can grasp what we truly are (or were once) we cannot envision the extent of the change in us which the Parousia will accomplish. Seen thus, I would have to say, as dictated by logic, that my 3-74 experience was a portion of the Parousia, sotospeak ahead of time, ahead of its overall coming. The Sritannica says "the Kingdom is always coming but not quite here," but I temporarily experienced it "out of phase" with its locus in linear time. Viewed this way, my experience was not a conversion, nor was it a visitation by the Holy Spirit merely, but a preexperience of the Parousia (which is in keeping with my general nature of experiencing events ahead of time). Look: If what I experienced in 3-74 were experienced by all mankind (including the Good Friday Spell, the over¬ throw of the wickedness, the healing, the pastoral landscape, the altera¬ tions in the animals, etc.) we would say, "Yes, this is the Parousia." All that was lacking was its being limited to me. And, probably for the same reasons that it was limited to me, it was temporary. I think now of the Golden Rectangle gate which I saw. Probably it was the coming together of the two realms at last: the sublunar and supralunar, the narrow door between. Its importance cannot be overestimated as a part of what I experienced; the narrow door (vide Plotinus) had opened. That which makes up heaven had penetrated (breached through to) Earth, and the two realms were (at least for me, and for a while) no longer separate. If this was a prophetic vision (in the accurate sense of the term) I could rank myself high up, say as with Daniel; but what I saw — all had been seen and recorded before; I have nothing new to pass along to other people. The more I read of the Bible, the more I learn of their prophetic visions, the more I see that each in its turn was a further revelation of the theocracy to come. What, if anything does mine add? I do think that the angel Gabriel was the messenger who spoke to me, since that is his task and role. Did he say anything new? Well, he said that the conspirators were the wickedness to be thrown down, and that that throwing-down was beginning; implied, too, was the imminence of the Second Advent, tied in, following, the throwing-down; which is to say, Gabriel said, The times previously predicted have now come — with emphasis on the word now. It is not future; it is now, at least in part. And if in part, then the whole great process is here, and my vision of the palm tree garden is the final and true vision of the Peacable Kingdom. We are not talking about events hundreds or thousands of years hence; part has already become history — in the past. It is not so much that Gabriel said, This will happen; it is that he said This will happen now, to living men. It is in our time. Viewed this way which is tentitive, what I experienced was not a "prophecy of things to come" but a revelation of that which is NOW. The greatest enigma in what I saw was the narrow gate or door; was it closing, after having opened temporarily, or was I seeing it open? What it was a door or gate to I am certain, however. There are two realms, and at least for a time (and for me) the door or gate was open.
+
+Last edit almost 5 years ago by svayambhu108
+300
+Needs Review
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Kingdom, Well, Bible, Parousia, Golden, However, Advent, Plotinus, Since, Fall, Time, Earth, After, Gabriel, Garden, Good, Could, Does, Look, Once, Being, Great, Daniel, Probably, Palm, Viewed, Nothing, Part, Their, More, Through, Living, Heaven, Before, Revelation, True, Messenger, Will, Friday, Would, Other, Angel, Page, Were, Further, Have, Things, Having, Unless, Final, Right, Answer
+
+---
+### Line 3879-3887 (Match: 'Tree')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+11
+11 I may have waked my way toward + to this point through may than this one lifetime. + this whole awakening is intimated tied up with remembering (who I am, where I care from, what I dout do). Remembering that I am Brahman, since originally I was. An interesting conclusion from this is that James-James. creation comes out to be a sort of false, irreal or illusary universe superimposed onto Brahman's manifestations with Brahman like in Ubik breaking through from underneath or behind; perhaps J-J's world is idential to the "wizardng" world of Maya, + perhaps the Roman world c. AD 70 which was revealed is âž€ either what 5-t's world really looks like; or (2) the Roman world is Brahman + its real world; or (3) the Roman world is J-81 actual world, what he has actually constructed + then tried to make Palatable, with the "Palm tree" world the authentic world of Brahman I did have that impression (3, that the black iron Prison world is how this world actually is, in all its evil, but 5-5's keeps it disguised... + I fell the palm tree world to be the Kingdom of God (in this theory, Brahman's world). wizardry-maya. In my dream of 5-I, as I've said to people, he resembled a genius magician doing astonishing I rich, to bedazzle + impress a huge audience In Ubik, as Claudia pointed out, both worlds (32 + 2) are illusory: only runciter + Ubik (+ the characters) are real, + he characters don't know their own actual condition; that they are mutually dreaming the (decaying] world they're in, to be mutually asleep + dream an illuson world: that is ourselves lost in Maya - R. + Ubik are Brahman + its authenti living non-decaying reality breaking through to them th their benefit: as rescuer
+
+Last edit almost 3 years ago by svayambhu108
+12
+Needs Review
+```
+**Co-occurrences**: Ubik, Kingdom, Brahman, Roman, Perhaps, James, Like, World, Since, Iron, Prison, Only, Black, Kingdom of God, Both, Maya, Reality, Runciter, Black Iron Prison, Either, Palm, Their, Through, Living, Real, Actually, Universe, Creation, Have, Claudia, Evil, Iron Prison, Dream
+
+---
+### Line 3893-3901 (Match: 'Tree')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+13
+Needs Review
+13
+the palm tree world is the real + good world we will be in after the Iron Prison world is destroyed. "To arms? the tutulary spirit was saying - for me to act against this actual black Iron Prison world to over throw it as part of the historic event of grand overthrow: water gate, as predicted by Daniel - the stone uncent. Brahman's real world is the civital see of Augustine, + the intelerable black Iron Prison world is the civity, munde If the Black iron world cant be destroyed, or as long as it still isn't destroyed, our only real refuge is in the Palm tree civitas dee not here: beholder Maya he âž€ reality (bad) âž€ ana oterial patt reality (good) âž€ ther tha or: pate the world here (events) Rising - what we see, mixed sinking /which is mired phenomenal - world we see black iron world) hell (punishment?) e our transmigration through the lives is attempted ascent from the black Iron world; had we been punished + incarcerated? I can assume the black iron realm is real + we are in it; if that wasn't so, thered be nothing for Christ to rescue us from. Intervention by a redeemed wouldn't be needed between us + the Kingdom stones the realm of eve the black Iron prison world. Against its walls knocks the savior from the other side.
+
+Last edit almost 3 years ago by svayambhu108
+14
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Kingdom, Brahman, World, Iron, Prison, Only, After, Black, Savior, Good, Realm, Maya, Reality, Black Iron Prison, Daniel, Augustine, Palm, Nothing, Still, Part, Through, Real, Will, Other, Iron Prison
+
+---
+### Line 3963-3971 (Match: 'Tree')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+25
+2 t t if was (for me) as if the Garden (or park - I recall the words "the Buddha is in the park" is this the sane Park? The pastoral Kingdom?) sort of swam into focus. the war we s-f writers describe an alternate world as doing when that track has been tinkered with, maybe in the past; "Jor's world." This world did not become it so much as of it replaced this world: locked in briefly in place of this world, exactly as the Roman one did, except that with the park I did not see it as the way our Earth really is but rather an alternative Earth: instead of what it actually is. t I could be wrong about this, though; both worlds (myster. iously glimpsed as fading alternatively into focus) could be what we s-f writers call "two alternative presents branching off from a critical nexus or previous point in time, + which of them becomes real depends on some act or event back in the past" - as in that Col. moore novelette in astounding about the two alternative futures hinging on which of 2 God's the guy marries in the present. Cone to think of it, the black Iron Roman world + the "Sitting in the sun" palm tree world are almost identical to the two alternative futures in that story conceptually, they are the absolute opposites of each other which is probably why col. moore selected then out of all the possibilities - or: she, like me, was subconsciously prompted Anyhow, these two are absolute epitomes of ( the hell world: âž€ the heaven world. Also, I had the distinct feeling that the Palm tree Garden had won out over the other, perhaps due to the historic intervention. One also could assess the two mysteriously. glimpsed worlds as two opposite mutually contradictory "crypte morphoses" latent in our [present) world: two opposite outcomes hinging on the historical event taking place now (this puts them -maybe correctly so - in the future - but as I say, I had the impresson that the Palm tree one won out (due to the success of the intervention which not only got Nixon out but ended the War). The black iron one was in the process of becoming real
+
+Last edit almost 3 years ago by svayambhu108
+
+26
+```
+**Co-occurrences**: Kingdom, Roman, These, Perhaps, Maybe, Like, World, Iron, Only, Time, Earth, Nixon, Black, Garden, Buddha, Could, Anyhow, Both, Probably, Palm, Heaven, Real, Actually, Other, Back, Absolute, Instead, Except, Track
+
+---
+### Line 3968-3976 (Match: 'Tree')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+26
+26) ontil the intervention. This is why intervention tooh place - to avoid it as the final outcome, + to rearrange a crucial event back in our times that would instead establich the Garden as the end + outcome + goal of the linear becoming process extremely important, ther, is the perception I had of the activity of the Logos working back‐ ward from the end to direct causal events (persuade?) along - not chance lives - but along the one right line at every nexus or junction; this - all which I saw, inc. the historical intervention, would fit perfectly with that: a retroactive mending of the past, which explains my ver first impression: that people from the future were tinking around back here at our time to bring about a better direction of historical events: i.e. time travel (they would be the 3-eyed people + their Bathosphere technology). (Also this would explain why I knew the Xerox letter was coming, down to the very day; the spirit which took me over + controlled me was from the future. This, too, would explain how I got phased ahead in time + started reacting to events slightly before they happened."!! (So herewith we revive the tachyon et al theory.) It is certainly true that I did see the great sentient God - entity traveling backward thro time, + there fore absolutely knowing the future, + certainly it was the decisive force in we determining all outcomes of events; it seemed able to melt into causal chains +, by a sort of trans‐ substantiation become them (as Brahman is said to trans‐ form itself into the universe or take on the appearance of it) So the Black iron Prison was what our world really was, + the palm tree would was what it wasn't but could have been can infinitely more desirable alternative. + by the time "they" were finished, the latter was real + the for mer abolished
+
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+```
+**Co-occurrences**: Spirit, Logos, Xerox, Form, Brahman, World, Iron, Prison, Time, Black, Garden, Could, Black Iron Prison, Great, Palm, Their, More, Real, Certainly, Before, True, Universe, Would, Were, Very, Back, Have, Instead, Iron Prison, Final, Right
+
+---

@@ -1,0 +1,345 @@
+# Evidence Packet: Shiva
+
+- **Category**: Top Term
+- **Total Mentions**: 98
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 4248-4256 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+68
+Needs Review
+68
+8 of the first advent, doesn't it point toward the second! Is he not possing over - or has passed over - to the 2nd? Is this at least not the way he will reappear, in the ubiquitous fashion (as I called it, "cosmic, plasmatic") that I saw him? I saw Hin everywhere, + that is how he is supposed to reappen; well he did for me. Which raises the enteresting point that if you were to see him now, according to prophecy we would see ubiquitous form, which we can't imagene, but which I rid see - a transsubstantiation of everything every where into him. How else could he be like the lightning flash - not here, wor there, but in all places at me. This is a new insight that I saw him the way we shall all see him, when he seen again (+ needless to say, I didn't know scripture is when I saw this) frus I have myself witnessed as alreally occcuring the crucial transformation marking off the 2nd Advent from the first + thus the intervention must be connected with him expanding to that ubiquitious state. Now unlike the stereotype the voice was more feminine than masculine, + he pervaded all reality of the universe; neither is a tell-touted account of him. The point to which he has come now: was it he I saw pervading causal chains? Is he not indeed the Lord of the (one) cosmos? core, judge, yet still intercessor - this micht explain the apparent contradition of God intervening (by miracle) in his own universe; as creator he (James-James) he drives the aggregate on, but as inter lessor he intervenes on an individual basis. (Could this be another example of the "secret partnership" (thoth - Seth. Vishnu- Shiva, etc). No deeper philosophical understanding is meeded than to say that in the triune task of God (he emanates (creates), sustains + reabsorbs there is right There a diversification of tasks for the one entity - if there, why mnot the one-to-one interventive role us the mais species role e2nd Advend could possibly be said to be the moment when that cosmic ubiquitous presen al passes the threshhold + becomes visible to the unaided edge - as if was to my aided eye, the unity of substance will have absorbed the multiplicy of accidents + we will have something akin to Brahman - at the point it reabsorbs.
+
+Last edit almost 3 years ago by svayambhu108
+69
+Needs Review
+```
+**Co-occurrences**: Form, Brahman, Well, Lord, Advent, James, Like, Cosmic, Could, Something, Again, Reality, Everything, Creator, Still, More, Another, Voice, Secret, Universe, Will, Would, Judge, Were, Have, Neither, Doesn, Right
+
+---
+### Line 4465-4473 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Needs Review
+8
+8
+
+So pragmatically I will regard the, as separate, like Vishu + Shiva but engaged in a secret partnership, as Joseph Campbell describes the Egyptian partnership involving wherever it is + Set. Perhaps above the duality, stands Brahman or some [witness] ubiquity such as Brahman. My experience was of a duality. I have to go on what I experienced, the one to turn to is the savior who arranged + not the creator - rather, the re-creator vs the creator.
+
+After all, the recreator needs the raw materials which the creator provides, so perhaps they both are dual aspects (like yin + yang) rather than entities: the first showing power, the second wisdom - + the two united by a 3rd principle (entity or aspect) characterized by love. (Empedocles showed the binding power of Love)
+
+My experience did not show the power creator (James James) delegating anything to the son-savior [wisdom]: rather it showed them in dialectic contest it also showed the creator blind + losing to wisdom. If Jame-James is the author of everything, wisdom recreates it all not in conjunction with the author but despite him + his objections + intentions (if any of the latter exist). If there is not opposition between them I don't know what else you call it. Only a power higher than both/either could reconcile the dualism into monotheism... or else a secret agreement.
+```
+**Co-occurrences**: Brahman, Wisdom, Perhaps, James, Like, Only, After, Savior, Yang, Could, Both, Empedocles, Everything, Either, Creator, Such, Secret, Love, Will, Egyptian, Campbell, Have, Joseph, Dialectic, Joseph Campbell
+
+---
+### Line 4622-4630 (Match: 'Shiva')
+**Folder**: book and
+
+```text
+Last edit over 3 years ago by etherfire
+24
+Needs Review
+24
+24 I certainly got that, + only Gnosticism + neoplatonism contain that. In fact it was that most of all that I experienced A new schema: the Lord of the universe (Brahman God) saw the crail "dead" (prechanistic) world that YHWH had greated here + sent his son, Zebra, to do battle for us against our own creator + world. That is why although our world has been here much longer, Zebra only appeared C. 600 be + later to heep. The dialectic interaction I saw is Zebra fighting the greator demiurge. But Zebra is not infinite in power or knowledge; he is divine + not God - + K.W. is right; he mimiced being a man while here as Jesus; that's why he was resurrected. Zebra is not just our savior; he is our champion, doing battle on our behalt as advocate champion ("the sign of man) + comforter. The structure is Taoistic: Yang (3-7), yim (Zebra) + Tao (Brahman a God). God's stasis is achieved by the interaction of the 2 adversaries ("the secret partnership it Vishnu + Shiva). But the Gnostics are wrong: no mistake occured. God deliberately get J-J start, since J-) is yang the creat God (fire + ice, maybe), knowing he must after a period of proto creation send the son of man to balance J-5. Thus Christ says, "Before Abraham was, I am." most of what I know came directly by revelation (3-74 on), but I has alread, discerned that the reality of our world was not as it seemed, + that we had blocked of f memories as to our origin + purpose ("Impostor"). However the proof if Zebris success at mimicing is shown by the fact that it wasn't until Ubik that I even guessed his existence it wasn't until tears that I clearly saw the nature of this world (i.e. prison + us as slaves). not only are we prisons here but due to maya (wizardry) we have been deprived of our long term memories + identity.
+
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Ubik, Zebra, Jesus, Gnostic, Brahman, Gnosticism, However, Lord, Plotinus, Maybe, World, Since, Prison, Only, After, Savior, Even, Yang, Just, Maya, Reality, Being, Although, Divine, Creator, Most, Certainly, Secret, Before, Revelation, Universe, Creation, Have, Clearly, Later, Knowledge, Dialectic, Dead, Comforter, Impostor, Right, Until
+
+---
+### Line 4763-4771 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+48
+Needs Review
+48
+48: one could regard the "evil one" simply as a lesser mani festation of God. In turning the one into the many he (as Brahman) created 2 opposed entities: J-3 + Zebra (like Vishnu + Shiva). The "secret partnership of the Egyptians, the 2 reconciled through + in Brahman (who emanates but does not create. Cf Plotinus; theory of emanations. The first + highest emanation is wisdom, the Logos, Christ, the Paraclete: Zebra. J-J (Satan) is the resser; this is why he loses + will always lose, but proves valuable to God because of his creativity. The creating a world is a sign of incompleteness (for a God; it is an attempt to be God: J-J greates the world in imitatly of God "creating" (actually emanating) Zebra (+ himself, the evil one). His greation is bad, but wisdom sets out, even before J-J greates, to perfect it (since Zebra knows the future). Our world is a dynamic balance (person) between evil's creation + Zebra's arrangement, started prior to physical creation. The first move was Zebra's. perhaps one should say: these "entities" are degrees of God, inc the physical world (an interesting "tat tvam asi" Monism, ala Plotinus (i.e. neoplatonism)). The will-less source whom Jesus called "ABBA" there the first emanation, wisdon/Logos) Christ/ Zebra/Paraclete. Then Satan then from Satan the greated physical world. Very neoplaton istic but fascinating: the human soul lies above the created physical world in this schema of concentric rings. In this schema I was lifted thus Paraclet human) (5-5) (wisdom (father physical world) (soul or Paraclet Christ ( matter ( cogit could be above t it's + before ( i ( B t 2 6 ( 8 from 19 to (2 of
+
+Last edit almost 3 years ago by svayambhu108
+49
+Needs Review
+```
+**Co-occurrences**: Christ, Zebra, Logos, Jesus, Brahman, Satan, Wisdom, These, Perhaps, Plotinus, Father, Like, World, Since, Because, Paraclete, Even, Could, Does, Himself, Through, Soul, Actually, Secret, Before, Will, Creation, Very, Many, Mani, Evil, Human
+
+---
+### Line 6519-6527 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+54
+Needs Review
+54
+(3 is denial of the role of creator in the face of this contin val fundamental process - by him - of joining so as to produce the new? Well, "creating" is not what I saw; what I saw is precisely what Plato declared Noos to be "persuading" ananke to do with anomie, which is to say, arranging constituents that lie all in disorder to form what we correctly bipolarize against chaos as cosmos (or, as Empedocles called it, Krasis, composed by love, at war with strife). What is overcome is not just random disorder, but disorder resulting from the active divisive principle which Empedocles identified as strife. There is an active adversary to love (or Noos): cosmos has its artificer + So does anomie. Noos must, in its joining, overcome an opponent. Thus the 2-player "game" + "Game board" or battlefield quality that Zoroaster saw. But this cosmos is illusory in that there is a secret partnership between the two players (vishnu + Shiva, Horace + set), yin + yang. I discern, via the "lopped-off cuttings from God or Christ the true vine" that the Lord of Darkness, the evil or sick demiurge, James-James the mad genius creator, is an instrument of good (see the 10 typed pages of 11/19/77). James-James tosses out an infinitude of unrelated creations, which Noos (treating them as anoma which they are) arranges (joins). The two entities (James James who creates, but all in unrelated disorder) + the divine Noos who joins all into ever more complex Gestalts - between them the universe goes - + I suddenly see that in James-James I've perfectly described hex I, chien, yang, + in the joiner I've described yin (hex II, kun) the receiver, the recepticle of being into which yang's creations are thrust - + the Tao tants above both, regulating thene both. The Gnostics "+ Zoroastrians, Christiant, + manichaens) failed to discern
+
+Last edit almost 3 years ago by svayambhu108
+55
+Needs Review
+```
+**Co-occurrences**: Christ, Form, Plato, Gnostic, Well, Lord, James, Noos, Good, Gestalt, Yang, Does, Just, Both, Being, Empedocles, Divine, Darkness, Creator, Zoroaster, More, Secret, Love, True, Universe, Evil, Suddenly, Ananke
+
+---
+### Line 6565-6573 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+62
+Needs Review
+62
+( that, as amore claims, the true Xtian church dates back to Egypt + to thoth, Ptath, Ma'at, is is + Osiris + Horus I don't doubt; it also dates back to Krishna, Vishnu + esp. Shiva - + to Dionysos. What must never be over‐ looked is that you don't join the "society"; you are selected by it, + act out its bidding long before you realize it. Bob Wilson is right in this respect: "by the time you realize you are one of the illuminati, it is too late to back (get) out." (This view is in line with the orthodox + Gnostic Xtian view that the salvific initiative originates with God or Christ, not man in fact in the Gospels, Christ specifically tells his litte band of disciples: "You did not choose me; I chose you" + he also says, "I will never fore sake you, Yea, I will be with you even unto the end."). I feel about Bob Wilson's work is that he has dealt too much with the lesser part: the age-old secret human group, influencing history over the centuries. where he makes a brilliant guess is to tie it all in with the kennedy (et al) assinations. This collates with my revelation. Were he sufficiently Gnostic (dualist - Zoroastrian) in inclination he would/could see what was disclosed to me: that the "illuminati + their celestial source face a dreadful foe here why holds primary worldly power, + whom the secret society is overthrowing; it not they, truly rule here, + is not secret: it is the total visible ensemble of coerce I've governmental power on this planet. Basically, the 0 I" are subversive, + are outsiders. secret society + to triumph they must seize power - take it from the incumbents.
+
+Last edit almost 3 years ago by svayambhu108
+63
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Gnostic, Dionysos, Time, Even, Gospel, Could, Zoroastrian, Krishna, Part, Their, Church, Egypt, Secret, Before, Revelation, True, Will, Would, Were, Back, Wilson, Human, Ptath, Right
+
+---
+### Line 7676-7684 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+41
+44 "Happy" (Felix) may be a cunning reference to Euripides the "Bacchae" in which the stranger (Dionysos in human form "punning on the refers to King Penthus as king "of Tears, Greek word for Tears: Pentheus. + the word "Tears" is in the title of my novel. The real message is that he whom Pindar called the joy God is here. It is a cypher within a cypher; "Felix" is not a name but a glossa meaning (among other good things) happy, but happy" is a cypher back to a name: i.e. name to word to name, + the final name underlying Felix is Dionysos. The deity who has inserted the message into "the inferior bulk" has identified himself. The total message from him is "I love you," but he has also elliptically told us who he is. He is the protector of little wild things, like cernunnos + Shiva, + it is Shiva who possesses the 3rd or ajna eye cernunnos = Shiva = Dionysos = Christ. The savior of the trapped, the desperate, the damned, the powerless the DNA in us programs us to die. It is this [form of determinism] once called "astral" or "planeary" fate that Sar-pis Christ, hermes Tristmogistos saves us from. I'm not sure how - but however it is done, this is what happened to me in 3-74, the "second birth" from above, by the spirit. Not only did I not physically die then (3-74) as programmed, but evidently I will in some actual real sense never die. The key to this is memory (+ hence true identity) restored; + 1) 2) Triumph over time. perhaps (2) is achieved by (1), since the restored memory seems to include the future as well as the past. Anyhow. We know ➀ who our savior is; + ➁ what he saves us from. The secret of physical immortality does not seem to involve an imperishable body but the ability to expand the ego-consciousness to merge with the gene pool knowledge + memory - which is immortal. Literally No wait - I don't think that's how the problem (of mortality, of being programmed by the DNA to die) is handled. I think rather than merging with the DNA
+
+Last edit almost 3 years ago by svayambhu108
+42
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Spirit, Form, King, Felix, Greek, Well, However, Dionysos, Perhaps, Like, Since, Only, Time, Savior, Good, Does, Anyhow, Once, Being, Himself, Bacchae, Fate, Wait, Real, Secret, Love, True, Will, Deity, Other, Back, Things, Body, Pentheus, Memory, Knowledge, Hermes, Human, Evidently, Final
+
+---
+### Line 7688-7696 (Match: 'Shiva')
+**Folder**: Part This
+
+```text
+Last edit almost 3 years ago by svayambhu108
+43
+Needs Review
+43
+46) Well, in that case, let's ask who lived c. 70 AD, b didnn't live [here] inbetween but in now back? human being? No; it is Christ. He has returned, + linked the two advents into one. This time, how ever, he has shown his annihilating (destroying) side - shown the 3rd eye - shown himself to be Shiva (+ Dionysmn + cernunnos). We will now see him as he (fulle] is, + not just the Lamb Part This dual quality - the 2 sides, annihilating + healing/protecting his own, indicates that, through the discernment of the 3rd ege, he has begun to judge already: 1) damning some (the goats) - i.e. destroying them (the conspirators; + 2) Intervening to save his own flock - as he did save me So his saving me was a judging, a selection ("You did not choose me; I chose you.. The decision the to save some + to destroy others are 2 faces of same coin, since those destroyed were persecuting the those he intervened to save. The incredible fact of matter is that part of him (ZeBRA) is right now back c. 70 AD although part of him is/was in 1974. He is/was in both time/place periods simultaneously that's why I experienced actually being in Roe caD70 not just remembered it. The 2 timeplace continua were superimposed - + something about the stars Always before I assumed either ➀ I had just been in Rome c AD70 n was transported here, + given Phil Dick's memories as well as body; or (2) I was remem‐ bering (anamnesis) a former life in Rome. But now, ➂ t It think I was assimilated by a supratemporal life t form who was he both continua simultaneously.
+
+Last edit almost 3 years ago by svayambhu108
+44
+Needs Review
+```
+**Co-occurrences**: Christ, Zebra, Rome, Form, Well, Since, Time, Just, Something, Both, Being, Although, Himself, Either, Anamnesis, Those, Part, Phil, Through, Actually, Dick, Before, Will, Judge, Were, Back, Life, Body, Human, Lamb, Phil Dick, Right
+
+---
+### Line 7694-7702 (Match: 'Shiva')
+**Folder**: Part This
+
+```text
+Last edit almost 3 years ago by svayambhu108
+44
+Needs Review
+44
+47 honm. I can't completely rule out the "I was just in Rome c AD70 n was transported here, + given phil Dick's body + memories." Sounds very possible. but think ➂ is the answer. it, not I had been / + I still was in Rome - the 1st Advent + the 2nd joined. The categories of time + space both abolis heal it Then, if (3) be so, I know the good newi hasbeen revealed to me: 1) Not only is the master here again but: 2) He has acted in history already to depose 4 tyrannies. This time we see him as he really is (i.e. the other side of him, concealed the 1st time) "not like a Lamb but like a lion - with a sword" + whom dowesel? Shiva. Cernunnos: 1) Warrior against those condemned 2) healer of those whom he loves who are his own. a rather eerie idea has come to me: based on previous to insights but new. Premise; I was [DNA] programmed die in 3-74 or 4-74. An "adjustment" (intervention, correct ion alteration) was made by the override monad so that I was lifted out of + above my programming + so survived t i.e. lived on. But the inner tape had inscribed on it for the 80st I or 4-74 period postmortem experiences; hence for some til 37 me following the adjustment I actually literally underwent next life, after death" experiences - until the whole thing could be re-normalized (about one year later). Put another way, if the premise is that for abou a year, starting in 3-74, I underwent after life experied cences It can be inferred that I indeed had been programmed to die circa 3-074-74. This also testifies to a continuously unwinding inner tape synchronized with outer evens so that these outer events seem to cause our responses Whereas in fact all the information (responses, actions) are intrinsic, + the outer world merely signals disinhibition
+
+Last edit almost 3 years ago by svayambhu108
+45
+Needs Review
+```
+**Co-occurrences**: Rome, These, Advent, Like, World, Only, Time, After, Good, Could, Just, Again, Both, Those, Still, Another, Phil, Actually, Dick, Death, Other, Very, Life, Body, Information, Later, Whereas, Lamb, Phil Dick, Answer, Until
+
+---
+### Line 7711-7719 (Match: 'Shiva')
+**Folder**: Part This
+
+```text
+Last edit almost 3 years ago by svayambhu108
+47
+Needs Review
+47
+80 "Tears," then, contains 2 messages: 1) the exoteric one, supra; + (i.e the killing) +: 2) the encyphered one of happy cernunnos/Diunysos! Shiva Christ who has returned. "Felix" is not only a ukase to the true church to prosper + be happy; But also contains the name (identity) of the wise Old bearded true King!! So the encoded message collates with the exoteric message! It is not the opposite of the exoteric, but the missing completion of one total message!!? grosteen + bogens soughtfor bilateral hemis‐ pheric parity would, if Julian Jaynes is correct, re-create the bichameral mind, + again we would hear the lost voice of the Gods. The mute right hemisphere would cease to be mute This is what happened to mne in 3-74, along with a lot else - grasteen + Jaynes should collate give us back the vox dee, which would mean the + restoration of divine rule.
+
+Last edit almost 3 years ago by svayambhu108
+48
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, King, Felix, Only, Mind, Again, Divine, Gods, Church, Voice, True, Would, Back, Wise, Right
+
+---
+### Line 7731-7739 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+50
+Needs Review
+50
+Cernunnos - Dionysos - Shiva - not my opinior but cited in the E.B. My dream revelation showed the word "Jesus" to refer to Zeus-Zagreus. But here is more: Shiva's 3rd eye (ouoting the E.B.) turned inward: "bestowing inward vision but capable of burning destruction when focussed outwark" (EB.) Hereby I can equate him with "St. Sophia," God's wisdom; it is bestowed by the 3rd eye. And - I saw that 3rd eye so function, inward + outward, "He is borh the destroyer + the restorer" The bene‐ volent herdsman of souls + the wrathful avenger: This is exactly how I saw the Sibyl. It all fits together: the research + the revelations. Thus Christ is not excluded, But he is made part of a much older religion, equated with Shiva + Dimnysus + cernunnos - an ur religion, the outlines of which are just now emerging from beneath the orthodox Christianity. Probably also Ma'at, Osiris + Horus + thoth + Ptath are involved. Too, as witness The eye of Horus. I believe Juseph campbell, equales The Egyptian + Hindu religions: "the secret partnership" matter. The life-cycle of the universe falls into 3 parts ➀Brahma, the creator; then ➁ the period of Vishnu, the is sustainer; then ➂ the final part where the universe delivered over to Shiva who destroys all of Brahmas creation which is unworthy, + Acts as herds man for the good (i.e. deservine) souls. We have just now passed from period ➁ to period ➂. Roughly, these divisions are the N Age of the Father; ➁ age of the son + finally (, the final -teleological - cause end-stage of the spirit. Shiva has just now "received" the universe from Vishnu g the son. This certainly, then, is the age or moment of Judgment dies Irae
+
+Last edit almost 3 years ago by svayambhu108
+
+51
+```
+**Co-occurrences**: Christ, Acts, Spirit, Jesus, Christianity, Sophia, Wisdom, Dionysos, These, Father, Good, Just, Zagreus, Probably, Sibyl, Creator, Part, More, Zeus, Certainly, Secret, Revelation, Irae, Universe, Finally, Creation, Hindu, Egyptian, Campbell, Have, Judgment, Life, Dream, Ptath, Final
+
+---
+### Line 7736-7744 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+51
+In this 3rd + final age of Shiva, the ajna 3rd eye functions to ➀1 disiern merit; which leads to judgment which ➂ leads to the outward burning/destroying it is an eye fixed on all of us now, discerning in judging, then either destroying or Shiva as herdsman who leads the good (souls) to safety I have in revelation seen all this, but only recently pinned it down vis-a-vis my referenced I listened to my Metz speech. Bells + a moun‐ tain" are even mentioned. There is no doubt that My 3-74 to 2-75 experience was a "contact of the thind kind" but my experience sheds little if any light on exactly what -God, gods or ETIS or future or past humans - this contact is with. No light at all I describe ZEBRA (VALIS) but what is it? Where does it come from? Well, I do claim (correctly) that it or they intervened in human history in '74 to depose the tyranny. It can manipulate our reality. It comes from a parallel world. It can + does control our mind, + our perceptions. It can do anything it wants with or to us. it is benign. In nomine patris, what is it? Has it always been here? If so, it has entered a new, active phase. If not I heard its voice (which I don't mention in the metz speech - there's a lot I don't mention). It is neither/both masculine + feminine. It is an AI system, God, I think it is that which calls itself Ho On we see things as they are not. It is everything - the one appearing as the many. Now it steps forth, at last as set to ground - it breaks 2000 years of silence. I feel joy + excitement, but also an awed fear - we are nothing compared to it. I know its love for us. It saved us - But it is so vast
+
+Last edit almost 3 years ago by svayambhu108
+52
+Needs Review
+```
+**Co-occurrences**: Valis, Zebra, Well, World, Only, Good, Mind, Light, Even, Does, Both, Reality, Everything, Either, Gods, Nothing, Metz, Ground, Voice, Love, Revelation, Many, Have, Things, Judgment, Neither, Human, Final
+
+---
+### Line 7742-7750 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+52
+Needs Review
+52
+83 i In fact I'd say I had a major Encounter of a 3rd kind one more thing I know (besides that it altered our whole history) is that 1) It's connected with true what I call "Fish" ar authentic early Xtianity; + still 2) There is a true, underground church (group) work. for/with it. These are major points; 1) changing the course of history exactly as predicted in the apocalyptic canonical books. 2) It's in league with a true, underground church to whom it lends its power. As speculation (but probably accurate) the entity is the Shiva-cernunnos -Dionysos - Christ - St. Sophia one transcending any one given religion - involving Zoroaster + mani + the Gnostics, e.g. It is Greek, Hindu, Iranian, it Jewishi, Celtic, Christian, manichaean + Lord knows what else (Buddha, too). Mani was right when he saw all The religions as one. + the outlines of this one are becoming visible to me: it involves illegitimate temporal power (rulers) who have craftily ursurpted the citadels, + branded the rightful God as a fool, a jester, a madman, a criminal - made him marginal - our real King who is now ubiquitous, like so Elmo's fire, everywhere + no where. Able to 1) take over + replace inanimate objects + causal processes; + 2) Living creatures, inc humans Wow. Let's see the ursurpertyrant martyr him this time Paupers + Kings" its all [to be seen] backward. as it I mention in Scanner. Trash (rock comics, hovies, Sf) is Gols + gold is trash.
+
+Last edit almost 3 years ago by svayambhu108
+53
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Christianity, Sophia, Gnostic, King, Fish, Greek, Dionysos, Lord, These, Scanner, Like, Time, Buddha, Book, Probably, Zoroaster, Still, More, Church, Living, Real, Gold, True, Hindu, Have, Mani, Right
+
+---
+### Line 7748-7756 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+53
+Needs Review
+53
+0 Although in my visions/dreams it assumed a typical ETI (Shiva-like) form, when I saw it as Valis (Zebra) it looked like whatever it wanted to look like, + seemed to be acorporial I should Remember that at the time, It seemed to be moving retrograde in linear time, which is To say, in answer to the Q "where did it come from? by I would have had to answer: "Apparently from the future" - + yet it was also involved with the distant past as if far past + far future were one, as in a Mobeus strip. I guess it's supratemporal. it just makes mincemeat out of our space-time Categories. Hearing the Mets speech I could once again re-experience the awesomeness of it - vast reaches of space + time, vast knowledge + control of things I've forgotten my latest wrap up formulation. Long ago they" (Shiva-cernunnos-Dionysus - etc i.e. the immortals or Gods, ZEBRA, VALIs, etc) were here; they left, but be fore they left they built circuits into our heads which, down through the centuries (millenia?) would remain latent dormant, blocked - in the DNA coding - until the day came when they'd return. They'd return; their "Fitth column" covert "church" (+ then own presence + power. would drop our GABa fluid + disinhibit these unsus‐ pected circuits in our heads, whereupon we would then remember (back to our origins) + hence recognize "them" as our legitimate rulers returned. This disinhibition. then return, + the deposing of the illegitimate temporal power, has begun. This is what it's all as‐ so t
+
+Last edit almost 3 years ago by svayambhu108
+54
+Needs Review
+```
+**Co-occurrences**: Valis, Zebra, Form, These, Like, Time, Could, Just, Look, Once, Again, Although, Gods, Dionysus, Their, Church, Through, Would, Were, Back, Whatever, Have, Things, Apparently, Remember, Knowledge, Answer, Until
+
+---
+### Line 7754-7762 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+54
+Needs Review
+54
+explains what happened to me (+ to history) in 3-74. Thus they do not so much plant things in our minds as release stuff already there - there + slumbering, waiting for them to come + signal this stuff - of recognition of our true masters - to fire. This is in accord with my analysis (formulation) of us as DNA recording + storage coils, + whose time to kick over into playback has come. But now I see more clearly what this playback is for: so we will not misconstrue "them" as invaders. It is terribly important that we recognize (sic) them, + for what they are with their (or its) gradual, peaceful resumpting of power -rulership over us - the primordial rebel dion + fall of man is reversed + the rightful order -between man + "God- is restored. Thus the apocalyptic books are correct; also, we will see in this ruler - correctly - the Cosmic Christ as Panto‐ grator very likely each religious group (+ persons) will see their own God or Savior - just as I saw the sign of the ancient Xtians, + saw VALIS as the Logos to India it will be Shiva - to each his own God returned. This is an important realization: it/they will manifest themselves differentl to different people, accordin to their expectations. But all humans will recognize then/it as the legitimate ruler(s). It is more than just memory circuits opening by which We would remember + recognize them; we would also perform an intricate sener of actioni regarding them, the purpose of which we would not know. The fact that we could be programng med to perform a complex seres of nonvolitional acts upen their return has enorarous implications.
+
+Last edit almost 3 years ago by svayambhu108
+55
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Acts, Christian, Logos, Fall, Time, Cosmic, Savior, Book, Cosmic Christ, Could, Just, Their, More, True, Will, Would, Very, Clearly, Things, Memory, India, Remember
+
+---
+### Line 7895-7903 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+76
+24 What initiated this transfer process is that sudden. very short but overwhelming return of memory ths if is, in the final analysis- memory of (3; hence the person suddenly knows about ➂ knows it is there - + knows ➁ therefore to be spurious. Now of he canonly get back to (... well, he has a guide + advocate. As a matter of fact, it was this advocate, comforter + guide who arranged the disinhibiting signal which caused the instant of anamnesis; the initiative is by God, + man responds Upon sketching the above schema, I can unerringly see the Xerox missive matter for what it was: it was the first step (part) of the damned, destructive, dooming, killing, falling Maze which the psychopomp led me through + out of - + then on to the beatific reunion with the father. Maneuvering me successfully out of the cul de sac re the yorox message - if I view him as psychopomp, as guide out of a state of dam‐ nation to grace, security - i.e. salvation - it started out as a very tangible salvation, + got better. But that is the name of the whole thing: Maze, doom, + then the psychopomp‐ Savior. As soon as the concept of psychopomp is introduced (as Vimic was to Dante) everything that happened is so easily understood + appreciated. + that which seemed so mystifying + complex is suddenly simple. Of course, one might immediately ask, "who was this psychopomp?? It was Christ (God) of course. What if this psychopomp were the Pantocrator? by the way - Shiva is a psychoromp: "herdoman of souls Hernies (MW 2) was a psychopompos. 8133 Hermes Tristmoges tos is thoth
+
+Last edit almost 3 years ago by svayambhu108
+77
+Needs Review
+```
+**Co-occurrences**: Christ, Xerox, Well, Maze, Father, Therefore, Savior, Missive, Everything, Dante, Xerox Missive, Anamnesis, Grace, Part, Pantocrator, Through, Upon, Were, Very, Back, Memory, Suddenly, Comforter, Hermes, Salvation, Final
+
+---
+### Line 8091-8099 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+107
+Needs Review
+107
+10 Christ is originally a microform of God, growing now to divinize the universe, man included, the universe (world) is unreal (spurious) until infused (transubstentiated) by the Corpus Christi God, as total organism, is totally homeostatic. which includes self-repairing or reweaving. Christ was sent here to the corporeal world to initiate the process of assimilating it (transubstantiating it) to God. It will be eventually absorbed back into God from which it came; it is no more than a physical reflection of God, +, in itself, does not exist (Parmenides, Boehme, etc). world as God (phenomenal world) is illusory; world as assimilated bac to God is real, but its "Many" or diversity is illusory; it is God as sale organism, + alive. Thus beneath the non living is the living i which is intruding on the non-living (or irreal). In the 3 steps of ➀ emanation of world; ➂ sustaining of world; ➂) re-assimilation of world, ➂3 is now in progress, + began at the ist advent; it will be completed at the 2nd advent. Therefore the God In power is Shiva, shepherd of souls + [world] destroyer. Shiva = Cernunnos = Zagreus = Christ as pitted against the non-God world. God + man are isomorphic (1JN 3:2), separated by the emanated world, which is being re absorbed. Finally, only God + man will exist, separated by nothing
+
+Last edit almost 3 years ago by svayambhu108
+108
+Needs Review
+```
+**Co-occurrences**: Christ, Advent, World, Parmenides, Therefore, Only, Does, Jakob Boehme, Zagreus, Being, Christi, Self, Corpus, Nothing, More, Corpus Christi, Living, Real, Universe, Finally, Will, Back, Many, Until
+
+---
+### Line 8105-8113 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+109
+Needs Review
+109
+112 self it -the Godhead- wishes to be aware of it the from outside. We humans do that for it - archemedian standpoints, which (or some of which) it eventually reabsorbs, their work done Perhaps by 3-74, in my writing, I had served my purpose by formulating a long term consistent view of God (as world + qua God) + so could return "inside." There was nothing left for me to say from outside. In my writing I had exhaused or completed this external - stand point view successfully. 3 ages: ➀ Creator (Brahma); ➁ sustainer, (v shnu); 3) destroyer (Shiva) - identical with our3 ages of ( God the Father/creator. ➁2 Christ the sustainer - but Now we are in ➂, the age of the Moly Spirit, whose work it is to dissolve the world qua world, + draw vs back into God: this is our ultimate salvation. No Wonder Christ in John says, "it is for your benefit that I go, because then the 2nd advocate will come, who will explain everything." The merely phenomenal world as such is clasing to exist: all that truly exists are us + God - the "slice of ham" is being cancelled out. Thus, as an aid in our return to God, the realization of the spuriousness of the empirical world (as I present it in my writing is a help (in the form of true knowledge) in that process. In 74, not mere reweaving was involved. But the abolition of great segments of our world. (Shiva) 3-74 to 874 was not characterized by creation of the new, nor sustaining of what exited. but by the destruation existed - hence Shiva
+
+Last edit almost 3 years ago by svayambhu108
+110
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Form, Perhaps, Godhead, Father, World, Because, John, Could, Being, Self, Everything, Great, Nothing, Creator, Their, Such, True, Will, Creation, Back, Knowledge, Salvation
+
+---
+### Line 8111-8119 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+110
+Needs Review
+110
+Thus the urground must have passed over into the final stage - having viewed itself existentially by manifesting itself in the corporeal + as the cor poreal universe. It discered what it was + what it was not. Now the empirical universe served its purpose, + the twofold final process is toking place (which means that judgment has set in!): the not-God (i.e. the irreal) is fading Out, + the fragments of God are being trans‐ substantiated; i.e. drawn back into God. The cita of God + the city of the world are now separating So ZEbra does not equal all of the universe this is not panthiism. It has pierced our world + begun its twofold process: 1) destruction + 2) herdsmen of souls. Exhalation took place - then for a time a separate world from God (the theistic transcendent God) + now return for some parts annihiliztion for the rest. Christ is the judge This task is so mighty that the world power has been deposed; this is Shiva 5 destroying eye turned outward at the "conspirators"; meanwhile, in the ephemera; it is informing + saving (freeing us from the power of the world - nullifying that power over us as it -God through Christ- claims us) This simultaneous two fold process of cosmic inter ventionto 1) save; + ➁ destroy is depicted in "Frolix So I most add another - + crucial - novel of mine as giving a portion of the total message. For a source as to the null-freewill deterministic world, vide Spinoza. He was able to effectively demon strate that the whole system interacts in a totolly deterministic fashion, like a machine, Always the principle of necessity is at work. Spinoza's view of the has 68
+
+Last edit almost 3 years ago by svayambhu108
+
+111
+```
+**Co-occurrences**: Christ, Zebra, Spinoza, Like, World, Time, Cosmic, Does, Being, Frolix, Viewed, Another, Through, Most, Universe, Judge, Back, Meanwhile, Have, Judgment, Having, Final
+
+---
+### Line 8309-8317 (Match: 'Shiva')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+139
+Needs Review
+139
+131 + powerful - + hence unjust - here or - but remember the (innocent] victim has a divine + mysterious dvo cate who comes + goes unpredictably. He can appear In the victim's place - any victim - at any time the trappers may find the ( divinely wise + eloquent] paraclete in their net at any given time-+-place. 1000 times not, I million, but the million. +-once time may be it, + then the ajna eye of Shiva is on them as judge + destroyer. It is our delusional involvement with linear time which tells us (incorrectly) that a multiplicity ar plurality of persons have undergone the Passion - deathresurrection; in truth (although we can't see it) it is the one (divine person) + the one process. This explains (would even predict) why I suddenly "remem bered" or saw that it's really c70 A.D. If there is just the one divine person (not a lot of us) + one passion-death - + resurrection, then there is one time + one space. Pascals remark: "all mankind is one man who continually learns" can here with be cited. within this "one vs the many" framework, not only is it possible to explain my seeing Rome o 70 AD but, to turn it around, what I saw not only confirms This model but can't be explained - would not occurn otherwise. I have empirical confirmation for this model. + without the model I sure had a puzzling experience! In fact, if you start with this model my AD70 experience is a once-in-onebillion-lifetimes confirmation. But I began with the experience + was led slowly + laberiously to the model. My writing - + the thinking behind. it helped one arrive at both experience + model,
+
+Last edit almost 3 years ago by svayambhu108
+140
+Needs Review
+```
+**Co-occurrences**: Rome, Only, Time, Paraclete, Even, Just, Once, Both, Although, Divine, Without, Their, Death, Would, Judge, Many, Have, Wise, Remember, Truth, Suddenly, Otherwise
+
+---

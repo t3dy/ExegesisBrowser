@@ -1,0 +1,344 @@
+# Evidence Packet: Toso
+
+- **Category**: Top Term
+- **Total Mentions**: 1495
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 20-28 (Match: 'Toso')
+**Folder**: Unknown
+
+```text
+What Joe Chip saw: What I saw: FORM REVERSION ROME AGAIN (time reversion)
+
+But this isn't "reversion"; it is completion. Actually I had
+
+Last edit over 5 years ago by Toso
+2
+Indexed
+2
+never realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Orthogonal (i.e the Forms) yes; reversion, no. Now, when I saw what I saw, I had "died" in an actual sense; like those in UBIK I came to the end point of my lineal time-line. But I wasn't depleted; this "decay backward" to Rome which I saw wasn't an entropic process, or even decay at all.
+```
+**Co-occurrences**: Ubik, Indexed, Rome, Form, Like, World, Time, Even, Again, Those, Actually, Chip, Crete
+
+---
+### Line 38-46 (Match: 'Toso')
+**Folder**: part of
+
+```text
+Time didn't reach its completion as an entelechy does; it was pierced -- breached. I'm a pre-cog and I saw this, in my dream, in 1970, which I put in TEARS. It was published in Feb 1974. The rat which died died here in this apartment in March 74, as prefigured in the dream; but in the dream, I was amid the posse, on horseback; thus, some part of me, the "equal" part, survived. The rat was the part of myself which had to perish, and is based on an event in the '50s when I had the murder a poor rat which had gotten in among my sleeping little girls. It shrieked so when it heard me approaching, but I had to kill it. I buried it with my St. Christopher's medal. It is now raised up as Christopher...my son's name, born in 1973. Rog Phillips (who autographed this story of his "Rat in the Skull, 'To Phillip K. Dick, a name under which I frequently write' and who now is dead--) in that great story of his he has the rat pray with its foot, by moving its foot, as the boys destroy it; I cried over that (in the 50s) and when I met Rog just before his death, in 1964, got him to autograph it.
+
+Yes, I see -- that rat was the instrument of saving me; I died with it, and I prayed for it when I killed it; and it's been transformed...in Rog's story, the rat operated a humanoid robot, an android; it could manage to say, "Mama" and "papa" and could recognize the two people who were testing it, the android. It worked pedals. When the boys removed it, it was trying to work the pedals, now gone, and Rog said, It was as if it were praying. I'm sorry, poor rat; Rog is dead; the rat is dead, and I must stop typing or Tessa will get me.
+
+Last edit over 5 years ago by Toso
+3
+Complete
+3
+Tessa's name for me (without her knowing all this, supra) is Rowie Rog. A combination of sounds which pierce to my soul, for evident reasons. Rog Phillips, by the way, was a friend of Tony Boucher, also dead...Ich Bin die liethe etc. Preface to UBIK.
+```
+**Co-occurrences**: Tears, Ubik, Complete, Time, Could, Does, Just, March, Tony, Great, Without, Tessa, Part, Soul, Dick, Before, Death, Will, Christopher, Were, Under, Dead, Dream
+
+---
+### Line 240-248 (Match: 'Toso')
+**Folder**: book of
+
+```text
+With warm personal regards.
+
+Philip K. Dick 1405 Cameo Lane #4 Fullerton, Calif 92631, USA
+
+Last edit over 5 years ago by Toso
+14
+Indexed
+14
+Handwritten notes in PKD’s hand: A Light struck meadow for Tony Hiss & the Real World. Hark! Each tree its silence breaks – Nicholas Brody 1692
+```
+**Co-occurrences**: Indexed, World, Light, Tony, Philip, Real, Dick, Fullerton, Calif, Tree
+
+---
+### Line 5384-5392 (Match: 'Toso')
+**Folder**: part of
+
+```text
+Before this life this life next life
+
+NB: in reading Lem on Ubik I see this: in my worldview (head) there is no appreciation or recognition of causality as normally understood - & I recall that dilemma when I was 19 & found I simply could literally not see causality - while all other people do. This explains my "10 theories" on the Nov 19 break in!
+
+Last edit over 6 years ago by Toso
+Page 4
+Indexed
+Page 4
+4
+```
+**Co-occurrences**: Ubik, Indexed, Could, Before, Other, Page, Life
+
+---
+### Line 5674-5682 (Match: 'Toso')
+**Folder**: part in
+
+```text
+1
+
+Wisdom carries history to its goal. W. + God in his function of world rule are the same thing. But W. is distinguishable from God. She has a part in governing the universe. "Passing into holy souls - her mission to man. She is loved by God as a bride. "All these attributes (are) preparation for the theology of the Trinity; they are resumed by St Paul + St John + applied to Christ, the incarnate word + wisdom of God. It should be noted that this doctrine of W. gives rise not only to a theology of the Word but to a theology of the Spirit, of the sanctifying Spirit, the inspiration of the prophets, the source of knowledge + understanding in the world. The author at times seems even to identify W. with the Spirit: the guidance of men, + of kings, artistic + prophetic inspiration. But Xtian doctrine has [instead] identified it (her) with the word. 8:3: "...since the Lord of All has loved her. Yes, she is an initiate in the mysteries of God's knowledge, making choice of the works he is to do." Probably it's from this that the LDS say God has a bride. The reason I felt myself (3-74 on) to be female was because the possessing spirit in me is female. 8:6: "W., designer of all. 1:5: the Holy Spirit of instruction" (Note: "reference to the divine power directing man's life; the text finds its highest application, however, in the Holy Spirit - JN 14:26 (which reads: "But the advocate, the Holy Spirit, whom the Father will send in my name, will teach you everything, + remind you of what I have said to you." + the footnote here is: "in place of the departed Christ, the faithful will have the Spirit; he is the Parakletos, who intercedes with the Father, + whose voice is heard in human courts. He is the Spirit of truth, leading men to the very fulness of truth, teaching them to understand the very mystery of Christ - his fulfillment of the scripture, the meaning of his words, of his actions, + of his signs, all hitherto obscure to the discples. In this way the Spirit is to bear witness to Christ, etc."
+
+Last edit over 5 years ago by Toso
+2
+Indexed
+2
+2
+```
+**Co-occurrences**: Christ, Christian, Indexed, Spirit, Holy, Holy Spirit, Paul, However, Wisdom, Lord, These, Father, World, Since, Because, Only, John, Even, Everything, Divine, Probably, Part, Voice, Universe, Will, Mission, Very, Have, Life, Instead, Trinity, Knowledge, Truth, Human
+
+---
+### Line 5682-5690 (Match: 'Toso')
+**Folder**: Book of
+
+```text
+2
+
+Thus the single sentence "St Sophia will be born again; she was not acceptable before" opens up + unlocks everything; i.e. the vast + beautiful mystery of the Trinity, + confirms it all. 1) The sentence shows her to be Christ, beyond any doubt (as the RCC + JWs et al. agree). 2) Yet, who spoke those words? A: the Holy Spirit, who, I think, was she also. + Zebra, what I saw - was that Christ, reuniting the "decomposing universe into an organism with himself as head" - was Zebra not imminent deity? Which is to say God? The 3 of them flow back + forth into each other + one another. But what are we to think where it is said of Wisdom that she "tells God what to do," +, as the J. Bible gloss says, is "like a bride to God"? Proved absolutely is St Sophia (Wisdom) = Christ. + from John + what the EB says, etc, I get the distinct impression that the Holy Spirit is the unincarnated Christ, which leads back to PV 8 + Holy Wisdom again. ____ The apocalyptic scene I glimpsed of the siege lifted + the prisons freed + the tyrant destroyed turns out to be Cyrus' siege of Babylon + Belshazar: the prisoner(s) being Daniel; as in Tears, which describes "Babylon" (i.e. Rome, the paradigm of the Black Iron Prison), the elements of the Book of Daniel -i.e. apocalyptic scripture per se, emerge. This external "Fidelio-like" siege did not occur in 1974, but my total vision (timeless + spaceless) included it anyhow. Babylon = Rome = Washington DC = Moscow, etc. I have finally tracked down my Black Iron Prison + lifting of the oppression by external siege vision; Daniel, John of Patmos + I all saw the same things (vide all of Tears, esp. the dream). From the gloss on 'Wisdom' I understand that it is she who inspires prophets; in fact the text explicates this.
+
+Last edit over 5 years ago by Toso
+3
+Indexed
+3
+3
+```
+**Co-occurrences**: Christ, Tears, Indexed, Spirit, Holy, Zebra, Rome, Holy Spirit, Sophia, Bible, Wisdom, Like, Iron, Prison, John, Black, Holy Wisdom, Book, St Sophia, Anyhow, Again, Being, Everything, Black Iron Prison, Himself, Daniel, Those, Another, Babylon, Before, Universe, Finally, Will, Deity, Other, Back, Beyond, Have, Things, Trinity, Iron Prison, Dream
+
+---
+### Line 5690-5698 (Match: 'Toso')
+**Folder**: Book of
+
+```text
+3
+
+Can I say, "the Spirit which came to me spoke of Holy Wisdom" or "was Holy Wisdom"? A study of the Book "Wisdom" definitely indicates it was indeed Holy Wisdom. The J. Bible exegetes admit the Holy Wisdom can more readily be equated with Christ (as the sentence I heard indicates) but also points to the Holy Spirit. Thus it was that St Augustine could speak of the "infinite mystery" of the Trinity, +why (1) the church maintains the doctrine of 1 essence + 3 persons (aspects), not 3 essences or Gods. There can be no other interpretation possible if the various canonical books are read scrupulously, there is no other view one can come to; my experience (in 3-74) plus reading the scriptures both lead me to this view - that of the church. They/it/he/she - is/are not like us, are/is not isomorphic with humans, with created things. Lying outside of time + space - they/it are/is immortal + seem to consist of radiation or energy, +, as in Ubik, are everywhere + know everything, + in reuniting the cosmos (which is decomposing) into a new organism which is the corpus Christi (Christos Kyrios) it is in the process of becoming everything + everywhere (the "3 Stigmata of P.E." gives, as has been pointed out, a diabolic mirror opposite image of this divine transsubstantiation + is very instructive). - Something I never considered before is this: since -not if but since (as I know from my own experience) this divine entity can transfer knowledge to our minds, of the most complex + deep sort, why doesn't it clear up these mysteries about its nature once + for all? (1) to all Christendom; (2) or just even to me? I learned from it all sorts of things, but - such mystery remains. Or does it? Is not the [only] limitation that of our own limited conceptualizing faculties? It is not intrinsically mysterious - it is only a mystery to our limited minds + experience. That which reveals, + confers knowledge, can't be accused of creating mystery. What it does, I guess, is disclose the existence of mysteries - in the sense of the deepest core of meaning at the ontological heart of reality. It points to, as one points to or out, say, a sculpture - a thing which is, not a mere verbal explanation but directly at the thing itself, to be comtemplated as the final is. (Cf Heraclitus: "The oracle does not answer yes or no - it instead gives a sign (Zeichen) meaning."
+
+Last edit over 5 years ago by Toso
+4
+Indexed
+4
+4
+```
+**Co-occurrences**: Christ, Ubik, Indexed, Spirit, Holy, Holy Spirit, Bible, Wisdom, These, Like, Since, Only, Time, Stigmata, Holy Wisdom, Book, Even, Could, Does, Just, Something, Once, Both, Reality, Heraclitus, Christi, Everything, Divine, Corpus, Augustine, Christos, Gods, More, Church, Corpus Christi, Most, Such, Before, Other, Very, Things, Instead, Trinity, Knowledge, Kyrios, Doesn, Final, Answer
+
+---
+### Line 5698-5706 (Match: 'Toso')
+**Folder**: Book of
+
+```text
+4
+
+By an act of belief ("credo") when I saw the Golden Fish Sign + heard the words I broke the power of this, the stamped-out [mere] image (eikon) world over me + received grace, received the real (supratemporal) world + the sole 3-aspect life that dwells throughout it. Gnosticism is correct; this is (but perhaps was not always!) a flawed (or fallen, decomposing) level (a la Plotinus). The sign (Zeichen) in a sense woke me up (cf the slumbering soul, cf Plato, cf Pythagoras). (Cf Heraclitus + the idios kosmos vs the koinos, within the latter lying -acting- the Logos. Thus, too in a sense I broke the power of the curse, which is a blindness + a sleep - in which we are in darkness; thus the salvific power is referred to as "the Light of the world" "which the darkness neither knows, recognizes, sees nor accepts." Darkness + blindness are related - also seeing + light. When I say "I broke the power of this [false] world over me by an act of faith (pistis) I am saying that in some sense this world is a delusion; evidently this is what is meant by dokos or maya. (This insight may be the most important of all: what I then related to was an eternal archetype of apocalypse: "Babylon," "Daniel" "Cyrus" "God" [or Wisdom or Christ or the Logos]. The best meaning of dokos here is, "the counterfeit passing as the real thing." Whence comes this dokos? Because our brains construct (hypostatize) an isomorphic (to us) outer analog - + the Trinity is not isomorphic nor subject to hypostatization, + is perceptually rejected. This is what Christ meant when he said, "Believe in me; I have (can - have the power to) overcome the world."
+
+Last edit over 5 years ago by Toso
+5
+Indexed
+5
+Since we could not reach up to (perceive, relate to) the real world, the word came here + subjected itself to the forces here, but, at the same time, this was its theophany to + for us, it came here + was visible; all we had to do was believe. He presented his credentials + then, later, conferred authority (out of himself; of himself) onto his disciples, so that the good news could propagate by divine authority. Perhaps even I directly received this authority or anyhow knowledge (of the truth, i.e. of him, who alone has full salvific power over us + for us, over this world as he reunites it into the self (himself) organism-entity inc. us. Scripture says that, trans-time, I speak with (or for a while did) the authority of the Parakletos. What took place was what is called adoption - I have become an adopted son of God (cf J. Bible). A very important aspect of the above realization (of how the deluding power of this world was broken for me) is the link with my 26 years or more of writing: my basic theme(s) prepared the way (for me) for that moment, + may well help others - if this is so, then my corpus of writing, esp. my "what is real?" theme may be serving salvifically - may do good. But my act of belief was related to memory - i.e. return. I attribute that to the spirit, which must already have been within me. The J. Bible says, "W. carries history to its goal." This is exactly what I saw. I deduce that I was made use of by W. in the history process, c. 3-74 to 8-74. Had I no historic role to play - would she have rescued me anyhow? There is an interesting answer to this: the trouble I was in was related to my historic role; the two can't be separated. I think it has to do with Tears. There is no uniform (in contrast to pluriform) use or purpose or involvement as we are accustomed to in normal human terms. This is part of the mystery of both the nature + purpose of the Trinity, this pluriform quality: multifaceted. I can date my initial experience with the deity in the "Palmer Eldritch" vision I had -saw in the sky- in the early sixties. But it was there even before, my sense of the (i.e. this) world as delusional. Interesting point: "Time Out of Joint" is a novel about it really being a different time than it seems. Like in Valis where it turns out to be 70 AD instead of 1974. Is there a clue in "Joint"?
+```
+**Co-occurrences**: Christ, Valis, Tears, Indexed, Spirit, Logos, Plato, Fish, Well, Bible, Gnosticism, Golden, Wisdom, Perhaps, Plotinus, Like, World, Since, Because, Golden Fish, Time, Faith, Pythagoras, Good, Light, Even, Could, Joint, Anyhow, Both, Maya, Kosmos, Heraclitus, Being, Self, Eldritch, Divine, Himself, Palmer, Corpus, Daniel, Palmer Eldritch, Grace, Darkness, Part, Dokos, More, Soul, Babylon, Most, Real, Before, Deity, Would, Very, Have, Life, Memory, Instead, Neither, Later, Trinity, Knowledge, Truth, Human, Evidently, Answer
+
+---
+### Line 5704-5712 (Match: 'Toso')
+**Folder**: part of
+
+```text
+Indexed
+5
+Since we could not reach up to (perceive, relate to) the real world, the word came here + subjected itself to the forces here, but, at the same time, this was its theophany to + for us, it came here + was visible; all we had to do was believe. He presented his credentials + then, later, conferred authority (out of himself; of himself) onto his disciples, so that the good news could propagate by divine authority. Perhaps even I directly received this authority or anyhow knowledge (of the truth, i.e. of him, who alone has full salvific power over us + for us, over this world as he reunites it into the self (himself) organism-entity inc. us. Scripture says that, trans-time, I speak with (or for a while did) the authority of the Parakletos. What took place was what is called adoption - I have become an adopted son of God (cf J. Bible). A very important aspect of the above realization (of how the deluding power of this world was broken for me) is the link with my 26 years or more of writing: my basic theme(s) prepared the way (for me) for that moment, + may well help others - if this is so, then my corpus of writing, esp. my "what is real?" theme may be serving salvifically - may do good. But my act of belief was related to memory - i.e. return. I attribute that to the spirit, which must already have been within me. The J. Bible says, "W. carries history to its goal." This is exactly what I saw. I deduce that I was made use of by W. in the history process, c. 3-74 to 8-74. Had I no historic role to play - would she have rescued me anyhow? There is an interesting answer to this: the trouble I was in was related to my historic role; the two can't be separated. I think it has to do with Tears. There is no uniform (in contrast to pluriform) use or purpose or involvement as we are accustomed to in normal human terms. This is part of the mystery of both the nature + purpose of the Trinity, this pluriform quality: multifaceted. I can date my initial experience with the deity in the "Palmer Eldritch" vision I had -saw in the sky- in the early sixties. But it was there even before, my sense of the (i.e. this) world as delusional. Interesting point: "Time Out of Joint" is a novel about it really being a different time than it seems. Like in Valis where it turns out to be 70 AD instead of 1974. Is there a clue in "Joint"?
+
+Last edit over 5 years ago by Toso
+
+6
+In "Time Out of Joint" the world is a fake, + specifically the real world is another time-segment. My initial revelation in 3-74 was that the time was really around 70 AD - not later but earlier, a reversal of "Joint." Yet, the basic information is there, fully, in "Joint"; this is all a cunningly fabricated delusion, the world we see, + the basic delusion has to do with the true temporal locus. Since "Joint" was SF I naturally put the real time in the future, not the past. Damn it, I've overlooked the extraordinary parallels between "Joint" + my "it's really 70 AD!" experience. E.g. the dream I had of the dark, old-fashioned house with the archaic window shades, the cracked mirror - + realizing I couldn't get out of of that world without God's help. My incessantly-recurring dream of the 1126 Francisco St house - that's where I lived when I wrote "Joint" - that was the fake world of the novel, + resembles the miserable old house in Placentia dream. Is there some clue in my 1126 Francisco St dream? It was with Joan that I so recently saw it again, after many years. Maybe I have a soul which leaves my body in sleep + goes back in time (+, as in 3-74, forward). Back in the fifties when I lived at 1126 Francisco St actually, as expressed in "Joint" that world seemed unreal; in actuality, "it was decades later" (in "Joint"). But now that it is decades later, that past time + place seems real (or anyhow the past somehow) + this a fake. +, as I say, it is also astonishing how in '74 I foresaw the Sonoma events of the past 3 months! What is my real relationship to time? I experience the near past, the near future, + the very far past; a lot of my soul or psyche seems to be transtemporal ...maybe this is why any given present space time seems somehow unreal or delusional to me. I span across + hence beyond it; always have - + the transtemporal is the eternal, the divine, the immortal spirit. How long have I been here, + how many times? Who or what am I, + how old? Reality outside confronts me as a mystery, + so does my own inner identity, the two are fused. Who am I? When is it? Where am I? This sounds like madness. But when I read the scriptures I find myself in the world which is to me real, + I understand myself. The Bible is a door (3:5?)
+```
+**Co-occurrences**: Valis, Tears, Indexed, Spirit, Well, Bible, Perhaps, Maybe, Like, World, Since, Time, After, Good, Even, Could, Joint, Does, Anyhow, Again, Both, Reality, Being, Self, Eldritch, Divine, Himself, Palmer, Corpus, House, Without, Palmer Eldritch, Part, More, Another, Soul, Real, Actually, Before, Revelation, True, Deity, Would, Somehow, Very, Back, Beyond, Many, Have, Body, Dark, Fake, Memory, Information, Instead, Later, Trinity, Knowledge, Truth, Human, Dream, Answer
+
+---
+### Line 5709-5717 (Match: 'Toso')
+**Folder**: part of
+
+```text
+6
+In "Time Out of Joint" the world is a fake, + specifically the real world is another time-segment. My initial revelation in 3-74 was that the time was really around 70 AD - not later but earlier, a reversal of "Joint." Yet, the basic information is there, fully, in "Joint"; this is all a cunningly fabricated delusion, the world we see, + the basic delusion has to do with the true temporal locus. Since "Joint" was SF I naturally put the real time in the future, not the past. Damn it, I've overlooked the extraordinary parallels between "Joint" + my "it's really 70 AD!" experience. E.g. the dream I had of the dark, old-fashioned house with the archaic window shades, the cracked mirror - + realizing I couldn't get out of of that world without God's help. My incessantly-recurring dream of the 1126 Francisco St house - that's where I lived when I wrote "Joint" - that was the fake world of the novel, + resembles the miserable old house in Placentia dream. Is there some clue in my 1126 Francisco St dream? It was with Joan that I so recently saw it again, after many years. Maybe I have a soul which leaves my body in sleep + goes back in time (+, as in 3-74, forward). Back in the fifties when I lived at 1126 Francisco St actually, as expressed in "Joint" that world seemed unreal; in actuality, "it was decades later" (in "Joint"). But now that it is decades later, that past time + place seems real (or anyhow the past somehow) + this a fake. +, as I say, it is also astonishing how in '74 I foresaw the Sonoma events of the past 3 months! What is my real relationship to time? I experience the near past, the near future, + the very far past; a lot of my soul or psyche seems to be transtemporal ...maybe this is why any given present space time seems somehow unreal or delusional to me. I span across + hence beyond it; always have - + the transtemporal is the eternal, the divine, the immortal spirit. How long have I been here, + how many times? Who or what am I, + how old? Reality outside confronts me as a mystery, + so does my own inner identity, the two are fused. Who am I? When is it? Where am I? This sounds like madness. But when I read the scriptures I find myself in the world which is to me real, + I understand myself. The Bible is a door (3:5?)
+
+Last edit over 5 years ago by Toso
+7
+Indexed
+7
+7
+```
+**Co-occurrences**: Indexed, Spirit, Bible, Maybe, Like, World, Since, Time, After, Joint, Does, Anyhow, Again, Reality, Divine, House, Without, Another, Soul, Real, Actually, Revelation, True, Somehow, Very, Back, Beyond, Many, Have, Body, Dark, Fake, Information, Later, Dream
+
+---
+### Line 5717-5725 (Match: 'Toso')
+**Folder**: part of
+
+```text
+7
+
+The 3 eyed Sibyl - was that Holy Wisdom? Deities from Greek + Hebrew antiquity: Asklepios + Elijah, Zagreus, the Sibyl. the cyclopse. If I am insane then so were they. + all the koine words - + always we get back to Ubik + "The man contains -not the boy- but the former man" + the whole form-regression - except in my case it was thousands of years, not just a century (but the principle is the same: the present unpeeling to expose the lower, earlier layers, like geological strata exactly. But along the form (orthogonal?) axis. ___ The J. Bible gloss on John says that the whole purpose of the Messiah's coming "is to baptise in the Holy Spirit," which flows from his (Christ's) resurrected body like water from an inexhaustible spring, conferring life. "The spirit rests on him + so he can confer it on others." This is the Adoptionist view - that at Christ's baptism by John, God sent. Mark: 'The Messianic secret': not until after his death was anyone to know that Jesus was the Messiah. Fascinating. I didn't realize that. A secret the 2nd time? No. He will come as rightful king to openly claim his kingdom. But - yes, this is implied by the words "...she was not acceptable before" implying this 2nd time will be otherwise. Look! The historic intervention, the overthrow of the conspirators - that there is alone a crucial difference. This time Caesar has been deposed. The way is being prepared. In fact, the intervention of '74 is best understood not intrinsically but as the beginning; Wisdom (Christ) is already here. Revelation: (+) "The definite sign of the establishment of the Kingdom is the destruction of the enemy of God's people! I.e. Babylon." Is this not what took place in '74? Did I not flash on the fact just 2 days ago that Cyrus besieging Babylon was the besieging I'd had the vision of - as having taken place? Rev: "The time of waiting is over... God's secret intention will be fulfilled" - + the (+) footnote here! J. Bible gloss, Rev 17:"Rome (Nero) is guilty of the double crime of idolatry + murder (v. what the Sibyl said about the conspirators having murdered our leaders -
+
+Last edit over 5 years ago by Toso
+8
+Indexed
+8
+8
+```
+**Co-occurrences**: Christ, Ubik, Indexed, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Bible, Wisdom, Elijah, Like, John, Time, After, Holy Wisdom, Hebrew, Just, Look, Zagreus, Being, Messianic, Sibyl, Babylon, Secret, Before, Revelation, Death, Will, Messiah, Were, Back, Caesar, Life, Body, Spring, Days, Having, Except, Otherwise, Lower, Until
+
+---
+### Line 5729-5737 (Match: 'Toso')
+**Folder**: part of
+
+```text
+{Illustration:} Black Iron Prison archetype {with arrows to} Babylon / Rome / Police Bldg in Tears / USA {with explanatory text:} The Platonist eternal (i.e. timeless) world printing out again + again into time from one source (or form - eidola - all the eikoi)
+
+Pinky wearing the scarf - dying + humiliated, + being somehow Christ, revealed this truth to me. Among the archetypes are the divine: Christ, e.g., who is always with us. Yea, to the very end. In 3-74 as I recognized at the time, I had abreacted to the medieval Weltansicht; when I did so I broke up (à la Plotinus) out of the eikoi of the space time world + into the real (edoli). The Kingdom, "Babylon-Rome-Washington- + Flow My Tears [The Police Academy Bldg where Buckman worked] - all of them were perceptible to me, these eternal forms. Eureka. I herewith am not merely explaining what I saw - I more important see that what I saw itself explains what we normally see (+ don't see). Via this schema it can be understood how simultaneously I could be in the USA 1974 + Rome c 70 AD. He was there + I didn't know him (until afterward). But I saw Him resurrected + oh so great + strong - back there again - with the Father, beyond the 3:5 door. In '74 (August) he died for me. +, as I recently realized, I was programmed to literally physically die at that time. He interposed himself as voluntary, saved me.
+
+Last edit over 5 years ago by Toso
+9
+Indexed
+9
+9
+```
+**Co-occurrences**: Christ, Tears, Indexed, Rome, Form, Kingdom, These, Plotinus, Father, World, Iron, Prison, Time, Platonist, Black, Buckman, Could, Pinky, Again, Being, Divine, Black Iron Prison, Himself, Great, More, Babylon, Real, Somehow, Were, Illustration, Very, Back, Beyond, Truth, Iron Prison, Until, August
+
+---
+### Line 5739-5747 (Match: 'Toso')
+**Folder**: part of
+
+```text
+- When I saw the Golden Fish Sign + heard her words I understood (believed - pistis - faith) the truth; that it was at that moment really c. 70 A.D. The medieval archetypal printout view of reality (supra) explains how this could be true; then "Klingsor's magic castle" disappeared - linear time reality lost its power over me - i.e. the world. 70 AD is (as is shown in Ubik) somehow within or underneath the "accidents" which we see; it is at essence level. Back to the view of circular sweep out non linear time. Where is Rome + 70 AD? Contained within 1974 AD USA. I had, in Ubik, conceptually prepared the way! Rocket ship -> to Boeing 707 -> to JN trainer 1977 USA -> 70 AD Rome -> ? BC Babylon -> etc Back or deeper - within. But still here: retrievable. Based on the concepts expressed in Ubik, I could grasp this in 3-74 when I saw the Fish + heard the words; I penetrated into the supratemporal heart, as occurs e.g. each time the Eucharist is given. + the retrieval was both inside me as well as perceptually outside. Regression along the form-axis is exactly what I underwent in 3-74, set off by the Fish in 2-74. This is the first clue that it was due to something I did, rather than done to me. - But what is really there is not a prior manifestation (Babylon or Rome) but the timeless archetype: that is what I saw: the timeless -Platonic- form, not just an earlier one. However, the archetype more closely resembles historic Babylon + Rome than does the present. We are not dealing here with merely the surfacing of prior manifestations of the archetype but with the archetype itself.
+
+339.31 to Roger Net to me: 1118.14 + 11.94 + 339.31 ________________ deposit 1469.39
+
+Last edit over 5 years ago by Toso
+10
+Indexed
+10
+10
+```
+**Co-occurrences**: Ubik, Indexed, Rome, Form, Fish, Well, Golden, However, World, Golden Fish, Time, Faith, Could, Does, Just, Something, Both, Reality, Platonic, Eucharist, Still, More, Babylon, True, Somehow, Back, Truth, Magic
+
+---
+### Line 5747-5755 (Match: 'Toso')
+**Folder**: part of
+
+```text
+10
+
+However, by perceiving the timeless archetype I was lifted into a transtemporal state + saw all the manifestations -printouts- of the archetype as well as the archetype itself. The archetype is the How of, How can we of A.D. 1974 perceive Rome A.D. 70 + Babylon c 1000 B.C.? Thus US 1974 was Rome 70 was Babylon, was the prison state / police bldg in Tears was gulag. + the imprisoned are/were always Jews/Christians which made me de facto a Christian + linked to my 70 A.D. counterpart, +, inwardly, I became my transtemporal self, for whom the Xerox letter (or analog thereof) had already come before (it could be a future self rather than past! In which case the 1974 manifestation of the Black Iron Prison is not the last in linear time - maybe that's why it seemed to have come from the future, although still somehow related to the distant past - all, past, present + future, were rolled up together in the transtemporal archetype. Imagine - my future incarnation migrating backward in time to help me! This is why I felt for some time that the 3 eyed "ETI"s were our descendants. Was the whole historic intervention from the future, then? If so, it was by + from the perfected, restored [to their original state] supermen-Christians, men evolved into angels. Help from the King, but from his millenial Kingdom which lies ahead in linear time, not from above? - The prisoners in the Black Iron Prison (city) who were saved when the invading column reached the walls: I was one of those prisoners - like Daniel or Florestan languishing in the dungeon, in chains, who was rescued by the supernatural aid in 3-74. I, imprisoned there in that bedroom, as in the Rome dream in the underground cage, waiting for them to swoop down + get me. Viewing myself as being that (prisoner) in the "Babylon" archetype, I can see better why, when the general historic intervention occured in 3-74, I specifically was rescued: in the archetype I [was one who] held that [to be rescued] role as prisoner [of the tyrant]. For the print out to be complete, those such as me had to be rescued: we-I were an essential part of the situation.
+
+Last edit over 5 years ago by Toso
+
+11
+11
+```
+**Co-occurrences**: Tears, Christian, Complete, Xerox, Rome, Kingdom, King, Well, However, Maybe, Like, Iron, Prison, Time, Black, Could, Being, Although, Self, Black Iron Prison, Daniel, Those, Still, Jews, Part, Their, Babylon, Such, Before, Somehow, Were, Have, Iron Prison, Dream
+
+---
+### Line 5754-5762 (Match: 'Toso')
+**Folder**: book was
+
+```text
+11
+
+In Tears it was Jason Taverner - + he was (after the king + knights dream) found innocent. + the tyrant, represented by Buckman, fell. The whole system fell. Now, with [better] clarity, I can see why, in Tears, the dream had to be there: it marked the intervention by God, signalling the fall of the prison; i.e. the breaching through, the intervention, the change - exactly as was to occur here in our world 3 or 4 years later. Tears is a depictment of all which was very soon actually to occur in our own world, + the book was an accurate analog for our own world. All the archetypal aspects were in the book (Felix Buckman as Roman procuratrator). (This facet of the book linked it to Rome - the dream to Daniel + hence Babylon - thus the book links all the manifestations of the archetype. The Q: 'Why me + not others?' is partially answered by the simple fact that at the moment of intervention I was down there in the dungeon - for most of the others their captivity had come earlier; i.e. before the moment of intervention. (Like Florestan, it was a woman "dressed as a man" - i.e. disguised as a man, who saved me: Santa Sofia. Sophia, i.e. the King in his unincarnated Wisdom (hence female) form. But an ever more accurate (+ precise) depiction of the "Babylon" archetype is found in Frolix 8: the one prisoner, the tyranny, + the sudden (utterly unexpected) intervention from outside. + the prisoner is compared explicitly to Christ. +, as Paul pointed out, the 3 eyed "ETIs" I saw resembled the humanoids on the book club edition of Frolix 8. Obviously, when I wrote it ('69?) I was beginning to see the US in those terms, but did not know of the Babylon-Rome archetype lying underneath - at least I didn't know (remember) consciously. Help came from another civilization. Not terran. Sometimes I think that's what the 3-eyed entities were. Is it possible that in Frolix 8 I guessed the literal truth, that help was on the way from ETIs? + - could the authorities have known, + this was why that after Frolix 8 came out they hit my house? My scenario in Frolix 8 wasn't fiction? They knew this, but I didn't. (But did know later - 4 or 5 years later). + in Frolix 8 there was the [Xtian] underground which I later (in 3-74) saw in a vision.
+
+Last edit over 5 years ago by Toso
+12
+Indexed
+12
+12
+```
+**Co-occurrences**: Christ, Tears, Christian, Indexed, Rome, Form, Sophia, King, Paul, Felix, Roman, Wisdom, Like, World, Fall, Prison, After, Buckman, Book, Could, Taverner, Obviously, Frolix, Daniel, House, Jason, Santa, Those, Their, More, Another, Through, Babylon, Most, Actually, Before, Were, Jason Taverner, Very, Have, Later, Remember, Truth, Dream
+
+---
+### Line 5762-5770 (Match: 'Toso')
+**Folder**: book was
+
+```text
+12
+
+- The whole sphere of "astral influence" (determinism) was signified, to me, by the materialistic CP., the "Olive Holt" programming which ran back to my early childhood. It was this that the salvific spirit broke! Thus, for a short time, I perceived myself performing automata actions - + so they were: slavelike + mechanical, not free, not voluntary; + it was against this that I rose up - this is what via the spirit I overthrew. So when I ask how communism + the USSR + the KGB come into the theological picture, this was their role - which was broken by Christ (v. Ephesians + Paul's cosmology). (Also v. Gnosticism: the role of the redeemer is breaking the power of Fate.) For a short while (hours, days) in 3-74 I correctly perceived myself as nothing more than a programmed automaton responding blindly to key stimuli - disinhibited by signals from a rigid structure. This is the primary thing that was done for me, the freeing me from this deterministic prison of which we are all unaware. You can only become aware when/if you are lifted out of it, + this only comes via outside intervention - you can't save yourself because you have the total + perfect delusion of being free + making voluntary choices. But, in this sphere, it is all blind cause + effect - stimulus + response. We can't understand what is meant by Christ saving us because delusion keeps us totally oblivious to this imprisoning mechanism - this "Pavlovian" world.
+
+Last edit over 5 years ago by Toso
+
+1
+Im not emphasizing the real vocal. My primordial (original) facultus was restored, & I could [once again) see God, as is described in Genesis: when man walked and talked with God. I could hear him, too. Isnt this the most important aspect of the 3-74 transformation? (God, which is to say Zebra, transubstantiation within the-our-world.) I've realized this from the start, but not the magnitude of it. Also, it does fit in with what said about our primordial, original ancestors. In me & with me, that state (as well as the place) was restored, although temporary - I simply dont seem to have realized the significance of this (seeing him, ie Zebra). Mostly I concentrated on seeing him being proof of his existance, but if you postulate his existance, then seeing him ascends in importance, to the level of of being indication of restoration of our original start, which, from reading Calvin, I had conjectured was the case with me in 3-74; this new grasp of the meaning of what I saw seems to confirm it. The palm tree garden is the original garden; is this the same as the kingdom of God? If Milton is right in "Paradise Lost" & "P. Regained" this is exactly what Christ intended to achieve! It (if Calvin) can all be boiled down to a lost [higher] state restored, by the lifting of the curse - or occlusion ... was it a punishment? Yes. I must have served my sentence, over 1000's of years - worked my way back. The cardinal asked if the blindness (visual) is to no longer be about to see God. Hence the cardinal sign of restoration is to see him (once more). & to remember the Lost State.
+```
+**Co-occurrences**: Christ, Spirit, Zebra, Kingdom, Paul, Well, Gnosticism, World, Because, Prison, Only, Time, Garden, Could, Does, Once, Again, Kingdom of God, Being, Although, Fate, Palm, Nothing, Their, More, Most, Real, Holt, Olive, Olive Holt, Calvin, Were, Back, Have, Tree, Days, Remember, Paradise, Genesis, Free, Right
+
+---
+### Line 6702-6710 (Match: 'Toso')
+**Folder**: part at
+
+```text
+What I am grappling with is OCCP vs Xtianity; the latter in 2-3-74 was seeming, but on scrupulous scrutiny seems an archetypalization of the former. Perhaps the matter can be resolved if the latter (as I have often said!) is regarded (e.g. Acts + the whole Christ story) as a code (stegenographia), + not literal. Rome literally isn't meant; CAD 45 isn't meant; Christ is/was not a person; the synoptics are a way of talking - but what about? Not that time, nor space, nor those people. This is the resolution of the mystery, not just as to the esoteric meaning of Xtianity but to my 2-3-74 experience which 1) is related to historic change. (Not any one time.) 2) overthrow of the BIP (not literally Rome.) 3) secret revolutionary group (not really Xtians.)
+
+OCCP isn't excluded. (4) A dialectic is involved: antithetical forces (represented to me in 3-74 as those of Zoroastrianism, which brings us to Jim Pike and his discovery that the actual essence of Xtianity was Zoroastrianism, and now to Thomas) it isn't Xtianity nor OCCP yet includes both (the basic elements are common to both; thus, Xtianity is a form of OCCP, + OCCP a form of Xtianity; both are equal expressions in history of something underlying both, originally expressed in the Christ story. I have been assuming the Xtian story to be literally true; there was a person Jesus Christ. But no; this is code. The correct symbol is the Fish, not the cross. What does the Fish represent? It includes OCCP, as hinted in "Faith of..." Off the top I'd say, the ultimate revelation granted me was seeing Valis. But Valis is not Christ because Pyth wrote about it 600
+
+Last edit over 5 years ago by Toso
+2
+Indexed
+2
+2
+```
+**Co-occurrences**: Christ, Valis, Acts, Christian, Thomas, Indexed, Jesus, Rome, Christianity, Form, Fish, Perhaps, Because, Time, Faith, Does, Just, Something, Both, Jesus Christ, Those, Pike, Pyth, Secret, Zoroastrianism, Revelation, Jim Pike, True, Have, Cross, Dialectic
+
+---
+### Line 6720-6728 (Match: 'Toso')
+**Folder**: part at
+
+```text
+{illustration: A seed} Telos which is alive + grows Valis (kosmos, an organism) {surrounded by a square} Generator (BIP) {surrounded by a circle} Scramble (atelos) {; the seed is pointed to by an arrow} Xtians, Pyth, OCCP: deposit seed (telos) from which kosmos (Valis) grows outward from center of the irrational - from center of its generator (i.e. sabotage)
+
+{illustration: Square} BIP {with a seed at its centre, pointed to by arrow} Xtians / Pyth / OCCP penetrate barrier + deposit explosive seed which when it detonates grows into "fitting together" transubstantiation of irrational irreal scramble atelos. Devours it, from center outward. Grain of wheat planted. Of course: Generator of acosmic scramble is protected by a barrier. Scramble generator wasn't always here (hence the legend of the Fall). Yahweh: Scramble Generator. "Valis" is right: irrational but deliberately so (symbolized by "bichlorides of mercury - aspirin of mercury" : it deranges us. It must be shut off - this is done by planting seed (telos or limiting factor which grows into structuring. Ach! Dialectic is insane (atelos): leads to endless procession of impaired "truths" as in Greek philosophy which winds up saying,
+
+Last edit over 5 years ago by Toso
+3
+Indexed
+3
+3
+```
+**Co-occurrences**: Valis, Christian, Indexed, Greek, Fall, Kosmos, Pyth, Yahweh, Illustration, Dialectic, Right
+
+---
+### Line 6730-6738 (Match: 'Toso')
+**Folder**: part at
+
+```text
+1) Nothing is; 2) + if it did exist it couldn't be known; 3) + if known, couldn't be communicated. Something is wrong. Scramble. No way by which we can arrive at knowledge, not due to limitation of our percept systems but 1) a priori scramble ("Scanner") + 2) empirical scramble (Buddhism idealism). V. Calvin. We can neither think nor apprehend, but the morphology for both is there but deliberately impaired (by the scrambler, the generator of the dialectic, which, as I've said, is unstable (irrational). Negation of every negation (Engels). Telos weaves a coherence (Kosmos or Valis) which is stable (rational) + can be known both a priori + a posteriori. Christ is a term for that seed. His death + burial in the tomb + resurrection is code for the sneaking of the seed into the scramble generator (called “Rome” in the code story), its being planted (his passion + death) + its coming to life + growing into Valis. The growing is represented graphically in modern terms as the detonating of explosives smuggled into the BIP (fortress: barrier around the scrambled generator).
+
+{illustration: A center} Scramble generator {surrounded by a cube} BIP fortress barrier {surrounded by a circle} Atelos: Maya acosmos, in macro form as world; in micro form in each of our minds. {Center is pointed to by arrow} OCCP + Xtians smuggling explosive seed (telos) into center of scramble generator of dialectic
+
+Last edit over 5 years ago by Toso
+4
+Complete
+4
+4
+```
+**Co-occurrences**: Christ, Valis, Christian, Complete, Rome, Form, Scanner, World, Something, Both, Maya, Kosmos, Being, Buddhism, Nothing, Death, Macro, Calvin, Illustration, Life, Neither, Knowledge, Dialectic
+
+---
+### Line 6740-6748 (Match: 'Toso')
+**Folder**: part at
+
+```text
+The scramble generator is not blown up; a seed which explodes into growth is smuggled into the center of it, whereupon it [the planted seed] expands in creating Kosmos (Valis), the rational devouring the irrational: feeding on it: an organism eating the atelos. (Dialectic infinitude which endlessly contradicts itself). Preying on the atelos, + is totally stable (coherent, + hence can be known). Nothing can be known of the acosmism (Maya) because we are scrambled +, I guess, it is scrambled (but since we are, there's no way to know that - if all the percipients are scrambled). The heart of the matter is, we are impaired both a priori and a posteriori calculatedly - but the generator can be obviated by the smuggling in of the potentially explosive seed to its heart. "Small as a mustard seed, but will grow into a tree so vast that the birds can roost in it." No wonder 1) He spoke of the "Kingdom of God" but 2) was enigmatic in saying where it was; + 3) He had to die, be buried (at the core of the scrambler generator) + 4) be reborn + grow to cosmic proportion. James-James: The scrambler generator, who has us hypnotized with his light show. Mad as a hatter. Apollo: the god of telos + harmonia. Then telos is a life form come here to exact hagocytosis on the scrambler generator: to prey on it as a supply of parts (food). Viewed biologically, the scrambler generator is a life form harmful to us, + the seed harmful to it, hence our friend.
+
+{illustration: 3 interlinked boxes:} Us: lowest life form / Scrambler generator: higher life form / Seed: highest life form
+
+Last edit over 5 years ago by Toso
+5
+Indexed
+5
+5
+```
+**Co-occurrences**: Valis, Indexed, Form, Kingdom, James, Since, Because, Cosmic, Light, Kingdom of God, Both, Maya, Kosmos, Apollo, Viewed, Nothing, Will, Illustration, Tree, Life, Dialectic
+
+---

@@ -1,0 +1,350 @@
+# Evidence Packet: Pike
+
+- **Category**: Top Term
+- **Total Mentions**: 49
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1712-1720 (Match: 'Pike')
+**Folder**: part of
+
+```text
+The linking, too, of even one fragment of the Greek to the Bible, as was done with the "kai hypsilon," to Romans, is of crucial importance, as with the finding of material derived somehow from Paul's "Acts" in TEARS. (I believe it was "Acts," anyhow one of Paul's works.) Yes, it was Acts, a relatively short section from the Bible; and then Romans comes next, also a relatively short section. When one considers the origin of the New Testament --dictated by the Holy Spirit to men-- then this fits together. Also, my ability during that time to see in brief flashes other events and places which I could confirm, plus the pre-cognition in dreams, was probably to bolster my realization, perhaps later, that I was indeed receiving in-coming information and hence the message was authentic, both in content and in origin.
+
+I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sense. In that area, the Levant, they were still part of the Hellenistic World and so wrote & spoke Greek. I had erroneously been supposing that the spoke/written language of that time would of couse be Latin. Then in 2 75 I did see the Levant for sure. In 3 74 I saw the hurrying secret Christians underground, at their work; they of a proven certainty at least wrote in Greek, and I think spoke Greek; yes, I'm sure. So this adds up: what I saw, and then later what in my head I heard. Yes, the fish sign, composed out of Greek letters and into a Greek word, proves it. I was back, auditorily as well as visually, among the apostles and early followers. And such dreams as "my friend Paul" holding up a prophetic galleyproof text: in which I was mentioned! And "Santa Sophia will be reborn, etc." was what they were into; the Savior has been born once already (obviously, since the Christian fish underground, them, existed); but I recall that I knew they were anticipating him returning, which is to say, Santa Sophia. This was what all their activity was in preparation for. This was their hope and their expectation: the Second Advent. So this is all of a piece. But, I believe, the voice I heard was not a voice from them but rather to them (to us?). This is the news I have; this is the news they had. We are linked together, and with us our two time-space periods. Li[n]ked by that anticipation (and that voice). Whoever it speaks to, and delivers that message, is somehow made one with them, outside time and space and all distances. This Christian underground much itself lie outside of time, like that which it awaits.
+
+. . . Re; TO SCARE THE DEAD. A character based on Jim Pike (with quite another name). Based on firsthand knowledge I had of his private life, e.g. with Maren in the Tenderloin, and the kind of man he was. This could be a major, if not the major character; but it would not be he who would have the Experience; that would be had by another, perhaps after
+
+Last edit over 5 years ago by Harpax
+
+121
+```
+**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Time, Harpax, After, Savior, Even, Could, Anyhow, Once, Both, Obviously, Probably, Santa, Still, Part, Their, Another, Such, Voice, Secret, Jim Pike, Santa Sophia, Will, Would, Other, Somehow, Were, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During
+
+---
+### Line 1884-1892 (Match: 'Pike')
+**Folder**: part remain
+
+```text
+136
+that tell us about our own fate? He must have been born here and lived here; he must have died --preferably dramatically slain in a cruel and unfair way to emphasize his vulnerability-- and then not the immediate testimony right afterward of his resurrection, but rather the actual experience of Him during the mass of a contemporanous nature by each celebrant. I imagine the Fish-Christians ran around whispering excitedly to each other the thrilling news, "He lives!" based not on what 300 people saw one day, but on what they experienced during the feast of agape; I can even imagine the "300 witnesses" testimony as a cover, when they were pressed for an explanation of why they said what they said. And yet it's really all there in John.
+
+The strangest idea, though, of all that comes to me is to envision a group of followers who have the authentic holy-possession experience which I had...and then retrospectively they cast back to try to figure out who it was -- exactly the way I did; I decided it was Jim Pike because he was a holy man who I had known who recently died; the early Christians would assume, but the same logic, that it was Jesus. In each case the individuals would trace it back to the first reasonably likely personal, real or mythical. In my thinking here I'm reversing what is the customary causual flow writers assume, theirs being that the post mortem experience is manufactured to fulfill the wishes of the followers; i.e. the connective chain works in temporal sequence. My question now, when you consider before Christianity were the other Greek mystery religions and before that Tammuz and Adonis and especially Osiris in Egypt -- can we be sure these different religious groups are experiencing different entities -- or rather isn't it just the names which differ? And if it is all one entity which holy-possesses all of them, under a variety of names (call it Jim Pike, Jesus or Osiris), then what in actuality is this holy spirit who has distinct human but transfigured personality (in my case, if not Jim Pike then who?). Maybe a demiurge or mediating spirit which has no copula possibility; i.e. no intrinsic name, such as we have? Maybe -- after 14 months all I really know is that I don't know anything except that it happened to me, and what I saw during that short time was real. That's not much to come down from the mountain with, for the edification of my people. Maybe there just is no common language between our space-time universe and the Eternal World, or common concepts; or ours just don't really apply. The best and clearest part, though, is that evidently it happened in response to my painted-in-the-corner desperation, which tells me that the forces or entity(ies) were assisting me out of agape; and, the news which it finally worked up to (St. Sophia) is of utmost worth, of unparalleled good (of what? Paralleled maybe?). Perhaps this is true, that we have come to the end of an Aeon of Sorrows (about 2000 years); and what I heard is an angel announcement, the announcement ("your young men shall have visions and your old men shall dream dreams"). This fits with my 2 75 vision of the new springtime, which was visually identified with the structure Santa Sophia, out there among the palm trees in the hot sun. And finally, "The Buddha is in the park" makes it universal, as a message, and no parochrial. It is a message of universal redemption and hope and help for mankind -- for the echosphere in general, if I understand my dreams about animals and polluted lakes. I can see where it is an enormous task, really beyond our ability, when we (I mean religious leaders, those actually into forming religions and subsects) struggle with such
+
+Last edit over 5 years ago by Harpax
+137
+Needs Review
+```
+**Co-occurrences**: Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Sophia, Fish, Greek, These, Perhaps, Maybe, World, Because, John, Time, Harpax, After, Buddha, Good, Even, Just, Being, Fate, Palm, Santa, Those, Part, Egypt, Real, Such, Actually, Before, Consider, Jim Pike, True, Santa Sophia, Universe, Finally, Would, Other, Angel, Were, Back, Beyond, Under, Have, Except, During, Human, Dream, Evidently, Right
+
+---
+### Line 2555-2563 (Match: 'Pike')
+**Folder**: part of
+
+```text
+Just too too close (mid March) and too too much to be coincidence. The latter half of March 74 was the precise time of the great counter-attack; it was then or never.
+
+But my visions pointed to something beyond this world; that no matter how much this world is transformed for the better, another better world, a spiritual Unity with God remains there for us, as the ultimate goal (as for the Neoplatonists).
+
+In the long piece which I mailed to Ursula I stressed the uncanny resemblance between UBIK and my experiences: being contacted "by a friend who had died." I attributed the writing to him, too (as in the novel). The friend, though, wasn't Jim Pike but Jesus Christ, I think.
+
+Last edit over 5 years ago by Harpax
+194
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Jesus, World, Time, Harpax, Just, Something, Being, March, Jesus Christ, Great, Another, Jim Pike, Beyond
+
+---
+### Line 2561-2569 (Match: 'Pike')
+**Folder**: book in
+
+```text
+Last edit over 5 years ago by Harpax
+194
+Needs Review
+194
+I describe it (as I wrote in the piece) and then it happens to me. Well, that isn't Jim Pike. UBIK was written before his death. It has a universality, and anyhow the last ad for UBIK tells us what it's about; it makes clear that Ubik is God -- actually Christ (before such was I am). The resemblance to UBIK was so striking and so great that there had to be a reason, which is to say a common root underlying both -- and I knew it without being able to explain it. Certainly Jim Pike didn't explain it. Also, there is another element in UBIK which I noticed in my 3 74 experience: the regression of things, i.e. things moving backward in time. (I don't think until now I noted both these themes as being in UBIK as well as in my 3 74 experience.) Thus the resemblance is even more startling and meaningful than I noted in the piece I sent Ursula. Surely in some fashion the same experience is taking place. Well, in the book, they are dead and experiencing the supernatural or spiritual or next or other universe/world. That I hit on the form-regression implies to me, right now, that the Holy Spirit (which moves backward in time) underwrote the book in some way, to cause me to insert that element. But I possessed no conscious concept or knowledge of Christianity which would have permitted me to depict is so essentially. Furrow, grave, cold-pac. This was a much later copula on my part. This is how it takes place, as in the book with them, stripped of the particularities of time & place. If one extrapolates, one has it -- proof: my 3 74 experience! As I say (supra) someone must call to you, a departed concerned boss or friend after you die; who else could that be but Christ? Only I heard his voice now, which is to say, as the Caris people say, in some fashion we are dead already now (spiritually dead, I guess). We are in cold-pac, I guess. This is why after the Ursula piece I dreamed whole scenes from UBIK. Of course, what I ask is, Is there any possibility that we are in a mutually hallucinated world, like the people in UBIK, a fake world, and that we are dead/have died, like them? After all, I did see this world as somehow cardboard, an illusion (vide Parmenides); is that the implication of what I saw? The womb-like place around us/me, with all the light-color signals, and word-signals being flashed to me? Are they trying to revive me, and for a moment I came to, then sank back?
+
+I think they roused me deliberately temporarily, not with the try to make it permanent at least then; I had work to do; it was a crisis, special situation "the trumpet's loud clamour doth call us to arms!").
+
+What I was inside, like a great living whale, must have been Brahmin.
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Holy, Christianity, Holy Spirit, Form, Well, These, Like, World, Parmenides, Only, Time, Harpax, After, Book, Light, Even, Could, Anyhow, Both, Being, Great, Without, Part, More, Another, Living, Such, Voice, Actually, Certainly, Before, Jim Pike, Death, Universe, Would, Other, Somehow, Back, Surely, Have, Things, Fake, Later, Knowledge, Dead, Right, Someone, Until
+
+---
+### Line 3541-3549 (Match: 'Pike')
+**Folder**: book of
+
+```text
+represented the spiratus veritas, the spirit of truth spoken of by Christ as the Helper who would assist man after His own death. I worked very hard on tne task assigned me, glad to do it, since the entity had extricated me from a thrall of such magnitude that in all candor I still can't speak of it; needless to say, had it not, I would now be in prison — it had to do with civil disobidience on my part during the Viet Nam War, which would have meant, if arrested and con¬ victed, some fifteen years in prison for me. The entity, during the brief period of theolepsy, dealt with the authorities and was so able in its eloquence and wisdom that it earned from the Federal Bureau of Investigation a letter of commendation signed by the assistant director, William Sullivan. Thus, the entity not only extricated me from a seemingly hopeless trap, but put me to worm (in my small way) bringing to light the truth which eventually deposed the tyrant and all his henchmen. This took from March 1974 to August 1974.
+
+The entity transported me from what is called secular time to sacred time (or eternity) and showed me the underlying structure of the universe, in particular the activity of the logos as it weaves the universe anew constantly. The entity restored my lost memories (a process called anamnesis! so that I could remember back over a timespan of two to three thousand years. It spoke to me in Koine Greek, but soon abandoned that, since I did not understand it; however, that was its natural language when addressing humans. You can see from this, and from the fact that it healed my and Christopher physically of all our ailments, that I was in the hands of what is generally callow the holy spirit, and I will accept that name, although it does not tell enough, since Christ Himself, the cosmic Christ, was equally present. I was shown name inscribed in the book of life, and I was shown the next world where humans go, to rejoin their Creator; I heard the singing of angels and saw the beatific vision spoken of by the Medieval saints. Possessing a memory going back thousands of years, and having seen the world to come, I understood that I had been placed here for only a brief part of my total life, that I had come from starry heaven and would return. Lastly, the entity informed me that the Savior would return, be incarnated again, although no date was given; but I was shown tha_ we should prepare for that event as if it might happen at any moment, and we should be constantly in a mood of joyful anticipa¬ tion. l was, at one point, taken back to the first incarnation, and saw the v.st Iron prison which was ——and still is— Rome, the physical presence of the evil spirit, the Prince of This 'World. It was shown to me that tina prophecies of the Bible are all true and are systemati¬ cally being fulfilled. The Parousia evidently is not far ahead of us.
+
+I have wanted to write you about all this for some time; for one thing I was shown old friends, now departed, such as Nick and Tony Boucher and Jim Pike, still living on, but not separately — they had become aspects of God. Again and again I have wondered why I was picked for these revelations, but can find no answer; a Catholic priest with whom I spoke said that the Holy Spirit favors writers, but that hardly explains it; there are many writers, perhaps the severity of my
+
+Last edit almost 5 years ago by svayambhu108
+285
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Rome, Holy Spirit, Greek, Bible, Parousia, However, Wisdom, These, Perhaps, World, Since, Iron, Prison, Only, Time, After, Cosmic, Savior, Book, Cosmic Christ, Light, Could, Does, Again, Being, March, Catholic, Tony, Although, Himself, Bureau, Anamnesis, Creator, Still, Part, Their, Living, Heaven, Such, Jim Pike, True, Death, Universe, Will, Christopher, Would, Very, Back, Many, Have, Life, Memory, Evil, Having, Remember, Truth, During, Iron Prison, Evidently, Answer, August, Sacred
+
+---
+### Line 5046-5054 (Match: 'Pike')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+33
+Needs Review
+33
+30 the freedom + vision of the artist to see reality (the wrld, universe) in new (+ "dangerous to society") ways, + to fight for the [political, right to such a vision. (Qu. My vi speech, Vancouver speech, letters). The God I saw is the God expressing himself in the historic change, process (he came out of the desect (the God of Moses) + entered history at that point. Continuous creation now goes on in history not nature; the historical process + the process. Whit is fashioning (by God's design-Logos) the next new man. the "Romans" represent the old, the imprisoning, the antiquite the holding free individual back imprisoned in "approved" categories + (limited) ways of thinking. My influences (in me) are (erman Romantic, Greek philosophic + theological - the new political German protestants (+ Drking, Jim Pike barth May + tillich, + the exist. P psychologists). The view of me held in Germany + france + the up is the correct one; the issue is the individual creative new vision + man vs traditional autherity + the lesser man constrained - hell back in the historic change process- by it. This includes Christianity as an authoritarian fissilized structure my vast fear + paranoia prior to 3-74 was my total (Berkeley - sprung) awareness of (the) evil historic processes at work, + my (correct) sense of being passive: a victim to + of then. in 3-74 I achieved (was given) a vision of the absolute forces at work shaping (controlling) history behind the malign apparent oes, whereupon I switched over from bein victim of the evil apparent forces + became master of - in active relation to - + in harmony with - the absolute real benign ones - an agent of them Wha appeared in my mind in 3-74 was the certitude, the absolute knowledge. That we could win. That I was not a Romantic tragic hero who had commuted - brave but hopeless gesture + was doomed for it. The forces whom I had opposed - + the equally repressive reactionary authorities of the USSR. they our enemy. were the ones who were doomed. Our time (for victory) had come. What we are dealing with here is an entire evolutionary step upward (forward) + against slavery.
+
+Last edit almost 3 years ago by svayambhu108
+34
+Needs Review
+```
+**Co-occurrences**: Logos, Christianity, Greek, Roman, Time, Mind, Could, Reality, Being, Moses, Himself, Real, Such, Jim Pike, Universe, Creation, Were, Back, Berkeley, Absolute, German, Freedom, Evil, Knowledge, Free, Right
+
+---
+### Line 5599-5607 (Match: 'Pike')
+**Folder**: part of
+
+```text
+The book "The Morning of the Magicians" was very right on: 1) The Nazis as evil magicians (theological aspect) 2) The Presence of a hidden, good, spiritual power in their enemies 3) A number of superior "mutants" communicating back + forth in e.g. trashy novels.
+
+Our enemy is known secularly as "fascism," but it is transcendent evil.
+
+I was so close to all thi sin my writing ("Faith of Our Fathers," "3 Stigmata," TMITHC, Flow My Tears, etc.) - it's no wonder my house got hit, + my friendship with Jim Pike, + the contents of Frolix 8 + Maze of Death. + the whole "Impostor" theme, which I never considered as relevant to this before. The mimicking race among us.
+
+I wasn't just extricated from a trap in 3-74; rather, I was taken over [my?] the Mind Central - [analogous?] to the hive of bees + their collective mind: I am not precisely a machine but more insect like (in a good sense). What I must realize (+ I do) [is] that more than kind intervention was involved, although that was, as part of it - but the Mind Central was not desirous to see me sacrificed, inasmuch as it would have aborted my task(s) which, at the time of the xerox letter, had not been fulfilled. + it was it that fulfilled them, not me (or homeo). Extrication was not the goal but a step necessary (so to speak a negative - i.e. protective step - to lead toward the goal, which I now think had more to do with [Lem?] + [Rottens?] [crimes?] + the [CP?] [hacks] + their plan than with fighting the tyranny here. The Nixon tyranny was done for, without my efforts; I was an anti-party "sleeper" or fake party follower who fooled the authorities here + in the east.
+
+Last edit over 5 years ago by wtutwiler70
+```
+**Co-occurrences**: Tears, Xerox, Maze, Father, Like, Time, Nixon, Faith, Stigmata, Good, Mind, Book, Just, Although, Frolix, House, Without, Part, Their, More, Before, Jim Pike, Death, Would, Very, Back, Have, Fake, Evil, Impostor, Right
+
+---
+### Line 6700-6708 (Match: 'Pike')
+**Folder**: part at
+
+```text
+1
+
+What I am grappling with is OCCP vs Xtianity; the latter in 2-3-74 was seeming, but on scrupulous scrutiny seems an archetypalization of the former. Perhaps the matter can be resolved if the latter (as I have often said!) is regarded (e.g. Acts + the whole Christ story) as a code (stegenographia), + not literal. Rome literally isn't meant; CAD 45 isn't meant; Christ is/was not a person; the synoptics are a way of talking - but what about? Not that time, nor space, nor those people. This is the resolution of the mystery, not just as to the esoteric meaning of Xtianity but to my 2-3-74 experience which 1) is related to historic change. (Not any one time.) 2) overthrow of the BIP (not literally Rome.) 3) secret revolutionary group (not really Xtians.)
+
+OCCP isn't excluded. (4) A dialectic is involved: antithetical forces (represented to me in 3-74 as those of Zoroastrianism, which brings us to Jim Pike and his discovery that the actual essence of Xtianity was Zoroastrianism, and now to Thomas) it isn't Xtianity nor OCCP yet includes both (the basic elements are common to both; thus, Xtianity is a form of OCCP, + OCCP a form of Xtianity; both are equal expressions in history of something underlying both, originally expressed in the Christ story. I have been assuming the Xtian story to be literally true; there was a person Jesus Christ. But no; this is code. The correct symbol is the Fish, not the cross. What does the Fish represent? It includes OCCP, as hinted in "Faith of..." Off the top I'd say, the ultimate revelation granted me was seeing Valis. But Valis is not Christ because Pyth wrote about it 600
+
+Last edit over 5 years ago by Toso
+2
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Acts, Christian, Toso, Thomas, Indexed, Jesus, Rome, Christianity, Form, Fish, Perhaps, Because, Time, Faith, Does, Just, Something, Both, Jesus Christ, Those, Pyth, Secret, Zoroastrianism, Revelation, Jim Pike, True, Have, Cross, Dialectic
+
+---
+### Line 6957-6965 (Match: 'Pike')
+**Folder**: part of
+
+```text
+{illustration: circular face with big, staring eyes and sharp eyebrows}
+
+Mimickry - Valis Moth ocelli Her black eyes. The eye of Horace. Xtian Fish Tetraktys
+
+God, hold me [fäscher]. Great you art, + I am a speck of dust which you have given life, + now you take it. I earned it: this, this is the ira. Infinite - the vastness of God. Beyond anything man can imagine. Believe me. I have seen. But he will forgive me, but he has made me suffer infinitely. But he will for Jesus' surrogate: I can appeal to him. Jim Pike – it is you. Unhappy are they who knew heaven, + due to evilness fell into hell /as [???] – forgive me father.
+
+Last edit over 5 years ago by Toso
+30
+Complete
+```
+**Co-occurrences**: Valis, Christian, Toso, Jesus, Complete, Fish, Father, Black, Great, Heaven, Jim Pike, Will, Illustration, Beyond, Have, Life
+
+---
+### Line 8243-8251 (Match: 'Pike')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+128
+Needs Review
+128
+20 God descending to corporial manhood - the division between the 2 realms abolished (i.e by Christ, who could then work backward in time, to, say, the pre‐ Socratics + incorporate them - such as Empedocles). So those selected for inclusion into this Hagia Sophia - they are immortal! Paracelsus, Erasmus, Asklepios - no wonder I was confused as to who had "entered" my mind." Jim Pike was there, + so was tony Buucher: I guess many people would agree it exists after death, you can join it after death. But who is aware that + (for some) it can be joined before a person dies, +, when it does, it can become his psyche, determining his actions + doing his thinking - becoming the mind in his body? Thereby it enters human affairs (+ can modulate causal chains externally as well). My God - that means that the two realms heaven + Earth are not (any longer] divided! God's will is [now] exercised here. I wonder how long that's been so. Back again to the idea that 2or 3-74 was the Parousia!
+
+Last edit almost 3 years ago by svayambhu108
+129
+Needs Review
+```
+**Co-occurrences**: Christ, Sophia, Well, Parousia, Time, Earth, After, Mind, Could, Does, Again, Empedocles, Hagia, Tony, Hagia Sophia, Those, Paracelsus, Heaven, Such, Before, Jim Pike, Death, Will, Would, Erasmus, Back, Many, Body, Human
+
+---
+### Line 9353-9361 (Match: 'Pike')
+**Folder**: part of
+
+```text
+at any moment we ever become saved, we always [will be] saved. This gives rise to the doctine of Predestination, which is both true + not true.
+
+I am no longer I. I have become another, different I, (whom I call Thomas). This is a mystery + a miracle. [If] Thomas was not in me, latent, he was adventitiously put into my head, subplanting PKD. (cf "The Committed") a saved soul replaced a lost soul; an enslaved soul [..] replaced by a free soul. This explains the "[..] dog-he, cat-she, car airvent," etc. I became someone else. The original I didn't die: It retroactively was caused never to have existed in the first place. The past was tampered with, I think, "I-ness" remained. But now connected with another history. Another identity.
+
+This changing of my history (past experience) is a lot more important (central to an understanding of it all) [..] my notes tend to indicate. The changed characteristics point [..] the very cure of what happened [..] are the key to unraveling the mystery. Of course, it may be an ancestral or DNA personality - but the car airvent indicates not. It may have been Jim Pike's psyche, a divine possession, like Elijah with Elisha, during which time there was a superimposition of 2 worlds or reality - whatever. So, then, was my past changed or not? My dreams point to Jim. (Such as about Diane, + Mrs [..]; this, too, might explain my knowledge of the koine).
+
+What I really think it points to is a Mt Carmel [..] hidden true Xtian community spanning both sides of the grave, united in ZEBRA (Christ) of which Jim was/is a part + inc [..] or something like it - + the "2 pronged assault on the artifact by the urgrund.
+
+-----------
+```
+**Co-occurrences**: Christ, Christian, Thomas, Zebra, Elijah, Like, Time, Urgrund, Something, Both, Reality, Divine, Part, More, Another, Soul, Such, Jim Pike, True, Will, Very, Whatever, Have, Artifact, Knowledge, Elisha, During, Free, Someone
+
+---
+### Line 11118-11126 (Match: 'Pike')
+**Folder**: Part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+61
+61 theme of the crisis in the Godhead, the God + not-God, +, as cornford says the element of the irrational in the world soul. Part of the organism has ceased to respond to the organism's mind + has become - or remains - disorder (which egeals a kind of cancerous madness in which spurious evil realities, counterfects are interpolated for the real thing as being one my novels picture the universe it in which the true life- bestowing power has receded even more than we generally experience - but it is only (in such novels as "Stigmata" + "Ubik") a matter of degree. There is nothing in the writing which is not with us to some extent. "Stigmata" + "Ubik" need to be collated for the full message to appear: the evil creator of the counterfeit (Palmer Eldritch appears in "Stigma" + the heat-giving-life-giving bipolarization (Ubik) appears in "Ubik." But the collation seems to say, this, our world, is largely counterfeit with Ubik thrusting into it from "the i other side. in "Ubik" the normal theme of the world of the living invaded by the dead (as in Jim Pike: "the other side") is reversed; the living world (or forces) intrude on the dead (or virtually dead). Am I saying, then, that our world is not that of the living, real though it may seem to us, + the "other side" is not dead, uncaning as its intrusion, seem? What "Ubik" + "Eye" + "Maze" have in common is this reversal of the normal real-unreal bipolarization; I am saying "This here is the not-real one" which expresses the spurious interpolations by the evil one perfecing in "Stigmata" it is precisely rendered). Have I then hit on the ultimate secret truth - that despite its
+
+Last edit almost 3 years ago by svayambhu108
+62
+Needs Review
+```
+**Co-occurrences**: Ubik, Maze, Godhead, World, Only, Stigmata, Mind, Even, Being, Eldritch, Palmer, Palmer Eldritch, Nothing, Creator, Part, More, Soul, Living, Real, Such, Secret, Jim Pike, True, Universe, Other, Have, Life, Evil, Truth, Dead
+
+---
+### Line 13164-13172 (Match: 'Pike')
+**Folder**: part of
+
+```text
+Indexed
+24
+25
+
+have succeeded in discerning a pattern (of coordination); ie the results but not the cause (source). They saw revolution; they saw the anti-establishment counterculture articulations (voices) + plotted correctly a synchronization, but could not account for it, despite the efforts of the police - Who were the leaders of this revolution? They had killed all the leaders, + it made no difference: the psyche or psychoi of the leaders lived on - literally. Impossible! (For instance, in 3-74 + on I toyed with the idea, for really quite a while, that it was Jim Pike who had "come across" to me! It was like him!) Timeo. What are we dealing with? I'd hate to have tried to kill it, like "they" tried. Who have we read about who was murdered - + invisibly came back {Note}, resurrected + - ubique. Then it was "Ubik" that -
+
+{Note:} The brain contains the saintly dead! (eg Jim)
+
+"Ubik" depicted a spontaneous generation of guiding messages from an unknown source, which was ubiquitous. The Marxists took great interest in "Ubik" + wanted to know what Ubik was. My 3-74 experience resembled "Ubik" - why? The presence of the vast (ubiquitous) brain (Zebra or VALIS) of course. In other words, in 3-74 I encountered the mind which in "Ubik" I called Ubik. It is the Logos, St. Sophia, but the Marxists, although evidently aware of its existence (how come?) could not accept that explanation. They may be right; more modern, more precise formulation may be possible. I am not able to do
+```
+**Co-occurrences**: Valis, Ubik, Indexed, Zebra, Logos, Sophia, Like, Mind, Could, Although, Great, Brain, More, Jim Pike, Other, Were, Back, Have, Dead, Evidently, Right
+
+---
+### Line 13706-13714 (Match: 'Pike')
+**Folder**: part of
+
+```text
+The "Form I" is that of the early - ie deceased - [apostolic] Xtians. They are in the afterlife now ① There is a huge intermediary-time ellipsis! The link between this world (1974) goes directly back to the time + place of Acts! So Apostasy reigned in the interim. CAD Rome 45 may be my past, but it was their present.
+
+① For them, USA 1974 is a physical resurrection (perhaps at the end times) - I've toyed with this idea from 3-74 on, but without the mystic Corpus Christi conception. So I conceive of a mind invading our realm + creating an interface brain out of [some of] us, through which it acts on our history, which is just a name for the largest arena of human affairs that we know of.
+
+② Yes, an intermingling of both realms, not to be expressed as this or that. Imagine my surprise in being in two worlds at once separated by 1900 years of linear time. This certainly explains why I sensed the presence of Tony Boucher + Jim Pike.
+
+Last edit almost 5 years ago by Toso
+85
+Indexed
+```
+**Co-occurrences**: Acts, Christian, Toso, Indexed, Rome, Form, Perhaps, World, Time, Mind, Just, Once, Realm, Both, Being, Christi, Tony, Corpus, Without, Brain, Their, Through, Corpus Christi, Certainly, Jim Pike, Back, Human
+
+---
+### Line 14834-14842 (Match: 'Pike')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 049
+55
+
+Could this help explain the hit on my house, the presence of R.C. material in my work (unknown to me), + I did mention Bishop Pike in "Maze" - "they" may have thought I got it from him. They may have thought I belonged to a secret organization + was promulgating its ideas (cf. "It was an intelligence officer in the army" revelation, apparently re the Xerox missive, + maybe also the hit on my house). Yes, a secret society: "Ubik," "Faith of," "Maze," "Frolix 8," etc. well, then "Tears" would really seem to prove it - i.e. the dream. "Recant" in time; i.e., revoke something already done (something which happened - in their past, or emanating from an alternate world). This shows they can change the past! What I seem to be discovering is that what I call "my matrix personality" is R.C., i.e. Hermetic + apparently "not living in this century {Note}," + this is why the macro-microcosm Hermetic system shows up in my writing, etc, why I had the 2-3/74 anamnesis (obviously) + why there is the encoded material in "Tears," + why the "AI voice" tells me what it tells me. It's connected with 1620 + P. + Frederik + an alternate universe "recanted" at that time, + then the 1974 intervention + the 3 tracks, their manipulation of time + hence alternate histories.
+
+{Note:} Apparently living in the past, either the 1st century AD or the early 17th, although it could of course be living in the future, which I must not rule out: at the time of the accomplishment of Pan-Sophiasm + the return of the Immortal Man.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Tears, Ubik, Toso, Indexed, Xerox, Well, Maze, Maybe, World, Time, Folder, Faith, Hermetic, Could, Something, Obviously, Missive, Although, Xerox Missive, Frolix, Either, House, Anamnesis, Indexed
+Folder, Their, Living, Voice, Secret, Revelation, Macro, Universe, Would, Have, Apparently, Dream
+
+---
+### Line 15759-15767 (Match: 'Pike')
+**Folder**: folder 22
+
+```text
+In a sense, if it's transubstantiating us (replicating in + through us) whether it's doing the same to the world is a secondary issue; we are made immortal, + will live on somewhere. + as it takes control of more + more of us, it exerts proportionally greater + greater influence over the world.
+
+A very eerie idea just came to me. Suppose it's been dormant for many centuries - maybe dormant between the time of "Acts" + recently. Suppose like an anthrax virus. It was literally buried, sealed up in a scroll or codex, in a jar in a cave - it is, after all, a life form. In "Thomas" there was no memory between 1914 + Acts - a hiatus. Suppose it returned recently + began to replicate, thus bringing about the end of the age of Iron. It's possible.
+
+Robot Bly sans Jesus was an essence. Suppose it "rode" or was info in the Qumran Cave V Scrolls went from John allegedly to Jim Pike to me? I did have dreams about Jim + his mother - as my mother, + the
+
+Last edit almost 8 years ago by Toso
+folder 22 - 042
+Indexed
+```
+**Co-occurrences**: Acts, Toso, Thomas, Indexed, Jesus, Form, Maybe, Like, World, Iron, John, Time, After, Folder, Just, Suppose, Toso
+Folder, More, Through, Mother, Jim Pike, Will, Very, Many, Have, Life, Memory, Info, Whether, Greater, Qumran
+
+---
+### Line 15783-15791 (Match: 'Pike')
+**Folder**: folder 22
+
+```text
+43.
+
+Essene entered me (in the late Sixties?) + lived subliminally until 2-74 when I/We saw the Golden Fish sign, + that triggered the plasmate Essene Xtian - I experienced has memory - Yes, this fits several of my dreams (the pink "marginal cross," etc.) - + then gradually my ego _____ to him crumbled until he took over in 3-74. This would be hard to believe, + seem merely "exorcist-ish" or occult-ish. Except: I saw how the plasmate can "ride" or better yet be certain crucial info (words - Logos).
+
+I have always said if there is an answer to "why me?" the answer is: Jim Pike, somehow.
+
+When I wrote "Ubik" I already knew Jim. + in it, Living Info is the topic.
+
+This would explain why my 3-74 (+2-74) experience isn't reported in history, a matter which has long puzzled me.
+```
+**Co-occurrences**: Christian, Ubik, Logos, Fish, Golden, Golden Fish, Essene, Living, Jim Pike, Would, Somehow, Have, Memory, Info, Except, Cross, Answer, Until
+
+---
+### Line 16285-16293 (Match: 'Pike')
+**Folder**: folder 22
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 22 - 115
+Needs Review
+folder 22 - 115
+( of course Parmenides says form II (yi n) doesn't really exist (Empedocles' strife the woman is dead "It is more important to be safe than to still keeps the powers hidden." "To save his life hid have to show he --" etc. In other words it was not the purpose of the powers to save my life; i.e. to deal with the Xerox missive. The powers were used in 3-74 because They were there anyhow, but hidden. "Too" I am one of a group possessing "paranormal powers," a "paranormal event" led to the "disclosure of [my] paranormal powers" (which were not there for that purpose, but which were effective in coping with that situation.) So, what are the paranormal powers - which are kept hidden - for? We - not just me - we have them; they're connected with knowledge. what do I know ("too")? What do we know? The best evidence I have for "Thomas being Jim Pike is that the Sibyl spoke of his murder 834 âž€ Although also Elijah, Christ, a 1st century 4264 t Essene ce The eessenes, reborn, are the secret Xtians of this time-period ancient 2
+
+Last edit almost 3 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Christian, Thomas, Xerox, Form, Elijah, Parmenides, Because, Time, Folder, Anyhow, Just, Being, Empedocles, Missive, Although, Xerox Missive, Sibyl, Essene, Still, More, Secret, Jim Pike, Other, Were, Have, Life, Knowledge, Dead, Doesn
+
+---
+### Line 17479-17487 (Match: 'Pike')
+**Folder**: part of
+
+```text
+Indexed
+folder 21 - 077
+75
+
+In 3-74 there was one cosmological principle which I literally saw but could not understand: it was the dialectic progression, but not like any dialectic (e.g. Zoroastrian, Gnostic, Xtian, Mani, etc.) that I knew of. They were complimentary + necessary + interacting dual principles - but not even like Empedocles' system, certainly not good-bad + not even Taoist. I now have read the EB article of Dualist Cosmologies (or religions) + I think what I saw is the Nommo-Yurugu dialectic of the Dogon tribe of the Sudan. This is the tribe which has the map of the twin stars Sirius which Bob Wilson writes about. Also, the cosmogony of the Dogon is virtually precisely my two source cosmogony. + Sirius is somehow connected with the Ajna Eye or Eye of Horus. What is important about this realization is that since "the Sirius connection" was already established because of the Ajna Eye, this additional connection would tend to point firmly at -not the Dogon as such- but to that Bob Wilson speculates is the source of the Dogon's science, + I add, religion. A superior technology is pointed to, once again. _____ 1) The Sibyl, in speaking about the civil rights leaders murdered by "the conspirators" included Jim Pike, i.e. stated that Jim Pike was murdered. 2) "Maze" had come out not long before my house was hit on Nov 17 1971. 3) That lawyer at St Jude suggested that the hit had to deal with Jim Pike + material (of a theological nature) turned -or possibly turned- over to me by Jim. 4) Was the hit on my house part of a conspiracy connected to Jim's murder? What I am thinking of is
+
+Last edit over 8 years ago by Toso
+folder 21 - 078
+Indexed
+```
+**Co-occurrences**: Christian, Toso, Indexed, Gnostic, Maze, Like, Since, Because, Folder, Good, Even, Could, Once, Again, Empedocles, Toso
+Folder, Zoroastrian, House, Sibyl, Indexed
+Folder, Taoist, Part, Such, Certainly, Before, Jim Pike, Would, Somehow, Were, Have, Mani, Wilson, Dialectic
+
+---
+### Line 17566-17574 (Match: 'Pike')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 087
+85
+
+Let's recall why I sent a copy of "Tears" to Diane Pike: because I thought that the dream in which the helmeted knights come to kill "the man shut up in the house" i.e. given in the novel as Jason Taverner (who is innocent of any crime but if framed as murderer in an actual death) somehow referred to Jim's death. (+ by extension to the conspirators + the civil rights leaders' assassinations.) Or, the message is one of punishment for those assassinations - punishment by the "Great White Brotherhood" whoever they may be, thus referring [as well] to the overthrow, the needed overthrow, of the Nixon tyranny. "Tears" could be said to present the U.S. which the police apparatus would like to see established; in "Tears" their goals got completed, down to specific details. As one reviewer said, "In this novel the civil rights movements of the sixties seem to have failed" - it is an alternate Earth. (What I call Track A.) Maybe "Tears" disclosed the master plan of Cointelpro + the thinking behind it. But it is then invaded by the wise old king (and knights) who passes judgment of culpability. If "Ubik" is correct, Zebra is the Logos or the mystical body of Christ, which was the impression I had in 2-74/3-74/2-75. The Dogon fish god Nommo. Fish sign in its original form, standing for "Brotherhood of Sirius"? Maybe my fish dreams (all 3 (or 4?)) refer to Nommo. If Nommo is an archetype in my phylogenic memory, I am from Sirius. (Or the plasmate is, + I'm a homoplasmate.) + have been for decades.
+
+Last edit over 5 years ago by Toso
+folder 21 - 088
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Ubik, Toso, Indexed, Zebra, Logos, Form, King, Fish, Well, Maybe, Like, Because, Earth, Nixon, Folder, Could, Taverner, Toso
+Folder, Great, House, Jason, Indexed
+Folder, Those, Their, Death, Would, Somehow, Jason Taverner, Have, Judgment, Body, Memory, Wise, Dream, Track, White
+
+---

@@ -1,0 +1,345 @@
+# Evidence Packet: Orphic
+
+- **Category**: Top Term
+- **Total Mentions**: 73
+- **Aliases**: Orphics
+
+## Supporting Passages (Context Windows)
+
+### Line 416-424 (Match: 'Orphics')
+**Folder**: book A
+
+```text
+coffins, severally, and individually, as shown in the novel.
+
+(eight) Those in half-life are not dead, nor is the root slumbering under the snow (the symbol of both Christ and Dionysos: it looks dead but is only asleep, waiting to be awakened by the voice of spring). We are those slumbering roots. We are dormant. It is difficult intellectually to understand this, that we are neither fully alive nor fully dead (Aristotle taught us that we have to be A or not-A), but in fact these thousands of years for our species, and for our animal friends as well -- these are nothing but a long winter in which half of us (expressed neurologically, perhaps, by the fact that we use only one of our brains, or the left hemisphere) is alive and the other half has not yet come to life. Many of the parables of Christ, familiar to those who knew the cryptic sayings of the mystery religions in general, refer to this (the grain of wheat which must be planted; we are now sorrowing in childbirth, the treasure buried in the pasture, etc.).
+
+That the Final Days should be in fact a springing up into full life, complete life, going from seed (vide the parables and especially the Pauline Texts, plus the Orphics' doctrines and Neo-platonism, etc.) -- going from dormant seed slumbering under the snow of Winter and then hearing/feeling/sensing/knowing the voice of moisture and warmth and Spring, the voice of God saying, "The time has come! Wake up!" These are authentic commands coming to us in dreams, and are no less real and no more real than what the ordinary seed experiences in its own fashion; we are all one in that regard...except that our orthogonal Winter has lasted for one hell of a long lineal period; it seemed as if it would never end. But Winter always feels that way; each seed, each slumbering root and bulb, must in its half-life state, buried in ice and waiting, experience all of this: we share a common reality.
+
+From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
+
+Sorry to take so much of your time here, Ursula, but in my dreams I saw the words CANTATA 4, and when I had read the text, I began to understand.
+```
+**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+
+---
+### Line 578-586 (Match: 'Orphic')
+**Folder**: part was
+
+```text
+36
+The distinction here between a special disinhibiting external stimulus for a special (unusual or even unique) "second stage or meta stage" system -- versus breaking a limiting factor with the fish sign which everyone has, to release a metasystem which everyone has -- this is the difference between (one) a godlike divinity which made me as entelechy different from other man versus (two) I was the same but He freed me; He could --will-- free them, too. Only special part was my release.
+
+This distinction defines the difference between the purpose and meaning of the mystery religions, based on the "orphic" discovery, and anamnesis within Christianity per se, uniquely; that He shall free the world, not just certain men. Also, it assigns the role of freeing agent to Him, as "God's grace," not to special knowledge on my part, etc., special gnosis or initiation, etc. If anything could be said to have defined it happened to me it was His Presence and Reality, plus my need.
+
+The latter against all Neoplatonism and ever gnosticism, although less so. And against all mystery religions, although based on the awareness of submerged (blinded) inner spark.
+
+V. Tagomi in the park. Was there anything special about Mr. Tagomi? He was intensely human, and in need.
+```
+**Co-occurrences**: Christianity, Fish, Gnosticism, Plotinus, World, Gnosis, Only, Even, Could, Just, Reality, Although, Anamnesis, Grace, Part, Will, Other, Have, Tagomi, Knowledge, Human, Free
+
+---
+### Line 1045-1053 (Match: 'Orphics')
+**Folder**: part of
+
+```text
+71
+One could assume, I guess, that the divine seed is in every one of us, but remains dormant (crypto morphosis); it is never fed, and this feeding comes to the pineal body via sunlight. So there is no implantation. I myself, I felt something (Firebright) was implanted. I had visions of Firebright's heavenly parents. That sounds like more that celestial food. Which do we have, a quickening, an awakening, or an implantation? The parables about the seeds sown...they don't make it certain (some sown on barren soil, some on rock, some on good soil, etc.) If one had had a dormant seed all ones life, and it had never stirred, come to life at all, and then a shaft of fire-light from the Sun of Righteousness cause it to come to life for the first time, one might sense an implantation from outside; something which was not oneself. (Sasha must feel that way, with her little new unborn kittens inside her. "They came from outside." But in fact they were fertilized from outside. Okay, fertilization is what takes place: it isn't a seed such as a plant has, but an egg such as a human woman ovulates, and a cosmic spermatika fertilizes it; a zygote is produced. Firebright is a combining. Here would be the crucial distinction between Neoplatonism and Gnosticism, which I feel so strongly about: the former is sort of self-fertilizing, parthonogenesis, so to speak, but in Gnosticism you have the idea that the Savior is absolutely necessary, so we have here the idea that something entirely from outside one is necessary, it comes along (God's grace) and if it doesn't come, then there is no zygote, no Firebright, no seed, no immortality. I always felt Gnosticism was correct over Neoplatonism; viewed this way, it is evident why. The Neoplatonist knows what happened, in a basic way, but he feels he did it by himself: up by his own bootstraps. A personal achievement. I guess this is a failure to know about the "birds and the bees," as the "Decoded N T" points out. How are babies born? By thinking about it, or by copulating? Let's be realistic; it takes a union, always true in higher forms, of which we are one. This is why the "Dec N T" can so plainly declare that no meditation, no prayer, no affirmation of belief, is going to do it. It is done to us, not by us. All each of us can do is accept -- i.e. receive.
+
+You are to be "meek," i.e. Yinnish, humble, receptive, but what overpowers you (the father!) is fierce, like Elijah, seeking justice and truth, powerful, definitely Yanglish, and the not-you. Just the opposite. Possession by the God (vide Virgil describing Appollo taking over the Sibyl. You may be masculine to other humans, but to Him you are feminine, passive. Now, the Mynaeds of Dionysos did not seem to believe (read know) that a permanent fertilization, acquisition took place, but the Orphics certainly did; here lies a vast distinction! The being-overpowered leaves something forever, but after the beatific vision, the Firebright Second Birth, what is born, lives on, eternally. What a jump from the mere Dionysian frenzy to Orphism and beyond, to Christianity! What a realization of the value of being possessed!
+
+This borders on the Sufi: becoming God. One does "become" God while he possesses you, but then he leaves. But -- well, it's like poor Leda. Vide Yeat's poem. But look at the progeny: Helen of Troy.
+
+Well, I have certainly (through Doris' help) made a distinction
+```
+**Co-occurrences**: Christianity, Form, Well, Gnosticism, Dionysos, Plotinus, Elijah, Father, Like, Time, After, Cosmic, Savior, Good, Light, Firebright, Okay, Could, Does, Just, Something, Look, Being, Self, Divine, Himself, Sibyl, Viewed, Grace, More, Through, Orphism, Such, Certainly, Doris, True, Would, Other, Were, Beyond, Have, Life, Body, Justice, Truth, Human, Doesn
+
+---
+### Line 1124-1132 (Match: 'Orphic')
+**Folder**: Book of
+
+```text
+Last edit over 5 years ago by Harpax
+78
+Needs Review
+78
+The Second Advent or God's Intervention, the prophecy, is more accurately the running down or wearing out of our kosmos, and the revitalization. Here is the biological model, rather than the mechanical model (vide Hussey). The egg: reborn, et al. Biological models. Orphic. What repels me about Marxism is its mechanistic quality. I get the impression that some of the very early Greeks believed that when the kosmos had run down sufficiently, the Unbounded (i.e. the deity) had of necessity to revitalize it, or whatever he did; we are all governed by law of some kind; it wasn't by whim. (Ananke? Moira?) (Ananke, I guess.) Is this view not sort of Babylonian? "Can be counted on, is I guess all we can know for sure, especially if He has promised. What is really just important, though, it so realize that beyond our kosmos (which we keep calling "the universe") lies the Unbounded, which "governs" the universe, and so is the natural source of physical law. (Hussey) "More-over, the lawlike behavior occurs 'by necessity,' which implies a power imposing the necessity, and 'according to the assessment of Time.'" It's all there. My idea the other night was: suppose the universe were entirely emptied of all matter, in every form. So it was just empty space. Nothing, then, would exist. Right? Wrong. All the laws, which now govern matter, which govern energy as well, would obtain, although we couldn't discern them. It seems to me that if we don't assume as Unbounded (as so represented by the pressure of these necessities on matter and energy) we are just describing, we are saying, "Things do what they do because they do it." A tautology. An observation of regularity, not an analysis of why. You could approach it another way if desired: either the universe does not run down (but the laws of thermodynamic show that it does), or it ends; or it periodically is renewed. To say that it renews itself poses certain problems; I find it easier to imagine it renewed from without, although that poses certain problems too. But if the universe is everything, then it begins to run down (like a clock, like an animal) and then suddenly it revitalizes itself (as I experienced). I am equating the Second Advent & God breaking his silence with this turn of the cycle, this springtime, this revitalization. I think this is what has happened. A revitalizing is going on, and it certainly comes here from elsewhere. Where that "elsewhere" is, I don't know, but I've experienced a real, alive, thinking force.
+
+One of the best points in Hussey's book is where he says that one of the ancient Greeks (Anaxamander, maybe) assigns to the deity this primary fu[n]ction or activity or attribute or quality of definition: we would experience the return of God, this revitalization, as exactly what the word implies: a renewal of life.
+
+I note that Parmenides' Form I is equated, by him, with light: This is exciting, since as I understand Parmenides, he saw Form II as a mere mirror reflection, and urged a monism on us (the fiery or dry soul) which made us relate only to Form I, or to light.
+```
+**Co-occurrences**: Form, Greek, Well, These, Advent, Maybe, Like, Parmenides, Since, Because, Only, Time, Harpax, Book, Light, Could, Does, Just, Suppose, Kosmos, Although, Everything, Either, Without, Nothing, More, Another, Soul, Real, Certainly, Universe, Deity, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+
+---
+### Line 1130-1138 (Match: 'Orphic')
+**Folder**: book is
+
+```text
+One of the best points in Hussey's book is where he says that one of the ancient Greeks (Anaxamander, maybe) assigns to the deity this primary fu[n]ction or activity or attribute or quality of definition: we would experience the return of God, this revitalization, as exactly what the word implies: a renewal of life.
+
+I note that Parmenides' Form I is equated, by him, with light: This is exciting, since as I understand Parmenides, he saw Form II as a mere mirror reflection, and urged a monism on us (the fiery or dry soul) which made us relate only to Form I, or to light.
+
+The Orphic egg. If the universe is born from something for which the eff is a paradigm, then maybe, as the individual is, then both are reborn from something like an egg -- a light egg. Maybe this was the exoteric teachings of the Orphic: rebirth. Rejuvination (eternal life).
+
+Last edit over 5 years ago by Harpax
+79
+Needs Review
+```
+**Co-occurrences**: Form, Greek, Maybe, Like, Parmenides, Since, Only, Harpax, Book, Light, Something, Both, Soul, Universe, Deity, Would, Life
+
+---
+### Line 2248-2256 (Match: 'Orphics')
+**Folder**: BOOK OF
+
+```text
+Needs Review
+168
+In fact, since Meister Eckehart beyond all doubt was absolutely ignorant of Greek mystery cults, ignorant of Greek itself, then his description of what and where the Kingdom of God is, constituting as it does an exact description of the Dionysian kind of god-possession, ratifies as a detached observer's analysis that indeed this is what the early Christians sought for and were covertly discussing; that in fact this is what Christianity, like the prior mystery religions, is all about. Meister Eckehart rediscovered what was lost, and at the same time tells us explicitly what was lost, without him probably having realized that there had been a deliberate suppression of this knowledge, and the experience as well.
+
+I've again read the EB article on Mystery Religions; those religions, esp. the Orphics, stressed anamnesis (Plato did, too, and those following him, as did Pythagorias). I ask this, as perhaps the most important question: what is the connection between being possessed by the Deity (which I aver is the same as finding the Kingdom of God), and recollection of ones former but forgotten divinity, as in Orphism and neoplatonism? Is it a becoming for the first time, or a return? Is it new or old? Receiving or restoration? This is important because if it is a restoration then we are or anyhow were divine in nature, and lost it or forgot it, and can retrieve or remember it, get it back. Of course, I again wonder, How, if we are divine, did we come to forget that? This is, of course, the concept of the Fall, this fact, if it is a fact; we fell and forgot, having descended into nonbeing which is the same as forgetfulness. Here now I am back to my early conjectures and ponderings, and there seems no end to this, no solution. I know that I experienced anamnesis, which suggests the recollection (neoplatonist) view. As set over against the Christian view...although for us now, 2000 years later, it would now carry the aspect of restored memory -- of events 2000 years ago; i.e. the Savior, Jesus Christ. This is what confuses me. I remember a Savior who told us it was a new experience. I remember his new message -- observe the paradox. "In a crypt 2000 years old I have discovered new news!"
+
+. . . Egyptian statement: "three gods. As Amon he is hidden for mankind; as Re he is visible in the sun; as Ptath his body is the world," the last meaning he is immanent, as Ptath, here. But it's all One. The hidden god: Deus Absconditus. Hmmmm. "He hides himself for them," i.e. mankind. Absconditus specifically means carefully concealed or hidden or secret, not just happenstance so. For us he is hidden? For our benefit? I read this as: as Re he is transcendent. As Ptath he is immanent. As Amon -- "the workman is concealed in the workshop."
+
+. . . "Tumbled stones," natural laws the same for all living things; would tend to wear them down into similarity. Living things must thrust up against the ubiquitious shaping force to attain diversity.
+```
+**Co-occurrences**: Christ, Christian, Jesus, Christianity, Plato, Kingdom, Greek, Well, Perhaps, Plotinus, Like, World, Since, Fall, Because, Time, Savior, Does, Anyhow, Just, Again, Kingdom of God, Being, Jesus Christ, Although, Divine, Himself, Gods, Probably, Deus, Anamnesis, Without, Those, Most, Orphism, Living, Secret, Deity, Would, Were, Back, Egyptian, Beyond, Have, Things, Body, Eckehart, Memory, Later, Having, Remember, Knowledge, Ptath
+
+---
+### Line 2486-2494 (Match: 'Orphic')
+**Folder**: vol 12
+
+```text
+can be relied on, even though they won't let him sit with them (Dionysos et al his other names). The outsider god. If I understand my dream about Ananke correctly, then my Ananke is to decline into depression; so the help the God would give me would be vitality and cheerfulness and vigor, and the capacity to act. (I.e. Freude.) His gift to me: mirth. But in 3 74 I had to and did break actual existential chains. It is obvious at a glance that in this game Sarapis represents teleological purposes versus reason or cause. It also would constitute a planning, living, sentient entity versus a mechanistic system which was totally blind, in which case it would represent wisdom versus force or energy or power. I seems to me that the bipolarities here are more meaningful than any I've come across (e.g. Taoism, Zoroastrianism, etc) ever before, and typically Greek: enslavement to Ananke versus freedom. Also, it is less subjective than good versus evil; it is more real; it can be defined objectively. Something is presupposed which other systems (e.g. Christian) don't presuppose but which is very real: the limitations and enslavement of our mechanistically determined heritage to the past. From this system the Christian concept of God's grace can be viewed in a way which makes it much more meaningful. The Antagonist can be much better viewed. This is surely one of the great moments in this exegesis of mine. It has certainly been a disservice to us to have lost sight of this bipolarity, here. The concept "God's grace" is meaningless to us because the concept "Ananke" has been lost. How can we appreciate God's efforts --and Plan-- to extricate us if we have no concept of what we are being extricated from? It seems odd that this bipolarity has been so forgotten; does society perhaps have a vested interest in obscuring it? Because viewed this way, God is on the side of human freedom and evil is on the side of enslavement -- which has been my own dualism for some time now. Seen thus, God could be viewed as acting in history progressively (in stages or steps) to unfetter us. This fits in exactly with what I saw the fish-Christians doing in 3 74 at the time I could see. The tyranny could be regarded as a blind machine from the past, a form of inherited determinism, without life. So this bipolarity fits several of my percept visions. It links them. Life, growth, freedom versus death, mechanical repetition, enslavement. Also, this somewhat fits my "Human versus the android," the dark-haired girl versus the mantis.
+
+. . . It's obvious that Elijah was a "mystery god," sending 2 fifths of his spirit back to Elisha, and not dying but being "taken up to heaven." Another metamorphosis of the "Dionysos" paradigm. Also it is quite evident that the Paracletos, the Holy Spirit descending on the apostles at Pentercost -- that is like Dionysos' spirit infusing the Bacchoi, his followers (only where the Bacchos gone?). The Holy Spirit is the spirit of the god returning. . .but the god himself (Bacchos) is not reborn (yet) at another place, under another name and somewhat changed (evolved, as from Dionysos to Orpheus to Jesus).
+
+. . . Orphism must have been a revealed religion; the Orphic hymns were thought divinely inspired (like, later, the Bible). This concept for us is completely incomprehensible; we're sure a man or men wrote them. But if the Bible is revealed or semi-revealed, why not the Orphic hymns? I get the impression that from Thoth on (who was all revealed wisdom, sic) the mystery religions hinged around revealed writing, inc. Christianity.
+
+Last edit over 5 years ago by Harpax
+187
+Needs Review
+```
+**Co-occurrences**: Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Fish, Greek, Bible, Wisdom, Dionysos, Perhaps, Elijah, Like, Because, Only, Time, Harpax, Good, Even, Could, Does, Something, Taoism, Being, Girl, Himself, Great, Viewed, Without, Grace, More, Another, Orphism, Living, Heaven, Real, Certainly, Before, Zoroastrianism, Death, Would, Other, Were, Very, Back, Surely, Under, Have, Life, Dark, Freedom, Later, Evil, God Himself, Elisha, Human, Dream, Ananke
+
+---
+### Line 3065-3073 (Match: 'Orphics')
+**Folder**: Book of
+
+```text
+Needs Review
+234
+I've seen her, heard her, in many guises, and finally the name "St. Sophia." Gnostic revelation has broken through into my head in the modern world. I think anyone versed in Gnosticism who read my notes would say, "You're a Gnostic." I am not happy about this, but it is so, based on 3-74. Simon Magus lives. Also, it is a thoroughly Greek syncretistic system. I must go where truth (as I've experienced it) takes me; my experience is of St. Sophia. Well, this is a modified Gnosticism, with Sophia sanctified as Wisdom of Proverbs and the book "Wisdom," so that it can be made to jibe with the Bible; thus Christ becomes the female spirit Sophia in a male body, a syzygy. Ah! Yes! This is the complete person! The missing half which Plato wrote about. In Jungian terms, psychological completeness; psychic integration. Not either or but both and. At last; the repressed female goddess Prinzip breaks through into Christianity, in a Third Testement or Covenant. Father (0. T.), Son (N.T.) and daughter or mother (3rd T.). The first emanation from God, according to the O.T., so I guess daughter as demiurge (cf Plato). The Godhead remains behind her; I experienced that; she is the Pantocrator. Ma'at. Or rather Pantocratrix. Two aspects differ from Gnosticism: It is holy Wisdom, not just Sophia; and: she was born before and rejected, which identifies hers with Christ, hence the Logos. This restores the cosmological quality to the system, lost in Gnosticism; the creating spirit (universe creating) is holy & good, not fallen (blech). And this maintains Christ correctly as the Redeemer and Revealer.
+
+Pantocrator: ruler of the universe. Creator and Savior com¬ bined. Also judge. He is represented as holding a book, bound, of the Gospels. But if the Pantocrator is/was creator (which is so) then it is close to Gnosticism, with their Sophia as creator, but the same exactly as the Bible with Wisdom (or Christ) as the actual creator of the universe, rather than God. In a sense Gnosticism is a correct exegesis of the Bible (i.e. Proverbs 8 and "Wisdom"). (And Paul in assigning the role of creator to Christ, who equals Holy Wisdom.) The Gnostics were grappling with the problem of why the space-time universe is so inferior and we are cut off from the pleroma — the answer of the Christians being the fall of man by Adam. Why are we in this dim place when we once were in that bright place? is the q. for both. We were once there; it is a far better place; we are going back; our father is there; it is our natural home — all this is derived from revelation and has passed into general Christian belief (like in the spiritual "Going Home"). Anamnesis (as with the Orphics too) brings recollection of celestial origin. The continual unanswered question is how come we fell? Nobody knows, and none of the answers is convincing; they're all obviously guesses & myths and arbitrary. Recall the story about the son sent on an errand to a strange land, who forgets his origins and lives there believing he's a native, and then a letter comes from his real parents, which restores his memory (Book of Thomas?), and he starts the journey back. Why was he sent to the strange land? and why did he forget his origins? Really, there are two unanswered questions. Anyhow, that is the state of things: exile and amnesia. But also: the Redeemer who restores us to our original estate, which seems to be after death (I guess), or else in the coming of the Kingdom of God here, which doesn't imply after death but an as simulation of
+
+Last edit almost 5 years ago by svayambhu108
+235
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Gnosticism, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Covenant, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Journey, Things, Body, Memory, Jungian, Truth, Magus, Doesn, Pleroma, Answer, Simon Magus
+
+---
+### Line 3098-3106 (Match: 'Orphic')
+**Folder**: part of
+
+```text
+Needs Review
+238
+-15-
+
+message that was, and how historically correct in all regards — past present and future. The magnitude of my situation, in terms of its danger, was too much for me; and so I fell into the hands of arche¬ types of my unconscious who could fathom and understand and deal with the situation — they were equal to it, as great in themselves as it was in itself: they had the time-span, the historic sense; they exist over thousands of years, like it, vast and intense and strong. Only archetypes could deal with such an archetypal situation: a total tyranny, like that of the Empire. How could I, the former ego, hang in there once it had assessed the actual reality-situation? I can remember how it was when the Estonian letter and then the Xerox letter came; it was just too much, on top of everything else. But the tran¬ sition to the new self had already begun (as witness the phosphene activity). The old ego died before the letters arrived, died from despair and fear and hopeless and helplessness. It was burning a votive candle in memoriam of itself. This is not to say that God didn’t help; this is not to subjective-ize everything. God entered via the arche¬ types of the collective unconscious. They presented information-rich visions; they swept the world to obtain accurate knowledge of what the situation consisted of. Like AMORC says, we are light bulbs in strings, powered from an external common generator, the Cosmic Mind. Probably the ego can be extinguished by death but not the soul or greater self. That which relates to this world dies; that which relates to the next & previous does not. It's all in Wordsworth's "Ode." To remember immortality is to experience it, and to anticipate it lying ahead as it lay behind: coming from that same place as one is going, as if life is a parabola. If I were to define & depict on my own the archetype which took possession of me in 3-74 I would name him The Steersman, because he steered me through the reefs and rocks to clear water (as seen through the golden rectangle gate), to safety; and then he sank back to leave me in charge again. As he first announced during my high school physics test when initially he spoke to me: "It is all very simple," and then he untangled the problem for me, simply and accurately. It was the image of the demiurge himself, I think. It was divinity itself, and being so, as the Magdeburg jars concept shows, it therefore saw the external world as divine; It was able to do that, by projection. The theophany was within and without: everywhere. I see in my mind's eye the Orphic egg, like a pearl, the pearl of great price, glowing with pale white light, one color of moonbeams; the egg of Leda, derived from Zeus; the light in the tomb. This is Firebright, now, a great light, a pearl, a closed egg pregnant with life. It is retractile now, dormant and waiting. It is within my mind, placed there by God; it lies within a receptacle that is infinite in extent, into space & time: my own self. The glowing pearl bobs, too, as if in a grotto on the ocean's floor; so it must be virtually weightless. The idea of a grotto suggests that not only is it retractile, slumbering and waiting, but that it is concealed — protected, too, by me. I shelter it. But it is not doing anything right now. It is merely there. One asks, What will come out of it at the proper time? Thinking of the pearl buried in the field which Christ spoke of, one recognizes it as an intrinsic treasure, so precious that one gives everything one has to acquire it. But what is it? One has sacrificed everything to acquire it. Maybe the haze of white light around it provides a clue.
+
+Last edit almost 5 years ago by svayambhu108
+239
+Needs Review
+```
+**Co-occurrences**: Christ, Xerox, Empire, Golden, Maybe, Like, World, Because, Therefore, Only, Time, Cosmic, Mind, Light, Firebright, Could, Does, Just, Once, Again, Reality, Being, Self, Everything, Divine, Himself, Great, Probably, Without, Zeus, Through, Soul, Such, Before, Death, Will, Would, Were, Very, Back, Life, Information, Remember, Knowledge, Greater, During, Right, White
+
+---
+### Line 3106-3114 (Match: 'Orphic')
+**Folder**: part of
+
+```text
+Needs Review
+239
+-16-
+
+If this Orphic egg is there, then the steersman, the archetype, divinity, who was present and temporarily occupying and directing, was its father or source. I merely received it, gave it a place within which it could be. I am not its father; I am its recipient, which means host or mother. I shelter and hide it; no one knows it is here. I look the same; I act the same. Is this why the steersman took over my life, to be sure I'd be safe so that it, the Orphic egg/pearl, could be safe? Ah; is the Steersman the Holy Spirit? What happened in 3-74 was done in relationship to what is still future. (The birth from the Orphic egg.) Jung says that just prior to psychic integration & wholeness, the projections are withdrawn; the "spinning woman" is no longer present & at work. Certainly this is indeed what I experienced. Man, the person involved, is restored to his original state (of wholeness) before the Fall. The human soul is the bride of Christ, in which Christ is the King who comes & restores it. All these events took place in me in 3-74; I could see for the first time in my life when my projections were withdrawn. The unity (reconciliation) of all the opposites in my mind — hence the release of psychic energy. The God-image in me was restored.
+
+I keep saying —and thinking— that there was a 2,000 years elipsis in the time span of my 3-74 experience: Rome to now, with nothing inbetween. But that is wrong; there was the "Jagdstaffel Beamt" scenes which seemed to deal with World War One. It was as if the tape lapsed in 100 ad and then picked up in 1915 AD. Now, for what it is worth, I learn that the JWs believe that Christ returned invisibly in 1914. Maybe madness lies this way, but my 3-74 experience would tend to dovetail with this palpably mad assertion. He is certainly here now, and he, as they say, is the bodiless cosmic Christ, not Jesus; he is invisible and he is everywhere equally. Also, He evidently has great, even absolute, power, in that I saw Him depose the tyranny here. And this, the Anglo-American Empire, is, to the JWs, the last of the empires mentioned in the "Book of Daniel," in fact the one of iron with clay feet. And thus it did indeed prove to be. And there was indeed a stone, "not cut by man," which was hurled at it to topple it, which maybe hasn't ever happened before (maybe, maybe). Could they be right? Well, I know what I know; He is here with power; He did topple the tyranny; and did anything like this happen during the 2,000 previous years? Back to the anamnesis-memories: no. Absence only. Since I know him to be here, either he has always been here or he has returned. Nobody I ever heard of has reported an experience like mine; I will assume he has been gone virtually all this time & has recently (sic) returned...why not circa 1914? Wow.
+
+Well, in 3-74 He came & healed up my head, withdrew my projec¬ tions and caused me to see & understand. He's still here, but the projections are back — not because He did a bad job, but because — I can't do it alone, without him, and He drew back again to where he was before: concealed * Christus absconditus, I guess.
+```
+**Co-occurrences**: Christ, Spirit, Holy, Jesus, Rome, Holy Spirit, King, Well, Empire, These, Father, Maybe, Like, World, Since, Fall, Because, Iron, Only, Time, Cosmic, Mind, Book, Cosmic Christ, Even, Could, Just, Look, Again, Either, Great, Daniel, Anamnesis, Without, Nothing, Still, Jung, Soul, Certainly, Before, Mother, Will, Would, Were, Back, Life, Absolute, During, Human, Evidently, Right
+
+---
+### Line 3453-3461 (Match: 'Orphic')
+**Folder**: part of
+
+```text
+Needs Review
+274
+2
+
+"Lambs" are a good symbol because lambs can hear the good shepherd, whereas treasures and pearls and seeds can't; at the very most grain or seeds sprouted can be harvested. They, who are twice born, wind up with him, obviously meaning the Cosmic Christ who I think is closely related to if not identical witn (at least in certain ways) to the Holy Spirit. I say, it is the Holy Spirit having gone through incarnation and being resurrected. * * The manifestation of the Holy Spirit to rescue me (God's Grace) conforms exactly to Plato's concept of Noos "persuading" ananke along the lines of wisdom; i.e. the inter¬ play between efficient causes —which would have led to my doom— and final causes, Holy Wisdom, follow Plato's schema precisely: I felt Wisdom take over control and direction. The dialectic which is described in Timeus. A situation of blind decay was leading into a cul de sac. Yet — I performed the early Xtian sacraments, and experienced the Xtian anamnesis, so it was the Holy Spirit; and I heard the bells. In the parables Jesus taught his disciples how to attain the Kingdom of God; he didn't want outsiders to know. Integral in this is receiving the Holy Spirit — I adjudge this to be the x prime event in it all. So evidently certain things, secret preparatory things, must be done in order that —if I am right— the Holy Spirit will come. I think I am right. This lore, this esoteric knowledge, was passed on by Christian to Christian; through it, spec, the practice of it, their obtained the theolepsy. But the lore was lost, when they were killed by the Romans. Thus people ceased to attain the Kingdom, because, I think, they did not know and perform what was needed. Well, the Holy Spirit came to me, but I think I had to do many things in preparation; I have been certain of it, without relating this to the parables or early Christianity. The votive candle, and I had to be shown the golden fish; there must have been others. The fish, right then and there, caused anamnesis. Doesn't this sound like the Orphic and perhaps other theolepsy mystery religions? I saw Rome and believed in my anamnesis experience before the spirit came; of everything I think the golden-fish-induced anamnesis made the thaiepsy possible. And I think anamnesis wouldn't have occured if I hadn't just been given the sodium penthathol, which probably served to replace some trance¬ like state of the mysteries. Something known to Christianity, a state very altered. There was some ancient equivilent, perhaps even drug induced. It is very significent that someasthing outside of and prior to the theolepsy caused anamnesis, although only for a split second; still it did. * * I just brought something to consciousness about my fear, lasting for a year prior to 74, about Soviet letters. It explains my discomforture about Antibi's "money and film" letter from Austria. I now know consciously what I was expected: a Soviet letter (Soviet in origin) which was a burn or Addressat Unbekannt letter, because of what I'd said to Lem. I was primed for this, due to our quarrel. My assumption was, with each letter, "This is it, what I've been expecting." Neither Party summons/instructions nor US was anticipated. Why did I think this? Well, anyhow I did. Well, I now ask myself, What did I think when I saw the Estonian letter? Did I think that? Yes (which it wasn't) and on the basis of that FALSE assuption about Roogna’s letter I anticipated —correctly]— the Xerox
+
+Last edit almost 5 years ago by svayambhu108
+275
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Xerox, Rome, Christianity, Holy Spirit, Plato, Kingdom, Fish, Well, Golden, Roman, Wisdom, Perhaps, Like, Because, Golden Fish, Only, Noos, Cosmic, Holy Wisdom, Good, Cosmic Christ, Even, Anyhow, Just, Soviet, Something, Kingdom of God, Being, Obviously, Although, Everything, Probably, Anamnesis, Without, Grace, Still, Their, Through, Most, Secret, Before, Will, Would, Other, Were, Very, Many, Roogna, Have, Things, Neither, Having, Knowledge, Dialectic, Evidently, Whereas, Doesn, Final, Right, Ananke
+
+---
+### Line 3484-3492 (Match: 'Orphic')
+**Folder**: part of
+
+```text
+Needs Review
+278
+-6-
+
+All that achieves is to pay me a staggering compliment, considering the nature and extent of that ancient personality. God’s grace is a better explanation, since it covers more facts. The dream of the 3-eyed sibyl and her statement about the conspirators certainly ties the epiphany of the personality to world history, which hardly fits the mere anamnesis theory, the past personality theory. Anyhow, both admit anamnesis of Christ. That is what is cardinal anyhow, that is to me the most cherished part, the bells, etc, the words about St. Sophia "hear what comforting words..."). As memory, strictly, it is along the Orphic lines: along Empedocles' lines: "I once was a god and now am merely this." The Kingdom, then, as memory of a state, but now restored by anamnesis; that isn’t bad: the kingdom or kingship restored by anamnesis!!! I did not just recall having been there; I was once more there, back again, restored as much as ever (we had hard times vis-a-vis the Romans, back in the far past; it wasn’t so wonderful). Let me consider this restoration of the Kingdom; I remember strongly feeling a general restoration, of all things; hence my disappointment in 75 starting in March, when I was back as I had been. I could not understand; yet I had had the dream in which I was old and miserable and sick, and then again I heard the magic bells, summoning me upward, to my delight. I really already had known that the Spirit was going to leave. But it did leave some¬ thing behind (the treasure, egg, pearl, seed, etc). I am more aware now of what it left behind; I still can envision it, via the eye of discernment. Firebright. As clear as ever, waiting for events still ahead. When I break so that I can't repair or be repaired...then, after an interval, the bells again. I guess only then. You can’t blame me for marking the days until that, though. "Those who hate this world," as John quotes Jesus. I have certainly at last renounced some very deep hopes about my life in this world, regarding a family. The hopes I had in 72 when I came here. It has been my 3-74 encounter which has achieved this, a resignation, a finality, but also a looking elsewhere for other things. It isn't defeat, or resignation as such, but an acceptance, and, as I say, turning else¬ where, toward what the 3-74 experience was all about. * * In trying to find some depth or severe degree of evil in the Nixon tyranny which would accouht for divine intervention, and also in my attempts to explain the help given me individually, which is to say, my whole experience (of the which I've read nothing nowhere by anyone subjected to any misery and entrapment) I came up with the Communist agent* theory, but in fact no evil degree can account for it, since greater degrees of evil can be adduced in history, with no evidence of divine intervention, either on a personal or historic scale. I see in 3-74 two interventions, personal and historic, both unexplained by the severity of the situation. Perhaps it is not to relieve a severe evil that accounts for the divine presence; if on takes the "St. Sophia "etc statement as an answer to my question, "Why are you here and what are you doing? then maybe there is the answer; the host was seeking a positive situation, the second incarnation, and merely relieved evil to "make straight in the desert a highway," esp. to pull down enthroned evil so that Christ would not suffer the same fate as before, the modern equal of Herod or Nero having been removed. Oh yes: as to the events
+
+Last edit over 1 year ago by jhordan
+279
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Jesus, Sophia, Kingdom, Roman, Perhaps, Maybe, World, Since, Only, John, Nixon, After, Firebright, Could, Anyhow, Just, Once, Again, Both, March, Empedocles, Divine, Either, Fate, Sibyl, Anamnesis, Grace, Nothing, Those, Still, Part, More, Most, Such, Certainly, Before, Consider, Would, Other, Kingship, Very, Back, Have, Things, Life, Memory, Days, Evil, Having, Remember, Magic, Greater, Dream, Answer, Until
+
+---
+### Line 6820-6828 (Match: 'Orphics')
+**Folder**: part cycle
+
+```text
+Indexed
+13
+13
+
+was not a misfiring; Christ's death is to be regarded symbolically in a journey of the soul to the underworld (Orphism and Pyth). Like with Buckman, the Orphics + Pythagoreans had figured out the atelos overstepping, Valis (the Tao or kosmos) + telos. Thomas was implanted in me; he didn't surface! He was born. This is how a new soul is created: ex nihilo. "Behold! I tell you a mystery. We shall not all sleep but we shall be changed, in an instant - " etc. But B ("Rome") is necessary to do the overstepping + so to attract Kosmos into assimilation. So I was right in "Valis"! The mysterious entity Valis (Ubik) is the main element revealed (Pyth's cosmos, also the cosmic Christ), + my "irrational" equals overstepping (atelos), + assimilation into Valis (kosmos or God) is, as I say, permanent (into the Tao). Now it can be seen why hubris was regarded by Paul as the worst "sin" of all - it absolutely prevented being assimilated into the Tao. I was right! Under all else the moral order of ma'at exists. The laws of this mysterious moral (justice) entity must be understood (to the extent possible). Then the "Roman Empire" is a dramatic symbol for that which oversteps. Then it must always exist; it is atelos or what I call the irrational. It is yin. Hence I see it as being cold, hard, dark, moist, rigid, cruel, implacable.
+
+Last edit over 5 years ago by Toso
+14
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Ubik, Toso, Thomas, Indexed, Rome, Paul, Empire, Roman, Like, Cosmic, Buckman, Cosmic Christ, Kosmos, Being, Soul, Orphism, Pyth, Death, Under, Journey, Justice, Dark, Right
+
+---
+### Line 6828-6836 (Match: 'Orphics')
+**Folder**: part cycle
+
+```text
+Indexed
+14
+14
+
+It is form II. Being rigid it must be burst like a husk by the seed placed in the center. It is also thanatos. What I saw Valis doing was making a correction. I've realized this for years, but I understand now that an infringement was involved; an overstepping. It has to do with proportion + balance. It has to do with a cosmic order for which we have no name. Suppose there is a geometric model of structure which is like the forms of Plato, or like the Logos: blueprint, to which empirical reality has to conform. What interests me is that this discloses empirical reality as a copy of an original model that cannot be departed from for long, but can be departed from long enough + far enough for the correction to be observed. Perhaps kosmos extended its structure to include something formerly lying outside it, + in assimilating it, adjusted if. Valis expanding (transubstantiating). This is the impression I had: an invisible advancing by the camouflaged entity. ____ Reading supra. B (atelos) is lured into so great an overstepping against a victim that Valis (kosmos, Tao) is induced to counter by including the victim in it (in Valis) + thus divinizing it + making it immortal, + depleting energy from B in "heat" exchange. This is a calculated strategy by Pythagoreans, Orphics, Taoist mystics, Hermetic alchemists, onto which I stumbled accidentally. Knowing the proportion, balance, Harmonia, justice, + structure system of Valis, certain mystery religions etc. have acted as magicians {...}
+
+Last edit over 5 years ago by Toso
+15
+Complete
+```
+**Co-occurrences**: Valis, Toso, Indexed, Logos, Complete, Form, Plato, Perhaps, Like, Cosmic, Hermetic, Something, Suppose, Reality, Kosmos, Being, Great, Taoist, Have, Justice
+
+---
+### Line 6869-6877 (Match: 'Orphic')
+**Folder**: part of
+
+```text
+Indexed
+18
+18
+
+Looking all this over I realize that the Ramparts petition + then my failure to fill until the war ended was not just an antiwar act, a dissenting, or even civil disobedience but an outright sacrifice of my freedom + career; the punishment was inevitable, as was Jesus' when he entered Jerusalem. + I knew it. By '74 I lived in terms of them arresting me, then 2-3-74, the Xerox missive + what I now believe to be the correction or justification by Valis on my behalf. I had unintentionally, accurately followed the instruction manual (NT), including all the elements necessary. For the first time I can see logic, not caprice, in the advocate coming to me in 2-74 as soon as "Tears" was published. __ It can't be said that evil B causes apotheosis, the kicking over to stage two by its victim; the cause is Valis' justification. This justification can legally render the person spotless + (to think in Pythagorean/Orphic terms) unsullied by earthly existence; put in Indian terms, karma is burned up, + further earthly life (by which karma works itself out) is irrelevant. This fits my own impression that my programmed tape "played itself out at high speed in a vacuum" in 3-74. The future events to which it had been synchronized were not events necessary for me to live through; Valis short circuited the cosmic machinery when it justified me. It's as if the judge (ma'at) has now seen enough to have her basis by which to render judgment. The facts are in. To allow the person to be exposed to further injury would just be cruel. Another view could be that B + Valis are in contention for the person's soul. {But if B}
+
+Last edit over 5 years ago by Toso
+19
+Complete
+```
+**Co-occurrences**: Valis, Tears, Toso, Indexed, Jesus, Complete, Xerox, Time, Cosmic, Even, Karma, Could, Just, Missive, Xerox Missive, Indian, Another, Through, Soul, Would, Judge, Were, Further, Have, Judgment, Life, Freedom, Evil, Until
+
+---
+### Line 8231-8239 (Match: 'Orphic')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+126
+118 This is close to but not identical to the doctrine of the "divine spark" or "piece of the divine" within: This is the whole divine but - well, is it reduced in size? It's not a physical entity. There is my error in logic: I'm treating it as material, hence I speak of it as small. But my own experience in 3-74 - all the categories of time + space were abolished: I experienced huge spaces (the abyss?) + 1000s of years! By all means, that experience of vast extents of space + time Were the most startling aspect of it, the most awesome (except for the encounter with the Godhead itself, of o course) to reflect the divine mind behind the universe. In your own is mind/memory - I take this to mean that the "divine Mind behind the universe" was thereby "in" the person. I am now getting the material I've sought for for four years. "The religious experience of the Hermetic Gnostic." + I kept dreaming about mercury (i.e. Hermes in terms of Paracelsian alchemy + cosmogony). I offer the following proposition: that all adepts. be they authentic Christian, Hermetic, Orphic, alchemist tapped (i.e. became or became a part of) one specificn vast supramens, +, in it. There was an "inter penetration of [then] souls." + this mind extends over thousands of years, all of which is now - + all places are here (that's why I found myself in Rome cAD 70 + in Syria, + saw The Aphrodite, sland, etc.).
+
+Last edit almost 3 years ago by svayambhu108
+127
+Needs Review
+```
+**Co-occurrences**: Christian, Rome, Gnostic, Well, Godhead, Time, Mind, Hermetic, Divine, Part, Most, Universe, Were, Memory, Aphrodite, Except, Hermes, Syria
+
+---
+### Line 8322-8330 (Match: 'Orphics')
+**Folder**: book on
+
+```text
+141
+133 The 1st + 2nd advents are not discrete events! Q o n But rather stages of one Gestalt, the 2nd adding the elements (judgment, "blitzing" history, etc) to the first: For me, all stages were enacted. (i.e. fulfilled) inc. a brief period in the peaceful kingdom of God. is
+
+R.W. showed me a book on myths which contained a chin on anamnesis - how it could be induced by "mysterious words + signs" - the Orphics (it said) wore "Golden Plates"). Empedocles + Plato + Pythagoras were mentioned. Two kind, of anamnesis 2 were discussed: ➀ Urwissenschafy + memory 4f previos lives here. Amnesis was shown to equal death; anamnesis immortality (Empedocles was quoted here). Gnosticism + its belief that this is not our home was discussed. What especiatly excite me was a description of "disciples" inducing anamnesis deliberately in a God who had forgotten who he was (he had been cured into the sensual world by sexual love) Amnecia - death - anamnesis ‐ immortality + spiritual life - but no where did the text mertion any practices today of experiencing spontaneous anamnesis or having it deliberately induced. If the knowledge of how to do this - if the doing of this - has died out, it is a colossal disaster for man kind - i.e. if my experience was anomalous [now], + if mone was deliberate as I think it was-look at the implications: a secret xtain true chuch
+
+Last edit almost 3 years ago by svayambhu108
+142
+Needs Review
+```
+**Co-occurrences**: Plato, Kingdom, Gnosticism, Golden, World, Pythagoras, Book, Gestalt, Could, Look, Kingdom of God, Empedocles, Anamnesis, Secret, Love, True, Death, Were, Judgment, Life, Memory, Having, Knowledge, Today
+
+---
+### Line 8431-8439 (Match: 'Orphic')
+**Folder**: part of
+
+```text
+Last edit about 6 years ago by Zebrapedia
+Part 2
+Indexed
+Part 2
+But if there is a penetration in the microcosmos to the divine substratum, the divine substratum of the macrocosmos will manifest itself to the person. Conversely, if there is no internal penetration to the divine substratum in the person, his exterior reality will remain occluded over by the artifact's spurious projected world. The point of entrance to effect this transformation lies in the person, the microcosm, not the macrocosm. The sanctifying metamorphosis occurs there. The universe cannot be asked to remove its mask if the person will not shed his. All the mystery religions, the Hermetic and alchemical and Christian included, hold the individual human as target by which to transmute the universe. By changing the person the world is changed. Behind the human mind lies God. Behind the counterfeit universe lies God. God is separated from God by the spurious. To abolish the inner and outer spurious layers is to restore God to Himself -- or, as originally stated in this paper, God confronts Himself, sees Himself objectively, comprehends, and understands himself at last. Our process universe is a mechanism by which God meets Himself at last face to face. It is not a man who is estranged from God; it is God who is estranged from God. He evidently willed it this way at the beginning, and has never since sought his way back home. Perhaps it can be said that he has inflicted ignorance, forgetfulness, and suffering -- alienation and homelessness -- on Himself. But this was necessary, in his need to know. He asks nothing of us that he has not asked of Himself. Bohme speaks of the "Divine Agony." We are part of that, but the goal, the resolution, justifies it. "A woman in childbirth suffers. ..." God is yet to be born. A time will come when we will forget the suffering. He no longer knows why he has done all this to himself. He does not remember. He has allowed Himself to become enslaved to his own artifact, deluded by it, coerced by it, finally killed by it. He, the living, is at the mercy of the mechanical. The servant has become the master, and the master the servant. And the master either renounced voluntarily his memory of how this happened and why, or else his memory was eradicated by the servant. Either way, he is the artifact's victim. But the artifact is teaching him, painfully, by degrees, over thousands of years, to remember -- who he is and what he is. The servant-become-master is attempting to restore the master's lost memories and hence his true identity. One might speculate that he constructed the artifact -- not to delude him -- but to restore his memory. However, perhaps the artifact then revolted and did not do its job. It keeps him in ignorance. The artifact must be fought -- i.e. disobeyed. And then memory will return. It is a piece of the Godhead (Urgrund) that has somehow been captured by the artifact (the servant); it now holds that piece -- or pieces -- hostage. How cruel it is to them, these fragments of its legitimate master! When will it change? When the pieces remember and are restored. First they must wake up and then they must return. The Urgrund has dispatched a Champion to assist us. The Advocate. He is here now. When he came here the first time, almost two thousand years ago, the artifact detected him and ejected him. But this time it will not detect him. He is invisible, except for those whom he rescues. The artifact does not know that the Advocate is here again; the rescue is being done in stealth. He is everywhere and nowhere. "The coming of the Son of Man will be like lightning striking in the east and flashing far into the west" (Matthew 24:27). He is in our midst, but in no one place. And as St. Teresa said, "Christ has no body now but yours," i.e. ours. We are being transmuted into him. He looks out of our eyes. The power of delusion wanes. Did the artifact accomplish its task? Perhaps unintentionally. If the Hermetic "reflection of the divine mind behind the universe by a person's own divine mind/memory" can actually take place, then the division between the mundane world (here and now) and the eternal world (the heavenly or afterlife world) is broken down. Suppose that there is, in effect, a polyencephalic or group mind, spanning space and time (i.e. transspacial and transtemporal), in which wise men from all ages have participated in: Christian, Hermetic, alchemical, Gnostic, Orphic, etc. Through their participation in this vast mind, the will of God would be effectively exerted here on Earth, in human history. Many people might agree that such a Godhead mind exists for us after death, but who is aware that -- for some -- it can be joined before a person's death, and, when he does join it, it can become his psyche, determining his actions and doing his thinking for him? Thereby the Mens Dei [mind of God] enters human affairs (and can modulate causal chains as well). This exposes an enormous esoteric secret, known to "magi" down through the ages: The two realms, heaven and Earth, are not totally divided. God's will is, at least now, exercised here. And evidently this has been true for some time, since the Hermetics and other mystery religions go back to antiquity. In Christ, God descended to corporeal manhood -- at that point the division between the two realms was abolished. Those humans selected out to participate in this group mind -- they would be immortal. So here is an even deeper secret than I had uncovered so far. Projected delusional world by a former-servant artifact -- divine substratum beneath -- time travel -- now I posit an augmented Corpus Christi (my model of it) spanning all time and all space: ubiquitous in time and space. It sounds like Xenophanes' noos [absolute mind], with this added: Living men can participate in that noos. And in a certain real sense, this noos is the secret ruler of the world, so that those who are taken into it become "terminals" of it -- which is to say, temporary Christs. This mind reaches over to the Urgrund with no clear line of demarcation. At that level it's all one: man raised to Godhood, in response to God's descending to manhood. In this group mind there seems to be an interpenetration of participating souls. And this mind extends over thousands of years, all of which are now -- and all places are here (that is why I found myself in Rome circa A.D. 70 and in Syria, and saw Aphrodite, etc.). I say of this mind, "It is the secret ruler of the world." This is not its world. . . on the surface. The surface layers are the strata of a spurious projection by the artifact. But beneath that, the Mens Dei, including a number of human constituents (both living and in the afterlife), modulates this reality invisibly, working in opposition to the artifact's intentions. The divine, concealed, authentic substratum is the Mens Dei, beneath the spurious. My experience of 3-74 can be reviewed as an achievement by the Urgrund in reaching its objective of reflecting itself back to itself, using me as a point of reflection. I contend that in doing this, it was able to place its entire self (not just a fragment as I originally said) somehow within me, in image form. The artifact, not knowing the purpose for which it was created, had contributed substantially to this; by inflicting too much pain on me it had, in a certain real sense, awakened me. Put another way, it had managed to destroy the layer of individual personality by a series of afflictions against which my self, my ego, could not survive. Thus the microform of the Urgrund was exposed, and perceived its macroform in the totality of the universe -- or, as the article on Bruno says, the divine behind the universe. My 3-74 experience, then, was not so much my experience as that of the Urgrund. It amounted to a replication of the Urgrund here rather than there. The totality of the Godhead was recapitulated within me through a process of rolling back spurious or temporary layers to expose the permanent within. Thus it can be said that I was really the Urgrund, or at least a faithful mirror image thereof. The entire objective of creating me, of creating the universe as such and the life forms within it, was arrived at. Viewed this way, my life and that of my ancestors could be viewed teleologically: as moving through evolutionary stages toward that moment. My experience did not represent a stage in evolution but the ultimate stage or goal, at least if the premise stated in this paper is correct. It is not a question of degree of reflection; it is a question of reflection of the totality of the Urgrund or none at all. Full reflection was achieved, whereupon, as I say, the Urgrund was born out of the universe, the sequence represented this way:
+
+Urgrund creates artifact which projects universe which gives rise to life forms which evolve to a stage in which the Urgrund is "born" or reflected.
+
+This reflects the sequence of stages envisioned in the Hindu religion. First there is creation by Brahma, then Vishnu sustains the universe; then Shiva destroys it, which should be understood as receiving it back into its origin. A full cycle of birth, life, and then return is enacted. When the universe has reached the evolutionary stage where it can faithfully replicate the Urgrund, it is ready to be absorbed back. Thus I say, the deity that reigns now is Shiva/Dionysos/Cernunnos/Christ, who restores us to our Urgrund or Father: our source of being. That Shiva the destroyer god is now active signals the fact that the cycle of creation has returned to its source, or rather, that the life forms of it are ready to return to their source. Shiva possesses a third or Ajna eye, which, when turned inwardly, gives him understanding to an absolute degree; when turned outward, it destroys. The manifestation of Shiva (of the Hindu system) is equated with the Day of Wrath in the Christian systern. What must be understood about this world-destroying deity is that it is also the herdsman of souls. With one of his four hands, Shiva is shown expressing reassurance that he will not harm the virtuous man. The same is true of Christ as Lord and Judge of the Universe. Although the world (the spurious projection of the artifact) is to be abolished, the good man need fear nothing. Nonetheless, judgment is being pronounced. The division of mankind into two parts by Christ is taking place. These are the same divisions expressed in the Egyptian system (as ruled by Osiris and Ma'at) and in the Iranian (by the Wise Mind). Through the total insight given him by his Ajna eye, Shiva the destroyer perceives that which he must destroy in the service of justice. Through that total insight he also perceives those whom he must protect. Thus he has a dual nature: destroyer of the wicked, protector of the weak, the victims of the world, the helpless. Christ possesses precisely these two natures, as Divine Judge and Good Shepherd. Cernunnos is both a warrior god and a healer god. It is difficult for humans to comprehend how these apparently opposite qualities can be combined into one deity. However, if attention is turned to the situation, it can be understood. The artifact's projected world has begun to serve its final and sole real purpose. Now, with the artifact about to be destroyed, that world will end; it was never real in the first place. (This reflects the quality of destroyer assigned to Christ/Shiva/Dionysos.) But the elements of the world that have done their task will be selected out -- that is saved -- exactly as Dionysos is depicted as the protector of small, helpless wild animals. Dionysos is the destroyer of prisons, of tyrannical rulers, and the savior of the small, the weak. These attributes are assigned to Shiva/Cernunnos/Christ/Dionysos because of the nature of the task now required: a twin task, one of destroying, one of saving.
+```
+**Co-occurrences**: Christ, Christian, Indexed, Rome, Form, Gnostic, Well, However, Dionysos, Lord, These, Perhaps, Godhead, Father, Like, World, Since, Because, Time, Earth, After, Noos, Savior, Urgrund, Good, Mind, Hermetic, Even, Could, Does, Jakob Boehme, Zebrapedia, Just, Again, Shiva, Suppose, Both, Reality, Being, Christi, Although, Self, Divine, Himself, Corpus, Either, Viewed, Nothing, Those, Part, Their, Bruno, Another, Through, Corpus Christi, Living, Xenophanes, Heaven, Real, Nonetheless, Such, Actually, Secret, Before, True, Death, Universe, Finally, Will, Deity, Would, Other, Creation, Somehow, Judge, Hindu, Back, Egyptian, Many, Have, Artifact, Judgment, Life, Absolute, Body, Apparently, Justice, Memory, Wise, Aphrodite, Remember, Except, West, Human, Syria, Evidently, Final
+
+---
+### Line 14422-14430 (Match: 'Orphic')
+**Folder**: folder 02
+
+```text
+Last edit about 9 years ago by carrifaery
+folder 02 - 088
+Complete
+folder 02 - 088
+Suppose you examined such books + stories of mine as "Ubik" + found (just to use one example) Hermetic ideas. You wonder, how come they are there? Okay. Let's say this is _before_ 2-74. You interview me to find out, + I am surprised to learn that there are such specific historically-datable + -placeable ideas in my writing. I have no idea how they got there. _Then_ 2-74 happens. Then _3_-74 happens. You, as interviewer, find all this out. _Now_ you know how the ideas got there; + although it is admittedly a startling explanation, it makes sense. Perhaps 2-74/3-74 even confirm a theory (admittedly startling) which you have held because it _has_ to be the explanation. If you were right, 2-74 + 3-74 were bound eventually to happen, although I, the author, wasn't expecting it, having no insight into the situation. The theory, urged onto you by such material as is in "Ubik" unknown + unrecognized by me the author, is that a second, latent, other self in me wrote the writing, + this second, latent, other self is well versed in platonistic, neoplatonist, cabbalist, hermetic, gnostic, Bruno/Paracelsust, orphic, R.C. thought. How come he is so versed? It's a tautology: someone versed in all this is a 15th or 16th century humanist. So in me there is another self, + he is a 15th, 16th or early 17th century humanist - + this is who + what burst to the surface in 2-74 + 3-74. This is _precisely_ who + what finally did burst through - much to my
+
+Last edit over 9 years ago by Toso
+folder 02 - 089
+Complete
+```
+**Co-occurrences**: Ubik, Toso, Complete, Gnostic, Well, Perhaps, Because, Folder, Book, Hermetic, Even, Okay, Just, Suppose, Although, Self, Toso
+Folder, Bruno, Another, Through, Such, Finally, Other, Were, Have, Having, Right, Someone
+
+---
+### Line 14929-14937 (Match: 'Orphics')
+**Folder**: Folder 03
+
+```text
+Folder 03 - 061
+67
+
+This kind of experience + wisdom goes back all the way to Pythagoras, to the Orphics, + to Dionysos himself. It is the great core wisdom of all mankind, including the Dibba Cakkhu enlightenment of Siddhartha the Buddha. I can say I am a Buddhist or even a Buddha, that in Brahmanist terms I have an avatar in me; I am an Orphic, a Neoplatonist, a Christian, a Hermetic - all these statements are true; + also I have to some extent formulated my own system (as Bruno did). I have seen God but it was not God; it was more (+ I have a cybernetics/biological model). I am with Boehme perhaps most of all - + with his teacher, Paracelsus, most of all. + even with Heraclitus in his maxim that "latent form is the master of obvious form" in my inner-outer, upper-lower Christ vs Caesar system, + with Empedocles in his dialectic, + with Xenophanes in his concept of God, or Noos, + esp. with Parmenides in his Forms I + II, of which Form II (lower, outer, obvious) is not really real. Thus, as with the Gnostics, I am acosmic, but with Spinoza in his monism - + a little Taoistic, too. + I know things either not written down or at least not available (esoteric Gnosis: that Christ is with us, + we are him + will return again - + that in the real, latent world it is the space-time of Acts - I know all these things. + I know about the brotherhood's manipulation of history, working
+
+Last edit about 7 years ago by Toso
+Folder 03 - 062
+Indexed
+```
+**Co-occurrences**: Christ, Acts, Christian, Toso, Indexed, Form, Gnostic, Spinoza, Wisdom, Dionysos, These, Perhaps, World, Parmenides, Gnosis, Time, Noos, Folder, Buddha, Pythagoras, Hermetic, Even, Jakob Boehme, Again, Heraclitus, Empedocles, Siddhartha, Toso
+Folder, Himself, Either, Great, More, Paracelsus, Bruno, Most, Xenophanes, Real, True, Will, Buddhist, Back, Have, Things, Caesar, Dialectic, Upper, Lower
+
+---

@@ -1,0 +1,364 @@
+# Evidence Packet: Women
+
+- **Category**: Top Term
+- **Total Mentions**: 32
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 20811-20819 (Match: 'Women')
+**Folder**: part vis-a-vis
+
+```text
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+25
+( is central; the 2 CP papers just complete the morphe. she disinhibited me; v. Mitha. What the 2 CP paper. do is render exclusively precise, rather than approximate Juliana warns abendsen that he is in danger the fascist authorities are after him because of his book. "Faith of" adds: "In the form of forged CP documents" - a precise refinement (one is okay, me is not, of the 2 papers). This is how the attack allu ded to by Juliana will come GH is a shrewd intuition as to what the real it world is like. In it the authorities in their world lost "Tears" = TGlH it says vs Capitalism lost - but s If to whom? Not fascists; that's MITHC. This leaves only the CP, the left. Where Xtianity is illegal + forced labor camps exist. Or: is "Tears" simply how capitalism really is? imperialism. Rome. It can be argued that the resemblance between the Golden Fish Girl, 2 CP documents + my writing psycho e logically triggered me off, but this won't account for the o - connected to the Fish sign. Acts material in "Tears see the Fish sign on the day I was given sodium entathol, + the Fish sign relates to "Tears" via the Acts material - what human agency could have arranged that they'd have had to know I'd order pain pills + from which pharmacy + that I was engrammed on sexy women + The toland man book, the lish (or Fish teeth) necklaces the P.W. Collage on my wall, + they'd have to know of the Acts material in "Tears," + they'd have to arrange for Roogna write me just they, etc - impossible. to There is one point I've failed to explore. If it is Tears" + "Tears" alone which = TGlH, the girl could show up until "Tears" was published or at least it to illen. She showed up within the 2 weeks following its lease. Even if I reasoned that God worked backward in me from the outer reality situation to the inner analog is would not account for the coincidence of her coming hen she did. Also, the 2 CP documents. 4 things had occur within a short time + in the sequence which ay did 1) "Tears"; 2) the Gire; 3) CP letter A; 4) CP letter b the Girl had to display the Fish sign - not the cross say what she said, so we'll say 5. + this still does the Acts material in "Tears," except obviously explain the right hemisphere personality who she disinhibited
+
+Last edit almost 3 years ago by svayambhu108
+
+26
+```
+**Co-occurrences**: Tears, Acts, Complete, Rome, Christianity, Form, Fish, Golden, Like, World, Because, Golden Fish, Only, Time, After, Faith, Book, Even, Okay, Could, Does, Just, Reality, Obviously, Girl, Still, Their, Real, Will, Would, Roogna, Have, Things, Except, Cross, Human, Right, Until
+
+---
+### Line 24429-24437 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 003
+803
+
+It is based on waking them : Eunoe. Yes, there was a dysfunction of the coaxial worlds, but it was for a purpose, & that purpose was achieved. I was Redeemed. __ All Right : Here's a point : I hadn't been in the hell world a long time ago; I was just now in it. This is why I felt the change in temperature, humidity & altitude. I hadn't really been in Orange County 1974; something (Lithium? Fear? Golden Fish?) caused my real memories to phase back in - & a month later the "Tears" world really faded back in, & so did my real personality who lived there. By "anamnesis" read: real memories: as if the 3 Women in the Altman film at the end had been reminded by something that they'd really been living in Calif, & Millie was her roommate, not mother. Viz : "Now I remember!". What was happening was I was being deliberately extricated from the - I got my true memories back, & as a result I saw reality: Paradise. It isn't an illusion, but USA 1974
+
+Last edit over 5 years ago by Toso
+folder 48 - 004
+Indexed
+```
+**Co-occurrences**: Tears, Toso, Indexed, Fish, Golden, World, Golden Fish, Time, Folder, Just, Something, Reality, Being, Toso
+Folder, Anamnesis, Indexed
+Folder, Living, Real, Calif, Mother, True, Back, Later, Remember, Paradise, Right
+
+---
+### Line 24458-24466 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+folder 48 - 006
+806
+
+In other words, if world upon world is spun out & each seeming to have always been there, a spinner must exist. The worlds are sort of its body experienced as world(s). It influences you inwardly in terms of memory (+ personality) So anamnesis is special; the spinner has shown you the true state of affairs. IF at the end of "Three Women" they'd remembered they had really been living in Calif, they wouldn't be transported -moved- spacially from Texas (?) to Calif, but Texas (?) would have faded out, & Calif in, along with the memory/realization that Millie was her roommate, not mother. So they weren't really in Calif & aren't really in Texas, as we generally understand it. Valis must be working directly on your mind. Thus the inner-outer tapes. & Valis creates along the orthogonal form axes at high speedPerhaps it can run you at ultra high speed through the past of the new world you're in (the way they record tape) to the present of that world, hence the time-rate of the previous world is acutely slow in comparison, But the normal time rate of the two worlds while you're in them is the same; only the catching-up, the laying down of fake memories, is high speed - virtually instantaneous. Like the phosphene graphics. Decades in a few hours. This is technology.
+
+Last edit over 6 years ago by Toso
+folder 48 - 007
+Indexed
+```
+**Co-occurrences**: Valis, Toso, Indexed, Form, Like, World, Only, Time, Folder, Mind, Toso
+Folder, Anamnesis, Through, Living, Upon, Calif, Mother, True, Would, Other, Have, Body, Fake, Memory
+
+---
+### Line 24511-24519 (Match: 'Women')
+**Folder**: part where
+
+```text
+Indexed
+folder 48 - 012
+812
+
+It seems strange, on the surface, that you would go forward into the next realm by remembering the previous realm, but also you are remembering before that: when you were alive; + you are remembering the fall + your ascent back up thus far, + that you have still farther to go. You are not home yet. Memory + Self are the same thing - as "Three Women" showed. In fact memory and reality are the same thing, as the film also showed. So Self + reality are interrelated. Of course it would divide up into 3 realms: past (Inferno), present (Purgatorio) + future (Paradiso); there is always a worse part where you were, the part you're in now (middle) and the better part (future); it's not an arbitrary division. + before the first part, the BIP, lies the stars. Dante's "Comedy" is the best description of the ascent of the soul probably ever written. He places anamnesis as occurring at the top level of purgatorio, just before entering paradiso, which fits my experience. The Soul has finally reached the point where reality is restored to it because memory is restored to it. Ah. My self up to 3-74 was an epiself based on amnesia. Thomas is my true self based on memory (anamnesis) and hence different
+
+Last edit about 6 years ago by Zebrapedia
+folder 48 - 013
+Indexed
+```
+**Co-occurrences**: Thomas, Indexed, Fall, Because, Folder, Zebrapedia, Just, Realm, Reality, Self, Dante, Probably, Anamnesis, Indexed
+Folder, Still, Part, Soul, Purgatorio, Before, True, Finally, Paradiso, Would, Were, Back, Have, Memory
+
+---
+### Line 24572-24580 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+As far as how reality in itself is built, it's as if the source (Valis, the One) fires the signal like this:
+
+{diagram} ]Future ]Present ]Past
+
+It's firing both upper + lower realms so-to-speak simultaneously, as if at different color frequencies, so the 3 worlds are not created in a linear time sense (way) at all! This is why "3 Women" so upset me, because it revealed to me what I feared - literally feared; that other realms in space-time are coaxial with this one + not really "before" or "after" in the linear time sense at all. Higher + lower, maybe - but: it's an orthogonal axis along which a given living individual can rise or sink during his lifetime - which would seem to involve a time dysfunction; I repeat: seem to; memory change + hence change in the self would also occur. Viz: if during a given lifetime you rose from the mid-realm to the top realm or fell from the mid-realm to the lower realm, there would be a corresponding change in self + memory (less memory + poorer self if fall; better self + memory if rise) +, as I say, a seeming time dysfunction - i.e. a world shift, which is really you moving on the orthogonal axis.
+
+Last edit over 6 years ago by Toso
+folder 48 - 018
+Indexed
+```
+**Co-occurrences**: Valis, Toso, Indexed, Maybe, Like, World, Fall, Because, Time, After, Folder, Realm, Both, Diagram, Reality, Self, Toso
+Folder, Living, Before, Would, Other, Memory, Upper, During, Lower
+
+---
+### Line 24703-24711 (Match: 'Women')
+**Folder**: book in
+
+```text
+Indexed
+folder 48 - 032
+832
+
+planted apostolic Xtians long dead -+ gone with them their knowledge- which explains why so much information was transferred to me along with the personality of an apostolic Xtian: the crucial knowledge was lost when they were killed (the torn-out pages of the book in the dream contained knowledge as well as a narrative of the forced exclusion + take-over). It is very Zoroastrian. Which fits in with the fact of Satan's real existence + his take-over of Christianity. Which explains the dialectic as primary in the Gnosis. This transplanting is a strategy of the foresighted wise mind, not anticipated by the evil horn. No wonder I felt that there's been a time dysfunction as in "Three Women"! Now the mystery of memory, continuity of identity, space- + time-dysfunction is cleared up - through the single word "transplant"! I have long thought of myself as a female host - perhaps for interspecies symbiosis, but now I see it exactly; I see who I was host for + why it was necessary + what it signifies in terms of world history: the final battle (which certainly was going on back in '74). So no wonder the divine powers aided me vis-a-vis the Xerox missive. Thomas was not the means; Thomas was the goal, + defense was means to preserve him. Hence the coincidence of the defense coming right after "anamnesis." Once there was a transplant, my danger would have to be coped with, for his sake. The transplant was made prior to 2-74; hence the Acts material in "Tears" but it was disinhibited in 2-74. So now I know why
+
+Last edit over 5 years ago by Toso
+folder 48 - 033
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Christian, Toso, Thomas, Indexed, Xerox, Christianity, Satan, Well, Perhaps, World, Gnosis, Time, After, Folder, Mind, Book, Once, Missive, Divine, Xerox Missive, Toso
+Folder, Zoroastrian, Anamnesis, Indexed
+Folder, Their, Through, Real, Certainly, Would, Were, Very, Back, Have, Memory, Information, Wise, Evil, Knowledge, Dialectic, Dead, Dream, Final, Right
+
+---
+### Line 24791-24799 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 042
+842
+
+I know that St. Sophia, the Buddha, Siddhartha + Apollo have been mentioned. So the stamp of the divine has been there from almost the start. + yet to see the tetragrammaton + have it connected (synchronized) with the audio "he" in "he is alive" seems different + unique to me, + a matter of a higher -the highest- order. I guess to me the fact is that none of these other names allude to God in the sense that YHWH does. It is as if the others are attributes or cultural (i.e. man-made) hypostases, + YHWH is YHWH; viz: there is no God but God, i.e. the God who "is what he is," the tetragrammaton. The others are names humans give to God; YHWH is the name by which God referred to himself when he conversed with Moses; it tells who he is. It is (v. the E.B.) his personal name and means "He brings into existence what is." I used to doubt the creator aspect of the deity, + leaned toward Aristotle's teleological cause prime mover, but not after seeing the Altman film "3 women." That produced a terrifying Moksa (Satori) in me. Actually, what I understood (more precisely) was the idea that creation + all things, creatures + events in it are ideas in God's mind + so on their own have no existence; what esse they have they are loaned by God, who alone exists. This petrified me when I understood "creator" in that sense. This prepared the way for me at last to comprehend Yahweh: "He brings into existence what exists" (Yahweh asher Yahweh). This understanding was one of the greatest moments in my life.
+
+Last edit about 7 years ago by Toso
+folder 48 - 043
+Complete
+```
+**Co-occurrences**: Toso, Indexed, Complete, Sophia, These, After, Folder, Buddha, Mind, Does, Siddhartha, Divine, Moses, Toso
+Folder, Aristotle, Himself, Apollo, Indexed
+Folder, Creator, Their, More, Actually, Yahweh, Deity, Other, Creation, Have, Things, Life, Asher
+
+---
+### Line 24854-24862 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+Complete
+folder 48 - 050
+850
+
+1) The double worlds superimposition + two selves in me: like Altman's "3 Women." 2) + then (later) I see Valis.
+
+What is the relationship between (1) + (2)? It would seem as if (2) is actually what is there, + not what we see that is included in (1). I.e. (1) raises a question that is answered by (2). Conversely, the purpose of (2) is shown us by (1). Upon seeing (1) + not (2), we would be left in the frightening dream "world" of "3 Women" with the possibility that nothing could replace something, or, worse, that it is this way now - a dream, with no substance behind it. This was the fear that "3 Women" left me with. But I must remember that later on I saw Valis which is not a dream, but which explains the dream, i.e. (1). It can be argued that there is a terrible risk to decompose world because if it is the only "thing that is the case," you will be left with nonbeing; but in point of fact I wound up with Valis - so it was a net gain + not a loss (of reality). There was more reality "behind" world than in world qua world. Nonetheless it is terrifying to realize that something provides world + that on its own it has no substance (substantia). Either (1) or (2) alone would pose an unfathomable mystery, but together they form a coherence - + yet it is a startling + mysterious coherence that few people have ever encountered: the dissolving of the world (of multiplicity) to be replaced by another world of multiplicity, + then a sentient volitional unity underlying everything as mind revealed. And it not only thought world - it also thought me - which is really startling.
+
+Last edit about 7 years ago by Toso
+```
+**Co-occurrences**: Valis, Toso, Complete, Form, Like, World, Because, Only, Folder, Mind, Could, Something, Reality, Everything, Either, Nothing, More, Another, Nonetheless, Upon, Actually, Will, Would, Have, Later, Remember, Dream
+
+---
+### Line 24856-24864 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+850
+
+1) The double worlds superimposition + two selves in me: like Altman's "3 Women." 2) + then (later) I see Valis.
+
+What is the relationship between (1) + (2)? It would seem as if (2) is actually what is there, + not what we see that is included in (1). I.e. (1) raises a question that is answered by (2). Conversely, the purpose of (2) is shown us by (1). Upon seeing (1) + not (2), we would be left in the frightening dream "world" of "3 Women" with the possibility that nothing could replace something, or, worse, that it is this way now - a dream, with no substance behind it. This was the fear that "3 Women" left me with. But I must remember that later on I saw Valis which is not a dream, but which explains the dream, i.e. (1). It can be argued that there is a terrible risk to decompose world because if it is the only "thing that is the case," you will be left with nonbeing; but in point of fact I wound up with Valis - so it was a net gain + not a loss (of reality). There was more reality "behind" world than in world qua world. Nonetheless it is terrifying to realize that something provides world + that on its own it has no substance (substantia). Either (1) or (2) alone would pose an unfathomable mystery, but together they form a coherence - + yet it is a startling + mysterious coherence that few people have ever encountered: the dissolving of the world (of multiplicity) to be replaced by another world of multiplicity, + then a sentient volitional unity underlying everything as mind revealed. And it not only thought world - it also thought me - which is really startling.
+
+Last edit about 7 years ago by Toso
+
+folder 48 - 051
+```
+**Co-occurrences**: Valis, Toso, Form, Like, World, Because, Only, Folder, Mind, Could, Something, Reality, Everything, Either, Nothing, More, Another, Nonetheless, Upon, Actually, Will, Would, Have, Later, Remember, Dream
+
+---
+### Line 24940-24948 (Match: 'Women')
+**Folder**: part of
+
+```text
+Indexed
+folder 48 - 060
+860
+
+supported by YHWH is real, the former making up much of what we perceive (maya). (Dokos). It is part of the lie (cf "Joint"). (+ "Stigmata.") Thus I saw Valis as an invader in our world transubstantiating the irreal into the real. Assembling a real cosmos out of it. He said he would send Elijah first, on the day that he -YHWH- acted. Well, now he has acted. So Elijah must have come here - perhaps a few years ago. __ The in-breaking of God would be connected with a massive repair of the world. Suppose this repair has already been made retroactively, so that track A (the BIP) is already replaced with this track B. + in 2-74 I remembered track A ("Tears") where Xtianity was illegal + Belial ruled. "The final world is here." Alternate presents. "Tears" is how it has been but we've forgotten. Like the ending of "3 Women." Which is why it scared me so. So the 2-74 view was not of this world as it actually is, but of it as it formerly was. [No; Qv sub] __ The word I want isn't "co-axial" (v supra); it's concentric. The world of "Tears" (BIP) + the Garden (highest level of Purgatorio) + the post-mortem world (Paradiso) are concentric, + I know which theology-philosophy that points to: Plotinus + Neo-Platonism: the original fall + reascent of the soul, not spacially, but "up" through concentric rings of emanation from the One (Valis!). As with Plato, anamnesis is crucial for the rise to the next concentric level.
+
+Last edit over 5 years ago by Toso
+
+folder 48 - 061
+```
+**Co-occurrences**: Valis, Tears, Toso, Indexed, Christianity, Plato, Well, Perhaps, Plotinus, Elijah, Like, World, Fall, Folder, Stigmata, Garden, Platonism, Joint, Suppose, Maya, Anamnesis, Indexed
+Folder, Part, Dokos, Through, Soul, Real, Actually, Purgatorio, Paradiso, Would, Belial, Have, Final, Track
+
+---
+### Line 24973-24981 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 064
+864
+
+When the Xerox missive came I remembered it; here is a case of deja vu opening up into actual anamnesis, + with the unusual fact of my having written much of it down in my novels + stories. In 3-74 I was encountering Valis again. This brings up "3 Women" + my reaction to it; I grasped the true situation. We're in irreal worlds + possess false memories but: YHWH is reaching to us with authentic reality. We are in the sort of "half-life" Irwelt depicted in "Ubik." Reality support = "He causes to exist whatever exists" - i.e. he -Ubik/Valis- is YHWH who has been excluded from our Irwelt: "the final bulwark against nonbeing." Then in 2-74 under the pentathol when I saw the Golden Fish sign + the girl I remembered [having been alive + having died] + woke up - + saw Valis/Ubik (YHWH). We must track + retrack. YHWH is rescuing us by 1) reminding us (awakening us) + 2) transmuting our Irwelt into reality {Note} ; 3) entering our Irwelt with battle plans to depose Belial.
+
+{Note:} Hence the acosmism in my writing: I know the truth: this is not YHWH's world. Viz: A) YHWH causes to exist what ever exists B) Our world(s) is/are irreal. C) Therefore they are not YHWH's creation. They are, on the contrary, like the dream worlds in "3 Women" + are not consistent! We are perceptually occluded, + our memories falsified to make the Irwelt seem convincing. This is the real "Fall."
+
+Last edit almost 7 years ago by Toso
+```
+**Co-occurrences**: Valis, Ubik, Toso, Indexed, Xerox, Fish, Golden, Like, World, Fall, Therefore, Golden Fish, Folder, Again, Reality, Missive, Girl, Xerox Missive, Anamnesis, Indexed
+Folder, Real, True, Belial, Creation, Whatever, Under, Life, Having, Truth, Dream, Final, Track
+
+---
+### Line 24975-24983 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+864
+
+When the Xerox missive came I remembered it; here is a case of deja vu opening up into actual anamnesis, + with the unusual fact of my having written much of it down in my novels + stories. In 3-74 I was encountering Valis again. This brings up "3 Women" + my reaction to it; I grasped the true situation. We're in irreal worlds + possess false memories but: YHWH is reaching to us with authentic reality. We are in the sort of "half-life" Irwelt depicted in "Ubik." Reality support = "He causes to exist whatever exists" - i.e. he -Ubik/Valis- is YHWH who has been excluded from our Irwelt: "the final bulwark against nonbeing." Then in 2-74 under the pentathol when I saw the Golden Fish sign + the girl I remembered [having been alive + having died] + woke up - + saw Valis/Ubik (YHWH). We must track + retrack. YHWH is rescuing us by 1) reminding us (awakening us) + 2) transmuting our Irwelt into reality {Note} ; 3) entering our Irwelt with battle plans to depose Belial.
+
+{Note:} Hence the acosmism in my writing: I know the truth: this is not YHWH's world. Viz: A) YHWH causes to exist what ever exists B) Our world(s) is/are irreal. C) Therefore they are not YHWH's creation. They are, on the contrary, like the dream worlds in "3 Women" + are not consistent! We are perceptually occluded, + our memories falsified to make the Irwelt seem convincing. This is the real "Fall."
+
+Last edit almost 7 years ago by Toso
+folder 48 - 065
+Indexed
+```
+**Co-occurrences**: Valis, Ubik, Toso, Indexed, Xerox, Fish, Golden, Like, World, Fall, Therefore, Golden Fish, Folder, Again, Reality, Missive, Girl, Xerox Missive, Toso
+Folder, Anamnesis, Real, True, Belial, Creation, Whatever, Under, Life, Having, Truth, Dream, Final, Track
+
+---
+### Line 25014-25022 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 069
+869
+
+I.e. the soul doesn't have to leave the body in death. Since the other levels are spacially co-axial; which fits with my seeing the double superimposition with "Tears." I wasn't seeing that world for the first time (2-74) since it is described in "Tears." Is it this world "really"? Is it a parallel world? Is it the past? Is it a cancelled alternate track? The answer lies in Thomas. If it was this world really, Thomas wouldn't have taken me over, along with his memories. It therefore probably is a cancelled alternate track fading briefly in. I didn't remember it (from the past); no - I became someone with appropriate memories of it: experience + familiarity with it. But in a sense it is for me in the past because I lived through it, + now track the same time-segment again; this is why it shows up in my writing (e.g. "Ubik," "Tears," "Faith") + why I remembered it: but "Tears" is in the present. + this explains the acosmism + why "3 Women" affected me so; I experienced something exactly like "3 Women"! In "Ubik" due to Pat Conley there is a fading out of one present world + a fading in of another. Because the past was changed - which is how I account for the alternate present tracks.
+
+Last edit over 5 years ago by Toso
+folder 48 - 070
+Indexed
+```
+**Co-occurrences**: Tears, Ubik, Toso, Thomas, Indexed, Like, World, Since, Because, Therefore, Time, Folder, Faith, Something, Again, Toso
+Folder, Probably, Indexed
+Folder, Another, Through, Soul, Death, Other, Have, Body, Remember, Doesn, Someone, Answer, Track
+
+---
+### Line 25068-25076 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+folder 48 - 076
+876
+
+my "Dante's 3 realms" analysis. Just read "Tears"! So it isn't punishment to be here; a particularly painful incident woke me - the dream (?) turned briefly bad + revealed a BIP world. In fact it could be argued that in 3-74 I was waking up - of "Finnegan's Wake." So two thrusts: 1) Intrinsic analysis of reality. 2) True memory. When I saw Valis, (1) was confirmed: I was dealing with something on the order of "3 Women." + I experienced anamnesis in 3-74; true memory: I had been someone else at another place (+ time! Notice that 1126 Fransisco St. is another place + another time; there is historic discontinuity obscured by falsified memories. So perceptual occlusion + falsified memories are both necessary for the pseudo world to seem real. Either one upon being repaired will indict it; but both should, + did, in 3-74, for full confirmation. Either -if you had the other already- would be absolute verification. Then there is no doubt that 3 realms were involved in 2-74 to 2-75. Memory of the previous worse one, + a brief entry into the next (higher i.e. better) one. Valis saw to it that this one -which had gotten ugly- let go of me + let me advance to the next, better one up. Maybe this one wasn't supposed to punish me so much.
+
+Last edit over 5 years ago by Toso
+folder 48 - 077
+Complete
+```
+**Co-occurrences**: Valis, Tears, Toso, Complete, Maybe, World, Time, Folder, Could, Just, Something, Both, Reality, Being, Dante, Toso
+Folder, Either, Anamnesis, Another, Real, Upon, True, Will, Would, Other, Were, Absolute, Memory, Dream, Someone
+
+---
+### Line 25267-25275 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+folder 48 - 101
+395
+
+Potter: Essenes. Acts. The black eunuch. The Holy Spirit = the spirit of [the Sons of] Light (vs Darkness) of Zoroaster. Jesus was not [a] God become man, but a man who 1) received the Holy Spirit (v supra) + 2) then was adopted by God as God's son. {Note 1} Luke-Acts is the core of the N.T., esp. the scene of Philip + the eunuch. Fallen angels who saw the human women as fair + mated with them + now are in prison, preached to by Enoch (or Jesus), this prison the basis of the doctrine of purgatory. But the offspring of these unions between fallen angels + earth i.e. human women were "great patriarchs of old" - i.e. superior genetic interbreedings.
+
+{Note 1:} I.e. became God.
+
+What if: "receive the Holy Spirit + adopted by God as his son" = fallen angel -or progeny of the interspecies symbiosis- being let out of prison (i.e. what I saw: "Tears" the BIP)? I discovered 1) I was in prison. 2) I remembered Acts. {Note A} 3) I regained my true identity (enthusiasmos). 4) I was adopted by God: I, a man, became God. I.e. let out of prison.
+```
+**Co-occurrences**: Tears, Acts, Spirit, Holy, Jesus, Holy Spirit, These, Prison, Earth, Black, Folder, Light, Luke, Being, Philip, Great, Essene, Darkness, Zoroaster, True, Angel, Were, Human, Sons
+
+---
+### Line 25350-25358 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 110
+904
+
+{Illustration of a loop.} A loop normally. It can only be interrupted from outside, so it must be (as I say in "VR") auto- in origin; from the person's own brain. This points to "Ubik" + cold-pac + Lem's point about world based on your own memories. It is auto-world in some way. It must not be real time, then. Which fits in with it really being Acts. "Halving time"? It's not consuming -occupying- real time. Like as with a dream. Deja vu. There's something weird going on. Recirculation that consumes no real time. Prison. Tomb. Soul. "3 Women." The rasp that can't be worked in - by another mind, so not auto-world! I.e. self-world - re Asher + the Fox. Harsh. Vs ethereal - the latter the dream. The harshness is hallmark of reality. Stubborn. Like a cramped muscle or having to pee wakes you. Socrates: "I am a goad. Gadfly - a nuisance." "Men sleep + love the sleep." What did I see when I saw Valis qua world? Did he bore into this world; but if camouflaged then syntonic; ach; we normally work him in[to the dream]; don't see him as set to ground. We don't distinguish; he wants us to distin Gradual, so as not to cause us to die of shock? What a shock!
+
+Last edit almost 7 years ago by Toso
+
+folder 48 - 111
+```
+**Co-occurrences**: Valis, Acts, Ubik, Toso, Indexed, Like, World, Prison, Only, Time, Folder, Mind, Something, Reality, Being, Self, Indexed
+Folder, Brain, Another, Soul, Ground, Real, Love, Illustration, Socrates, Having, Dream, Asher
+
+---
+### Line 25422-25430 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 118
+912
+
+wasn't expunged. "This can't exist" I kept saying about the Roogna letter + yet I correctly knew even the day the Xerox letter would come. Retracking of different world as pointed to. + fake memories laid over real memories, the latter returning due to the rasp. OK - something at the end of "3 Women" that reminded Spasek that that woman wasn't her mother but was (had been?) her roommate. This explains my "high moist cool" sensations! "A moment ago it was different." I hadn't really "always" been "living in Orange County" i.e. hadn't been me; hence Thomas took over. Returned. I had [just before] been another person at another place, time, world, + the rasp bits were left over from it. + "Tears" shows this impression was true: it has in it things I don't know + couldn't know (e.g. Acts). Therefore the Xerox letter was syntonic -normal- in that other track. Soviet America; hence illegality of Xtianity - yes, hence "Tears." I had been an illegal Xtian in a Soviet America. I was afraid of the Party, not drawn to it; since I was an Xtian, it was dangerous to me; it represented a letter from the authorities. The "ir leg." Like an IRS letter in this world. I hadn't been a Pigspurt agent (secret) but an illegal Xtian afraid of being found out; a Pigspurt (KGB) letter was a letter from the government: they had found me out (to be a secret Xtian). Hence the danger to me.
+
+Last edit over 5 years ago by Toso
+folder 48 - 119
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Christian, Toso, Thomas, Indexed, Xerox, Christianity, Like, World, Since, Therefore, Time, Pigspurt, Folder, Even, Just, Soviet, Something, Being, Toso
+Folder, Indexed
+Folder, Another, Living, Real, Secret, Before, Mother, True, Would, Other, Were, Roogna, Things, Fake, America, Government, Track
+
+---
+### Line 25430-25438 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 119
+913
+
+The code in "Tears" was left over, too. I wrote it, as a secret Xtian; i.e. Thomas wrote it. I having been Thomas, + world having been Soviet USA or "Tears." That's why the "reality" was worse. But had to do with God; did he retroactively abolish it? The first rasp was the Golden Fish sign. Due to the Pentathol it reminded me I'd been a secret Xtian; that world came back due to percept anamnesis. (V "3 Women"). This is why "3 Women" terrified me. In the previous world the KGB had authority over you, because it was in power. 1) Xtianity illegal + 2) CP in power (KGB) } dovetail + I have "Tears" + saw "Tears" to prove it. Hence secret Xtians blowing up metal (?) buildings: not set in past! Not epiphenomenal world, but a whole bunch of them, as in "3 Women." Only YHWH is real (Valis). Looks as if YHWH won a victory (v "VR"). Hence "Tears" retroactively disappeared - but left a few rasp bits behind. There are clues in Beethoven's music; not just "Fidelio" but the war in heaven ending on the Missa Solemnis. Nonverbal info.
+
+Last edit over 5 years ago by Toso
+folder 48 - 120
+Indexed
+```
+**Co-occurrences**: Valis, Tears, Christian, Toso, Thomas, Indexed, Christianity, Fish, Golden, World, Because, Golden Fish, Only, Folder, Just, Soviet, Reality, Toso
+Folder, Anamnesis, Indexed
+Folder, Beethoven, Heaven, Real, Secret, Back, Have, Info, Having
+
+---
+### Line 25445-25453 (Match: 'Women')
+**Folder**: folder 48
+
+```text
+folder 48 - 121
+915
+
+The defeats + victories depicted in "VR" represent alternate worlds, + this is stated in the outline - the rollback in time. Due to outcome of future battle. "They fight for the nature of the universe, not its outcome" i.e. ending. "The BIP will never have been"!! 3 Women. 1) He (YHWH) lost 2) but the "The work is completed. The final (sic!) world is here. He has been transplanted + is alive" shows now YHWH has won. 2 secrets. Multiple tracks. Question: whose presence does Belial acknowledge by writing "Yahweh-Asher-Yahweh," his own or Yahweh's? Consider the Xerox missive. Did the cypher declare Pigspurt's presence (Belial) or mine (YHWH) as revealed to them by "Tears"?
+
+1 "Tears" {arrow pointing away} 2 Xerox missive {arrow pointing to}
+
+2 cyphers in sequence. First "Tears" announces YHWH here. Second Xerox missive: announces Belial + Belial achnowledges the first. Traffic between Yahweh + Belial initiated by YHWH thru me. (My writing; i.e.)
+```
+**Co-occurrences**: Tears, Xerox, World, Time, Pigspurt, Folder, Does, Missive, Xerox Missive, Consider, Yahweh, Universe, Will, Belial, Have, Asher, Final
+
+---
+### Line 25496-25504 (Match: 'Women')
+**Folder**: part of
+
+```text
+folder 48 - 126
+920
+
+Thus it is YHWH who rasps -knocks- at the door for Asher. __ 1) Remember. 2) Lose occlusion + see. } Different world, + I was reminded by the Xtians. It is a rasp that in this world they are illegal. That is impossible; it doesn't fit. So it woke me up. Born (the 2nd time). 2 degree: fully born (= wakefulness, + being out in the real world). "God" = that which is outside the dream, + whose touching can't be worked into it; also, he intrudes deliberately, for the purpose of rousing you (to 1) remember yourself; + 2) experience the real world - which he (as Valis) is in! Sleep equalling death, he therefore gives you life, + gives you real world. The illegal Xtians were not -could not be- part of my irreal world, + so started me waking up. ___ What, of all the Valis showed me, was the most important? Answer: he faded out one world (space + time: i.e. Calif 1974) + faded in another (Acts), + at the same time he faded me -PKD- out + faded in Thomas who is related to the space + time of Acts. Thus he revealed his nature as "Yahweh-asher-Yahweh" + no other. But I did not understand this until I studied -not just concepts about God- but about YHWH specifically. The turning point for me came when I saw "3 Women"; then I understood, + soon saw the sacred tetragrammaton: received the crucial identifying revelation (in confirmation). When I saw "3 Women" I knew, + at the
+
+Last edit almost 7 years ago by Toso
+folder 48 - 127
+Indexed
+```
+**Co-occurrences**: Valis, Acts, Christian, Toso, Thomas, Indexed, World, Therefore, Time, Folder, Could, Just, Being, Toso
+Folder, Part, Another, Most, Real, Calif, Revelation, Yahweh, Death, Other, Were, Life, Remember, Dream, Doesn, Asher, Answer, Until, Sacred
+
+---

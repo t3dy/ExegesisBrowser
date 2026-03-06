@@ -1,0 +1,349 @@
+# Evidence Packet: Jews
+
+- **Category**: Top Term
+- **Total Mentions**: 55
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1091-1099 (Match: 'Jews')
+**Folder**: part one
+
+```text
+I never after that "found" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was actually there and actually experienced during full wakefulness, as present. Yet, it was still now. But now He has returned. I was now and yet superimposed Rome of 2000 years ago: 1974 Fullerton and Rome c 45. I gather that what I experienced were the two advents unified, with time abolished. It made Rome Fullerton and Fullerton Rome; it made 45 AD 1974 AD and 1974 AD 45 AD. This certainly would explain why I knew that neither reincarnation or time-travel per se were involved. It was a time dysfunction but of a crucial sort, that prophecyed in the Bible: the Parousia, an expression (experience) of it, a demonstation of the nature of the Parousia in which it abolishes or ends time, or perhaps, when God enters time from outside time, which is to say, from Eternity; surely that's a time dysfunction, although you might not be able to fathom why it happened. But I guess this is what you experience when God abolishes time; when the Parousia arrives.
+
+In connection with this, I wasn't just back in Rome; I was aware of two portions (not aspects, but divisions): the Roman army/police -- and the hurrying semi-invisible Christian underground, the fish Christian who were illegal and whom the Romans (part one) were after, to destroy. Gosh, if I were merely transported back to Rome via a time dysfunction I might gaze at great buildings and watch crowds, having no awareness of the fish Christians or the Roman ir leg. So this was not only Rome, or Rome as such; it was Rome viewed as the Apostles must have viewed it; it was a very precise and special view, and I was one of those fish Christians. I am happy to say that in this apocolyptic experience, I was indubitably one of those Christians, and our Savior was anticipated momentarily (later in the year I had the "Santa Sophia" dream, bearing this out without the Roman experience, that is, the Second Advent for sure, for us).
+
+The "Dec N T" says that this time Christ won't appear in the form of one single man (as he did as Jesus before), because if he does, then they'll get him again and it'll be a failure again; therefore, as I understand it, this is what all this solar spermatika, the seeds, etc. talk has to do with; there will be many implantations, of persons already alive and walking around "at their regular tasks," and the births will be plural, and inside peoples' heads, and not out of a womb, as with Mary's. Gee, I finally understood it. There will be no one Savior born this time, but a different system. Vide St. Teresa of Avilia. "Now, Christ has no body but yours." Is before (at the First Advent) implantation will be done by the same spirit, the Holy Spirit, supra, and the same issue will occur: the Son, which explains Jesus' cryptic remarks about where the Kingdom would be (not here, not there, and Christ not here, not there). But: in you and among you. Yes indeed! Kingship, then, within given persons; the assumption of rule (this duplex personality) within various persons; this is the Second Advent, and not a mere anticipation, a la Elijah. This is the Second Coming itself, this Firebright implantations. I mean, these, not this. My God -- what happened to me (sic: to me) in 3 74 was the Second Advent, one of them, anyhow. Guess who Firebright is, viewed this way. This now resolves one mystery (mystery to me, anyhow): the relationship between Elijah and the Holy Spirit. What Malachi said would come back was the Spirit of Elijah (if you read about Elisha this is clear). Surely it wasn't the physical man. The Spirit of Elijah is the Old Testament Hebrew concept for the Christian Holy Spirit (remember, the Jews were absolute monotheists).
+
+Last edit over 5 years ago by Harpax
+
+76
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+
+---
+### Line 1211-1219 (Match: 'Jews')
+**Folder**: part of
+
+```text
+In another sense, "being possessed" was being outside oneself, and outside the environment as well, at a third point, the Archimidean standpoint from which one could see both oneself and the environment as an interacting entity...but this does require "being outside." So it may not have been a coming into me, but a me going outside of me.
+
+I got at least as strong an impression that it was a vast body as that it was a vast mind. It certainly seemed to act, if signalling can be considering acting. Thinking is an action, an activity.
+
+I'm not completely away from the Hebrew idea of God, because it assigns total unboundedness to everything; there is no sense of law, which means, of harmonie of any sort. God does what he wishes; JHWH is a tribal god who has moods. The Greek ideas -- look at their insight into palintropos and palintonos; that alone...if JHWH is equal to Zeus, then okay, the Jews had that, they had Zeus. But look what else Greece had; the whole idea of lawful or regulated by the Unbounded; the kosmos within the Unbounded. Why need we obey a tribal deity when we can have all the thinking of the civilization of Greece?
+
+Last edit over 5 years ago by Harpax
+85
+Needs Review
+```
+**Co-occurrences**: Greek, Well, Because, Harpax, Mind, Okay, Could, Does, Hebrew, Look, Both, Kosmos, Being, Everything, Their, Zeus, Another, Certainly, Greece, Deity, Have, Body
+
+---
+### Line 1441-1449 (Match: 'Jews')
+**Folder**: Unknown
+
+```text
+We could perhaps equate the One with God; Nous with Christ as Pantocrator, but Soul would have to go. In any case, to so equate God with the One, Christ with Nous, would be to abolish their equality in the Trinity, and to turn toward the JWs beliefs. However, Christ is said to be the Mediator between God and man, and that view does seem to coincide with the structure of Plotinus; also, I read in "Wisdom" that wisdom is the first emanation of or from God, and if Wisdom equals Christ, then we do have the same general structure as Plotinus gives. I'm going to wing it and say that the Cosmic Christ, St. Sophia (Holy Wisdom) are identical with Plotinus' Nous: i.e. Lord of the Universe. Whom we can reach via the forms. But I just don't understand Soul at all; Soul acts in time, whereas Nous is eternal. I guess Soul is sort of like instinct, a Bergsonian elan vital.
+
+One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
+
+Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
+
+Last edit over 5 years ago by Harpax
+102
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, Harpax, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+
+---
+### Line 2020-2028 (Match: 'Jews')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+148
+Needs Review
+148
+I read now that the Passover celebrates the Exodus -- i.e. the Jews leaving Egypt and slavery. Lamb's blood was smeared on their doors to show they were God's children.
+
+I also read that "Yahwen" is the causative form of the Hebrew vern to be and means, "He Who Creates" (brings into being). It tells us the nature of (this) Deity. Knowing that name enabled Moses to understand that this God was sovereign over (one) nature and (two) nations. You know, the damn plagues show Yahweh as a nature god, all right: frogs and bugs, etc. He (Yahweh) assailed Egypt with naturalistic events. Understand this: He assailt Egypt, the State, from outside, from the realm of nature. (Yahweh, remember, had manifested Himself to Moses out of the desert in the burning bush. The outsider god!)
+
+The "Moses" TV program sees Yahweh pitted against the state, to destroy it & its slavery; also it describes him, incredibly, as "the dancing god," and, "the god of the young"! The parting of the waters of the Sea of Reeds (called Red Sea by mistaken now) is also a nature-god event...I'm convinced; qed. Dionysos, again. Yahweh had delivered the Hebrews, so he had a claim on them, for them to do his will; this was a fealty oath of obedience between a superior (lord) and vassal. A contractual relationship, not slavery. What God gives, then, is love and care; he asks back subordination to fulfilling His will (which is reasonable indeed!). "He was concerned to protect the powerless Hebrews." This His rules enjoins --requires-- us to protect the weak & helpless. "And guarantee justice for them." This is the Covenant. (Plus else.) "To regulate the civil rights of the community." Rule by law -- what we here now need most desperately! This is the essence of worship of Yahweh.
+```
+**Co-occurrences**: Form, Dionysos, Lord, Harpax, Hebrew, Realm, Again, Being, Moses, Covenant, Himself, Their, Egypt, Most, Love, Yahweh, Will, Deity, Were, Back, Justice, Passover, Remember, Blood, Lamb, Right
+
+---
+### Line 2541-2549 (Match: 'Jews')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+192
+Needs Review
+192
+the doorway into the Next World, then the Next World (for me anyhow) is very much like Minoan Greece, like the Agean and Crete (where many of my first visionary dreams were set). (Also, where Zagreus/Dionysos came from.) All the straightjohn uptight rigid description and attitudes by the Christians about it are just so much a row of swords to protect it; once inside it's lovely. You can sit down on a Grecian bench and relax in the cool of the evening. Jesus said specifically, "My Kingdom is not of this world." The Witnesses and the Megiddo Mission et al are latter-day Jews, proclaiming an eventual earthly kingdom and Messiah; this Pariousia are their topic because it ushers in this earthly kingdom of perfection and nonaging and death. This is just what the Jews anticipated, under the King, too. I have been misled by the JW and the MMission into this latter-day secularism of a Jewish sort; no wonder they deny Christ's divinity and equality with God! (And denegrate the Holy Spirit.) It is the Old Testament element seen so much in Protestatism. An earthly kingdom! This is what Christ specifically denied -- being the king of it or establishing it, and Paul's words in 1 Cor about the physical body first, then the spiritual body, plus a reading of the mystery religions in general makes it absolutely clear that, along Neoplatonist lines, it speaks of another spiritual life after this; the Kingdom of God here being within us as an inner experience (Just as mine was.) No one else saw the transformation around me, as I did. They didn't see the Ring of Iron and Rome when it was that, nor the springtime. Nor the doorway, which is to the spiritual kingdom beyond the grave. The whole Parousia is always coming, alwaying impinging -- in fact, I experienced each part, in sequence, of it; I ought to know this! Things --of which it is one, the most important in fact-- are equally inner and personal, not experienced or seen by others; hence, remain mysteries. (And concealed.) Now I think, Yes, I did go through all these events, some terrifying, the final ones wonderful; I must indeed have gone through judgement, which is why my parvor nocturnis is now gone. First they squared me up to make me ready, and then on that Sunday night when it grew light, and I prayed -- that was Judgement Day: Dies Irea, Dies Illa, for me. Seeing spring the next year (2 75) proves I am waiting for the Parousia in vain. Indeed, it did come "like a thief in the night." It lit up the darkness indeed! (Pinky, as an avatar of Christ, evidently took the blow; i.e. died for me, my sins.) Perhaps the response to the Xerox letter, and all the acts which followed, was Armageddon, and the slaying of the guilty by righteous judgment & anger. So that they were put to rest forever. (Abolished.) That Xerox letter fight was the famous battle. (For me.) (In which evil perished.) It raged from at least March (perhaps earlier) in 1974 through June, with Peter Fittings recent letter an indication of recognition of defeat. Judgment didn't come for me until August or Sept; I was in my splint. Gosh, the books were opened! If the TEARS dream is included, it began back then, even. The battle centered around the Xerox letter and attacking the U.S. domestic tyranny, along with it, as one. I call this all personal and subjective and just for me, but -- I still see how the old tyrannt was like Pentheus. . . .it had some objectivity. Well, it came either for me alone, or for the world; but in any case it came, as the 2 75 vision of spring shows. There is no Parousia to anticipate, now. This brings up the final words, about St. Sophia being reborn; wouldn't this
+
+Last edit over 5 years ago by Harpax
+193
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Spirit, Holy, Jesus, Xerox, Rome, Holy Spirit, Sophia, Kingdom, King, Paul, Well, Parousia, Dionysos, These, Perhaps, Like, World, Because, Iron, Harpax, After, Book, Light, Even, Pinky, Anyhow, Just, Once, Kingdom of God, Zagreus, Being, March, Either, Jewish, Darkness, Still, Part, Their, Another, Through, Most, Greece, Death, Messiah, Mission, Were, Very, Back, Beyond, Under, Many, Have, Things, Judgment, Life, Body, Spring, Pentheus, Testament, Evil, Dream, Evidently, Final, Crete, Until, August
+
+---
+### Line 3212-3220 (Match: 'Jews')
+**Folder**: part at
+
+```text
+Last edit almost 5 years ago by svayambhu108
+249
+Needs Review
+249
+And yet few men see or know that the Parousia has come. But as the JWs point out, they never saw Satan all these years; thus they do not see Christ returned either, nor anything else, except the ex¬ ternals, only the externals. The most powerful tyranny in the history of the world was deposed, and what stood against him in worldly terms? Nothing; yet he resigned. Contrast this with Egypt, where the remnant of Jews merely wascaped through God's power, but the empire remained; Phaoroh remained. This time the empire was crushed, with its head, its sovereign, first pitched down. All the forces of heaven stood matched against all the forces of this world and its soverign. What a mighty battle it was! First the tyrant, and then the empire itself fell the next year. And Greece as well, and Portugal. All gone! All fallen! The Bible records nothing like this, even the fall of Babylon, really, which is doubtful as fact anyhow, being merely an interpretation of natural events I think. Heaven summoned its forces; Earth summoned its; Heaven prevailed. The will of Heaven was at last fully done on Earth, as we have prayed for, these 2,000 years. Heaven conquered Earth and assimilated it; surely this is the Parousia! But such is the secular world that it does not know; I would not know,
+
+I, too, had the spirit not opened my eyes; I realize that. I saw only because it caused/allowed me to see. Many were lost in the battle; Pinky, my guide, died; I was injured and later almost died; I lost much. But God saved my life at the end, and restored me. All this being taken into account, my final vision, that of the Holy or Promised Land, falls into place; it informed me that the war had ended in victory, and this, what I saw, now lay around everywhere, a sanctified world. This is my wrap-up, after 28 months; I say the Parousia came; I know it. Libera me Domine. In dies Ilia. Judgment, then, was made, rendered, on us all, whether we realize it or not. The ultimate judg¬ ment evidently —perhaps, only perhaps— excluded many from the category of lambs; I say this because how many are aware? The books were opened and then closed. Yet time continues, events continue. Perhaps, I say only perhaps, the eschotolmgist writers such as John and Daniel made the Parousia sound too blatant, too lurid. Too conspicuous, which it was not. To me it was a lurid, if that's the word, as they foretold; to others it was only a great political, constitutional contest. But to prove my contention, I offer the dream sequence in TEARS, which is clearly an apocalyptic vision of God the King or Christ the King breaking through into our world, to judge —against— the man shut up inside the house, which is of course the tyrant, that he must be destroyed, as he was eventually. That dream could mean nothing else; the only question was, When? the answer coming a month and a half after the book was released — along with the rest of the material from ACTS which was inserted into it. The dream foretold the events; the events bore out the dream. QED; it is so. Said Nick Bottom, but this time he was right; well, he was right then, too; what he remembered as being a dream was no dream but memory of events which could not have been real (so he thought he had dreamed) but did. May I offer one more item as proof that it was the Parousia? There is no report I know of in recorded history where anyone had the experience I had in 3-74; if I had it, then, unique circumstances were involved, to permit open intervention by heaven, and what other circumstances would qualify?
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Tears, Acts, Spirit, Holy, King, Satan, Well, Empire, Bible, Parousia, These, Perhaps, Like, World, Fall, Because, Only, John, Time, Earth, After, Book, Even, Could, Does, Pinky, Anyhow, Being, Either, Great, Daniel, House, Nothing, More, Through, Egypt, Babylon, Most, Heaven, Real, Such, Greece, Will, Would, Other, Judge, Were, Surely, Many, Have, Clearly, Judgment, Life, Memory, Later, Whether, Except, Dream, Evidently, Final, Right, Answer
+
+---
+### Line 4628-4636 (Match: 'Jews')
+**Folder**: book and
+
+```text
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+25
+25 but Zebra is gentle (li, sun) - is female (a secret) + does to battle lovingly, collecting us all up inside her him it guide, advial + shield unn: "I am the good shepond + I know the flock" Zebra = Christ - Zebra is here - Christ is here. the Parousiahas come, did come + - (when I saw Zebra) he was/is not in one spot but every where. It wasn't the holy Spirit, for I saw Zebra outside me everywhen. + it is said. I will not be found here or over there when I return but everywhere." + Christ is the "uncut stone" which I know was ruled in '74. Also this fits with the bells, the date (March is) + the "St Sophia "prophecy the latter indicates a forthcoming further stage - perhaps one in which what I saw eddyone will see note supra: "Zebra is gentle." It is our king. The King has returned changed the Jews to this day deny the first Advent; maybe only his sheep" will see the 2nd. I saw because of special needs (historic role to play, great doagee, + Chrissy) saw earlier he others. Maybe he returned in this invisible form a long time ago (even in the apostolic age, "to some stics living." + it has been a long-kept secret - a Gnostic one? That He has long been back + is already here with us, the true cherred, the orga nism of which he is the head, may be few in number - + picked by him or: it may be that the Holy Spirit was that which entered me so that I was given my original faculties back + so saw Zebra external to me
+
+Last edit almost 3 years ago by svayambhu108
+
+26
+```
+**Co-occurrences**: Christ, Spirit, Holy, Zebra, Holy Spirit, Form, Sophia, Gnostic, King, Perhaps, Advent, Maybe, Because, Only, Time, Good, Even, St Sophia, Does, March, Great, Chrissy, Living, Secret, True, Will, Back, Further
+
+---
+### Line 5745-5753 (Match: 'Jews')
+**Folder**: part of
+
+```text
+Indexed
+10
+10
+
+However, by perceiving the timeless archetype I was lifted into a transtemporal state + saw all the manifestations -printouts- of the archetype as well as the archetype itself. The archetype is the How of, How can we of A.D. 1974 perceive Rome A.D. 70 + Babylon c 1000 B.C.? Thus US 1974 was Rome 70 was Babylon, was the prison state / police bldg in Tears was gulag. + the imprisoned are/were always Jews/Christians which made me de facto a Christian + linked to my 70 A.D. counterpart, +, inwardly, I became my transtemporal self, for whom the Xerox letter (or analog thereof) had already come before (it could be a future self rather than past! In which case the 1974 manifestation of the Black Iron Prison is not the last in linear time - maybe that's why it seemed to have come from the future, although still somehow related to the distant past - all, past, present + future, were rolled up together in the transtemporal archetype. Imagine - my future incarnation migrating backward in time to help me! This is why I felt for some time that the 3 eyed "ETI"s were our descendants. Was the whole historic intervention from the future, then? If so, it was by + from the perfected, restored [to their original state] supermen-Christians, men evolved into angels. Help from the King, but from his millenial Kingdom which lies ahead in linear time, not from above? - The prisoners in the Black Iron Prison (city) who were saved when the invading column reached the walls: I was one of those prisoners - like Daniel or Florestan languishing in the dungeon, in chains, who was rescued by the supernatural aid in 3-74. I, imprisoned there in that bedroom, as in the Rome dream in the underground cage, waiting for them to swoop down + get me. Viewing myself as being that (prisoner) in the "Babylon" archetype, I can see better why, when the general historic intervention occured in 3-74, I specifically was rescued: in the archetype I [was one who] held that [to be rescued] role as prisoner [of the tyrant]. For the print out to be complete, those such as me had to be rescued: we-I were an essential part of the situation.
+
+Last edit over 5 years ago by Toso
+
+11
+```
+**Co-occurrences**: Tears, Christian, Toso, Indexed, Complete, Xerox, Rome, Kingdom, King, Well, However, Maybe, Like, Iron, Prison, Time, Black, Could, Being, Although, Self, Black Iron Prison, Daniel, Those, Still, Part, Their, Babylon, Such, Before, Somehow, Were, Have, Iron Prison, Dream
+
+---
+### Line 6525-6533 (Match: 'Jews')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+55
+Needs Review
+55
+( The secret partnership. Perceive the creator properly (as The Gnostics did) + you comprehend a sick genius who cares not what becomes of his creations. Observe the other entity, which brings order out of chaos, + you see good, but although it knows all, its power is limited: it cannot create, it can only arrange (modulate) what the creator brings into being. It is this latter entity, which I saw, + which I call Zebra - +, as if to absolutely prove the Taoist view, I [correctly] experience it as female! (It is lunar; James-James is heat, seth, solar) James-Jame, the greator, is, as the Gnostics realized, not the true (i.e. ultimate) God. This the Christians can't realize (nor can the Jews). Viewing Noos (wisdom) bringing order (harmonid) out of anomie, they (the Gnostics) correctly saw his/her actions as interventive + salvific. "God brings good out of evil" expresses this perfectly: the secret partners get labeled as antagonists. We, having already been created, now can turn only to Yin, the receptive, for salvation; yang the creator cares no more for us (seen as blind nature or efficient cause, etc - as astral determinism). It is not our creator who matters to us any longer - he is already at work on his new, improved creation (as seen in Darwin's "survival of the fit" evolutionary processes, the weeding out of the weak). Him we curse - to him we correctly assign our ills, not realizing he also gave us life in the first place, which is so obvious that it gets overlooked. He is distinguished by [creative] power. Christ (the joiner the cosmos- arranger) by wisdom. Thus this triad of Xtianity. in Taoist terms love I have herewith done nothing t less that harmonized trinitarian Xtianity with Taoism. QED i Yin power wisdom
+
+Last edit almost 3 years ago by svayambhu108
+
+56
+```
+**Co-occurrences**: Christ, Christian, Zebra, Christianity, Gnostic, Wisdom, James, Only, Noos, Good, Yang, Taoism, Being, Although, Nothing, Taoist, Creator, More, Secret, Love, True, Other, Creation, Have, Life, Evil, Having, Salvation
+
+---
+### Line 7350-7358 (Match: 'Jews')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+22
+Needs Review
+22
+in One might say it committed suicide when it killed Christ, for 1 Christ is the source or conduit of life (to individuals + kosmoi Had it (II) accepted him he could have revived or restored it (it must already have been infirm, having burst "from the egg" prematurely). It was the unhealthy twin. His mission, then was a mission of mercy: a healing mission, life-giving: eternal our universe as admixture of 2 dipolar worlds - that is a view I tried unsuccessfully to extract from Augustine's "city of God + s life city of the world" which separate at the end-times. I held that view, but Augustine didn't. Like land's radical new color theory our world is a "two source" world: one of which represents eternal life the other death; the admixture is short (finite) life (with illness + injury). Eros vs thanatos. Aphrodite vs Palmer Eldritch. Eigen etcunced I a mt or the hitheis I) ours s um s II i in some respects "Stigmata" + "time slip" + "pot healer" were more accurate + penetrating studies of II than was "Tears" "Ubik" studies Eros or Logos or I, espily Maze" is a mixture. its efforts to re invigorate + extricate II + those in II. It is as s if in "Ubik" I invades II - + in "Stigmata" II invades I. in "Maze" it is a Zoroastrian conflict. In "Eye" II invades I, + I in turn re-invades II. So, in summation, our world is neither evil (as the Gnostics believed, nor irreal as they believed). But it is also not YHWH's creation (as the Jews + Xtians believe); it is more like what Zoroaster believed (+ not what Mani believed). I is YHWH's world or soma; II Satan's. Gnostic fulminations against our world should be directed at hyperuniverse (or track) II. Jesus, in the Lord's prayer, specifically states that the Father's will, which is done in heaven (i.e. I) is not yet done on Earth (the admixture). It would seem that "blow + counterblow coming faster + faster do not allow us to assess whether I or II predominates here, but that at the end, I will absolutely triumph - by a vast invasion of II will all the hosts, whereupon the dead, the counterfeit will vanish. It is not really here in our composite world that the issue will be decided, but we will experience dis‐ ruptions, echoes, of the war in heaven between absolute good + absolute evil (I + II). Each of us must choose to become an instrument for one side or the other, inasmuch as control of our world is what the quaired concerns: it is our world which the contests rages over. In connection with this I reaffirm that whereas in the early sixties I saw Palmer Eldritch here, in the seventies I saw Zebra, the Logos, here. The tide turned.
+
+Last edit almost 3 years ago by svayambhu108
+23
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Zebra, Logos, Jesus, Gnostic, Satan, Maze, Lord, Father, Like, World, Time, Earth, Stigmata, Good, Could, Eldritch, Palmer, Zoroastrian, Augustine, Palmer Eldritch, Zoroaster, Those, More, Heaven, Death, Universe, Will, Would, Other, Mission, Creation, Were, Have, Mani, Life, Absolute, Neither, Aphrodite, Whether, Evil, Having, Dead, Whereas, Track
+
+---
+### Line 8380-8388 (Match: 'Jews')
+**Folder**: part after
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+151
+142 the paradigm for our world is Nazi Germany. First they took the CP - then the Jews, then, etc. + no one noticed or protested. My books + stories notice. Therefore total + absolute alertness must be paid to who is in distress, as if (Als ob) it were a political matter: illness, injury, + any form of suffering although it comes from the "natural" order ("nature"), inc. the defeat of fulfillment, which is to be regarded as a supernatural oppression (by evil). It must be understood that a gigantic rescue intercession is being mounted: still subversive + stealthy, but, when key positions are taken, will without warning break suddenly into the open, revealing the unsuspected of Santa Sophia here (again). The iron fortress has been penetrated already, puzzling the "artifact."
+
+Ah - my bipolarization between the human + the android. Free man (liberated) vs the artifact controlled "android"; I am now prepared to elevate the bipolarization into theological, supernatural, cosmic dimensions. The concept of balking assumes the status of successfully resisting cause-+-effect script-programming. Mekkis vs agape: Love is the total permission of exception, + leads us from rule (law, justice) to paradox (mercy). Paradox is the manifestation of metamorphosis by a reversal of opposites - cf alchemy, Empedocles, etc, + esp Christ's parables + sayings (about the Kingdom), + about judgment + the final dispositions. Folly, madness, passion, the joyful dance - vs iron limitations imposed. This is the age of the inner spirit, in which inner space (via anamnesis) + teaching (discerning + knowing - Sophia-) become real, + the external material order (world) revealed as delusion. The material world is about to be abolished, + its hold on us with it - dispelled (cf my ^published writing) The abyss is devouring the byss, by an outburst of ecstasy. What has happened is that the occluded mind is restored to its primordial wholeness (the opposite of in "Scanner," which is a presentation of the absolute antithesis of wholeness, oneness. just as "Stigmata" is the anthesis of the good God. Each is the is, vs. what should be.
+
+Last edit less than 20 seconds ago by Gabriel Mckee
+```
+**Co-occurrences**: Christ, Spirit, Form, Sophia, Kingdom, Scanner, World, Therefore, Iron, Cosmic, Gabriel, Mckee, Gabriel Mckee, Stigmata, Good, Mind, Book, Just, Again, Being, Empedocles, Although, Santa, Anamnesis, Without, Still, Real, Love, Santa Sophia, Will, Were, Artifact, Judgment, Absolute, Justice, Evil, Suddenly, Human, Free, Final
+
+---
+### Line 8457-8465 (Match: 'Jews')
+**Folder**: part of
+
+```text
+They do not belong to the world any more than I belong to the world. [John 17:14-15].
+
+If the world hates you, remember that it hated me before you. If you belonged to the world the world would love you as its own; but because you do not belong to the world, because my choice withdrew you from the world, therefore the world hates you. [John 15:18-19]
+
+Speaking to the Jews, Jesus said:
+
+You are from below; I am from above. You are of this world; I am not of this world. [John 8:23]
+
+Those who are replications of Christ are replications of the Urgrund, and the Urgrund is beyond the world, although from the first Advent on it has invisibly penetrated the world. Were it the creator of the world it would not (as expressed by Christ) stand in opposition to it; nor would it have to penetrate it by stealth: These statements by Christ confirm the fact that the world is not the product of the Godhead, but somehow antagonistic to it. The establishment churches of the world will stipulate otherwise, they being artifacts and entities of the world; this has to be expected. You cannot ask an organization that evolved out of the system of things to deny the system of things -- as the Catharists found out when they were exterminated. If you disobey the world it will confront you as a hostile stranger, sensing you as a hostile stranger to it. So be it. In the Synoptics Christ clearly set forth the situation. The enemy of my life, justice, truth, and freedom, is the irreal, the delusional. Our world is a deluding projection by an artifact that does not even know that it is an artifact, or what its purpose in projecting our world is. When it departs it will depart very suddenly, without warning.
+```
+**Co-occurrences**: Christ, Jesus, These, Advent, Godhead, World, Because, Therefore, John, Urgrund, Even, Does, Being, Although, Without, Creator, Those, More, Love, Before, Will, Would, Somehow, Were, Very, Beyond, Have, Artifact, Clearly, Things, Life, Justice, Freedom, Remember, Truth, Suddenly, Otherwise
+
+---
+### Line 8530-8538 (Match: 'Jews')
+**Folder**: part of
+
+```text
+4
+
+Yes - Christ manifested himself to me externally - a theophany - an epiphany (which I perceived by means of the theophany of the [panaclile?]). But not just the Holy Spirit is here; [Zeigra?] is the Logos - wisdom Christ
+
+Interstingly, the Jews place him exactly where I place him: in the ionosphere. But in 3-74, He touched down + entered human history, altering its course + raising the [seige] in [rather] breaking the walls of the prison of which we are the unhappy prisoners (ie slaves).
+
+Interestingly, my theophany did not withdraw me from the world, but, quite the opposite, reintroduced me to the world, + in a new + active -dynamic- way, in which I impinged in it more than it impinged on me. + this was a microcosmic vision of the Logos' dynamic impinging on the world in a vast, historically important way: I replicated in a tiny way its stand - + definitely linked (syno[mong??]) to its macrocosmic impinging. Thus my role as victim ([noblect?]) of mundane force + was dramatically reversed in fulfillment of the scriptures in which the powerless would judge the powerful (a complete reversal of the extand [rule?] of things).
+
+This dramatic reversal fits my most acute analysis + understanding of the "end-times" - the vast paradoxical reversals (Big-small, weak-strong / wise-foolish / {maja?]-min[ual?] important-unimportant, etc) will without warning (ie without evident transitional stages) will set in. This is my way by which we will know - recognize - the end times. Those upheavals which are essentially reversals. A black guard + a [hippu] cup will destry the Government + send them all into disgrace, prison, + exile.
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Complete, Holy Spirit, Wisdom, World, Prison, Black, Just, Himself, Without, Those, More, Most, Will, Would, Judge, Things, Wise, Government, Human
+
+---
+### Line 10325-10333 (Match: 'Jews')
+**Folder**: part of
+
+```text
+Last edit about 5 years ago by sekennedy62
+97
+Complete
+97
+After listening to the Missouri speech I realize I am not acosmic in view, but follow Parmenides etc, + that the reality which I have found (encountered, + experienced) under the phenomenal world of 1974 is AD 40 Judaea, the world of Acts. As proof is ➀ "Tears"; + ➁ the unveiling (initiation) into the true Christian reality, that time is so speeding up that it has somehow become spurious, like an escaped bubble of gas, + that Jesus died + was resurrected in our lifetimes, only months or a few years ago at the most - that we are divided into Roman (bad), pagans (neutral + not knowing the truth - likewise the Jews), + the "Fish" Christians who know the real truth, the real landscape. (i.e. space + time AD 50 Syria.) We're duped by the evil one; this accounts for the veiling or seeming: "obvious structure hiding latent structure" - the latter alone being truly real.
+
+The Missouri speech says it all. Time speeded up insanely - it's just swamp gas, now. The yardstick is the authentic (concealed or latent) landscape, which in comparison to the obvious reality crawls along, in comparison barely progressing. Satan's spurious interpolation overlies all - both as phenomenal world + in us re our true memories, + identities (anamnesis restores both inner + outer truths).
+
+This tells it all, except for the diploid two source cosmogony.
+```
+**Co-occurrences**: Tears, Acts, Christian, Jesus, Complete, Fish, Satan, Roman, Like, World, Parmenides, Only, Time, After, Just, Both, Reality, Being, Anamnesis, Most, Real, True, Somehow, Under, Have, Evil, Likewise, Except, Truth, Syria
+
+---
+### Line 10764-10772 (Match: 'Jews')
+**Folder**: part of
+
+```text
+Last edit almost 5 years ago by sekennedy62
+
+1
+o cornford on Timaeus: Plato argues that the universe is an alive organism with a "world soul." But the demiurge (Noos) must the persuade - cannot compel - necessity (chance, there chaotic) into order. Therefore, cornford concludes, must be an irrational element in the world-soul a then would be no onrate the note to persuade it is very significant that the demiurge cannot compel). This chaos did not preceed order, but is a constant in the universe. The omnipotent creator God of the Jews + Xtians is a concept which does not accout for this element that cornford calls "the dark domain of the irrational powers" (P 210). Also, Plato's cosmology in Timaeus, as cornford interprets it (probably correctly) coincides exactly with what I experienced in 3-74 " except I add him who had not yet come in Plato's time: the savior, who is the penetration of Holy wisdom (noÃ¶s) into the microcosm. not only does the omnipotent creator God of the Jews + Christians not fit observable facts, it also does not fit my revelation. Plato's cosmology does. (+ real in mind: Plato censured anaxagoras for believing the Noos "set the world spinning" + then lost interest in it - a criticism I would agree with.) if I am to be true to what I see both normally + by revelation, I must accept Timaeus, adding to it the descent to the sublunar world of divine wisdom (or divine reason), + perhaps herewith rest. The world as living, evolving organism. Yes, I saw that (in 3-74). But its psyche partially irrational? + the demiurge (divine reason) "persuades" -i.e. subdues - it into order?
+
+Last edit almost 3 years ago by svayambhu108
+2
+Needs Review
+```
+**Co-occurrences**: Christian, Holy, Plato, Wisdom, Perhaps, World, Therefore, Only, Time, Noos, Savior, Holy Wisdom, Mind, Does, Both, Divine, Probably, Creator, Soul, Living, Real, Timaeus, Revelation, True, Universe, Would, Very, Dark, Except
+
+---
+### Line 15858-15866 (Match: 'Jews')
+**Folder**: book of
+
+```text
+Jim read the "first book of Enoch"! of course the spirit left Jesus before his death, it has to move in this- the failure of this- was what went wrong when the romans [?] the [latin] homoplasmate- the spirit didnt get out in time.
+
+The ending of Malachi makes it absolutely clear that God (1) foresaw the ABSENCE of Elijah from the world for a long time, & (2) His return at the end-times!
+
+In Elijah, the Jews first encounter immortality-otherwise unknown to them Christ's whole ministry & Kerygma represents an explication of that which Elijah became "& so can you, too, through ME."
+
+As spinoza says, "Christ was the voice which Elijah heard" the owner of that voice got into Elijah, & was later passed on to Elisha this
+
+Last edit over 4 years ago by green.daisy
+```
+**Co-occurrences**: Christ, Spirit, Jesus, Roman, Spinoza, Elijah, World, Time, Book, Kerygma, Through, Voice, Before, Death, Later, Elisha, Otherwise
+
+---
+### Line 17574-17582 (Match: 'Jews')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 088
+86
+
+Then the Xerox missive came from those motivated by Yurugu, + I know specifically who sent it, which fits in with the information in "Tears." But these are minor considerations. The real consideration is Zebra playing dead so as to be undetectable - + e.g. firing info at me via a beam of pink light, + modulating reality (inc. me) into info or as a carrier for info. I had the clue all the time in the word "modulate" - as in frequency modulation or amplitude modulation. + Zebra is the info which is alive, + replicates (or rather proliferates) itself through (or as) info e.g. in "Tears," etc. An informational universe (cf. "Cosmic Trigger") (where this possibility is mentioned in passing as one possibility.) This fits in with the "AI" voice giving me info late at night; it doesn't just talk; everything which it utters is info, + vital (to me) info. Interspecies bonding (v. "Cosmic Trigger",) homoplasmate, my dreams of being a fish - even eaten (by the Jews as symbolized by Bob Silverberg.) I as a pluriform of Nommo (Christ). "Fish can't carry guns." + I dreamed of the winged globe {illustration of a globe with outstretched wings}, + it was golden. Firebright. Horus, Osiris. ___ Obviously in 3-74 my DNA gene pool memory fired (phylogenic memory) + the DNA programming "burned itself up" ("astral determinism" expired) at the same time. There is therefore a visible connection between anamnesis (phylogenic memory stored in the DNA) + the breaking of DNA control (Karma). Except that the phylogenic personality took over completely, which seems contradictory to astral determinism being broken; isn't phylogenic memory astral determinism?
+
+Last edit over 5 years ago by Toso
+folder 21 - 089
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Toso, Indexed, Zebra, Xerox, Fish, Golden, These, Therefore, Time, Cosmic, Folder, Light, Even, Karma, Firebright, Just, Reality, Being, Obviously, Missive, Everything, Xerox Missive, Toso
+Folder, Anamnesis, Indexed
+Folder, Those, Through, Real, Voice, Universe, Illustration, Memory, Information, Info, Except, Dead, Doesn
+
+---
+### Line 19256-19264 (Match: 'Jews')
+**Folder**: folder 06
+
+```text
+Indexed
+folder 06 - 019
+19
+
+Although appearing left wing my training is really fascistic - not "fascistic" as Marxist reto rhetoric defines it but as Mussolini defined it: in terms of the deed + the will, with reality de-ontologized, reduced to mere stuff on which the will acts in terms of deed. Since few living people correctly understand [genuine] fascism, my ideology has never been pejoratively stigmatized by the left, but those to whom I appeal are in essence the core-bulk of latent masses, the fascist mob. I speak of + for the irrational + the anti-rational, a kind of dynamic nihilism in which values are generated as mere tactics. Thus my real idol is Hitler, who starting out totally disenfranchised rose to total power while scorning wealth (aristocracy) plutocracy to the end. My real enemy is plutocracy; I've done my [fascistic] homework. Thus by generating a plutocratic aristocratic daughter "who enters by the front door" I officially am received by the ruling circle, as when Hindenberg received -was forced to receive- Hitler. Hence Laura correctly views her enemy as the Jews, since they are the extant plutocracy whom she now deposes with my help. My fascistic premise is: "there is no truth. We make truth; what we [first] believe becomes objectively true. Objective truth depends on what we believe, not the other way around." This is the essence of the fascist epistemology, the perception of truth [...] imposed on reality - mind over matter.
+
+Last edit over 6 years ago by Toso
+folder 06 - 020
+Indexed
+```
+**Co-occurrences**: Acts, Toso, Indexed, Since, Folder, Mind, Reality, Although, Toso
+Folder, Indexed
+Folder, Those, Living, Real, Laura, True, Will, Other, Truth
+
+---
+### Line 21130-21138 (Match: 'Jews')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+80
+Needs Review
+80
+78 the code in "Tears" is political; it is information about a world where fascism in general (in contrast to Germany as a nation) e fascism stripped of national identity won. "Tears" to "MITHC": Xtianity to Judiasm. exported (diaspora) international fascism. [vs freemasons true Xtians + Jews. then us = fascism. "Tears is precise + specific (well, patugal + walloon came later still -). Italy (Felix), Germany (sterilization of blacks). Flemish (Rex). USA (KKK), + Marshals (train: Q: "What do these have in common? A: Fascism. Germany lost but fascism won the old king in dream: man on horseback. The leader princip. Catholic church? Rome? The Empire now will you believe Pigspurt as view of Calif 1974? Hence topographically syntonic supering positions overthrow of Nixon - violence (blowing up is The BIP). The truth - "Tears." Festung USA. This is the secret; I got it almost right in "MITHC. but confused Germany + fascism. Hitter deliberately lost the war, to destron Germany + give fascism an international charach he knew Jewish history, knew that the Roman attack on Jerusalem (Judhism) had spread it worldwide as Xtianity. No - had spread the Jews worldwide - diaspora. A secret existence to fascism, as "bacillus of civilization; as the Jews had been; he didn't imitate the Catholic church but Judhism. Metastacizing. Biological model (my phagocytosis - the phagocytes + the Iron partich. Were in an organic body, all right. Information" virus
+
+Last edit almost 3 years ago by svayambhu108
+
+81
+```
+**Co-occurrences**: Tears, Christian, Rome, Christianity, King, Felix, Well, Empire, Roman, These, World, Iron, Nixon, Pigspurt, Catholic, Jewish, Still, Church, Calif, Secret, True, Will, Were, Have, Body, Information, Later, Truth, Dream, Right
+
+---
+### Line 21135-21143 (Match: 'Jews')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+81
+"Tears" is plasmate - I know; I saw it. A correct appraisal of the situation in USA. Very precise references to a number of fascist roups. Something analyzed the situation here in 1970-1974. A computer. the dialectic. we are not talking about an alternate world but this world really I am an analogic binary AI system smuggled in here to analyze the situation + report on it. (Cf "impostor.") Biosphere Fascism is a bacillus. phagocytosis "from K2 to FLC. was needed. "Nats" = national socialists. Brown? Sa? think Maybe I have it (re "Tears" etal). I there are two secrets, not one. antithetical 1) Cerical fascism (invisible). two secret forces at war 2) Jews, R.C. Freemasms with each other. "Tears" runs two cypher - or reference systems - simultaneously, utilizing ambiguity. Thus Acts = imperial Rome + the true Xtians the true battle in/of this world is outlined neither force (side) being visible to us; what is visible - communism vs Capitalism - is my a mask for the 1) + 2) supra This is hard to express but important. I have traced the structure of 2-3-74 to a Hermetic, alchemical, Kabalist source. + this is precisely the secret group suspected of secretly ruling the world, My 2-3-74 experience int "Tears," indicates that the real battle for
+
+Last edit almost 3 years ago by svayambhu108
+82
+Needs Review
+```
+**Co-occurrences**: Tears, Acts, Christian, Rome, Maybe, World, Hermetic, Something, Being, Real, Secret, True, Other, Very, Have, Neither, Dialectic, Impostor
+
+---

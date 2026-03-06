@@ -1,0 +1,344 @@
+# Evidence Packet: Xerox Missive
+
+- **Category**: Top Term
+- **Total Mentions**: 70
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 6414-6422 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+36
+3 The 2nd Advent completed his process of assimilating The world (which is what I saw him doing) all the generations since 70 AD have been repetitions of an archetypal population (cf the gene pool DNA memory coding studies) which cannot any more escape their roles which they occupied in 70 AD than they can - well, karmic burden is involved here. What they were then they have continued perpetually to be deterministically caught. However, in 1974 (as we reckon it) new orthogonal punch-through came, + changed things. My destiny, to fall victim to the Xerox missive again + again, in an almost eternally repeated mesent (cf "Tempunauts") was interrupted - invaded by assistance + the advocate, who woke me. I recalled it happening before, + destroying me. memory of it happening before would, alone, merely have told me I was doomed again; it wouldn't have informed ne - led me through the intricate escape maneuvers necessary. My situation in miniature reflected the miserable prison-like quality of our linear, unwinding strip, circling Advent I the way the persus a circled, with everyone repeat their dream (mutual dream) over + over, but with super ficial variations in appearance (linear strip accrual). It was because of this repetitious trapped quality of linear time (astral powers, or planetary, destiny, fate, etc) that Advent I took place - to break the "chaldean" astrological causal framework: v. God's grace, providence, v. Sarapis, Hermes Tristmo gistos, etc). This was the whole discovery of the mystery religions. 1) We are trapped, doomed to a repeated pattern, + 2) The deity - savior - can extricate us. No sense can be made out of ➁ (Salvation) unless ➀ is properly understood.
+
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+```
+**Co-occurrences**: Xerox, Well, However, Advent, Like, World, Since, Fall, Because, Prison, Time, Savior, Again, Missive, Fate, Grace, Their, More, Through, Before, Deity, Would, Were, Have, Things, Memory, Unless, Hermes, Karmic, Dream, Salvation
+
+---
+### Line 6496-6504 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+50
+Needs Review
+50
+8 the cardinal experience of 3-74 was anamnesis, + that was not set off by the phosphene-activity - source or any source which followed, but by my seeing the Golden Fish sign in Feb. This must always be kept in mind anamnesis began before the phosphenes, by a couple of weeks, + was, I am positive, deliberately induced, by a concerted group, as extensions of the cosmic Christ i.e. as parts of the true vine). I camet be sure if there were OCCP command micro-esp signals, but if there were, I successfully fought them off; what I am sure of is that there was Xtian anamnesu, + it was triggered in Feb, by the Fish sign, + not in march In a sense, the cause of the Feb Xtian anamnesis the OCCP signals which were to come later, in March was the effect came before the cause. It is clearly evident to me that had the Xtian anamnesis (possession by the Holy Spirit) not set in in Feb. the OCCP microwave psi commands vis-a-vis the Xerox missive would have been successful; but, as it was, with the Feb anamnesis firing, it was not. Evidently this thwarting was deemed vital to his historic pran by the wise mind fundamentally, however, I favor another theory, which does not include any soviet micro-psi commands. It is this: that "astral" (deterministic) programming caused me to did in March or April of 1974. But that God reran that segment of linear time (which is how I knew the Xerox missive was coming, + when), +, by his grace, by his power over the planetary influences," what ever they might be, he saved my life, then, from march 15th on, I experienced post morter events, since in the previous "playing of the linear time tape" from then on (3-74) I was dead.
+
+Last edit almost 3 years ago by svayambhu108
+
+51
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Xerox, Holy Spirit, Fish, Golden, However, Since, Golden Fish, Time, Cosmic, Mind, Cosmic Christ, Does, Soviet, March, Missive, Anamnesis, Grace, Another, Before, True, Would, Were, Have, Clearly, Life, Wise, Later, Dead, Evidently
+
+---
+### Line 6554-6562 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+60
+Needs Review
+60
+60 + some of these - such as providing a drug which causes him to see reality as it is - + everyone else is ensnared by dulusion - that's awfully heavy + close to my experience - these are not minor details; the core of my 3-74 experience: there. Q: how can this be explained? A: I've lived this life before. right down to the 2 test papers, the first of the second was "faked up with a lot of party jargon; + if he'd fallen for it, he'd have been ruined. + was a trap, not a test. it I infer from this that the Xerox missive was (1) phony, ➁ a trap, faked up with party jargon. QED But the greatest coincidence of all is the ce element. Which I'll label (is). It underlies all the rus, + makes the resemblance between the story + the 3-74 (+ 2-74) experiences) (were they one or two?) extraordinary. Yes - both the Girl (2-74) + the 2 letters (3-74) are, in the story, united into one experience, thus suggesting a causal relationship between the two in real life! 5474497 600 500. 5560420 Fished 5120 conflower + Mcarthur no soothooast Plaza terry + seny
+
+Last edit almost 3 years ago by svayambhu108
+
+61
+```
+**Co-occurrences**: Xerox, These, Both, Reality, Missive, Girl, Real, Such, Before, Were, Have, Life, Right
+
+---
+### Line 6648-6656 (Match: 'Xerox Missive')
+**Folder**: part designed
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+76
+28) without my previously ever having realized it, had controlled me. "Thomas" was impervious to suggestion, which was the whole issue involved in the Xerox missive matter. I could not have chosen my res ponse to it: I would have been limited to the sole one dictated from outside me. That event evidently was my crucial life-crisis moment - the throwing off of the chains which invisibly had bound me. Although to some entent I can accept a jungian psychological explanation about "individua tion + the birth of the self" I know (by some instinct) that my emancipation was deliberately triggered off by the 2-74 Golden Fish sign, in view of my teacher - info artifact world - pot. of "ham sandwich" model, I can + will cite this unveiling + The fish sign at that time + for that purpose as proof t good example of my model + how it functions. is significant that during '71 + 72, the worst it period of my whole life I sensed the guardianship + aid of an invisible benign force - even organization or society or group - keeping me going. It had to do with "Tears." The danger as well had to do with "Tears." Recall how I knew that hid my copy in the "lathe" dustjacket? I the evil power wanted that novel shredded - then later I found + read - but did not understand - the "Sophia" or "Teacher" (1) message in it. The existence of that bot of information (+ how, during the theolepsy, it looked to me) bears out my "ham sandwich" model of the universe; there is help + helpful information penetrating into our (this) world from outside it. Therefore some vast wise benign entity exists outside it. Therefore vis-a-vis this entity this world is dead weight - its growth force does not arise from within it, but from outside it. Vide "Ubik" - the uncanny manifestations + apperitions which invade it + cannot be reconciled with it - + which disturb - i.e. tend toward waking up the sleepers (in cold pac). That this - thes penetrations of information from outside our world t This cannot be doubted + are a known, a given in my whole corpus of theology/cosmology. It is
+
+Last edit almost 3 years ago by svayambhu108
+77
+Needs Review
+```
+**Co-occurrences**: Tears, Ubik, Thomas, Xerox, Sophia, Fish, Well, Golden, World, Therefore, Golden Fish, Time, Good, Even, Could, Does, Missive, Although, Self, Corpus, Without, Universe, Will, Would, Have, Artifact, Life, Information, Jungian, Wise, Info, Later, Evil, Having, Dead, During, Evidently
+
+---
+### Line 6791-6799 (Match: 'Xerox Missive')
+**Folder**: part two
+
+```text
+Indexed
+10
+10
+
+Then the Xerox missive is to be understood as the flushing into view of B, its quarry. Buckman, in "Tears," is a portrait, synthetic or real, of that quarry, that "intelligence officer in the army," pitted against me, "Jason Taverner"! "Firebright" is the C seed placed in me, a micro version of telos inserted into atelos to start harmonia + kosmos growing. Like logos spermatika. C is a two-stage life form: seed + plant. __ To boil it down, C (which is rational) hunts its victim B (which is irrational) by mimicing B's victim A, then, when "caught," C enters part two of its seed-plant life cycle, {Note} plant growing within the female irrational infinitude body of B. This rational plant D is Pyth's Kosmos, + what I call Valis. The only thing I see wrong with this is that I have the distinct impression that Valis (D) (kosmos) planted a telos seed C in me ("Firebright") + that's what happened in 3-74, a micro-form of Pyth's telos placed in atelos to form kosmos.
+
+{Note:} Becomes D, kosmos but not in B. But it itself - "Christ resurrected." It's as if being caught + killed by B is a necessary fertilization or outside catalyst which starts its second part of the cycle. Why? B is necessary to transfigure it: the Christ story is instruction manual.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Valis, Tears, Toso, Indexed, Logos, Xerox, Form, Like, Only, Buckman, Firebright, Taverner, Kosmos, Being, Missive, Jason, Part, Real, Pyth, Jason Taverner, Have, Life, Body
+
+---
+### Line 6869-6877 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Indexed
+18
+18
+
+Looking all this over I realize that the Ramparts petition + then my failure to fill until the war ended was not just an antiwar act, a dissenting, or even civil disobedience but an outright sacrifice of my freedom + career; the punishment was inevitable, as was Jesus' when he entered Jerusalem. + I knew it. By '74 I lived in terms of them arresting me, then 2-3-74, the Xerox missive + what I now believe to be the correction or justification by Valis on my behalf. I had unintentionally, accurately followed the instruction manual (NT), including all the elements necessary. For the first time I can see logic, not caprice, in the advocate coming to me in 2-74 as soon as "Tears" was published. __ It can't be said that evil B causes apotheosis, the kicking over to stage two by its victim; the cause is Valis' justification. This justification can legally render the person spotless + (to think in Pythagorean/Orphic terms) unsullied by earthly existence; put in Indian terms, karma is burned up, + further earthly life (by which karma works itself out) is irrelevant. This fits my own impression that my programmed tape "played itself out at high speed in a vacuum" in 3-74. The future events to which it had been synchronized were not events necessary for me to live through; Valis short circuited the cosmic machinery when it justified me. It's as if the judge (ma'at) has now seen enough to have her basis by which to render judgment. The facts are in. To allow the person to be exposed to further injury would just be cruel. Another view could be that B + Valis are in contention for the person's soul. {But if B}
+
+Last edit over 5 years ago by Toso
+19
+Complete
+```
+**Co-occurrences**: Valis, Tears, Toso, Indexed, Jesus, Complete, Xerox, Time, Cosmic, Even, Karma, Could, Just, Missive, Orphic, Indian, Another, Through, Soul, Would, Judge, Were, Further, Have, Judgment, Life, Freedom, Evil, Until
+
+---
+### Line 6902-6910 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Indexed
+22
+Okay "Tears" contains Acts because Acts is now + the actual world we're living in, we Christs overthrew it in 1974. Or at least part of it. No, all. The obscure dominion of Satan was overthrown; Satan was killed. Now St Sophia (Christ) will emerge everywhere: all of us. We control this world. This is why I can now write openly. Only the religious/beauty domain is real. We have brought it into being: generated it, as when I melted the causal trains in 3-74; that was world-creation. We created the world of Acts which is both tyranny + religion. The workshop of us Xtians. Where we perform our transactions.
+
+This is the key: Q: Acts - where/when is/was Acts? A: Acts is where we true Xtians perform our transactions with evil in our 2-position game. There, we are in direct touch with the enemy. Q: + the Xerox missive? A: I was in direct touch with the enemy therefore I was -had to have been- in Acts - only there do the 2 sides directly engage each other openly, to each other. In USA the enemy could not approach me directly. Q: But who are we? + who is the enemy? A: We vs the enemy. It's a war + there are two sides, us + them. That's all I need to know. The republic vs the empire: it's in the future, like in “Star Wars.” This is it.
+
+Last edit over 5 years ago by Toso
+23
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Toso, Indexed, Xerox, Sophia, Satan, Empire, Like, World, Because, Therefore, Only, St Sophia, Okay, Could, Both, Being, Missive, Part, Star, Living, Real, True, Will, Other, Creation, Wars, Have, Star Wars, Evil
+
+---
+### Line 7050-7058 (Match: 'Xerox Missive')
+**Folder**: folder 32
+
+```text
+Last edit over 9 years ago by cfr5005
+folder 32 - 007
+Complete
+folder 32 - 007
+In a sense, positive action of any kind is an involvement in the world. It takes the world as real. Balking, oddly, carries perhaps a greater weight, since the step prior to affirming God seems to be the denial of the world. (Or: the road to affirming the true God stems from the initial denying of the world.) The Ramparts thing -- that was a direct disavowal of the power of the warden-archons, perhaps. I wonder if this sheds any light on the mysterious Xerox missive. What I did was act as mere transfer agent between it and the bureau. Or rather between its sender and the bureau. I did nothing but _immediately_ pass it on. I rerouted it. I had as little to do with it as possible. That was the essence of how I handled it: as little as possible, like something hot (i.e. stolen). the last letter I wrote to the bureau stated that UBIK had scientific information in it, and the OCCP knew. I think now that I was right. Information filtering through the "sandwich" is not merely theological, religious event but a matter of cold hard FACT. Information is information, even if of a stenographic kind. The OCCP certainly would have no hesitation in placing it in the category of the scientific. (Which should compel us to, whether we like it or not.) _Especially_, my god, how especially! if this information was designed to alter history by, z.b., deposing the U.S. president. We are talking about something really heavy, here. It very slightly resembles what the authors of MORNING OF THE MAGICIANS contemplated. Suppose I make a slight shift in the emphasis of all this, pass over into the area of secret societies and occult knowledge and powers, and use my 3-74 experience as an instance --a proving instance-- of that? Then we go back to the U.S. Army buying the 238 copies of TEARS.
+
+If I was to say the information was coming up from below, down from above, or from behind, I'd say through. It's penetrating through the world, with no up-down involved. Through is through. No amount of time or space is involved, even small amounts. How far away from Joe Chip and the others was Runciter? We are talking about the world as an opaque medium becoming translucent and then transparent. I experienced the incredible immediate reality of the Holy Spirit in me and Zebra (God or the Cosmic Christ, the Pantocrator) in the same room as I was. "Break a stick and there is Jesus," is an early saying.
+
+I just realized: seeing Zebra rules out both the OCCP micro-wave stuff and any occult source, because the active Presence was not just inside my head (telepathic instructions and info) but visible, to me, in my rooms. The material transferred into my head was almost certainly the work, inside me, of Zebra which I saw externally. In particular, I have the mimicking factor to deal with, that the Higher Entity which I saw is capable of camouflage and hence complete invisibility to the unenhanced human eye. Only it can see it -- it inside me say it outside. The stenographic messages do not emanate from some human occult group with supernormal powers, but from the Divine Ground of Being Itself. The only involvement which an occult group or OCCP micro-wave teep signals could have would have been able to trigger my experience off...however, my experience in 3-74 was in fact triggered off by the golden fish in 2-74, which I keep forgetting. At the very best, if I am to involve any human group or agency (which Occham's Principle precludes as unnecessary) it would be the Real &
+```
+**Co-occurrences**: Christ, Tears, Ubik, Spirit, Holy, Zebra, Jesus, Complete, Xerox, Holy Spirit, Fish, Golden, However, Perhaps, Like, World, Since, Because, Golden Fish, Only, Time, Cosmic, Folder, Cosmic Christ, Light, Even, Could, Just, Something, Suppose, Both, Reality, Being, Runciter, Missive, Divine, Bureau, Nothing, Pantocrator, Through, Ground, Real, Certainly, Secret, True, Would, Very, Back, Have, Information, Info, Whether, Knowledge, Greater, Human, Chip, Right
+
+---
+### Line 7321-7329 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+17
+it The message-rich set-ground world of Zebra - is that part of the P.T. Garden, or is it the presiding (overall controlling sentient programmer "which first lets in the dark, then the light"? (The B.I.Prison hyper universe is 2=; the P.T. Garden is I; the former dark, the latter bright; the former immutably cause + effect - the latter free, etc). to reconstruct the sequence which enabled me to see hyper universe II behind the hologram: 1) For years I suspected it might be irreal; 2) in "Tears" I got through to a perception of hyperuniverse II; 3) in 2-74 as soon as "Tears" was released I was externally deliberately disinhi‐ bited so that by 3-74 "memory" of universe II. Also 3) in such novels as "Ubik" I perceived the informational programmer who (I think at this point) is not part of either hyperuniverse but like the Tao, stands tran‐ scendent to both, + pervades the mixture-hologram. It is possible even likely that the programmer (Logos, Ubik. Christ, Valis) wishes victory for hyperuniverse I the "fiery" one a the P.T. Garden. In this case, the dipolar hyperuniverses are in dialectic interaction of mutual antagonism: Mazda for I Ahriman for II in II, the B.I. Prison, the light of I has penetrated in the form of the apostolic Xtians; hyperuniverse II is being vaded + conquered from inside (they got inside it, from I). Each hyperuniverse makes a claim on us humans. I (PKD) represent an agent from I who has penetrated the BIP II. This explains My hostile stance vis-a-vis the authorities, esp in 70/74. During The Nixon period BIP II was encroaching; gaining a domin ance; then the programmer intervened + thrust BIP II back to defeat. At the end of time. Hyperuniverse BIP II will be abolished + our world made real (PTG I). Zebra is weaving the causal threads in that direction: one must realize that the outcome is not in doubt. Christ (Zebra) will incarnate here in the mirtuere Hologram once more + decide the outcome forever. God, the creator of the 2 hyperuniverses, has decreed that I am a kind of "cuckoo's egg" in BIP II actually a son of light disguised (even to myself; hence my anamnesis in which I was restored my actual identity. There are othere like me: we seem to be exponents of II - e.g. the pro-CP + dope stuff - but are not. the Xerox missive was to detertities as actual (correct) core sampling of me: it was the crisis of determinans which hyper world I truly owed allegience too Had I known if it was a fake it could not have served that determining purpose, + it was vital that it do so
+
+Last edit almost 3 years ago by svayambhu108
+18
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Tears, Christian, Ubik, Zebra, Logos, Xerox, Form, Like, World, Prison, Time, Nixon, Garden, Light, Even, Could, Once, Both, Being, Missive, Either, Anamnesis, Creator, Part, More, Through, Ground, Real, Such, Actually, Universe, Will, Back, Have, Dark, Fake, Memory, Dialectic, During, Free
+
+---
+### Line 7327-7335 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+18
+Needs Review
+18
+18) I don't think it was the purpose of the Xerox missive to "smoke out" an agent from PTG I by the BIP II people; rather, I think the II people had no doubt that I was BIP II. But, as a covent agent of PTG I It was necessary, if I were to react authentically I that my identity + memories return, + I do what I did with the Xerox missive. So "Thomas" is my authentic PTG I self as secret Xtian agent in B.I.P. II which is the hyper world that (as proved by the content of "Tears") was the only hyper world I consciously or unconsciously knew. In 2-75 the PTG I was introduced to me for the first time: my true home, which I had never known, inasmuch as I had been a secret I agent in II for 1000s of years. I really had worked most of this out (e.g. with the "shift" model: BIP + PTG tilt to left or right, + the "mixer console" which kn suggested; what I hadn't conceived of was that in this sequence A(PTG) B (our world) C (BIP) that these were not 3 "Paralled universes or time tracks" but that A + C are real, hype universes + B, our world, is merly a hologram - + yet all my years of writing points to that [mere hologram] quality precisely. So Zebra/Valis/Christ / St Sophia/Logos is the champion who deftly - with wisdom - steers the PTG. I hyperuniverse (the Kingdom of God) to supremecy. My Metz speech was not too far off from the McKennas' model, which I am sure is the more correct one. but what a victory we have scored: angels of Light (PT GI) have penetrated the B.I P. II in the guise of angels of Darkness! The microform of I was there, in II, in disguise, too! + the forces of darkness didn't know it until it was too late. Up until they murdered the Christ, the dark forces of II must have been self-deluded about their own nature. But that nature was tested, + its actual eull quality revealed - just as I revealed my secret I quality by my reaction to the Xerox missive
+
+Last edit almost 3 years ago by svayambhu108
+19
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Tears, Christian, Thomas, Zebra, Logos, Xerox, Sophia, Kingdom, Wisdom, These, World, Only, Time, Light, St Sophia, Just, Kingdom of God, Missive, Self, Darkness, Their, More, Most, Metz, Real, Secret, True, Were, Have, Dark, Right, Until
+
+---
+### Line 7339-7347 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+20
+Needs Review
+20
+re Then my perception of the Rome cAD70 confirms the McKennas' cos mology - or at any rate some kind of cosmology which posits another (or hyper) universe behind this one (or there may be several: in addition to our own, which I do not consider real. I counted 2, the exact number they give I do not think what I saw was/is just another section of our linear time universe (the "Coil" model), but was absolute. Or: my Metz speech model (paralled universes) could be correct + BIP II + PTG I are dipolar alternates competing for actualization - that our track will go (yield) one way or the other. Ours is the interface - but the McKennal are right, ours is either a hologram or like a hologram (irreal in contra‐ distinction to BIP II + PTGI). What points to my view (model) as the correct one is the backward time travel by Valis/Zebra: the future modulating the past obviously to actualize PTG I; their intervention will be) has been is decisive. What I saw that the McKennas did not was the medduing in human history c 1974. Yet - there is, as they say, a mere projected quality about our universe - is it yielding? I'm going to accept the McKenna model because it accounts for the projected (hologram) nature of our universe; my model doesn't. Also, in the BIP II (+ PTG I) the world (3) seemed exempt from linear time - it is still AD 70 in the BIP II world 2 thousand years of our universe later. In 1974 the incursion of II was deelsively reversed, but II still exists, but comprises a lessened portion of the admixture hologram, now Ay? Whoever sent the Xerox missive suspected, from reading "Tears" that I was a covert agent from I + wanted to test it out. If I did what I did, I verified I was (unknown even to me) not from II but from I, it would take a covert I agent to react as I did i the faculties + perception necessary would have to be paranormal to decode it; this is a more sophisticated view than that, upon read "Tears" the sender thought I was from II (despite the fact that "Tears" mainly deals with II. However, even if this be so, it does not make evident whether the sender was from I or II. Nonetheless, the Xerox missive was an absolutely infallable test by which to distinguish if I was I or II + I showed by my response to be I. Anyhow, I construe that by either the Metz model or the McKenna model, two universes are competing for a mutually exclusive actualiza tion, roughly analogous to Parmenides' Forms I + II + the yang us yin dipolarities interestingly, Parmenides maintained that Form II (the BIP world) does not really exist but only seems to; this fits in with the idea of Satan's spurious interpolations. So now irreality is transferred from our universe to one of the "hyperuniverses" - perhaps our universe is on admixture of the real (hyperuniverse I) + the totally irreal (hyperuniverse II). It possesses accidents but not ontology; it is just seeming, the way a movie film is. A counterfeit object is still an object in certain respects (I mean universe II, here, not our world. Parts of our world possess ontology, since they arise out of I). Then the collision between "hyperuniverses" is more
+
+Last edit almost 3 years ago by svayambhu108
+
+21
+```
+**Co-occurrences**: Valis, Tears, Zebra, Xerox, Rome, Form, Satan, However, Perhaps, Like, World, Parmenides, Since, Because, Only, Time, Even, Yang, Could, Does, Anyhow, Just, Obviously, Missive, Either, Still, Their, More, Another, Metz, Real, Nonetheless, Upon, Consider, Universe, Will, Would, Other, Have, Absolute, Later, Whether, Human, Doesn, Right, Track
+
+---
+### Line 7417-7425 (Match: 'Xerox Missive')
+**Folder**: part about
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+6
+6 t "I am an eye," Bruce says at the exact moment in which new path's satanically malignant game is unleashed at him. This is his reply to, "what are you?" the answer should have been "nothing." Is "the Eye" which he is which later sees the mors ontologica, the ajna eye? Interesting - consciously I was just thinking of "private eeye "equals cop equals Scanner. Not eyes plural but eye. I think a new idea - genuinely new - has occurred to me vis-a-vis the "theolepsy" of 3-74. Let's take two possibilities considered from the start: 1) "Thomas" was a former me, from a past life (circa 70 AD). Hence the Black Iron Prison, Rome, the koine, etc. 2) People (evolved to ovidhead deaf mutes) came backward in time or sent holo-like info back okay. New idea. My anamnesis worked both ways in time. I retrieved at least one former self (supra) but also myself in (from) a future life. "Thomas, from the past, wouldn't have known the Xerox Missive was going to come precisely on wed 3/20/74. My future self would remember - it, like me, it, in the future experienced anamnesis, + just as I traveled back to Rome to my prior life, it (he from the future; me) traveled back into its/his/my own past (1974), from I'd guess 100s or 1000s of years hence in other words, all my incarnations fused, were unified, my person. ality suddenly included itself to come + itself as it once had been. It was outside of time. This explains my sense of backward moving time So my help came from an evolved higher intelligence 5th + 6th chokra me who deliberately
+
+Last edit almost 3 years ago by svayambhu108
+7
+Needs Review
+```
+**Co-occurrences**: Thomas, Xerox, Rome, Scanner, Like, Iron, Prison, Time, Black, Okay, Just, Once, Both, Missive, Self, Black Iron Prison, Anamnesis, Nothing, Would, Other, Were, Back, Have, Life, Info, Later, Remember, Suddenly, Iron Prison, Answer
+
+---
+### Line 7464-7472 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+I am too far into Gnosticism to back out. The idea of Jesus opening Adam's eyes and bringing him to consciousness, the re-linking to the lost primordial state through the Gnosis, the unflinching facing of evil in the world and knowing it cannot have come from [the Good] God - and the salvidor salvandus - man as a cut off part of the Godhead. __
+
+Thinking back over my life I can see that I have survived many troubles - I look at the copies of the Ballantine "Scanner" and I can see what I have done to transmute those terrible days into something worthwhile, lasting, good, even important (ie meaningful). This is what God does; this is his strange mystery: how he accomplishes this. When we view the evil (which he is going to transmute) we can't see for the life of us how we can do it - But later on, and only later on, after it's done, can we see how he has used evil as the clay out of which he as potter has fashioned the pot (universe viewed as artifact).
+
+What I notice is how many people wish me well. Look at what John Ross, a stranger, said. Look at what Jeter said about me having served, done my duty, and now can pass on into the reward waiting for me - he said, even, that they'd applaud me. I still don't know what I did in 3-74 re the Xerox missive, but what I did was what I was sent here to do from the start, and I did it right; as Jeter put it, "they tell you how, when and where to throw the spear, but you must throw it."
+
+I am really very happy. Snuff, music and cats, friends and my exegesis, my studying and gradually more and more understanding my Gnosis, when in 3-74 the savior woke me to full consciousness, for the first time in my life and refound myself, knew who and what I was, remembered my celestial origin, was restored to what I had been before the fall. And saw the prison we are in, and knew I had done right
+
+Last edit 25 days ago by Gabriel Mckee
+```
+**Co-occurrences**: Jesus, Xerox, Well, Gnosticism, Godhead, Scanner, World, Gnosis, Fall, Prison, Only, John, Time, After, Gabriel, Mckee, Gabriel Mckee, Savior, Good, Even, Does, Something, Look, Adam, Missive, Viewed, Those, Still, Part, More, Through, Before, Universe, Very, Back, Many, Have, Artifact, Life, Later, Days, Evil, Having, Right
+
+---
+### Line 7525-7533 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Indexed
+19
+reality. I.e. being taught implies a teacher. But I think it's more than just taught; control or programming or management of us by it (Zebra) is involved. It has the power to arrange (join) objects (words) into subliminal messages + the mind to know what to convey. But why? For what purpose? V. "Ubik."
+
+Conclusion: all around us exists, mimicking normal "dead" objects and processes is an intelligent arranging entity, informing us subliminally at the very least -- and possibly -- in fact almost certainly -- controlling us. Is this the "astral" determinism or the wardens or archons or angels of this cosmos who Christ saves (frees) us from? As Paul writes, Christ is replacing this "Law" or power (fate) over us by his dominion. Zebra is Christ, but there was a blind controlling mechanism which I experienced him combatting and overcoming (it as reflex response to stimuli) re the Xerox missive. So I conclude that the informing messages free us, rather than imprison; they teach us salvific Gnosis, invisibly.
+
+Finally:
+
+I am led to the inescapable conclusion that, totally unknowingly, we are all constituents of a vast living organism, and that everything which occurs in it, our reality, happens due to its deliberate intention -- that of its own brain, Noos or psyche -- and, further, this vast living organism which governs and regulates our every move and experience resembles an AI system or computer, and that under certain exceptional circumstances it can and does speak to one or more of us, its members -- Finally, the organism -- or this part of it -- is in trouble -- has its "hand in a steel trap," as Jeter put it, and is extricating its members, ie us. {{20}} We must have partially fallen out of the organism -- or maybe it actually has -- like a great animal -- been snared by a titanic iron trap! It is in trouble. And is reclaimed, repairing, itself. It is, in the final analysis, a magnamind as well as a magna-organism, and it is -- has been for some time -- in trouble. We are the distressed fraction, member, circuit or element, or organ, part or unit.
+```
+**Co-occurrences**: Christ, Ubik, Indexed, Zebra, Xerox, Paul, Well, Maybe, Like, Gnosis, Iron, Time, Noos, Mind, Does, Just, Reality, Being, Missive, Everything, Great, Fate, Brain, Part, More, Living, Actually, Certainly, Finally, Very, Under, Further, Have, Dead, Free, Final
+
+---
+### Line 7577-7585 (Match: 'Xerox Missive')
+**Folder**: part or
+
+```text
+I
+
+707. 936 1144
+
+92701 I think I've discovered a fundamental error in my thinking vis-a-vis the "Thomas" personality which took me over in 3-74. "Thomas" was not a personality - a former one, out of a number, stretched out along linear time like points along line. He was the personality, spanning all times, back to before n we came to this planet - it was thousands + thousands of years of memory, with all the divisions into separate finite lives + their finite spans abolished. This was the gene pool mind per se, a transtemporal eternal entity, not one of many, as Phil Dick is one of many (along the linear time line) I have reason to think that "Thomas" even includes per sonalities (+ time segments) yet, to come - since he knew that the Xerox missive was going to come, + exactly what don for him 3-74 was the past, so he didn't just come from A 70. He was equally familiar with past, present + future D
+
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+```
+**Co-occurrences**: Thomas, Xerox, Like, Since, Time, Mind, Even, Just, Missive, Their, Phil, Dick, Before, Back, Many, Have, Memory, Phil Dick
+
+---
+### Line 7603-7611 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Needs Review
+30
+33 It just goes to show that what they say is true: we can't find God; he must find (initiate the search for; us. As Jesus said. "You did not choose me; I chose you." This fits our cybernetics model perfectly: about the "repair" man" entering the deranged autonomous circuitboard, + sneaking in Ubik-commercial-like salvific messages subrosa, B, the transtemporal DNA gene - pool true self, spann.
+
+1000s of years, is so vast an entity to experience + then in its breadth of vision it perceives God - once this A:B/B:C equation is understood it can readily be under‐ stood why A cannot reach C directly. +, as the Gnostics + Mani noted, B seems to be a part of C, encased in a prison, in a prison world I am now positive that my rerouting the Xerox Missive had an historical importance, but this breaks down into two different possibilities. 1) the historical importance lay in the Xerox missive itself, + I was just a rerouter. Or 2) I was (am?) historically needed, + the Xerox Missive was important because it was a threat to me which of the above is the more likely? I favor (1.
+
+Last edit almost 3 years ago by svayambhu108
+
+31
+```
+**Co-occurrences**: Ubik, Jesus, Xerox, Gnostic, Like, World, Because, Prison, Just, Once, Missive, Self, Part, More, True, Under, Mani
+
+---
+### Line 7610-7618 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+31
+34
+
+The disinhibiting signals we are waiting for will Summon back into life a transtemporal self in each of us. Musical tones, or a pisture, a symbol, will remind that buried self of its existence. They who will signal us know not only how to signal, but they know exactly what they will summon back into consciousness the history of our race is a movement toward theen counter with these signals + the signalling entity or-les. We have no power over this disinhibiting. This view tends to confirm -or agree with - speculation that we are "owned," as it were. Governed by higher powers (who have now returned, at last - intervening from outside into what is otherwise a prison world). Ther signals will burst two prisons: that of each mind individually in terms of memory-identity, + the planet as a whole (cf the Gnostic concepts of the micro + macro as reversed forms of each other significantly, the transtemporal self, when released, is to act, within a historic context: he has his structions ("we can be heroes for just one day."). that these "impostor" like humans exist, + are impos sible to detect - Van Vogt + I have both written about them. The humans themselves who are involved - they do not even know. But, once deliberately disinhibited, they will act. they have no more power of choice than a salmon swiarn ming upstream on gene-pool (DNA) instinct to spawn. My most interesting + ambitious theory about the Xerox missive is that by turning it over to the authorities I some‐ how notified them that "they" - i.e. Christ" - is/are here. I foget how I reasoned this out, but it would have to go: that unaided I would not have known to do what I did with it. I did not [merely] prove my loyalty; I proved a lot more. It was not the intention on the part of any mundane person, group or agency to prove th. a correct analysis by them of what I did would point to it but
+
+Last edit almost 3 years ago by svayambhu108
+32
+Needs Review
+```
+**Co-occurrences**: Christ, Xerox, Form, Gnostic, These, Like, World, Prison, Only, Mind, Even, Just, Once, Both, Missive, Self, Part, More, Most, Macro, Will, Would, Other, Were, Back, Have, Life, Memory, Impostor, Otherwise
+
+---
+### Line 7616-7624 (Match: 'Xerox Missive')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+32
+Needs Review
+32
+35 That means that I was a Befahltrager, although eventually I came to constitute a geheimnistrager of sorts. This is an intricate theory, but it has the value of attacking a trans‐ cendent purpose + meaning - not to the Xerox Missive intrin‐ sically (i.e. its content) but to what I did with it. I guess what I'm saying is this? 1) unaided, I would not have known to do what I did with it, 2) accurate appraisal of what I did with it would correctly infer that I was aided 3) I should assume accurate appraisal, 4) Either the sender of the Xerox missive, or the Bureau, or both, know I was aided + by what 5) in summation; what I did can only be correctly evaluated in one way. My reasoning along these line, was the "when I return I will be like the lightning" ie evervwhere at once 6) He -his voice - is calling his own, his sheep, + his sheep know -recognize- his voice, + respond. 7) That is what I heard: the voice of the good shepherd. I wonder if we are all programmed to hear + to respond (circuits to begin to fire for the first time). Is he selecting out the sheep in contrast to the "goats"; "You need help. Hold on now. I am coming, over the hills, to set you free. Do you hene? Listen. It's getting neared coming close. Closer. It's standing by your shoulder. Here I come. I'm going to save you if you wait for me.. Repeated: you need hilp - I'm goma save you" K.K, bee. So I am saying, the power to respond to his presence (resurn) is not something we can decide to do or not to do; it is subliminal - ever to be aware of him - that is out of our conscious hands Nonetheless, we are not mindless reflex machines; our volition at some point, is required: in the "throwing of the spear," to quote K.W.
+
+Last edit almost 3 years ago by svayambhu108
+33
+Needs Review
+```
+**Co-occurrences**: Xerox, These, Like, Only, Time, Good, Something, Once, Both, Missive, Although, Either, Bureau, Wait, Nonetheless, Voice, Will, Would, Have, Free
+
+---
+### Line 7810-7818 (Match: 'Xerox Missive')
+**Folder**: Part A
+
+```text
+Last edit almost 3 years ago by svayambhu108
+63
+Needs Review
+63
+6 I'll go out on a limb + say, "normally, throughout human history. God does not do this. My reprogramd mmin, which allowed me to see how reality really works. is proof (virtually) that indeed God broke through into our space-time world. (i.e. the apocalypse) such a reprogramming is difinitive indication that the long‐ awaited freeing of man by God has come! (i.e. rescue as promised) the reprogramming for me was indisolun ably linked to a vast historical reprogramming It was all one event. What I'm saying is that the reprogramming could not have come for me, had there not been a (the) overall general historic intervention. It is evident that the historical changes which affected me directly are infinitel greater than Ill ever know: such clues as the sense of having just been at a high moist place, the car air vent, calling the dog"he" + the cat "she," beer instead of wine - all this + more absolutely + unmistakably point to very major world-readgustment, with commenserate new (not false but new) memories filling in. The historical changes were vast, + affected mepersonally far beyond anything I'll ever retrieve or deduce. I'll bet that before the historic intervention id never lived in Orange county - I had never before Then been Phil dick, but had been someone else somewhere else. The key clue was the Xerox missive + the necessity that the real PKD not handle it. No-Wait - I've got it. I didn't change; the world changed. + in the beer-dogecat codl moust high altitude + car air vert - those were subcortical reflexes left over from the world which had just been there + was abolished
+
+Last edit almost 3 years ago by svayambhu108
+64
+Needs Review
+```
+**Co-occurrences**: Xerox, World, Time, Could, Does, Just, Reality, Missive, Those, Wait, More, Phil, Through, Real, Such, Dick, Before, Were, Very, Beyond, Have, Instead, Having, Greater, Human, Phil Dick, Someone
+
+---
+### Line 7818-7826 (Match: 'Xerox Missive')
+**Folder**: Part A
+
+```text
+Needs Review
+64
+6
+
+So all those "new" traits were really old traits; what was new was the Orange county hot low dry world. our entire world was redesigned - not me inside but it outside. + I had new false memories of The hot low dry orange county "already having been there." But it hadn't. So my Metz speech is correct. We all had just up to then been in the Black iron Prison world, + then intervention must have come in the past prior to 3-74. 3-74 was the pay off. Our past was attered It can, working retroactively, program any response to any stimulus for anyone + everyone. But to overrule its own programming - since everything is inter invclved a web with everything else, to overrule for ewen one person is to tamper de facto with the whole web - is to affect the entire structure of history (which in fact it stipulated it was involved with) I seem to be saying, "the world we now remem‐ ber wasn't changed." It is the replacemeet world which was not always there. The Black Iron Priso world was originally there; it was changed to the "orange county world" with new (in a sense false) appropriate memories. to match. So had I not had anamnesis - recovery of real -sic-memories, I wouldn't haveknown anything the happened. With the return of the real -sic-memories there also returned my real-sic-personality, a "meat + potatoes" man able to handle the Xerox missive, which is why they showed me the Golden Fish sign to restore my real-sic- memories - to deal with the Xerox missive; In otherwards I have or have had 2 set of memories +2 personalities
+
+Last edit almost 3 years ago by svayambhu108
+65
+Needs Review
+```
+**Co-occurrences**: Xerox, Fish, Golden, World, Since, Golden Fish, Iron, Prison, Black, Just, Missive, Everything, Black Iron Prison, Anamnesis, Those, Metz, Real, Were, Have, Having, Iron Prison
+
+---

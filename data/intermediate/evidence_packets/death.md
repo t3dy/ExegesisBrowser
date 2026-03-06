@@ -1,0 +1,347 @@
+# Evidence Packet: Death
+
+- **Category**: Top Term
+- **Total Mentions**: 40
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 34-42 (Match: 'Death')
+**Folder**: part of
+
+```text
+This all has been an unfolding process. A revealing or disclosing of Being.
+
+The Final Things (Parousia) is this: when God and his forces break through, penetrate into, linear time, and intervene for us. This took place. (March 1974.) This did happen. And the sign of its approach, and symbol, was the dream in FLOW MY TEARS; the old white haired king on horseback -- imminent approach of Our King to assist us.
+
+Time didn't reach its completion as an entelechy does; it was pierced -- breached. I'm a pre-cog and I saw this, in my dream, in 1970, which I put in TEARS. It was published in Feb 1974. The rat which died died here in this apartment in March 74, as prefigured in the dream; but in the dream, I was amid the posse, on horseback; thus, some part of me, the "equal" part, survived. The rat was the part of myself which had to perish, and is based on an event in the '50s when I had the murder a poor rat which had gotten in among my sleeping little girls. It shrieked so when it heard me approaching, but I had to kill it. I buried it with my St. Christopher's medal. It is now raised up as Christopher...my son's name, born in 1973. Rog Phillips (who autographed this story of his "Rat in the Skull, 'To Phillip K. Dick, a name under which I frequently write' and who now is dead--) in that great story of his he has the rat pray with its foot, by moving its foot, as the boys destroy it; I cried over that (in the 50s) and when I met Rog just before his death, in 1964, got him to autograph it.
+
+Yes, I see -- that rat was the instrument of saving me; I died with it, and I prayed for it when I killed it; and it's been transformed...in Rog's story, the rat operated a humanoid robot, an android; it could manage to say, "Mama" and "papa" and could recognize the two people who were testing it, the android. It worked pedals. When the boys removed it, it was trying to work the pedals, now gone, and Rog said, It was as if it were praying. I'm sorry, poor rat; Rog is dead; the rat is dead, and I must stop typing or Tessa will get me.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Tears, Toso, King, Parousia, Time, Could, Does, Just, Being, March, Great, Tessa, Part, Through, Dick, Before, Will, Christopher, Were, Under, Things, Dead, Dream, Final, White
+
+---
+### Line 68-76 (Match: 'Death')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by jhordan
+4
+Complete
+4
+If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? I was indeed describin the Parousia when I described the "decay" along the orthogonal axis in UBIK which is logical). I myself first hit the Dies Irae when I first dropped acid (about 350 [mices?]). It was cold, it was hell; I used it in later books (e.g. UBIK, [MAZEF?] OF DEATH). Now, how come I in March experienced what you're supposed to only after you're dead? I was judged and so forth, all those things, now. Either this says something about what befell me, or what befell our world in March 1974 (or both). Was it a freak thing for me, a dispensation or accident, lke being allowed to stay up late or all night, etc. as a child?
+
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+```
+**Co-occurrences**: Ubik, Complete, Rome, Form, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+
+---
+### Line 70-78 (Match: 'Death')
+**Folder**: part of
+
+```text
+Complete
+4
+If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? I was indeed describin the Parousia when I described the "decay" along the orthogonal axis in UBIK which is logical). I myself first hit the Dies Irae when I first dropped acid (about 350 [mices?]). It was cold, it was hell; I used it in later books (e.g. UBIK, [MAZEF?] OF DEATH). Now, how come I in March experienced what you're supposed to only after you're dead? I was judged and so forth, all those things, now. Either this says something about what befell me, or what befell our world in March 1974 (or both). Was it a freak thing for me, a dispensation or accident, lke being allowed to stay up late or all night, etc. as a child?
+
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+
+The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat I tossed the St. Christopher's medal into his grave with him, poor rat who only wanted to live. But you see how I had been educated by that dreadful morning: the rat had to be killed because of my little girls. It was a lesson for me, uniquely my lesson: that death was unavoidable in more than the descriptive way: that creatures do die. I saw that day that sometimes they should die; that it was of a moral necessity that I literally kill that rat. I never had that rat's
+```
+**Co-occurrences**: Ubik, Spirit, Complete, Rome, Form, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+
+---
+### Line 74-82 (Match: 'Death')
+**Folder**: part of
+
+```text
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+
+The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat I tossed the St. Christopher's medal into his grave with him, poor rat who only wanted to live. But you see how I had been educated by that dreadful morning: the rat had to be killed because of my little girls. It was a lesson for me, uniquely my lesson: that death was unavoidable in more than the descriptive way: that creatures do die. I saw that day that sometimes they should die; that it was of a moral necessity that I literally kill that rat. I never had that rat's
+
+Last edit over 5 years ago by A23
+5
+Complete
+```
+**Co-occurrences**: Spirit, Complete, Father, Since, Because, Only, Time, Light, Could, Pinky, Once, Again, March, Dante, Platonic, Still, More, Most, Heaven, Real, Before, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Final, White
+
+---
+### Line 80-88 (Match: 'Death')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by A23
+5
+Complete
+5
+karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done in response to decissions or considerations or needs or directive or to accord with a higher morality which make it binding on one to take life. Therefore I saw the role that death had in the universe: a necessary one (clay pots have to be deliberately thrown back as long as they remain unsatisfactory, and the that rat, honey, was he unsatisfactory.) It showed me that death could not be avoided. But -- I still grieved and I still prayed. Rog Phillips story had a lot to do with my empathy; I had read the story a bit earlier, as I recall. And got the autograph later. The rat came inbetween. This was my baptism into reality, my having to kill this huge gutter-water rat which had gotten into the house and was hiding back in the girls' rooms. As their father I knew what to do. I guess our father (God) knoww what to do, too, when he judges, and now we come to Judgment Day and why it must be so. Exactly as I had to judge and condemn and execute that rat, so must God do this -- judge us all and spare some (accept them) and execute others; he would like to save them all, but the necessity of the structure precludes it.
+
+If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
+
+I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
+```
+**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Upon, Dick, Laura, Love, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Instead, Later, Having, Except, During
+
+---
+### Line 84-92 (Match: 'Death')
+**Folder**: part of
+
+```text
+karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done in response to decissions or considerations or needs or directive or to accord with a higher morality which make it binding on one to take life. Therefore I saw the role that death had in the universe: a necessary one (clay pots have to be deliberately thrown back as long as they remain unsatisfactory, and the that rat, honey, was he unsatisfactory.) It showed me that death could not be avoided. But -- I still grieved and I still prayed. Rog Phillips story had a lot to do with my empathy; I had read the story a bit earlier, as I recall. And got the autograph later. The rat came inbetween. This was my baptism into reality, my having to kill this huge gutter-water rat which had gotten into the house and was hiding back in the girls' rooms. As their father I knew what to do. I guess our father (God) knoww what to do, too, when he judges, and now we come to Judgment Day and why it must be so. Exactly as I had to judge and condemn and execute that rat, so must God do this -- judge us all and spare some (accept them) and execute others; he would like to save them all, but the necessity of the structure precludes it.
+
+If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
+
+I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
+
+I think that in 1974 my entelechy was completed, but I never heard of anyone having his entelechy completed (watch it, Claudia), be-cause this means that the time has ended, not by God intervening, but because the last frames ran through the film ended naturally. Well, see, here is your clue: when the last frames of my film (entelechy) passed faster and faster through the projector, I wasn't perfect; I'm still full of alll
+
+Last edit over 5 years ago by FolkDevil
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+
+---
+### Line 117-125 (Match: 'Death')
+**Folder**: book the
+
+```text
+Oh God, Claudia; the “explosion” is throwing is throwing us backward into lineal time away from the moment of completion/perfection of each of us. What age do you guess? The Savior didn’t say “babies.” I think about 3 or 4 years old, maybe up to 6.
+
+One could say, Before the World took the little child and taught it to see and think only its small way.
+
+Yes, maybe so, Claudia; while the teacher was still the universe. I remember how God, as body-of-God, the universe, taught me, through bugs and bees, the sight of an old blind lady in a great wheel chair. I knew about being bushwacked (by a bee) about old age and death; I knew about the Fish sign, too, the Savior: I called him “Tunny,” from a del Monte billboard for some canned food. We had to travel under the Oakland Estuary in the Alameda Tube, and I saw the tube like a can; at the end we emerged in the sunlight and I saw the billboard with “Tunny” on it. I loved ol’ Tunny, the great fish (like Charley the Tuna now must be to kids). Claudia, I tell you the truth: through (via, not from in, within) such shapes, the true living Archetypes speak to us, especially as children, but now, too, if we liksten. In my kids’ story book the figure of the old king… through him God actually moved toward me, later appearing in a “dream” about my story book,” If you see. I saw this last night, how the drawn figure of the old king is:
+
+The drawing your parent an archetype
+
+The mind receives so well during young childhood. It was wonderful, enchantment, when things spoke, pictures and bugs. Well, God spoke through them via, by means of, them. Utilized them as conduits of resemblances; there we encountered the Queen, the King – and the pieces of the chessboard. I realized the other night, And now, that Christopher is born, I am the wise old king. I will never find him; I can only become him. Bummer. Sad. But I looked at my great arms (I have great arms) and I thought, One must eventually become ones own parent.
+```
+**Co-occurrences**: King, Fish, Well, Maybe, Like, World, Only, Time, Savior, Mind, Book, Could, Being, Great, Still, Through, Living, Such, Actually, Before, True, Universe, Will, Christopher, Other, Under, Have, Things, Body, Claudia, Wise, Later, Remember, Truth, During, Dream
+
+---
+### Line 143-151 (Match: 'Death')
+**Folder**: book the
+
+```text
+Last edit over 5 years ago by Zebrapedia
+9
+Indexed
+9
+It’s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the vestment of my saint statue – that was like it: the bursting forth into life of Spring, in the midst of stark winter. Now, this is obviously a mescaline type of experience. We know that. And I was loaded. And yet, perhaps Ms. Fisher who wrote THE RED FEATHER based that episode on something she experienced once, and in those days no one in the U.S. took mescaline; no one got loaded. The reproach, “Phil, you experienced that because you wanted to; i.e. the swirling vines of new life” is no better an argument than, “You experienced selling UBIK to Doubleday because you wanted to.” Also, “You experienced it because you read about something like that years ago in a child’s book” – of what real meaning is this argument, since we don’t know how the passage got into Ms. Fisher’s novel in the first place? It doesn’t explain why I recall that section, which was minor, which in the novel just showed the child that her difference from the other children included having strange powers; it was exciting, but not good. She didn’t want to be different. (We knew, because of the scene of the baby exchanging.) Obviously, in that scene, Ms. Fisher intentionally or otherwise incorporated something of the Fruhlingszauber: the magic of springtime, as it really would be: those poppies would have sizzled in the snow, being hot. They were hot with life; the fact that Ms. Fisher saw the equation death/winter/cold versus life/Spring/heat isn’t an invention of her head; it is an actual truth. She did, however, equate magic with springtime; fairy power used to turn the winter to spring, to bring life, and therein she touched on something very deep, at the heart of her small readers, like me, who were astonished and touched, but didn’t know why (we knew nothing of the mystery or fertility religions of Greece et al, did we?).
+
+Magic equals life equals warmth equals poppies. Now, poppies are an exotic flower, with intense colors, identified with foreign lands (this I’m sure is why Ms. Fisher chose them).
+
+Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
+```
+**Co-occurrences**: Ubik, Indexed, However, Perhaps, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Real, Greece, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+
+---
+### Line 282-290 (Match: 'Death')
+**Folder**: part of
+
+```text
+Most cats fear the clattering arrival of the grabagemen each week, but Pinky really more detested them than feared them. He hit out under our bed about half an hour before we heard them coming every Monday. He didn’t show fear; we just saw the two unwinking green eyes under the bed where he waited the garbagemen out. There was no PInky, just the eyes, waiting them out, the Bastards.
+
+(B)
+
+Four nights before Pinky died, before we knew he had cancer – I started to say, before he had been diagnosed as having a bruised rib – he and Tessa and I were lying in the bedroom on the bed, and I saw a uniform pale light slowly fill the room. I thought the angel of death had come for me and I beganb to pray in Latin: “Tremens factos sum ego, et timeo,” and so forth; Tessa gritted her teeth but Pinky sat there, front feet tucked under him, impassive. I knew there was no place to hide, like under the bed. Death can find you under the bed; everyone knows that, even little kids. And it looks bad.
+
+It never occurred to me that death was coming for anyone but me, which shows my attitude. I saw us all as painted ducks, on a painted sea, and thought of the Arab 13th century poem about “Once he will miss, twice he miss/ All the world’s one level plain for him on which he hunts for flowers.” We were as conspicuous as – well, anyhow finally I gave up praying, but I remember in particular I kept crying out, “Mors stupebit et natura,” Which I thought meant that death stood stupefied, as if in surprise (as in, “I was stupefied to lean that my car had been towed away.” It means just standing there impotently. That is not what Merriam-Webster 3 says, but it is what I say).
+
+Pinky never noticed the pale light; he seemed awake, but dozing. I think he was humming to himself. Later when I slept, toward morning I dreamed a disturbing dream: the report of a gun being fired close to my ear: a shotgun blast, and when I looked I saw a woman lying dying. I went for aid, but got onto some kind of one of those electric trolley busses by mistake, along with 3 Gestapo agents (I dream that a lot). We rode around forever while I tried vainly to short-circuit the power cables of the bus, or trolley car, whatever it was; without avail. The Gestapo agents seemed confident and read newspapers and smoked. They knew they had me.
+```
+**Co-occurrences**: Well, Like, World, Light, Even, Pinky, Anyhow, Just, Once, Being, Himself, Without, Tessa, Those, More, Most, Before, Finally, Will, Angel, Were, Whatever, Under, Later, Having, Remember, Electric, Dream
+
+---
+### Line 284-292 (Match: 'Death')
+**Folder**: part of
+
+```text
+(B)
+
+Four nights before Pinky died, before we knew he had cancer – I started to say, before he had been diagnosed as having a bruised rib – he and Tessa and I were lying in the bedroom on the bed, and I saw a uniform pale light slowly fill the room. I thought the angel of death had come for me and I beganb to pray in Latin: “Tremens factos sum ego, et timeo,” and so forth; Tessa gritted her teeth but Pinky sat there, front feet tucked under him, impassive. I knew there was no place to hide, like under the bed. Death can find you under the bed; everyone knows that, even little kids. And it looks bad.
+
+It never occurred to me that death was coming for anyone but me, which shows my attitude. I saw us all as painted ducks, on a painted sea, and thought of the Arab 13th century poem about “Once he will miss, twice he miss/ All the world’s one level plain for him on which he hunts for flowers.” We were as conspicuous as – well, anyhow finally I gave up praying, but I remember in particular I kept crying out, “Mors stupebit et natura,” Which I thought meant that death stood stupefied, as if in surprise (as in, “I was stupefied to lean that my car had been towed away.” It means just standing there impotently. That is not what Merriam-Webster 3 says, but it is what I say).
+
+Pinky never noticed the pale light; he seemed awake, but dozing. I think he was humming to himself. Later when I slept, toward morning I dreamed a disturbing dream: the report of a gun being fired close to my ear: a shotgun blast, and when I looked I saw a woman lying dying. I went for aid, but got onto some kind of one of those electric trolley busses by mistake, along with 3 Gestapo agents (I dream that a lot). We rode around forever while I tried vainly to short-circuit the power cables of the bus, or trolley car, whatever it was; without avail. The Gestapo agents seemed confident and read newspapers and smoked. They knew they had me.
+
+Last edit over 5 years ago by Zebrapedia
+```
+**Co-occurrences**: Well, Like, World, Light, Even, Pinky, Anyhow, Zebrapedia, Just, Once, Being, Himself, Without, Tessa, Those, Before, Finally, Will, Angel, Were, Whatever, Under, Later, Having, Remember, Electric, Dream
+
+---
+### Line 308-316 (Match: 'Death')
+**Folder**: book as
+
+```text
+Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected the dead or sleeping man the way the forces of spring/nature revive all sleeping roots, bulbs, trees, etc.; all nature which is not man, and that the cyclic small year is to nature in general as the great year (200 B.C. to 2000 AD) is to the species man. Therefore, in my novel, TO SCARE THE DEAD, if the "Essene" were to awake from his 2000 year slumber, he would bring spring to the character, Nicholas Brady (the name I've chosen for my protagonist), and no separation can be made between this resurrection and the deity Zagreus-Christ and what a bulb esxperiences. So:
+
+In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: his job requires him to fake what he is, to be inauthentic inasmuch as he fronts for the government re the recording artists he deals with. This has produced a schism within him. There can be others, but basically he leads a typically modern inauthentic schismatic existence --note existence, not life. There is no growth, just the constant revolution of the wheel of lineal time which accumulates only dust. So:
+
+When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
+
+Last edit over 5 years ago by Siegman
+20
+Complete
+```
+**Co-occurrences**: Christ, Thomas, Complete, Form, Well, However, Dionysos, Perhaps, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+
+---
+### Line 347-355 (Match: 'Death')
+**Folder**: book as
+
+```text
+Complete
+22
+After all, not all seeds are planted as wheat grains are... there are those concealed whithin ripening fruit: the seeds of the various shrubs and trees. The fruit around them is to entice and to hide.
+
+We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus died as any man dies -- but another Christ, and probably another Paul were born out of and after that. Rebirth does nor mean to return as you were, in a mere cycle; this is where the wheat seed could not have been a wheat seed, because Jesus specifically says that on its own the grain of wheat leads a solitary life, and after it is thrown into the furrow (the grave) it is reborn differently, into a communal life. "Reborn in glory and no longer alone." A single vast plant "the mustard tree in which birds roost" will come about; I think this is what we call the noösphere, and I myself have already entered it.
+
+In March it took me over totally; I was a spectator to my dream in waking life, as it awoke.
+
+If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
+```
+**Co-occurrences**: Christ, Logos, Jesus, Complete, Paul, These, Because, Only, After, Could, Does, Again, Zagreus, March, Runciter, Probably, Those, More, Another, Living, Real, Voice, Will, Deity, Would, Were, Have, Tree, Life, Claudia, Testament, Dream
+
+---
+### Line 405-413 (Match: 'Death')
+**Folder**: book A
+
+```text
+shock to us, when abruptly visible. What is disclosed is that the smaller cycle of the year (rotary time) is an analog of a greater "year" which is extensive for our species; i.e., instead of this Greater Year lasting a matter of 365 days, it lasts thousands of years, which is beyond the range of man as individual but well within the purview of man the race. Seen thus, we are confronted by the stark discovery (or rather disclosure to us by the Dreamer) that the time period --of lineal time-- lasting from the Second Century B.C. to date is Winter, with all the attributes we correctly associate with Winter in the small year-cycle familar to the individual.
+
+(five) This landscape of Winter (200 B.C. to 1974 A.D.) has determined the quality or nature of the lives of all living beings within the lineal span which it underlies: like Kan as the trigram in Taoism, its aspects are Slavery, pain, hopelessness, ignorance, limitation, etc., the true darkness by which we have come to sense our past two thousand years as heavy, a burden, a tribulation, a condition of sin and ignorance, of being but off from God, etc.
+
+(six) Now the great orthogonal time axis rotates into the next "trigram" which is that is Spring, the arousing of life. This was signified by the throwing down of the tyranny here and in Greece and in Portugal, plus similar but less visible declines of physical power over men in the Soviet Bloc. The coercive enforcement of mere power, the ability to compel men, to reify them -- this all constitutes qualities of Winter and is passing. I don't really mean this as a metaphor, because orthogonal time is geniune, and although its axis is by definition at right angles to lineal time (the only time we've recognized until now) its direction is retrograde, in terms of stripping off or melting away the accretions built up as layer after layer of progressively less real reality. Within, deep at the heart of Being, lies the final goal of orthogonal time, which is Restoration of Moisture (cf aspects of Dionysos, as God of the philosophical principle of moistness, versus the evil principle of desiccation, as embodied by the Egyptian god of death, Sit or Set).
+
+(seven) The Dreamer who has kept us dreaming until the moment for awakening arrived (expressed as an intrusion into lineal time, a penetration from without the "Final Days" of Christianity and Zoroastrianism) -- this is best expressed by the discovery that the authentic reality of Springtime lies beneath the inauthentic layers of snow, or of barren and sterile "death," and now revives -- as is always the case in Spring. There is only one Spring, not a procession of many of them; it is the same Spring again each cyclical year. Thus, in the Great Orthogonal Year, this Springtime is the Springtime, not merely a springtime, since the orthogonal time-axis is one of ontology. In our koinos kosmos, now, as in our idios kosmos, or more properly, in our idioi kosmoi, we are being intruded on, as Runciter intruded on those in half-life. The symbol of half-life in UBIK must be viewed as an accurate dramatic representation of our true state of Being: we are only half-alive, or slumbering in our icy
+
+Last edit almost 3 years ago by twsullivan
+```
+**Co-occurrences**: Ubik, Christianity, Well, Dionysos, Like, Since, Because, Only, Time, After, Soviet, Taoism, Again, Reality, Kosmos, Being, Runciter, Although, Great, Viewed, Without, Darkness, Those, More, Living, Real, Zoroastrianism, Greece, True, Egyptian, Beyond, Many, Have, Life, Spring, Instead, Days, Evil, Greater, Final, Right, Until
+
+---
+### Line 407-415 (Match: 'Death')
+**Folder**: book A
+
+```text
+(five) This landscape of Winter (200 B.C. to 1974 A.D.) has determined the quality or nature of the lives of all living beings within the lineal span which it underlies: like Kan as the trigram in Taoism, its aspects are Slavery, pain, hopelessness, ignorance, limitation, etc., the true darkness by which we have come to sense our past two thousand years as heavy, a burden, a tribulation, a condition of sin and ignorance, of being but off from God, etc.
+
+(six) Now the great orthogonal time axis rotates into the next "trigram" which is that is Spring, the arousing of life. This was signified by the throwing down of the tyranny here and in Greece and in Portugal, plus similar but less visible declines of physical power over men in the Soviet Bloc. The coercive enforcement of mere power, the ability to compel men, to reify them -- this all constitutes qualities of Winter and is passing. I don't really mean this as a metaphor, because orthogonal time is geniune, and although its axis is by definition at right angles to lineal time (the only time we've recognized until now) its direction is retrograde, in terms of stripping off or melting away the accretions built up as layer after layer of progressively less real reality. Within, deep at the heart of Being, lies the final goal of orthogonal time, which is Restoration of Moisture (cf aspects of Dionysos, as God of the philosophical principle of moistness, versus the evil principle of desiccation, as embodied by the Egyptian god of death, Sit or Set).
+
+(seven) The Dreamer who has kept us dreaming until the moment for awakening arrived (expressed as an intrusion into lineal time, a penetration from without the "Final Days" of Christianity and Zoroastrianism) -- this is best expressed by the discovery that the authentic reality of Springtime lies beneath the inauthentic layers of snow, or of barren and sterile "death," and now revives -- as is always the case in Spring. There is only one Spring, not a procession of many of them; it is the same Spring again each cyclical year. Thus, in the Great Orthogonal Year, this Springtime is the Springtime, not merely a springtime, since the orthogonal time-axis is one of ontology. In our koinos kosmos, now, as in our idios kosmos, or more properly, in our idioi kosmoi, we are being intruded on, as Runciter intruded on those in half-life. The symbol of half-life in UBIK must be viewed as an accurate dramatic representation of our true state of Being: we are only half-alive, or slumbering in our icy
+
+Last edit almost 3 years ago by twsullivan
+
+26
+```
+**Co-occurrences**: Ubik, Christianity, Dionysos, Like, Since, Because, Only, Time, After, Soviet, Taoism, Again, Reality, Kosmos, Being, Runciter, Although, Great, Viewed, Without, Darkness, Those, More, Living, Real, Zoroastrianism, Greece, True, Egyptian, Many, Have, Life, Spring, Days, Evil, Final, Right, Until
+
+---
+### Line 418-426 (Match: 'Death')
+**Folder**: book A
+
+```text
+(eight) Those in half-life are not dead, nor is the root slumbering under the snow (the symbol of both Christ and Dionysos: it looks dead but is only asleep, waiting to be awakened by the voice of spring). We are those slumbering roots. We are dormant. It is difficult intellectually to understand this, that we are neither fully alive nor fully dead (Aristotle taught us that we have to be A or not-A), but in fact these thousands of years for our species, and for our animal friends as well -- these are nothing but a long winter in which half of us (expressed neurologically, perhaps, by the fact that we use only one of our brains, or the left hemisphere) is alive and the other half has not yet come to life. Many of the parables of Christ, familiar to those who knew the cryptic sayings of the mystery religions in general, refer to this (the grain of wheat which must be planted; we are now sorrowing in childbirth, the treasure buried in the pasture, etc.).
+
+That the Final Days should be in fact a springing up into full life, complete life, going from seed (vide the parables and especially the Pauline Texts, plus the Orphics' doctrines and Neo-platonism, etc.) -- going from dormant seed slumbering under the snow of Winter and then hearing/feeling/sensing/knowing the voice of moisture and warmth and Spring, the voice of God saying, "The time has come! Wake up!" These are authentic commands coming to us in dreams, and are no less real and no more real than what the ordinary seed experiences in its own fashion; we are all one in that regard...except that our orthogonal Winter has lasted for one hell of a long lineal period; it seemed as if it would never end. But Winter always feels that way; each seed, each slumbering root and bulb, must in its half-life state, buried in ice and waiting, experience all of this: we share a common reality.
+
+From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
+
+Sorry to take so much of your time here, Ursula, but in my dreams I saw the words CANTATA 4, and when I had read the text, I began to understand.
+
+Last edit almost 3 years ago by twsullivan
+```
+**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+
+---
+### Line 480-488 (Match: 'Death')
+**Folder**: book about
+
+```text
+Last edit almost 3 years ago by twsullivan
+30
+Complete
+30
+Jane Harrison in her PROLEGOMENA TO THE STUDY OF GREEK RELIGION, discusses the notion that Dionysos was the same as the ancient Greek philosophical principle of moisture, which makes me recall that the Egyptian god of death was in more precise terms the god of desiccation, the god Set or Sit. Here in the one short stanza of Pindar we have flock, we have trees, we have in addition to these two major symbols of Jesus, terms by which all the exoteri recognize him yet, two more inner terms: the root and the star.
+
+Dionysos appeared to the Greeks in vegetable form (root, tree, vine) and animal form (bull). He could influx himself into a human being and be him or her as well, as you and I know. What are names? This is the god of in-toxification, taking in poisons in a quantity small enough not to kill you but large enough for you to be lifted up to see outside space and time, and to come into a relaitonship with those vast powers who run the universe.
+
+And then later, "...He is drunken with music, not with wine." (Jane Harrision.) By stealthy degrees Dionysos became Zagreus and then Orpheus. The trouble with Jesus is that he isn't musical. I guess they could use lipsynch, but the fact is, Jesus is Orpheus, and Christianity is the next mirthful dodge which the Loving Dodger has worked on us, those whom he loves. I have this vision of Him: much like the Hurdy-Gurdy Man: I see Him invisible to us behind us as the flock moves on, and I see small stragglers and old stragglers and stupid stragglers and sick stragglers and stragglers in general who have given up hope or lost energy and have given up to perish as the flock or pack or herd or culture or race marches on, without a look back. And sparkling with light and silently, He emerges and without breaking stride gathers up all the stragglers.
+```
+**Co-occurrences**: Jesus, Complete, Christianity, Form, Greek, Well, Dionysos, These, Like, Time, Light, Could, Look, Zagreus, Being, Himself, Without, Those, More, Star, Universe, Back, Egyptian, Have, Tree, Later, Human
+
+---
+### Line 805-813 (Match: 'Death')
+**Folder**: part segment
+
+```text
+51
+Jesus spoke of a coming "Kingship of God" which, He said, "Is among you/ around you/ within you." It could arrive any time. When it arrives, many men, most men, won't know. Since God created this world in the first place, the angle of error may be slight, and the percentage which He must remove and change may be relative, small. Is all this world, every thing and creature and idea and object in it, objectionable to God and a produce of the Adversary? Obviously not. Suppose there were a subtle seizing of power, behind the scenes as it were, by the Rightful King. He would retain the present order by and large, disturb as little of it as possible, act in an economical way to take control. We might only sense that some oppressive power had departed; some burden and fear had lifted.
+
+That this has happened I am positive. That so little has changed shows how slight the angle of error, the element which had to be "burned off like chaff." Death still exists; Jesus and Paul always said that this body would have to live out its natural cycle and die away, for the other body to replace it, which comes later. The main thing is, This world is under control, now, and two main spirits reign: Truth and Justice, although they are of necessity unfolding in time (i.e. it takes time, because sequence is necessary). This world does not operate on its own, independently, and having fallen into the hands of tyrants and liars. Truth and justice lie at the heart, and work out judiciously, where needed; they now, in a distinct and real sense, although subtle, prevail, and nothing can ever change this; any set back, or any retention of the lie, is only apparent. We must not go on what is apparent; that was never a good index. But, in another way of viewing this, we can say that at last that which is apparent, which appeard to be, in actuality is. This was not true before. There are no further real secrets, and no further fake facade cardboard Thought-control hypnotis pseudo-reality managed and manipulated, no invisible empire of police and criminals and dangerous covert power. What meets the eye can be trusted, except that still hidden to most people is the heart, not of darkness, but of light; it is the pulse at the core of things, whereas not so long ago at the core of things rotten darkness stank and conived.
+
+We have a concentric-ring society, and the innermost ring has been burned off by the fire, has now been replaced by light, by God, and this is parallelled by a discernment outside, by those on the rim, that the Lord of Hosts has in fact suddenly come to his temple, announced by the messenger of the covenant whom we delight in...as Malachi put it. There was a swift arrival (mainly by Elijah), a swift victory over the darkness, a tossing down of the tyranny, and then the enormous judging and destroying power was withdrawn and replaced by an assisting and healing power. Advocacy for the weak and oppressed is no longer necessary, now that God rules. Healing (as if after a battle which was won) has been in order, and so done. Finally, the freeing of the many
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Jesus, King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+
+---
+### Line 813-821 (Match: 'Death')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+52
+Needs Review
+52
+prisoners, the giving them their first glimpse of the pasture which is their reward. It is as if humane people came across a place where animals were imprisoned under cruel conditions: overworked, starved, animals which were ill and unattended, and, finally, put to death in vicious ways without release or reward, with no recompense. At once, these humane visitors seize the owner of this cruel factory and depose him; then they see to it that the sick animals are given medical attention, food, sanitation -- all their just needs looked after...but most of all, these animals, ill-treated all their lives, are to be made to understand that finally they will go out into this great lush pasture forever, and never never at any time --this is a promise-- returned to the dark servitude which they had suffered under. The original owner of this slave prison, this factory, was deprived of everything he'd built up, his profits, and dealt a stunning blow which nearly destroyed him; most of all, judgment by the intervening humane people was swift, and in favor of the imprisoned, powerless animals, and entirely on their side against their obscure oppressor. Judgment, assistance in a short swift battle, medical help, food, a variety for them to see, now, as soon as possible, so they would know...especially since some would be too ill, too far-gone to be brought back. They deserved to see now, and not have to wait. "Look what lies in store for you," the humane intercessors would be showing them, when they knocked away the always before so evidently impenitrable wall of the prison. "Look beyond," and there would lie vast fields, grass, and the hillsides. Springtime, beyond the broken-open prison wall. First the animals would see the prison which surrounded them which they had mistaken for reality; it was not: reality lay beyond, and the prison would be knocked down entirely eventually, although that would take time. To free so many trapped and ill-used animals would take a while. But the cruel tyrant boss who had rules -- being deposed, he could not keep the prison going, as his father before him had. Although it had existed thousands of years it was decisively gone, now, even though many animals, so enured to their life, so sure that it was the only life, or rather only existence, would not see or understand at first.
+
+Or, more accurately, at one time the plant or organization had been well-run and regulated, in a fair and human way, and then the true owner and ruler had assigned stewardship in his absence, and had gone on a journey, with promise that while he was gone it would be run properly. The time of his return was uncertain. Those left to run it were like kids a whole bunch of kids left by their parents to tend themselves, or perhaps kids to be taken care of by a hired attendant. I think the first model is most accurate. Suddenly the parents return. It is like LORD OF THE FLIES. Horrified, they find that some kids, the shrewder, stronger ones, have enslaved the others; the whole house is a shambles, with fighting and breaking going on, a descent into barbarism...the parents line up all the kids and judged each according to what that child was doing at the moment the parents returned.
+
+Elijah, coming immediately before God, played a multiple role: he refined those whom God wished to save rather than destroy -- i.e. he got them into a fit condition so they would pass muster. I guess it's a form of tipping off those kids you wanted tipped off that you're about to reappear and check out everyone. You send a messenger in advance who
+```
+**Co-occurrences**: Form, Well, Lord, These, Perhaps, Elijah, Father, Like, Since, Prison, Only, Time, Harpax, After, Even, Could, Just, Look, Once, Reality, Being, Although, Everything, Great, House, Without, Those, Their, Wait, More, Most, Before, True, Messenger, Finally, Will, Would, Were, Back, Beyond, Under, Many, Have, Journey, Judgment, Life, Dark, Suddenly, Human, Evidently, Free
+
+---
+### Line 823-831 (Match: 'Death')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+53
+Needs Review
+53
+carries with him a friends list. The messenger, Elijah, shapes up and squares up each person on the list; this involves making him pious, and directing him to engage in good works; he is good of attitude and good of action. Let's say there is a five to six month period in which the persons are reshaped and refined and reworked. They are born anew, in God, and it's a hard row to hoe. They are acquainted with the true nature of reality, and the true situation confronting them. They become conscious of their forgotten origin and task (anamnesis). Setting to work, they aid in the Great War against the Lie, offering themselves as sacrifices. They sustain mortal injuries in that fight, but accept it, confident in their tasks and their God. While lying bound up, as if in the "Todes Banden," the bonds of death, they see the surprising, sudden awful glare of the Day of Judgment; at this point, Elijah has seen to it that they are in proper shape to escape the Wrath and to please God. Even so, the loving sacrifice, their Savior, is present to absorb both the blow (Pinky the guru) and the sin, the toxin, the guilt (Ralph, as lamb). The person is lovingly accepted by God and goes to join him, although he continues on here, since the Kingship (Kingdom) is now here, rather than "beyond," or "in heaven." Thus, this experience comes without him having actually physically to die. All this, including the restoration which is his reward, the green grass, the pasture, is here.
+
+The whole experience seems to take about one full cycle of the earth: one year, beginning at the vernal equinox. Thus it is identified with the departing of winter and the reappearance of the lost spring.
+
+This whole last year contained a lot of pain and shock and loss for me (I was hospitalized twice, my son once, I lost two cats in very sad ways, and had to get rid of my little dog, and was burned on my first screen play), but it was the best year of my life, because somehow within the illness and loss and pain I gained an inner reality to match the external reality. There is no point in merely establishing an external new real kingdom or kingsom. God must reign in the human heart and body as well. It is the ultimate growth: to turn into a portion of God ("that I might live in Him / Invisible and dim") and continue on, knowing that He is both inside and outside. I can say that although I have not seen God, I saw signs of Him, indubitable signs. And knew Him to be growing within me, as the new life Firebright, from the Sun...the Aton, I guess, which Iknaton spoke of, that good tender trembling frail brave man.
+```
+**Co-occurrences**: Kingdom, Well, Elijah, Since, Because, Earth, Harpax, Savior, Good, Even, Firebright, Pinky, Once, Both, Reality, Although, Great, Anamnesis, Without, Their, Heaven, Real, Actually, True, Messenger, Somehow, Kingship, Very, Beyond, Have, Judgment, Life, Body, Spring, Having, Human, Lamb
+
+---
+### Line 839-847 (Match: 'Death')
+**Folder**: part segment
+
+```text
+exam merely determines whom the teaching benefited and how much. Viewed this way, Divine Judgment was a searching out, a scanning of each person, to determine who had learned anything, rather than who had done bad. What was wrong in my case was that I still had a lot to learn; thereupon I took a vast high-speed training course, in which I learned what I never up to then learned: that God is filled with joy and love, that He has infinite patience, and that He desires me to come to Him in fit shape. There are no other criteria, such as being a "Good" person. God is above that, since His love is a refining love, in the light of which one is transformed; it is impossible to feel God's love and to desire to harm a living thing.
+
+I am less in doubt that this was the Parousia (I am not in doubt about that at all; it is exactly what Jesus and Paul anticipated, if not John) than I am in doubt --in perplexity-- as to whether it was solely in my own world, my idios kosmos, that it took place. Does the koinos kosmos remain the same? I don't think, really, that is has. But no one else that I know of (sic) saw what I saw, which by general standards at the very least limits it to a subjective experience, a personal one, for me alone. I think that seeing the signals around me firing, the living organism, may have been what Malachi meant by "The Lord of Hosts shall suddenly some to his temple," etc.; suddenly He was within everything, and visible, at least to me. "At least to me." I saw His presence. Perhaps I err when I assume that He had always been there, but not visible to me; that my eyes were suddenly opened to what had always been. Maybe he Had been gone, came back; my eyes were opened and He came back and there fore I saw Him. If my eyes had been opened a month earlier I wouldn't have seen Him because He hadn't arrived then, as yet.
+
+Let us consider the miracle involved. When God enters time, when he pierces our world, he pierces the veil and rends it -- where go the usual categories of personal-subjective, then-now etc? Did He come for all men or just me? Will what happened to me in March 1974 still later on happen for others, or did it happen once for everyone? This is the same question about Christ's death on the cross; does he really die again and again for each man, so-to-speak sequentially, or simultaneously, which is to say, once? I think both are true; the usual categories don't apply.
+
+I am a child trying to understand adult concepts.
+
+As in FROLIX 8 -- the change rushes across the world, the way I saw the black band rush across the sky on Good Friday: the band that joined the old universe with the new...and in that instant as I and Laura watched, I understood that we were on film, on a loop. This 3 - hour strip rushing at so high a speed -- it tied the two ends together. And started the sequence anew. Thus, back in 1962, my first mystic (sic) understanding of Easter, and of the Death on Christ, the dead god -- in the bonds of dear "Christ lag in Todesbanded," etc. I saw it then. What I saw then was real and I knew it then to be real; what I experienced in 1974, which was maybe 12 year later -- at the same time of year...it was real, too. We can maybe resolve this when we ask, Then you play your LP of Beethoven's 7th symphony, is it a different performance each time? Does von Karajan repeat it? One hears it again and again, but it is the same: like the archetype, printing out: the die stamping. What we hear is the "print."
+```
+**Co-occurrences**: Christ, Jesus, Paul, Parousia, Lord, Perhaps, Maybe, Like, World, Since, Because, John, Time, Black, Good, Light, Does, Just, Once, Again, Both, Kosmos, Being, March, Everything, Divine, Frolix, Viewed, Beethoven, Still, Living, Real, Such, Laura, Love, Consider, True, Easter, Universe, Will, Friday, Other, Were, Very, Back, Have, Judgment, Later, Whether, Cross, Dead, Suddenly
+
+---

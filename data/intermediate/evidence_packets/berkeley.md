@@ -1,0 +1,353 @@
+# Evidence Packet: Berkeley
+
+- **Category**: Top Term
+- **Total Mentions**: 31
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 194-202 (Match: 'Berkeley')
+**Folder**: book of
+
+```text
+Indexed
+12
+March 2, 1975
+
+Mrs. Phyllis Boucher 2643 Dana St. Berkeley, Calif.
+
+Dear Phyllis,
+
+I have long thought about you, wondering how you are, and my having just now written the short enclosed piece, which is about Tony, gives me pretext to write you as well as the opportunity to extend this copy of the piece so that you might read it. My love and memory of Tony are combined in this, although I must admit in a rather odd way; the reason is that this was commissioned by the Sufi Magazine The Real World, which is a very good magazine (it is put out by Tony Hiss, you writes the “Talk of the Town” in the New Yorker, and boasts such people as Robert Ornstein in its staff; it is what they call (ouch) a class magazine. The paper is high quality, too.
+```
+**Co-occurrences**: Indexed, Well, World, Good, Just, March, Tony, Although, Real, Such, Calif, Love, Very, Have, Memory, Having
+
+---
+### Line 3951-3959 (Match: 'Berkeley')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+23
+Needs Review
+23
+I have no doubt that he could rise to the surface of everything + even one any time he so desire + thereby abolish J-7's world. How differently people would behave it they knew of his immanent proximity! What the Hindus call "reabsorption" could hapher in the next second - which is why the master spoke of the day of judgment in the terms he did as an immediate event (to one who saw as he did, whit is the way I saw temporarily, it is immediate!!). No object of this world is as close to me as he is, since he is me I exist only because he does (the "ground of being"). "They reckon ill who leave me out when me the fly I am the wings one thinks here of Bishop Berkeley's view of the univese as aided in the mind of God; I prefer what I saw (part of the Gnosis, i.e. of Christ's true revealed gospel): the one the vast universe- organism with us as "stations" in it like bees in their hive. All that can change vis-a-vis our relationshy with God. is knowledge of (the Gnosis). i.e. whether we see (perceve) + experience him or not + to what degree, nonetheless he is always immediate in the "Razor case" sense; thus it is by the Gnosis + it alone that we can know God; this expresses the ultimate value + worth + purpose of the gospel: when it has been revealed to us we are again with God, + realize we have always been + always will be like when a microscope enables you to see what really is in a drop of pond water; the uncellular organisms, don't come into existence + disappear when you put the microscon thee + ther take it away; the rational human mind ca construct the continuity by logical reasoning (inference). the tey restoration is this: by restoring man to his origid state, he (the man) can then perceive the Kingdom of God + can (exactly as I did) then enter it
+
+Last edit almost 3 years ago by svayambhu108
+24
+Needs Review
+```
+**Co-occurrences**: Christ, Kingdom, Like, World, Since, Gnosis, Because, Only, Time, Mind, Even, Gospel, Could, Does, Again, Kingdom of God, Being, Everything, Part, Their, Ground, Nonetheless, True, Universe, Will, Would, Have, Judgment, Whether, Knowledge, Human
+
+---
+### Line 5046-5054 (Match: 'Berkeley')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+33
+Needs Review
+33
+30 the freedom + vision of the artist to see reality (the wrld, universe) in new (+ "dangerous to society") ways, + to fight for the [political, right to such a vision. (Qu. My vi speech, Vancouver speech, letters). The God I saw is the God expressing himself in the historic change, process (he came out of the desect (the God of Moses) + entered history at that point. Continuous creation now goes on in history not nature; the historical process + the process. Whit is fashioning (by God's design-Logos) the next new man. the "Romans" represent the old, the imprisoning, the antiquite the holding free individual back imprisoned in "approved" categories + (limited) ways of thinking. My influences (in me) are (erman Romantic, Greek philosophic + theological - the new political German protestants (+ Drking, Jim Pike barth May + tillich, + the exist. P psychologists). The view of me held in Germany + france + the up is the correct one; the issue is the individual creative new vision + man vs traditional autherity + the lesser man constrained - hell back in the historic change process- by it. This includes Christianity as an authoritarian fissilized structure my vast fear + paranoia prior to 3-74 was my total (Berkeley - sprung) awareness of (the) evil historic processes at work, + my (correct) sense of being passive: a victim to + of then. in 3-74 I achieved (was given) a vision of the absolute forces at work shaping (controlling) history behind the malign apparent oes, whereupon I switched over from bein victim of the evil apparent forces + became master of - in active relation to - + in harmony with - the absolute real benign ones - an agent of them Wha appeared in my mind in 3-74 was the certitude, the absolute knowledge. That we could win. That I was not a Romantic tragic hero who had commuted - brave but hopeless gesture + was doomed for it. The forces whom I had opposed - + the equally repressive reactionary authorities of the USSR. they our enemy. were the ones who were doomed. Our time (for victory) had come. What we are dealing with here is an entire evolutionary step upward (forward) + against slavery.
+
+Last edit almost 3 years ago by svayambhu108
+34
+Needs Review
+```
+**Co-occurrences**: Logos, Christianity, Greek, Roman, Time, Mind, Could, Reality, Being, Moses, Himself, Pike, Real, Such, Jim Pike, Universe, Creation, Were, Back, Absolute, German, Freedom, Evil, Knowledge, Free, Right
+
+---
+### Line 5089-5097 (Match: 'Berkeley')
+**Folder**: part process
+
+```text
+Last edit almost 3 years ago by svayambhu108
+40
+Needs Review
+40
+29) Hegel: "that which exists is not so much pure mind as mind writ large; i.e. the universe is penetrated by mind + exists for the sake of mind, + it cannot be understood unless this fit is grasped. Hegel didn't ding there was an independent world of nature but nature was there for mind to master it, + in So doing to discover itself. The "I-thou" situation: I & not-I. very good - to refute Berkeley + Leibnity "Human affairs can be understood as it were, from within (as collective (human) mind at work. But not the universe qua universe Hegel says, however: No, but human affairs + the universe can be thus understood. "The world of nature for Hegel is in one way independent of mind: it's being is certainly not its being perceived. Nevertheless, it is relevent to mind in all sorts of important ways: in providing a setting in which mind can act in constituting an obstacle that mind can overcome in presention mind with something seemingly alien in which it can nevertheless find itself insofar as it discovers nature to be intelligible... By transforming the natural scene men make it their own [like the world of human affairs] they cone to know what they can do, + Thus what they are. "Reality is a single self-differentiating system, all the parts of which are intimited connected; it is spirit expressing itself in the natural + human worlds + coming to consciousness of itself in so doing "EB: "The extra t ordinary fascination of this strange but remarkable type of philosophy" t the frequently experienced sense of the unreality of familiar things + the presence behind them of another order entirely" (Platonism) Hegel: "It is not maintained that mind alone exists (as in Berkeley + all thorough Idealis) a universe most be astrated material things are, in me way, taken to be as real as minds. The thesis advanced is rather that the by it. universe must be seen as penetrated by mind, indeed as constituted Spirit is the fundamental reality + everything that exists must be understood reference not lither as directs explicine in spiritual terms or as prefiguring or pointing forward to spirit Hegel had little or nothing to say about epistomology.
+
+Last edit almost 3 years ago by svayambhu108
+
+41
+```
+**Co-occurrences**: Spirit, However, Like, World, Platonism, Good, Mind, Something, Reality, Being, Hegel, Self, Everything, Nothing, Their, Another, Most, Real, Certainly, Universe, Were, Very, Things, Unless, Human
+
+---
+### Line 6397-6405 (Match: 'Berkeley')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+33
+Needs Review
+33
+( remembering what had once been formerly there - i.e. memories of the past. This was the kind of memory (ah! involved in waking up. Consider the difference. When you wake up, say from a dream that you are, say, a younger person living in Berkeley again, you remember that you are in Santa Ana, not were. Fascinatingly, I have selected a dream in which there is retrograde false time (delusional temperal reversion). But in the matter of a my anamnesis it would appear that the dream is not of the past - i.e. not regressive time - but of a dream future (AD 1974). Yet we all mutually believe in it (the world of 1974, Now 1974). Doesn't that make it real? This problem, that of joint hallucination, is adequately dealt with in "Maze" when they all plug into polyencephalic fusion + are computer fed a fake reality. AD 70 is to AD 1974 as persus a is to Delmako. The same kind of fake shared world crops up in Ubik" + as I recall "stigmata." Anyhow "Maze" will do They remember the persus 9 reality not as former to the Delmako one (although in a paltry meaningless sense it is) But, rather, the persus a reality is going on at the same time as the Delmak-o one, only they have mutually denied the real persus a reality in favor of Delmak O. This is like the night I aspirated, got up + thought I was in a hotel room with Joan; then I remembered not I was in Santa Ana" (past tense) but "I am really in Santa Ana," + had been all during the experience. This is the sense in which I remembered it was AD 70. I didn't think, "I once was - used to be - a secret illegal Xtian against the Romans"; I remembered, "I am the above." 1974 was delusional, a form of sleep, a dream - imaginary - all this fitting in perfectly with my 27 year epistomological scruting - a spectacular break through! We aren't really dealing with time, in a sense, but with states or degrees of awareness, except insofar as the delusional world is set in 1974 + the real one in 70 AD.
+
+Last edit almost 3 years ago by svayambhu108
+34
+Needs Review
+```
+**Co-occurrences**: Christian, Ubik, Form, Roman, Maze, Like, World, Only, Time, Stigmata, Joint, Anyhow, Once, Again, Reality, Although, Santa, Anamnesis, Through, Living, Real, Secret, Consider, Will, Would, Were, Have, Fake, Memory, Remember, Except, During, Dream, Doesn
+
+---
+### Line 8198-8206 (Match: 'Berkeley')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+121
+1 I will herewith revert to the corl content of my original 2-3 (74) revelation:: It is really only about 70 AD, + over this true reality the artifact has projected an illusionary veil causing the world to seem to be 1974. Actually I have 2 sources for this realization 1) In 2-74 (+ later in 3-74) it was revealed to me that despite all appearances (what I now know to be the projected world of the enslaving artifact) the time is 70 AD + the place Rome. +: 2) If the above is not true, if the time is as it appears - 1974 - then Christ misinformed his disciples as to his return. i.e. my 2-74 revelation agrees with prophecy of the N.T. whereas the world as it seems refutes that very prophecy about his return. + 3) I did hear the voice saying "St Sophia will be born again..." etc., which ties it all up yet, as stated in my "cosmogony + cosmology" II envision the artifact as an instrument of the urgrund (vide.) How, then, can it really. Still be AD 70 Rome? I answer: the urgrund is capable of having it be so, by its very thought alone (cf Xenophanes + Berkeley) the world of AD 70 Rome is not a mere spurious pro‐ jection; it is the ontologically real substratum of the Urgrund itself (which came here then as Christ). + when the urgrund extirguishes the projected pseudo‐ world of 1974 by annihilating the artifact - its purpose serves - we will see the real world which hasn't changed since the 1st. Advent. Only at that time was our otherwise projected world ever real. The next time ser will be real will be at the 2nd Advent, which will (merge with the first.
+
+Last edit almost 3 years ago by svayambhu108
+122
+Needs Review
+```
+**Co-occurrences**: Christ, Rome, Sophia, Advent, World, Since, Only, Time, Urgrund, St Sophia, Again, Reality, Still, Xenophanes, Real, Voice, Actually, Revelation, True, Will, Very, Have, Artifact, Later, Having, Otherwise, Whereas, Answer
+
+---
+### Line 12986-12994 (Match: 'Berkeley')
+**Folder**: part of
+
+```text
+Indexed
+3
+3
+
+Bishop Berkeley [see p. 6] felt the world was not there in the sense we think it to be, but was God acting directly on us to cause us to experience it. I presume one irreal world + another which is - If only they had used "Noös" instead of "God" as their term. I see a sentient world replacing a blind + mindless one (as Pascal points out: the universe "Does not know"). This is the single idea I believe outweighs all else I've come to believe, know, understand. We are confronted by process, + this is the process. This was Plato's cosmology. By this one can understand undeserved suffering (the lower realm: mindless) + salvation (the action of the upper with its psyche Christ). That totality could be partly this + partly that, not all of one piece - Noös grows in its sovereignty; this is what time is, this extending process. God as invader in our (lower) world - who has ever grasped this? + at the same time spaceless inside us: already here from the start, but silent. Waiting to link up with its macro form + thus abolish the two realm structure + arrive at God as all-in-all-+-all. God in unitary macroform rescues + liberates the plurality of micro (inner) forms. Salvidor Salvandus. The progressive activity of mind overruling blind chance-+-determinism - the miraculousness + beauty of it, the wonder of it; this is what I saw, + this is what saved me. Not everything is part of the divine plan - but the divine wins in the end. No matter what card is thrown down it can always pick it up.
+
+Last edit over 5 years ago by Toso
+4
+Complete
+```
+**Co-occurrences**: Christ, Toso, Indexed, Complete, Form, Plato, World, Only, Time, Mind, Could, Does, Realm, Everything, Divine, Part, Their, Another, Macro, Universe, Instead, Upper, Lower, Salvation
+
+---
+### Line 13013-13021 (Match: 'Berkeley')
+**Folder**: part of
+
+```text
+6
+6
+
+In his resurrected (ie cosmic + discorporate) form does He perhaps reveal his presence (Parousia) just to a few (Mark's "secrecy" theme)? + am I one of those few - dare I believe that without hubris? What else could explain my 2/3-74 experience? It wasn't just (sic) the Holy Spirit because I saw it/him/her outside me, overruling causal trains - it was in me + outside me, + I saw Rome at the time of Acts, + found that world depicted in "Tears" + the Kerygma of exculpation; also, what appears to be the Kerygma of His presence. (Disguised in the book - hidden, but there.) (The proclamation hidden, Him hidden.) The secrecy theme - the hostile world of evil powers who are not to know! Their world (realm II) is being secretly transmuted out of their control. ___ Berkeley's theory about God causing us to experience the world by Him operating on us directly, + the world not real - this is Lem's problem as stated, "Could a brain which is being fed a spurious reality detect it as such - ie to be spurious?" A technological foul up would equal a dysfunction such as a major time dysfunction: ie the person (ie brain) suddenly fed a different "tape" (world), giving it 1) not only a fading out of one world, but in addition 2) a fading in of another. In such an
+
+Last edit over 5 years ago by Toso
+7
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Toso, Indexed, Spirit, Holy, Rome, Holy Spirit, Form, Parousia, Perhaps, World, Because, Only, Time, Cosmic, Book, Could, Does, Just, Kerygma, Realm, Reality, Being, Without, Brain, Those, Their, Another, Real, Such, Would, Evil, Suddenly
+
+---
+### Line 13021-13029 (Match: 'Berkeley')
+**Folder**: part of
+
+```text
+Indexed
+7
+7
+
+event using either Berkeley's or Lem's model you would (as individual brain) have the necessary evidence. Were the world substantial + hence the sole world, this could not happen. + Zebra did act directly on my percept system. Then I have my epistemological solution: dysfunction or foul up, or de-occlusion - the result is the same. To someone who might object to Berkeley's hypothesis as pragmatically meaningless, I say, "wrong." If Berkeley is right, we are linked -not to an it- but are confronted by an intelligence, + one greater than our own. Second, the presented world could be taken away + another one substituted. Third, God could unveil himself as that which we confront: the occlusion, posited herewith, could be lifted + we could see a "you" not an "it." I think my 3-74 experience confirms all this. Then there is an epistemological reciprocal verification between 1) seeing Zebra; and 2) seeing another space-time world, esp since Zebra was "spider-like" ie weaving reality, changing it. It obviously generates whole worlds, + impresses those worlds on our senses.
+
+Last edit over 5 years ago by Toso
+8
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Zebra, Like, World, Since, Time, Could, Reality, Obviously, Himself, Either, Brain, Those, Another, Would, Were, Have, Greater, Right, Someone
+
+---
+### Line 13101-13109 (Match: 'Berkeley')
+**Folder**: book properly
+
+```text
+16
+17
+
+I should not say merely, "I saw Rome CAD 45" but rather, "I saw the antithetical confrontation between Rome CAD 45 + the early secret Xtians." It was an activity, as well as a thing (Rome as thing). That this activity exists could explain why we don't see it: the thing uses a tactic of concealment to preserve itself. This fits the "replicating virus" theory of Burroughs - I would say as Gestalt, as shaping (+ certainly as functioning). It has a life cycle of sorts. It is an organism. But, again, is time spurious? The temporal accretions are somehow not quite there. Yet Rome is there, all right. Ah! It penetrates (pervades) the accretional layers, like electricity through iron. Now, I saw Zebra penetrating matter. Rome, too, penetrates matter. I call upon Berkeley + say, it (matter) is not truly substantial but a so-to-speak medium, through which the 2 antithetical realities (!) contend. Then both Rome + Zebra (my God!) are trans- or supratemporal; ie of a higher reality. Zoroastrianism. Qumrān. They are both transtemporal constants. Then the temporal accretions are simply "onion rings" penetrated by the constants locked in blow + counterblow. To neither of them is time experienced as linear. Then "Rome" is a living or quasi-living entity, more than a thing.
+
+Last edit over 5 years ago by Toso
+17
+Indexed
+```
+**Co-occurrences**: Christian, Toso, Indexed, Zebra, Rome, Well, Like, Iron, Time, Gestalt, Could, Again, Both, Reality, More, Through, Living, Upon, Certainly, Secret, Zoroastrianism, Would, Somehow, Life, Burroughs, Neither, Right
+
+---
+### Line 13283-13291 (Match: 'Berkeley')
+**Folder**: part temporary
+
+```text
+As I figured out once before, that way the recipients of the coded info can't be identified. (Contrast this method to the Xerox missive.) Ah! Realm I is at CAD 45; Realm II is at 1978. (Am I repeating myself? Oh well.)
+
+{Illustration:} I {trigram for Heaven} Real time: CAD 45, the Roman Empire + the infant church. II {trigram for Earth} Spurious time: AD 1978. Or world of "Tears." Any world you want to name.
+
+To experience Acts time + place is to encounter the upper realm, which has plenary override power over the lower realm. My stories + novels in which spurious realities are depicted refer to realm II. The two realms have split apart. The brain invades Realm II out of Realm I, camouflaging itself + its thoughts. Realm II is dokos over the actual. Significant for Realm II -+ us- is the return of Christ, which came when promised. He descends into Realm II + disassembles + annexes it piece by piece. As each piece is captured it is freed. 27 years of trying to chart the contours of the real landscape concealed by the fraud; at last, accomplished in "Tears." I always presumed a bogus phenomenal world. This approach finally paid off. Again + again I put forth the notion that your world -+ your memories- could be delusions + you would have no way to detect it (cf Lem's statement of the problem: the brain fed spurious reality; is there any test by which it can tell?) (+ I relate this to Berkeley's idea of God directly feeding world to our percept systems.)
+
+Last edit about 5 years ago by Toso
+38
+Complete
+```
+**Co-occurrences**: Christ, Tears, Acts, Toso, Complete, Xerox, Well, Empire, Roman, World, Time, Earth, Could, Once, Realm, Again, Reality, Missive, Xerox Missive, Brain, Dokos, Church, Heaven, Real, Before, Finally, Would, Illustration, Have, Info, Upper, Lower
+
+---
+### Line 13439-13447 (Match: 'Berkeley')
+**Folder**: part future
+
+```text
+Indexed
+57
+58
+
+it could not be detected - like Berkeley's theory of reality, it's a self-negating theory in terms of verification. Fine. Zebra wants it that way, so that must be the best possible (sic) way. So its messages + subliminal promptings + historic interventions can continue sub rosa, + the ultimate plan of salvation fulfilled. So I say, 1) an interface brain made up mainly of humans exists by which a vast mind exerts "wielding" over the physical world; + 2) it total camouflages itself, working beyond (outside) the limits of our perceptions; + 3) historically we know it as the Paraclete, but are allowed to suppose it isn't real or has left - fine. I saw what I saw, + am delighted that it could make use of me. It saved my life + was very loving + tender + wise. + even though I can no longer see it, I know its sentience steers the world (cf Timaeus) vs blind necessity/chance. ___ Argument that the knowledge -memory- was in me, + disinhibited: When I saw the Golden Fish + heard her words I remembered (2-74). Supposition: the 3-74 experience was a continuation -a fulfillment- of the process begun in 2-74.
+
+Last edit about 5 years ago by Toso
+58
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Zebra, Fish, Golden, Like, World, Golden Fish, Paraclete, Mind, Even, Could, Suppose, Reality, Self, Brain, Real, Timaeus, Very, Beyond, Life, Memory, Wise, Knowledge, Salvation
+
+---
+### Line 13484-13492 (Match: 'Berkeley')
+**Folder**: part of
+
+```text
+63
+
+can testify that much of what the transmitter (Zebra) (Logos) says does not accord with what the powers of this world say. The true church seems to be secret + small. + persecuted (that's why, like Zebra, it hides itself). It told me not to cop to being part of that church.① As I now conceive it (to recap), the initial living info bit must grow to the totality for the "blitz" to occur: the quantum leap inside the person's head, such as I began to experience in 2-74, which is a thresholding into consciousness: the coming to life of the Christ psychē in microform, like a hologram bit. "Us in Christ + Christ in us" (v. supra.). The person is no longer an individual driven by subrational forces, but part of the "swarm of bees" brain.
+
+① The BIP, the former servant, is now our [deterministic] master, scrambling + interfering with true info, + replacing reality (Rome CAD 45) with a delusional 1974/8 landscape + fake inner memories, as I continually write about. It imposes a spurious world directly onto our percept systems (Lem's paradigm about the brain whose centers are technologically stimulated so that it experiences a false reality. Where Berkeley went wrong was that he supposed God was doing this; in actuality, Satan -the BIP former servant- has revolted + seized God's rightful place with a "spurious interpolation." What I saw in 3-74 -+ remembered in 2-74- was the real world: the landscape of Acts now "reduced" to its [mere] verbal analog: a book (+ in "Tears"!). This book
+
+Last edit about 5 years ago by Toso
+63
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Acts, Toso, Indexed, Zebra, Logos, Rome, Satan, Like, World, Book, Does, Reality, Being, Brain, Part, Church, Living, Real, Such, Secret, True, Life, Fake, Info
+
+---
+### Line 13900-13908 (Match: 'Berkeley')
+**Folder**: folder 02
+
+```text
+Last edit over 8 years ago by Toso
+folder 02 - 015
+Indexed
+folder 02 - 015
+selective brain sites (centers, tissue). Is there any way it can tell? Lem sees this as the paradigm my writing (e.g. "Ubik") presents, this is his formulation of my paradigm. Lem asserts, "the brain could only detect the simulatedness if the technology fucked up" - i.e. if there was the kind of incongruity that "Ubik" narrates, which I feel is better expressed in "Electric Ant" by the flock of ducks sort of anomaly. In connection with this I cite bishop Berkeley's view that world isn't substantial or there really, but that God (whatever that means) stimulates our percept-system directly. In my case the phosphene activity of 3-74 suggests the disinhibition + first-firing of up-to-then blocked neural circuits. Open this firing (probably triggered off by seeing the Golden Fish in 2-74) I saw Rome CAD 45 + became Thomas. Actually, I did not see a different world in the sense of world Y replacing world X; what I saw was world X as Y. A different aspect appeared to me, but it was a massively different aspect. + Thomas parallelled it inside me. Does this constitute evidence pointing to Lem's paradigm (really mine) as the actual situation we are in? Or bishop Berkeley's, which is a variation of it but basically the same?
+
+folder 02 - 016
+To me the key clue is that this someone else who is not living in this century is in my head. Lots of people once lived in other centuries, +, later on, more will again - but in my head, in this century? As I pointed out supra, Thomas + I are somewhat but not entirely partitioned off from each other. + he is totally aware of me, my world, problems + situation (whereas until 3-74 I was not aware of him or his). I have designated him as the master personality + his world as the master (absolute) world. I claim his world (or aspect of world) is the real one + mine merely relative (myself as well). Let us reason contrarily, re Lem's + Berkeley's paradigm. I am stimulated to see USA 1974 + I am located in part X of my total brain. Thomas, located in part Y (probably the right hemisphere) is stimulated to experience world Y. This binary stimulation is simultaneous + constant, but got fused into one superimposed world + one personality temporarily in 3-74. What does this tell us, this explanation which views both me + Thomas - + our two discrete worlds - as equally real? (But emanating from or located in one head + brain). (+ syntonic with each other). It tells us that our world is simulated a la Lem's / Berkeley's paradigm. Mine is + Thomas' is: viz: one part of this brain is stimulated to experience as real world - or aspect - space-time - of world X, + another part Y. But X + Y are totally separate in both space + time. But, if the
+```
+**Co-occurrences**: Ubik, Toso, Thomas, Indexed, Rome, Fish, Well, Golden, World, Golden Fish, Only, Time, Folder, Could, Does, Once, Again, Both, Toso
+Folder, Probably, Indexed
+Folder, Brain, Part, More, Another, Living, Real, Actually, Will, Other, Whatever, Have, Absolute, Later, Electric, Electric Ant, Whereas, Right, Someone, Until
+
+---
+### Line 13903-13911 (Match: 'Berkeley')
+**Folder**: part X
+
+```text
+folder 02 - 015
+selective brain sites (centers, tissue). Is there any way it can tell? Lem sees this as the paradigm my writing (e.g. "Ubik") presents, this is his formulation of my paradigm. Lem asserts, "the brain could only detect the simulatedness if the technology fucked up" - i.e. if there was the kind of incongruity that "Ubik" narrates, which I feel is better expressed in "Electric Ant" by the flock of ducks sort of anomaly. In connection with this I cite bishop Berkeley's view that world isn't substantial or there really, but that God (whatever that means) stimulates our percept-system directly. In my case the phosphene activity of 3-74 suggests the disinhibition + first-firing of up-to-then blocked neural circuits. Open this firing (probably triggered off by seeing the Golden Fish in 2-74) I saw Rome CAD 45 + became Thomas. Actually, I did not see a different world in the sense of world Y replacing world X; what I saw was world X as Y. A different aspect appeared to me, but it was a massively different aspect. + Thomas parallelled it inside me. Does this constitute evidence pointing to Lem's paradigm (really mine) as the actual situation we are in? Or bishop Berkeley's, which is a variation of it but basically the same?
+
+folder 02 - 016
+To me the key clue is that this someone else who is not living in this century is in my head. Lots of people once lived in other centuries, +, later on, more will again - but in my head, in this century? As I pointed out supra, Thomas + I are somewhat but not entirely partitioned off from each other. + he is totally aware of me, my world, problems + situation (whereas until 3-74 I was not aware of him or his). I have designated him as the master personality + his world as the master (absolute) world. I claim his world (or aspect of world) is the real one + mine merely relative (myself as well). Let us reason contrarily, re Lem's + Berkeley's paradigm. I am stimulated to see USA 1974 + I am located in part X of my total brain. Thomas, located in part Y (probably the right hemisphere) is stimulated to experience world Y. This binary stimulation is simultaneous + constant, but got fused into one superimposed world + one personality temporarily in 3-74. What does this tell us, this explanation which views both me + Thomas - + our two discrete worlds - as equally real? (But emanating from or located in one head + brain). (+ syntonic with each other). It tells us that our world is simulated a la Lem's / Berkeley's paradigm. Mine is + Thomas' is: viz: one part of this brain is stimulated to experience as real world - or aspect - space-time - of world X, + another part Y. But X + Y are totally separate in both space + time. But, if the
+
+Last edit over 9 years ago by Toso
+folder 02 - 017
+Complete
+```
+**Co-occurrences**: Ubik, Toso, Thomas, Complete, Rome, Fish, Well, Golden, World, Golden Fish, Only, Time, Folder, Could, Does, Once, Again, Both, Toso
+Folder, Probably, Brain, Part, More, Another, Living, Real, Actually, Will, Other, Whatever, Have, Absolute, Later, Electric, Electric Ant, Whereas, Right, Someone, Until
+
+---
+### Line 13948-13956 (Match: 'Berkeley')
+**Folder**: folder 02
+
+```text
+Last edit over 5 years ago by Toso
+folder 02 - 024
+Indexed
+folder 02 - 024
+Another point strikes me, the sentence did not read, "there is someone else in my head + he is from another century (more precisely "he is not from this century") it read: "... not living in". The word living is a present tense verb. "Not from this century" would be more correct if a past life remained in me, had survived in me from the past. Clearly what is intended is the notion of now living. Simultaneously with me, not antecedent to me. 1) He is not me, + 2) He is living in another century now or currently; i.e. at this time (which topples our concept of linear time, which I felt from the start of this in 2-74 had to go). So if we don't have linear time, what kind of time do we have? One in which one human brain can exist in two different spaces + times simultaneously. My brain is here - there is no way it can be seen to be there or not-here. So both space + time must also be here + not-there. I see the only resolution of this seemingly epistemological + semantic nonsense in the B model: stimulation of selective brain sites - in the case of my brain two sets of -differing- stimulations, producing two selves + two space-time worlds, with each self locked into its particular space-time world - + in 3-74 the two selves + the two space-time worlds got blended together into one binary self + one dual aspect space-time world - a curious fusion impossible by all yardsticks of our normal cosmology + physics. The blending took place entirely in my head (no-one else saw any change in the world) so I am forced to assume world is - or its aspects are - lock-step projections (probably in push-pull relationship) of self. This reinforces the direct brain-stimulation model (i.e. B), once more. It is as if my particular situation vis-a-vis reality gave me the unique opportunity to test bishop Berkeley's & Lem's paradigm (which fits in with
+
+Last edit over 8 years ago by Toso
+folder 02 - 025
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, World, Only, Time, Folder, Once, Both, Reality, Self, Toso
+Folder, Probably, Indexed
+Folder, Brain, More, Another, Living, Would, Have, Clearly, Life, Human, Someone
+
+---
+### Line 13963-13971 (Match: 'Berkeley')
+**Folder**: folder 02
+
+```text
+Last edit over 8 years ago by Toso
+
+folder 02 - 026
+"interior projection" radically subjective view of reality? I was willing to grant (in "Stigmata", "Maze", "Ubik", "Retreat Syndrome" et al) that if - IF - our world were either a mass hallucination, or that (as in "Eye") each person inhabits a unique world of his own, we could never tell, there were no criteria by which, esp., to distinguish a "hallucinatory" world - mass hallucinatory - (v. "Stigmata", "Ubik", "Maze") from the "real". This epistemological problem is what caught Lem's attention (+, e.g. Sladak's). But whereas I viewed it as real vs irreal - how do you decide which it is? Lem saw further that it could logically be extended to ask, is there any world out there at all? (Berkeley's paradigm model). I avoided this as being solipscism, but Lem points out that if the brain is multi-site stimulated, something or someone is out there selectively stimulating it, so although there is no world as such, there is a very smart or sophisticated macro entity - + this is exactly what I saw in 3-74 with plasmatic Zebra + its living info + vast traffic throughout all reality, inc. us, of messages. This obviously would be Lem's "superior technology" site-stimulator, into which we are wired or plugged as stations (cells) - it is not merely around us or outside us, but includes us in it; ergo, multiple worlds generation, so we don't go crazy due to stimulus deprivation; we are built to crave stimulus above all else.
+
+Last edit over 9 years ago by Toso
+folder 02 - 027
+Complete
+```
+**Co-occurrences**: Ubik, Toso, Zebra, Complete, Maze, World, Folder, Stigmata, Could, Something, Reality, Being, Obviously, Although, Toso
+Folder, Either, Viewed, Brain, Living, Real, Such, Macro, Would, Were, Very, Further, Info, Whereas, Someone
+
+---
+### Line 14039-14047 (Match: 'Berkeley')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 039
+Indexed
+folder 02 - 039
+true koinos can be apprehended; what is required is that Zebra (known to us as "God") elects to reveal himself to us (epiphany or theophany); i.e. only through revelation initiated by "God", the koinos must decide to invade our world + show itself to one of us - otherwise it is totally camouflaged (mimesis + mimicry) + not an object of either logic or empirical scrutiny. Only the ajna eye (the dibba cakkhu experience), ignited (disinhibited) by the koinos can effect awareness (also known as "grace"). So, without this revelation, my system like Spinoza's or Leibnitz's - remains totally metaphysical (not to mention Berkeley's). Yet - it is original, interesting + coherent - + bold. + it complies with the paradigm of my writing as formulated by Lem. The inner-outer synchronized tape (or tapes) which simulates causality + so vastly puzzled me - this explains why our idios kosmos perpetually satisfies us as being "real" - the synchronized tapes so firmly lock each of us into his world that that world acquires substantiality - + we never guess that (1) we have worlds plural; + (2) behind these many subjective private worlds lies one, vast, smart info-processing brain-like AI system (whose lovely voice I have heard), of which we are functional stations. + that its real business - + ours - is this enormous traffic of messages linked + relinked (by us). (Well, "us" is "it"). This model of reality certainly explains why there is an almost universal belief in God or gods + another world beyond or behind this, + it explains what revelation consists of. Also, it indicates a high value in my writing, in my idee fix - my epistemological 27 year seach - I was on the [...]
+
+Last edit over 9 years ago by Toso
+folder 02 - 040
+Complete
+```
+**Co-occurrences**: Toso, Indexed, Zebra, Complete, Well, Spinoza, These, Like, World, Only, Folder, Reality, Kosmos, Being, Toso
+Folder, Himself, Either, Gods, Without, Indexed
+Folder, Grace, Brain, Leibnitz, Another, Through, Real, Voice, Certainly, Revelation, True, Beyond, Many, Have, Info, Otherwise
+
+---
+### Line 17834-17842 (Match: 'Berkeley')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 119
+117
+
+The import of this is so colossal as to stagger me. Berkeley is wrong; objective world exists. But our immediate + primary experience is not of it -though it exists- but of God or anyhow a volitional entity with the power of determining when we are + where we are - which, as Kant showed, is the whole essence of percept-data ordering (hypostasis). Power of this order equals, for all practical purposes, total power over us. Now, what if this ordering, this grid, is occlusive vis-a-vis ourselves? Then the situation is deadly, + we do need "medical help"! What if the Gnostics + Mani are right? What if this grid is a bilking of us? A making us prisoners? Because if this constitutes a prison, this filtering, then the Gnostic "metaphysical strike" makes a lot of sense. + since J was obviously insane, though brilliant, then our "reality" is odrered by a psychotic God who is into random creating + destroying - i.e. without purpose or pattern, as his sick mind directs (v. that Catherist poem!) a fevered mind! On the other hand, this disclosure, although of titanic epistemological significance in itself, has equally titanic implications vis-a-vis this whole homoplasmate situation. The plasmate -i.e. the macrobrain- now is seen as the actual reality in which we dwell, whether naturally so or as an
+
+Last edit about 8 years ago by Toso
+folder 21 - 120
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Gnostic, World, Since, Because, Prison, Folder, Mind, Anyhow, Reality, Obviously, Although, Toso
+Folder, Without, Indexed
+Folder, Kant, Other, Mani, Whether, Right
+
+---
+### Line 18564-18572 (Match: 'Berkeley')
+**Folder**: Part of
+
+```text
+Last edit over 5 years ago by sekennedy62
+47
+Complete
+47
+successful [..] nuclear holocaust between US + USSR. that's what was shaping up: all out nuclear war. US is now totally disengaged in Asia. (Except for S. Korea). Kissenger said it was because of Watergate that we didn't come to South Vietnam's aid. Okay, Watergate got us out of S.E. Asia + disengaged vis-a-vis USSR. Our interests are now served there through China. It is against China that USSR now acts, not US. This is crucial. Program A must have led to all-out war between US + USSR. The spirit in us prevented first Nixon + Then Ford from aiding S. Vietnam. So (if my reasoning is correct) we of the counter culture prevented WWIII. We hamstrung the US military maching. This counter culture did not arise ex nihilo what were its origins? Consider the 50s, the concept of "unamerican" held power. I was involved in fighting that; the spirit (counterculture) of the 60s evolved successfully out of the (basically) losing efforts by us "progressives" of the 50s - we who signed the Stockholm Peace Proposal, + the "Save the Rosenbergs" etc - losing, desperate efforts. Very unpopular + very unsupported. Berkeley was one of our few centers; this takes me back to "Eye In The Sky" etc.
+
+My endless dreams of 1126 Francisco St; is God showing me that the 60s began there + hence the 70s? "1126 Francisco" symbolizes track B. (Contrast it to the "roses + lake" dreams. Povery vs safe wealth.) God is calling my attention to the link between me now + then, leaping over the intervening years. My work was done in the 50s + 70s! Not the 60s! As the article in "Aqua [Plan]" points out. + yet - I was a vocal +
+
+Last edit over 5 years ago by sekennedy62
+```
+**Co-occurrences**: Acts, Spirit, Complete, Because, Nixon, Okay, Through, Consider, Were, Very, Back, Have, Except, Track
+
+---

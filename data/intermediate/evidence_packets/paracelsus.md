@@ -1,0 +1,366 @@
+# Evidence Packet: Paracelsus
+
+- **Category**: Top Term
+- **Total Mentions**: 52
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 8153-8161 (Match: 'Paracelsus')
+**Folder**: part alive
+
+```text
+Last edit almost 3 years ago by svayambhu108
+117
+Needs Review
+117
+110 Through this new man the rupture between man + God is healed - by God coming here, inwardly + (as I saw) externally, by first penetrating our material world (ist advent) + then infusing it with himself. This process of "acquiring" us progressively - it seems to be the bottom line: the esoteric trans‐ mutation of the alchemists (cf Paracelsus - Bohme it cf mercury + what it signifies). (Both a trans‐ muting agent + the messenger of the Gods, which in a sense, through my writing, I am) "Aspirin of Mercury: Albemuth": healing + the sending of messages from the stars. I announce, as herald (prophet) what is to come: the 2nd Advent, The divine intervention, + the transmutation (not abolition) of this up to now spurious world. "I am the angel of the morning." Here, late at night, alone, I see clearly: God has seized decisive control in our world, +, invisibly, ouster the illicit oppressive (enslaving) rule, liberated us, restored to us our primordial freedom cast in his image: when We lost our freedom + became conditioned response machines we ceased to reflect him - we lost him because we (temporarily) ceased to be isomorphic with him. That he has now changed, by intervention. what I experienced is stated is scriptine as "the Lord of hosts shall suddenly come to his temple. + the messenger of the covanent -- i.e. "Mercury" 4th Gospel chit: "A vision of the interpenetratability of souls" who are united in Christ. impossible:v evidently the explanation (Christ] as head 15 e PKD Thomas 1974
+
+As 2 Calit Rome i
+
+Last edit almost 3 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Thomas, Rome, Lord, Advent, World, Because, Gospel, Jakob Boehme, Both, Divine, Himself, Gods, Through, Messenger, Angel, Clearly, Freedom, Suddenly, Evidently
+
+---
+### Line 8243-8251 (Match: 'Paracelsus')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+128
+Needs Review
+128
+20 God descending to corporial manhood - the division between the 2 realms abolished (i.e by Christ, who could then work backward in time, to, say, the pre‐ Socratics + incorporate them - such as Empedocles). So those selected for inclusion into this Hagia Sophia - they are immortal! Paracelsus, Erasmus, Asklepios - no wonder I was confused as to who had "entered" my mind." Jim Pike was there, + so was tony Buucher: I guess many people would agree it exists after death, you can join it after death. But who is aware that + (for some) it can be joined before a person dies, +, when it does, it can become his psyche, determining his actions + doing his thinking - becoming the mind in his body? Thereby it enters human affairs (+ can modulate causal chains externally as well). My God - that means that the two realms heaven + Earth are not (any longer] divided! God's will is [now] exercised here. I wonder how long that's been so. Back again to the idea that 2or 3-74 was the Parousia!
+
+Last edit almost 3 years ago by svayambhu108
+129
+Needs Review
+```
+**Co-occurrences**: Christ, Sophia, Well, Parousia, Time, Earth, After, Mind, Could, Does, Again, Empedocles, Hagia, Tony, Hagia Sophia, Those, Pike, Heaven, Such, Before, Jim Pike, Death, Will, Would, Erasmus, Back, Many, Body, Human
+
+---
+### Line 14399-14407 (Match: 'Paracelsus')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 084
+Complete
+folder 02 - 084
+"Freud invokes the contending forces love + strife of Empedocles, pointing out their similarity to Eros + Destructiveness, the two primal elements of his biophysical theory. These instincts, which 'present the delusive appearance of forces striving after change + progress' actually impel the organism toward the reinstatement of earlier, more stable states, ultimately to inorganic existence. The originally biological principle that ontogeny recapitulates phylogeny has received very wide psychological extension in psychoanalysis; most recently Carl Jung has identified his doctrine of the collective unconscious with that of 'the microcosm containing the archetype of all ideas'." The explanation to 3-74 is here, + "Ubik" is involved, in its restoration of these features to the _macrocosm_ (back to Empedocles), rather than to the microcosm (cf Jung + Freud); but it is the latter (microcosm, i.e. man) which explains 3-74; the relatedness to "Ubik" comes from the fact that it is true that man is a microform of the macro. + if phylogeny is recapitulated in the macro's ontogeny, as it is in man, then I have my answer (v. Bruno + Paracelsus). If the macrocosm-microcosm view is correct, the universe's phylogeny is recapitulated in man's (any given man's) ontogeny- + thus 3-74 is explained (phylogeny in terms of ideas or _knowledge_).
+
+Last edit over 9 years ago by Toso
+folder 02 - 085
+Complete
+```
+**Co-occurrences**: Ubik, Toso, Complete, These, After, Folder, Empedocles, Toso
+Folder, Their, More, Bruno, Jung, Most, Actually, Love, True, Macro, Universe, Very, Back, Have, Answer
+
+---
+### Line 14416-14424 (Match: 'Paracelsus')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 087
+Indexed
+folder 02 - 087
+No wonder those marxists wanted to know what Ubik was! The rest was clear to them (the dialectic & the form-regression). But what is Ubik? Do even I know? Not one of the bipolar antithetical forces -- no, it is above them. The world soul, or Noos, or (best yet) Logos -- or Holy Wisdom -- it deals in information (& it does really exist, as I learned beginning with the cereal box messages dream! What ever it is, I accurately described its messages locked into or riding on trash -- oh Lord -- how did I ever guess precisely where its messages would be found?? If found at all. Yes, "Ubik" does contain valuable scientific information, all right. Several clusters of it. Yes, the form axis regression (rocket ship to 707 to JN trainer, etc) is based on biological phylogenic-recapitulation-ontogeny regression! So I was expressing the macrocosm-microcosm hylozoic model of reality which does posit a Logos (v. the Stoics) or world soul, such as Ubik; it follows necessarily in that model. But how did I know that? Thomas. Or: there may indeed be a renaissance hermetic cabalist humanist paracelsus alchemist R C as my master self. Erasmus! & how come? I've got one hell of an answer: That 16th century illuminatus knew or discovered the secret of immortality, & so is alive now ("there is someone else inside my head & he isn't living in this century" Bruno? Ben Jonson? No -- it's Erasmus-- cf the koine.
+
+Last edit about 9 years ago by carrifaery
+folder 02 - 088
+Complete
+```
+**Co-occurrences**: Ubik, Toso, Thomas, Indexed, Holy, Logos, Complete, Form, Wisdom, Lord, World, Noos, Folder, Holy Wisdom, Hermetic, Even, Does, Reality, Self, Toso
+Folder, Indexed
+Folder, Those, Bruno, Soul, Living, Such, Secret, Would, Erasmus, Information, Dialectic, Dream, Right, Someone, Answer
+
+---
+### Line 14516-14524 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 010
+10
+
+A clue pointing to Paracelsus as being Thomas! Paracelsus was a physician + the first to use mercury to treat syphilis. "Bichlorides" "Aspirin of mercury"?? I.e. two forms (or mentions) of mercury (not the god) used as medicine. God +/or the Holy Spirit wouldn't bring you news about bichlorides or mercury. But a Hermetic illuminatus physician who used it first in all history might - as a clue. Or rather, it is (sic!) on his mind (Thomas). + Paracelsus leads us to Jacob Boehme, who had experiences very much like mine. + I had the feeling that Thomas was a physician - I thought of Luke. + Paracelsus was a notable physician. Thomas healed me + esp Chrissy. __ "Ubik" is constructed around a now-discarded Hylozoic macro-microcosm cosmology which has been replaced by Newton by a mechanistic model; the "Ubik" one, although I didn't realize it, is an animistic biological model which I did not know ever even existed, it lasted from Empedocles to Bruno. It also is Gnostic. This model really did not survive the Renaissance - but there it is in "Ubik," which so puzzled Richard. Paracelsus knew Erasmus. + was "tricked into behavior that could justify dismissal + arrest."
+
+Last edit about 7 years ago by Toso
+
+Folder 03 - 011
+```
+**Co-occurrences**: Ubik, Toso, Thomas, Indexed, Spirit, Holy, Holy Spirit, Form, Gnostic, Like, Folder, Mind, Hermetic, Even, Could, Jakob Boehme, Luke, Being, Empedocles, Although, Chrissy, Indexed
+Folder, Bruno, Macro, Erasmus, Very
+
+---
+### Line 14523-14531 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Folder 03 - 011
+11
+
+"He died, perhaps of metal poisoning". ("A very poisonous poison.") He believed in the macro-microcosm theory, Gnosticism, Neoplatonism, alchemy, the Hermetics, belief in a bisexual, homogenous hylozoic universe, a cyclic theory of time + an animism approximating pantheism. "A mystery religion of life rather than merely of gold ... Private communication for adepts ... He explained that alchemy's real desideratum was the secret of life." "God spins ultimate matter out of himself. This yields by separation the prime matter of individual objects, perpetually spawning nature, perpetually resolvable back into ultimate matter. Human creativeness in art ... repeats the primal act. The human demiurge, like God, separates rather than combines." "'Above' + 'below' are substantially the same. 'Heaven is man + man is heaven, + all men together are the one heaven.' But microcosm + macrocosm are contained by membranes or partitions. "Every natural object has its own sulphur, salt + mercury..." "He described illness as intrinsically evil" (hence accused by Erasmus of "dualist heresy." He had a very complex theory about there being two kinds of time, which I don't grasp. I wonder: did Paracelsus crack the true nature of the 2 times + become supratemporal? His native language was German.
+
+Last edit over 7 years ago by Toso
+Folder 03 - 012
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Gnosticism, Perhaps, Plotinus, Like, Time, Folder, Hermetic, Being, Toso
+Folder, Himself, Heaven, Real, Gold, Secret, True, Macro, Universe, Erasmus, Very, Back, Life, German, Evil, Human
+
+---
+### Line 14531-14539 (Match: 'Paracelsus')
+**Folder**: part in
+
+```text
+Indexed
+Folder 03 - 012
+12
+
+E.B. on Paracelsus: "He was one of the most extraordinary + outrageous men of the renaissance. He also had the characteristics of a natural extrasensory perceptionist + was perhaps best described in his own time as a 'magician'. He said 'Magic is a great hidden wisdom - reason is a great open folly - resolute imagination can accomplish all things.' "Remarkable discoveries in the field of chemotherapy. He despised universities. P. held that the rough + ready language of the innkeeper, barber + teamster had more dignity + commonsense than the dry-as-dust scholasticism of Aristotle, Galen + Avicenna. "He was free to express his rejection of the prevailing view that the stars + planets controlled all parts of the human body - i.e. astral determinism. "He took part in the Netherlandish wars as an army surgeon. "'He who is born in imagination discovers the latent forces of nature' (?) 'Besides the stars that are established, there is yet another -imagination- that begets a new star + a new heaven.' "He loved the common tongue - German. "He died in mysterious circumstances at 48. His use of mercury in measured internal doses to treat syphilis wasn't rediscovered until 1909! (1530 to 1909!) Jung said of him, 'we see in Paracelsus not only in the domains of chemical medicine but also in those of an empirical psychological healing science.' He knew all about metals from his childhood vis-a-vis metal mining.
+
+Last edit almost 7 years ago by Toso
+Folder 03 - 013
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Wisdom, Perhaps, Only, Time, Folder, Toso
+Folder, Aristotle, Great, Indexed
+Folder, Those, Part, More, Jung, Another, Star, Most, Heaven, Wars, Things, Body, German, Magic, Human, Free, Until
+
+---
+### Line 14539-14547 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 013
+13
+
+E.B. on alchemy: "Some physicians + a few alchemists turned to the elixir of life as an objective." [This surely means "of eternal life."] "...Medical chemistry may have been conceived in Islam, but it was born in Europe. It only awaited christening by its great publicist, Paracelsus ... His pharmacy (against all views of the time) was to lead, by a devious path, to modern chemistry. "Most famous was ... Nicolas Flamel who dreamed of an occult book, subsequently found it, + succeeded in deciphering it with the aid of a learned Jewish scholar learned in the mystic Hebrew Kabbala. "...Emerald tablet of Hermes Trismegistos, which begins, 'that which is above is like to that which is below, + that which is below is like that which is above'". Thus began the macro-microcosm worldview. {Note} Elixir of life: "thought to cure illnesses, prolong life, + bring about spiritual revitalization."
+
+{Note:} Actually the book was by Appolonius of Tyana ___ What I am developing here, regarding Paracelsus, is this: he was a foremost alchemist but he was no fraud; he was one of the great physicians of history, + fundamental to chemistry + esp chemotherapy. The E.B. speaks of him having -not claiming to have but having- paranormal powers. The Hermetic macro-microcosm cosmology (which shows up in "Ubik" + in 3-74) I have specifically located in time + space as that of Paracelsus + Bruno et al. It is not from the ancient world but from the Renaissance. P. was the first to use mercury medicinally, but he knew it was a "very poisonous poison." His natural tongue was German (when I'm abruptly awakened or
+
+Last edit about 7 years ago by Toso
+```
+**Co-occurrences**: Ubik, Toso, Indexed, Like, World, Only, Time, Folder, Book, Hermetic, Hebrew, Great, Jewish, Indexed
+Folder, Bruno, Most, Actually, Macro, Very, Surely, Have, Life, German, Having, Hermes
+
+---
+### Line 14541-14549 (Match: 'Paracelsus')
+**Folder**: book was
+
+```text
+13
+
+E.B. on alchemy: "Some physicians + a few alchemists turned to the elixir of life as an objective." [This surely means "of eternal life."] "...Medical chemistry may have been conceived in Islam, but it was born in Europe. It only awaited christening by its great publicist, Paracelsus ... His pharmacy (against all views of the time) was to lead, by a devious path, to modern chemistry. "Most famous was ... Nicolas Flamel who dreamed of an occult book, subsequently found it, + succeeded in deciphering it with the aid of a learned Jewish scholar learned in the mystic Hebrew Kabbala. "...Emerald tablet of Hermes Trismegistos, which begins, 'that which is above is like to that which is below, + that which is below is like that which is above'". Thus began the macro-microcosm worldview. {Note} Elixir of life: "thought to cure illnesses, prolong life, + bring about spiritual revitalization."
+
+{Note:} Actually the book was by Appolonius of Tyana ___ What I am developing here, regarding Paracelsus, is this: he was a foremost alchemist but he was no fraud; he was one of the great physicians of history, + fundamental to chemistry + esp chemotherapy. The E.B. speaks of him having -not claiming to have but having- paranormal powers. The Hermetic macro-microcosm cosmology (which shows up in "Ubik" + in 3-74) I have specifically located in time + space as that of Paracelsus + Bruno et al. It is not from the ancient world but from the Renaissance. P. was the first to use mercury medicinally, but he knew it was a "very poisonous poison." His natural tongue was German (when I'm abruptly awakened or
+
+Last edit about 7 years ago by Toso
+Folder 03 - 014
+Indexed
+```
+**Co-occurrences**: Ubik, Toso, Indexed, Like, World, Only, Time, Folder, Book, Hermetic, Hebrew, Toso
+Folder, Great, Jewish, Bruno, Most, Actually, Macro, Very, Surely, Have, Life, German, Having, Hermes
+
+---
+### Line 14549-14557 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 014
+14
+
+under sharp stress I revert to Low German. He was tricked into doing something (by his enemies) which led to job-dismissal + arrest, + he died under mysterious circumstances in his late forties. Most of all, high-order alchemists such as himself were searching for the secret of life. Would they not be the most likely group (outside the original Xtians) to find immortality? I think P. found it, + my two mercury dreams -mercury as medicine- point precisely to P. - + since he was tricked into doing something that got him arrested, he'd be on guard for such a trap again (i.e. the Xerox Missive of 3-74). He died mysteriously at 48, + I was about to die c. that age myself. P. was a notable -a Great- physician, + much of what Thomas did was healing + showed so much medical knowledge that I once thought Thomas was Luke. I was looking for a physician. What I theorize is this: 1) Thomas is Paracelsus. 2) He was prepared to deal with the Xerox missive trap due to the trap he experienced. 3) My sense in my forties that death was close to me was due to P's death. 4) My macro-microcosm cosmology in "Ubik" + other themes in my writing (e.g. acosmic Gnosticism) emanated from P inside me. 5) P. solved the problem posed by death through recovery of the original Xtian "lost" oral Gnosis + he got this from a first century Xtian still alive in P's time, perhaps using a human host as P uses me (P. may have been the host, which would explain his paranormal powers). 6) This implies a continual existence of Thomas through P., e.g. + now to me. Appolonius of Tyana may be involved (Hermes Thristmegistos).
+
+Last edit about 7 years ago by Toso
+Folder 03 - 015
+Indexed
+```
+**Co-occurrences**: Christian, Ubik, Toso, Thomas, Indexed, Xerox, Gnosticism, Perhaps, Since, Gnosis, Time, Folder, Something, Once, Again, Luke, Missive, Xerox Missive, Toso
+Folder, Himself, Great, Indexed
+Folder, Still, Through, Most, Such, Secret, Death, Macro, Would, Other, Were, Under, Have, Life, German, Knowledge, Hermes, Human
+
+---
+### Line 14564-14572 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Folder 03 - 016
+16
+
+14) The time of Paracelsus + Bruno + Boehme was the time at which the monolithic tyranny of Rome (as Catholic church) was first -finally- broken. Here indeed were the true secret Xtians attacking Rome the BIP just as I noetically saw them - + this ratifies my revelation that they were responsible for toppling Nixon, it identifies these true secret Xtians with the Protestant cause (in the 30 Years War). What we are seeing is the evolving of man into higher + higher forms - Beethoven is the most impressive example of this, of what is possible: freedom equals a higher homeostasis, etc - see previous 100 pages, etc. 15) I can see God's cause (or plan) in history going back to Christ Himself vs Rome. I must regard myself as not just containing Thomas but in 3-74 having become him + hence one of the true secret Xtians myself. Again, this is something I must not tell, either how they work, that they live, or that I originally was host to one + became one (i.e. fused with Thomas temporarily into a unity). Someday I will reawaken, after my physical death, in a later person, literally physically resurrected, to continue our work. 16) But what we are really waiting + preparing for is Christ's (St. Sophia's) return. That is our Great Goal, + we know it will happen. +, since we are transtemporal (reborn again + again in host humans) we will be alive to see it + to greet him, with joy.
+
+Last edit about 7 years ago by Toso
+Folder 03 - 017
+Indexed
+```
+**Co-occurrences**: Christ, Christian, Toso, Thomas, Indexed, Rome, Form, Sophia, These, Since, Time, Nixon, After, Folder, Jakob Boehme, Just, Something, Again, Catholic, Toso
+Folder, Himself, Either, Great, Beethoven, Bruno, Church, Most, Secret, Revelation, True, Death, Finally, Will, Were, Back, Freedom, Later, Having
+
+---
+### Line 14588-14596 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 019
+19
+
+1) P is Thomas. 2) Thomas is in my head with me but not in this century. 3) These inner spaces aren't bound by outer space + time, obviously. Perhaps T, the apostolic Xtian, took over P the way I was taken over. T then = P. + then P got reborn into me, but if I was host to P, P was host to T. Anyhow, what is certain is that it is P. with me in my head; the proof is "Ubik." It is P. placing the macro-microcosm cosmology forward in time past the age of Newtonian mechanics, to re-establish it into a world which has forgotten such a doctrine. This was his main -or a main- purpose. This makes me a sort of idiot savant, animated by a spirit f - Wait. the "vast inner spaces" opened around me only when Thomas was in control. So in a sense, these vast inner spaces weren't my experience; they were Thomas' spacial-sense. As if, since T. was in me, he was still having the inner space experience which during his lifetime he apparently was used to (as P - since he is P). This may seem like a small or even petty distinction but it is not. I inherited the other-person-in-my-head's inner spacial sense, + it is the one which Paracelsus (perhaps uniquely) had cultivated + achieved. (Or disciples or coworkers of his - other Hermetic adepts.) Wait. Don't - isn't my grand theme one dealing with inner space? That world exists inside us, so to speak. Haven't I pioneered this view in my novels? + in my "push-pull" model? Let me {...} (1) my view of world as subjective
+
+Last edit over 7 years ago by Toso
+Folder 03 - 020
+Indexed
+```
+**Co-occurrences**: Christian, Ubik, Toso, Thomas, Indexed, Spirit, These, Perhaps, Like, World, Since, Only, Time, Folder, Hermetic, Even, Anyhow, Obviously, Toso
+Folder, Indexed
+Folder, Still, Wait, Such, Macro, Other, Were, Apparently, Having, During
+
+---
+### Line 14596-14604 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 020
+20
+
+during my years of writing + (2) the push-pull model which I wrote out for Pat. Perhaps the general view about space is wrong, P. was right, + my theme is derived from his correct conception of inner space. He discovered it, not me - he discovered a whole new view about both space + time. (Inner space, inner time.) After all, T. or P. was in me back in high school. Where else do/could I be supposing world to be, if not in the outer world? P + I both have -hold forth- a radical subjectivization of world, which involves inner space + inner time; in 3-74 I actually experienced those vast inner spaces. + my intellectual odyssy began in high school with my realization about the non-existence of space - i.e. outer objective space. Okay. I have no doubt that the sort of space I experienced in the "Alto Carmel" dream + the "Void" dreams is P's inner firmament. Thomas brought it with him, along with the huge open books. That was the mind of Paracelsus, + it was infinitely older + wiser than mine - + it embraced vast vistas, in terms of its "philosopher's stone": comprehension of the mysteries of the universe. It acted as a micro-mirror of the macrocosm. This is what generates the vast inner space: when man's little mind becomes this magic mirror of the macrocosm. According to my "push-pull" psyche-world model, this is readily succeptible to explanation: world is locked into the given psyche anyhow. They aren't: {illustration of a small circle "Micro" and a large circle "Macro" that are separate} but {illustration of two circles with arrows between indicating constant interaction} It's a delusion to believe that space is out there in the first place. I've read over the typed pages I sent Pat, + the scheme presented is woefully inadequate compared with the "vast vistas of inner space" which (1) I
+
+Last edit over 7 years ago by Toso
+
+Folder 03 - 021
+```
+**Co-occurrences**: Toso, Thomas, Indexed, Perhaps, World, Time, After, Folder, Mind, Book, Okay, Could, Anyhow, Both, Indexed
+Folder, Those, Actually, Macro, Universe, Illustration, Back, Have, Magic, During, Dream, Right
+
+---
+### Line 14603-14611 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Folder 03 - 021
+21
+
+experienced in 3-74; + (2) to Paracelsus' + Bruno's systems. I had forgotten that 3-74 experience of vast space during the time Thomas took over. How clumsy + puny my world + worldview are in contrast to Thomas' world (which is, as I still maintain, a push-pull reciprocation of his psyche - in fact, 3-74 seems to prove that: his psyche replaces mine, + so his (much vaster) space replaces mine simultaneously. Well hell - I saw level upon level of higher realities due to his taking over; this must be what he learned to experience. Ah! I remember that, as 3-74 began, the thought came to me, "I'm seeing the world the way they used to, in the Middle Ages." Technically I was off by a few centuries, but I had the right idea, basically, of what was happening to me: a reversion (phylogeny in ontogeny once more) to a long-discarded way of experiencing reality, it just wasn't Medieval, but rather 1500 - well, that's close. Look at the art + architecture of 1500. Very vast. From Gothic times on, they were better at space-binding than we are. I do think that the subjective reality viewpoint (view) of my writing corrolates with P. + Bruno. With the macro-microcosm view, basically - + not just in "Ubik." This sense of mine that space is inner + not outer may explain my difficulty (block or phobia) about moving through space. When I am anxious my spacial (space-binding) sense retracts, becomes impoverished - I experience it externally because my space is primarily a subjective reality. Maybe I can get better conscious control over it, then.
+
+Last edit over 7 years ago by Toso
+Folder 03 - 022
+Indexed
+```
+**Co-occurrences**: Ubik, Toso, Thomas, Indexed, Well, Maybe, World, Because, Time, Folder, Just, Look, Once, Reality, Toso
+Folder, Still, More, Bruno, Through, Upon, Macro, Were, Very, Remember, During, Right
+
+---
+### Line 14611-14619 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 022
+22
+
+Well, in summary, it is Paracelsus who is my matrix latent personality, formulating my writing [esp. "Ubik", "Tears"] out of his vast macro-microcosm knowledge + wisdom; he is in my head but "not living in this century," + in 3-74 he took over completely, which transferred to me his knowledge + way of being in the world. + actually he in turn is actually a first century Xtian in possession of the (otherwise) lost oral Gnosis taught by Christ. Just as I am Paracelsus, he is that apostolic Xtian. So the Hermetic adepts of the Renaissance may have been secretly + actually the true, immortal early Xtians - at work toppling the hegemony of Rome - the Catholic church, + preserving the Protestant cause. They are here now (e.g. in/as me) to topple Nixon. + they initiated me into the Brotherhood of which I am never to speak of. That sums it up. Except to point out that the early actual Xtians do possess the secret of immortality, + it involves phylogenical recapitulation in later human hosts whom they first control latently, + then, at the critical time, anamnesis is arranged (by the Brotherhood?) + they take over the host person completely, as they -he- did me in 3-74 - very likely for political acts. They did in the Catholic League and they did in Nixon. Above this dialectic is a unitary macrobrain organizing everything processing living information: it is the macrocosm {animal?}, with a soul +/or mind. + finally there is the void, the abyss or Urgrund, to which we at last return when our Karma ends. The material cosmos is the outer form of this mind, which generates it effortlessly. Each microbit of the total macro organism recapitulates the totality, is a micro-
+
+Last edit over 5 years ago by Toso
+Folder 03 - 023
+Complete
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Ubik, Toso, Indexed, Complete, Rome, Form, Well, Wisdom, World, Gnosis, Time, Nixon, Folder, Urgrund, Mind, Hermetic, Karma, Just, Being, Catholic, Everything, Toso
+Folder, Anamnesis, Indexed
+Folder, Church, Soul, Living, Actually, Secret, True, Macro, Finally, Very, Have, Information, Later, Except, Knowledge, Dialectic, Otherwise, Human
+
+---
+### Line 14627-14635 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 024
+24
+
+But I have lost that; I was only that -knew only when- I was Paracelsus, who was the immortal early Xtian Thomas, who was Christ, who was God, who was the Void:
+
+the Abyss (the Urgrund, the final non-being) ---------- God (process or mind of the Brain) ---------- Christ (i.e. the Brain) (or living info of the Brain) ---------- Thomas ---------- Paracelsus ---------- PKD ----------
+
+___ Voice: "this is the hour you've waited for." What I seem to be saying, then, in the above chart, is that Christ is still alive, but concealed in us under layers - he is latent, which is to say sleeping. 2-74/3-74 aroused him in me down (or up) through the phylogenic layers. + as macrobrain he is also Pantocrator. __ Krishna: "I am not here. Neither am I elsewhere." (Wilson's "The Occult") My 3- - no 2-74 experience which reached fruition in 3-74. I am not here. Maybe it is I who is not real, rather than USA 1974 being not real. It is real, but I am not here. "But I am not here" - what does that mean? Where am I, that is not here? I have been right: our world or
+```
+**Co-occurrences**: Christ, Christian, Thomas, Indexed, Maybe, World, Only, Folder, Urgrund, Mind, Does, Being, Indexed
+Folder, Brain, Krishna, Still, Pantocrator, Through, Living, Real, Voice, Under, Have, Neither, Info, Wilson, Final, Right
+
+---
+### Line 14629-14637 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+24
+
+But I have lost that; I was only that -knew only when- I was Paracelsus, who was the immortal early Xtian Thomas, who was Christ, who was God, who was the Void:
+
+the Abyss (the Urgrund, the final non-being) ---------- God (process or mind of the Brain) ---------- Christ (i.e. the Brain) (or living info of the Brain) ---------- Thomas ---------- Paracelsus ---------- PKD ----------
+
+___ Voice: "this is the hour you've waited for." What I seem to be saying, then, in the above chart, is that Christ is still alive, but concealed in us under layers - he is latent, which is to say sleeping. 2-74/3-74 aroused him in me down (or up) through the phylogenic layers. + as macrobrain he is also Pantocrator. __ Krishna: "I am not here. Neither am I elsewhere." (Wilson's "The Occult") My 3- - no 2-74 experience which reached fruition in 3-74. I am not here. Maybe it is I who is not real, rather than USA 1974 being not real. It is real, but I am not here. "But I am not here" - what does that mean? Where am I, that is not here? I have been right: our world or
+
+Last edit over 7 years ago by Toso
+```
+**Co-occurrences**: Christ, Christian, Toso, Thomas, Maybe, World, Only, Urgrund, Mind, Does, Being, Brain, Krishna, Still, Pantocrator, Through, Living, Real, Voice, Under, Have, Neither, Info, Wilson, Final, Right
+
+---
+### Line 14646-14654 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Folder 03 - 026
+26
+
+emanate from our psychoi in cross-synchronization. Belief in world makes world substantial; the "fact" that it is substantial reinforces belief - the closed loop: what I call push-pull. In 2-74 I withdrew assent, + poof, world was gone, replaced by another to which I had given assent. The omnitemporal omnispacial matrix obeys belief (i.e. what psyche projects), it is totally affable, obliging. That is the 2nd secret: the first secret is that psyche initiates world by the initial projection. Push (firing by psyche) wouldn't be enough; the matrix has to "pull", suck it up and enrich it + fire -mirror- it back. So psyche + world are 2 mirrors facing each other: {illustration of 2 mirrors, "psyche" and "world", with signals reflecting back and forth} enriching capacity at both ends. This is the 3rd secret, this binary, mutual synchronized enriching capacity. Could this be what Paracelsus meant by inner vast reaches of space, mirror + imagination? A (the) world-generating power? That's why the more that black holes are observed the more there are of them; outer space + inner space are the same space. I.e. space is just as much inner (in the psyche) as outer in the world. What world? What psyche? Neither is real. In 2-74 I believed it was really CAD 45 Rome, + so it obligingly soon was.
+
+Last edit over 7 years ago by Toso
+Folder 03 - 027
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Rome, World, Black, Folder, Could, Just, Both, Toso
+Folder, More, Another, Real, Secret, Other, Illustration, Back, Neither, Cross
+
+---
+### Line 14703-14711 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 033
+33
+
+Yes, we are talking about a worldview in which one can abolish space, time, causality + finally world itself, + encounter the macrobrain, the unity behind the plurality, like in "Ubik." It really is true + it really can be done - all that happens in "Ubik" can be done! + is. I am exoterically disseminating a very (normally) esoteric worldview! I don't believe for a moment that this is accidental or a mere freak situation. It isn't Paracelsus per se; it is the adept brotherhood, collectively; they live on, secret + immortal, possessing the true Gnosis + powers, + they have used my writing, + not just "Tears" but certainly, now, I am sure about "Tears." We are talking about the "invisible college" - it is real, + it still exists, + I have been its instrument, + when crisis + danger probed at me to trap me, they saved me, at the cost of disclosing their existence to me. I know now, not just intuit. E.g. the code in "Tears" is just one instance. We are talking about a group decisively secretly changing history! Even possibly using or operating out of alternate worlds (e.g. "Portuguese States of America"!) In some way I don't understand the world of "Tears" really exists or did exist in 1974, + yet is/was Rome. (Cf Metz speech.)
+
+Last edit over 5 years ago by Toso
+Folder 03 - 034
+Indexed
+```
+**Co-occurrences**: Tears, Ubik, Toso, Indexed, Rome, Like, World, Gnosis, Time, Folder, Even, Just, Toso
+Folder, Indexed
+Folder, Still, Their, Metz, Real, Certainly, Secret, True, Finally, Very, Have, America
+
+---
+### Line 14721-14729 (Match: 'Paracelsus')
+**Folder**: Folder 03
+
+```text
+35
+
+It is quite some cosmology which permits the abolition of the phenomenal world of the many, + then encounter with the one, + its traffic of messages: its thinking - + to know we are very literally actually parts of this one. The raft floating toward England - the little boy Philip getting past Scotland Yard - I was just now joking with K.W. about the Apollo sentence, + found myself saying: "A raft pulled by 6 (or 12) sea serpents floating up to England {Note} - Apollo taken off to Whitehall + being interrogated by Scotland Yard, + now there is no England-" + then remembered the dream. It sounds like Orpheus. (Dionysos, too.) Ist die Zeit da? Could the development + publishing widely (retrieval) of my (our) macro-microcosm cosmology be deliberately synchronized (in time) with the long-awaited "return" cited above (i.e. of St Sophia, Buddha-Siddhartha, "the head Apollo")? In other words, my writing is a preparatory step, one among many (e.g. the overthrow of Nixon)?
+
+{Note:} Albion Azoth England Paracelsus Albemuth Azimuth Bismuth White Fish Water (mouth of river or ocean)
+
+Every time I go to sleep now I again see writing. E.g.: "The only living reality we have now is Philip the first." (Like a pope?) This seems to express pessimism, as if the agency, the viaduct, right now is severely limited. To me? A very narrow + small outlet indeed. "Philip the first": perhaps the initial viaduct for the "we" to act through: a meager beginning, but still a beginning. Note
+
+Last edit over 7 years ago by Toso
+```
+**Co-occurrences**: Toso, Sophia, Fish, Dionysos, Perhaps, Like, World, Only, Time, Nixon, Buddha, St Sophia, Could, Just, Again, Reality, Being, Siddhartha, Philip, Apollo, Still, Through, Living, Actually, Macro, Other, Very, Many, Have, Dream, Right, White
+
+---

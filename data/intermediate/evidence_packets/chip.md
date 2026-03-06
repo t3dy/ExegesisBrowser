@@ -1,0 +1,354 @@
+# Evidence Packet: Chip
+
+- **Category**: Top Term
+- **Total Mentions**: 23
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 2-10 (Match: 'Chip')
+**Folder**: Unknown
+
+```text
+February 27, 1975
+
+Dear Claudia,
+
+I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.
+
+We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.
+
+This "decay" is the same direction the Holy Spirit (or whatever you wish to deem it) was moving. Backward vis-a-vis our own time. So Joe Chip isn't seeing the anti-eidos. He is seeing the natural process of the other time exposed. Its normal motion under normal conditions leads back from rocketship to Corvette to La Salle to Model T. I mean, isn't this important, to realize this? He has already seen it decay via a different axis (the Platonic forms); but he still calls it decay and imagines that what he sees is a reversal of its normal growth direction.
+```
+**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Time, Just, Platonic, Still, Other, Back, Whatever, Under, Claudia
+
+---
+### Line 6-14 (Match: 'Chip')
+**Folder**: Unknown
+
+```text
+I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.
+
+We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.
+
+This "decay" is the same direction the Holy Spirit (or whatever you wish to deem it) was moving. Backward vis-a-vis our own time. So Joe Chip isn't seeing the anti-eidos. He is seeing the natural process of the other time exposed. Its normal motion under normal conditions leads back from rocketship to Corvette to La Salle to Model T. I mean, isn't this important, to realize this? He has already seen it decay via a different axis (the Platonic forms); but he still calls it decay and imagines that what he sees is a reversal of its normal growth direction.
+
+Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '56 Chevy to ionosphere...that for it would be the "film pulled backwards," so to speak. Joe (i.e. I) saw it naturally. So within our linear time, form (edola) develops in the opposite direction to what we in linear time see. "To enter the Kingdom of Heaven you must be as little children," He said, our Savior. We must regain what in regular time is the past; orthogonally it is the future. Then what happend to me in March, I didn't move backward, in linear time; I moved forward, to the completion of time. I saw time completed: the great Iron City which fell to the people hustling their asses for man and for God, for Justice and Truth and Joy and Freedom. I saw the Parousia.
+
+I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
+```
+**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Iron, Time, Savior, Just, March, Platonic, Great, Still, Their, Heaven, Would, Other, Back, Whatever, Under, Have, Things, Justice, Freedom, Truth, Final
+
+---
+### Line 16-24 (Match: 'Chip')
+**Folder**: Unknown
+
+```text
+I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
+
+I never noticed this parallel:
+
+What Joe Chip saw: What I saw: FORM REVERSION ROME AGAIN (time reversion)
+
+But this isn't "reversion"; it is completion. Actually I had
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Toso, Rome, Form, Kingdom, Time, Could, Again, Through, Actually, True, Finally, Things, Claudia, Final
+
+---
+### Line 68-76 (Match: 'Chip')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by jhordan
+4
+Complete
+4
+If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? I was indeed describin the Parousia when I described the "decay" along the orthogonal axis in UBIK which is logical). I myself first hit the Dies Irae when I first dropped acid (about 350 [mices?]). It was cold, it was hell; I used it in later books (e.g. UBIK, [MAZEF?] OF DEATH). Now, how come I in March experienced what you're supposed to only after you're dead? I was judged and so forth, all those things, now. Either this says something about what befell me, or what befell our world in March 1974 (or both). Was it a freak thing for me, a dispensation or accident, lke being allowed to stay up late or all night, etc. as a child?
+
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+```
+**Co-occurrences**: Ubik, Complete, Rome, Form, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Final, White
+
+---
+### Line 157-165 (Match: 'Chip')
+**Folder**: book of
+
+```text
+Last edit over 5 years ago by Zebrapedia
+10
+Indexed
+10
+They are going to find that orthogonal axis, Claudia, and when they do, they will find it retrograde and exactly what Joe Chip saw, and it is the time-stream I entered. And the effect of that – it looks like our past. But it is not; it is related to our past, since it moves in that direction. The Bible is a book of the future. The New Testament and the oracles of the Old Testament: they are about tomorrow. The setting, the backdrop, will be familiar to us; the events will be played out against that setting… but the events are new. We must separate set and ground, here. The ground is old; set is new. We are participants in the set.
+
+Ground equals WHERE Set equals WHAT
+
+The WHAT is Final Reckoning Time or Out-of-Time, and after accounts are settled, we get to go to the seashore. Okay? But first the poor rat has to die; poor creature; and then we’re released.
+```
+**Co-occurrences**: Indexed, Bible, Like, Since, Time, After, Book, Okay, Zebrapedia, Ground, Will, Claudia, Testament, Final
+
+---
+### Line 600-608 (Match: 'Chip')
+**Folder**: part was
+
+```text
+Hypnagogic thoughts: field one and field two somewhat like Form one and Form two of Hericlitus, which is like Yang and Yin. The gnostics believed in only two parts of universe's time cycle: now (drudgery, which would be roughly Form two) and the good spring to follow (or form one, Yang). (Hence: fire will test all; the ushering of the Hericlitus concept of dry soul which sees monistic world. Dried out -- like in dream where very dry cigarette is lit by the God telling me of the leader to come.
+
+The stale, dried-out cigarettes in UBIK: Indication that the Other Field or Form had entered (in the novel, as Claudia pointed out, dried out cigarettes were error; world is becoming cold, decaying, not dried out. I think the stale dried out cigarettes, which are not orthogonal reversions (sic) like to LeSalle car, are a sort of hair-line border line between; sign that decay, going along normal lineal axis, has swallowed itself up, completed itself; and lineal time is fulfilled; Form Two has ended, to be replaced by Form One (springtime, Yang, fire). Very brief flurry at change-over.
+
+Tessa had recently bought pach of cigarettes, disgusted to find them stale. Exactly like Joe Chip in UBIK. Surprise. Also like a joint. Also like wafer; dry, before wine. Ah, smokes was wafer; "Vinland" was the blood. That is correct sequence in Mass: first dry wafer, then moistened by the wine (blood).
+
+Er kommt, er kommt! Der Brautgaum kommt!
+
+(Is it possible that the anamsesis regards future events, of a retrograde time-line? I am recovering memory not of what did happen but of what will happen?)
+```
+**Co-occurrences**: Ubik, Form, Gnostic, Like, World, Only, Time, Good, Yang, Joint, Tessa, Soul, Before, Universe, Will, Would, Other, Were, Very, Claudia, Spring, Memory, Form One, Blood, Dream
+
+---
+### Line 640-648 (Match: 'Chip')
+**Folder**: part or
+
+```text
+The tension view of bow and lyre (fr 51) would be a fine thing for structure-as-a-whole (plague of rats on planet One balanced by superabundance of Warfarin[g] on planet Two), but this treats every subsystem as expendable. The oscillation interpretation would mean that imbalances within each descending level of subsystem would be balanced; re my dream about the 3 lives I might have led, with Tao establishable within each one: not left balanced by right, but balance within left; balance within mid; balance within right. Within each subsystem is that balance or Tao. In each segment, no matter how biasedly cut, or small, that segment (of a former whole) then becomes a whole, and spreads out fan-wise (Rhipidon!) to give a left, middle, right section, space being infinitely divisible. You could compare this to the regenerating by the two parts of the worm when cut in half; soon you have, not two halves, but two wholes. You know, I think of Peter Mann's account of the murdered baby rabbit sending out a microwave signal which the mother, miles away, on a shore, picked up. Meine Schwester, die [gestorben], hatte solch ausgeschicht; weit von uns, sehr weit, irher Himmlicher Vater es gehort hatte, und Hilfe [x] geschenkt [?]at; nun kommt es, die Antwort davon.
+
+No, as mechanical bounce-back or even noos-reinforced (changed to act as deliberate responses) they are more archaic, language and concepts indicate if answers, then to signals sent out circa 400 B.C. By our species, not be me qua me. (Then about 1000 Light years away, twice two.)
+
+In UBIK: the form-reversion which Joe Chip sees would be a negantropic process; as the forms regress (sic) they gather energy, since moving retrograde to the entropic expansion outward motion of the universe. Suggests that Joe Chip saw the parity's counterforce, there to establish symmetry through principle of conservation; this is a balancing agent against the lineal forward toward entropy, and not, repeat, NOT a decay process (as Claudia pointed out re the cigs and cream -- those move forward to decay...that is a forward, not retro process. I had confused decay with "moving backward," contracting
+
+Last edit over 5 years ago by Harpax
+40
+Needs Review
+```
+**Co-occurrences**: Ubik, Form, Since, Harpax, Noos, Light, Even, Could, Being, Those, More, Through, Mother, Universe, Would, Back, Have, Claudia, Wise, Dream, Right
+
+---
+### Line 3326-3334 (Match: 'Chip')
+**Folder**: file numbers
+
+```text
+-3-
+
+each other in our primal guise, our authentic guise (once again?). The city was Rome & I was an early Christian. Form regression, exactly as I stated in UBIK: "The man contains —not the boy— but the former man." Likewise the city: the former city.
+
+Regression, as I stated by way of analysis in UBIK, along the form-axis. Thus proving (to Joe Chip anyhow) Plato's theory of forms. I think in my experience of form regression, in me and around me, that I would have to agree, too. Thus anamnesis, a stripping away, a harkening back; NOT a superimposition either on the city or on me. I simply was as I really was and saw likewise, the Magdeburg belljars of Heinrich Zimmer. Then the entity which replaced me (and thought in Greek) was really me, the authentic me; and it was me thinking in Greek. The motion was from here to back there, not from back there to here. Anamnesis for sure! Another person entirely different from my contemporary ego-self was exposed. But later the accretions of time re-established themselves, which seems natural; again I saw Fullerton and again I was my present self. The palimset theory, which I worked on long ago in this thesis. To make sense out of this one must hold to Plato's theory of forms. (Of course, one could cynically explain this all away by saying that due to the sodium pentathol and seeing the golden fish necklace and hearing the words, "This was worn by the early Christians" that extreme hysterical sensi¬ tivity and suggestivy caused me to fall into a hypnoidal state, and I imagined everything...but how come I thought in correct Greek, then? I believe that the sodium pentathol and sight of the girl wearing the fish necklace were necessary causal agents, but what they did was release ^x me from the control of the contemporary object; they did not hypnotize me but rather caused me to remember; they released me, really, from bondage to current appearance. Anyhow my experience was way out of proportion to seeing one fish necklace. It might have disinhibited me, but it could hardly do a one-year job on my head. Anyhow, nothing happened until at least forty days later. TEARS was published; the Army bought it — at least a month. I knew that something absolutely dire was shaping up. Oh yes; I learned about Lorraine, and I lit the candle. One night the phosphene activity began, and soon afterward the landscape melted away & I melted away in unison with it. And the dreams of seeing great books help up open started. If the golden fish did anything it was to open the original crack, as if of a door, making me think for an instant that these were the early days of Christianity again — and that instant later became a world. By momentarily falling into that space the door was opened for me to pass through (cf the Golden Rectangle doorway I saw at the end of the experience; it led back to the Ancient World). (Which is to say by then I had returned to the modern world, and saw the ancient world, which I had been in, on the far side; and then not at all. I had made my way back, and the door disappeared, perhaps forever. What I saw beyond it was where I had been.) Well, I can hash & rehash whether he came forward or I went back, but what I am sure of (in contrast) is that both realities were present simul¬ taneously, and the Rome one was more accurate a representation. The real battle was there; the real dynamics were there. The real me was there.
+
+Last edit almost 5 years ago by svayambhu108
+
+261
+```
+**Co-occurrences**: Tears, Christian, Ubik, Rome, Christianity, Form, Plato, Fish, Greek, Well, Golden, These, Perhaps, World, Fall, Golden Fish, Time, Book, Could, Anyhow, Something, Once, Again, Both, Self, Girl, Everything, Either, Great, Anamnesis, Nothing, More, Another, Through, Real, Fullerton, Would, Other, Were, Back, Beyond, Have, Later, Days, Whether, Likewise, Remember, Until
+
+---
+### Line 3874-3882 (Match: 'Chip')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+10
+Needs Review
+10
+(2 Brahman, in breaking through (or breaking out in Jut's world is exactly like Runciter + Ubik break through (or breaking out in) toe chip, entropic coding, decaying, dying, aging world in Ubik. the relation between Runciter/Ubik to goes world is identical to the relating between Brahman + this world. If we wont to know where to look for Brahman, who is ubiquitous, search in the immediate + mundane places when in Ubik Runciter (+ Ubik, as in the commercials) manifests himself in hierophany. Yes, the manifestations of Runciter are theophanies or better yo epiphanies - of a man, their leader, who was murdered + who is returning to them cosmically: i.e. manifesting himself not in one loct, as a man would, but here, there, at all places + in all ways. Runciter, like Ubik, is everywhere. This is how the clure emission of God, who is wisdom as well as savior (R. knows all the answers, too), returns after been murdered here, as a man. then could St. Sophia bery born again refer to a "now here, now there, now everywhere" Rmoky through (into) as depicted in Ubik" Amid the trivia + trash? up from the ground (rood) + down to sidereal space (star)! Then are they (we) waking upon is it not rather it who wakes: steeper singular: awake! is this what I experiend in 3-74? It didn't just wake wor me; it was adventitiously made to awake - e.g. B, the Gold Fish ivecklace, it al. Yes. Brahman itself awake Atman in one the great conscious Brahman deliberately awake one small oncen scious pour; this explains the dream + experiences I remembered from my early childhood. Brahman has been moving me deliberate toward enlightential (liberation) since my birth!! I guess this has been the main purpose at work in my life - not me at work but it - in me + outside me working in conjunction -
+
+Last edit almost 3 years ago by svayambhu108
+
+11
+```
+**Co-occurrences**: Ubik, Sophia, Brahman, Fish, Well, Wisdom, Like, World, Since, After, Savior, Could, Just, Look, Again, Runciter, Atman, Himself, Great, Their, Star, Through, Ground, Gold, Upon, Would, Life, Dream
+
+---
+### Line 6999-7007 (Match: 'Chip')
+**Folder**: part of
+
+```text
+11/19/77
+
+New line of reasoning: it was the Holy Spirit which came to me (not the Gnostic vision per se, but containing elements of it such as the James-James genius-madman creator-god) because, in coming to me, it fulfilled all which has been prophesied. I.e. the final days or Apocalypse. (Parousia) It brought time, linear time, through its stages to its end. Incidentally the book THE OCCULT AND THE THIRD REICH has a quotation about the Cathars in which the Paraclete is said to be the female side of God.
+
+My nitrous oxide "vine and its lopped-off branches which we placed in a godless cosmos, either as punishment for thinking they could get along without God, or just "started" in that godless cosmos as cuttings" -- this is the basis of a rather different cosmogony and cosmology than any I know of . It is slightly Gnostic, inasmuch as it assigns no God to this cosmos, but -- the Fall is there, and the God is good, not evil; he just isn't here, but elsewhere. Herewith, a somewhat new cosmogony/cosmology may have been revealed to me, than is found anywhere else. It is not Gnostic, inasmuch as the God who created this cosmos is in no sense evil, and there was the classic fall from the Golden Age (of being part of the vine with Him), but what is new is the explanation of why he is the deux absconditus, why we see no sign of him (he is waiting to see which of us need to return or want to return, those who grieve for him). This would account for the Gnostic sense of alienation, of being a stranger in this world, of God and man vs the world -- without positing an evil god. Also, it would well fit into my personal epistemology that this world is in some sense not real, which is not a Gnostic intuition. If the "lopped of cuttings from the vine is added to my radical epistemology, we have, do we not, a new cosmogony/cosmology, which in a sense reconciles Gnosticism with orthodox Christianity. Perhaps the True God did not create this cosmos, but consigned its creation to "James-James," which would make my view more toward the Gnostic view. I can easily fit this in with my "lopped-off cuttings from the vine" revelation. Unless we can sense the sickness of this cosmos, if instead it feels natural to us, then we are equated to it, will remain in it and deserve to. But if we (among the longing and nostalgia and grieving) can discern the sickness in this cosmos, then we are becoming sane, or are the sane ones, and return to the sane god (who, in this sick cosmos, is, as Dionysos, regarded as mad which in fact he alone is not). In a cosmos created by a sick god, a penetration by the sane God would seem the penetration by a sick one; the labels are all backward. In other words, perhaps this cosmos (world) was mad --is-- deliberately alien for a good (benign) reason; the supreme Wise Mind, God, could have deliberately allowed the cosmos where the cuttings went to be a sick cosmos, the more to stimulate them to long to return to him. This is not punishment; this is a set of clues, a mystery and a puzzle, which we must solve, the essence of the puzzle being, "If God is good, why is there evil?" As Gnosticism intuits, the evil demiurge does not know of the existence of the One True benign God in the pleroma above him. The demiurge cannot fathom (like Joe Chip in UBIK) these incursions into his cosmos; naturally he would regard them,
+
+Last edit over 9 years ago by carrifaery
+folder 32 - 002
+Indexed
+```
+**Co-occurrences**: Ubik, Indexed, Spirit, Holy, Christianity, Holy Spirit, Gnostic, Well, Gnosticism, Parousia, Golden, Dionysos, These, Perhaps, James, Like, World, Fall, Because, Time, Folder, Paraclete, Good, Mind, Book, Could, Does, Just, Being, Either, Without, Creator, Those, Part, More, Through, Real, Such, Revelation, True, Will, Would, Other, Creation, Have, Instead, Wise, Days, Evil, Unless, Pleroma, Final
+
+---
+### Line 7027-7035 (Match: 'Chip')
+**Folder**: folder 32
+
+```text
+Indexed
+folder 32 - 005
+But it is amazing, the amount of substructure of reasoning which would have to go into this repudiation --successfully-- of the world thus exposing the divine. One would have to separate god the creator from God the True Father. As long as God is assumed to be creator, one could not conceptually divide him from the world, and thus affirm him in the act of denying the world. This is why all natural theology has failed. God cannot be discerned from nature; the argument from design back to designer is specious. What I saw that I term VALIS or Zebra must then not have been immanent deity at all, but, as I later realized, a mimicking entity not rising up from within but descending into objects and processes from above or, better, outside. It had, so to speak, landed here. As with Runciter's words in UBIK, it was penetrating through from --this is best formulation of all: from behind. Reality is constructed like a ham sandwich: man is one slice of the bread, then comes the slice of ham which is the world, then the second slice of bread which is God. The words in UBIK pierced or filtered through from the other slice, through *to man, to us, the this slice. It's funny that I could read the E of Philo about the world being "an alienating, divisive agency that separates man from God" and not instantly perceive the value --perhaps the ultimate value-- of my writing & its preoccupation. In point of fact, such novels as UBIK, MAZE, STIGMATA, etc., tend to dissolve away the world -- and, if the Gnostics' 3-elements situation-view is a correct view, God should be reunited with us thereby.
+
+Now the incredible accuracy of UBIK can be appreciated. The world is not merely counterfeit (as in STIGMATA and all the others)x; there is more: it is counterfeit, but under it lies another world, and it is this other world, this Logos world, which filters or breaks through. UBIK, then, is a step up from MAZE and STIGMATA is presenting this. It presents a triune situation, which evidently is the actual one, whereas the other novels & stories present only the aspect of world as hallucination, without disclosing that another, actual one lies beyond, below or beneath.* It is God who, as the far bread slice, takes the initiative toward us, as Runciter does toward Joe Chip and the other inertials. This is what I saw in (3-74), when, under the power of the Holy Spirit, I read the dream section in TEARS and found a latent or crypte message embedded in the text. My experience and view, then, are not only Gnostic but what is more tend to prove the correctness of the triune Gnostic division, in particular their view of the world as alienating and divisive between man and God (Joe Chip & Runciter). Had the Gnostic view been wrong, when I "abolished" the world (suddenly withdrew assent from it) I would have exposed nothing, no sublime, sacred, divine reality beyond; a religious experience would have turned out to be nothing but a psychotic break.
+
+Were the Gnostic triune division wrong, my writing would serve a malign, sick purpose: leading the reader away from reality and toward autism. But the Gnostic triune division is correct; otherwise I could not, would not, have had my 2-74 and 3-74 et al experiences. As the
+
+*This is incorrect. MAZE shows another, actual reality lying below the hallucinated one, but it wrongly shows it as bad. It is this world which is bad, is the prison; beyond or below it lies the divine. In fact there seem to be 3 levels: hallucinated good; prison below, which is real, but not the final layer, and then the wonderous divine ground of being below.
+```
+**Co-occurrences**: Valis, Tears, Ubik, Indexed, Spirit, Holy, Zebra, Logos, Holy Spirit, Gnostic, Maze, Perhaps, Father, Like, World, Prison, Only, Folder, Stigmata, Good, Could, Does, Philo, Reality, Being, Runciter, Divine, Without, Indexed
+Folder, Nothing, Creator, Their, More, Another, Through, Ground, Real, Such, True, Deity, Would, Other, Were, Back, Beyond, Under, Have, Later, Suddenly, Otherwise, Dream, Evidently, Whereas, Final, Sacred
+
+---
+### Line 7052-7060 (Match: 'Chip')
+**Folder**: folder 32
+
+```text
+Complete
+folder 32 - 007
+In a sense, positive action of any kind is an involvement in the world. It takes the world as real. Balking, oddly, carries perhaps a greater weight, since the step prior to affirming God seems to be the denial of the world. (Or: the road to affirming the true God stems from the initial denying of the world.) The Ramparts thing -- that was a direct disavowal of the power of the warden-archons, perhaps. I wonder if this sheds any light on the mysterious Xerox missive. What I did was act as mere transfer agent between it and the bureau. Or rather between its sender and the bureau. I did nothing but _immediately_ pass it on. I rerouted it. I had as little to do with it as possible. That was the essence of how I handled it: as little as possible, like something hot (i.e. stolen). the last letter I wrote to the bureau stated that UBIK had scientific information in it, and the OCCP knew. I think now that I was right. Information filtering through the "sandwich" is not merely theological, religious event but a matter of cold hard FACT. Information is information, even if of a stenographic kind. The OCCP certainly would have no hesitation in placing it in the category of the scientific. (Which should compel us to, whether we like it or not.) _Especially_, my god, how especially! if this information was designed to alter history by, z.b., deposing the U.S. president. We are talking about something really heavy, here. It very slightly resembles what the authors of MORNING OF THE MAGICIANS contemplated. Suppose I make a slight shift in the emphasis of all this, pass over into the area of secret societies and occult knowledge and powers, and use my 3-74 experience as an instance --a proving instance-- of that? Then we go back to the U.S. Army buying the 238 copies of TEARS.
+
+If I was to say the information was coming up from below, down from above, or from behind, I'd say through. It's penetrating through the world, with no up-down involved. Through is through. No amount of time or space is involved, even small amounts. How far away from Joe Chip and the others was Runciter? We are talking about the world as an opaque medium becoming translucent and then transparent. I experienced the incredible immediate reality of the Holy Spirit in me and Zebra (God or the Cosmic Christ, the Pantocrator) in the same room as I was. "Break a stick and there is Jesus," is an early saying.
+
+I just realized: seeing Zebra rules out both the OCCP micro-wave stuff and any occult source, because the active Presence was not just inside my head (telepathic instructions and info) but visible, to me, in my rooms. The material transferred into my head was almost certainly the work, inside me, of Zebra which I saw externally. In particular, I have the mimicking factor to deal with, that the Higher Entity which I saw is capable of camouflage and hence complete invisibility to the unenhanced human eye. Only it can see it -- it inside me say it outside. The stenographic messages do not emanate from some human occult group with supernormal powers, but from the Divine Ground of Being Itself. The only involvement which an occult group or OCCP micro-wave teep signals could have would have been able to trigger my experience off...however, my experience in 3-74 was in fact triggered off by the golden fish in 2-74, which I keep forgetting. At the very best, if I am to involve any human group or agency (which Occham's Principle precludes as unnecessary) it would be the Real &
+
+Last edit over 9 years ago by cfr5005
+```
+**Co-occurrences**: Christ, Tears, Ubik, Spirit, Holy, Zebra, Jesus, Complete, Xerox, Holy Spirit, Fish, Golden, However, Perhaps, Like, World, Since, Because, Golden Fish, Only, Time, Cosmic, Folder, Cosmic Christ, Light, Even, Could, Just, Something, Suppose, Both, Reality, Being, Runciter, Missive, Divine, Xerox Missive, Bureau, Nothing, Pantocrator, Through, Ground, Real, Certainly, Secret, True, Would, Very, Back, Have, Information, Info, Whether, Knowledge, Greater, Human, Right
+
+---
+### Line 7062-7070 (Match: 'Chip')
+**Folder**: folder 32
+
+```text
+Indexed
+folder 32 - 008
+true actual hidden secret Christian Church and none other. Micro-wave teep transmissions are a mere theory, but the golden fish sign was real, whether arranged by Christian humans or Zebra modulating my experiences into a disinhibiting sequence. Really, all this leads me back to the mimicking entity, which is astounding beyond belief as an object of experience (not to mention all the dreams & visions & hypnagogic oral material).
+
+One fascinating aspect of UBIK is disclosed when the question is asked, "Where did (I) get the idea?" The origin of the idea, in contrast to virtually all other novels, is evident from the text of the novel itself, although one must extrapolate from Runciter to what-ever Runciter represents, and the state of cold-pac to whatever state we are all in. In the novel, information spontaneously intrudes into the world of the characters, indicating that their world is not what they think it is; in fact, it indicates that their world is not even there at all -- some kind of world is there, but not the one they are experiencing. That time-regression is put forth in the novel, and that time-regression figured in my (3-74) experience -- this still baffles me; the principle underlying the devolution (reversion) of objects along the form-axis in the novel is explained by a reference to Plato's theory of ideal forms, and I guess that applies to our world and to my own experience. However, until I recently studied the E of Philo article on Gnosticism so thoroughly, did I begin to understand the triune reality division which must exist and which is also put forth in UBIK -- if Runciter is God, and Joe Chip & the other inertials are analogs of all men, then the regressed world is the ham in the sandwich, and, as in UBIK, must be abolished; as in Gnosticism, this is accomplished, in UBIK, by the revelation of esoteric knowledge about their condition by a deity-like entity lying behind even Runciter, i.e. Ubik. It is this knowledge --not just information but gnosis-- revealed to them, esp. to Joe Chip, which makes them aware of their real condition. Therefore if one knows very much about Gnosticism (which I didn't until a few days ago) one could see the resemblance between UBIK and the Gnostic cosmogony and cosmology. But we are talking (regarding the real world) of information which, by being transferred, radically changed history. And it must be realized (I certainly do, even if no one else does) that what broke through was not limited to information, but that theolepsy (one at least) were involved. If I rule out OCCP experiments and occult human groups (vide supra) then we have something not found in UBIK, but, although admittedly described as diabolic, in STIGMATA. Is theolepsy not specifically what STIGMATA depicts? With Chew-Z or whatever, Can-D, I forget, the eucharist. What do you get if, as Le Guin suggests, you take a group of my novels & stories and fit them together, esp. the 3 picked up by Bantam? Theolepsy, the Gnosis slipping through, reality (the world) as illusion concealing another but real world (MAZE) -- what an aggregate message those 3 novels add up to!
+
+When I recently reread STIGMATA I saw it for what it was: a penetrating, acute and exhaustive study of the miracle of transubstantiation, simply reversing the bipolarities of good & evil. What the novel contemplated was --that is, the conclusion it reached-- was the
+
+Last edit 8 months ago by Zebrapedia
+```
+**Co-occurrences**: Christian, Ubik, Indexed, Zebra, Form, Plato, Gnostic, Fish, Gnosticism, Golden, However, Maze, Like, World, Gnosis, Therefore, Golden Fish, Time, Folder, Stigmata, Good, Even, Could, Does, Philo, Zebrapedia, Just, Something, Reality, Being, Runciter, Although, Indexed
+Folder, Eucharist, Those, Still, Their, Church, Another, Through, Real, Certainly, Secret, Revelation, True, Deity, Other, Were, Very, Back, Beyond, Whatever, Have, Information, Days, Whether, Evil, Knowledge, Human, Until
+
+---
+### Line 8930-8938 (Match: 'Chip')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+42
+Needs Review
+42
+40 The knowing about the regressive form axis in 1968 + the transversing it in '74 stem from a common root. I de Holy this because it is in "Ubik" that other info exists as to our true situation (e.g., the good deity intruding throug the t very trash of the gutter, esp the written gutter - mat a the folders, etc - to inform us of our real situation - + then many depiction of Ubik the entity itself. There are just too to correct aspects of the latent actuality disclosed for it have been a hit or miss invention. te the marxists (CF) are aware of this. They have solved it it information-as-basis-of-reality problem. Clearly, or suspe that but time travel back along the form axis? Do they suspect this this really exists? I posit: someone or -ones who knows read "Ubik" somewhere in "Ubik" when the world reverted (to 1939) Joe Chip i his head, acquired appropriated "reverted" language - just t 5 "retrieved" the koine, + recognized (not identified but reconized) my surroundings. I was no mere spectator. I did no t merely perceive but was a part of the AD 70 Rome world - just as they were in "Ubik" But what I experienced was not just a time - reversin but a reversion to essence, essence was found back along a vast linear leap to the origins. This was not mentioned in "Ubik" it is clear that we are dealing with archetype t as temporal prototype. In "Tears" that world is set e the future. It is transtemporal: Rome past, USSR present, us a future. Now a relationship between "Ubik" + "Tears is disclosed: "Ubik" gave the cosmological structure, "Tear is the actual social archetype which is ubiquitous - hence the inclusion of parts of Acts, the most astounding retrieval y all "Tears" describes what we were ultimately fighting t the sixties: a police state; + the inclusion of material from Acts revealed that God was arrayed with us + against our adversary (the prototype Rome).
+
+Last edit almost 3 years ago by svayambhu108
+43
+Needs Review
+```
+**Co-occurrences**: Tears, Acts, Ubik, Holy, Rome, Form, World, Because, Time, Good, Just, Reality, Part, Most, Real, True, Deity, Other, Were, Very, Back, Many, Have, Clearly, Information, Info, Someone
+
+---
+### Line 10429-10437 (Match: 'Chip')
+**Folder**: part of
+
+```text
+Complete
+107
+by see how the true Xtian is immortal. + the "Thomas" personality completes the picture of what is done + to some extent how. An advanced (sic) or absolute physics is involved.
+
+Thus in "Ubik" the past breaks through into the present exactly as Judaea AD 50 broke through in Calif 1974. How can this be? As Joe Chip says, "the man contains - not the boy - but the former man." There is some unrecognized other time- axis - maybe the platonic form axis is a "road" by which the authentic [early] Xtians can experience Calif 1974 as contemporary with their own world. As I say supra, "Tears" was not written later than "Acts" - "Tears" is "Acts".
+
+----------
+
+There is a vast significance in my responding to external stimuli in advance (e.g the Ray Bradbury TV program). I cannot fathom however, how this Leibnitz-like "pre-wound" harmony is achievement. By who or what, there is an internal "tape" upon which all our reactions are programmed. Whatever or whoever punched it ([or] engrammed it) knew what external situations were coming, the result is absolute enslavement with a subjective spurious sense of freedom. What the Fuck is going on? This all is completely equatable with the mystery religions' ideas of "astral determinism" + the "God above the stars" freeing you. I think of my concept of the yin world, + the yin-yang dichotomy of [tantra].
+```
+**Co-occurrences**: Tears, Acts, Christian, Ubik, Thomas, Complete, Form, However, Maybe, Like, World, Time, Yang, Platonic, Their, Leibnitz, Through, Upon, Calif, True, Other, Were, Whatever, Absolute, Freedom, Later
+
+---
+### Line 10933-10941 (Match: 'Chip')
+**Folder**: part prevented
+
+```text
+Last edit almost 3 years ago by svayambhu108
+29
+Needs Review
+29
+9 suddenly he understands. But it is too late now to rectify anything: the judge has ruled + the ledger is shut. That he did not know at the time at all the times - he comprehends the nature of The trial + testing, the winnowing process. It is now so clear, + previously he never guessed. He played out one of the several roles. Tormentor or the tormented? It's stressed, however, that in Xtianity, in contrast to Indian avatars, God descended + became man only once, at a particular, unique time + place. Therefore, to witness Christ purely, + not just the "reverbera tions" one would have to travel backward in time + spacially to that place: there are no plural avatars showing up in many, several, all or a few places to enlighten each country + age. The 1st Advent was unique, so, in order that it can be experienced, linear time (+ space, too) must be dissolved. This probably is accomplished through gene pool memory, or perhaps It's simply a miracle: God wills it. Actually, it's analogous to the regression along the form-axis I described in "Ubik." This axis leads back ultimately to its rock bottom stratum: the original time + place of Jesus. Which is to say, buried within all the variations + evolutions of any form lies the pristine + unadullerated original form, regression from which is impossible. As Joe Chip thinks, "the man contains not the boy but the former man. It's intereting in "Ubik" that I seemed to think That the genuine, ultimate form lay in the past, not the future. But re Christ, this is so.
+
+Last edit almost 3 years ago by svayambhu108
+30
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Jesus, Christianity, Form, However, Perhaps, Advent, Therefore, Only, Time, Just, Once, Probably, Indian, Through, Actually, Would, Judge, Back, Many, Have, Memory, Suddenly
+
+---
+### Line 14654-14662 (Match: 'Chip')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 027
+27
+
+Power of suggestion? Hypnotism? How about the koine, etc? No, I really (1) was there -i.e. world- + (2) was a person -psyche- of that period. Both world + psyche switched, + they coupled (matched, dovetailed) perfectly - which my theory accounts for, as well as for accounting for the switch qua switch. What put an end to Thomas + the CAD 45 Rome world was lack of consensual validation from other people, who were still in USA 1974. But I was in Rome CAD 45, really, + I was a citizen of that place + that time, + inwardly knew the appropriate facts, exactly as takes place in "Ubik" in the form reversion. Joe Chip finds he inwardly knows things appropriate to that world, although he remembers the 1992 world. That damn novel is valuable beyond compare: uniquely in the history of civilization it is the correct model of reality - + I didn't write it or know it - I could not have - + I know who did: P. did. Because P. knew the truth + fed it to me deliberately - to get it published, just as it did get published, to bypass the mechanical "Age of reason." This is the big recent insight I've had: why P. sent this info through me. "Ubik" is the only correct model of reality currently in existence.
+
+Last edit over 7 years ago by Toso
+Folder 03 - 028
+Indexed
+```
+**Co-occurrences**: Ubik, Toso, Thomas, Indexed, Rome, Form, Well, World, Because, Only, Time, Folder, Could, Just, Both, Reality, Although, Toso
+Folder, Indexed
+Folder, Still, Through, Other, Were, Beyond, Have, Things, Info, Truth
+
+---
+### Line 17277-17285 (Match: 'Chip')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 053
+51
+
+This ends the mystery about the contents of "Tears." The cypher is about the fifth savior. That is what this all is about. __ Leo Bulero defeating Palmer Eldritch is the savior / messenger (Son of Man) defeating the demiurge creator of this prison (+ illusory) world. Breaking his power over man. In "Ubik," Runciter calling to Joe Chip is the savior calling to his human counterpart. This is also true in "Pot Healer" when Glimmung calls to Joe Fernwright. + Mercer + the Walker-on-Earth are one + the same. Deity takes trashy + even fake (sic) forms: Mercer, Glimmung, the Ubik commercials. "Scanner" is a very serious book. Man's present, unredeemed state -his ontological condition- of ignorance is depicted; this is not an aspect of his state but is (esse) his state. Opposed to this is the ontological state of knowledge (knowing) provided by Runciter + Ubik in "Ubik." "Scanner" focuses on the condition of ignorance dealt with more glibly in "Maze" + "Ubik"; it goes into the anatomy of the occlusion - it really studies nothing else (no cosmology is presented). Mainly, it strives to show that we are fucked up in a way which precludes our being able to be aware of it - the most ominous kind of occlusion (ignorance). It points to the need of outside intervention. "Valis" will be an attempt to show that intervention + redeemed state, but it is proving too difficult to write. This novel must be written, + I have the redeemed state of 2-74/2-75 to base it on, but God, what a task: to depict 1) that which redeems; 2) the process of redemption;
+
+Last edit over 5 years ago by Toso
+folder 21 - 054
+Indexed
+```
+**Co-occurrences**: Valis, Tears, Ubik, Toso, Indexed, Form, Maze, Scanner, World, Prison, Earth, Folder, Savior, Book, Even, Being, Runciter, Eldritch, Toso
+Folder, Palmer, Palmer Eldritch, Indexed
+Folder, Nothing, Creator, More, Most, True, Messenger, Will, Deity, Very, Have, Fake, Knowledge, Human
+
+---
+### Line 19474-19482 (Match: 'Chip')
+**Folder**: folder 06
+
+```text
+folder 06 - 046
+46
+
++ enter this state but don't know it. I then departed from the description of the Bardo Thodol existence in "TTBofTD" + added Ubik, a vast Logos-like mind who invades their decaying world + rescues them. Now, if I was right (that secretly "TTBofTD" depicts -+ probably knowingly depicts- our present life, world + condition) I could anticipate that after a suitable time lag -+ especially if I was dying, like Joe Chip on the stairs- I could expect intervention by my thought-formation Ubik. In 3-74 due to overpowering dread + enervation I began to literally experience the colored lights described in "TTBofTD" + knew myself to be in the Bardo Thodol state. Yet it was this side of the grave; I have not died; ergo, "TTBofTD" does depict (secretly) our present condition. + then, sure enough, exactly as I described in "Ubik," written information appeared to me, + presently Ubik itself, down to specific details. Valis (i.e. Ubik), then, is a projection of my own mind + not "real" - but, as "TTBofTD" says, nothing we experience is anything other than objectifications of our own prior thought formations - + enlightenment consists in knowing this + so controlling them. Only if you 1) read "TTBofTD" + 2) realized it secretly applied to this life could you accomplish what I did in creating Valis. Truth is totally plastic + represents a complex mingling of our former fears, beliefs and desires (mostly unconscious in
+
+Last edit over 6 years ago by Toso
+folder 06 - 047
+Indexed
+```
+**Co-occurrences**: Valis, Ubik, Toso, Indexed, Logos, Like, World, Only, Time, After, Folder, Mind, Could, Does, Bardo, Thodol, Bardo Thodol, Toso
+Folder, Probably, Nothing, Their, Real, Other, Have, Life, Information, Truth, Right
+
+---
+### Line 21356-21364 (Match: 'Chip')
+**Folder**: part occf
+
+```text
+Last edit almost 3 years ago by svayambhu108
+119
+Needs Review
+119
+it Lem seriously ponders the very real possibility of such a machine-programmed pseudo reality as depicted in "Ubik" + wonders how the brain involved could tell. suppose "events" in '74 are obviously based on material present in the brain a decade previous. This not a kind of technological fuck-up such as Lem envisions? "Reality" is actually playing back, as an LP record plays back, reality (v. supra: "We are tracking a "groove" in which the information is already laid down"). Not the discovery by the brain of this - is I recently speculated (reasoned) that upon My brain (not conscious ego) perceiving that bvents (of 2-3-74) were already present (as nformation?) In my brain (or memory), my brain could problem-solve by scrutinizing its own prior contents (memory) rather than The external events (or "external events"). Which is to say, the more complete matrix of the "external events" lay within the brain, + as memories (i.e. the were there years ago). this cellates with my "two-tapes synchronized former theory. But is more productive. There is a feedback system (v. Lem): rreality simu rain at or com puter programmer) wo further points: 1) I feel/felt that I literally lied C 2-3-74. Is this not analogous to Joe Chip? + 2) felt that I was reliving 3-74; e.g. I knew the ract day the Xerox missive was coming. Does this not to Lem's paradigi model conform
+
+Last edit almost 3 years ago by svayambhu108
+120
+Needs Review
+```
+**Co-occurrences**: Ubik, Complete, Xerox, Could, Does, Suppose, Reality, Obviously, Missive, Xerox Missive, Brain, More, Real, Such, Upon, Actually, Were, Very, Back, Further, Memory, Information
+
+---

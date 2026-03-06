@@ -1,0 +1,353 @@
+# Evidence Packet: Messenger
+
+- **Category**: Top Term
+- **Total Mentions**: 41
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 807-815 (Match: 'Messenger')
+**Folder**: part segment
+
+```text
+Jesus spoke of a coming "Kingship of God" which, He said, "Is among you/ around you/ within you." It could arrive any time. When it arrives, many men, most men, won't know. Since God created this world in the first place, the angle of error may be slight, and the percentage which He must remove and change may be relative, small. Is all this world, every thing and creature and idea and object in it, objectionable to God and a produce of the Adversary? Obviously not. Suppose there were a subtle seizing of power, behind the scenes as it were, by the Rightful King. He would retain the present order by and large, disturb as little of it as possible, act in an economical way to take control. We might only sense that some oppressive power had departed; some burden and fear had lifted.
+
+That this has happened I am positive. That so little has changed shows how slight the angle of error, the element which had to be "burned off like chaff." Death still exists; Jesus and Paul always said that this body would have to live out its natural cycle and die away, for the other body to replace it, which comes later. The main thing is, This world is under control, now, and two main spirits reign: Truth and Justice, although they are of necessity unfolding in time (i.e. it takes time, because sequence is necessary). This world does not operate on its own, independently, and having fallen into the hands of tyrants and liars. Truth and justice lie at the heart, and work out judiciously, where needed; they now, in a distinct and real sense, although subtle, prevail, and nothing can ever change this; any set back, or any retention of the lie, is only apparent. We must not go on what is apparent; that was never a good index. But, in another way of viewing this, we can say that at last that which is apparent, which appeard to be, in actuality is. This was not true before. There are no further real secrets, and no further fake facade cardboard Thought-control hypnotis pseudo-reality managed and manipulated, no invisible empire of police and criminals and dangerous covert power. What meets the eye can be trusted, except that still hidden to most people is the heart, not of darkness, but of light; it is the pulse at the core of things, whereas not so long ago at the core of things rotten darkness stank and conived.
+
+We have a concentric-ring society, and the innermost ring has been burned off by the fire, has now been replaced by light, by God, and this is parallelled by a discernment outside, by those on the rim, that the Lord of Hosts has in fact suddenly come to his temple, announced by the messenger of the covenant whom we delight in...as Malachi put it. There was a swift arrival (mainly by Elijah), a swift victory over the darkness, a tossing down of the tyranny, and then the enormous judging and destroying power was withdrawn and replaced by an assisting and healing power. Advocacy for the weak and oppressed is no longer necessary, now that God rules. Healing (as if after a battle which was won) has been in order, and so done. Finally, the freeing of the many
+
+Last edit over 5 years ago by Harpax
+52
+Needs Review
+```
+**Co-occurrences**: Jesus, King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+
+---
+### Line 817-825 (Match: 'Messenger')
+**Folder**: part segment
+
+```text
+prisoners, the giving them their first glimpse of the pasture which is their reward. It is as if humane people came across a place where animals were imprisoned under cruel conditions: overworked, starved, animals which were ill and unattended, and, finally, put to death in vicious ways without release or reward, with no recompense. At once, these humane visitors seize the owner of this cruel factory and depose him; then they see to it that the sick animals are given medical attention, food, sanitation -- all their just needs looked after...but most of all, these animals, ill-treated all their lives, are to be made to understand that finally they will go out into this great lush pasture forever, and never never at any time --this is a promise-- returned to the dark servitude which they had suffered under. The original owner of this slave prison, this factory, was deprived of everything he'd built up, his profits, and dealt a stunning blow which nearly destroyed him; most of all, judgment by the intervening humane people was swift, and in favor of the imprisoned, powerless animals, and entirely on their side against their obscure oppressor. Judgment, assistance in a short swift battle, medical help, food, a variety for them to see, now, as soon as possible, so they would know...especially since some would be too ill, too far-gone to be brought back. They deserved to see now, and not have to wait. "Look what lies in store for you," the humane intercessors would be showing them, when they knocked away the always before so evidently impenitrable wall of the prison. "Look beyond," and there would lie vast fields, grass, and the hillsides. Springtime, beyond the broken-open prison wall. First the animals would see the prison which surrounded them which they had mistaken for reality; it was not: reality lay beyond, and the prison would be knocked down entirely eventually, although that would take time. To free so many trapped and ill-used animals would take a while. But the cruel tyrant boss who had rules -- being deposed, he could not keep the prison going, as his father before him had. Although it had existed thousands of years it was decisively gone, now, even though many animals, so enured to their life, so sure that it was the only life, or rather only existence, would not see or understand at first.
+
+Or, more accurately, at one time the plant or organization had been well-run and regulated, in a fair and human way, and then the true owner and ruler had assigned stewardship in his absence, and had gone on a journey, with promise that while he was gone it would be run properly. The time of his return was uncertain. Those left to run it were like kids a whole bunch of kids left by their parents to tend themselves, or perhaps kids to be taken care of by a hired attendant. I think the first model is most accurate. Suddenly the parents return. It is like LORD OF THE FLIES. Horrified, they find that some kids, the shrewder, stronger ones, have enslaved the others; the whole house is a shambles, with fighting and breaking going on, a descent into barbarism...the parents line up all the kids and judged each according to what that child was doing at the moment the parents returned.
+
+Elijah, coming immediately before God, played a multiple role: he refined those whom God wished to save rather than destroy -- i.e. he got them into a fit condition so they would pass muster. I guess it's a form of tipping off those kids you wanted tipped off that you're about to reappear and check out everyone. You send a messenger in advance who
+
+Last edit over 5 years ago by Harpax
+53
+Needs Review
+```
+**Co-occurrences**: Form, Well, Lord, These, Perhaps, Elijah, Father, Like, Since, Prison, Only, Time, Harpax, After, Even, Could, Just, Look, Once, Reality, Being, Although, Everything, Great, House, Without, Those, Their, Wait, More, Most, Before, True, Death, Finally, Will, Would, Were, Back, Beyond, Under, Many, Have, Journey, Judgment, Life, Dark, Suddenly, Human, Evidently, Free
+
+---
+### Line 823-831 (Match: 'Messenger')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+53
+Needs Review
+53
+carries with him a friends list. The messenger, Elijah, shapes up and squares up each person on the list; this involves making him pious, and directing him to engage in good works; he is good of attitude and good of action. Let's say there is a five to six month period in which the persons are reshaped and refined and reworked. They are born anew, in God, and it's a hard row to hoe. They are acquainted with the true nature of reality, and the true situation confronting them. They become conscious of their forgotten origin and task (anamnesis). Setting to work, they aid in the Great War against the Lie, offering themselves as sacrifices. They sustain mortal injuries in that fight, but accept it, confident in their tasks and their God. While lying bound up, as if in the "Todes Banden," the bonds of death, they see the surprising, sudden awful glare of the Day of Judgment; at this point, Elijah has seen to it that they are in proper shape to escape the Wrath and to please God. Even so, the loving sacrifice, their Savior, is present to absorb both the blow (Pinky the guru) and the sin, the toxin, the guilt (Ralph, as lamb). The person is lovingly accepted by God and goes to join him, although he continues on here, since the Kingship (Kingdom) is now here, rather than "beyond," or "in heaven." Thus, this experience comes without him having actually physically to die. All this, including the restoration which is his reward, the green grass, the pasture, is here.
+
+The whole experience seems to take about one full cycle of the earth: one year, beginning at the vernal equinox. Thus it is identified with the departing of winter and the reappearance of the lost spring.
+
+This whole last year contained a lot of pain and shock and loss for me (I was hospitalized twice, my son once, I lost two cats in very sad ways, and had to get rid of my little dog, and was burned on my first screen play), but it was the best year of my life, because somehow within the illness and loss and pain I gained an inner reality to match the external reality. There is no point in merely establishing an external new real kingdom or kingsom. God must reign in the human heart and body as well. It is the ultimate growth: to turn into a portion of God ("that I might live in Him / Invisible and dim") and continue on, knowing that He is both inside and outside. I can say that although I have not seen God, I saw signs of Him, indubitable signs. And knew Him to be growing within me, as the new life Firebright, from the Sun...the Aton, I guess, which Iknaton spoke of, that good tender trembling frail brave man.
+```
+**Co-occurrences**: Kingdom, Well, Elijah, Since, Because, Earth, Harpax, Savior, Good, Even, Firebright, Pinky, Once, Both, Reality, Although, Great, Anamnesis, Without, Their, Heaven, Real, Actually, True, Death, Somehow, Kingship, Very, Beyond, Have, Judgment, Life, Body, Spring, Having, Human, Lamb
+
+---
+### Line 1382-1390 (Match: 'Messenger')
+**Folder**: book certainly
+
+```text
+Anamnesis would mean, "Nothing is concealed any longer, from the beginning," which also implies everything lost has been restored (a wider definition of memory, but emphasizing not merely to gain but to regain). (Not rise, but rise back.)
+
+It seems to me that anamnesis (actually experienced, with perceptual awareness of the Real Presence, etc.) must be the last stage or nearly so in a long chain which is ultrapersonal. It must mean --not that I am unusual-- but that the Parousia have indeed begun.
+
+Anamnesis such as mine must be the pay-off stage. What follows now is immediately tied to it (see "Message," the adversities which shape, the fruits of the harvest shaped, etc.). ("Message" suggests that God selects those who have proved fit, who have survived a lot. I have felt I underwent a lot, like Prince Tamino in "The Magic Flute," and that if I survived (chose well) then finally (vide my dream in Vancouver) the darkness would lift and I would understand...but this would only come at the end; when it was all over. I also believed that the Dark-Haired Girl would show up, at the end; either her or death. The Messenger.
+
+What I experienced was not so much an acausal timelessness, but cause operating along "spacial" lines, that is, simultaneous causes, rather than moving along before-after temporal lines. It is as if I saw causes, mutually interacting, manifest (the jungle gym model of the universe). All which produced effects (i.e. all causes) were present and perceptible. All reality lay in the present, the Augenblick. There was still cause; this wasn't acausality, like synchronicity. It was almost a pushrod system, except that much was done through signalling. It was an intricate series of mutually adjusting elements producing together a harmony. It was all mutual and reciprocal.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Well, Parousia, Like, Only, Harpax, After, Reality, Girl, Everything, Either, Anamnesis, Nothing, Darkness, Those, Still, Through, Real, Such, Actually, Before, Death, Universe, Finally, Would, Were, Back, Have, Dark, Memory, Except, Magic, Dream
+
+---
+### Line 2079-2087 (Match: 'Messenger')
+**Folder**: part of
+
+```text
+Needs Review
+153
+- 6 -
+
+those who died at the first pass over, which is the firstborn of the Egyptians. Amazing. What does it mean? He was the sacrifice, and a voluntary one. Now has there been a third passover situation, with Pinky et al as the sacrifice? Has a new colloquy, a third, begun between God and man, hence we can expect a third covenant now? Something to do with the ecosphere and animals? I personally know who sacrificed himself this time and it was my poor cat. My cat, though, already transfigured into a spiritual being (I stick to this). But also, the bells (sic) which I heard are more like Easter bells; perhaps it was a total experience of the first pass over end then, so to speak, the second, Christianity's. I say this: the dying (lunar god); he is the one who died on the cross, but he is not who died at the first pass over. I say this: My experience was very Jewish. Hmmm...and this ratifies it, this I've learned about Moses. However, consider: at the first pass over God delivered man from slavery to freedom; at the second event, the crucifixion, nothing happened of a social sort like this; frankly, from a social action standpoint it was a total failure. And in 1974, we had a destruction of the slave state and emancipation, like the [excised] Israelites obtained via Moses from Jahweh -- from the father, who can accomplish this (to son cannot; he can't even extricat himself). Ah! The the King is here, not the son ([excised] represented in THE BACCHAE as the stranger, which is to say, the high priest of the [excised] god or the messenger who preceeds him). It is the King, it is Yahweh; or else it is the King, it is Christ elevated to the power position he failed to use or have in Biblical times. God's power has breached the state. But this is a definition of the Parousia! Which may by why I mistook the pale light as an indication of the arrival of the Dies Irae! Wrath! Whichever it is, it is majesty and power; and according to Catholic doctrine, where power predominates, it is God, not Christ not the Holy Spirit. This was God. Jesus just mingles and they get him. But he was supposed to return with power. Returning (the Second Advent) he would be older, and changed and resemble the Father. It is interesting that both Yahweh and Christ, for totally different reasons, are "vernal equinox" deities: the former because of the [excised] Exodus deliverance, the latter because of the cycle of the lunar-grain god. So, via Passover/Easter, they are related. (Nisan 14 and on.) Via Passover/ Easter, then, there is made a relationship between the lunar-grain god who is killed (which includes Zagreus & Dionysos etc) and Yahweh, who adds to this impression by being a nature god. But He (Yahweh) is not a nature god who dies & is reborn; he is totally constant. "I am what I am." Perhaps when, for instance, we see Zagreus we fail to see that standing (so to speak) behind him his [is?] a greater figure: his father. The lunar-grain god is a "son"; there is also one such as Yahweh. If Dionysos et al are grain gods, there is also the one who created the grain & sustains it in the first place: the father of it and its god. We see the grain, and its cycle, but we do not see the immanent creatorgod who created it and maintains it; he is invisible. We do not suspect his existence because we take the universe per se for granted; he is so great that truly he is everywhere. This is the ultimate God.
+
+Oh yes; on that Sunday night of the pale white light -- I knew that it (the angel of death) was, specifically and exactly overhead. To it, we were on a plain below, a landscape. It was passing over us.
+
+Last edit over 5 years ago by wtutwiler70
+```
+**Co-occurrences**: Christ, Spirit, Holy, Jesus, Christianity, Holy Spirit, King, Parousia, However, Dionysos, Perhaps, Advent, Father, Like, Because, Time, Light, Even, Does, Pinky, Just, Something, Both, Zagreus, Being, Catholic, Moses, Covenant, Himself, Great, Bacchae, Gods, Jewish, Nothing, Those, More, Such, Consider, Yahweh, Easter, Irae, Death, Universe, Would, Angel, Were, Biblical, Very, Have, Freedom, Passover, Cross, Greater, White
+
+---
+### Line 2453-2461 (Match: 'Messenger')
+**Folder**: book of
+
+```text
+Last edit over 5 years ago by Harpax
+183
+Needs Review
+183
+The news-scoop on NBC TV about the vast police dossier network (computer linkage) shows that my apocalyptic view is essentially correct. But I now see this, too: the dream in TEARS is a description. Whereas 3 74 is not a description but an event. It is not a sign, then, but the thing alluded to (by such signs as the dream, which I had myself before finishing TEARS, 1970). However, the sign (same one) repeats itself in the "St. Sophia" message -- still a sign/portent of what's to come. But I think the events which come before that have come, or begun to come. The Mission booklet "The Kingdom of God" lists 3 or 4, and I count them all has having taken place, anyhow in my subjective life and experience, in the proper order: Elijah; the Holy Spirit; angelic messenger (telling about St. Sophia); Resurrection of early Christian, the essene; next is supposed to come the Rightful King and Judge returned, which the messages deal with: the Second Advent itself.
+
+. . . Eureka, I get it finally. My obtaining all this a priori over the 14 months, plus the religious material placed through me in TEARS shows -- what? Answer: It shows that Christianity is indeed a revealed religion (and its Book the Bible was dictated by God via the Holy Spirit, etc., as claimed). Christianity has always claimed to be a revealed religion, esp. its Book; I know that this claim is correct. What I call "a priori" is merely (sic) that it was revealed to me directly; so I can assume that the books of the Bible were indeed revealed (dictated by God) to the various authors. This is important because no one really believes this about Christianity, nor its Book. It is Elijah's gift from God to acquaint us with this fact, of this truth, in time (i.e. before the stark pale light of judgement comes on, as I was also allowed to foresee); this permits us to choose in the basis of absolutely correct knowledge; if we decline it (faith in Christ) while knowing this, we have no one to blame but ourselves; it would be a deliberate refusal, not due to mere ignorance. This is the well-document moment of last chance before the judgement hits. It is an act of graciousness and mercy on God's part. . .to bring as many people to safety (salvation) as possible. The tree of wisdom, which heals physically and spiritually. . .which is the tree of (eternal) life.
+
+"As you have not come to Me I come to thee." (In dream) (Seen on page of the Bible, Christ's words.)
+```
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Christianity, Holy Spirit, Sophia, Kingdom, King, Well, Bible, However, Wisdom, Advent, Elijah, Because, Time, Harpax, Faith, Book, Light, Anyhow, Kingdom of God, Essene, Still, Part, Through, Such, Before, Finally, Would, Mission, Page, Judge, Were, Many, Have, Tree, Life, Having, Knowledge, Truth, Dream, Salvation, Whereas, Answer
+
+---
+### Line 3693-3701 (Match: 'Messenger')
+**Folder**: part of
+
+```text
+Needs Review
+299
+-2-
+
+The Second Coming is to be conceived (viewed and understood) primarily as that restoration, on a vast & general scale, for all, which I underwent in 3-74. I think I am right. I think this is so. This is the significance of it. One asks, What will the Second Coming achieve? No comprehension of the answer is possible unless one understands the titanic magnitude of the Fall (v. page one). Unless we can grasp what we truly are (or were once) we cannot envision the extent of the change in us which the Parousia will accomplish. Seen thus, I would have to say, as dictated by logic, that my 3-74 experience was a portion of the Parousia, sotospeak ahead of time, ahead of its overall coming. The Sritannica says "the Kingdom is always coming but not quite here," but I temporarily experienced it "out of phase" with its locus in linear time. Viewed this way, my experience was not a conversion, nor was it a visitation by the Holy Spirit merely, but a preexperience of the Parousia (which is in keeping with my general nature of experiencing events ahead of time). Look: If what I experienced in 3-74 were experienced by all mankind (including the Good Friday Spell, the over¬ throw of the wickedness, the healing, the pastoral landscape, the altera¬ tions in the animals, etc.) we would say, "Yes, this is the Parousia." All that was lacking was its being limited to me. And, probably for the same reasons that it was limited to me, it was temporary. I think now of the Golden Rectangle gate which I saw. Probably it was the coming together of the two realms at last: the sublunar and supralunar, the narrow door between. Its importance cannot be overestimated as a part of what I experienced; the narrow door (vide Plotinus) had opened. That which makes up heaven had penetrated (breached through to) Earth, and the two realms were (at least for me, and for a while) no longer separate. If this was a prophetic vision (in the accurate sense of the term) I could rank myself high up, say as with Daniel; but what I saw — all had been seen and recorded before; I have nothing new to pass along to other people. The more I read of the Bible, the more I learn of their prophetic visions, the more I see that each in its turn was a further revelation of the theocracy to come. What, if anything does mine add? I do think that the angel Gabriel was the messenger who spoke to me, since that is his task and role. Did he say anything new? Well, he said that the conspirators were the wickedness to be thrown down, and that that throwing-down was beginning; implied, too, was the imminence of the Second Advent, tied in, following, the throwing-down; which is to say, Gabriel said, The times previously predicted have now come — with emphasis on the word now. It is not future; it is now, at least in part. And if in part, then the whole great process is here, and my vision of the palm tree garden is the final and true vision of the Peacable Kingdom. We are not talking about events hundreds or thousands of years hence; part has already become history — in the past. It is not so much that Gabriel said, This will happen; it is that he said This will happen now, to living men. It is in our time. Viewed this way which is tentitive, what I experienced was not a "prophecy of things to come" but a revelation of that which is NOW. The greatest enigma in what I saw was the narrow gate or door; was it closing, after having opened temporarily, or was I seeing it open? What it was a door or gate to I am certain, however. There are two realms, and at least for a time (and for me) the door or gate was open.
+
+Last edit almost 5 years ago by svayambhu108
+300
+Needs Review
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Kingdom, Well, Bible, Parousia, Golden, However, Advent, Plotinus, Since, Fall, Time, Earth, After, Gabriel, Garden, Good, Could, Does, Look, Once, Being, Great, Daniel, Probably, Palm, Viewed, Nothing, Part, Their, More, Through, Living, Heaven, Before, Revelation, True, Will, Friday, Would, Other, Angel, Page, Were, Further, Have, Tree, Things, Having, Unless, Final, Right, Answer
+
+---
+### Line 5587-5595 (Match: 'Messenger')
+**Folder**: part of
+
+```text
+My suspicions of long standing are correct - were correct: there is a simulating, non-human "mantis" race among us; what I never suspected was: 1) They are super not sub human 2) Good, not bad - +: 3) I am one.
+
+We are "factory representatives" (q.v. "Autofac") of the great mimicking organism - perapatetic extensions: we as individuals mimic as it (Zebra) as a whole mimics.
+
+In 3-74 I was taken off "homeo" + (like [Pellig?] in Solar Lottery) placed on "hetero" - controlled by the master circuit entity. That is what took me over: my source, of which I am an expression, + my autonomy from it a mask, an illusion. "My yoke is easy, my burden light" [Matt 11:30] "The Lord of hosts will suddenly come to his temple - the messenger of the covenant whom ye delight in." [Mal 3:1] "In that day when I shall act." [Mal 3:17] What I forgot is that "Kingdom of God" really means "kingship of God" - it is he whom Christ called "My Father" + of whom he said, "My Father + I are one." [John 10:30] + so it is said, "Christ is the head of the (total) body, of which we are members."
+
+Last edit over 5 years ago by wtutwiler70
+10
+Needs Review
+```
+**Co-occurrences**: Christ, Zebra, Kingdom, Lord, Father, Like, John, Good, Light, Kingdom of God, Covenant, Great, Will, Kingship, Were, Body, Suddenly, Human
+
+---
+### Line 5614-5622 (Match: 'Messenger')
+**Folder**: part of
+
+```text
+What I did vis-a-vis the CP was the father's will. My whole lifetime moved relentlessly from the "[Olive Holt?]" period in childhood toward my epiphany (so to speak - my dropping of my mask).
+
+An interesting point is that the CP is a fraudulent secular imitation of what we truly are (in a sense we are "totalitarian" in that a central will commands us [)] - they are an evil mrror opposite, employing coercive physical force, terror + earthly power, like the Nazis + like the Roman Church. The are our mirror opposite, espousing truth - our truths - but in actuality liars. They are the semblance of our hidden reality... slogans + ideology without the substance: the[y] mimic us, + we mimic them.
+
+I think people like me are messengers - we bear news "good tidings" (e.g. "St. Sophia, etc.") + you know what the Greek word for messenger is. But I am happier with the idea of prophet, to whom the angel spoke (i.e. the voice of the Mind-Central).
+
+Insect characteristics: 1) group mind ("hive of bees") 2) metamorphosis of insect sort (chrysalis into final form) 3) "neutral" (or "AI") voices...dispassionate. 4) mimickry 5) very old. 6) programming. 7) fierce mask (esp. in O.Test.)
+
+Last edit over 5 years ago by wtutwiler70
+```
+**Co-occurrences**: Form, Sophia, Greek, Roman, Father, Like, Good, Mind, Reality, Without, Church, Holt, Voice, Olive, Olive Holt, Will, Angel, Very, Evil, Truth, Final
+
+---
+### Line 7007-7015 (Match: 'Messenger')
+**Folder**: folder 32
+
+```text
+Indexed
+folder 32 - 002
+as Lem says about UBIK, as uncanny, unnatural and wrong. Nor is this James-James god evil; he is merely fevered, sick. (As I saw in James-James, who created for the mere creative restlessness of creativity itself, with no thought to what would become of his creations.) Basically what is wrong with this cosmos is that it is in fact no cosmos; it lacks the regulatory hand of justice. The lack of that hand, the hand of what Plato calls "the steersman," allows for anomie. James-James just tosses each new creation out into the void, where it collides with whatever else is there. A disorderly universe where everything crashes into everything else (ananke as chance) is no cosmos at all. So a deep insight into our world is that it fails to meet the criteria that apply to a cosmos in contrast to anomie. To perceive this, one must compare it with something. Again, memory is involved. The grieving soul longs for the true cosmos, where justice reigned, that it had once and lost.
+
+Now, it is possible that as in Plato's Timaeus, the true God (the steersman) is overcoming the anomie of this world with order (or justice), and will eventually infuse it and overcome it. Messengers are sent here to provide assistance (as the Gnostics believed), but also the Christian eschatological expectations could be finally fulfilled by an ontological transubstantiation of this world by the real god; however, the Gnostics are correct in assigning the creation of this world to a sick god, and experiencing intervention "from outside." This goes back to my really top-notch idea of the universe functioning like nothing so much as a teaching machine. Our universe (world) is a puzzle. We must figure it out. The divine messenger(s) assist us. It is essential that we penetrate the mystery, first by realizing that there is a mystery, that, in point of fact, something is wrong. And then we have to follow the path of figuring out what is wrong, why, and how, if it is to be solved (altered) it be solved. Somewhere along the line, if we have figured out that a sick god must have created our world, we have thereupon an even greater puzzle than at first, because the problem does not end there but only deepens: if there is a good, benign, superior God, a true God, to the creator, why does this True Good God permit the evil of this cosmos to exist? We could stop with the realization that a sick god created our world, but even the Gnostics do not stop there; even the Manichaeans don't stop there. All systems posit some good. The mystery, such as I experienced in (3-74), of divine (benign) intervention at first deepens the mystery, but leads eventually to an untangling of it. Only two elements allow one to unravel the mystery (providing one has gotten far enough along to see that there is a mystery in the first place): (1) the divine intervention itself, qua intervention; and (2) the content of what the intercessor reveals. The fact of intervention alone provides much information, even if, within the intervention, there were no content. However, the content answers the puzzle which the intervention qua intervention poses, although not at first. One confuses the two: divine intervention qua intervention. and the information - revelation - conveyed by the intercessor; the two are not the same. I think that if there were divine intervention without revelatory content, one would burn one's circuits out trying to figure out what it signified. The question, unanswerable, would arise as: "How come it would be necessary for God to intervene in his own cosmos?"
+
+Last edit 8 months ago by Zebrapedia
+folder 32 - 003
+Complete
+```
+**Co-occurrences**: Christian, Ubik, Indexed, Complete, Plato, Gnostic, However, James, Like, World, Because, Only, Folder, Good, Even, Could, Does, Zebrapedia, Just, Something, Once, Again, Although, Everything, Divine, Without, Indexed
+Folder, Nothing, Creator, Soul, Real, Such, Timaeus, Revelation, True, Universe, Finally, Will, Would, Creation, Were, Back, Whatever, Have, Justice, Memory, Information, Evil, Greater, Ananke
+
+---
+### Line 7659-7667 (Match: 'Messenger')
+**Folder**: book of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+38
+Needs Review
+38
+41 Is it possible that here + there others have experienced return of memory - maybe just a few people- through /from my writing? "Faith of our Fathers" is the most subversive since it paints God as evil + supporting the terrestrial tyranny If ever I stuck my foot into it Gnostic-truth-wise, it was in that story "Stigmata" didnt help (sic) either K.W. pointed out that my Gnostic narrative goes all the way back to "the Variable man" + "Eye in the sky." My very earliest stories - + then, 25 years later, I am caused to remem‐ ber. I impune evil not just to the political + economic systems this world but to the very God of this world ("Fathers") + then in "Ubik" salvific messages giving an account of our true situation, which we are asleep to, are presented as being slipped to us in the mass of "noise" or "trash." "Fathers" + "Stigmata" evil God "Maze" Forgotten instructions erased memories + invading mission. "Impostor" signal contact from the good deity outside nature. "Ubik" "Eye; "Stigmata," "Maze," "Ubik," etc. fraudulent world on top of all this there is the dream paragraph in "Tears." + + in "Frolixg" there is clearly the dies Irae, specifically intervenon tion + judgment + overthrow of this system of things. I am a messenger (mercury). I carry the Caduseus, symbol of DNA memory (Gnosis) +: "this person is under the protection of the Gods" - although I didn't know any of this Until 3-74. like the Brothers' Grimm's story about the goose girl where the true princess + the servant maid exchange places, the King + the court Jester have changed places: he who sits on the throne is demented in a solemn (mirthless) puritanical way, whereas the funning, Giddy "Jester" knows - + tells (cf "Hamlet") the real truth, + is the deposed legitimate King. This was revealed to me long ago - v. the dancing King in the cornfields in sprins
+
+Last edit almost 3 years ago by svayambhu108
+39
+Needs Review
+```
+**Co-occurrences**: Tears, Ubik, Gnostic, King, Maze, Father, Maybe, Like, World, Since, Gnosis, Faith, Stigmata, Good, Just, Being, Although, Girl, Either, Gods, Through, Most, Real, True, Irae, Deity, Hamlet, Mission, Very, Back, Under, Have, Clearly, Things, Judgment, Memory, Wise, Later, Evil, Truth, Impostor, Dream, Whereas, Until
+
+---
+### Line 8153-8161 (Match: 'Messenger')
+**Folder**: part alive
+
+```text
+Last edit almost 3 years ago by svayambhu108
+117
+Needs Review
+117
+110 Through this new man the rupture between man + God is healed - by God coming here, inwardly + (as I saw) externally, by first penetrating our material world (ist advent) + then infusing it with himself. This process of "acquiring" us progressively - it seems to be the bottom line: the esoteric trans‐ mutation of the alchemists (cf Paracelsus - Bohme it cf mercury + what it signifies). (Both a trans‐ muting agent + the messenger of the Gods, which in a sense, through my writing, I am) "Aspirin of Mercury: Albemuth": healing + the sending of messages from the stars. I announce, as herald (prophet) what is to come: the 2nd Advent, The divine intervention, + the transmutation (not abolition) of this up to now spurious world. "I am the angel of the morning." Here, late at night, alone, I see clearly: God has seized decisive control in our world, +, invisibly, ouster the illicit oppressive (enslaving) rule, liberated us, restored to us our primordial freedom cast in his image: when We lost our freedom + became conditioned response machines we ceased to reflect him - we lost him because we (temporarily) ceased to be isomorphic with him. That he has now changed, by intervention. what I experienced is stated is scriptine as "the Lord of hosts shall suddenly come to his temple. + the messenger of the covanent -- i.e. "Mercury" 4th Gospel chit: "A vision of the interpenetratability of souls" who are united in Christ. impossible:v evidently the explanation (Christ] as head 15 e PKD Thomas 1974
+
+As 2 Calit Rome i
+
+Last edit almost 3 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Thomas, Rome, Lord, Advent, World, Because, Gospel, Jakob Boehme, Both, Divine, Himself, Gods, Paracelsus, Through, Angel, Clearly, Freedom, Suddenly, Evidently
+
+---
+### Line 15619-15627 (Match: 'Messenger')
+**Folder**: folder 22
+
+```text
+33.
+
+intellectual choices: our acuity, which includes moral balking - vs reflex machine behavior. Discernment into our true situation is a prerequisite. There is a way out (otherwise maze just equals trap).
+
+Now, the Xerox Missive- trap. Here for sure Christ (God) intervened. So there is intervention. If I regard the Xerox Missive as a high order of Maze-Mind activity, I have to admit that I had help... or did I act to reacquire my undebased original faculties to meet the crisis? One time I told K.W. "I know who triggered off my anamnesis, who the salvific messenger was. It was me.
+
+Before descending into the Maze I foresaw the Xerox Missive + set up a mechanism by which I'd be "reminded" just prior to its arrival. In a sense I cheated. So what; I had no intention of being trapped like a rabbit.
+
+Fascinating, what the "we built a maze + then got trapped by it" concept does with the Xerox trap! 2-74 appears then as a failsafe device I built in in advance. Knowingly, providentially. It also fits in with the "Bait" theory vis-a-vis Christ-disguised-as-human-servant. I.e. the true (but concealed) Master!
+```
+**Co-occurrences**: Christ, Xerox, Maze, Like, Time, Mind, Does, Just, Being, Missive, Xerox Missive, Anamnesis, Before, True, Have, Otherwise, Human
+
+---
+### Line 17123-17131 (Match: 'Messenger')
+**Folder**: folder 21
+
+```text
+33
+
+for Zebra + am under its protection. 5) The Xtian churches lie. 6) There is a true secret Xtian church + it is Gnostic. __ My 4-pronged deformation exactly equals (is) the ontological ignorance of Gnosticism; + my Zebra-+-its-info vision equals the Gnostic concept of ontologically redemptive knowledge. [Note] My system therefore is Gnostic absolutely, by pitting these two categories against each other: 1) ignorance (4-pronged occlusion) vs 2) knowledge (Zebra + its info) this is the basis of Gnosticism, esp if one includes 3) acosmism, which underlies all my writing + is fundamental to Gnosticism only. The E. of Ph. article on Gnosticism states specifically that Gnosticism believes this world to be a prison. (Their term.)
+
+[Note] + the savior-messenger who outwits the astral-determinism archons, planetary powers (fate) + - man is drugged, intoxicated + asleep. The savior/messenger awakens the divine spark within him + then he is drawn out of this world which is irreal + a prison.
+
+Last edit about 8 years ago by Toso
+
+folder 21 - 036
+```
+**Co-occurrences**: Christian, Toso, Zebra, Gnostic, Gnosticism, These, World, Therefore, Prison, Only, Folder, Savior, Divine, Fate, Their, Church, Secret, True, Other, Under, Info, Knowledge
+
+---
+### Line 17179-17187 (Match: 'Messenger')
+**Folder**: folder 21
+
+```text
+folder 21 - 041
+39
+
+I have always been puzzled by the fact that (1) it was beyond doubt an actual Xtian human being from the time of Acts, + (2) it was the Holy Spirit. But if Simon descended as savior, appears to us as the Holy Spirit, I could solve the dilemma by considering this human / Holy Spirit / savior as Simon, who had previously been Jesus the Son, + who revealed to me the Gnosis + broke the power of astral determinism over me. + had been in me all along, underwriting my writing (esp. "Ubik" "Maze" "Stigmata" + "Tears"). (+ "Scanner".) "Tears" does everything but explicitly refer to Simon. + I experienced God as the void which the Gnostics conceive him to be. + Zebra is the savior (messenger - v. "Ubik"). Even possibly Sophia + her messages. I had already come to the important realization that Zebra is an invader in this irreal world + operates counter to the creator (demiurge). A) The cosmology (Kerygma) of my writing is beyond dispute Gnostic B) If the Holy Spirit has underwritten it, the Holy Spirit is Gnostic in its view. C) Therefore Gnosticism is the true, revealed knowledge. D) Simon Magus founded Gnosticism. E) Therefore Simon was correct. F) His followers regarded him either as the supreme deity or as the Holy Spirit G) Probably they were right, + it is he who has underwritten my writing +, in
+
+Last edit over 5 years ago by Toso
+folder 21 - 042
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Christian, Ubik, Toso, Indexed, Spirit, Holy, Zebra, Jesus, Holy Spirit, Sophia, Gnostic, Gnosticism, Maze, Scanner, World, Gnosis, Therefore, Time, Folder, Stigmata, Savior, Even, Could, Does, Simon, Kerygma, Being, Everything, Toso
+Folder, Either, Probably, Creator, True, Deity, Were, Beyond, Have, Knowledge, Magus, Human, Right, Simon Magus
+
+---
+### Line 17195-17203 (Match: 'Messenger')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 043
+41
+
+I have been told by the AI voice (Sophia) not to tell anyone that I am actually an authentic 1st century [Gnostic] Xtian. But it is possible that "Tears" told the secret Xtian true church (which is Gnostic, as well as underground) + so the Golden Fish sign was deliberately sent to me (like the letter in the "Story of the Pearl") to cause anamnesis. Or else Zebra arranged it, Zebra is the savior who "outwitted the archons" + secretly made its way down into our world camouflaged to save us. I now make a bold statement, having seen Zebra at work (it is not the Holy Spirit, who is just inside us). Zebra is the supreme deity + savior-messenger Ubik/Runciter. It is Simon Magus in his true form: the great plasmate, whose existence, activity in history + presence is totally unsuspected + unknown to us -unless he is in us- only Zebra can see Zebra. He entered me at my birth or in my childhood. I am a homoplasmate: Zebra acting in syzygy with a human. My writing is the purpose of this syzygy. I restore Gnostic Gnosis to the world in a trashy form, like in "Ubik." Indirect proof: A) Gnosticism is false B) My writings are Gnostic C) Therefore my writings are false Then how did they (esp "Ubik" + "Tears") come into existence? + who took me over in 3-74, he who lives in the Acts world? There is no doubt that he who took me over underwrote "Ubik," "Stigmata" + esp "Tears." He has an extraordinary mind, with nearly infinite knowledge - he is no ordinary man. But he is or was a man - I felt his fear of discovery by the Romans. He remembered
+
+Last edit over 5 years ago by Toso
+folder 21 - 044
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Christian, Ubik, Toso, Indexed, Spirit, Holy, Zebra, Holy Spirit, Form, Sophia, Gnostic, Fish, Well, Gnosticism, Golden, Roman, Like, World, Gnosis, Therefore, Golden Fish, Only, Folder, Stigmata, Savior, Mind, Just, Simon, Runciter, Toso
+Folder, Great, Anamnesis, Indexed
+Folder, Church, Voice, Actually, Secret, True, Deity, Have, Having, Unless, Knowledge, Magus, Human, Simon Magus
+
+---
+### Line 17220-17228 (Match: 'Messenger')
+**Folder**: folder 21
+
+```text
+folder 21 - 046
+44
+
+information. From this perception they decided that the rulers (archons) are blind or insane or intoxicated, so that this is a poisoned world in which man is forgetful (ignorant of his true origin + nature, which is actually higher than that of the blind creator + his rulers). Knowledge (gnosis) consists in man remembering his celestial origin + nature, that he is in this world, but this world is a prison; + he will return to his true home (the Pleroma). But the archons have physical power over man - still, the saving gnosis will break this astral determinism [the power of the archons]; this saving gnosis is brought by the divine messenger/savior from the Pleroma who has slipped into this world, in trashy (disguised) forms. That savior is here now (Zebra) but camouflaged. There will be an incarnation soon - or already has been. Meanwhile, the Empire continues; it never ended. Orthodox Xtianity is a form which the Empire takes. My life has divided this way: survival -- cultural -- spiritual -- postmortem (resurrected as of 3-74) What I experienced in 3-74 was death (literally) + resurrection as an immortal being. Obviously I - my body - can physically die, but that is not the issue; the issue has to do with the divine spark in me which awoke from ignorance (forgetfulness) + remembered - inc. its origins. Thus I returned to God + entered the Kingdom. These
+
+Last edit about 8 years ago by Toso
+folder 21 - 047
+Complete
+```
+**Co-occurrences**: Toso, Zebra, Complete, Christianity, Form, Kingdom, Empire, These, World, Gnosis, Prison, Folder, Savior, Being, Obviously, Divine, Toso
+Folder, Creator, Still, Actually, True, Death, Will, Meanwhile, Have, Life, Body, Information, Knowledge, Pleroma
+
+---
+### Line 17228-17236 (Match: 'Messenger')
+**Folder**: folder 21
+
+```text
+Complete
+folder 21 - 047
+45
+
+are postmortem experiences - the vast space, the reunion with my guide Tony Boucher who is waiting there for me. A doorway to the upper, celestial realm (the Pleroma) opened for me. So I spanned a period from my original dwelling in the Pleroma, to coming here (Mycenean Crete + Egypt), 1st century C.E. Rome to my death, after my death + return to God the abyss: the complete descent, forgetting, dwelling here in the Black Iron Prison, recollection (death + resurrection) + ascent to the Pleroma once more. (Since I was outside of time). (This is how it was done: the divine spark is not bound by space + time.) + I saw the messenger / savior ("Zebra") extricating me, [Note] heard Sophia's "AI" voice, + knew my true identity as Simon Magus, [see p.46] ("Thomas"). Also I saw the Kerygma in the corpus of my writing + understood how it came to be there - + recognized it as a "trashy" form of the saving gnosis.
+
+[Note] This absolutely identifies Zebra as the messenger / savior: that it visibly (to me) broke the bonds of "astral" determinism, power of the archons (fate) which had hold of me (the causal-sequence "melt away" which I saw Zebra doing: it is the messenger / savior who does that + no one else.)
+
+Last edit about 8 years ago by Toso
+```
+**Co-occurrences**: Toso, Thomas, Zebra, Complete, Rome, Form, Sophia, Since, Gnosis, Iron, Prison, Time, After, Black, Folder, Savior, Does, Once, Simon, Kerygma, Realm, Tony, Divine, Black Iron Prison, Corpus, Fate, More, Egypt, Voice, True, Death, Upper, Magus, Iron Prison, Pleroma, Crete, Simon Magus
+
+---
+### Line 17230-17238 (Match: 'Messenger')
+**Folder**: folder 21
+
+```text
+45
+
+are postmortem experiences - the vast space, the reunion with my guide Tony Boucher who is waiting there for me. A doorway to the upper, celestial realm (the Pleroma) opened for me. So I spanned a period from my original dwelling in the Pleroma, to coming here (Mycenean Crete + Egypt), 1st century C.E. Rome to my death, after my death + return to God the abyss: the complete descent, forgetting, dwelling here in the Black Iron Prison, recollection (death + resurrection) + ascent to the Pleroma once more. (Since I was outside of time). (This is how it was done: the divine spark is not bound by space + time.) + I saw the messenger / savior ("Zebra") extricating me, [Note] heard Sophia's "AI" voice, + knew my true identity as Simon Magus, [see p.46] ("Thomas"). Also I saw the Kerygma in the corpus of my writing + understood how it came to be there - + recognized it as a "trashy" form of the saving gnosis.
+
+[Note] This absolutely identifies Zebra as the messenger / savior: that it visibly (to me) broke the bonds of "astral" determinism, power of the archons (fate) which had hold of me (the causal-sequence "melt away" which I saw Zebra doing: it is the messenger / savior who does that + no one else.)
+
+Last edit about 8 years ago by Toso
+folder 21 - 048
+Complete
+```
+**Co-occurrences**: Toso, Thomas, Zebra, Complete, Rome, Form, Sophia, Since, Gnosis, Iron, Prison, Time, After, Black, Folder, Savior, Does, Once, Simon, Kerygma, Realm, Tony, Divine, Black Iron Prison, Toso
+Folder, Corpus, Fate, More, Egypt, Voice, True, Death, Upper, Magus, Iron Prison, Pleroma, Crete, Simon Magus
+
+---
+### Line 17238-17246 (Match: 'Messenger')
+**Folder**: folder 21
+
+```text
+Complete
+folder 21 - 048
+46
+
+My God - Zebra (who I have just now established to be the messenger / savior) is Simon Magus - he (Zebra) entered my mind. I'm not Simon; he (Zebra) is. The 1st century C.E. memories were of "Thomas;" i.e. Zebra's - Zebra "transubstantiated" me; + it was Simon. I would know; those memories entered my head + temporarily I was melded to him, + it was Simon. He had been using me as a vehicle for years to promulgate the Gnostic worldview. + then when the trap closed around me in 3-74 he rescued me. This is much more to my liking - that Zebra is Simon + enthused me, not that I (PKD) am Simon. We were bonded into a homoplasmate, I + Simon. Then the AI voice is Simon's, which I've heard since Physics class in high school. But behind Simon lies Christ (who said to me, "I had called you, Philip"; a different voice from Simon's). The true secret Xtian church is + was continued by Simon as Holy Siprit (+ more). I am sure I've at last identified Zebra, + a hard task it was, too. I made many wrong guesses. But I have the direct experience of the contents of his mind to go on, inc perception through my eyes of his world (Acts). I saw his world + had his knowledge + memories. Wow! What a mind. Both human + divine! Yes, + I was right: a superior technology was involved, all right - that of Simon's. For magician read scientist (the basis for Faust).
+
+Last edit about 8 years ago by Toso
+folder 21 - 049
+Complete
+```
+**Co-occurrences**: Christ, Acts, Christian, Toso, Thomas, Holy, Zebra, Complete, Gnostic, World, Since, Folder, Savior, Mind, Just, Simon, Both, Divine, Toso
+Folder, Philip, Those, More, Church, Through, Voice, Secret, True, Would, Were, Many, Have, Knowledge, Magus, Human, Right, Simon Magus
+
+---

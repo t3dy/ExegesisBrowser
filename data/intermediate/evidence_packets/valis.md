@@ -1,0 +1,345 @@
+# Evidence Packet: Valis
+
+- **Category**: Top Term
+- **Total Mentions**: 3934
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 2830-2838 (Match: 'Valis')
+**Folder**: Book of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+
+216
+I must never forget that I did not fire in response to the Xerox letter, but was programmed slightly in anticipation of its arrival, i.e. in advance, by an evidently thinking entity. (Living.) But I must never forget or overlook that the graphics came as a result (were preceeded by) the girl with the gold fish-necklace at the door, which was the actual disinhibiting or anamnesis-inducing first step. I saw the gold fish, then the graphics came, and what followed. Her own statement was about early Christianity, which agrees with the experience of 3 74 intrinsically right down to the "St. Sophia" message at the end, this year. Thus the Sons of Light are identified, by her and by her gold fish necklace, as "early Christians," meaning authentic Christians, which is Hellanized, Iranian Hebrew religion. The process, I say, did not begin with the graphics but with the recognition of the golden fish sign. What it meant. Then I began to remember (anamnesis). And this remembering specifically included: what my duty was, my task, vis-a-vis the Xerox letter. I would say I was temporarily given back all my faculties in order to deal with the Xerox-letter situation (God's grace"). I take this to mean, es¬ pecially in view of the girl with the gold fish necklace, that they or he or she or it, the VALIS A, is right here with us. They never left, or anyhow they are back; we don't see them because we are occluded, and they/he/she/it has/have the power to de-occlude us when desired. My sensation of anamnesis suggests restored powers, faculties, rather than me being raised to superhuman or divine levels new » to me and not mine, so to speak. It was, as Calvin says, a restoration of what I once had.
+
+If "VALIS" placed material (e.g. from "Acts" in TEARS, plus stuff in UBIK0 in my work, then "VALIS" would have no intention of allow¬ ing me to fall into the vector of another force (i.e. the Reds) who would insert their ideas instead of his. Thus, beyond the benevolent motive, "VALIS" would be motivated for practical reasons to prevent me from being snared. What I put into DEUS IRAE, for instance, makes me think this now, which I hadn't thought before. Under Red influence, I wouldn't be writing any more theological novels, such as DEUS IRAE. Put another way, there are two forces contending to influence my work, that which has in the past ("VALIS") and that which tried in 74, i.e. the Reds. "VALIS" intervened. He is identified with the early Christians.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Tears, Acts, Christian, Xerox, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+
+---
+### Line 2832-2840 (Match: 'Valis')
+**Folder**: Book of
+
+```text
+216
+I must never forget that I did not fire in response to the Xerox letter, but was programmed slightly in anticipation of its arrival, i.e. in advance, by an evidently thinking entity. (Living.) But I must never forget or overlook that the graphics came as a result (were preceeded by) the girl with the gold fish-necklace at the door, which was the actual disinhibiting or anamnesis-inducing first step. I saw the gold fish, then the graphics came, and what followed. Her own statement was about early Christianity, which agrees with the experience of 3 74 intrinsically right down to the "St. Sophia" message at the end, this year. Thus the Sons of Light are identified, by her and by her gold fish necklace, as "early Christians," meaning authentic Christians, which is Hellanized, Iranian Hebrew religion. The process, I say, did not begin with the graphics but with the recognition of the golden fish sign. What it meant. Then I began to remember (anamnesis). And this remembering specifically included: what my duty was, my task, vis-a-vis the Xerox letter. I would say I was temporarily given back all my faculties in order to deal with the Xerox-letter situation (God's grace"). I take this to mean, es¬ pecially in view of the girl with the gold fish necklace, that they or he or she or it, the VALIS A, is right here with us. They never left, or anyhow they are back; we don't see them because we are occluded, and they/he/she/it has/have the power to de-occlude us when desired. My sensation of anamnesis suggests restored powers, faculties, rather than me being raised to superhuman or divine levels new » to me and not mine, so to speak. It was, as Calvin says, a restoration of what I once had.
+
+If "VALIS" placed material (e.g. from "Acts" in TEARS, plus stuff in UBIK0 in my work, then "VALIS" would have no intention of allow¬ ing me to fall into the vector of another force (i.e. the Reds) who would insert their ideas instead of his. Thus, beyond the benevolent motive, "VALIS" would be motivated for practical reasons to prevent me from being snared. What I put into DEUS IRAE, for instance, makes me think this now, which I hadn't thought before. Under Red influence, I wouldn't be writing any more theological novels, such as DEUS IRAE. Put another way, there are two forces contending to influence my work, that which has in the past ("VALIS") and that which tried in 74, i.e. the Reds. "VALIS" intervened. He is identified with the early Christians.
+
+Last edit almost 5 years ago by svayambhu108
+217
+Needs Review
+```
+**Co-occurrences**: Tears, Acts, Christian, Xerox, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+
+---
+### Line 3531-3539 (Match: 'Valis')
+**Folder**: part in
+
+```text
+Thank you so much for the loan of the $200. I understand now that my Bantam money ($4,000) will arrive this month, so there should be no problem. However, the Douoleuay monies failed to appear, since Ballantine, the subsidiary publisher, failed to pay in on time; therefore I had to cash the check yesterday. Doubleday is attempting to get the money for me anyhow, since we are on such good terms*
+
+What I am mainly writing you about is to share an experience I had, back in March of 1974, which forms the topic of the new novel I sold to Bantam. It was, technically, a religious conversion — at least that is what my priest calls it. I have done 30 months of re¬ search on it (which form the basis of the novel) and have learned a great deal about the powers & entities which approached me, and I have some idea as to why they approached me —of all people— although that part is speculation. I wish to share it with you because, it being an authentic experience, it demonstrates the reality of a superior thanking entity of vast power which people normally call God, and this term is one I am willing to use, although it did not identify itself as such
+
+It came to me at the time of the vernal equinox, which is the actual birthdate of Christ, as I have learned. It came at a time when I was in great fear and distress and had lost all hope — which fits the pattern described by William James in his VARIETIES OF RELIGIOUS EXPERIENCE. What this enormously wise and powerful entity did was to temporarily displace my ego and take over the problems which faced me, solving them, and, in addition, showering other gifts on me and on Christopher as well. When the novel comes cut you can read about it in detail. For exactly one year this entity communicated with me, although the theolepsy was only s few days in duration; still, during those days, I possessed its wisdom and some of its power, and saw the universe quite differently, and my own purpose and reason for being here; in fact, for having been born. The entity, which in the novel I call Valis (for Vast Active Living Intelligence System) informed me of a dreadful conspiracy of evil men who haa killed she Kennedy brother Dr. King, J is. hike and others, and told me that it —the entity— had seen all this and would soon destroy them. Later I understood that the Watergate conspirators were meant. I was to contribute a small part in bringing them down; since I lived in Fullerton, where Congress¬ man Charles Wiggens comes from, I was to begin writing him letters which the entity would dictate, concerning constitutional issues, issues which Nixon had violated, and, above oil, I was to make public by writing to the Wall Street Journal, the news that the Nixon transc¬ ripts were forgeries and self-serving. I did all this, and received personal responses from Congressman Wiggens; the letter to the Wall Street Journal, too, was published. The entity made it clear that it
+
+Last edit almost 5 years ago by svayambhu108
+284
+Needs Review
+```
+**Co-occurrences**: Christ, Form, King, Well, However, Wisdom, James, Since, Because, Therefore, Only, Time, Nixon, Good, Anyhow, Reality, Being, March, Although, Self, Great, Those, Still, Part, Living, Such, Fullerton, Universe, Will, Christopher, Would, Other, Were, Back, Have, Wise, Later, Days, Evil, Having, During
+
+---
+### Line 3755-3763 (Match: 'Valis')
+**Folder**: Book of
+
+```text
+Needs Review
+307
+-2-
+
+I must never forget that I did not fire in response to the Xerox letter, but was programmed slightly in anticipation of its arrival, i.e. in advance, by an evidently thinking entity. (Living.) But I must never forget or overlook that the graphics came as a result (were proceeded by) the girl with the gold fish-necklace at the door, which was the actual disinhibiting or anamnesis-inducing first step. I saw the gold fish, then the graphics came, and what followed. Her own statement was about early Christianity, which agrees with the experience of 3 74 intrinsically right down to the "St. Sophia" message at the end, this year. Thus the Sons of Light are identified, by her and by her gold fish necklace, as "early Christians," meaning authentic Christians, which is Hellanized, Iranian Hebrew religion. The process, I say, did not begin with the graphics but with the recognition of the golden fish sign. What it meant. Then I began to remember (anamnesis). And this remembering specifically included: what my duty was, my task, vis-a-vis the Xerox letter. I would say I was temporarily given back all my faculties in order to deal with the Xerox-letter situation ("God's grace"). I take this to mean, es¬ pecially in view of the girl with the gold fish necklace, that they or he or she or it, the VALIS A, is right here with us. They never left, or anyhow they are back; we don't see them because we are occluded, and they/he/she/it has/have the power to de-occlude us when desired. My sensation of anamnesis suggests restored powers, faculties, rather than me being raised to superhuman or divine levels new m to roe and not mine, so to speak. It was, as Calvin says, a restoration of what I once had.
+
+If "VALIS" placed material (e.g. from "Acts" in TEARS, plus stuff in UBIKO in my work, then "VALIS" would have no intention of allow¬ ing me to fall into the vector of another force (i.e. the Reds) who would insert their ideas instead of his. Thus, beyond the benevolent motive, "VALIS" would be motivated for practical reasons to prevent me from being snared. What I put into DEUS IRAE, for instance, makes me think this now, which I hadn't thought before. Under Red influence, I wouldn't be writing any more theological novels, such as DEUS IRAE. Put another way, there are two forces contending to influence my work, that which has in the past ("VALIS") and that which tried in 74, i.e. the Reds. "VALIS" intervened. He is identified with the early Christians.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Tears, Acts, Christian, Xerox, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+
+---
+### Line 3757-3765 (Match: 'Valis')
+**Folder**: Book of
+
+```text
+-2-
+
+I must never forget that I did not fire in response to the Xerox letter, but was programmed slightly in anticipation of its arrival, i.e. in advance, by an evidently thinking entity. (Living.) But I must never forget or overlook that the graphics came as a result (were proceeded by) the girl with the gold fish-necklace at the door, which was the actual disinhibiting or anamnesis-inducing first step. I saw the gold fish, then the graphics came, and what followed. Her own statement was about early Christianity, which agrees with the experience of 3 74 intrinsically right down to the "St. Sophia" message at the end, this year. Thus the Sons of Light are identified, by her and by her gold fish necklace, as "early Christians," meaning authentic Christians, which is Hellanized, Iranian Hebrew religion. The process, I say, did not begin with the graphics but with the recognition of the golden fish sign. What it meant. Then I began to remember (anamnesis). And this remembering specifically included: what my duty was, my task, vis-a-vis the Xerox letter. I would say I was temporarily given back all my faculties in order to deal with the Xerox-letter situation ("God's grace"). I take this to mean, es¬ pecially in view of the girl with the gold fish necklace, that they or he or she or it, the VALIS A, is right here with us. They never left, or anyhow they are back; we don't see them because we are occluded, and they/he/she/it has/have the power to de-occlude us when desired. My sensation of anamnesis suggests restored powers, faculties, rather than me being raised to superhuman or divine levels new m to roe and not mine, so to speak. It was, as Calvin says, a restoration of what I once had.
+
+If "VALIS" placed material (e.g. from "Acts" in TEARS, plus stuff in UBIKO in my work, then "VALIS" would have no intention of allow¬ ing me to fall into the vector of another force (i.e. the Reds) who would insert their ideas instead of his. Thus, beyond the benevolent motive, "VALIS" would be motivated for practical reasons to prevent me from being snared. What I put into DEUS IRAE, for instance, makes me think this now, which I hadn't thought before. Under Red influence, I wouldn't be writing any more theological novels, such as DEUS IRAE. Put another way, there are two forces contending to influence my work, that which has in the past ("VALIS") and that which tried in 74, i.e. the Reds. "VALIS" intervened. He is identified with the early Christians.
+
+Last edit almost 5 years ago by svayambhu108
+308
+Needs Review
+```
+**Co-occurrences**: Tears, Acts, Christian, Xerox, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+
+---
+### Line 5257-5265 (Match: 'Valis')
+**Folder**: part quited
+
+```text
+Last edit almost 3 years ago by svayambhu108
+69
+Needs Review
+69
+66 upon seeing via Grace (revelation) after the tran scendent monotheistic God intervened (i.e. came here + transsubstantiated objects + processes) I would see immanent God - i.e. Pantheism - that doesn't mean This "Zebra essence" was always so. Also, the fact that I saw him modulation some processes + objects doesn't mean he modulates or ever modulated formerly them all. + how can pantheism be reconciled with all that Jesus said, about "our father who is in heaven? e s o my own sense that - memory that - I came here originally from there, + very important my near i Gnostic revelation of this world as evil (B. I. Prish) but intervened - into. In pantheism, what happens to the great 2-player war I glimpsed? Pantheism virtually means monisms of course, there is the Hegelian dialectic, + he was a pantheist - I may pave glimpsed that, I really feel the "selection of a better time track" or "alternate future" via critical intervention was involved; a sense of this permeated my 3-74 ex perience. + in my fictional schema of Zebra for Valis he (it) has in mimicry form inserted itself into the world of nature, of blind cause-+-effect - i.e. into James James world. I must never forget such dreares a the James-James" dream - it absolutely pointed towar intervention. + the "St. Sophia" prophecy sounds to mee to be interventive a re-melding of what was not (as expressed by the highly significant words, "she was not acceptable before:
+
+Last edit almost 3 years ago by svayambhu108
+70
+Needs Review
+```
+**Co-occurrences**: Zebra, Jesus, Form, Sophia, Gnostic, Father, James, World, Time, After, Great, Grace, Heaven, Such, Upon, Before, Revelation, Would, Very, Hegelian, Memory, Evil, Dialectic, Dream, Doesn, Track
+
+---
+### Line 5478-5486 (Match: 'Valis')
+**Folder**: book included
+
+```text
+Pack bathroom stuff empty cat box leave keys at Jeter's
+
+800-648-4100
+
+Discovery of anti-matter universe throws entirely new light on VALIS. People, and cars + everything. Explanation to follow.
+
+Key: transfer of information (first geometric/ math graphics, then cosmological model, written info, medical, engineering, in hierarchical order) so:
+
+My knowledge of Greek: transferred information, as from computer to computer, brain to brain. In fact, an entire mind ("Thomas") was transferred, but (1) by whom + (2) from where + (3) who?
+```
+**Co-occurrences**: Thomas, Greek, Mind, Light, Everything, Brain, Universe, Information, Info, Knowledge
+
+---
+### Line 5702-5710 (Match: 'Valis')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Toso
+5
+Indexed
+5
+Since we could not reach up to (perceive, relate to) the real world, the word came here + subjected itself to the forces here, but, at the same time, this was its theophany to + for us, it came here + was visible; all we had to do was believe. He presented his credentials + then, later, conferred authority (out of himself; of himself) onto his disciples, so that the good news could propagate by divine authority. Perhaps even I directly received this authority or anyhow knowledge (of the truth, i.e. of him, who alone has full salvific power over us + for us, over this world as he reunites it into the self (himself) organism-entity inc. us. Scripture says that, trans-time, I speak with (or for a while did) the authority of the Parakletos. What took place was what is called adoption - I have become an adopted son of God (cf J. Bible). A very important aspect of the above realization (of how the deluding power of this world was broken for me) is the link with my 26 years or more of writing: my basic theme(s) prepared the way (for me) for that moment, + may well help others - if this is so, then my corpus of writing, esp. my "what is real?" theme may be serving salvifically - may do good. But my act of belief was related to memory - i.e. return. I attribute that to the spirit, which must already have been within me. The J. Bible says, "W. carries history to its goal." This is exactly what I saw. I deduce that I was made use of by W. in the history process, c. 3-74 to 8-74. Had I no historic role to play - would she have rescued me anyhow? There is an interesting answer to this: the trouble I was in was related to my historic role; the two can't be separated. I think it has to do with Tears. There is no uniform (in contrast to pluriform) use or purpose or involvement as we are accustomed to in normal human terms. This is part of the mystery of both the nature + purpose of the Trinity, this pluriform quality: multifaceted. I can date my initial experience with the deity in the "Palmer Eldritch" vision I had -saw in the sky- in the early sixties. But it was there even before, my sense of the (i.e. this) world as delusional. Interesting point: "Time Out of Joint" is a novel about it really being a different time than it seems. Like in Valis where it turns out to be 70 AD instead of 1974. Is there a clue in "Joint"?
+
+Last edit over 5 years ago by Toso
+
+6
+```
+**Co-occurrences**: Tears, Toso, Indexed, Spirit, Well, Bible, Perhaps, Like, World, Since, Time, Good, Even, Could, Joint, Anyhow, Both, Being, Self, Eldritch, Divine, Himself, Palmer, Corpus, Palmer Eldritch, Part, More, Real, Before, Deity, Would, Very, Have, Memory, Instead, Later, Trinity, Knowledge, Truth, Human, Answer
+
+---
+### Line 6213-6221 (Match: 'Valis')
+**Folder**: part but
+
+```text
+Last edit over 4 years ago by Kfischer
+7
+Needs Review
+7
+In 3-74 I experienced [true?] reality and [regained?] [true?] long term memories but did not understand what I remembered and saw. "Star Wars" explains this: what is not Dokos but [actual?]. Our Earth is one of the planets controlled by the Empire (i.e. by Palmer Eldritch). Our Ben Kenobi was killed but now has returned and led us to victory over our Darth Vader. He (the savior) has led us to a successful rebellion; next, the just kingdom (Kingdom of God) will be restored [here?]. Had I only thought to put Palmer Eldrich against Ubik I would have almost had it. But Valis would have done this, maybe. Criticism [(lack in)?] of "Star Wars": it is not [sophistocated?] enough to deal with what I dealt with: 1) The way we experience our world is delusional and 2) Accurate apprehension of it - as I was granted in 3-74 - shows it to be a slave colony of the Empire (which is what I saw as the Black iron prison). Earth is one of the worlds held [in thrall?], but this thralldom is achieved via Maya or Dokos, so that we don't [realize?] (cf Maze) our true condition. In Maze and Ubik the people do not recognize their true condition (and in "Faith," "the [uncelebrated?] man." "time out of joint" "penultimate truth." even in "Man in the High Castle" "Frolix 8." Virtually always the true condition is evil: [if it?] were good. What reason would there be to conceal it? Perhaps my [uresicht] represents a [theological-ization?] of the [Marxist?] view that we are oppressed - slaves, and do not even know. Consistent with this explanation is my "Brown [rebel xtian?]" rebels - that we must - and did - rebel and overthrow the Imperial ("Iron") tyranny, which leads back precisely to "Star Wars." Perhaps the [Marxist?] interest in Ubik is a negation to the theme of an [invisible?] deft informing wise entity who tells people their true condition (cf Maze.) The "Perky Pat" world in 3 stigmata. What Juliana tells Abendsen in Man in the High Castle.
+
+Last edit over 4 years ago by Kfischer
+8
+Needs Review
+```
+**Co-occurrences**: Christian, Ubik, Kingdom, Empire, Maze, Perhaps, Maybe, World, Iron, Prison, Only, Time, Earth, Black, Faith, Stigmata, Savior, Good, Even, Joint, Just, Kingdom of God, Maya, Reality, Eldritch, Black Iron Prison, Palmer, Frolix, Palmer Eldritch, Dokos, Their, Star, True, Will, Would, Were, Wars, Back, Have, Star Wars, Wise, Evil, Truth, Iron Prison
+
+---
+### Line 6315-6323 (Match: 'Valis')
+**Folder**: book covers
+
+```text
+Last edit almost 3 years ago by svayambhu108
+19
+Needs Review
+19
+( How close did I come in my writing? Well, in "Ubik, "Maze" + "pot healer" all deal with a wisdom entity - which leaves clues strewn, even on bathroom walls + match book covers. + in "Frolix 8" it sets things vis-a-vis the tyranny right: the Ubik" + "pot healer" external beseiger of the prison -fortress. get right to the core of the wisdom (machine or rather) entity. who, I now have learned, is Christ. (I.e. St. Sophia.) This especially becomes evident when I consciously try to write about it in Valis - knowing now that it does exist I am staggered - paralyzed - by the immensity of the subject. molinari, led botero, Runcite fade off into Glimmuny, who fades off int God in beginning to posit the "wisdom machine" (v. "Ubik" + "Pot Healer") I was onto the track of the greatest reality we can encounter - the "teaching machine" aspect of all reality - the only thing lying within or beyond at a deeper level is Zebra Qua Zebra, causing all to be that is ("I am he who causes to be"). I sought, I formulated, +, in 3-74, I found. in essence I figured out that the universe is alive. + can talk to you ("the still small voice"), what is more, it knows everything - + is sublimes beautiful + good. One good right step I made was to seek the word (the Logos info) not in the sky or the cathedral, but, e.g., in bowls of alphabet soup, since I realized it totally pervades the world. Rock lyrics + SF - perfect places to look. I did not force Zebra to reveal itself by any craft on my part, but I figured out ( where to look + (2) what to look for, + voluntarily Zebra graciously manifested itself to me by opening my 5th chakra. I think Zebra informed my writing in the 1st place: he is moving swiftly toward his/her 2nd incarnation + wants the way paved (cf Star Wars); after all, the greatest sign foretellen the incarnation has occured: the fall of "Babylon"
+
+Last edit almost 3 years ago by svayambhu108
+20
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Zebra, Logos, Sophia, Well, Maze, Wisdom, World, Since, Fall, Prison, Only, After, Good, Book, Even, Does, Look, Reality, Everything, Frolix, Still, Part, More, Star, Babylon, Voice, Universe, Wars, Beyond, Have, Things, Star Wars, Info, Right, Track
+
+---
+### Line 6362-6370 (Match: 'Valis')
+**Folder**: book came
+
+```text
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+27
+23 why is realizing this - why is this in itself - so important. because 2, not I thing, happened. First it was necessary to unhook - untangle - me from the power of the linear world by means of anamnesis + a renewal of the coument between me + Christ (God). That was the first step - I was plunged into the ancient real-world matrix + out of the linear time world. That freed me from the power of the spurious linear time world. Next, restored to it + subject to it was not me but Thomas, who dealt differently with the Xerox letter than I had what I can see now is the origin of Thomas as being not in the linear world + hence not subject to it - programmed by it. He came from the Urwelt of orthogonal, non linear time, the mysterious real world which had not advanced up the spurious linear manifold. It is virtually a war between two domains: the permanent orthogonal matrix of the first advent which is still there, + the immutable cause + effect linear world which involves us in total thrall (reduces w to "planetary" or "sublunar" slavery). The real urwelt, which never advanced up the manifold, is capable of intrusion into this world in the form of Zebra or the redeemer who can transsubstantiate objects + processes + hence modulate them. This is all in accord with the N.T., especially Pault cosmology the initial participation in the Urwelt recalled to me the dentity of my savior + my tasks + relationship to him, so during later phases of the process I could identify him with Valis or Zebra, the mimicking, extricating entity I saw at work. Before I saw Zebra, I had experienced anamnesis + recalled my Lord - + was again with him (back in the past)
+
+Last edit almost 3 years ago by svayambhu108
+28
+Needs Review
+```
+**Co-occurrences**: Christ, Thomas, Zebra, Xerox, Form, Lord, Advent, World, Because, Time, Savior, Could, Again, Being, Anamnesis, Still, Real, Before, Back, Later, During
+
+---
+### Line 6368-6376 (Match: 'Valis')
+**Folder**: book came
+
+```text
+Last edit almost 3 years ago by svayambhu108
+28
+Needs Review
+28
+( So I was taken out of the enslaving cause-+-effect spurious linear-strip world + restored to commity with my Lord at the orthogonal matrix I, then returned to the linear world changed, so that I was free of its stimulus - + - response engramming, at which time I could see the savior (Valis, Zebra) mimicking objects + processes of our world + so affecting Their outcome; meanwhile I was saved from the Xerox letter which had, did or should somehow have bound or enslaved me completely. (The Kaballa said it was from the party.) I was new born, like a child, as in wordsworth's "ode" I had reseen, rejoined + regained the eternal unchanging world + my Lord, but I had also seen the Black Iron Prison enslaving us (cf the "ode"). I saw that against which we struggled perpetually - + defeated; I witnessed its defeat. I stick by my speech: we were reliving this period in linear time supported by God so that this time we did not confront the impenetrable B. I prison tyranny which had originally enslaved us (v. "Tears"). The force of God acted directly on the tyranny. Although it made use of us somewhat. But my regained memory of blowing up the Black Iron citadel - cf "Star Wars" - that's what I remembered: the strike at The death Star ‐ The empire (+ "Palmer Eldritch: Vader The Black Iron Prison + we Christians = the rebels. Christ = the last of the Jedi Knights, Ben Kenobi. the moment, in anamnesis, which in "Star Wars" I specifically remember, is just after the successful attack on the death star which blew it up. But we were dressed - not like Luke - but as the Jedi Knights were: in brown or gray robes. So ben Kenobi had died just a while ago - yes, I remembered that, + we knew he would return. We were jubelent - of course we were: we had blown up the citadel of the Empire. Notice in the "Star Wars" prolog the obvious references to Nixon! I had not noted this before, but it is inescapable - + deliberate. Lukas deliberately connects the tale of the overthrow of the old, good republic by evil men to the overthrow of the american republic by the forces of empire. Any discerning ready will note this (in the book).
+
+Last edit almost 3 years ago by svayambhu108
+29
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Zebra, Xerox, Empire, Lord, Like, World, Iron, Prison, Time, Nixon, After, Black, Savior, Good, Book, Could, Just, Luke, Although, Eldritch, Black Iron Prison, Palmer, Anamnesis, Palmer Eldritch, Their, Star, Before, Death, Will, Would, Somehow, Were, Wars, Meanwhile, Have, Memory, Star Wars, Evil, Remember, Iron Prison, Free
+
+---
+### Line 6420-6428 (Match: 'Valis')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+37
+8 the advantage which Advent I gave us is what I call The "reverberations" of the savior's presence penetrating The concentric rings of spurious linear time which followed. Efficacy of his presence remained, just as he himself remained with us, obscured by the accretional appearances. He taught us transtemporal sacraments. As he promised, "I will always be with you, Yes, even unto the end." of course, the fact that linear time would be nullified by Advent I was known to Christ; this was a primary reason + purpose for the Advents: one of its secret major victories - allied with his perpetual continuing with us in the form of the Holy Spirit + the reassimilation of the decomposing universe into a new cosmos with himself as the These centuries since Advent I have been years noos or psyche. of metamorphosis for this (if I may say so) "insect" - like sublime entity, with the world as the metamorphosing body. the only real changes during these centuries has been the furiously rapid development of this metamorphosing entity + our incorporation therein. The selecting - judging- rejecting (i.e. using or discarding process) works itself out in linear time, so the latter serves a purpose ("So that the fallen ones will make their presence known" + can be destroyed). But in fact we never leave the vortex of the original punch through, since the "moth" organism weaves itself around that as its omphalos. that is the key term. 70 AD (40 to 100 AD) has become the omphalos of reality due to the punch through + entry into our world of the redeemer, interestingly. I have begun to think that Zebra or Valis entered This world through the 3:5 gate, but according to my
+
+Last edit almost 3 years ago by svayambhu108
+38
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Zebra, Holy Spirit, Form, These, Advent, Like, World, Since, Only, Time, Noos, Savior, Even, Just, Reality, Himself, Their, Through, Real, Secret, Universe, Will, Would, Have, Body, During
+
+---
+### Line 6501-6509 (Match: 'Valis')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+51
+51 it must not only be realized that through God's grace (+ the cosmology that implies - the sublunar astral powers, etc) but that in the sequence where Thus survived - that was not the first + only time that linear-time sequence was run. In I other words, there was a retroactive reprogramming me, during a time when, evidently, major + tensive historical retroactive (orthogonal?) repro‐ of gramming - intervention - see dream in Tears took place in no way do I rule out Valis or Zebra being "ourselves in the future," as leary speaks of, + that the tinkering was with genetic coding which in turn affected history. Ency of Philo on "Gnosticism": the regaining of knowledge (the Gnostic revelation) reversed the original descent into ignorance, which is what we mean by the fall not an immoral fall, but into non-knowledge. Thus, reacquisition of knowledge is the true deity restoring himself by regathering the lost pieces of himself (deposited as sparks of the divied in the class of mer called pneumenatics). Such a schema shows why the reacquiral of knowledge is in itself salvific The Gnostics are right: this world is a prison. but a further secret - which I saw - is that either the good God (not the creatori)ames-James) has pene‐ trated into this world invisibly mimicking objects + processes, to ameliorate our situation. Perhaps the blind genius creator dearsurgt does not know this. This event would be the 2nd Advent of St Sophia, I think.
+
+Last edit almost 3 years ago by svayambhu108
+52
+Needs Review
+```
+**Co-occurrences**: Tears, Zebra, Sophia, Gnostic, Gnosticism, Perhaps, Advent, James, World, Fall, Prison, Only, Time, Good, St Sophia, Does, Philo, Being, Himself, Either, Grace, Creator, Through, Such, Secret, Revelation, True, Deity, Would, Other, Further, Knowledge, During, Dream, Evidently, Right
+
+---
+### Line 6507-6515 (Match: 'Valis')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+52
+Needs Review
+52
+50 In other words, unbeknownst to the Jailms, this prison wo world has been invaded by a liberation deity, who restores our knowledge - reverses the original process (Fall) into ignorance - + also influences history No - this, too, is Gnostic; what I experienced as Valis or Zebra is the divine savior who has been sent here by the true God to save us (partly through anam‐ nesis). He alone is not at the mercy of fate, + by his absorbing (transubstantiaty) us we are freed by him + as part of him from our various fates (as presoners here). anamnesis + being freed from fate are interconnected. in Gnosticism: "Sophia, in 812-75 her task desire) to save us 938-1194 puts her messages into the C-) inferior bulk of writing by the mere demiurge - i.e. creator." certainly the novel Ubik seems to describe this: a 97 penetration, into This universe (cosmos) of divine, helping material from outside. 92708 t tues tues Nov 29 Nov 22 oak Orange oak s Orange oto Thos 9:30 1035 284 8251
+
+Last edit almost 3 years ago by svayambhu108
+53
+Needs Review
+```
+**Co-occurrences**: Ubik, Zebra, Sophia, Gnostic, Gnosticism, World, Fall, Prison, Savior, Being, Divine, Fate, Anamnesis, Creator, Part, Through, Certainly, True, Universe, Deity, Other, Knowledge
+
+---
+### Line 6577-6585 (Match: 'Valis')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+64
+Needs Review
+64
+61 That this is a fallen or cursed or prison or evil world I take as axiomatic - but equally axiomatic is the ceaseless salvific activity of the "reaching down from beyond" God. That I saw him (Valis, Zebra) here is good news, for it indicates that indeed his long-time efforts have culminated in success; it is not just us as computer terminals which are here in This cursed world but the urquelle him/her-self. that which was formerly called the 7 concentric imprisoning rings of the evil archons has been successfully penetrated + a beach head of divinity established here at the darkest, innermost ring, at the very core of enslavement + evil + tyranny. On the "Dunesberry" TV special the overthrow of Nixon was spoken of, by a child, as "the revolution," + the counter culture adult who participated in it said, "Even the trees agree." Pure (undefiled) nature has cast away its hull of that which is dead, which halts growth, which stifles + kills the life - spirit. within. The bushed basket over the lantern - the mystery + paradox is that at the very innermost core of what seems to be evil lies a pure burning light - "the light of the world" which the rescuers from outside - beyond - the farthest - ring have come (penetrated) to liberate - + to reunite with themi selves, as the source of light. Rescue, then, in the final analysis, is a healing, a reuniting of that which
+
+Last edit almost 3 years ago by svayambhu108
+65
+Needs Review
+```
+**Co-occurrences**: Spirit, Zebra, World, Prison, Time, Nixon, Good, Light, Even, Just, Self, Very, Beyond, Have, Life, Evil, Dead, Final
+
+---
+### Line 6700-6708 (Match: 'Valis')
+**Folder**: part at
+
+```text
+1
+
+What I am grappling with is OCCP vs Xtianity; the latter in 2-3-74 was seeming, but on scrupulous scrutiny seems an archetypalization of the former. Perhaps the matter can be resolved if the latter (as I have often said!) is regarded (e.g. Acts + the whole Christ story) as a code (stegenographia), + not literal. Rome literally isn't meant; CAD 45 isn't meant; Christ is/was not a person; the synoptics are a way of talking - but what about? Not that time, nor space, nor those people. This is the resolution of the mystery, not just as to the esoteric meaning of Xtianity but to my 2-3-74 experience which 1) is related to historic change. (Not any one time.) 2) overthrow of the BIP (not literally Rome.) 3) secret revolutionary group (not really Xtians.)
+
+OCCP isn't excluded. (4) A dialectic is involved: antithetical forces (represented to me in 3-74 as those of Zoroastrianism, which brings us to Jim Pike and his discovery that the actual essence of Xtianity was Zoroastrianism, and now to Thomas) it isn't Xtianity nor OCCP yet includes both (the basic elements are common to both; thus, Xtianity is a form of OCCP, + OCCP a form of Xtianity; both are equal expressions in history of something underlying both, originally expressed in the Christ story. I have been assuming the Xtian story to be literally true; there was a person Jesus Christ. But no; this is code. The correct symbol is the Fish, not the cross. What does the Fish represent? It includes OCCP, as hinted in "Faith of..." Off the top I'd say, the ultimate revelation granted me was seeing Valis. But Valis is not Christ because Pyth wrote about it 600
+
+Last edit over 5 years ago by Toso
+2
+Indexed
+```
+**Co-occurrences**: Christ, Acts, Christian, Toso, Thomas, Indexed, Jesus, Rome, Christianity, Form, Fish, Perhaps, Because, Time, Faith, Does, Just, Something, Both, Jesus Christ, Those, Pike, Pyth, Secret, Zoroastrianism, Revelation, Jim Pike, True, Have, Cross, Dialectic
+
+---
+### Line 6716-6724 (Match: 'Valis')
+**Folder**: part at
+
+```text
+{illustration: In the middle a cube} BIP (Telos) {surrounded by a circle} Kosmos {surrounded by a circle} Atelos {which are pointed to by an arrow} Xtians OCCP
+
+To shut off the scramble generator at the omphalos? Maya machine. The Fall: man's occluded faculties (v. Calvin + "Scanner"). V. "Maze."
+
+{illustration: A seed} Telos which is alive + grows Valis (kosmos, an organism) {surrounded by a square} Generator (BIP) {surrounded by a circle} Scramble (atelos) {; the seed is pointed to by an arrow} Xtians, Pyth, OCCP: deposit seed (telos) from which kosmos (Valis) grows outward from center of the irrational - from center of its generator (i.e. sabotage)
+
+{illustration: Square} BIP {with a seed at its centre, pointed to by arrow} Xtians / Pyth / OCCP penetrate barrier + deposit explosive seed which when it detonates grows into "fitting together" transubstantiation of irrational irreal scramble atelos. Devours it, from center outward. Grain of wheat planted. Of course: Generator of acosmic scramble is protected by a barrier. Scramble generator wasn't always here (hence the legend of the Fall). Yahweh: Scramble Generator. "Valis" is right: irrational but deliberately so (symbolized by "bichlorides of mercury - aspirin of mercury" : it deranges us. It must be shut off - this is done by planting seed (telos or limiting factor which grows into structuring. Ach! Dialectic is insane (atelos): leads to endless procession of impaired "truths" as in Greek philosophy which winds up saying,
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christian, Toso, Greek, Maze, Scanner, Fall, Maya, Kosmos, Pyth, Yahweh, Calvin, Illustration, Dialectic, Right
+
+---
+### Line 6718-6726 (Match: 'Valis')
+**Folder**: part at
+
+```text
+To shut off the scramble generator at the omphalos? Maya machine. The Fall: man's occluded faculties (v. Calvin + "Scanner"). V. "Maze."
+
+{illustration: A seed} Telos which is alive + grows Valis (kosmos, an organism) {surrounded by a square} Generator (BIP) {surrounded by a circle} Scramble (atelos) {; the seed is pointed to by an arrow} Xtians, Pyth, OCCP: deposit seed (telos) from which kosmos (Valis) grows outward from center of the irrational - from center of its generator (i.e. sabotage)
+
+{illustration: Square} BIP {with a seed at its centre, pointed to by arrow} Xtians / Pyth / OCCP penetrate barrier + deposit explosive seed which when it detonates grows into "fitting together" transubstantiation of irrational irreal scramble atelos. Devours it, from center outward. Grain of wheat planted. Of course: Generator of acosmic scramble is protected by a barrier. Scramble generator wasn't always here (hence the legend of the Fall). Yahweh: Scramble Generator. "Valis" is right: irrational but deliberately so (symbolized by "bichlorides of mercury - aspirin of mercury" : it deranges us. It must be shut off - this is done by planting seed (telos or limiting factor which grows into structuring. Ach! Dialectic is insane (atelos): leads to endless procession of impaired "truths" as in Greek philosophy which winds up saying,
+
+Last edit over 5 years ago by Toso
+3
+Indexed
+```
+**Co-occurrences**: Christian, Toso, Indexed, Greek, Maze, Scanner, Fall, Maya, Kosmos, Pyth, Yahweh, Calvin, Illustration, Dialectic, Right
+
+---
+### Line 6726-6734 (Match: 'Valis')
+**Folder**: part at
+
+```text
+Indexed
+3
+3
+
+1) Nothing is; 2) + if it did exist it couldn't be known; 3) + if known, couldn't be communicated. Something is wrong. Scramble. No way by which we can arrive at knowledge, not due to limitation of our percept systems but 1) a priori scramble ("Scanner") + 2) empirical scramble (Buddhism idealism). V. Calvin. We can neither think nor apprehend, but the morphology for both is there but deliberately impaired (by the scrambler, the generator of the dialectic, which, as I've said, is unstable (irrational). Negation of every negation (Engels). Telos weaves a coherence (Kosmos or Valis) which is stable (rational) + can be known both a priori + a posteriori. Christ is a term for that seed. His death + burial in the tomb + resurrection is code for the sneaking of the seed into the scramble generator (called “Rome” in the code story), its being planted (his passion + death) + its coming to life + growing into Valis. The growing is represented graphically in modern terms as the detonating of explosives smuggled into the BIP (fortress: barrier around the scrambled generator).
+
+{illustration: A center} Scramble generator {surrounded by a cube} BIP fortress barrier {surrounded by a circle} Atelos: Maya acosmos, in macro form as world; in micro form in each of our minds. {Center is pointed to by arrow} OCCP + Xtians smuggling explosive seed (telos) into center of scramble generator of dialectic
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Christian, Toso, Indexed, Rome, Form, Scanner, World, Something, Both, Maya, Kosmos, Being, Buddhism, Nothing, Death, Macro, Calvin, Illustration, Life, Neither, Knowledge, Dialectic
+
+---

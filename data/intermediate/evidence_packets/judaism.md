@@ -1,0 +1,364 @@
+# Evidence Packet: Judaism
+
+- **Category**: Top Term
+- **Total Mentions**: 121
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 25520-25528 (Match: 'Judaism')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 129
+923
+
+The journey is not past the planets but more like a Bardo Thodol trip through levels of ascending ontology to YHWH, the Urgrund. So Plato (+ to some degree Aristotle with his "sublunar" + "supralunar" realms) made 2 fundamental inter-related errors which affected Xtianity, but not ancient pre-Hellenistic Judiasm. For the ancient Israelites God was in nature firmly; he was in fact "a God of nature," as the EB 3 points out. The Megiddo Mission is absolutely right about the Hellenistic origin of the body-soul dualism - it is Orphic-Pythagorean-Platonic. The error didn't lie in Parmenides but in Plato's correction. Plato was almost right, but not quite. Plotinus corrected the correction but it was too late; the idea of a mere partial reality to the phenomenal world was already too ingrained. Actually there is no phenomenal world; the "phenomenal world" is the percipient's view of the one world which is divided into two realms exactly as Parmenides described in his forms one + two. Heraclitus' distinction between the idios + koinos helps explain it. __ I suddenly conceive of original pre-Paulline Xtianity as a high, special form of mystical Judaism (before Hellenistic influences took it over). The way. To the restored universe: i.e. both upper + lower realms co-joined +
+
+Last edit almost 7 years ago by Toso
+folder 48 - 130
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Christianity, Form, Plato, Plotinus, Like, World, Parmenides, Folder, Urgrund, Bardo, Thodol, Bardo Thodol, Both, Reality, Heraclitus, Platonic, Orphic, Toso
+Folder, Aristotle, Indexed
+Folder, More, Through, Soul, Actually, Before, Universe, Mission, Journey, Body, Upper, Suddenly, Lower, Right
+
+---
+### Line 25616-25624 (Match: 'Judaism')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 138
+932
+
+This is why I originally envisioned an information satellite. But it's ubiquitous knowledge - why doesn't it take, say, the form of the AI voice alone? My "supernatural tutelary guide" could have handled it all. There certainly is no precedent for information taking so many forms. It wasn't put there just for me; I am sure: take the King-Felix cypher. Except maybe cabala. Could all the diverse manifestations be varigated transductions of one omnipresent entity? My idea of the Bible as 3-D code: that points to the Torah. It is either Judaism or Judiasm-Xtian, with Xtianity viewed as a mystical sect of Judaism: "The Way". But Paul said "The Law (Torah?) can't save" + it does save. As for original sin: Wisdom 2:24: "But God created man for immortality, + made him the image of his own eternal self; it was the devil's spite that brought death into the world, + the experience of it is reserved for those who take his side. (3). But the souls of the just are in God's hand, + torment shall not touch them. In the eyes of the foolish they seemed to be dead," etc. Compare Romans 5:12: "Well then, sin entered the world through one man, + through sin death, + thus death has spread through the whole human race because everyone has sinned." J. Bible note - Ws 2:24: From this Paul concludes that sin has entered into all men through the first fall. We have here the doctrine of original sin." But Ws 2:24 says "it is reserved for those who take his side" + Ws 3 says "But the souls of the just are in God's hand." Paul's doctrine goes against scripture.
+
+Last edit almost 7 years ago by Toso
+folder 48 - 139
+Indexed
+```
+**Co-occurrences**: Christian, Toso, Indexed, Christianity, Form, King, Torah, Paul, Felix, Well, Bible, Roman, Wisdom, Maybe, World, Fall, Because, Folder, Could, Does, Just, Self, Toso
+Folder, Either, Viewed, Indexed
+Folder, Those, Through, Voice, Certainly, Death, Many, Have, Information, Except, Knowledge, Dead, Human, Doesn
+
+---
+### Line 25700-25708 (Match: 'Judaism')
+**Folder**: book of
+
+```text
+Indexed
+folder 48 - 148
+942
+
+So reality is an epiphenomenon derived from the Torah (book of instructions/answers; I mean, if directly consulted it yields up absolute answers - cf my original conception of Valis as an old information satellite). So if reality is seen as it actually is, it melts back into information as its basis. V. "Joint"! Hence deja vu! It all has happened "before," i.e. there is a script that we follow, as in a play. The whole thing is cosmos: interlinked, + adventitiously regulated. Reality is a playing of the Torah record: information turned into world. The record appeared to me as the Sibylline Books. Christ could be Torah incarnate. He would have to be, or be nothing. "I come to fulfill the Law." Could there be a rule that supercedes the Torah? Not according to my 2-3-74 experience; Torah is still in effect. In this case Paul couldn't be more wrong in his view of the Torah. Spinoza is right about God + necessity, causal law. But causal law is willed to act in accordance with the Torah, so in a sense it is an illusion. Ananke != Torah! The existence of the Torah is experienced by reality as God's will: teleology. (Cf Aristotle's concept of God as inspiring goal-seeking). Paul got the Torah confused with "astral determinism" probably due to the mystery religions. Xtianity offered what the mystery religions offered; it was the climate of the times. This is what the Greco-Roman world wanted, Xtianity is the mystery religions impacting on Judaism.
+
+Last edit almost 7 years ago by Toso
+folder 48 - 149
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Toso, Indexed, Christianity, Torah, Paul, Roman, Spinoza, World, Folder, Book, Could, Joint, Reality, Toso
+Folder, Aristotle, Probably, Indexed
+Folder, Nothing, Greco, Still, More, Actually, Before, Will, Would, Back, Have, Absolute, Information, Right, Ananke
+
+---
+### Line 25708-25716 (Match: 'Judaism')
+**Folder**: part of
+
+```text
+Indexed
+folder 48 - 149
+943
+
+But to account for what Christ saves you from, Paul drew on the Jewish concept of sin (known to the Greeks in terms of Orphism), with disastrous consequences, since he had to posit a deranged ontology in man - sin rather than fate (ananke or astral determinism). The Good man - Bad man bipolarities of Wisdom are abolished in favor of ubiquitous badness. But historically it is pronoia that extricates man, + not just in Judaism/Xtianity - v. Stoicism. Christ becomes the sole channel for charis: a monopoly. Still, Paul offers it to all men, Jew + Gentile alike; it is there for the asking, but Paul insists on absolute faith on the part of men, which leads to credal fanaticism + finally the totalitarian church. You wind up not given a choice; it is imposed on you as a Roman-Empire template: conformity. So Roman ideas as well as Greek ideas enter Jewish thought. God the law-giver becomes regarded as oppressive, the law is regarded as incapable of saving, + human institutional oppression replaces the "oppression" of God's law. From this standpoint Paulline Xtianity is blasphemy. The ritual killing of the God-King, whose body + blood the followers eat + drink - this is an abreaction. Eat + drink + become the God-King; i.e. immortal. Must have come in via Orphism from the Dionysian rites. "Kyrios." Compare (contrast) to the Qumran people's beliefs. Zeus-Zagreus! But Spinoza says Jesus was the voice that e.g. Elijah heard - i.e. Holy Wisdom, in which case for a person to be plugged into the AI voice is to be plugged into Christ. The AI voice itself identified Jesus as St Sophia.
+
+Last edit almost 7 years ago by Toso
+folder 48 - 150
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Holy, Jesus, Christianity, Sophia, King, Paul, Greek, Well, Empire, Roman, Spinoza, Wisdom, Elijah, Since, Folder, Faith, Holy Wisdom, Good, St Sophia, Just, Zagreus, Toso
+Folder, Fate, Jewish, Indexed
+Folder, Still, Part, Zeus, Church, Orphism, Voice, Finally, Have, Absolute, Body, Kyrios, Blood, Qumran, Human, Ananke
+
+---
+### Line 28408-28416 (Match: 'Judaism')
+**Folder**: folder 49
+
+```text
+are undermined. reality is thwarted - changed in a way that aborts its ability to process the info on which it is dependent in order to function. Not only is _your_ script amended (or nullified) but _its_ script is amended (or nullified). Hence we speak of Christ as Pantocrator : Lord of the Universe.
+
+Now, look how this fits in with Buddhism. The world is viewed as cruel & murderous & karmic. Both Christ & the Buddha propose ways to escape from this cruel, occluding tyranny which creates so much retributive pain. But Christ's method is far superior, since it affects not just the victim _but the cosmic machinery (order) itself_. The goal (it seems to me) is virtually the same, but Christ is more effective; but the Kingdom = Nirvana.
+
+1) Grace 2) faith 3) anamnesis 4) Holy Spirit 5) born again 6) adoption 7) heir 8) freedom from cosmic order (the Law). All eight add up to Salvation, primarily from the world machinery. From the standpoint of Judaism, this makes no sense, since the Law - the world machinery - is designated as Good & Salvific - in fact the Law is the formula for all creation, the source of reality, that even God himself studies.
+
+But if we view the Xtian salvation system as a discovery, _a technique_, then its value can be appreciated; Christ bestows powers over time & change (causality) on you - power over the macrocosm. You as microcosm have power to thwart the macrocosm.
+
+Last edit over 9 years ago by erica snowlake
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Holy Spirit, Kingdom, Lord, World, Since, Only, Time, Cosmic, Faith, Buddha, Good, Even, Just, Look, Again, Both, Reality, Buddhism, Himself, Viewed, Anamnesis, Grace, More, Pantocrator, Universe, Creation, Have, Freedom, Info, God Himself, Karmic, Salvation
+
+---
+### Line 28884-28892 (Match: 'Judaism')
+**Folder**: folder 49
+
+```text
+Not Started
+folder 49 - 053
+so I don't have to ask, "How could Valis possibly be?" since a real understanding of monotheism leads to the conclusion that (even if 3-74 hadn't occurred) it _must_ be so, & he _must_ control _everything_ - this is monism as well as monotheism : he controls all objects & processes _always_; there is no event that is not willed by him, no place where he is absent; it is as I saw : world (objects & causal processes) as what I called Valis. _I was seeing correctly_. Sentient causality, & all plurality actually one unitary volitional entity that was aware of me.
+
+Xtianity (however true) tells us nothing about the nature of reality & sheds no necessary knowledge vis-a-vis Valis : But, contrarily, the O.T., if properly understood, make Valis understandable, since the real nature of monotheism is not in Xtianity but in Judaism, & Valis is the experiential aspect of the concept (a priori) of monotheism.
+
+My acosmism (shown in my books) was the illness besetting all of us to some degree; viz; cut off from the one true reality : YHWH. I had the illness so severely that the only cure was the radical necessity of waking up & experiencing God - as I did in 3-74 : as I had been formerly more sick than others, I wound up cured; but they linger on half-sick.
+
+I had to read the "VR" outline many times before the inexorable significance linking Valis - my experience of Valis - & monotheism came to me.
+```
+**Co-occurrences**: Valis, Christianity, Well, However, World, Since, Only, Folder, Book, Even, Could, Reality, Nothing, More, Real, Actually, Before, True, Many, Have, Knowledge
+
+---
+### Line 29047-29055 (Match: 'Judaism')
+**Folder**: folder 49
+
+```text
+A sudden insight : unlike all other creatures (e.g. humans) _Valis does not move along any of the 3 spacial axes_; its only motion is along the temporal axis which, for it, is totally accretional : a laying down of layers in terms of developing forms (the only one it disclosed to me is the pretty girl wearing the fish necklace, but that is enough to give me the idea).
+
+A layer is laid down; then years pass, which is for Valis a pause. Then the next layer, perhaps years later, is laid down directly on top with nothing intervening during the "pause" years, like when I have my tape recorder on pause. It is Valis' spacial ubiquity which permits it to deal with form-development (to completion) because if the form in question moves in space this is for Valis no motion since the form is still "here," there being no "there." What must be envisioned is an entity (Valis) who is omnidistributed.
+
+This suggest very clearly Xenophane's concept of God : "He does not move about." Also this is true of Judaism's monotheism, its YHWH.
+
+Time is the dimension (axis) of change which is to say movement (like a baking pie in time lapse photography). So the form involved can in its many developmental levels exist at many different spacial coordinates, but Valis does not see it at "different places!" In fact, the forms are in Valis, & since Valis is a mind they
+
+Last edit over 9 years ago by erica snowlake
+```
+**Co-occurrences**: Valis, Form, Fish, Perhaps, Like, Since, Because, Only, Time, Mind, Does, Being, Girl, Nothing, Still, True, Other, Very, Many, Have, Clearly, Later, During
+
+---
+### Line 29537-29545 (Match: 'Judaism')
+**Folder**: folder 49
+
+```text
+Last edit about 9 years ago by erica snowlake
+folder 49 - 103
+Complete
+folder 49 - 103
+essence of tragedy : the collision of two absolutes. Absolute suffering leads to - is the means to - absolute beauty. Neither absolute should be subordinate to the other but this is not how it is : the suffering is subordinated to the value of the art produced. Thus the essence of horror underlies our realization of the bedrock nature of the universe. Art (the eternal) always wins out over suffering (the ephemeral). However; Christ is not on the side of art; here, he breaks with Greco-Roman - in fact all - antique culture except perhaps Judaism. Those who utilize suffering to produce eternal beauty are damned - damned by Christ the Judge. They will take on the suffering they have inflicted; this is the significance of hell. This is their fate. The great decision of the Xtian is to choose to spare the creature its suffering & _not_ subordinate it to an eternal value such as art. Art is the only thing that might justify it, but, to the Xtian, it does not. & if art does not, then it follows that _nothing_ does. The eternal will not crucify the ephemeral for its purposes. _This_ is the significance of the cross. _The degraded, humiliated, murdered victim is ultimate to the Xtian_; nothing is more important. There is a higher beauty in sparing the sheep than utilizing
+
+Last edit about 9 years ago by erica snowlake
+folder 49 - 104
+Complete
+```
+**Co-occurrences**: Christ, Christian, Complete, Roman, However, Perhaps, Only, Folder, Does, Great, Fate, Nothing, Greco, Those, Their, More, Such, Universe, Will, Other, Judge, Have, Absolute, Neither, Except, Cross
+
+---
+### Line 30197-30205 (Match: 'Judaism')
+**Folder**: folder 49
+
+```text
+folder 49 - 161
+So my mind returned to God from which it came initially. 3-74 was the great return (reabsorption). God (Brahman) interacted with me to form one entity made up of both of us : pure mind to which plural reality was an epiphenomenon.
+
+Can I solve it on _this_ basis? Judaism, Xtianity, & islam are (oh, & Zoroastrianism) the _revealed_ religions. God (or an angel of God) talks to you & reveals the truth. This is epiphany, not mysticism. Well, was my 3-74 experience epiphany or mysticism? It indeed was epiphany or theophany - I cite the AI voice. The AI voice represents the essence of revelation pure & simple. Brahman does not talk to you, & this aspect is so re : Buddhism & Taoism. In the Oriental religions there is no person or personality of God to have an I-thou relationship with, & yet this is precisely what happened beginning in 3-74.
+
+Also there is the historical, dialectical unfolding of God's plan of salvation (& my analysis of the nature of the schism in the Godhead, which is to say, the Fall).
+
+& the acts material in "Tears."
+```
+**Co-occurrences**: Tears, Acts, Christianity, Form, Brahman, Well, Godhead, Fall, Folder, Mind, Does, Taoism, Both, Reality, Buddhism, Great, Voice, Zoroastrianism, Revelation, Angel, Have, Form One, Truth, Salvation
+
+---
+### Line 30217-30225 (Match: 'Judaism')
+**Folder**: folder 49
+
+```text
+& I did originally sense that Valis is an _invader_ into our reality. Camouflaged here in the midst of the not-it.
+
+The crisis, resolution through divine intervention (Pronoia), the conversion in me - lightning swift insight into my own nature, into history & the role of the secret, real Xtians - the seeing the the historic Master plan of God's hidden existence & purpose - all mark it as Xtian. The Roman Catholic Church teaches that Pronoia is God as _immanent_ in the world, acting to aid individuals & nations.
+
+& I knew the original Xtian sacraments & enacted them with Chrissy, & _the Koine!_ Ach! the Koine marks it as Xtian vs Judaism. It was a sign.
+
+What I should keep always in mind is that I was led to YHWH by a "negative route" of acosmism, so that for me it was Moksa to grasp the role of the Creator (a term that always had meant nothing to me) as Guarantor of reality, the latter being, as I had always realized, epiphenomenal. The solution, then, to the question I perpetually raised, as to the reality of the universe, suddenly found a revealed answer in my com-
+
+Last edit almost 9 years ago by erica snowlake
+```
+**Co-occurrences**: Valis, Christian, Roman, World, Mind, Reality, Being, Catholic, Divine, Chrissy, Nothing, Creator, Church, Through, Real, Secret, Universe, Suddenly, Answer
+
+---
+### Line 30298-30306 (Match: 'Judaism')
+**Folder**: folder 82
+
+```text
+-12-29-80
+
+Paul and original sin.
+
+Paul is saying, Man after the Fall is still fallen. The Torah has not restored him to his pre-fallen state. This is the point Paul is trying to make; the Jews believed that the Torah, in particular the decalogue, was sufficient for man's needs, but Paul points out that the Torah doesn't save; i.e. it doesn't reverse the damage, the effects, of the Fall. Man stays as he is: blighted and occluded; what Paul calls "in a state of (original) sin." Again, the Torah is for fallen man.(1) It tells him first of all what not to do ("Thou shall not" etc). How has this changed fallen man? Original sin is simply a term telling us that Adam alone did not fall but that all men fell with him and are fallen now. This is simply a statement of fact, unless you reject the doctrine --notion-- of the Fall. But Judaism accepts that notion.(1) Does Judaism believe that Adam's descendents re-arose to a pre-fallen state after Adam's death? No, of course not.(1) Paul says, "The Law (Torah) can only condemn, can only convict of sin." This is so. In itself it has no power to save; in fact Judaism is devoid of a concept of any method by which man can be restored to his pre-fallen state.(1) It as a concept simply does not exist in Judaism. Man will stay fallen forever, abiding by the Mosaic Law.(1)
+
+Another objection. Let us concede that the theophany at Mt. Sinai took place, that the Torah was indeed handed down to Moses by YHWH. Well, let us compare it to Jesus' teachings. We find that Jesus' teachings are superior. Then if we regard Jesus as only a man and not God or the Son of God, we are faced with the impossible notion that a mere man, a prophet or preacher, could come up with a
+
+(1) I am wrong; Rabbi Herz says that for Judaism there was no Fall (and of course no original sin).
+```
+**Co-occurrences**: Jesus, Torah, Paul, Well, Fall, Only, After, Could, Does, Adam, Again, Moses, Still, Jews, Another, Death, Will, Unless, Doesn
+
+---
+### Line 30302-30310 (Match: 'Judaism')
+**Folder**: folder 82
+
+```text
+Paul is saying, Man after the Fall is still fallen. The Torah has not restored him to his pre-fallen state. This is the point Paul is trying to make; the Jews believed that the Torah, in particular the decalogue, was sufficient for man's needs, but Paul points out that the Torah doesn't save; i.e. it doesn't reverse the damage, the effects, of the Fall. Man stays as he is: blighted and occluded; what Paul calls "in a state of (original) sin." Again, the Torah is for fallen man.(1) It tells him first of all what not to do ("Thou shall not" etc). How has this changed fallen man? Original sin is simply a term telling us that Adam alone did not fall but that all men fell with him and are fallen now. This is simply a statement of fact, unless you reject the doctrine --notion-- of the Fall. But Judaism accepts that notion.(1) Does Judaism believe that Adam's descendents re-arose to a pre-fallen state after Adam's death? No, of course not.(1) Paul says, "The Law (Torah) can only condemn, can only convict of sin." This is so. In itself it has no power to save; in fact Judaism is devoid of a concept of any method by which man can be restored to his pre-fallen state.(1) It as a concept simply does not exist in Judaism. Man will stay fallen forever, abiding by the Mosaic Law.(1)
+
+Another objection. Let us concede that the theophany at Mt. Sinai took place, that the Torah was indeed handed down to Moses by YHWH. Well, let us compare it to Jesus' teachings. We find that Jesus' teachings are superior. Then if we regard Jesus as only a man and not God or the Son of God, we are faced with the impossible notion that a mere man, a prophet or preacher, could come up with a
+
+(1) I am wrong; Rabbi Herz says that for Judaism there was no Fall (and of course no original sin).
+
+Last edit almost 9 years ago by Toso
+folder 82 - 005
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Jesus, Torah, Paul, Well, Fall, Only, After, Folder, Could, Does, Adam, Again, Moses, Toso
+Folder, Still, Jews, Another, Death, Will, Unless, Doesn
+
+---
+### Line 30310-30318 (Match: 'Judaism')
+**Folder**: folder 82
+
+```text
+Indexed
+folder 82 - 005
+"Torah" or system of ethics-beliefs superior to what God came up with vis-a-vis Moses at Sinai. Well, since this is impossible, then perhaps the solution is to say that Jesus' teachings are not superior to the Mosaic Law. But they seem to us to be superior. But perhaps this is circular reasoning; we find them superior because we are Christians and have been taught them. But Rabbi Herz claims that the golden rule comes from the Torah (Liv. 19:18), so he admits the absolute superiority of Jesus' basic ethical premise but claims that it came in the Hebrew Torah long before Jesus]. Then Jesus was just repeating concepts already familiar to the Jews; e.g. Hillel. But Jesus does not just state the golden rule; his system is complex, intricate, sophisticated, vast. He did not utter just the one statement found in Liv. 19:18. So where did his other sayings come from; especially the Sermon of the Mount? Again, if he is only a man he is more advanced in terms of ethical conceptions and propositions than YHWH! In my opinion if you conclude that indeed the decalogue was given to Moses by God, then it follows from internal evidence, which is to say the teachings and system of Jesus, that Jesus was God or related to God in some way; for instance God's Holy Wisdom, or as with Ptath in the Egyptian system, God's "tongue."
+
+Finally, Jesus presented a system which went beyond making men truly moral --spotless of sin-- but, more, restoring men to their pre-fallen state(1), and here the issue lies, because it seems probable that only God could inaugurate such a system -- unless you wish to take the argument that Jesus' system does not in fact restore man to his pre-fallen state but only claims to. But Judaism does not even make this claim for the Torah.
+
+(1) But if man did not Fall, then what was I restored to? The Book of Adam and Eve (can't read)
+
+Last edit almost 9 years ago by Toso
+```
+**Co-occurrences**: Christian, Toso, Indexed, Holy, Jesus, Torah, Well, Golden, Wisdom, Perhaps, Since, Fall, Because, Only, Folder, Holy Wisdom, Book, Even, Could, Does, Hebrew, Just, Adam, Again, Moses, Indexed
+Folder, Jews, Their, More, Such, Before, Finally, Other, Egyptian, Beyond, Have, Absolute, Unless, Ptath
+
+---
+### Line 30317-30325 (Match: 'Judaism')
+**Folder**: part of
+
+```text
+Last edit almost 9 years ago by Toso
+
+folder 82 - 006
+Further, the Torah is frozen; it is an article of dogma for Judaism that there is no new Torah and there will never be, so by Judaism's own dogma, Torah is frozen forever. Obviously, then it has ossified. What Jesus represents is the living Torah, with new revelations; he is with us and can enter into dialog with us. He is flexible. Obviously if the original Mosaic Torah were ever to be superceded, this would be the ideal way for it to be superceded: by God incarnate as man. It seems to me that the original Torah ossified and was then superceded by Jesus, the Christ, and then Christianity itself ossified around 1300 and was then superceded by the system of the Protestants and that now we see an ossification of that; by reason of which we can expect a new revelation, a new theophany, perhaps the Parousia. Also, if Jesus is Holy Wisdom, he existed before creation and does not represent a part of creation but the Godhead itself entering creation anew. Structurally, this makes perfect sense, but what is involved is not just further injunctions, admonitions and rules for fallen man, but a method by which fallen man ceases to be fallen man. Rabbi Herz does not speak of this when he contrasts Judaism with Christianity. He misses the central point of Christianity, and hence the central weakness of Judaism, or, as Paul puts it, the Law and the Law's inability to save. Judaism accepts the condition of fallen man and makes the best of it (by relying on the divine Torah revealed to Moses by YH WH). Christianity does exactly the opposite; it preaches man restored, the Second Adam who undoes --more than undoes-- the work of the first Adam [Note]. Judaism does not present
+
+[Note]: Yet I have always rejected Paul's doctrine of original sin, hence the Fall. Judaism teaches that man is pure. Is this not my belief? Do I not share this?
+
+Last edit about 9 years ago by Toso
+```
+**Co-occurrences**: Christ, Toso, Holy, Jesus, Christianity, Torah, Paul, Parousia, Wisdom, Perhaps, Godhead, Fall, Folder, Holy Wisdom, Does, Just, Adam, Obviously, Divine, Moses, Part, More, Living, Before, Revelation, Will, Would, Creation, Were, Frozen, Further, Have
+
+---
+### Line 30319-30327 (Match: 'Judaism')
+**Folder**: part of
+
+```text
+folder 82 - 006
+Further, the Torah is frozen; it is an article of dogma for Judaism that there is no new Torah and there will never be, so by Judaism's own dogma, Torah is frozen forever. Obviously, then it has ossified. What Jesus represents is the living Torah, with new revelations; he is with us and can enter into dialog with us. He is flexible. Obviously if the original Mosaic Torah were ever to be superceded, this would be the ideal way for it to be superceded: by God incarnate as man. It seems to me that the original Torah ossified and was then superceded by Jesus, the Christ, and then Christianity itself ossified around 1300 and was then superceded by the system of the Protestants and that now we see an ossification of that; by reason of which we can expect a new revelation, a new theophany, perhaps the Parousia. Also, if Jesus is Holy Wisdom, he existed before creation and does not represent a part of creation but the Godhead itself entering creation anew. Structurally, this makes perfect sense, but what is involved is not just further injunctions, admonitions and rules for fallen man, but a method by which fallen man ceases to be fallen man. Rabbi Herz does not speak of this when he contrasts Judaism with Christianity. He misses the central point of Christianity, and hence the central weakness of Judaism, or, as Paul puts it, the Law and the Law's inability to save. Judaism accepts the condition of fallen man and makes the best of it (by relying on the divine Torah revealed to Moses by YH WH). Christianity does exactly the opposite; it preaches man restored, the Second Adam who undoes --more than undoes-- the work of the first Adam [Note]. Judaism does not present
+
+[Note]: Yet I have always rejected Paul's doctrine of original sin, hence the Fall. Judaism teaches that man is pure. Is this not my belief? Do I not share this?
+
+Last edit about 9 years ago by Toso
+folder 82 - 007
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Holy, Jesus, Christianity, Torah, Paul, Parousia, Wisdom, Perhaps, Godhead, Fall, Folder, Holy Wisdom, Does, Just, Adam, Obviously, Divine, Moses, Toso
+Folder, Part, More, Living, Before, Revelation, Will, Would, Creation, Were, Frozen, Further, Have
+
+---
+### Line 30325-30333 (Match: 'Judaism')
+**Folder**: folder 82
+
+```text
+Last edit about 9 years ago by Toso
+folder 82 - 007
+Indexed
+folder 82 - 007
+an alternative system by which this is accomplished. In fact it is only upon studying Judaism --the writings which include the Torah and many glosses-- that I understand what Christianity does, by virtue of the contrast visible between them. Thus for the first time I can understand why Paul taught the doctrine of original sin. It was absolutely essential to stigmatize man's present and past condition (state) as that of Adam's and in no way an improvement on Adam's -- if this was not put forth as a premise, then what was next put forth, the idea of salvation, which is to say the restoration of man to his pre-fallen state, makes no sense. Man must be seen as fallen if man is to be seen as necessarily requiring salvation; otherwise, "Salvation from what?" Paul has made a daring leap of insight from the story of Adam's Fall to all mankind's condition -- to mankind's present condition. Paul says, "No one since Adam ever got back up to the pre-fallen state; hence we say, Adam deprived us all of that original state of felicity." What else could Paul say if he is to preach the doctrine of salvation through Christ? That the Torah restored man to his pre-fallen state? [Note] But Judaism does not claim that the Torah does that; all Judaism claims for the Torah is that God has spoke to fallen man and told him what to do and what not to do. Man is still fallen. [Note] Only Jesus the Christ has the power to restore man; only Jesus the Christ even claims that power or, what is more, conceives of that restoration taking place! What is so disheartening about Judaism is that under it man accepts his fallen state as eternal. And this means, Judaism is tacitly saying that Yes, we have all inherited Adam's sin, which is to say, Adam's fall; we fell with him and are fallen still, and our descendents as
+
+[Note] This whole article is based on the false premise that Judaism believes, like Xtianity, in the Fall - it does not.
+
+Last edit about 9 years ago by Toso
+```
+**Co-occurrences**: Christ, Toso, Indexed, Jesus, Christianity, Torah, Paul, Like, Since, Fall, Only, Time, Folder, Even, Could, Does, Adam, Toso
+Folder, Indexed
+Folder, Still, More, Through, Upon, Back, Under, Many, Have, Otherwise, Salvation
+
+---
+### Line 30327-30335 (Match: 'Judaism')
+**Folder**: folder 82
+
+```text
+Indexed
+folder 82 - 007
+an alternative system by which this is accomplished. In fact it is only upon studying Judaism --the writings which include the Torah and many glosses-- that I understand what Christianity does, by virtue of the contrast visible between them. Thus for the first time I can understand why Paul taught the doctrine of original sin. It was absolutely essential to stigmatize man's present and past condition (state) as that of Adam's and in no way an improvement on Adam's -- if this was not put forth as a premise, then what was next put forth, the idea of salvation, which is to say the restoration of man to his pre-fallen state, makes no sense. Man must be seen as fallen if man is to be seen as necessarily requiring salvation; otherwise, "Salvation from what?" Paul has made a daring leap of insight from the story of Adam's Fall to all mankind's condition -- to mankind's present condition. Paul says, "No one since Adam ever got back up to the pre-fallen state; hence we say, Adam deprived us all of that original state of felicity." What else could Paul say if he is to preach the doctrine of salvation through Christ? That the Torah restored man to his pre-fallen state? [Note] But Judaism does not claim that the Torah does that; all Judaism claims for the Torah is that God has spoke to fallen man and told him what to do and what not to do. Man is still fallen. [Note] Only Jesus the Christ has the power to restore man; only Jesus the Christ even claims that power or, what is more, conceives of that restoration taking place! What is so disheartening about Judaism is that under it man accepts his fallen state as eternal. And this means, Judaism is tacitly saying that Yes, we have all inherited Adam's sin, which is to say, Adam's fall; we fell with him and are fallen still, and our descendents as
+
+[Note] This whole article is based on the false premise that Judaism believes, like Xtianity, in the Fall - it does not.
+
+Last edit about 9 years ago by Toso
+folder 82 - 008
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Jesus, Christianity, Torah, Paul, Like, Since, Fall, Only, Time, Folder, Even, Could, Does, Adam, Toso
+Folder, Indexed
+Folder, Still, More, Through, Upon, Back, Under, Many, Have, Otherwise, Salvation
+
+---
+### Line 30335-30343 (Match: 'Judaism')
+**Folder**: folder 82
+
+```text
+Indexed
+folder 82 - 008
+-5-
+
+well. So the claim of Jesus the Christ is original and revolutionary, but it must depend on an admission of man's fallen state which is a way of saying that man is born sinful; i.e. he is born fallen and does not fall individually during his particular lifetime according to his own deeds. All that Paul wants to do is lay the conceptual groundwork for the notion of salvation; the last thing he wants to do is condemn man. Paul has a remedy but to convince us to make use of the remedy he must point to the disease. Judaism has forgotten about the Fall when they regard man as a wonderous thing made in the image of God. Paul says, Yes we were so designed, but fell. And if God ordained the Fall (in terms of punishment or curse) then it is logical that God and only God can reverse the condition and restore man. It is not likely that a system by a mortal human could accomplish this, because if it did, it would de facto place that mortal human at the level of Godhood. He would be as powerful as God. How, then, can Jesus not be God or anyhow the Logos or Holy Wisdom, i.e. God's Wisdom? For myself I can testify that through Christ, or so it would seem, I was in February 1974 restored to my pre-fallen state, thus giving me personal verification of the gospel of Christ, as well as the reality of his nature and power. It has taken me six years to come to understand that this is indeed what happened to me in the spring of 1974, but such was it, in fact. Thus I personally can reason back from my own salvation or restoration to the fall and to the ubiquity of the fall in terms of all men past and present, in terms, I mean, of course myself.
+
+Last edit about 9 years ago by Toso
+folder 82 - 009
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Holy, Logos, Jesus, Paul, Well, Wisdom, Fall, Because, Only, Folder, Holy Wisdom, Gospel, Could, Does, Anyhow, Reality, Toso
+Folder, Indexed
+Folder, Through, Such, Would, Were, Back, Spring, During, Human, Salvation
+
+---
+### Line 30341-30349 (Match: 'Judaism')
+**Folder**: folder 82
+
+```text
+Last edit about 9 years ago by Toso
+folder 82 - 009
+Indexed
+folder 82 - 009
+Now, to compare Christianity with the mystery religions: it seems to me that the existence of the Greco-Roman mystery religions indicates that non-Christians had begun to figure out the fact that man fell, especially the Orphics; which gives further verification to the probability of this primal catastrophe. It was the intent of the mystery religions to reverse the damage of the fall. There can be no question of this; we know this to be so. How well they did we don't know. But I can personally speak for the efficacy of Christianity, which is to say of Jesus Christ. Perhaps Judaism was indeed kinder to oxen, but Christianity at Paul's time had bigger goals: the reversal of the then-fate of all creation, which involves man and animals both. When man fell all creation fell with him as a result. The Torah makes this clear. And the more the Torah is glorified and adulated the more severe the problem grows, because Judaism more and more forgets that man is fallen, i.e. debased and damaged, impaired and occluded. So it was necessary for Paul to go the whole way (at times) and to stigmatize the Law as either totally ineffective or downright evil -- which seems unnecessarily harsh until we realize what his purpose was. "The Law cannot save," Paul said, and he said it in every way and at every occasion possible. He went so far as to deny that it came from YHWH but said that "mere angels" handed it down, which (I believe) has no scriptural basis. He had to void the Jew's faith in the salvific power of the Law in order to save the Jew. The Law did not save; it did not claim it could save; it drew men's minds away from the notion of fall and salvation
+
+Last edit about 9 years ago by Toso
+folder 82 - 010
+Complete
+```
+**Co-occurrences**: Christ, Christian, Toso, Indexed, Jesus, Complete, Christianity, Torah, Paul, Well, Roman, Perhaps, Fall, Because, Time, Folder, Faith, Could, Both, Jesus Christ, Orphic, Toso
+Folder, Either, Fate, Indexed
+Folder, Greco, More, Creation, Further, Evil, Salvation, Until
+
+---
+### Line 30349-30357 (Match: 'Judaism')
+**Folder**: book of
+
+```text
+Complete
+folder 82 - 010
+-7-
+
+intertwined. Now the utter nobility of the doctrine of Vicarious Atonement makes sense to me -- now that I have some small grasp of Judaism, the basis of Christianity, its substrate. What could be more heroic than the idea that God who himself threw mankind down as punishment for man's original transgression, so loved man that He gave His only begotten Son to redeem man? And under conditions of acute --supreme-- abasement and suffering? There is nothing in Judaism to equal this, and nothing in any of the other of the world's religions. Mani was martyred but he left no system of teachings as did Christ. Christ's teachings are his certification of Godhood, since they exceed in value the Mosaic Torah itself. Again, Judaism has no mechanism for salvation. Yet their own Torah depicts man's Fall. Judaism cannot therefore deny that man is fallen, unless there was a restoration not depicted, or, possibly, it is supposed that the revelation at Mt. Sinai restored man, but I don't see that claim made. Nor do I see it as implicit in the revelation to Moses that the Torah made man what he had originally been; it certainly did not return him to Eden (or as it is called Paradise). Yet when Christ restored me in 1974-5 saw Eden; I saw the palm tree garden around me, although I did not know what it was. Also, I saw the black iron prison in which we now live (cf the First book of Adam and Eve: the Cave of Treasures called "small and narrow" and a "prison," in contrast to the Garden from which they were expelled). There is a great significance in the Christian concept of restoration in terms of God's wisdom and foreknowledge, lacking in
+
+Last edit about 9 years ago by Toso
+
+folder 82 - 011
+```
+**Co-occurrences**: Christ, Christian, Toso, Complete, Christianity, Torah, Wisdom, World, Since, Fall, Therefore, Iron, Prison, Only, Black, Folder, Garden, Book, Could, Adam, Again, Although, Moses, Black Iron Prison, Himself, Great, Palm, Nothing, Their, More, Certainly, Revelation, Other, Were, Under, Have, Eden, Tree, Mani, Unless, Paradise, Iron Prison, Salvation
+
+---

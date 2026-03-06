@@ -1,0 +1,359 @@
+# Evidence Packet: Magus
+
+- **Category**: Top Term
+- **Total Mentions**: 26
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 3063-3071 (Match: 'Magus')
+**Folder**: part of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+234
+Needs Review
+234
+I've seen her, heard her, in many guises, and finally the name "St. Sophia." Gnostic revelation has broken through into my head in the modern world. I think anyone versed in Gnosticism who read my notes would say, "You're a Gnostic." I am not happy about this, but it is so, based on 3-74. Simon Magus lives. Also, it is a thoroughly Greek syncretistic system. I must go where truth (as I've experienced it) takes me; my experience is of St. Sophia. Well, this is a modified Gnosticism, with Sophia sanctified as Wisdom of Proverbs and the book "Wisdom," so that it can be made to jibe with the Bible; thus Christ becomes the female spirit Sophia in a male body, a syzygy. Ah! Yes! This is the complete person! The missing half which Plato wrote about. In Jungian terms, psychological completeness; psychic integration. Not either or but both and. At last; the repressed female goddess Prinzip breaks through into Christianity, in a Third Testement or Covenant. Father (0. T.), Son (N.T.) and daughter or mother (3rd T.). The first emanation from God, according to the O.T., so I guess daughter as demiurge (cf Plato). The Godhead remains behind her; I experienced that; she is the Pantocrator. Ma'at. Or rather Pantocratrix. Two aspects differ from Gnosticism: It is holy Wisdom, not just Sophia; and: she was born before and rejected, which identifies hers with Christ, hence the Logos. This restores the cosmological quality to the system, lost in Gnosticism; the creating spirit (universe creating) is holy & good, not fallen (blech). And this maintains Christ correctly as the Redeemer and Revealer.
+
+Pantocrator: ruler of the universe. Creator and Savior com¬ bined. Also judge. He is represented as holding a book, bound, of the Gospels. But if the Pantocrator is/was creator (which is so) then it is close to Gnosticism, with their Sophia as creator, but the same exactly as the Bible with Wisdom (or Christ) as the actual creator of the universe, rather than God. In a sense Gnosticism is a correct exegesis of the Bible (i.e. Proverbs 8 and "Wisdom"). (And Paul in assigning the role of creator to Christ, who equals Holy Wisdom.) The Gnostics were grappling with the problem of why the space-time universe is so inferior and we are cut off from the pleroma — the answer of the Christians being the fall of man by Adam. Why are we in this dim place when we once were in that bright place? is the q. for both. We were once there; it is a far better place; we are going back; our father is there; it is our natural home — all this is derived from revelation and has passed into general Christian belief (like in the spiritual "Going Home"). Anamnesis (as with the Orphics too) brings recollection of celestial origin. The continual unanswered question is how come we fell? Nobody knows, and none of the answers is convincing; they're all obviously guesses & myths and arbitrary. Recall the story about the son sent on an errand to a strange land, who forgets his origins and lives there believing he's a native, and then a letter comes from his real parents, which restores his memory (Book of Thomas?), and he starts the journey back. Why was he sent to the strange land? and why did he forget his origins? Really, there are two unanswered questions. Anyhow, that is the state of things: exile and amnesia. But also: the Redeemer who restores us to our original estate, which seems to be after death (I guess), or else in the coming of the Kingdom of God here, which doesn't imply after death but an as simulation of
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Gnosticism, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Orphic, Covenant, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Journey, Things, Body, Memory, Jungian, Truth, Doesn, Pleroma, Answer, Simon Magus
+
+---
+### Line 8226-8234 (Match: 'Magus')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+125
+Needs Review
+125
+117 was a source for theoretically total reconstruction of The poems, however long I have repeatedly identified Christ not as an emissary of the urgrund or Godhead but (when incar‐ nated) as a microform of the [macro] total divine. This is how I personally comprehend him. But now, thinking about what Bruno taught (+: "...the religious perience of the Hermetic Gnostic consisted in reflecting the universe within his own mind or memory.. (he) believed that man's mens was in itself divine + there‐ fore able to reflect the divine mind behind the universe. In Bruno, the cultivation of world- reflecting Magic memory becomes the technigue for achieving the personality of a Magus... etc. "Magus," although meaning magician also may mean something akin to our word "scientist" as contrasted to "priest.") - Consider What is said about the Hermetic Gnostic (presumably of the ancient world: Hermes Tristigistos) - what is meant by "reflect"? Anyhow, putting this material about the Hermetics + Bruno together with my view of Christ, we are forced to conclude that Christ was successfully what the Hermetics + Bruno strove for, whether they realized it or not. Anamnesis Then is a containing of the totality of the urgrund, an analog, microformed, of everything in it. My guess is that it is the "magnetized iron oxide tape" sort of memory, a true capturing of what it remembers out of which that which is remembered can - in anam nesis- be said to exist or live [again] here, not there, small, not large
+
+Last edit almost 3 years ago by svayambhu108
+
+126
+```
+**Co-occurrences**: Christ, Gnostic, However, Godhead, World, Iron, Urgrund, Mind, Hermetic, Anyhow, Something, Again, Although, Everything, Divine, Anamnesis, Bruno, Consider, True, Macro, Universe, Have, Memory, Whether, Magic, Hermes
+
+---
+### Line 8257-8265 (Match: 'Magus')
+**Folder**: part is
+
+```text
+Last edit almost 3 years ago by svayambhu108
+130
+Needs Review
+130
+122 + then, his sight enhanced by having been taken over by that mind, he sees it as a sentient externd entity mimicking objects + causal processes + affecting their outcome! An unbroken line of "Magi" have, while alive very secretly sought for -+ found- ways of entering this mind. It bestows absolute wisdom + immortality - the alchemists' goal! This is the rock-bottom secret goal + payoff of Xtianity, the Hermetics - the Mystery religions in general, the true acchemists, appolonius of tyanna, Simon Magus, Asklepios, Empedocles, para celsus, Bruno, etc. The link to the next world - i.e the Kingdom of God is participating in this polyence. phalic mind emanating from the other side. Its Wisdom works this way: the wise humans incorporated in it supply what they know, but a much greater knowledge that of Holy Wisdom (Christ) is exchanged back in response Now: let vs consider "Thomas. Although the Holy Spirit was involved, so was [at least] one specific human who had lived recently enough to drive a car + another specific human from the 1st century AD Rome. This is because this mens Dei includes good humans who have died, retaining their person alities + identies intact Erasmus could well have been one of them. Many do not join until after death. But I am positive that some living humans are involved; my own experience froves its
+
+Last edit almost 3 years ago by svayambhu108
+
+131
+```
+**Co-occurrences**: Christ, Thomas, Spirit, Holy, Rome, Christianity, Holy Spirit, Kingdom, Well, Wisdom, World, Because, After, Holy Wisdom, Good, Mind, Hermetic, Could, Simon, Kingdom of God, Empedocles, Although, Their, Bruno, Another, Living, Secret, Consider, True, Death, Other, Erasmus, Very, Back, Many, Have, Absolute, Wise, Having, Knowledge, Greater, Human, Simon Magus, Until
+
+---
+### Line 8421-8429 (Match: 'Magus')
+**Folder**: Book I
+
+```text
+1. We must recognize the existence of the artifact. 2. We must recognize the spuriousness of the empirical world, generated by the artifact. 3. We must grasp the fact that the artifact has by its world-projecting power enslaved us. 4. We must recognize the fact that the artifact, although enslaving us in a counterfeit world, is teaching us. 5. We must finally come to the point where we disobey our teacher -- perhaps the most difficult moment in life, inasmuch as that teacher says, "I will destroy you if you disobey me, and I would be morally right to do so, since I am your Creator."
+
+In essence, we not only disobey our teacher, we in fact deny its reality (in relation to a higher reality that does not disclose itself until that denial takes place). This is a complex game for ultimate stakes: freedom and a return to our source of being. And each of us must do this alone. There is a very curious point that I see here for the first time. Those persons on whom the artifact, through its projected world, heaps pleasure and rewards are less likely to take a stance against it and its world. They are not highly motivated to disobey it. But those who are punished by the artifact, on whom pain and suffering are inflicted -- those persons would be motivated to ask ultimately questions as to the nature of the entity ruling their lives. I have always felt that the basic constructive purpose of pain is somehow to wake us up. But wake us up to what? Perhaps this paper points to what we are being awakened to. If the artifact through its projected world teaches us to rebel, and if by doing so we achieve isomorphism with our true maker -- then it is the hard road that leads to immortality and a return to our divine source. The road of pleasure (success and reward by and in this projected world) will not goad us to consciousness and to life. We stand enslaved by a ruthless mechanism that will not listen to our complaints; therefore we repudiate it and its world -- and turn elsewhere. The computerlike teaching machine is doing its job well. It is a thankless task for it and an unhappy experience for us. But childbirth is never easy. There can be no divine birth within the human mind until that human has denied the world. He rebelled once and fell; he must now rebel again to regain his lost state. That which destroyed him will save him. There is no other path. The maker is motivated to seek an instrument for self-awareness: This is the premise of this paper. And our reality was constructed to act as a sort of mirror or image of its maker, so that the maker can obtain thereby an objective standpoint to comprehend its own self. Since writing this I have come across the entry in The Encyclopedia of Philosophy, Vol. 1, on Giordano Bruno (1548-1600). It states: "But Bruno transformed the Epicurean and Lucretian notions by imparting animation to the innumerable worlds . . . and by imparting the function of being an image of the infinite divinity to the infinite." Later the article states:
+
+ART OF MEMORY. The side of Bruno's work which he regarded as the most important was the intensive training of the imagination in his occult arts of memory. In this he was continuing a Renaissance tradition which also had its roots in the Hermetic revival, for the religious experience of the Hermetic gnostic consisted in reflecting the universe within his own mind or memory. The Hermeticist believed himself capable of this achievement because he believed that man's mens [mind] as in itself divine and therefore able to reflect the divine mind behind the universe. In Bruno, the cultivation of world-reflecting magic memory becomes the technique for achieving the personality of a magus, and of one who believes himself to be the leader of a religious movement [p. 407].
+
+The kind of memory that Bruno was cultivating -- and teaching techniques by which to restore this memory -- is the long-term DNA gene pool memory that spans many lifetimes. The retrieval of this long-term memory is called anamnesis, which literally means the loss of forgetfulness. It is only by means of anamnesis, then, that memory truly capable of "reflecting the divine mind behind the universe" is brought into being. Therefore, if the human being is to fulfill his task -- that of being a sort of mirror or image of the Urgrund -- he must experience anamnesis. Anamnesis is achieved when certain inhibited neural circuits in the human brain are disinhibited. The individual cannot achieve this himself; the disinhibiting stimulus is external to him and must be presented to him, whereupon a process in his brain is set into motion by which he eventually will be capable of fulfilling his task. It is the hidden, true Christian Church that approaches men here and there to trigger off that anamnesis -- which acts at the same time to permit that man to see the projected world as it is. Thus he is liberated in the very act of performing his divine task. The two realms (1) the macrocosmos, i.e. the universe; and (2) the microcosmos, i.e. man, have analogous structures.
+
+1. On the surface, the universe consists of a spurious projected reality, under which lies an authentic substratum of the divine. It is difficult to penetrate to this substratum. 2. On the surface, the human mind consists of a short-term limited ego that is born and dies and comprehends very little, but behind this human ego lies the divine infinitude of absolute mind. It is difficult to penetrate to this substratum.
+```
+**Co-occurrences**: Acts, Christian, Gnostic, Well, Perhaps, World, Since, Because, Therefore, Only, Time, Urgrund, Mind, Hermetic, Does, Once, Again, Reality, Being, Although, Self, Divine, Himself, Anamnesis, Brain, Creator, Those, Their, Bruno, Church, Through, Most, True, Universe, Finally, Will, Would, Other, Somehow, Very, Under, Many, Have, Artifact, Life, Absolute, Memory, Freedom, Later, Magic, Human, Right, Until
+
+---
+### Line 14508-14516 (Match: 'Magus')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 009
+9
+
+E of Ph Bruno was very into Hermetic stuff. + he believed in reincarnation. "For the religious experience of the Hermetic Gnostic consisted in reflecting the universe within his own mind or memory... Man's mens is in itself divine + therefore able to reflect the divine mind behind (sic!) the universe. In Bruno, the cultivation of world-reflecting magic memory becomes the technique for achieving the personality of a Magus, + of one who believes himself to be the leader of a religious movement. "Bruno had some profound things to say in his books on memory concerning the imagination, which he made the sole cognitive power, + on the mental image in relation to the psychology of the 'inspired' personality." Clearly, Bruno is my main man, + could of all people explain 2-74/3-74: these experiences of mine make sense [best or only] within his Hermetic Hylozoic cosmology. Clearly, his animism is not the sign of a primitive mind but, as my reference books all say, a very advanced thinker, even by modern standards. He was impressed by De Rerum Natura - he did not believe in death. Only in change. In summary: within these past 4 days I have cracked the case; I now know what formerly I only believed or merely hoped, suspected - it is all as I supposed. From the start I was always really right - informed by 2-74/3-74 itself. In my 49th year, September 7, 1978, I know complete fulfillment. Amen.
+
+Last edit almost 7 years ago by Toso
+Folder 03 - 010
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Complete, Gnostic, These, World, Therefore, Only, Folder, Mind, Book, Hermetic, Even, Could, Divine, Toso
+Folder, Himself, Indexed
+Folder, Bruno, Death, Universe, Very, Have, Clearly, Things, Memory, Days, Magic, Right
+
+---
+### Line 16140-16148 (Match: 'Magus')
+**Folder**: folder 22
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 22 - 090
+Needs Review
+folder 22 - 090
+88 I saw him per spiratum sanctum (in me). "Christ has no body now but yours." He acted in + through me. He was in me. in the tractate I have put forth a theoretical framework in which the manifes tation (theophany) of Zebra (Christ) not only comes into existence by logic, but by necessity as a confirmation of the frame work (world view). The framework explains the epiphany (who, what doing, why) + the epiphany verifies the framework. Perception (of the epiphany) + cognition (the creation of a theoretical framewat) dovetail - a masterful achievement. (+ experience!). It tove me 4I years to construct the 3000 word framework. How the tractate could be used re "Valis": there is a secret or quasi secret religious group who holds to the "ideology" (theology) of the tractate, + the protagonist experiences the epiphany which I ex perienced - i.e. true - not cargo cult- Xtianity. is secret, but contacts the pro t t tagonist. For fictional purposes. It b could be the church of Simon Magus I n ie (+ bruns + Paracelsus, etc). Or: it could the expose establishment churche as being those of Simon Magus. Either way would do.
+
+Last edit almost 3 years ago by svayambhu108
+
+folder 22 - 091
+```
+**Co-occurrences**: Christ, Valis, Zebra, Christianity, World, Only, Folder, Could, Simon, Being, Either, Those, Paracelsus, Church, Through, Secret, True, Would, Creation, Have, Body, Simon Magus
+
+---
+### Line 16145-16153 (Match: 'Magus')
+**Folder**: folder 22
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+folder 22 - 091
+8 or it could go back to asklepios - + julian the apostate. (This novel is set, after all, in an alternate world.) What about this? Simon's is church is the legal, approved one, + Xtianite still] as it was originally: religin illicity. N what is missing from the tractate is the info that the true Xtian church is still a hidden + underground (secret) church. In "Valis Jesus could be as obscure an historical figure as Simon is to us. Mentioned once in the Simonite texts, (as Simon is in Acts). An heretical precursor to the "real messiah": Simon. in "Valis" this is presented as an alternate world which branched off almost 2000 years ago but actually it ("Valis" + Simonism) is our (true) world! Here's an odd touch: Beethoven was a political figure, not a musician, who surfaced as a member of true, illegal Xtianity; + it is recognized that he was black, I fell a lot of anxiety writing this down, because I am really saying this is true - the establishment churches are [covertly] the church of simon Magus, + Xtianity is totally secret - in our world: âž€ Maybe it's not illegal, just hidden, + the N.T. is non-existent, now; the letters + gospels either never got writter or were destroyed or lost - with maybe the exception of the 4th Gospel; + Paull remained soul + didn't experience his conversion + continued to persecute the Xtians - with apparen success. + joined Simon, became a simonite Simonians 2
+
+Last edit almost 3 years ago by svayambhu108
+folder 22 - 092
+Needs Review
+```
+**Co-occurrences**: Valis, Acts, Christian, Jesus, Christianity, Maybe, World, Because, After, Black, Folder, Gospel, Could, Just, Once, Simon, Either, Beethoven, Still, Church, Soul, Real, Actually, Secret, True, Messiah, Were, Back, Info, Simon Magus
+
+---
+### Line 16747-16755 (Match: 'Magus')
+**Folder**: folder 20
+
+```text
+Indexed
+folder 20 - 050
+49
+
+that we are occluded; this is the horrible irony put forth in "Scanner" - a major point; perhaps the major point, we can't monitor what we can't see (perceive). Thus Rome CAD 45 looks like USA 1974 by 1) spurious additions + 2) crucial editing outs. The whole contour of reality is deformed by this lethal 2-pronged manipulation; we improperly gestalt. But in 3-74 i properly gestalted, due to the 2-74 anamnesis. So the manipulation is inside us. The Worldwide Church of God believes Simon Magus (the "Sorcerer") has us. Could they (i.e. Armstrong) be right? The whole ediface of establishment Xtianity: has Armstrong pinpointed who the magician (that I refer to) is? Creator of spurious world? Oddly enough, Simon Magus lived at the time of Acts. I have an eerie feeling that my 2-3/74 experience was due to Simon Magus, who founded Gnosticism (elite Gnosis); he lived at the time of Acts, + appeared to pagans as the Holy Spirit. The Gnostics regarded him as God, or "the great power of God." + Simon underwrote my writing, esp. "Ubik" + "Tears" which is why my writing has a Gnostic tinge. + "Thomas" is Simon. He knew Philip. He was converted by Philip. Because Simon was in me during
+
+Last edit over 5 years ago by Toso
+
+folder 20 - 046
+```
+**Co-occurrences**: Tears, Acts, Ubik, Toso, Thomas, Indexed, Spirit, Holy, Rome, Christianity, Holy Spirit, Gnostic, Gnosticism, Perhaps, Scanner, Like, World, Gnosis, Because, Time, Folder, Gestalt, Could, Simon, Reality, Philip, Great, Anamnesis, Indexed
+Folder, Creator, Church, Have, During, Right, Simon Magus
+
+---
+### Line 16786-16794 (Match: 'Magus')
+**Folder**: folder 20
+
+```text
+Indexed
+folder 20 - 050
+49
+
+that we are occluded; this is the horrible irony put forth in "Scanner" - a major point; perhaps the major point, we can't monitor what we can't see (perceive). Thus Rome CAD 45 looks like USA 1974 by 1) spurious additions + 2) crucial editing outs. The whole contour of reality is deformed by this lethal 2-pronged manipulation; we improperly gestalt. But in 3-74 i properly gestalted, due to the 2-74 anamnesis. So the manipulation is inside us. The Worldwide Church of God believes Simon Magus (the "Sorcerer") has us. Could they (i.e. Armstrong) be right? The whole ediface of establishment Xtianity: has Armstrong pinpointed who the magician (that I refer to) is? Creator of spurious world? Oddly enough, Simon Magus lived at the time of Acts. I have an eerie feeling that my 2-3/74 experience was due to Simon Magus, who founded Gnosticism (elite Gnosis); he lived at the time of Acts, + appeared to pagans as the Holy Spirit. The Gnostics regarded him as God, or "the great power of God." + Simon underwrote my writing, esp. "Ubik" + "Tears" which is why my writing has a Gnostic tinge. + "Thomas" is Simon. He knew Philip. He was converted by Philip. Because Simon was in me during
+
+Last edit over 5 years ago by Toso
+
+folder 21 - 001
+```
+**Co-occurrences**: Tears, Acts, Ubik, Toso, Thomas, Indexed, Spirit, Holy, Rome, Christianity, Holy Spirit, Gnostic, Gnosticism, Perhaps, Scanner, Like, World, Gnosis, Because, Time, Folder, Gestalt, Could, Simon, Reality, Philip, Great, Anamnesis, Indexed
+Folder, Creator, Church, Have, During, Right, Simon Magus
+
+---
+### Line 16793-16801 (Match: 'Magus')
+**Folder**: folder 21
+
+```text
+folder 21 - 001
+Kerygma understood as of October 18, 1978:
+
+In STIGMATA, UBIK and MAZE they are in an irreal world (Lem's paradigm). It is stipulated in STIGMATA that no time passes, and this is implicit in MAZE (and could be true in UBIK). In TEARS the actual world is shown, the world of Acts, Rome C. A.D. 45. In SCANNER the cause of our being unable to reality-test is shown to be a percept-system toxicity or damage, anyhow an inner occlusion deliberately induced by a drug or drug-like substance (which collates with the master magician in STIGMATA administering a drug to people which puts them forever in his irreal world where no time passes -- a world they can't tell isn't real). (In MAZE two additional points are made: (1) false memories; and (2) negative hallucinations on a mass basis; rather than experiencing what is real, something which is actually there is not experienced.) Thus in those five novels virtually the complete story is shown, especially if one can determine from internal evidence that the world of actuality presented in TEARS is the time and place of Acts. The nature of the entity which seeks to rescue us is given in UBIK, and is called --by itself-- "the Word," i.e. Christ or the Logos. It is breaking through "from the other side," one way, uncannily manifesting itself in ways not syntonic to the false world they imagine they're living in. This very experience precisely happened to me in 2-3/74, indicating that all five novels are literally true (I experienced the world of TEARS or more accurately the world of Acts). I assumed that the purpose of my writing is to acquaint us with our situation, that my novels and stories function like the inbreaking messages in UBIK (such as the grafitti on the bathroom walls), but now I am given to understand that actually my writing is report on the situation here outgoing -- meant to leave our irreal world, to break out, not in, and acquaint the actual world (macrobrain) of our plight. They are then appeals for help, by a salvific entity which has invaded this our irreal world, an entity we can't percieve. It is the Paraclete, which has just now arrived for the first time, immediately following Christ's death and resurrection (it must be kept in mind that the real time is 45 A.D. and the real place is the Roman Empire). My writing is information traffic fed into the macrobrain, which continually processes such information. This information traffic between stations of the macrobrain is itself what we call "the Logos." Despite the testimony of our (occluded) senses, the Parousia is close at hand, and will occur as promised during the lifetime of some of those of the first century A.D. We will experience this when the Paraclete abolishes the irreal world imposed on us, strips the master magician of his power over us, and reveals to us the true state of things, most especially the macrobrain (or God), which is a macroform of us the plural microforms. There is some evidence that the master magician who has us lost in his irreal world where no actual time elapses (called Palmer Eldritch in STIGMATA is Simon Magus, who lived at the time of Acts which is to say now. Thus Simon is still alive, and the authentic original early Christian disciples are still alive.
+
+Last edit over 5 years ago by Toso
+folder 21 - 002
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Ubik, Toso, Indexed, Logos, Complete, Rome, Empire, Parousia, Roman, Maze, Scanner, Like, World, Time, Folder, Paraclete, Stigmata, Mind, Could, Anyhow, Just, Something, Simon, Kerygma, Reality, Being, Eldritch, Toso
+Folder, Palmer, Palmer Eldritch, Those, Still, More, Through, Most, Living, Real, Such, Actually, True, Death, Will, Other, Very, Things, Information, During, Simon Magus
+
+---
+### Line 17172-17180 (Match: 'Magus')
+**Folder**: folder 21
+
+```text
+It is the most important story of all. __
+
+"One by one he draws us out of this world." This world is a prison, is counterfeit + doomed; the bungling mad genius James-James creates + then senselessly destroys. Our salvation depends on being drawn out of this world. __
+
+EB: "The primary goal of Gnosticism was to free man of astral determinism." "Simon [Magnus] as the supreme deity descended from the Pleroma as savior to save man, his first thought" (I'm quoting from memory.) "Simon appeared (to others, to the pagans) as the Holy Spirit." If I am a Gnostic -+ my published writing is basically Gnostic- I should believe in Simon Magus who founded Gnosticism. "The Simonians held that Simon, the supreme deity himself, came down through the spheres + rescued his 'first thought,' apparently related to human spirits generally. He had earlier been present among men as Son, indeed as Jesus" etc. "The primary function of Gnostic revelation was to free men from astral determinism [i.e. Fate]". Well, this is what was done for me in 3-74 vis-a-vis the Xerox missive, + possibly in regard to other, broader matters (e.g. death itself, arrest, etc.). I was aware of it as + when it happened. + then I passed into a sort of post-partem existence: reunited with God. + remembered the world of Acts + saw Zebra. If I remembered Acts I was remembering Simon. Vide "Tears." There was in me another active human Xtian from the time of Acts who took charge.
+
+Last edit over 5 years ago by Toso
+
+folder 21 - 041
+```
+**Co-occurrences**: Tears, Acts, Christian, Toso, Spirit, Holy, Zebra, Jesus, Xerox, Holy Spirit, Gnostic, Well, Gnosticism, James, World, Prison, Time, Folder, Savior, Simon, Being, Missive, Xerox Missive, Himself, Fate, Another, Through, Most, Revelation, Death, Deity, Other, Apparently, Memory, Human, Salvation, Free, Pleroma, Simon Magus
+
+---
+### Line 17179-17187 (Match: 'Magus')
+**Folder**: folder 21
+
+```text
+folder 21 - 041
+39
+
+I have always been puzzled by the fact that (1) it was beyond doubt an actual Xtian human being from the time of Acts, + (2) it was the Holy Spirit. But if Simon descended as savior, appears to us as the Holy Spirit, I could solve the dilemma by considering this human / Holy Spirit / savior as Simon, who had previously been Jesus the Son, + who revealed to me the Gnosis + broke the power of astral determinism over me. + had been in me all along, underwriting my writing (esp. "Ubik" "Maze" "Stigmata" + "Tears"). (+ "Scanner".) "Tears" does everything but explicitly refer to Simon. + I experienced God as the void which the Gnostics conceive him to be. + Zebra is the savior (messenger - v. "Ubik"). Even possibly Sophia + her messages. I had already come to the important realization that Zebra is an invader in this irreal world + operates counter to the creator (demiurge). A) The cosmology (Kerygma) of my writing is beyond dispute Gnostic B) If the Holy Spirit has underwritten it, the Holy Spirit is Gnostic in its view. C) Therefore Gnosticism is the true, revealed knowledge. D) Simon Magus founded Gnosticism. E) Therefore Simon was correct. F) His followers regarded him either as the supreme deity or as the Holy Spirit G) Probably they were right, + it is he who has underwritten my writing +, in
+
+Last edit over 5 years ago by Toso
+folder 21 - 042
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Christian, Ubik, Toso, Indexed, Spirit, Holy, Zebra, Jesus, Holy Spirit, Sophia, Gnostic, Gnosticism, Maze, Scanner, World, Gnosis, Therefore, Time, Folder, Stigmata, Savior, Even, Could, Does, Simon, Kerygma, Being, Everything, Toso
+Folder, Either, Probably, Creator, True, Messenger, Deity, Were, Beyond, Have, Knowledge, Human, Right, Simon Magus
+
+---
+### Line 17195-17203 (Match: 'Magus')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 043
+41
+
+I have been told by the AI voice (Sophia) not to tell anyone that I am actually an authentic 1st century [Gnostic] Xtian. But it is possible that "Tears" told the secret Xtian true church (which is Gnostic, as well as underground) + so the Golden Fish sign was deliberately sent to me (like the letter in the "Story of the Pearl") to cause anamnesis. Or else Zebra arranged it, Zebra is the savior who "outwitted the archons" + secretly made its way down into our world camouflaged to save us. I now make a bold statement, having seen Zebra at work (it is not the Holy Spirit, who is just inside us). Zebra is the supreme deity + savior-messenger Ubik/Runciter. It is Simon Magus in his true form: the great plasmate, whose existence, activity in history + presence is totally unsuspected + unknown to us -unless he is in us- only Zebra can see Zebra. He entered me at my birth or in my childhood. I am a homoplasmate: Zebra acting in syzygy with a human. My writing is the purpose of this syzygy. I restore Gnostic Gnosis to the world in a trashy form, like in "Ubik." Indirect proof: A) Gnosticism is false B) My writings are Gnostic C) Therefore my writings are false Then how did they (esp "Ubik" + "Tears") come into existence? + who took me over in 3-74, he who lives in the Acts world? There is no doubt that he who took me over underwrote "Ubik," "Stigmata" + esp "Tears." He has an extraordinary mind, with nearly infinite knowledge - he is no ordinary man. But he is or was a man - I felt his fear of discovery by the Romans. He remembered
+
+Last edit over 5 years ago by Toso
+folder 21 - 044
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Christian, Ubik, Toso, Indexed, Spirit, Holy, Zebra, Holy Spirit, Form, Sophia, Gnostic, Fish, Well, Gnosticism, Golden, Roman, Like, World, Gnosis, Therefore, Golden Fish, Only, Folder, Stigmata, Savior, Mind, Just, Simon, Runciter, Toso
+Folder, Great, Anamnesis, Indexed
+Folder, Church, Voice, Actually, Secret, True, Messenger, Deity, Have, Having, Unless, Knowledge, Human, Simon Magus
+
+---
+### Line 17203-17211 (Match: 'Magus')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 044
+42
+
+Christ having just been alive, but hadn't personally known or met him. He spoke + thought in the koine. There was/is a strong Zoroastrian tinge to his thinking (which fits Simon) as well as middle-Platonistic. + Egyptian + Indian. (+ what about the 3-eyed people?) [Note] I suppose it is possible that Zebra is Sophia (Wisdom -the Logos?-) overruling Yaltabeoth, the mad genius James-James creator who creates + then irrationally destroys. But I know who I am; am Simon Magus who perhaps is born again + again - immortal, + of course who can see + recognize Sophia; we are both of the Pleroma + not of this irreal world. No wonder I wrote about irreal worlds, + have starting in the fifties - for 27 years. Just consider how much Gnosticism is in "Stigmata", "Ubik," "Maze" "Tears" + "Scanner": evil creator or illusory worlds, salvific messages from outside, mass hallucinations, prison world, occlusion (ignorance). + consider how the savior (Mercer) is presented in "Sheep", the trash-stratum penetration of a hostile world.
+
+[Note] This implies contact with ETIs. ___ I just remembered my Siddhartha dream: the Book in two parts, with pt one ending with "+ during all this, (underneath it all) Siddhartha slept" - the obvious implication being that now, in part two, he will awaken. A fifth savior is now being born! There
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Tears, Ubik, Toso, Indexed, Zebra, Logos, Sophia, Well, Gnosticism, Maze, Wisdom, Perhaps, James, Scanner, World, Prison, Folder, Stigmata, Savior, Book, Just, Simon, Again, Suppose, Both, Being, Siddhartha, Zoroastrian, Indexed
+Folder, Creator, Part, Indian, Consider, Will, Egyptian, Have, Evil, Having, During, Dream, Pleroma, Simon Magus
+
+---
+### Line 17228-17236 (Match: 'Magus')
+**Folder**: folder 21
+
+```text
+Complete
+folder 21 - 047
+45
+
+are postmortem experiences - the vast space, the reunion with my guide Tony Boucher who is waiting there for me. A doorway to the upper, celestial realm (the Pleroma) opened for me. So I spanned a period from my original dwelling in the Pleroma, to coming here (Mycenean Crete + Egypt), 1st century C.E. Rome to my death, after my death + return to God the abyss: the complete descent, forgetting, dwelling here in the Black Iron Prison, recollection (death + resurrection) + ascent to the Pleroma once more. (Since I was outside of time). (This is how it was done: the divine spark is not bound by space + time.) + I saw the messenger / savior ("Zebra") extricating me, [Note] heard Sophia's "AI" voice, + knew my true identity as Simon Magus, [see p.46] ("Thomas"). Also I saw the Kerygma in the corpus of my writing + understood how it came to be there - + recognized it as a "trashy" form of the saving gnosis.
+
+[Note] This absolutely identifies Zebra as the messenger / savior: that it visibly (to me) broke the bonds of "astral" determinism, power of the archons (fate) which had hold of me (the causal-sequence "melt away" which I saw Zebra doing: it is the messenger / savior who does that + no one else.)
+
+Last edit about 8 years ago by Toso
+```
+**Co-occurrences**: Toso, Thomas, Zebra, Complete, Rome, Form, Sophia, Since, Gnosis, Iron, Prison, Time, After, Black, Folder, Savior, Does, Once, Simon, Kerygma, Realm, Tony, Divine, Black Iron Prison, Corpus, Fate, More, Egypt, Voice, True, Messenger, Death, Upper, Iron Prison, Pleroma, Crete, Simon Magus
+
+---
+### Line 17238-17246 (Match: 'Magus')
+**Folder**: folder 21
+
+```text
+Complete
+folder 21 - 048
+46
+
+My God - Zebra (who I have just now established to be the messenger / savior) is Simon Magus - he (Zebra) entered my mind. I'm not Simon; he (Zebra) is. The 1st century C.E. memories were of "Thomas;" i.e. Zebra's - Zebra "transubstantiated" me; + it was Simon. I would know; those memories entered my head + temporarily I was melded to him, + it was Simon. He had been using me as a vehicle for years to promulgate the Gnostic worldview. + then when the trap closed around me in 3-74 he rescued me. This is much more to my liking - that Zebra is Simon + enthused me, not that I (PKD) am Simon. We were bonded into a homoplasmate, I + Simon. Then the AI voice is Simon's, which I've heard since Physics class in high school. But behind Simon lies Christ (who said to me, "I had called you, Philip"; a different voice from Simon's). The true secret Xtian church is + was continued by Simon as Holy Siprit (+ more). I am sure I've at last identified Zebra, + a hard task it was, too. I made many wrong guesses. But I have the direct experience of the contents of his mind to go on, inc perception through my eyes of his world (Acts). I saw his world + had his knowledge + memories. Wow! What a mind. Both human + divine! Yes, + I was right: a superior technology was involved, all right - that of Simon's. For magician read scientist (the basis for Faust).
+
+Last edit about 8 years ago by Toso
+folder 21 - 049
+Complete
+```
+**Co-occurrences**: Christ, Acts, Christian, Toso, Thomas, Holy, Zebra, Complete, Gnostic, World, Since, Folder, Savior, Mind, Just, Simon, Both, Divine, Toso
+Folder, Philip, Those, More, Church, Through, Voice, Secret, True, Messenger, Would, Were, Many, Have, Knowledge, Human, Right, Simon Magus
+
+---
+### Line 17308-17316 (Match: 'Magus')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 057
+55
+
+There is no doubt of it: I remembered a former life + my celestial existence, + so broke the hold of Karma (or astral determinism) over me. (V. Mircea Eliade: "Myth + Reality".) Shamans can do this. It was done for me, not by me - done for me by the divine messenger / savior from the celestial realm (the Pleroma, where I came from originally); this is he who I saw as Zebra inside + outside me breaking the Karmic (causal) hold over me. He actually melted causal trains, + brought to life in me my real self, that of Simon Magus ("Thomas"). Eliade explains how Karma is "burned up" by anamnesis (although I can't for the life of me se how come - although I can see - as Plato pointed out - that anamnesis would most importantly bring recollection of celestial existence: now, this brings us to Gnosticism; viz: that this world is not our true home , but a prison into which we have fallen, inc. forgetfulness, intoxication, sleep, ignorance etc. The Gnostic position -to me- makes sense out of all this. To remember that we lived elsewhere in a higher state -that this state is a strictured + deformed state- that, to me, would explain why anamnesis "burns up Karma" because remembering is to be made free: it does not cause freedom -i.e. result in freedom- but in itself is freedom. E.g. when I began to remember, the Karmic hold broke at once: it was not in sequence but two aspects of one thing. That is partly because the Karmic bonds are illusory because this world is illusory - that may be it.
+
+Last edit about 8 years ago by Toso
+folder 21 - 058
+Indexed
+```
+**Co-occurrences**: Toso, Thomas, Indexed, Zebra, Plato, Gnostic, Gnosticism, World, Because, Prison, Folder, Savior, Karma, Does, Once, Simon, Realm, Reality, Although, Self, Divine, Toso
+Folder, Anamnesis, Indexed
+Folder, Eliade, Most, Real, Actually, True, Messenger, Would, Have, Life, Freedom, Remember, Karmic, Free, Pleroma, Simon Magus
+
+---
+### Line 19827-19835 (Match: 'Magus')
+**Folder**: folder 08
+
+```text
+Indexed
+folder 08 - 018
+18
+
+I am certain that Valis is Christ the King, the mystical body of the resurrected + ubiquitous Christ Pantocrator. ___ Is God reweaving Acts so that the second Advent occurred at the time of Acts? + to do this he takes us or some of us back to Acts - or thrusts Acts here? Remember: on the Platonic form axis we are [evidently] tangent -i.e. very close; next to- Acts. Or were in 3-74. ___ "He causes things to look different so it's appear time has passed." Simon Magus? Acts has references to Simon. The "roses + lake" dream speaks of "one or two wizards born." Simon Magus means "Simon the Wizard." Did the true God get past Simon + speak the truth -reveal the true situation- in "Tears"? Valis is the true God, + Christ the King returned at the time + place of Acts (which is now) but Simon occludes us, like Klingsor does. Only the true, secret, apostolic Xtians know the truth, + I am one of them, but Simon causes even [some of] us to forget + to see the simulated world. Simon is Palmer Eldritch, generating counterfeit worlds; I saw Simon in the sky in '63 (or '64, whichever: the evil god of this world, a spurious reality. Fed to us by him). Then Christ did return or will return, + the Logos made its way to me + told me. Simon is the irrational god of this irrational -+spurious- world, which Valis, camouflaged + rational + divine, has invisibly invaded. Simon stopped real time c. 45 AD. Now he effects us percipients so that we see things continually looking different + so wrongly deduce that time passes.
+
+Last edit over 5 years ago by Toso
+folder 08 - 019
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Tears, Acts, Christian, Toso, Indexed, Logos, Form, King, Advent, Like, World, Only, Time, Folder, Even, Does, Look, Simon, Reality, Eldritch, Platonic, Divine, Toso
+Folder, Palmer, Palmer Eldritch, Indexed
+Folder, Pantocrator, Real, Secret, True, Will, Were, Very, Back, Things, Body, Evil, Remember, Truth, Dream, Evidently, Simon Magus
+
+---
+### Line 34421-34429 (Match: 'Magus')
+**Folder**: folder 01
+
+```text
+{folder 01 - 056}
+
+10-20-80 8
+
+I have continually asked, "Where is this reticulated arborizing meta-soma?" well, it's the real world. And where are we? In a subrealm of some kind; UBIK is the paradigm. Or MAZE. Or EYE. All of my ten meta-novels. And Varley's story. Consider the time dilation in that! Well, it's also in EYE, so I thought of it first. still ... Then the eidos (Form) the Black Iron Prison -- why, TEARS simply states the case; the BIP appears to be an eternal form because in relation to us real time has stopped at that point. At the point where, in Acts, the Christians attack Rome. But I am right that Acts AD 45 and USA 1974 are two accident matrices based on a common essence; but that common essence is the real world, which in itself is not frozen in time; it's just frozen in relation to us, as if we'd all taken a huge huge hit of super LSD. So the sight of the Christian fish sign awoke me out of my sleep. I remembered being Thomas. And I was afraid of the Romans; I had to conceal the fact that I'm a Christian. I, as Thomas, was at that time still living in Rome under the eyes of the Romans who were the enemy. And who had all the power. But gradually my identity as Phil Dick returned; USA 1975 returned; I forgot; I again slept. "He causes ... " Simon Magus? Belial? Satan? Ahriman? Then the Parousia has probably come. No; as Thomas I knew that Jesus had just died and was about to return. But now the AI voice says: "The time you've waited for has come. The work is complete. The final world is here. He has been transplanted and is alive." So now the Parousia has come! This is the announcement of the parousia! But we see nothing; we sleep. Of course I kept saying, "I am no longer blind!" This was literally so! We literally are blind to the real world; we see it not. When I said, "I was blind" I meant just that. The phosphene firing. My sight was returning. My eyesight. We're under a spell. This is no information virus; this is blindness. Exactly as in EYE; private worlds. Idios kosmos. Shit! Shit! Shit! It's the work of a magician. The "Form world" is simply the real world. The AI voice speaks the truth ... from far off. Like a distant radio transmitter. Contact with the real world, as in UBIK!!! And Valis equals Ubik, as I've long realized. And Ubik equals Christ; this is clear from the final chapter intro.
+
+{folder 01 - 057}
+
+10-20-80 9
+```
+**Co-occurrences**: Christ, Valis, Tears, Acts, Christian, Ubik, Thomas, Jesus, Complete, Rome, Form, Fish, Satan, Well, Parousia, Roman, Maze, Like, World, Because, Iron, Prison, Time, Black, Folder, Just, Simon, Again, Kosmos, Being, Black Iron Prison, Probably, Nothing, Still, Phil, Living, Real, Voice, Dick, Consider, Belial, Were, Frozen, Under, Have, Information, Truth, Iron Prison, Phil Dick, Form World, Final, Right, Simon Magus
+
+---
+### Line 40223-40231 (Match: 'Magus')
+**Folder**: folder 90
+
+```text
+Lincoln - "We print the truth" - Torah - civil war - McComas - plasmate - Irish (i.e. Celtic mythology) - the Grail - the maze - medieval world - The phylogons attract accretions in terms of meaning: viz: Tony - Xtianity (through Catholicism + MM 337 + "St. Matthew Passion" [Husch]. 78's KPFA. This is how reality is actually organized. The MMSK. Tony - miracle - "Canticle for L" - "Deus Irae" - St. Sophia - St. Albans. Covert Xtian signs - Xtianity illegal. "Roses" (Roger) - "Flowers" (Daniel Keynes). Living information - "Ubik" - {illustration: a spiral with an explanatory text "accretions around the phylogon"}
+
+These are relationships of logical necessity, not contingency in space + time, but of/by meaning - which is how the MMSK is arranged; I know: I saw it in God's mind. One must drop space, time + causation in favor of density/intensity of meaning; for me the key is MM 337 + Holy Week which signifies the Holy Mother Church + the Parousia. Everything else is "warped" to the Parousia. Hence "Valis."
+
+{illustration: a network of interconnected text boxes, with the starting point "Tony". The boxes are marked: "Fantasy" - "Grail" - "Celtic Magic" - "Wagner" - "the Runes" - "civil war" - "Lincoln" - "Jesus" - "unknown"; "My writing career"; "Ubik"; "Art music"; "Pinky"; "Medieval German"; "Catholicism"; "Death"; "cancer"; "music"; "Parsifal"; "Easter"; "78s"; "Berkeley" - "Gaylene" - "Valis" - "plasmate"- "We print the truth" / "F+SF" - "snuff" - "Avram" - "Judaism" - "Torah" - "Simon Magus" - "Erasmus" - "armillary" - "linking" }
+
+This is my phylogon [or meaning] around which all else constellates as accretions (the MMSK).
+
+Last edit over 6 years ago by Toso
+```
+**Co-occurrences**: Valis, Christian, Ubik, Toso, Holy, Jesus, Christianity, Sophia, Torah, Parousia, Maze, These, World, Time, Mind, Judaism, Pinky, Simon, Reality, Tony, Everything, Daniel, Deus, Church, Through, Living, Actually, Mother, Easter, Irae, Death, Parsifal, Illustration, Erasmus, Berkeley, German, Information, Deus Irae, Truth, Magic, Simon Magus, Grail
+
+---

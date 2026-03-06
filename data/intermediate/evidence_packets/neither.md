@@ -1,0 +1,345 @@
+# Evidence Packet: Neither
+
+- **Category**: Top Term
+- **Total Mentions**: 29
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 414-422 (Match: 'Neither')
+**Folder**: book A
+
+```text
+26
+coffins, severally, and individually, as shown in the novel.
+
+(eight) Those in half-life are not dead, nor is the root slumbering under the snow (the symbol of both Christ and Dionysos: it looks dead but is only asleep, waiting to be awakened by the voice of spring). We are those slumbering roots. We are dormant. It is difficult intellectually to understand this, that we are neither fully alive nor fully dead (Aristotle taught us that we have to be A or not-A), but in fact these thousands of years for our species, and for our animal friends as well -- these are nothing but a long winter in which half of us (expressed neurologically, perhaps, by the fact that we use only one of our brains, or the left hemisphere) is alive and the other half has not yet come to life. Many of the parables of Christ, familiar to those who knew the cryptic sayings of the mystery religions in general, refer to this (the grain of wheat which must be planted; we are now sorrowing in childbirth, the treasure buried in the pasture, etc.).
+
+That the Final Days should be in fact a springing up into full life, complete life, going from seed (vide the parables and especially the Pauline Texts, plus the Orphics' doctrines and Neo-platonism, etc.) -- going from dormant seed slumbering under the snow of Winter and then hearing/feeling/sensing/knowing the voice of moisture and warmth and Spring, the voice of God saying, "The time has come! Wake up!" These are authentic commands coming to us in dreams, and are no less real and no more real than what the ordinary seed experiences in its own fashion; we are all one in that regard...except that our orthogonal Winter has lasted for one hell of a long lineal period; it seemed as if it would never end. But Winter always feels that way; each seed, each slumbering root and bulb, must in its half-life state, buried in ice and waiting, experience all of this: we share a common reality.
+
+From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
+```
+**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+
+---
+### Line 957-965 (Match: 'Neither')
+**Folder**: part of
+
+```text
+Messages are arriving in red and green and we are monochromatic; the resulting blur makes little sense.
+
+At this point I would make this guess: that the universe is not running backward and we see it forward; if that were so, we would have recorrected our impressions of it; I think that there are two flows, and we see both as running forward, which is not true. There is perhaps the main flow, or the more powerful flow, which does run forward; but there is a subtle, mild, mirror opposite running inside out and reversed, and it seems to be a sort of intelligence capable of affecting our forward flow, in crucial ways. That is my summation: the mirror opposite universe is a weak, living, intelligent mind which alters the configuration of reality in its backward-moving time flow so as to benefit our total flow, which is to say, the forward one we normally see.
+
+. . [x] A final note: Loren Cavit heard late one night on a DJ talk show and disc program what I heard that I could not believe: a switch from music and chatter to programming, of us. This is true onset of my experience, the true shock: to wake up and hear my radio programming me in a vile way at night. Loren several years ago heard her radio doing that. I think we really heard it. Who it was, or why -- neither of us knows, but there was an obscure tyranny which fell, and this was part of it; it was invading our minds using modern sophisticated electronic subliminal thought control manipulative techniques. Probably it was a satellite over-ride, beamed directly to our sets, our receivers, with the voice of the DJ simulated; probably it was by the Soviets. That a girl so sane and responsible would have heart it, confirms what I have thought all this time. We got help, from outside, to throw all this into ruin.
+
+As in Ray Nelson's story "Eight O'clock in the Morning" we woke up -- "Sleepers Awake!" (And found the springtime had come.)
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Perhaps, Time, Harpax, Mind, Could, Does, Soviet, Both, Reality, Girl, Probably, Part, More, Living, Voice, True, Universe, Would, Were, Have, Final
+
+---
+### Line 1087-1095 (Match: 'Neither')
+**Folder**: part survives
+
+```text
+Last edit over 5 years ago by Harpax
+75
+Needs Review
+75
+I never after that "found" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was actually there and actually experienced during full wakefulness, as present. Yet, it was still now. But now He has returned. I was now and yet superimposed Rome of 2000 years ago: 1974 Fullerton and Rome c 45. I gather that what I experienced were the two advents unified, with time abolished. It made Rome Fullerton and Fullerton Rome; it made 45 AD 1974 AD and 1974 AD 45 AD. This certainly would explain why I knew that neither reincarnation or time-travel per se were involved. It was a time dysfunction but of a crucial sort, that prophecyed in the Bible: the Parousia, an expression (experience) of it, a demonstation of the nature of the Parousia in which it abolishes or ends time, or perhaps, when God enters time from outside time, which is to say, from Eternity; surely that's a time dysfunction, although you might not be able to fathom why it happened. But I guess this is what you experience when God abolishes time; when the Parousia arrives.
+
+In connection with this, I wasn't just back in Rome; I was aware of two portions (not aspects, but divisions): the Roman army/police -- and the hurrying semi-invisible Christian underground, the fish Christian who were illegal and whom the Romans (part one) were after, to destroy. Gosh, if I were merely transported back to Rome via a time dysfunction I might gaze at great buildings and watch crowds, having no awareness of the fish Christians or the Roman ir leg. So this was not only Rome, or Rome as such; it was Rome viewed as the Apostles must have viewed it; it was a very precise and special view, and I was one of those fish Christians. I am happy to say that in this apocolyptic experience, I was indubitably one of those Christians, and our Savior was anticipated momentarily (later in the year I had the "Santa Sophia" dream, bearing this out without the Roman experience, that is, the Second Advent for sure, for us).
+
+The "Dec N T" says that this time Christ won't appear in the form of one single man (as he did as Jesus before), because if he does, then they'll get him again and it'll be a failure again; therefore, as I understand it, this is what all this solar spermatika, the seeds, etc. talk has to do with; there will be many implantations, of persons already alive and walking around "at their regular tasks," and the births will be plural, and inside peoples' heads, and not out of a womb, as with Mary's. Gee, I finally understood it. There will be no one Savior born this time, but a different system. Vide St. Teresa of Avilia. "Now, Christ has no body but yours." Is before (at the First Advent) implantation will be done by the same spirit, the Holy Spirit, supra, and the same issue will occur: the Son, which explains Jesus' cryptic remarks about where the Kingdom would be (not here, not there, and Christ not here, not there). But: in you and among you. Yes indeed! Kingship, then, within given persons; the assumption of rule (this duplex personality) within various persons; this is the Second Advent, and not a mere anticipation, a la Elijah. This is the Second Coming itself, this Firebright implantations. I mean, these, not this. My God -- what happened to me (sic: to me) in 3 74 was the Second Advent, one of them, anyhow. Guess who Firebright is, viewed this way. This now resolves one mystery (mystery to me, anyhow): the relationship between Elijah and the Holy Spirit. What Malachi said would come back was the Spirit of Elijah (if you read about Elisha this is clear). Surely it wasn't the physical man. The Spirit of Elijah is the Old Testament Hebrew concept for the Christian Holy Spirit (remember, the Jews were absolute monotheists).
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+
+---
+### Line 1303-1311 (Match: 'Neither')
+**Folder**: part of
+
+```text
+91
+I think there was an inner event (transformation in me), which was unique -- I never had been able to see before, but I believe it is likely that the outer event, the more important of the two miracles, the transsubstantiation itself, frequently occurs and we don't see it. This distiction makes it possible for me to account for what I felt was something "always there" and something "never seen before." (By me.) I might guess that it's possible, even likely, that this miracle takes place frequently, but is not seen; placing the category of uniqueness on my perception, and ubiquity (sic!) on the outer miracle, perhaps distributes the frequency of what coincided as an inner event as well as an outer event; we could say, I obtained a percept system (for a time) and at the same time that it, the 3rd eye if you will, was on, something of vast significance swam into the receptor sights of that 3rd eye percept system (that day walking home from TJs especially). One might say, I happened to turn my head, or train my camera on something of the utmost im[p]ortance, and so obtained a good impression, an excellent impression, even though the time perios in which this unimpaited percept system operated was quite brief (3 days maybe). One could further reason: the fact that although the period was so brief this great miracle did happen to "swim by," so to speak, to be recorded (perceived) is another equally valid index of its ubiquity; I must infer from my brief sample, and am doing so: He probably manifests himself in this infusion miracle way countless times and places. I infer --I am certain00 that my "random sample" is representative. I saw a lot of other lesser miracles, too. I saw many things.
+
+There had to have been an inner change in me, for me to see it; after all, neither Tessa nor Linda saw it. (And it had to happen for me to see it, too, supra.) So I was changed; it isn't as if [to] say the threshold of God's presence on its own, qua the Other, increased or happened, and I remained the same (unless I was always "not blind."). I believe that the change began in me, and enabled me to see what I then saw happening outside; first, I was taken by the Holy Spirit, and shown.
+
+The factor or act or reality of "possesstion" is the factor, act, moment or event of transformation in me, after which (during which, too) I could hear language and decypher it...e.g. the bells.
+
+Gosh, what if Christ transubstantiated the whole world? Or entered into union with everyone? Or both? This will fulfill: "The Kingdom of God is within you/among you, but you can't exactly see it; it has arrived within you/among you mysteriously..." There is already made clear as Church dogma a direct connection between the Kingdom (one being able to enter it, and also perhaps its arrival) and transubstantiation, if one were to think about it (the mustard seed). (The leaven in the bread.) To each of us, "inner-outer" may seem real distinctions, but to God it's all monism.
+```
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Kingdom, Well, Perhaps, Maybe, World, Time, After, Good, Even, Could, Something, Kingdom of God, Both, Reality, Being, Although, Himself, Great, Probably, Tessa, More, Church, Another, Real, Before, Will, Other, Were, Many, Further, Have, Things, Days, Unless, During
+
+---
+### Line 1559-1567 (Match: 'Neither')
+**Folder**: book I
+
+```text
+111
+Thus in reading Roll[y] May's book I have ruled out (in my own mind) any possibility that my 3 74 experience was spurious or somehow engineered by human persons or groups; it was what it seemed to be. Rollo May traces it back to Attic Greece and he himself affirms it as a major source of human viability, unrecognized as it has been for centuries. It is the anti-Thanatos force per se. The source of all life, however named. But what I wonder, having experienced this and come to certify it by ancient and now modern authority -- why doesn't it occur more often? How strange, that God through some mediating demiurge can revivify any given human being, at his will, and yet until I read Rollo May's account of Socrates' daimon, I had found not a single other account of exactly what I had had since high school physics' class; not one other anywhere, in any reference book. How could it remain unknown? This implies God uses it sparingly; it is virtually nonexistent, or anyhow non-reported. The only thing I can think of offhand is this: 3 different sources indicate that this daimon, under another name, ceased to be present in men's lives around 100 AD: Gibbon says that the Christians lost the actual power; the International Community of Christ agreed; the witnesses say so, too, or maybe it's the Megiddo Mission people; anyhow, since this may well be the Christ-consciousness or Holy Spirit thing, then perhaps the human being at this end must do something, and has forgotten how to do it or even that it can be done (vide the Int. Community of Christ). God waits for us to do an initiating act. Or, the Holy Spirit (the power) was withdrawn, and the dry period of nearly 2000 has taken place, without contact between man and God. If this is [?] perhaps the Spirit has returned, which is what I did feel, especially I felt that Elijah had come. Either way, it has been gone for 2000 years, either because God withdrew the Holy Spirit or because for one reason or another man lost the method and the notion. And then all that came were daemons rather than daimons -- evil spirits only, not from God.
+
+Yet this still seems strange to me; if God through a demiurge can do this, why doesn't he do it a lot? Look: if I assume that what happened to me in 3 74 was due to something I did, which others don't ever do, then heaven's sake, I stumbled onto something of such vast value -- it is what the Int. Community of Christ had decyphered over 17 years, and maybe they don't know exactly how. This sort of makes me [?] a Van Voyt character: possesing the most utterly priceless wisdom/formula-for-immortality on the planet, which I find hard to believe; this is megalomania, for sure. But if God did it all, then why me, and why just me? Why not others, many others? Either way I am into what is for me an insoluable puzzle; we either have an unconvincingly incredibly human (me), or we have a God whom we cannot understand; he can help but doesn't and yet he helped me -- me of all people in the world! Either theory is absurd. Neither can explain it. But what happened did happen, and RM had to go back to 400 BC Athens to find an example of the daimon at all, let alone the sanctification and new birth which 3 74 ushered in for me.
+
+There is one more possibility...perhaps for instance the records of the 17th century Reformers contain accounts, but these are dismissed, even suppressed, by a totally secular age, now. As Ursula dismissed my account. There transfigurations happen but are denied by the world!
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Holy Spirit, Well, However, Wisdom, These, Perhaps, Elijah, Maybe, World, Since, Because, Only, Harpax, Mind, Book, Even, Could, Anyhow, Just, Something, Look, Being, Himself, Either, Without, Still, More, Another, Through, Most, Heaven, Such, Greece, Will, Other, Mission, Somehow, Were, Attic, Back, Under, Many, Have, Life, Evil, Socrates, Having, Reformers, Human, Doesn, Until
+
+---
+### Line 1796-1804 (Match: 'Neither')
+**Folder**: part of
+
+```text
+Needs Review
+127
+I had heard about the promise of the Comforter (the Paracletos) and believed it; I always expected it to save me when there was no hope for me. Thus I was able to prepare myself to receive it. It came to the door as I always believed. When I read the religious literature I see that few people have faith that the Paraclete will come to rescue them, let alone that is exists. The Mission people are making a dreadful mistake, not believing in things unseen. How can they believe that God has abandoned man when He promised not to?
+
+I deduce that although the addicents (emperical surface of reality) show no progress, that in actuality, at the ontological level, the Holy Spirit constantly moves things forward in improvements which we cannot see, neither the Spirit nor what it achieves; therefore, below the surface lies constant progression toward perfection and completion, and this goes on right now, invisible to our eyes. The Parousia therefore are the culmination when all is prepared; God breaks through when the world has been made ready for him (which puts a new or different light on it). This is much like Parmenides saying one needs a "fiery soul" only in order to see Form one only. I did not really understand this truly until I read the wrong doctrine, by the Mission, that the Holy Spirit is not here. They go entirely on the surface, according to what seems so, to their eyes; but they should know better: going this way, God doesn't seem to exist at all. This is the essence of faith, not to see but to know anyhow.
+
+. . . The third or intellectual soul, described by Aristotle, one of three, the one which is immortal: engaged in contempation, of knowledge (philosophy) of god, of geometric forms...combined with Plato's notion that you can go to the slave boy and show him some therems of Pythagorias and he will remember; anamnesis -- what he will remember is these forms of contemplation; his third or intellectual soul will come on, with memory. To start this, something must remind him (such as a golden fish necklace and certain words spoken?). Is it possible that the Light Being by entering the third eye stimulates this third soul into coming to life, and thereby conveys immortality? Thus there is something inside (this third intellectual soul) and something outside (the Light Being or Holy Spirit), but it is inaugered from without. The fascinating thing about this view of what happened with me in 3 74 is it combined the Platonistic concept of anamnesis (the inner part) with Christianity, or anyhow the Holy Spirit (the external inciting living entity); certainly my experience involves intellectual matters more along Greek (Platonistic) lines than traditional Christian. The existence of the Spirit (an adventitious entity highly sentient) is indicated by the colloquy, such as that about St. Sophia. But also in 3 74 I served some great useful purpose for which I had been designed, did it and then passed on, really, to a postlude, my work achieved -- a success, without knowing precisely what it was I did; yet everything before that led up to it, and everything after is a falling away. The right moment, the exact spot and time: an endeavor not for me. And now what? A gradual crumbling away, but with a memory of having been successful, for that one thing to which all was aimed. At that instant it was all on the line; for me, my own immortal portion, my soul. Like a mechanism designed to do one job, perhaps one time -- and did it.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christian, Spirit, Holy, Christianity, Holy Spirit, Form, Sophia, Plato, Fish, Greek, Parousia, Golden, These, Perhaps, Like, World, Parmenides, Therefore, Golden Fish, Only, Time, Harpax, After, Paraclete, Faith, Light, Anyhow, Something, Reality, Being, Although, Everything, Aristotle, Great, Anamnesis, Without, Part, Their, More, Through, Soul, Living, Such, Certainly, Before, Will, Mission, Have, Things, Life, Memory, Form One, Having, Remember, Knowledge, Comforter, Doesn, Right, Until
+
+---
+### Line 2187-2195 (Match: 'Neither')
+**Folder**: part of
+
+```text
+An experience like my 3/20/74 experience might then be seen as a temporary but real recontact and experience with, a sudden regained knowledge of this actual self-entity and of its world, rather than this one: self and world both, and both real(er). I can't think why this isn't realized, that any given person is an object of knowledge, an event or fact in this world same as a tree or billboard, and if there is an archetypal real world of forms, he has his corresponding real self-form there, the archetype of himself, his essence. The model had regarded us as actual audience-members in a picture theater watching a celluloid show and taking it as real; but how did all of us real people get here? And if we all are real, then for any given one of us, the entire species with all its members dead and alive both are not parts of the celluloid film adventure but of the superactual (i.e. beyond the cave: outside). And our primary environment is, after all, the others of our species -- other persons. By Plato's model it is only the scenery, not the characters (actors) who are fake. How important is scenery?
+
+We're not in the hologram; we ourselves are hologramatic.
+
+. . . We seem to be confined within a metal prison, but something vital has secretly penetrated the enclosing ring around us and fires assistance and advice to us in the form of video and audio signals. Neither the prison ring is visible to us nor the signal system which emerge as if from cores drilled through the metal; they're in color. Thus, our prison was breached a long time ago. Help is here, but we still remain here within the prison; we aren't yet free. I take it that the camouflaged invisibility of the signals is to keep the creator of the prison from knowing that help is here for us. The drilled out "tubes" through the prison wall to us can't be discerned; they blend perfectly, as if alive (the signals too seem alive). It is like the penetrating roots of a plant (!!!) which over the centuries have grown through rock or concrete. These root tips come through and into here, the enclosed open space where we're kept, and then they burst into colored changing light patterns which register on us subliminally.
+
+The core tubes are at right angles to the prison walls. They are possibl[y] very long -- light years long. The first great well-kept secret is that we are slaves, in prison. The second, that help has quietly breached through the walls to inform us. To teach us how to lift the siege -- what to do and when. Really, all it can do is inform teach and educate us; it has no power. The prison builders have all the power. In the James-James dream, the scouts coming in through all the many doors: penetrating the wall, so to speak, of the building which we were all in, thousands of us. And I told them we needed medical assistance. Perhaps their help is passing or will pass from information only to their actual presence here (as referred to by the St. Sophia news). In the dream they were decidedly motorized (modern technology?). They came at a point when I felt desperate over our medical situation. Maybe that actual time has now arrived (in my life, anyhow).
+
+. . . In the dream, James-James is amazingly like a magician, who is dazzling us with his act. What kind of Creator is this? Certainly the
+```
+**Co-occurrences**: Form, Sophia, Plato, Well, These, Perhaps, Maybe, James, Like, World, Prison, Only, Time, After, Light, Anyhow, Something, Both, Self, Himself, Great, Creator, Still, Their, Through, Real, Certainly, Secret, Will, Other, Were, Very, Beyond, Many, Have, Tree, Life, Fake, Information, Knowledge, Dead, Dream, Free, Right
+
+---
+### Line 3275-3283 (Match: 'Neither')
+**Folder**: book by
+
+```text
+Needs Review
+255
+-14-
+
+Plato himself states that knowledge comes by anamnesis, but I say that the knowledge is encised downward from above, by the forms, and isn't intrinsically there, but is adventitious in the above sense of being given & received by the person, probably in stages. I say, too, that in a sense the Sumuum Bonuum is alive, thus having the attributes of God or a god. But, as I say, as theological as the contents were, the structure falls within the philosophical cosmology of Platonism: knowledge of God by way of the forms, that is it. In my revelation last night, the first century Rome Christian world which I received was called "the matrix," of our civilization, which means the paradigm or source of its values: not back 2,000 years in linear time (this is where I went wrong perpetually) but standing above, very close to us, a molecule away, so to speak, always there, always unchanging, the form of forms, archetype of archetypes. The sine quo non of revealed truth, by its own standards, by Platonistic standards. So I must stand corrected, and say that the Parousia did only come for me, encised through the form of forms as an experience by me alone; which means, simply, that I have entered the Kingdom of God, through the agency of the Sumuum Bonuum; the mystery of subjectivity versus objectivity is solved, it is neither but rather an experience with the superior world of forms in which the Parousia, contained in them, does/has occurred. I realize, too, that in Maslow's sense, this was indeed the second half of my entelechy's systems firing, to bring completion and wholeness to my life; I was moved along the entelechy growth line to final things (for it and me); but this is not true for other people or the world; we are talking about a micro-universe, myself, in which a certain kind of personal time moved to its end-time stage, and properly so, for purposes of fulfillment & completion (almost in a Jungian sense); this involves an idea of time unknown before, and recalls the idios kosmos versus the koinos re time per se; it is all very good, very thrilling, not in accord with any theory I know of, yet it is so (that in essence I moved ahead of world or koinos time into the last stages of idios time, to the Parousia there; it was real but within my micro-universe only). (Vide "The Eletric Ant" for explorations of this kind of personal but real time.X)
+
+Last night, too, I had the eerie insight that "Mrs. Jack Vance," my tutelary spirit, is my sister Jane (i.e. Jack and Jill, the brother and sister, are me and Jane. 28 refers to when she was born, same year as me.). And I must be wary that she is drawing me away from life and toward her. The 3-74 material, then, was about St. Sophia but not from or by her; it came through the forms in the normal way they encise; perhaps through my life I worked up to the point of reception of the Sumuum Bonuum normally, by degrees & stages (of preparedness). This does not detract from the value of the information about Christianity; quite the contrary: it confers the value of absolute truth to it (only absolute truth could be contained in the form of Sumuum Bonuum), but there is the Apollonian balance & proportion truths there as well; Christianity is absolutely true, but other concepts are equally absolutely true, the wisdom of Greek culture, of Pericles' time, as well.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christian, Spirit, Rome, Christianity, Form, Sophia, Plato, Kingdom, Greek, Well, Parousia, Wisdom, Perhaps, World, Only, Time, Platonism, Good, Could, Does, Kingdom of God, Kosmos, Being, Himself, Probably, Anamnesis, Through, Real, Before, Revelation, True, Universe, Other, Were, Very, Back, Have, Things, Life, Absolute, Information, Jungian, Having, Knowledge, Truth, Final
+
+---
+### Line 3400-3408 (Match: 'Neither')
+**Folder**: part of
+
+```text
+Needs Review
+268
+-4-
+
+In a purely deterministic, karma^-dominated world, my period of independence would have ended in the spring of 74. In analyzing the situation then I would have to say retrospectively that only ”vertical” intervention would have saved me from falling into the destructive vector one of of the twin megastates. My in ate weakness, my fears, my isolation, my financial insecurity, my depressions & hopelessness — all would have assisted this transformation into a kept, managed thing. But the trumpet sounded; help arrived. I go on as I always did, free to write as I please. Beholden to and controlled by neither, barely having steered (been steered) between them. I clearly discern two hostile megaentities seeking to control and subsume my free work. Hence my perpetual, chronic confusion as to ”which” it was that menaced me; why, it was both at once, in competition. Between them they had occupied all stations — except invisible unanticipated (along the causal lines) ones. In essence I had to do two things at once: take on both and fight both off simultaneously, which appears virtually impossible to do. There was no playing one against the other or taking false sides. What ally did I have? The Greatest One, unseen. I keep thinking they needed the Xerox letter to arrest me. No they did not, but without it I would have received much sympathy, esp. since TEARS had just been published. With the Xerox letter found in my possessions they could have built up a case by reason of which I would have obtained not only no sympathy but scathing hostility. After that I would have fallen into line and, if I had written at all, written safe tame things (such as SCANNER and DEUS IRAE). Had I been netted in the other direction by Lem's people no telling what they'd be having me write by now; certainly not SCANNER and DEUS IRAE. It is all a very melancholy thought, this resum6 of a world without the vertical intervention by God, God's grace, from the supralunar world, i.e. from heaven, to lift the deterministic destiny of the planets. What a dreary world it would be, with nothing new in itI Everything rolling inexorably downhill to a predetermined termination. The dream showed a far more realistic view of what my situation would have been than I ever had: I was paroled, because there was nothing to be gained by keeping me in prison, since there I couldn't write. But I wore a modern polyester suit (like the conspirators did!); I was part of the U.S. establish¬ ment. My probity would be shot vis-a-vis my legitimate audience — e.g. regarding such religious writing as my exegesis and DEUS IRAE. And I could not write protest books, probably — or rather the fact that I was not would be taken wrong...in any case my use would be shot. Hence the spirit intervened; this way, free, my religious conversion must be accepted as authentic (.e.g as up in DEUS IRAE, as by my friends abroad.) ”After his arrest and parole he only wrote religious and anti-drug novels.” Think how little effect SCANNER would have had! After all, it is pro-establishment...the heavy handed US authorities would have messed up something of use to them. Whereas had they left me alone — which is how it worked out, due to the vertical interven¬ tion. Perhaps they wound up convinced of this, sincerely, which makes for a permanent detente. This would be the best possibility: that they would come to see this. * * If I ever get over the depres¬ sion which this dream & realization have caused me, I will better appreciate the actions of God-in-this-world; as it stands, I am in the ”alternate world" space very much
+
+Last edit almost 5 years ago by svayambhu108
+269
+Needs Review
+```
+**Co-occurrences**: Tears, Spirit, Xerox, Perhaps, Scanner, Like, World, Since, Because, Prison, Only, After, Book, Karma, Could, Just, Something, Once, Both, Everything, Probably, Deus, Without, Grace, Nothing, Part, More, Heaven, Such, Certainly, Irae, Will, Would, Other, Very, Have, Clearly, Things, Spring, Having, Except, Deus Irae, Dream, Whereas, Free
+
+---
+### Line 3453-3461 (Match: 'Neither')
+**Folder**: part of
+
+```text
+Needs Review
+274
+2
+
+"Lambs" are a good symbol because lambs can hear the good shepherd, whereas treasures and pearls and seeds can't; at the very most grain or seeds sprouted can be harvested. They, who are twice born, wind up with him, obviously meaning the Cosmic Christ who I think is closely related to if not identical witn (at least in certain ways) to the Holy Spirit. I say, it is the Holy Spirit having gone through incarnation and being resurrected. * * The manifestation of the Holy Spirit to rescue me (God's Grace) conforms exactly to Plato's concept of Noos "persuading" ananke along the lines of wisdom; i.e. the inter¬ play between efficient causes —which would have led to my doom— and final causes, Holy Wisdom, follow Plato's schema precisely: I felt Wisdom take over control and direction. The dialectic which is described in Timeus. A situation of blind decay was leading into a cul de sac. Yet — I performed the early Xtian sacraments, and experienced the Xtian anamnesis, so it was the Holy Spirit; and I heard the bells. In the parables Jesus taught his disciples how to attain the Kingdom of God; he didn't want outsiders to know. Integral in this is receiving the Holy Spirit — I adjudge this to be the x prime event in it all. So evidently certain things, secret preparatory things, must be done in order that —if I am right— the Holy Spirit will come. I think I am right. This lore, this esoteric knowledge, was passed on by Christian to Christian; through it, spec, the practice of it, their obtained the theolepsy. But the lore was lost, when they were killed by the Romans. Thus people ceased to attain the Kingdom, because, I think, they did not know and perform what was needed. Well, the Holy Spirit came to me, but I think I had to do many things in preparation; I have been certain of it, without relating this to the parables or early Christianity. The votive candle, and I had to be shown the golden fish; there must have been others. The fish, right then and there, caused anamnesis. Doesn't this sound like the Orphic and perhaps other theolepsy mystery religions? I saw Rome and believed in my anamnesis experience before the spirit came; of everything I think the golden-fish-induced anamnesis made the thaiepsy possible. And I think anamnesis wouldn't have occured if I hadn't just been given the sodium penthathol, which probably served to replace some trance¬ like state of the mysteries. Something known to Christianity, a state very altered. There was some ancient equivilent, perhaps even drug induced. It is very significent that someasthing outside of and prior to the theolepsy caused anamnesis, although only for a split second; still it did. * * I just brought something to consciousness about my fear, lasting for a year prior to 74, about Soviet letters. It explains my discomforture about Antibi's "money and film" letter from Austria. I now know consciously what I was expected: a Soviet letter (Soviet in origin) which was a burn or Addressat Unbekannt letter, because of what I'd said to Lem. I was primed for this, due to our quarrel. My assumption was, with each letter, "This is it, what I've been expecting." Neither Party summons/instructions nor US was anticipated. Why did I think this? Well, anyhow I did. Well, I now ask myself, What did I think when I saw the Estonian letter? Did I think that? Yes (which it wasn't) and on the basis of that FALSE assuption about Roogna’s letter I anticipated —correctly]— the Xerox
+
+Last edit almost 5 years ago by svayambhu108
+275
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Xerox, Rome, Christianity, Holy Spirit, Plato, Kingdom, Fish, Well, Golden, Roman, Wisdom, Perhaps, Like, Because, Golden Fish, Only, Noos, Cosmic, Holy Wisdom, Good, Cosmic Christ, Even, Anyhow, Just, Soviet, Something, Kingdom of God, Being, Obviously, Although, Everything, Orphic, Probably, Anamnesis, Without, Grace, Still, Their, Through, Most, Secret, Before, Will, Would, Other, Were, Very, Many, Roogna, Have, Things, Having, Knowledge, Dialectic, Evidently, Whereas, Doesn, Final, Right, Ananke
+
+---
+### Line 3500-3508 (Match: 'Neither')
+**Folder**: part of
+
+```text
+Needs Review
+280
+8
+
+In fact, the more I think about it the more I view that AD 70 landscape as the apocalyptic landscape, which will be exposed abruptly for all, as it was temporarily for me; this may be a cardinal significance of my seeing it, its main implication for men: certain one of the biggest surprises, too, that we have in store. We would find ourselves dis¬ tributed on that landscape in those roles, and have to make accounting sub specia aeternitatis, and that would be the "Aeternitatis." Yes, I think this may be the case; that is the true stage and true fixtures. If it is an apocalyptic landscape, then no one came from lineart Roman times, and the retrieved memory is not of an event in linear time but of an absolute event on an absolute landscape, which penetrated our landscape on a vertical axis, bringing —and this is a superlative insight— absolute events into our relative universe. Those ab¬ solute events and figures and landscape don't change, and must be understood as breaching our world then (our date 4 AD or BC or whatever), disclosing forms that neither change nor perish — which is in accord with what we know and believe about Christ already. The extraordinary thing is that if I am right, when the second coming —advent—takes place we will be at the first again with no real lapsed time; probably a theological theory could be made out of this insight. How could time pass in the real (eternal) world? Logically, it doesn't have linear time and the constant flux (change) which we have; one breaching followed by another at whatever our date may be would show no change there. The beast Rome, too, is a part of this landscape; here the judgment will be made. I keep discovering this: I did not see Rome back in our linear past but an archetypal eternal Rome, and everything else was outside linear time as well. I guess what I remembered is that we are really there (still), and never left, and the battle is decided there, the sides taken, and the judging done. What occurs to me now is the realization that upon the Parousia, everyone will all at once see this landscape, as the dokos lifts. They may hold relatively different positions; I believe I was with the small Xtian remnant. That doesn't mean everyone will be; the dokos or veil will roll back, and we will all be revealed in our actual positions in that goats-sheep struggle (sons of light vs sons of darkness). This is what the Day of Judgment will reveal. How we stand. Of course, to Him and to God we stand on that landscape already. Memory is not always of something past; I can remember what I must do tomorrow; I can remember who I am now. This was memory of what is, rather than what was; it has more significance than recollection of an event that took place long ago in history, like the Battle of Hastings. It had the reality of a living, enduring, present situation, as present as any other: on-going; the anticipation was so great, and preparations (against the tyranny) were in progress; this fits what the 3-eyed sibyl said, I think; pulling the regime down was a making way. No other explanation would account for my conviction that Rome is present now, in the dokos 1976 landscape which we see, under other names. Memory of a mere past event would not explain that. For example, what I saw as Roman police (ir leg) were present realities: the secret police; they were just seen under a different aspect; they were there anyhow, as the Enemy entrapping (as in TEARS; remember TEARS in this exegesis). This thoroughly reinforces my earlier conviction that what I experienced was an apocalyptic vision - i.e. of tha and timas. This Roman landscapa
+
+Last edit almost 5 years ago by svayambhu108
+
+281
+```
+**Co-occurrences**: Christ, Tears, Christian, Rome, Form, Well, Parousia, Roman, Advent, Like, World, Time, Light, Could, Anyhow, Just, Something, Once, Again, Reality, Everything, Great, Probably, Sibyl, Darkness, Those, Still, Part, Dokos, More, Another, Living, Real, Flux, Upon, Secret, True, Universe, Will, Would, Other, Were, Back, Whatever, Under, Have, Judgment, Absolute, Memory, Remember, Sons, Doesn, Right
+
+---
+### Line 3974-3982 (Match: 'Neither')
+**Folder**: part as
+
+```text
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+27
+( + if this was a reweaving of the present by an entity or entities from the future, the reason I saw the was that Somehow I was involved in the change. Then the personality which took me over did not come from the pass but from the future, + the reason I felt the presence of the past is that our world is the past to him, an archaic world, bleakly tyrannical: as Rome is to us, we (or world is) to him; also maybe to him, to then, our world is viewed as the tail end of the wester Roman empire. Maybe I saw our world as the black Iron prison because that's how he saw it - i.e. one world is his past. So the black man world could be an alternate (bad) forture from which he had just come, + remembered, or it low he his view of our tyranny-dominated world. In both cases the Black Iron world is the is, + the palm tree world is the not real future hoped for + sought for. However, this uncertainly on my part as to whether he remembers the black Iron world from his own time or perceives it as the real nature of our time, is just a paralled versin of the confusion in my "man from the past" schema, in which I am not certain if he remembers Rome c. AD 70 or experiences - reveals - it as being here. In neither case (assum ing either to be true) can I determind which it is. + this confusion is confounded by dies of the ancient world in which There is super-modern technology - e.g. the high-speed up-down transport in the Roman trium, one argument that he came from the future, not the past, was his ability to drid my car. + his knowing the Xerox letter would arrive + when it would arrive the "man from the past" theory ony works when the theological elements (the theophany by God) is added to it, but conversely, the "man from the future" car be made to work in itself without the addition of any divine help or knowledg so the laten is more economical (dechan, razor principle.)
+
+Last edit almost 3 years ago by svayambhu108
+28
+Needs Review
+```
+**Co-occurrences**: Xerox, Rome, Empire, Roman, However, Maybe, World, Because, Iron, Prison, Time, Black, Could, Just, Both, Being, Divine, Black Iron Prison, Either, Palm, Viewed, Without, Part, More, Real, True, Would, Somehow, Tree, Whether, Iron Prison
+
+---
+### Line 3986-3994 (Match: 'Neither')
+**Folder**: part as
+
+```text
+Last edit almost 3 years ago by svayambhu108
+29
+Needs Review
+29
+(3 The problem is, both theories are so fantastic that neither is susceptable to verification. + then there is of course an obvious God possibility: AnE.T. I, came here from above - that would explain all the facts, too - esp. the 3-eyed, tech nologically advanced people. One sure looked like he was either in a space vehicle or at the very least behind glasst breathing a different atmosphere from us. + then there is the fact that I had a deep + abiding intuition that the Russigus were involved. Maybe they are mixed up with an E.T I. Maybe they rule in the future, + Russian is spoken (Russian, not greet). Their technology could account for all the miracles in the world - likewise the people from the future. We have no idea what ETIis micht be like or our own future descendents. Anyhow whoever they were they were here to tinker with major social (historical) events + determine this out come (for the good). Our parents (the one man identified him. self as "Tames father")? From the stars, who watch over earth, as its theirs ("we belong to someone"). All I know for sure is 1) They were powerful (more so than we) 2) They came here from elsewhere (past, future or outer space 7) They are benign 4) They possess incredibly advanced technology 5) They have 3 eyes + super large cranin If I go on my subjective impresson, it was that they cane (backward thru time) from the future. One possibility, though, that is most intringing: anamnesis, with my own orisin bery on anotter planet. Did these people come from there) i.e. they (we) colonized this planet thousals of years age; we are deformed descendents: our socelf her fell into ruin + we ddegerated. This is the same place Christ later came from. STIs -our parent race, speakin sansfort
+
+Last edit almost 3 years ago by svayambhu108
+30
+Needs Review
+```
+**Co-occurrences**: Christ, These, Father, Maybe, Like, World, Time, Earth, Good, Could, Anyhow, Both, Self, Either, Anamnesis, Their, More, Most, Would, Were, Very, Have, Later, Likewise, Someone
+
+---
+### Line 4223-4231 (Match: 'Neither')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+64
+Needs Review
+64
+6 i I know the Palm tree world was the [place + time of the Ea Advent + without realizing what I knew I knew the first Aevent had taken place in the black iron Prison world but the significance of it escaped me. Because the Palm tree world is heavenly it was easy to equate it with Christ - but the blac iron Prison world is dreadful. However the significance is: the first advent came at a time + place utterly hostice + murderous to him + that overall world staged unchanged; but at the 2nd me in absolute contrast, he will establish His peaceable Kingdom. In the first, his Kingdom was not of this world. Those are all the worlds I saw, + that is all the ad vents there are. If the Black Iron Prison world is alpha, the Palm tree world is omega. Both are timeless, but the black iron prison world will be swallowed up in the palve tree world. finally - replaced by it; the orthogonal axis will reveal the latter, not the former ("which will not enter the mind nor come up into the heart" the black iron Prison is the old Earth which lill pass away; the Palm tree world is the new Earth which God is making. My previous view of the "lateral movement" in which our world replaces the black Iron world + is then replaced by the Palm tree one is correct. it's interesting: I depicted the black iron prison world in teaks + the palm tree world in my next novel, deus Irhe. With our world inbetween. So not only did I experience the first Advent which took place in the past, by our time, but the second, which will take place in the future by our time other people know of both but see neither (me, too, now). I wonder how many other humans in the history of this world have been so priviledged In the plack iron prison it was hell, but we sure were actively fighting although in a constant state of terror - + in danger, in the Palm free world we all sit around peacefully + are happy + safe, the historical turning point between the two took place in 1974 at the moment of intervention against the conspirators. We must be closer to the second than the first First "uncut stone" Advent intervention second Advent w t black inn Palm tree doned prison
+
+Last edit almost 3 years ago by svayambhu108
+65
+Needs Review
+```
+**Co-occurrences**: Christ, Kingdom, However, Advent, World, Because, Iron, Prison, Only, Time, Earth, Black, Mind, Both, Although, Black Iron Prison, Palm, Deus, Without, Those, Finally, Will, Other, Were, Many, Have, Tree, Absolute, Iron Prison, Free
+
+---
+### Line 4248-4256 (Match: 'Neither')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+68
+Needs Review
+68
+8 of the first advent, doesn't it point toward the second! Is he not possing over - or has passed over - to the 2nd? Is this at least not the way he will reappear, in the ubiquitous fashion (as I called it, "cosmic, plasmatic") that I saw him? I saw Hin everywhere, + that is how he is supposed to reappen; well he did for me. Which raises the enteresting point that if you were to see him now, according to prophecy we would see ubiquitous form, which we can't imagene, but which I rid see - a transsubstantiation of everything every where into him. How else could he be like the lightning flash - not here, wor there, but in all places at me. This is a new insight that I saw him the way we shall all see him, when he seen again (+ needless to say, I didn't know scripture is when I saw this) frus I have myself witnessed as alreally occcuring the crucial transformation marking off the 2nd Advent from the first + thus the intervention must be connected with him expanding to that ubiquitious state. Now unlike the stereotype the voice was more feminine than masculine, + he pervaded all reality of the universe; neither is a tell-touted account of him. The point to which he has come now: was it he I saw pervading causal chains? Is he not indeed the Lord of the (one) cosmos? core, judge, yet still intercessor - this micht explain the apparent contradition of God intervening (by miracle) in his own universe; as creator he (James-James) he drives the aggregate on, but as inter lessor he intervenes on an individual basis. (Could this be another example of the "secret partnership" (thoth - Seth. Vishnu- Shiva, etc). No deeper philosophical understanding is meeded than to say that in the triune task of God (he emanates (creates), sustains + reabsorbs there is right There a diversification of tasks for the one entity - if there, why mnot the one-to-one interventive role us the mais species role e2nd Advend could possibly be said to be the moment when that cosmic ubiquitous presen al passes the threshhold + becomes visible to the unaided edge - as if was to my aided eye, the unity of substance will have absorbed the multiplicy of accidents + we will have something akin to Brahman - at the point it reabsorbs.
+
+Last edit almost 3 years ago by svayambhu108
+69
+Needs Review
+```
+**Co-occurrences**: Form, Brahman, Well, Lord, Advent, James, Like, Cosmic, Could, Something, Again, Shiva, Reality, Everything, Creator, Still, More, Another, Voice, Secret, Universe, Will, Would, Judge, Were, Have, Doesn, Right
+
+---
+### Line 5071-5079 (Match: 'Neither')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+37
+36 in a sense I saw that the only actions which mattered were historical actions: i.e. actions affecting this process. The purpose of it all was the unchaining of the man God (as he stames now he is only a fragment of what he can + will be eventually). We do not know how much we are held back (chained) because we have no conception or model of what we could be - will be. The incarnated St. Sophia is such a model. He/she is leader + model both, but us (not as we are but as we can/shill be) fulfilled as we advance up the manifold. Acc human history is God progressively becoming also man becoming. Is their confluence in this? Was not 3-74 state a God like state, at least compared to my/our normal one? The God within. We are imprisoned here + have forgotten who we are: Brahman descended & asleep. Is not the final emancipation one of regaining memory + original condition inc senses + powers. The God who is progressively becoming is us as collective us: each individual is only a "station (cell) in this vast sentient organism which is anaking + remembering (Brahman is waking up?). + no powers com hold him/us back, because outside of time he already completely is. He must have chosen to descend into his creation + forget; it must have been voluntary: as bhodasctra, to occupy no better place than the little coving. greatures, to share then fate, without even memory on his part of being different (so Christ says, "when I was hungry, naked, in prison, you did not." + they say, "But Lord, we did not know it was you." Neither did he, at that time) the process of him dwelling in his creation in forgetfulness is alo a process by which from inside he evolves - improves - this greation The deity I experienced was in process of becoming (i.e. changing - perfecting himself), had infinite goodness but perhaps limited power, although unlimited knowledge what we call history was the dimension (world) in which this fulfill ment takes place; man, by participating in history joins - it not at the very least on God's side - ther perhaps even meld. with God himself + is a subform or section of God. y
+
+Last edit almost 3 years ago by svayambhu108
+38
+Needs Review
+```
+**Co-occurrences**: Christ, Sophia, Brahman, Lord, Perhaps, Like, World, Because, Prison, Only, Time, Even, Could, Both, Being, Although, Himself, Fate, Without, Part, Their, Such, Will, Deity, Creation, Were, Very, Back, Have, Memory, God Himself, Knowledge, Human, Final
+
+---
+### Line 5533-5541 (Match: 'Neither')
+**Folder**: book about
+
+```text
+(7)
+
+I'd almost say that what I saw was a "cannibalizing." I've got it now, though this pinning down what I saw as as form of what we see in insect metamophosis. [Jesu?]! + to think I got the concept of Zebra from a book about insect mimicry! Is Zebra insect-like in other ways than this metamorphosis? Two insect qualities: camouflage mimicing, + morphological metamorphosis - the breaking down of the old to produce the new eidos! (Morphe).
+
++ "St. Sophia's" voice: neutral, dispassionate, neither male nor female.
+
+How much of our universe is involved? Just this planet? Not "the cosmos is -" nor "the universe is -" but perhaps this is just a world phenomenon (entity). No - I guess it to be trans-planetary. Very large. (A bit like the transsystem entity which was Palmer Eldritch.)
+
+The pulsing plasmic laser light color: its blood, so to speak.
+```
+**Co-occurrences**: Zebra, Form, Sophia, Perhaps, Like, World, Book, Light, Just, Eldritch, Palmer, Palmer Eldritch, Voice, Universe, Other, Very, Blood
+
+---
+### Line 5696-5704 (Match: 'Neither')
+**Folder**: Book of
+
+```text
+Indexed
+4
+4
+
+By an act of belief ("credo") when I saw the Golden Fish Sign + heard the words I broke the power of this, the stamped-out [mere] image (eikon) world over me + received grace, received the real (supratemporal) world + the sole 3-aspect life that dwells throughout it. Gnosticism is correct; this is (but perhaps was not always!) a flawed (or fallen, decomposing) level (a la Plotinus). The sign (Zeichen) in a sense woke me up (cf the slumbering soul, cf Plato, cf Pythagoras). (Cf Heraclitus + the idios kosmos vs the koinos, within the latter lying -acting- the Logos. Thus, too in a sense I broke the power of the curse, which is a blindness + a sleep - in which we are in darkness; thus the salvific power is referred to as "the Light of the world" "which the darkness neither knows, recognizes, sees nor accepts." Darkness + blindness are related - also seeing + light. When I say "I broke the power of this [false] world over me by an act of faith (pistis) I am saying that in some sense this world is a delusion; evidently this is what is meant by dokos or maya. (This insight may be the most important of all: what I then related to was an eternal archetype of apocalypse: "Babylon," "Daniel" "Cyrus" "God" [or Wisdom or Christ or the Logos]. The best meaning of dokos here is, "the counterfeit passing as the real thing." Whence comes this dokos? Because our brains construct (hypostatize) an isomorphic (to us) outer analog - + the Trinity is not isomorphic nor subject to hypostatization, + is perceptually rejected. This is what Christ meant when he said, "Believe in me; I have (can - have the power to) overcome the world."
+
+Last edit over 5 years ago by Toso
+5
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Logos, Plato, Fish, Gnosticism, Golden, Wisdom, Perhaps, Plotinus, World, Because, Golden Fish, Faith, Pythagoras, Light, Maya, Kosmos, Heraclitus, Daniel, Grace, Darkness, Dokos, Soul, Babylon, Most, Real, Have, Life, Trinity, Evidently
+
+---
+### Line 5867-5875 (Match: 'Neither')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+15
+Needs Review
+15
+N it the normal forces are (1) efficient causes; + ➁ final causes; is an anomaly for direct action, which is neither, to occur, to operate on a segment of the unfolding strip. It should be self-propelling, self-generating + regulating. Direct intervention such as in 3-74 constitutes an implied rebuke to the totality of forces operating within the closed system, which indicated to me that the closed system, the unfolding strip, is provisional in its nature. Not only is it limited + limiting it is somehow false. I would even say that it must be denied or repudiated in some fashion: i.e. said no to. This is what I did when I saw the Golden Fish; I repudiated the closed system world + broke its hold over me. Perhaps some kind of escape mechanism exists - like a test, but, more, an opportunity granted, to know the truth + thereby be freed (of its coercive power over us). How does This denial act to break its power? Anamnesis sets in, +, with it, a reappearance of a divine personality, which is to say, a personality not programmed (in monad-like synch) but free to act, rather than react to stimuli. It is not a product of the forces of this world, is not at their mercy. It can be killed or hurt but it cannot be manipulated or coerced into obeying was the eteology of this my refusal c. 1969 to pay out money for the war? Interesting resemblance to the power of the later, "Thomas" personality to refuse to respond to the Xerox letter the first balking. I think I'm only something major here. The person must be capable of refusing response to the enormous powers of this reality to start the redemptive entity in motion; if you are willing to balk it will assist you, but if you will not see the situation for what it is + on your own initiative balk, there is nothing for it (the redemptive entity) to assist: you cannot get there by being told this or that is wrong; mere note, turning to another external authority, won't suffice. What the redemptive entity is searching for, hoping for, is for you to perceive on your own that X is wrong +, untold + unaided, to act correctly, whereupon comes to your aid. If you do this, the illusion (delusionar it castle" or world) vanishes + you are shown the true situation in clear black - white. Good- bad terms, the ambiguities gone. until you do this your fate is a bal one: prisoner of the forces you do not question - but rather obend, the
+
+Last edit almost 3 years ago by svayambhu108
+
+16
+```
+**Co-occurrences**: Thomas, Xerox, Fish, Golden, Perhaps, Like, World, Golden Fish, Only, Black, Good, Even, Does, Something, Reality, Being, Self, Divine, Fate, Anamnesis, Nothing, Their, More, Another, Such, True, Will, Would, Somehow, Later, Truth, Free, Final, Until, White
+
+---
+### Line 6180-6188 (Match: 'Neither')
+**Folder**: part but
+
+```text
+Last edit over 4 years ago by Kfischer
+3
+Needs Review
+3
+Star Wars: "All 3 the (imperial) fighters continued to chase the remaining x-wing down the trench. It was only a matter of moments" etc. But a "supple Freighter eclipsed the sun." etc. "To the other side, Darth Vader's fighter began spinning helplessly... Whoever was at the controls of the supply freighter was neither unconscious nor insane - well, perhaps slightly touched. But fully in command nonetheless: it soares high above the trench tucking to run protectively above Luke. "You're all clear now, kid," a familiar voice informed him. "Now blow this thing so we can all go home." ...There was a tickling inside (Luke's) head. "Luke...trust me." the tickle requested, [forming words?] for the third time...with the confidence of a blind man in familiar surroundings, Luke moved a thumb over several controls...He blinked and cleared his eyes. Has he been asleep? Looking back, he saw that he was out of the trench and shooting back into open space... (a control) indicated that he had released his remaining torpedoes, although he didn't (couldn't) remember touching the firing stud. The cockpit [spectators?] were alive with excitement. "You did it!"
+
+Prologue: "Another galaxy, another time. The Old Republic was the Republic of Legend, *greater than distance or time...Once, under the wise [sick?] rule of the Senate and the protection of the Jedi Knights, the Republic [thrived?] and grew. But as often happens when wealth and power pass beyond the [admirable?] and attain the awesome, then appear those evil ones who have greed to match. So it was with the Republic at its [highest?]. Like the greatest of trees, able to withstand any [external?/internal?] attack, the Republic rotted from within though the danger was not visible from outside. Aided and abetted by restless, power-hungry individuals within [sic?] the Government and the massive [organs of commerce?], the ambitious Senator Palpatine careful himself to be elected President of the Republic. Once *securing office he declared himself Emperor, shutting himself away from the *popular. Soon he was controlled by the
+
+Last edit over 4 years ago by Kfischer
+```
+**Co-occurrences**: Well, Perhaps, Like, Only, Time, Once, Luke, Although, Himself, Those, Another, Star, Nonetheless, Voice, Other, Were, Wars, Back, Beyond, Under, Have, Star Wars, Wise, Evil, Remember, Government, Greater
+
+---

@@ -1,0 +1,347 @@
+# Evidence Packet: Secret
+
+- **Category**: Top Term
+- **Total Mentions**: 44
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 434-442 (Match: 'Secret')
+**Folder**: book about
+
+```text
+Recently I met Mr. Henry Korman and Mr. Tony Hiss (Tony had come by to interview me for the New Yorker). I got into a marvelous discussion with Henry about Sufi and I mentioned my admiration, bordering on fanatic enthusiasm, for your pioneer work with bilateral brain hemispheric parity. Thus, I, having learned that they know you, and am summoning my courage to write you and ask, What has become of me, since experimenting with bringing on my right hemisphere (I did it mainly by the ortho molecular formula vitamins, plus a good deal of concentrated meditation).
+
+By this I mean to say, Dr. Ornstein, ten months ago this took place, and for ten months I have been a different person. But what to me is most extraordinary (I am writing a book about it, but in the form of fiction, a novel called TO SCARE THE DEAD), is that -- well, let me give the premise as I placed it into the novel:
+
+Nicholas Brady, an ordinary American citizen with contemporary worldly values and drives (money and power and prestige) suddenly has inside him a winking into life an entity which has slumbered for two thousand years. This entity is an Essene, who died knowing that he would be given the promised resurrection; he knew it because he and other [Qumran] individuals had in their possession secret formulae and medications and scientific practices to insure it. So suddenly our protagonist, Nicholas Brady, finds that there are two of him: his old self, at his secular job and goals, and this Essene from the [Qumarn] wadi back circa 45 A.D., a holy man with holy values and utter antagonism to the secular physical world, which he sees as the "City of Iron." The [Quamran] mind takes over and directs Brady in a complicated series of acts until it becomes evident that others such as this [Qummran] man are coming back to live here and there in the world.
+
+Studying the Bible, along with this [Quamran] personality, Brady finds that the New Testament is in cypher. The [Quamran] personality can read it. "Jesus" is really Zagreus-Zeus, taking two forms, one mild, the other utterly powerful, on which his followers can draw when in need.
+
+The [Quamran] personality, who, for fictional purposes, I call Thomas, gradually informs Brady that these are the Parousia, the Final Days. And to be prepared; Thomas will prepare him by reminding him of his own divinity -- anamnesis, Thomas calls it. Thomas develops a special parity relationship with Brady, but evolves as a source of teaching for the incredibly ignorant Brady the entity known as Erasmus, who is in fact a station in the noösphere, which is now so fully charged around Earth that if you are aware of it you can consciously, rather than un-
+```
+**Co-occurrences**: Acts, Thomas, Holy, Jesus, Form, Well, Bible, Parousia, These, World, Since, Because, Iron, Earth, Good, Mind, Book, Zagreus, Tony, Self, Anamnesis, Essene, Brain, Their, Zeus, Most, Such, Will, Would, Other, Erasmus, Back, Have, Life, Testament, Days, Having, Dead, Suddenly, Qumran, Final, Right, Until
+
+---
+### Line 939-947 (Match: 'Secret')
+**Folder**: part of
+
+```text
+It is not instantly possible to figure out what each item in our universe would look like if reversed; simple notions (backwards, going the other way, etc.) are inadequate. Like writing held up to the mirror in our world; if we hold up "mirror writing" suddenly we can read what had been unreadable. What was chaos (blur) becomes cosmos (in focus), simply by reversing it; processes, i.e. which made no sense now make sense.
+
+We are attempting to formulate theories about processes we see running "backward," but rather more precisely "reversed," or like, "inside-out." No wonder the universe seems weird to us.
+
+This is the mystery secret of like Christianity (real xtianity).
+
+It would be a[n] error to say this mirror opposite universe is invisible in another dimension -- it is visible to us, to our senses, but like a monochromatic person, we blend it with our forward-moving processes, not discriminating it out. We must turn our monovectoral (unidirectional flow-perception) into two perceptions showing both directions visually. We see these processes backwards; but we see them, and they are all "gray," i.e. the color of the picture universe: forward-linear.
+
+If one were to abruptly (for the first time) see processes flowing in a reversed time way, and be able to recognized them at once, and see them as coherent, this would be excellent proof that these process were now being seen properly; i.e. in accord with their actual direction of development. Otherwise, one would expect the person to be confused for a very long period, to be able to make nothing out clearly. Were he to see famous entities such as the Logos and know them for what they were, almost at once -- this would indicate very much as to the more correct view here than the forward (picture) one he'd been experiencing. (Even if he knew nothing of Parmenides' proof of the dokos.) It's a simple, "Now it makes more sense...viewed this way." A resolution of a picture is its own proof of its own correct resolution: when the picture swims into clarity and focus and one can tell, at last, what it is...the visage of God, in my case.
+```
+**Co-occurrences**: Logos, Christianity, These, Like, World, Parmenides, Time, Even, Look, Once, Both, Being, Viewed, Nothing, Dokos, Their, More, Another, Real, Such, Universe, Would, Other, Were, Very, Clearly, Suddenly, Otherwise
+
+---
+### Line 975-983 (Match: 'Secret')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+64
+Needs Review
+64
+When I look back on those first days in 3 74 when I saw Tome around me, not Fullerton, and specifically the Rome of the period of Christ's time, and saw its angry military hostility, I was equally aware (and this is what I tend to forget) of my own identity standing in opposition to it; hence its hostility toward me -- the scurrying of its agents were specifically hostile toward me, and I had to work in stealth, e.g. in baptising Christopher et al. The other end of the dipole was my own new identity, not merely the "new" identity of my environment (Fullerton made into Rome); I had become a Christian and a very special kind, different from what I had been as Fullerton had been to Rome; I was a member of a secret group which Rome was dedicated to destroy: this made me part of the Fish sign secret society, killed on identification and disclosure. No sense can be made out of my seeing Fullerton turn into Rome until the other hemisphere of the Magdeburg jars is taken into account: what I had turned into. I can infer it from the hostility of my Roman environment (the ir leg, for instance,) but more so I can infer it from what I did (the baptism) and my knowledge of the original Christian practices. The change had been wrought in me; Fullerton metamorphosing into Rome came as a result of that. Thus, what I saw externally in terms of transformation ratifies what I knew from an inner awareness to be the case; the two fit perfectly. What was Rome of that period hostile to? The authentic early Christians. Also, I tend to forget that in addition to the secretiveness of my actions, due to my knowledge of what the Romans would do to me, was my anticipation of the Savior to come. Now, the Fish-Christians (i.e. the original authentic Christians) did not exist before Christ, nor had they the fish sign; thus, it was the Second Advent which I --we in our group-- anticipated. We as a small select body were already in existence, and our savior was evidently already gone (of course: the fish sign came from the sign the Romans placed on the cross above him as he died). There is no latitude in the measure of precision in my knowing what I had been transformed into, both by external observation of change, and inner. Therefore it is bootless to dwell on the question, How did Fullerton become Rome and what does it mean? Are we really in Rome and don't know it? Was there a time dysfunction? etc., because the answer is already there in the other Magdeburg hemisphere transformation; I need only look to the change that took place in myself to know the answer. It is only Rome, and Rome as persecuting enemy, if one is what I became. The Crucifixion, although a[n] historical event (circa 50 AD) is also in the Platonic world of archetypes always present, outside time, available as the cornerstone experience for someone changed like I was; when you think about it, my transformation would probably be merely one of psychological "Set" had I perceived externally a total transformation...and I should add here, not just the original Fullerton into Rome, but also God along the alley, and being able to read the steganographic codes in the Bible, to sense the Logos, everything else, the world-conflict. I was augmented in my faculties, as the original secret Christian body of men was.
+
+What is involved is a restoring, a new life which is the igniting by means of the penetrating of the solar spermatakos of what had lain dormant, asleep over two thousand, maybe five to ten thousand years; it
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Christian, Logos, Rome, Fish, Bible, Roman, Advent, Maybe, Like, World, Because, Therefore, Only, Time, Harpax, Savior, Does, Just, Look, Both, Being, Although, Everything, Platonic, Probably, Those, Part, More, Fullerton, Before, Christopher, Would, Other, Were, Very, Back, Life, Body, Days, Knowledge, Cross, Evidently, Someone, Answer, Until
+
+---
+### Line 1032-1040 (Match: 'Secret')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+70
+Needs Review
+70
+It may be that Dr. NK is wrong, and that time is a 4th dimensional space imperfectly perceived; I was freed from time, and this shows that indeed I had been Reborn immortal, but I do not understand that which I was freed from (time). What I should do is try to infer the nature of time from what I experienced ("anamnesis") when freed from it. It became unreal (I remembered at least 2000 years back; Restoration took place; there was retrieval of data, etc.). What we experience as lost --things moving into the past-- those things ceased to be lost. Those things which had passed out of sight (moving from the present to the past and hence gone forever, destroyed) were again there, again real, not destroyed. This is intimately bound up with immortality, the rebirth, the freedom back upward from the Fall. The continual perishing (including that of myself) was abolished -- but not only of myself, but of everything. The world-and-I together were retrieved, as if no destroying process had obliterated us ("Death, where is thy sting? Grave, where is thy victory?"). Is this a waking up? ("Look! I tell you a sacred secret: we shall not all sleep," etc.) Here, "sleep" equals a loss of full consciousness in which perception of all-which-was is lost, and we cease to see it and imagine it destroyed & abolished.
+
+The transient quality of things, the loss of them into the past, is a diminution of perception, a visual-perceptive loss; we cease to be able to track or follow their movements to another place (the past is another place which we can't see, being partly blind; in the "Decoded" it says, "He now could --an angel?-- see only things very close to himself, and nothing which was far away." I.e.; he could only see that point which is the immediate present. Those two vast eternities, which contain everything, the past and the future, were no longer visible (the 3rd eye had shut). And this would be why the gift of prophecy (second sight) is so basic to the restitution of ones full faculties, and associated with Men of God. Prophecy: seeing into. The past is within things (as in UBIK). Again, the onion rings universe. Where is the past? Within what we see, at the hearts. All reality is like some great Indian burial garbage mound, like layer or accretions, at Troy, successive. Not being but "below." Contained.
+
+Like in the 3 pages I sent Angus. Palimpset. Well, if the past is within what we see (smaller concentric rings, constricted) perhaps one can reason that the future consists of larger rings that that which makes up our perceptual present; vide Plotinus. The next concentric ring of emanation would be the future...strange. Which we reach toward, and which recoprically reaches down to assist us (as I inferred about the "space people": they're from the past, to give help. Angels. They would come to us in dream-time, with visions of what is ahead, and this is why dreams are prophetic. And less dense, less constricted that the daytime Now ring.
+```
+**Co-occurrences**: Ubik, Well, Perhaps, Plotinus, Like, World, Fall, Only, Time, Harpax, Could, Look, Again, Reality, Being, Everything, Himself, Great, Anamnesis, Nothing, Those, Their, Indian, Another, Real, Death, Universe, Would, Angel, Were, Very, Back, Things, Freedom, Dream, Track, Sacred
+
+---
+### Line 1248-1256 (Match: 'Secret')
+**Folder**: part of
+
+```text
+This is 2,000 years before India. "The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator." Also, Ptah did it by speaking the word (the tongue). This anticipates the Logos doctrine. Heart is creative intent; tongue utters or expresses, gives voice to (I'll bet ka and voice and breath are closely identified).
+
+Joseph Campbell flatour says the the Occident believes in a transcendent god (above creation) and the Orient an immanent god who is here now (name your own subtheory). In that case I parted company with everyone in the West except (one) certain Presocratics and (two) Spinoza, who thinks very early Hebrews thought this, whi[ch] is possible but to me not important. The only reconcilitation I can imagine for me vis-a-vis the West would be to think that God had been above (transcendent) but the linkage is now so repaired that He is immediately accessable, which means that the Kingdom is here. (Maybe this is so.) How can I believe He will descend in/on/under a cloud if I know Him to be here, that in fact He never left?
+
+For palintropos h. to exist, time must exist (since it is in oscillation or sequence form). Insofar as this kind of balance (Yang-Yin alternation) is taken as real, time is real, but as soon as palintonos h. is viewed, we are in another world where time is absolutely not real, but for a certainly an illusion. Joseph Campbell, writing about Egypt, says that the great secret of the pharohs was that they were "Master of the Twin Opposed Gods," Horace and Seth, whose strife in the temporal world is absolutely real, but that "The Secret of the Two Partners," "was a reference to the hidden understanding of the two gods, who, though they appear to be implacable enemies, are of one mind behind the scenes...mythologically representing the inevitable dialectic of temporality, where all things appear in pairs, Horus and Seth are forever in confli[e]ct; whereas in the sphere of eternity, beyond the veil of time and space, where there is no duality, they are at one; death and life are at one; all is peace." (p81.) It looks to me as if
+
+Last edit over 5 years ago by Harpax
+88
+Needs Review
+```
+**Co-occurrences**: Logos, Form, Kingdom, Well, Spinoza, Maybe, World, Since, Only, Time, Harpax, Cosmic, Mind, Yang, Hebrew, Great, Gods, Viewed, Creator, Another, Egypt, Real, Voice, Certainly, Before, Death, Will, Would, Creation, Were, Very, Beyond, Under, Campbell, Things, Life, Body, India, Except, Joseph, Dialectic, West, Whereas, Joseph Campbell
+
+---
+### Line 1254-1262 (Match: 'Secret')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+88
+Needs Review
+88
+Ptah, the creator, has stretched a masterful canvas which can be read in two directions: within time we can read palinthropos, and in terms of orthogonal directions, a static direction, one of completion or outside time, we can see it stretched like the lyre, in palintonos harmonie: the real secret being that Ptah can achieve both, and the real secret being that Ptah can achieve both, and the real secret is not that the opposites are reconciled behind the scenes, but that they are reconciled and not reconciled, that palintropos and palintonos are both real (Hussey keeps trying to decide which of the two Heraclitus must mean; "a thing is either A or not-A." The secret behind the secret is that you think you have to choose, but you can have both as real. It is not truly written that one must be false if the other is true. (if time is real, then it is not an illusion; if time is an illusion then it is not real. These are verbal games.)
+
+Say, I'll try an interpretation of fr 51: if the palintnos h. is alligned (balanced) properly -- you get this correct first, or primarily, then (as a result; it allows you to in sequence) you can go and get a palintropos oscillation; you can play the darn thing if and only if it's strung right first. So the advance up the manifold of time (movement into sequence) indicates that the palintonos h. is okay, and we can move into temporal oscillation, the palintropos. Time is not generated by the -tonos being gotten right, but more allowed to happen; otherwise the ma'at (Egyptian for truth, order, justice) will just all fall down into chaos and there will be no -tropos; it won't work. That makes -tonos the Unbounded; -tropos the kosmos.
+
+Also, -tonos, on a lyre, is orthogonal to -tropos, the direction of force and motion is which it, the strings, are played.
+```
+**Co-occurrences**: These, Like, Fall, Only, Time, Harpax, Okay, Just, Both, Kosmos, Heraclitus, Being, Either, Creator, More, Real, True, Will, Other, Egyptian, Have, Justice, Truth, Otherwise, Right
+
+---
+### Line 1325-1333 (Match: 'Secret')
+**Folder**: book certainly
+
+```text
+Last edit over 5 years ago by Harpax
+93
+Needs Review
+93
+I saw the religious encoding and read it, myself: the Logos term "Felix," the entire ending -- everything, that paragraph illuminated (to me, as I told Sergeant Kelly). I has released the Word, shagged past the brutal oppressors and word-denyers. And if indeed it is The Good News shagged on by, in a least-expected place, it is specifically that in fact the Parousia are beginning: this is Christus Judicator. If the Brit 3 article is correct, though, this is the only way the Kingdom is going to come, the only way any of the events of the Parousia are going to come; that means my experience is not anticipatory, since there is in truth no emperical change going to be visible, which can be subjected to test (it can't be shown to be here or not to be here, is the point the Brit 3 article makes; it is elusive). It is a sort of secret kingdom in which one can live without appearing to live there, although one himself, he would know. And if this Brit 3 view is true, then this has always been the case, and the Kingship may have begun arriving for persons on an individual basis at the time X in the past -- time X being any moment after the Crucifixion. We are waiting for something which does not exist in time as we understand existing in time; it can be both here and not here simultaneously (vide supra about palintropos and -tonos, transcending the dipole thinking). The Parousia partake in -- no wait; no the palin(s) but the Secret Partnership, where Horus and Seth are not absolute antagonists "behind the scenes," Joe Campbell's book. The same with this. Within visible lineal time the Kingship hasn't come, and maybe never will (equal to Horus and Seth being implacable opponents); the Kingship has arrived is equal to "behind the scenes, in eternity: the Secret Partnership.
+
+In rereading the Brit 3 article on "Jesus Christ" I'm reminded that although the Second Advent is of Christ, what Jesus taught was the coming Kingship of God, not of Himself, the His Father would rule here, whereas now, God does not; Satan does (vide esp John). This could mean, Rule inside person-by-person, I guess. But the mystical corporate body which we enter is that of Christ; and Easter is connected with Christ, very specifically; I stand more toward that, a mysterious euch[e]ristic identity with the Real Presence of the Savior: a joining with Christ, esp Christ as Logos, first born son of God. But then the void dreams I had: the beatific vision of God. They are not that separable. If you attain union with Christ you certainly have reached God, and perhaps since Christ is the Path, this is how we do in fact reach God: brought to God, at last, carried there by Christ who rescues us (individually for sure; this is certain: Christ rescues on an individual basis). Christ, then, as the guide (Pinky, e.g.). Leading to the Kingship of God, to where God is. If God is not here, then I am taken there to where God is, led there, assisted and helped, on a journey (yes, I am sure of that; my guru as silent guide; the search as for the Grail).
+
+When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life, I get a single impression, one story underlying all, but not that visible until all 3 are compared. It is the story of a kingdom where reg[n]icide took place; the throne is occupied by a ursurper; now the rightful heir has returned (the stranger, Hamlet, Jesus), and holds no power, but speaks in strange riddle. The brutal ursurpacious ruler has him imprisoned and possibly killed; nonetheless the young stranger
+```
+**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+
+---
+### Line 1335-1343 (Match: 'Secret')
+**Folder**: book certainly
+
+```text
+Last edit over 5 years ago by Harpax
+94
+Needs Review
+94
+has acquainted us with the true, secret facts: we are not to give out allegiance to the brutal pretender king, that one day the rightful King will return (the right King is the young stranger's "Father"), and that this kingdom will be a divine one because the rightful King is divine. The story cannot be hushed up; what the monarch fears the most is the release of this truth for people to know. Exactly when the rightful divine King will return is uncertain. Perhaps the young stranger will grow up and return himself, no longer a beardless youth, but stern and wise, a true king (like the Ancient of Days). (My dream in TEARS.) The world must fall into two caps: the pretended and his brutal worldly followers, with their tyranny and lies, and, on the other side, those whom the rightful King will free, those who will know him for the rightful King, and await his coming.
+
+In reading Helen Wadell's THE DESERT FATHERS -- from her definition it is sure that I experienced eternity ("the other night," that is, in 3 74 and maybe again in 2 75). (Eternity during an interval very short; thus polarized against mere infinity, as with an extension of a line.)
+
+I have experienced what Jesus predicted: the change from one aeon to the next; and the next is rightful kingship, an improvement, a lifting of thrall by a[n] ursurper, somehow connected with C[h]ronos, Father Time (maybe the game of dr[o]ughts is ending; vide Heraclitus: the old child God, Chronos, playing a game of draughts in defined --regulated-- moves. That is the aeon which is ending; I saw that game, too, the player and counterplayer. This fulfills what Zoroaster foresaw: the end of the two-Person game, finally, in a victory of justice, truth, regulation, for ma'at; for Form One; for Light. This is the period Jesus, Paul and John compared to birthpangs, a laboring of bring forth; the whole universe and each sorrowing man being in such labor and pain...but if he could see the issue ahead! The Christian is he thinks of this world now, with its ursurpacious rule, feels bad; if he thinks of the rightful kingdom coming, he feels good -- thinks I mean of the future. But I say, this future is materializing, rising up as if a second new archetypal aeon "slide" were being projected: springtime. We can thus being to sense it lift now and rejoice now.
+```
+**Co-occurrences**: Tears, Christian, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John, Time, Harpax, Good, Light, Could, Again, Heraclitus, Being, Divine, Himself, Zoroaster, Those, Their, Most, Such, True, Universe, Finally, Will, Other, Somehow, Kingship, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+
+---
+### Line 1408-1416 (Match: 'Secret')
+**Folder**: book certainly
+
+```text
+since it could now really be an isolated thing; it pointed to an entire network of which it was representative (an accurate a sampling, although involuntarily so). Thus by revealing itself, evil destroyed itself (it had too much "bulk" to remain camoflaged any longer). Thus we can see the purpose served by the stage, in the Parousia, when evil is no longer restrained but can advance at will; it thereby exposes itself to the light, and those who are against it can discern it, finally. This so stengthens them that its defeat is forthwith assured. (It is identified with the Lie and shuns the light of day.)
+
+This really is a prime discovery, because it vitally assists me in understanding "Why me?" It has to do with my commitment to and involvement with The Game. This was not withdrawn, contemplative or mediative state, which produced this, but myself as homo ludens -- and awareness of myself as homo ludens. Zoroaster was right; we are most in deadly earnest. To be aware of it, to raise above it, is to see how serious it is. I, when aware, was even more --in fact totally-- involved[.] I saw/see the world as battleground, and myself as soldier devoted to truth, justice, freedom, joy.
+
+. . . The Rome which I saw in 3 74 was like the world of FLOW MY TEARS. But that is like GULOG. Did I see Gulog, then, in 3 74? The "Rome" tyranny is soviet and it is here? (How could what I saw be all there things? Roma circa 45 AD, Gulog, TEARS? Somehow they are the same -- in essence, in ontology, not accidentals. Was what I saw not a domestic tyranny, or rather, our domestic tyranny --I mean the Nixon regime-- was it in fact soviet? After all, the immediate threat to me was Soviet...I mean, the immediate threat was Nixon CIA anti-soviet[,] I mean both. I mean I saw them as the same. Another case of "either A or not-A" transcended, a sort of evil version of the "Secret Partnership," in which that which is absolutely opposed here is together as partners in the next level up, and you see the latter suddenly instead of the former. Glak. That certainly makes TEARS a remarkable book: it present a true picture of the essence of the US, a police state, but the paradigm is obviously not anti-soviet but soviet. What are we to make of this? US imperialism and soviet leftest tyranny are twin branches from the same tree, and that tree's name is Imperial Rome. Tweedledum and Tweedledee. (The archetypal from is identical for both.) (Thus in my dream I see Agent Payne as soviet KGB cop.) You have to strip away all the accretions, get it back to Roma c 45 AD to see the ontological identity. Wow, what a realization! No wonder I kicked ass re both groups. No wonder I feel the same way toward both soviet and US fuzz. Well, this always was at work in producing my worldview in 3 74, the fact that TEARS had just been released. I waited for the stealthy enemy to surface; he did: as the US Army (the 232 copies of TEARS they bought) and the Xerox KGB letter. I had to pass retrograde layer after layer to receive an outright vision of this, that I could then understand (i.e. understand what I had written & its meaning). The real meaning: Imperial Rome is back -- back here, back in the USSR. The true enemy is this, and our friend is the same Friend: the Christian underground, which is why I sent that $5. This is the what that I saw; the Who [W]hich showed it to me is God Himself (the Logos) (the Savior). But there was for sure a second vision one year later: positive: "Santa Sophia will be reborn; she was nor acceptable before." And the beautiful Levantime scene of palm trees and open places, and Springtime (ending with the dythramb and Rightful King returning).
+
+Last edit over 5 years ago by Harpax
+99
+Needs Review
+```
+**Co-occurrences**: Tears, Christian, Logos, Xerox, Rome, Sophia, King, Well, Parousia, Like, World, Since, Because, Nixon, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Before, True, Santa Sophia, Finally, Will, Somehow, Back, Have, Tree, Things, Justice, Freedom, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+
+---
+### Line 1475-1483 (Match: 'Secret')
+**Folder**: Unknown
+
+```text
+Needs Review
+104
+Either that, or else the Logos, as creator, "set us spinning" and now moves backward in time from the end, arranging the direction so it will end correctly (thus the Logos would be back again, but coming from the completion-end this way, retrograde in time). (Seen as the Holy Spirit as it does that; the Logos split, divided against itself into the two players of the game???
+
+Logos as the dialectic, and as The Secret Partnership.
+
+Logos as the two men working a two-man saw: [i]scillation back and forth -- palintropos harmonie.
+
+. . . I didn't enter the Kingdom of God by moving forward in time; I entered it by remembering (anamnesis). This is very important, this return in order to enter: remembering that I am or was in it already, and so hence must be new. Also, in John (I think 14:25 or 26) Jesus says that the Holy Spirit will cause "them to have remembrance of me and what I have said." The Holy Spirit brings us to Christ and hence to His Kingdom, by uniting us with him, evidently either outside of time, but anyhow remembering him. And our relationship to Him. (The Spirit of Truth discerns the future; the Holy Spirit recalls to us, teaches us, about the past.) My whole view is not that someday we will find the Kingdom but that we had it and lost it; maybe it was overthrown and the Rightful King killed, etc. "The overthrown kingdom, to be restored," as the M[M?]ission people say. That is the message. The King has returned. Once more he is here!
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, King, Maybe, John, Time, Does, Anyhow, Once, Again, Kingdom of God, Either, Anamnesis, Creator, More, Will, Would, Very, Back, Have, Dialectic, Truth, Evidently
+
+---
+### Line 1506-1514 (Match: 'Secret')
+**Folder**: part pressing
+
+```text
+Needs Review
+107
+I think Socrates daimon is Apollo, the city builder. This is a civic god. (Which brings in Delphi at once!)
+
+Apollo and Dionysos: another secret partnership (like Thoth and Set, Horus and Set, whatever). (Behind the scenes, in the eternal world.)
+
+I think that was Apollo I saw (when I heard "kai hypsilon").
+
+Socrates: since he was a danger to the state, for what he preached, they sought a charge to try him on. Esp he taught the youth: to question. Dia-logos (logos: Meaningful structure of reality)
+```
+**Co-occurrences**: Logos, Dionysos, Like, World, Since, Once, Reality, Apollo, Another, Whatever, Socrates
+
+---
+### Line 1710-1718 (Match: 'Secret')
+**Folder**: part of
+
+```text
+Now, viewed this way, that a message, the same message, was passed on to me repeatedly, the Attic Greek can be viewed as an essential ingredient; as a constituent in the carrier, it demonstrates that the material was not an autoproduction; it came from somewhere outside my own psyche; this indelibly stamps the material as non-psychotic or not a fantasy. I did not produce it, although my own mind may have shaped it. Therefore the Greek was essential to establish veracity of the message. Attic Greek served perfectly; it was something I did not know, could not have know, but could translate; whereas Hebrew, for instance, might have passed as mere gibberish or scribble.
+
+The linking, too, of even one fragment of the Greek to the Bible, as was done with the "kai hypsilon," to Romans, is of crucial importance, as with the finding of material derived somehow from Paul's "Acts" in TEARS. (I believe it was "Acts," anyhow one of Paul's works.) Yes, it was Acts, a relatively short section from the Bible; and then Romans comes next, also a relatively short section. When one considers the origin of the New Testament --dictated by the Holy Spirit to men-- then this fits together. Also, my ability during that time to see in brief flashes other events and places which I could confirm, plus the pre-cognition in dreams, was probably to bolster my realization, perhaps later, that I was indeed receiving in-coming information and hence the message was authentic, both in content and in origin.
+
+I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sense. In that area, the Levant, they were still part of the Hellenistic World and so wrote & spoke Greek. I had erroneously been supposing that the spoke/written language of that time would of couse be Latin. Then in 2 75 I did see the Levant for sure. In 3 74 I saw the hurrying secret Christians underground, at their work; they of a proven certainty at least wrote in Greek, and I think spoke Greek; yes, I'm sure. So this adds up: what I saw, and then later what in my head I heard. Yes, the fish sign, composed out of Greek letters and into a Greek word, proves it. I was back, auditorily as well as visually, among the apostles and early followers. And such dreams as "my friend Paul" holding up a prophetic galleyproof text: in which I was mentioned! And "Santa Sophia will be reborn, etc." was what they were into; the Savior has been born once already (obviously, since the Christian fish underground, them, existed); but I recall that I knew they were anticipating him returning, which is to say, Santa Sophia. This was what all their activity was in preparation for. This was their hope and their expectation: the Second Advent. So this is all of a piece. But, I believe, the voice I heard was not a voice from them but rather to them (to us?). This is the news I have; this is the news they had. We are linked together, and with us our two time-space periods. Li[n]ked by that anticipation (and that voice). Whoever it speaks to, and delivers that message, is somehow made one with them, outside time and space and all distances. This Christian underground much itself lie outside of time, like that which it awaits.
+
+. . . Re; TO SCARE THE DEAD. A character based on Jim Pike (with quite another name). Based on firsthand knowledge I had of his private life, e.g. with Maren in the Tenderloin, and the kind of man he was. This could be a major, if not the major character; but it would not be he who would have the Experience; that would be had by another, perhaps after
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore, Time, Harpax, After, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Another, Pike, Such, Voice, Jim Pike, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During, Whereas
+
+---
+### Line 1719-1727 (Match: 'Secret')
+**Folder**: part time
+
+```text
+121
+this fine bishop person dies (is killed?). Thus, in addition to the whole Essene awakening in the mind theme, we have the theme of the great bishop concerned with civil rights who mysteriously dies suddenly. What occurs to me right off is that the viewpoint character (Nicholas Brady) knows the bishop in the capacity of spying on him for the authorities (due to the bishop's civil rights stands and associations). Later, after the bishop dies, Brady had The Experience, and it seems (or has) something to do with the late bishop. Maybe there is in it information as to foul play "murder most foul!") about the bishop's ostensively accidental death. Despite the fact that he is a government part time agent, the v-p character would be disturbed; this goes too far. Also, we can have it that the bishop's son "came back to him in seances," and there was some talk about maybe the bishop coming back; this is much like the ghost of Hamlet's murdered father, of course. But anyhow it turns [i]t there is no connection with the dead bishop, although that seemed to be a possibility.
+
+Still, this is what it seems to be: saint possession; i.e. psychic possession by a dead saint. However, it turns [i]t that Brady had expereinced that which the bishop had all his life wanted to achieve and failed to. Brady is in contact with the Holy Spirit. (Now, we have to give a reason. The only one that would work would be, the bishop was murdered; the republic is in danger. You can't murder a bishop without God getting angry and telling people; you can't keep it hushed up.) (Psalm 116: "The death of his servant is precious to the Lord God.") (The final denouncement is this: the bishop, messing around with the Qumran scrolls, had planned to receive into the right hemisphere of his brain the mind of a specific Essene of 2000 years ago; this is why the bishop was hanging around the Qumran Wadi. However, his death aborted this plan. So the ancient Essene personage came to life in someone close to the bishop instead. The value of this resurrection to the bishop and to the modern world would be that the lost, secret archane truths about Jesus would be restored. Vide the ICC. I can go into the business about the Qumran men being possessed by Elijah, etc.
+
+I think the "Hamlet's father crying murder most foul" should turn out to be another false lead, since it isn't the bishop back at all. This goes with that false occult idea, namely that it is the bishop's ghost from the "other side," telling him how he was done in. The truth turns out to be much more exciting (in my opinion), but we can get a lot of mileage out of this.
+
+To shore up the plot: Brady inherits (why?) a lot of the Bishop's correspondence...oh sure, in his capacity for the government; he is power over it doing intelligence work (even though the bishop is dead, there may be something useful about the activity of others). Brady has told the widow that he wants the notes "to type them up" or some similar pretext. (This sounds like THE STRANGE CASE OF CHARLES DEXTER WARD, in a way. Anyhow, explanation is more djinn and bottle-like.)
+```
+**Co-occurrences**: Spirit, Holy, Jesus, Holy Spirit, However, Lord, Elijah, Father, Maybe, Like, World, Since, Only, Time, After, Mind, Even, Anyhow, Something, Being, Although, Great, Without, Essene, Brain, Still, Part, More, Another, Most, Death, Would, Other, Hamlet, Back, Have, Life, Information, Instead, Later, Government, Truth, Dead, Suddenly, Qumran, Final, Right, Someone
+
+---
+### Line 1745-1753 (Match: 'Secret')
+**Folder**: part of
+
+```text
+Needs Review
+123
+"Not acceptable" sounds like "not acceptable to the world" or "not acceptable to those to whom it was offered"; i.e. she, Saint Sophia, the Wisdom of God, was rejected, and so departed from the world; i.e. died. So this second, collateral sentence is very meaningful; we learn why the Logos or Wisdom of God left the world, which has been very puzzling. If we read Holy Spirit, then the Mission is correct; the Holy Spirit left, perhaps fairly early, but we --I mean I-- know why, because men did not accept it in the sense that they did not find it to their liking. Thus the Mission is correct, unless "Saint Sophia" refers strictly to Christ alone. Perhaps it does. Christ is said by John to be the Logos. Anyhow, Rome won; we lost. But another try is going to be made. Or is now being made. I am left with hope, and with faith. Now, if I can only get my love together I'll have it right, finally (vide Luke, pps 1121 -- 1127).
+
+The above problem could be resolved this way: the Holy Spirit came to remind men of, and teach them about, the wisdom of Christ; i.e. as a follow up of His mission. But He and His wisdom were not acceptable and were rejected, despite the Holy Spirit which did not force it on me but left them free to choose. They chose to reject it, and finally either the Holy Spirit departed, or anyhow slid out of s[l]ight and worked (as the Roman Church says) in secret only. When Christ told the desciples of the Helper to come, He meant a Healper to help them spread the good news. The defeat then of the Holy Spirit was a continuation of the defeat He suffered. And for the same reason; the doctrines, through the desciples, failed as they had when He was alive speaking [to] them.
+
+. . . It is evident that the Holy Spirit could induce remembrance where formal knowledge, buy the person, was absent; i.e. to perform the mass one has formal knowledge. But suppose no mass is performed and no formal knowledge (memory of as handed down in traditional ways) remains? The el[l]ipsis can be abolished by the Holy Spirit, who informs inwardly of what has been totally and truly forgotten; the break is healed. Remembrance out of nothing, so to speak; it teaches what is not known. Does, sui generis, the work --efficacy-- of the mass; this could be for other cultures who never knew of or heard of Christ (which explains my original obsession with the realization, my recognition of its overwhelming importance, that a priori I had discovered the forms of a religion, Christianity, which seemed impossible. "As if a native of South America had begun carving crucifixes," I kept saying, "and talking about Galgotha." Without having any way of ever having heard of Galgotha, etc. What a miracle -- how extraordinary, opening up a totally new view of the universe, that these forms and this knowledge could arise a priori in a human mind as a category of thought.
+
+Thus I have arrived at the same results, by the direct proof (it evidently was/is the Holy Spirit) and indirectly: what one would experience if the Holy Spirit descended and filled one, and I get identical results; also, I have now excluded everything else I can think of or have heard of. They key is in John, where he quotes Jesus saying that the Holy Spirit (the Comforter) will bring remembrance -- which for us means of a time 2000 years ago, in a province of Rome.
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Roman, Wisdom, These, Perhaps, Like, World, Because, Only, John, Time, Faith, Good, Mind, Could, Does, Anyhow, Suppose, Luke, Being, Everything, Either, Without, Nothing, Those, Their, Church, Another, Through, Love, Universe, Finally, Will, Would, Other, Mission, Were, Very, Have, Memory, America, Having, Unless, Knowledge, Comforter, Human, Evidently, Free, Right
+
+---
+### Line 1967-1975 (Match: 'Secret')
+**Folder**: book and
+
+```text
+This would explain the "Is but is not" as follows: the tangible secular evil was defeated, but in metaphysical form it remains in power; invisible because metaphysical, real because still there, and what we took to be the adversary was only its tangible physical embodiment on earth -- the Roman Empire. Now we have the invisible metaphysical counterpart, which is worse, with us. Two Romes, then, must be distinguished: the "secular forces of evil" vs their invisible triumph here.
+
+. . Capt Cook's ship, which I couldn't see until it fired on me (the Xerox letter). A world empire.
+
+. . . Now I know the meaning of my dream of the old encyclopedias, as Kleo's family's house. In them there had been the speeches of General Sherman in which he set forth the (new) Roman totalitarianism. In my dream it was said that "Andrew Jackson," dated 1837, hadn't ever actually dies, was in fact still alive. This meant still alive are the ideas of Sherman; and those ideas are a radical, vicious romanism-centralism. It was then, in 1863 or so, that the rebirth of Rome took place; here, then carried to Germany. This was the same Washington government and same army generals who exterminated the Indians. This can now be seen to dovetail with my dreams of the sibyl and other Roman constructs. There dreams, and my experience, let me in on the (mystical, metaphysical) Secret (about the world; as said regarding Gibbon: "Rome never really did fall. To think it fell is an error."). The Secret: we are in a Roman prison. And help is on the way. This is the meaning behind the idea of the Kingdom of Heaven --the return of the rightful King-- to suddenly come. First, you must understand our desperate situation.
+
+Last edit over 5 years ago by Harpax
+144
+Needs Review
+```
+**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Empire, Roman, World, Fall, Because, Prison, Only, Earth, Harpax, House, Sibyl, Those, Still, Their, Heaven, Real, Actually, Would, Other, Have, Evil, Government, Suddenly, Dream, Until
+
+---
+### Line 2000-2008 (Match: 'Secret')
+**Folder**: part of
+
+```text
+Response: This doesn't wash because many human cultures don't know that God came here and suffered and had to endure all this, and some know and don't believe, and don't see how it helps anyhow (supra)
+
+Conclusion: Christ did not come here to suffer. His suffering was also not for the purpose of ending or easing ours, because it didn't and doesn't. His suffering was a price he had to pay in coming here, just as we have to pay it. We dwell on this too much. He must have had a purpose that had nothing to do with human suffering, because his coming here had no effect on it one way or another, and that is the plain fact. Whatever purpose was worked remains invisible to us, and probably beyond our comprehension. He probably altered the ontology of the world, or at least widened crucially the power which our assisting spirit Santa Sophia has to offer. This, however, remains a damned world. He did not take the curse off it.
+
+(3) A good argument is that the wisdom books (e.g. "The Wisdom of Solomon") state that St. Sophia could confer immortality, but the incarnation actually proved it. The Logos used itself as a demonstration, as a guinea pig. It resurrected itself, under the most adverse, even dreadful conditions. For the early Christians, the message or meaning was probably clear: what had been claimed in the scriptures had now been proven. They could turn to those scriptures and know that they told the truth, probably not only in that regard but in all regars, although that would be the most vital to them. Two things must be remembered: Christianity was a Greek mystery religion, and the purpose of Greek mystery religions (at that stage) was not to confer immortality, but to reveal it and then utilize it as a means to union with God. The line in Muller's poem about death, "Die noch keiner kam zuruck" is wrong because the Logos or Santa Sophia or the Holy Spirit simply arranged its own birth on Earth, lived as men lived, died as men die, covered all bases, made clear both its divinity and its humanity (it was woman-born and material) and then returned in a ubiquitous plasmatic transcendent body, which Thomas couldn't recognize because the "body" of the Logos does not resemble ours. That is an anthropomorphism. However, nowhere in all this was a promise that our corruptible bodies would be immortal. We had to put on other bodies; this was Paul's secret, there are other bodies, or another kind. This transformation, from the first to the second, will not slowly take place but will be a sudden transformation. We are sown in the grave as seeds, as Christ said, and will rise in collective glory.
+
+Last edit over 5 years ago by Harpax
+147
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Christianity, Holy Spirit, Sophia, Paul, Greek, However, Wisdom, World, Because, Only, Earth, Harpax, Good, Book, Even, Could, Does, Anyhow, Just, Both, Although, Probably, Santa, Nothing, Those, Another, Most, Actually, Santa Sophia, Death, Will, Would, Other, Beyond, Whatever, Under, Many, Have, Things, Body, Truth, Human, Doesn
+
+---
+### Line 2189-2197 (Match: 'Secret')
+**Folder**: part of
+
+```text
+We're not in the hologram; we ourselves are hologramatic.
+
+. . . We seem to be confined within a metal prison, but something vital has secretly penetrated the enclosing ring around us and fires assistance and advice to us in the form of video and audio signals. Neither the prison ring is visible to us nor the signal system which emerge as if from cores drilled through the metal; they're in color. Thus, our prison was breached a long time ago. Help is here, but we still remain here within the prison; we aren't yet free. I take it that the camouflaged invisibility of the signals is to keep the creator of the prison from knowing that help is here for us. The drilled out "tubes" through the prison wall to us can't be discerned; they blend perfectly, as if alive (the signals too seem alive). It is like the penetrating roots of a plant (!!!) which over the centuries have grown through rock or concrete. These root tips come through and into here, the enclosed open space where we're kept, and then they burst into colored changing light patterns which register on us subliminally.
+
+The core tubes are at right angles to the prison walls. They are possibl[y] very long -- light years long. The first great well-kept secret is that we are slaves, in prison. The second, that help has quietly breached through the walls to inform us. To teach us how to lift the siege -- what to do and when. Really, all it can do is inform teach and educate us; it has no power. The prison builders have all the power. In the James-James dream, the scouts coming in through all the many doors: penetrating the wall, so to speak, of the building which we were all in, thousands of us. And I told them we needed medical assistance. Perhaps their help is passing or will pass from information only to their actual presence here (as referred to by the St. Sophia news). In the dream they were decidedly motorized (modern technology?). They came at a point when I felt desperate over our medical situation. Maybe that actual time has now arrived (in my life, anyhow).
+
+. . . In the dream, James-James is amazingly like a magician, who is dazzling us with his act. What kind of Creator is this? Certainly the
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Form, Sophia, Well, These, Perhaps, Maybe, James, Like, Prison, Only, Time, Harpax, Light, Anyhow, Something, Great, Creator, Still, Their, Through, Certainly, Will, Were, Very, Many, Have, Life, Information, Neither, Dream, Free, Right
+
+---
+### Line 2234-2242 (Match: 'Secret')
+**Folder**: BOOK OF
+
+```text
+Last edit over 5 years ago by Harpax
+167
+Needs Review
+167
+There is a recapitulation, in the developing forms on our planet, toward a pre-existent ultimate form; it is moving backward to re-establish, as if working in the opposite direction from linear time. (Evolution is negentropic.) The lesser or low[e]r can only give birth to the greater or higher if the higher is already there -- in dormant form, somehow, within as a secret entelechy. Evolution, viewed this way, is a return. We are witnessing a process backward. (Our view is somehow reversed.)
+
+. . . Suppose in TO SCARE THE DEAD he meets someone else to whom this has happened (i.e. the resurrected Essene saint)? In fact...a growing although still small community of them (again)? I could approach the novel from a multiple character viewpoint: one is a college teacher, another in the record business, etc. A taxi driver...what might be of plot value is that when the "possession" first happens, the character & the reader assumes it is a ghost or an ancestor (the latter reincarnation), and we run with this view -- but viola! A second character, unrelated to the first, experiences the identical entity taking him over, too; also, we see that second person's "possessioned" activity dovetailing with the inscrutable (to himself) actions of the first. Big idea: we have the phone number of person 2 come to person 1 in a dream; after fighting it for days he finally calls!
+
+. . . Supra para one. Perhaps we are rushing toward the recreation of God the Prime Mover who will then again create the universe. The systole and diastole of the universe. But in any case I say the God who was born in my soul was/is not the suffering servant, the martyred god, the dying god, but the living god, dangerous to his Adversary rather than its victim. This is indicitave of what is to come in terms of the form, nature, person of God. It is a hot, vitalistic, angry God, ready to do battle ("Jehova of armies," perhaps). Subjectively I sensed: the time to do battle has arrived. Not to run, to be destroyed, but to fight and achieve victory of a final sort.
+```
+**Co-occurrences**: Form, Perhaps, Only, Time, Harpax, After, Could, Again, Suppose, Although, Himself, Viewed, Essene, Still, Another, Soul, Living, Universe, Finally, Will, Somehow, Have, Days, Dead, Greater, Dream, Final, Someone
+
+---
+### Line 2240-2248 (Match: 'Secret')
+**Folder**: BOOK OF
+
+```text
+. . . Suppose in TO SCARE THE DEAD he meets someone else to whom this has happened (i.e. the resurrected Essene saint)? In fact...a growing although still small community of them (again)? I could approach the novel from a multiple character viewpoint: one is a college teacher, another in the record business, etc. A taxi driver...what might be of plot value is that when the "possession" first happens, the character & the reader assumes it is a ghost or an ancestor (the latter reincarnation), and we run with this view -- but viola! A second character, unrelated to the first, experiences the identical entity taking him over, too; also, we see that second person's "possessioned" activity dovetailing with the inscrutable (to himself) actions of the first. Big idea: we have the phone number of person 2 come to person 1 in a dream; after fighting it for days he finally calls!
+
+. . . Supra para one. Perhaps we are rushing toward the recreation of God the Prime Mover who will then again create the universe. The systole and diastole of the universe. But in any case I say the God who was born in my soul was/is not the suffering servant, the martyred god, the dying god, but the living god, dangerous to his Adversary rather than its victim. This is indicitave of what is to come in terms of the form, nature, person of God. It is a hot, vitalistic, angry God, ready to do battle ("Jehova of armies," perhaps). Subjectively I sensed: the time to do battle has arrived. Not to run, to be destroyed, but to fight and achieve victory of a final sort.
+
+. . . Christianity was a Greek mystery religion. All Greek mystery religions derived from the worship of Dionysos. The central event in the worship of Dionysos was being possessed by the God. The central theme in Christianity is the reaching or entering "The Kingdom of God." Is the "Kingdom of God" their name for being possessed by God, or their God, whatever? Achieved at the feast of agape, during communion? The God who died reborn -- in each person? Of importance: to learn whether Christ or God is meant here; i.e. which possesses you, if this be so? Which of the two of them? Did Christ claim to be a God? It seems evident to me that Jesus or Christ did so claim; i.e. he was a lunar god who died and came back; men don't do that. Tammuz, Adonis, Osiris, et al. This is the god, who was slain and returned; or more precisely, the son of god, as Zagreus was to Zeus. Yet, no early Christians talked --or talked publically-- about having reached/entered/achieved the Kingdom of God. Was this to fool the Romans and all outsiders? Was it their secret doctrine that they were in fact achieving this union with God, at the agape? It looks to me like Meister Eckhardt experienced their secret 1000 years later, after it had been squelched. The possibility of entering the Kingdom is here now.
+
+Last edit over 5 years ago by Harpax
+168
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Jesus, Christianity, Form, Kingdom, Greek, Roman, Dionysos, Perhaps, Like, Time, Harpax, After, Could, Again, Kingdom of God, Suppose, Zagreus, Being, Although, Himself, Essene, Still, Their, More, Zeus, Another, Soul, Living, Universe, Finally, Will, Were, Back, Whatever, Have, Later, Days, Whether, Having, Dead, During, Dream, Final, Someone
+
+---
+### Line 2250-2258 (Match: 'Secret')
+**Folder**: BOOK OF
+
+```text
+In fact, since Meister Eckehart beyond all doubt was absolutely ignorant of Greek mystery cults, ignorant of Greek itself, then his description of what and where the Kingdom of God is, constituting as it does an exact description of the Dionysian kind of god-possession, ratifies as a detached observer's analysis that indeed this is what the early Christians sought for and were covertly discussing; that in fact this is what Christianity, like the prior mystery religions, is all about. Meister Eckehart rediscovered what was lost, and at the same time tells us explicitly what was lost, without him probably having realized that there had been a deliberate suppression of this knowledge, and the experience as well.
+
+I've again read the EB article on Mystery Religions; those religions, esp. the Orphics, stressed anamnesis (Plato did, too, and those following him, as did Pythagorias). I ask this, as perhaps the most important question: what is the connection between being possessed by the Deity (which I aver is the same as finding the Kingdom of God), and recollection of ones former but forgotten divinity, as in Orphism and neoplatonism? Is it a becoming for the first time, or a return? Is it new or old? Receiving or restoration? This is important because if it is a restoration then we are or anyhow were divine in nature, and lost it or forgot it, and can retrieve or remember it, get it back. Of course, I again wonder, How, if we are divine, did we come to forget that? This is, of course, the concept of the Fall, this fact, if it is a fact; we fell and forgot, having descended into nonbeing which is the same as forgetfulness. Here now I am back to my early conjectures and ponderings, and there seems no end to this, no solution. I know that I experienced anamnesis, which suggests the recollection (neoplatonist) view. As set over against the Christian view...although for us now, 2000 years later, it would now carry the aspect of restored memory -- of events 2000 years ago; i.e. the Savior, Jesus Christ. This is what confuses me. I remember a Savior who told us it was a new experience. I remember his new message -- observe the paradox. "In a crypt 2000 years old I have discovered new news!"
+
+. . . Egyptian statement: "three gods. As Amon he is hidden for mankind; as Re he is visible in the sun; as Ptath his body is the world," the last meaning he is immanent, as Ptath, here. But it's all One. The hidden god: Deus Absconditus. Hmmmm. "He hides himself for them," i.e. mankind. Absconditus specifically means carefully concealed or hidden or secret, not just happenstance so. For us he is hidden? For our benefit? I read this as: as Re he is transcendent. As Ptath he is immanent. As Amon -- "the workman is concealed in the workshop."
+
+. . . "Tumbled stones," natural laws the same for all living things; would tend to wear them down into similarity. Living things must thrust up against the ubiquitious shaping force to attain diversity.
+
+. . . Magician/Merlin/James-James/Wise Old Man/God/alchemist. I am sure that Jung lists the magician as a permutation of the Wise Old Man. But anyhow, the astrologer-alchemist Erasmus who was laughing at me -- that was a version of God, I think; one of His thousand faces (as filtered through the soul, or the symbolizing process of the unconscious).
+```
+**Co-occurrences**: Christ, Christian, Jesus, Christianity, Plato, Kingdom, Greek, Well, Perhaps, Plotinus, James, Like, World, Since, Fall, Because, Time, Savior, Does, Anyhow, Just, Again, Kingdom of God, Being, Jesus Christ, Although, Orphic, Divine, Himself, Gods, Probably, Deus, Anamnesis, Without, Those, Jung, Through, Soul, Most, Orphism, Living, Deity, Would, Were, Erasmus, Back, Egyptian, Beyond, Have, Things, Body, Eckehart, Memory, Wise, Later, Having, Remember, Knowledge, Ptath
+
+---

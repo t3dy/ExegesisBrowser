@@ -1,0 +1,345 @@
+# Evidence Packet: However
+
+- **Category**: Top Term
+- **Total Mentions**: 293
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 143-151 (Match: 'However')
+**Folder**: book the
+
+```text
+Last edit over 5 years ago by Zebrapedia
+9
+Indexed
+9
+It’s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the vestment of my saint statue – that was like it: the bursting forth into life of Spring, in the midst of stark winter. Now, this is obviously a mescaline type of experience. We know that. And I was loaded. And yet, perhaps Ms. Fisher who wrote THE RED FEATHER based that episode on something she experienced once, and in those days no one in the U.S. took mescaline; no one got loaded. The reproach, “Phil, you experienced that because you wanted to; i.e. the swirling vines of new life” is no better an argument than, “You experienced selling UBIK to Doubleday because you wanted to.” Also, “You experienced it because you read about something like that years ago in a child’s book” – of what real meaning is this argument, since we don’t know how the passage got into Ms. Fisher’s novel in the first place? It doesn’t explain why I recall that section, which was minor, which in the novel just showed the child that her difference from the other children included having strange powers; it was exciting, but not good. She didn’t want to be different. (We knew, because of the scene of the baby exchanging.) Obviously, in that scene, Ms. Fisher intentionally or otherwise incorporated something of the Fruhlingszauber: the magic of springtime, as it really would be: those poppies would have sizzled in the snow, being hot. They were hot with life; the fact that Ms. Fisher saw the equation death/winter/cold versus life/Spring/heat isn’t an invention of her head; it is an actual truth. She did, however, equate magic with springtime; fairy power used to turn the winter to spring, to bring life, and therein she touched on something very deep, at the heart of her small readers, like me, who were astonished and touched, but didn’t know why (we knew nothing of the mystery or fertility religions of Greece et al, did we?).
+
+Magic equals life equals warmth equals poppies. Now, poppies are an exotic flower, with intense colors, identified with foreign lands (this I’m sure is why Ms. Fisher chose them).
+
+Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
+```
+**Co-occurrences**: Ubik, Indexed, Perhaps, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+
+---
+### Line 226-234 (Match: 'However')
+**Folder**: book of
+
+```text
+I proofed like mad on this, as you’ll see, to cut down on your work. On author to editor grammar query; you’ll note.
+
+Glad you and Paul potlacked eached other into getting tubby. I feel everyone should eat lunch forever and get tubbier and tubbier. Did I really tell you I was a reincarnation of Winnie-there-Pooh? But he’s not dead! So how can that be? I must have made it up I do that, on occasion.
+
+Yes, CONFESSIONS OF A CRAP ARTIST is a fine novel, and I think Paul and David know what they are doing. I shorten the form by which I refer to my novels in business letters, and in conversations (e.g. FLOW MY TEARS, THE POLICEMAN SAID becomes TEARS; and of course DO ANDROIDS DREAM OF ELECTRIC SHEEP? Is referred to back and forth by me and my agent et al as SHEEP or sometimes, in error, ANDROIDS. I know find myself saying, however, caught in a matrix of my own devising:
+
+“I sure think CRAP is wonderful. I’m positive that CRAP will excite the literary market in New York.”
+
+Tessa says in her raspy way,
+```
+**Co-occurrences**: Tears, Form, Paul, Like, Tessa, Will, Other, Back, Have, Electric, Dead, Dream
+
+---
+### Line 258-266 (Match: 'However')
+**Folder**: Unknown
+
+```text
+Indexed
+15
+food just when it’s ripe and perfect. The dog tries to warn the family, but it’s always early in the morning and his barking just annoys them. The story ends when the family decides they have to get rid of the dog, due to his barking, at which point one of the Roogs or garbagemen says to the dog, “We’ll be back to get the people pretty soon.” I never could understand why no one but Tony Boucher could understand the story (I sent it to him in 1951). I guess in those days my view of garbagemen was not shared universally, and now in 1971 when the high school class discussed it with me, I guess it is. “But garbagemen don’t eat people,” a lady editor pointed out to me in 1952. I had trouble answering that. Something comes and eats up people who are sleeping in tranquility. Like Tony. Something got him. I think the dog, who cried “Roog. Roog,” was trying to warn me and Tony. I got the warning and escaped – for a while, anyhow – but Tony stayed at his post. You see, when you’re so scared of the universe (or Roogs, if you will) to stay at your post takes courage the kind they can’t write about because (one) they don’t know how and (two) they didn’t notice in the first place, except maybe Ted Sturgeon, with all his own love, and his total lack of fear. He must have known how scared Tony was, and to be that scared and for the Roogs to get you – it’s so symmetric, isn’t it.
+
+However, Tony is still alive, I discovered last year. My cat had begun to behave in an odd way, keeping watch over me in a quiet fashion, and I saw that he had changed. This was after he ran away and came back, wild and dirty, crapping on the rug in fear; we took him to the vet and the vet calmed him down and healed him. After that Pinky had what I call a spiritual quality, except that he wouldn’t eat meat. He would tremble whenever we tried to feed it to him. For five months he’d been lost, living in the gutter, seeing god knows what; I wish I knew. Anyhow when he was changed – in the twinkling of an eye; that is, while at the vet – he wouldn’t ever do anything cruel. Yet I knew Pinky was afraid, because once I almost shut the refrigerator door on him and he did a 3 cushion bank shot of himself off the walls to escape, and clocked a velocity unusual for a pink sheep thing that usually just sat and gazed ahead. Pinky had trouble breathing because of his heavy fur and what they call hairballs. Tony had asthma terribly and needed it cold. Pinky would sit by the door to get the cold air from under the crack, and struggle to breathe. I will not write a teaser article here; Pinky died of cancer suddenly; he was three years old; very young for a cat. It was totally unexpected. The vet diagnosed it as something else.
+
+I hadn’t realized Pinky was Tony Boucher, served up by the universe again, until I had this dream about Tony the Tiger – the cereal box character who offers you cocoa puffs. In my dream I stood at the one end of a light-struck glade, and at the other a great tiger came out slowly, with delight, and I knew we were together again, Tony the Tiger and me. My joy was unbounded. When I woke up I tried to think who I knew named Tony. I had other strange experiences after Pink died. I dreamed about “Mrs. Donlevy” who was incredibly tall – I could see only her feet and ankles – and she was serving me a place of milk on the back porch ? there was a vacant lot where I could roam at will, forever. It was ? Elysian Vacant Lot, which the Greeks believed in, but just my size.
+```
+**Co-occurrences**: Indexed, Greek, Maybe, Like, Because, Only, After, Light, Could, Pinky, Anyhow, Just, Something, Once, Again, Tony, Himself, Great, Those, Still, Living, Love, Universe, Will, Would, Other, Were, Very, Back, Under, Have, Days, Except, Sturgeon, Suddenly, Dream, Until
+
+---
+### Line 266-274 (Match: 'However')
+**Folder**: book in
+
+```text
+16
+Also, the day Pinky died, at the vet’s, that evening as I stood in the bathroom I felt my wife put her hand on my shoulder, firmly, to console me. Turning, I saw no one. I also dreamed this dream: I had the album notes for “Don Pasquale” and at the end the conductor had added a note: five string of cat gut, like a stave. It was a final hello from Pinky who was Tony Boucher; in the dram the album was an old 78 one, a favorite of Tony’s.
+
+Tony or Pinky, I guess names don’t count, was a lousy hunter all his life. One time he caught a gopher and came up our apartment stairs with it. He put it on his dish, where he was fed, and the gopher ran off. Tony felt that things belonged in their place, an obsessively orderly person; his books were arranged the same way – each book in its exact place. He should have tolerated more chaos in the universe. However, he recaught the gopher and ate it.
+
+Tony, or Pinky, was my guide; he taught me to write, and he stayed with me when I was sick back in 1972 and 1973. That’s why my wife Tessa brought him over, because I had pneumonia and needed help and we had no money for a doctor (I think now in that regard I was lucky; he would have told me I had a bruised rib). Pinky used to lie on my body in a transversal fashion, which mystified me, until I realized that he was trying to figure out which part of me was sick. He knew it was just one part, around the middle of my body. He did his best and I recovered but he did not. That was my friend.
+
+Handwritten in PKD’s hand: To A & B P 4
+```
+**Co-occurrences**: Like, Because, Time, Book, Pinky, Just, Tony, Tessa, Part, Their, More, Universe, Would, Were, Back, Have, Things, Life, Body, Dream, Final, Until
+
+---
+### Line 302-310 (Match: 'However')
+**Folder**: part of
+
+```text
+Complete
+19
+Dear Claudia,
+
+I've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.
+
+Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected the dead or sleeping man the way the forces of spring/nature revive all sleeping roots, bulbs, trees, etc.; all nature which is not man, and that the cyclic small year is to nature in general as the great year (200 B.C. to 2000 AD) is to the species man. Therefore, in my novel, TO SCARE THE DEAD, if the "Essene" were to awake from his 2000 year slumber, he would bring spring to the character, Nicholas Brady (the name I've chosen for my protagonist), and no separation can be made between this resurrection and the deity Zagreus-Christ and what a bulb esxperiences. So:
+
+In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: his job requires him to fake what he is, to be inauthentic inasmuch as he fronts for the government re the recording artists he deals with. This has produced a schism within him. There can be others, but basically he leads a typically modern inauthentic schismatic existence --note existence, not life. There is no growth, just the constant revolution of the wheel of lineal time which accumulates only dust. So:
+```
+**Co-occurrences**: Christ, Complete, Dionysos, Perhaps, Like, Therefore, Only, Time, Book, Just, Zagreus, Great, Christos, Essene, More, Deity, Would, Were, Further, Life, Claudia, Spring, Fake, Government, Dead
+
+---
+### Line 308-316 (Match: 'However')
+**Folder**: book as
+
+```text
+Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected the dead or sleeping man the way the forces of spring/nature revive all sleeping roots, bulbs, trees, etc.; all nature which is not man, and that the cyclic small year is to nature in general as the great year (200 B.C. to 2000 AD) is to the species man. Therefore, in my novel, TO SCARE THE DEAD, if the "Essene" were to awake from his 2000 year slumber, he would bring spring to the character, Nicholas Brady (the name I've chosen for my protagonist), and no separation can be made between this resurrection and the deity Zagreus-Christ and what a bulb esxperiences. So:
+
+In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: his job requires him to fake what he is, to be inauthentic inasmuch as he fronts for the government re the recording artists he deals with. This has produced a schism within him. There can be others, but basically he leads a typically modern inauthentic schismatic existence --note existence, not life. There is no growth, just the constant revolution of the wheel of lineal time which accumulates only dust. So:
+
+When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
+
+Last edit over 5 years ago by Siegman
+20
+Complete
+```
+**Co-occurrences**: Christ, Thomas, Complete, Form, Well, Dionysos, Perhaps, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+
+---
+### Line 464-472 (Match: 'However')
+**Folder**: book about
+
+```text
+Dear Henry,
+
+I had worked out beyond any reasonable doubt evidence that the ancient deity Dionysos had infused me and made me his back in March of last year. In an article to be printed in England, in a book, I was going to reveal this.
+
+However, I have discovered that I have been tricked. It is not the ancient Phrygian god of the vinetree, but Erasmus pretending to be Dionysos. My problem now is that I have toiled in vain in order that Erasmus have his little joke.
+
+To his credit, he was delighted when I abruptly guessed that it was him and not Dionysos. Still, after I had enjoyed realization of the clues which Erasmus had left along the way (all of them puns, double puns, and which I always saw solemn and heavy meaning in -- the wrong meaning leading me astray), I discovered that there are in the universe always layers below layers, and that the universe resembles nothing so much as an onion the innermost layer of which is also the outer. For instance, perhaps it filled Dionysos with mirth to pretend to be Erasmus. Would not the god of mirth get off on that? Maybe it is Dionysos pretending to be Erasmus pretending to be Dionysos. Maybe they are the same.
+
+I present you with the sort of evidence which deep within the heavy books I read seemed to indicate vast truths undisclosed to most men; viz.:
+```
+**Co-occurrences**: Dionysos, Perhaps, Maybe, After, Book, March, Nothing, Still, Most, Universe, Deity, Would, Erasmus, Back, Beyond, Have
+
+---
+### Line 470-478 (Match: 'However')
+**Folder**: book about
+
+```text
+To his credit, he was delighted when I abruptly guessed that it was him and not Dionysos. Still, after I had enjoyed realization of the clues which Erasmus had left along the way (all of them puns, double puns, and which I always saw solemn and heavy meaning in -- the wrong meaning leading me astray), I discovered that there are in the universe always layers below layers, and that the universe resembles nothing so much as an onion the innermost layer of which is also the outer. For instance, perhaps it filled Dionysos with mirth to pretend to be Erasmus. Would not the god of mirth get off on that? Maybe it is Dionysos pretending to be Erasmus pretending to be Dionysos. Maybe they are the same.
+
+I present you with the sort of evidence which deep within the heavy books I read seemed to indicate vast truths undisclosed to most men; viz.:
+
+In a dream I was shown that the word "Jesus" is a code, a word made up and not a name at all; those reading the text who knew (the Quamran men, for instance) would see "ZEUS" and "ZAGREUS" combined into the integer "JESUS". It is a substitution code, I think they call it. These idle games of Erasmus, however, had grown stale to me once it was revealed how I'd been taken in by my own proclivity for profundity...however, as I went to get a spelling right for this letter, I found these remarkably similar textual passages:
+
+"...I am the root and scion of David, the bright morning star." (REVELATION 22:16, Jesus describing himself.)
+
+"Of all the trees that are He hath his flock, and feedeth root by root, The Joy-god Dionysos, the pure star That shines amid the gathering of the fruit." (In Pindar, a favorite of Plutarch.)
+```
+**Co-occurrences**: Jesus, Dionysos, These, Perhaps, Maybe, After, Book, Once, Zagreus, Himself, Nothing, Those, Still, Zeus, Star, Most, Revelation, Universe, Would, Erasmus, Dream, Right
+
+---
+### Line 561-569 (Match: 'However')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Harpax
+35
+Needs Review
+35
+The anamnesis phenomenon, especially because triggered off by an external disinhibiting stimulus, suggests not only an entire "second stage" in the human being unsuspected, but held in reserve, but also that the organism as model or paradigm may explain human existence; that the disinhibiting signal was intentional suggests a transpersonal entity at work; and most of all, a heirarchy of functions leading entirely out of the visible (i.e. space-time) universe, ala Plotinus. However accurate the Neoplatonistic and Gnostic might be, our concept of universe as organism (and universe of space-time within larger universe also stages or levels within thinking organism) is a powerful view, here, to account for these events; the human as microbearer of information ala DNA coding: the cell with can replicate the entire organism...it must wonder what all that info in its head is for. Not only, Where does this info come from? And How does it get into ones head, but What is it for? Certainly not to replicate the individual. It's a sort of micro-Logos (Logos here as master blueprint or plan).
+
+The fish symbol didn't perhaps "disinhibit" me, i.e. act as a disinhibiting stimulus to release emgramming; it, more accurately broke the power of this world over me. It deautomatized and released.
+
+It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
+```
+**Co-occurrences**: Logos, Gnostic, Fish, These, Perhaps, Plotinus, World, Because, Therefore, Only, Time, Harpax, Does, Reality, Being, Anamnesis, More, Most, Certainly, Universe, Back, Information, Freedom, Info, Human
+
+---
+### Line 659-667 (Match: 'However')
+**Folder**: part or
+
+```text
+The "Logos Effect," discovered about 1600 when explorers brought back to Europe information about cultures and tribes which had never had contact with Christianity. Many of these cultures and tribes had religious beliefs and rites so similar to Christianity that, astutely, the 17th Century theologians saw the possibility that the explanation lay in the long-abandoned idea of the Logos as Plan (Philo, et al), prining out Salvation Ideas for every culture, every race.
+
+UBIK does indeed to resemble Dr. NK's time theory that one knowing his time theory could not escape noticing this when he read UBIK (for example, the scientific explanation of Ubik assigns a positive value, in terms of life-sustaining or giving energy, to a counterclock spin, which is virtually a parody of Dr. NK's concept of lefthandedness being life supportive). This would bring UBIK to their attention (as it later brought Dr. NK's theory to my attention). But in no way, probably, was I influenced by anyone telepathically, etc., even though UBIK was written in 1968, the year Dr. NK's theory was released in the US in English. Evidently this is an example of the "Logos Effect" in harmonizing and edifying all men regarding certain "salvation" or life-giving knowledge, goals and values.
+
+However, it is equally probable that in March 1974 an actual concerted telepathic transmission effort was made in Leningrad vis-a-vis me and my ideas, perhaps to test out and see if I was telepathically sensitive.
+
+This attempt, if indeed it took place, was more of a failure than a success, inasmuch as I think what came as a result of this was my developing an "instinctive" antipathy toward the Soviets, under the perhaps correct impression that they'd made an effort to "improve" (i.e. coerce) my ideas. The total effect on me was beyond doubt beneficial, both in terms of acquired (received) energy and acquired (received) information and comprehension; how much of this was a collateral result, added onto the experiment by the Logos itself, I have no way of assessing. Somebody likes me; if not the Soviets, then the Logos; maybe both do. I underwent a period of ordeal, but the results left me healthier and freer that I'd ever been in my life. I wish I could have such an experience again. I'd recommend and welcome it -- everyone should have it. But probably it was a composite experience: one part delibaratedly directed from Pulkovo, another added by the Logos, a third derived from my own inner entelechy which was speeded to completion by the reception of all that good time-energy. It was a multiple cure, in at least three directions (linear space, down from above, upward and out from within). Also, the vernal equinox had arrived: springtime. The slumbering God, asleep but not dead -- he was waking up anyhow.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Ubik, Logos, Christianity, These, Perhaps, Maybe, Time, Harpax, Good, Even, Could, Does, Anyhow, Philo, Soviet, Again, Both, Being, March, Probably, Part, Their, More, Another, Such, Would, Back, Beyond, Under, Many, Have, Life, Information, Later, Knowledge, Dead, Salvation, Evidently
+
+---
+### Line 744-752 (Match: 'However')
+**Folder**: part segment
+
+```text
+We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one of the RUs, one of the sources. This is very strange (paradigm is FLOW MY TEARS, in which 3 separate superimposed but somewhat different universes are lived in between first and final page of pt 1 to 3. How is this overlap achieved? How does one exit from one and into another? Who manages all this? Why?
+
+For all I know, there are many more RUs than two. It could be like the Selectric in terms of letter and numbers: hundreds. This is really weird. And what has time to do with all this? It would seem very little (another example: Mr. Tagomi in the park. These alternate presents, maybe. An infinity of splits within splits, like each half halving again into infinity, and each somewhat different --the Rhipadon fan-shape 3-part segment which divides and each had 3 parts: left, middle, right. Well, how about this: left is RU One; Middle is compound; Right is RU Two. That makes the compound, at epicenter, the Tao. This gets us into Taoism fast.
+
+However, on this Rhipidon model, 3 RUs would suffice, and still explain like my 3 lives dream (poor, like I have, rich). Also, this would equate the mid or Tao with Apollo's Golden Means, his Harmony and Balance. So our world is stabilized from dual sources, like the two-rotor system I saw, in the clock face, with the tiller. This is still the model; our universe is maintained in equilibrium, fed by the two sources; my god, this is the other interpretation of Hericlitus, of palinthropos harmonie: this is the static harmony of the strung bow, or simultaneous tension, rather than successive oscillation; see outside time --seen I guess "correctly," i.e. sub specia eternitatis-- it's the strung bow. Oh jeez. Maybe the two interpretations of Fr. 51 are themselves examples of balance and equilibrium: both are true (a[n] example of itself right there; what is true of all sentences, etc.). This is one vast great point that Hericlitus wanted us to understand, along with the fact that Form One and Two meld into each other, so that these two interpretations are themselves meldable into a single -- whatever.
+
+Last edit over 5 years ago by Harpax
+47
+Needs Review
+```
+**Co-occurrences**: Tears, Form, Well, Golden, These, Maybe, Like, World, Only, Time, Harpax, Light, Could, Does, Taoism, Again, Both, Great, Apollo, Still, Part, More, Another, True, Universe, Would, Other, Page, Very, Whatever, Many, Have, Tagomi, Form One, Dream, Evidently, Whereas, Final, Right
+
+---
+### Line 849-857 (Match: 'However')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Harpax
+55
+Needs Review
+55
+The great miracle is that it is always new, and always it is the same, once more: unchanged. Suppose I play my LP of the 7th symphony until I know it by heart, and then I give it to you and you play it. You have never heard it before; to you it is entirely new, no more and no less new in relationship to my knowing it -- I mean, however many times I have played it is new independent of me, and herein lies the miracle. However many times Christ has died for man; however many people have had my experience; it was anew for me as if no one had ever had it before; in my world, it was unique, it had never happened before, and so Christ died for me solely. He is infinitely new, infinitely divisible, infinitely everywhere -- I guess he is Ubik.
+
+Each new child enjoys his sandbox as if sandboxes were first new and had never pleased and been experienced by childhood before. Thus a great truth is here: I can assimilate the phenomenon rose without in any way assimilating the rose qua rose; this leaves the rose fresh for you to assimilate in the same way, phenomenologically, leaving its true essence pristine and unchanged. I take nothing from it, since I do not assimilate it qua rosa; do you see? I just assimilate an image; thus we can see the necessity of our "reality" being made up of mere images -- it is to keep the essence of each thing from being used up. All the images in the world (food eaten, wine drunk, etc) do not consume in any way or to any degree the archetypal categories which are real. And so each new life is free to encounter and experience the images fresh, a new, as if no one ever did before. And, too, the universe is not consumed. It is exactly as if we had done one U.S. silver dollar rather than the possibility of stamping out an infinite number -- all those are merely "images" of the original dollar, but if instead of printing from dies made from the archetypal original -- suppose instead of printed editions of my books, the MSS were sold? Instead of the possibility of as many people -- well, you see what I mean; for purpose of (one) maintaining the renewal of the universe and (two) giving each person an equally fresh, untouched experience, the cave or image or film system must be employed; I guess somewhere is The rose and The every single thing, which the prints which we take to be reality come from -- God help us if they get consumed! If, as we seek, ontology should be experienced (assimilated, consumed) rather than print-out.
+
+If my world is one film then I am on film and hence immortal, like "Citizen Kane." The film can be stored and later rerun, and even other prints --and stills-- can be made. I do not joke, here.
+```
+**Co-occurrences**: Christ, Ubik, Well, Like, World, Since, Harpax, Book, Even, Just, Once, Suppose, Reality, Being, Great, Without, Nothing, Those, More, Real, Before, True, Universe, Other, Were, Many, Have, Life, Instead, Later, Truth, Free, Until
+
+---
+### Line 983-991 (Match: 'However')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+65
+Needs Review
+65
+could not wake itself up -- like the root or bulb called to by spring (by the healing warming Sun of R[l]ighteousness) it had to be summoned. If new birth or new life refers to a restoring (which it does) then at one time that Healing Sun was present and somehow withdrew, at which time the higher life in us fell asleep, in the darkness (vice the pineal body secreting the hormone melatonia, in darkness, which impedes the expansion, the growth, the coming into activity, of the latent form or entelechy). The very idea of "Wake up" implies winter time and the slumbering during winter time of all life. In some fashion, however, we once were awake and then fell asleep, which is what the Greeks meant by Lethe, by forgetfulness; forgetfulness is equated with falling asleep, and waking up with anamnesis. I guess the nourishing and feeding by the solar spermatika is understandable when one realizes that all life is "fed" by sunlight per se; this is an analog of that. It cannot wake unless fed; the first impulse rouses it from slumber, as when I felt that an Essene or someone holy who had been slumbering in me thousands of years and who possessed Sophia Pistis had awakened; the shock was of such enormity as to be beyond words to express; I can see why. I asked, Did I once live, then, and am reincarnated and now remember? No, I did not, as least not as an individual, the one born in 1928. What is shown here is the grid-like interpersonality of the Christ consciousness, that there is a kingship and a kingdom, each of us being in him and He in us. I awoke to the experience of having been there in a non material sense, beyond material space and time. I recalled no Latin, only Greek, because it is a Greek religion and a Greek spiritual rebirth experience; Rome was totally hostile to it (it came from Orpheus and Zagreus, etc).
+
+I awoke abruptly to find myself with my Savior, and then entered Fellowship with God (the dreams of the delighting void). Can it be said that this is the rebirth, accomplished by penetration of the Child by the solar spermatikos? Yes. Firebright, brought to life and sustained Greater intelligence for me, better health, longer life, even prosperity. A certain facility with life. But most of all I recall what I saw when I awakened: I saw my God, smiling in the sunlight of day. Once, during the years of the Terrible Separation, I saw Palmer Eldritch in the Sun -- I saw God backward, but sure enough, in the daytime sun: at high noon, and know him to be a god. THE THREE STIGMATA, if read properly (i.e. reversed) contains many clues as to the nature of God and to our relationship with him. I was motivated to flee, then, fearing what I saw, so vast was the breach then. It was definitely a true vision of God, but grown (to my blind sight) terrible, still, it was the beginning of my seeing; that I could see God at all, in the sun, showed that I was not entirely blind, but rather deranged. My 3 74 experiences are an outgrowth of my Palmer Eldritch experience of over ten years earlier. "Faith of Our Fathers" shows this, too; I knew Him to be real...but only in UBIK does he begin to appear as benign, especially then in MAZE OF DEATH. We were coming back together, as friends in the light-struck meadow or forest...the summertime to greet.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Ubik, Holy, Rome, Form, Sophia, Kingdom, Greek, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+
+---
+### Line 1000-1008 (Match: 'However')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+67
+Needs Review
+67
+This news (in Psy Today) about the pineal body being a light-receiving organ or gland is so exciting to me because it means that the chromatic phosphene source I experienced did not merely go to the light-sensitive part of my brain, but also to my pineal gland. Since the pineal gland is the "third eye" actually, scientifically speaking, as the Hindus believed, this is thrilling (and helps explain my dreams of the three-eyed people, also ratifying their significance and ratiofying that indeed the pressure experienced as phosphene activity did in fact travel to my pineal) anyhow, its function, as the Ency Brit says, "its obscure," but it is connected with springtime, with instinctive actions, and with total endocrine encoded metaprogramming. My brain saw the phosphene activity and was dazzled and delighted; however, probably as far as the brain itself went, it ended there. Not so for my pineal body; it responded (which is what it does; see article in Psy Today) to what it received from the optic nerve, accepting it not as entertainment but as signal. (Disinhibiting, no doubt.) Probably all melatonia production (for openers) was halted, it being an inhibiting secretion. I guess I saw the "Other Sun," which shone at nighttime, when the physical sun isn't there. It was a deliberate signal from the Sun of Righteousness, in the night, a dazzling display of its kind of light (a fire-like light, much like chromatic fire), and it tripped the pineal into things buried in our morphology for thousands of years, which the physical daytime sun doesn't trip (more that abolishing the production of melatonia and histomine, etc.). This chromatic Other Sun fire light would cause firing (sic) in the pineal body which constituted the true, absolute, ultimate purpose of that body, and place my total mind-body organism into its true, absolute, ultimate Being state. Here, I am not saying anything new about what happened, only about how it was done. But it emphasizes that the cause was external, and deliberate ("Grace of God"). And again ratifies the "Decoded N T" theory of what Xtianity was all about -- what they were after, and shows there is indeed a "Sun of Righteousness" capable of shining at night, or day if it wished, but not, repeat not, our physical sun and its variety of light.
+
+Nurturing. I am not, rather than merely being nurtured (by the Earth, etc.) but nurturing Firebright within me (a Yinnish matter: hence this is why I got K'un as my trigram, K'un and Tui, both female). This is the normal growth-line of a[n] organism: it is born, and must, as an incomplete, ungrown infant, be nurtured. Gradually, as it grows, it moves toward nurturing rather than being nurtured; final entelechy completion would be for it to nurture, be a parent. This is logically visible in all higher organisms. (We call this "giving" rather than "receiving." What the Gospels stress when they repeat the concept of giving in so many ways is nurturing, which is giving. The parent (mother or female) gives of her own body in this. The reason the Gospels emphasize the female values is not for receptivity alone (which is the first step, before implantation) but after the reception of the seed, then the nurturing. So long as one takes, one is not full grown, and certainly not yet a parent (of the Spiritual, Immortal body within). One becomes the "mother" and God Himself is the Father. And does the protecting, as one sees on the visible plane, in a family.
+
+The "receiving of the Holy Spirit" at Pentercost, in Acts, probably is this reception to the pineal body by this different light. What travels to the brain itself is only a by-product "Aurora" display.
+```
+**Co-occurrences**: Acts, Spirit, Holy, Christianity, Holy Spirit, Father, Like, Since, Because, Only, Earth, Harpax, After, Mind, Light, Gospel, Firebright, Does, Anyhow, Again, Both, Being, Himself, Probably, Grace, Brain, Part, Their, More, Actually, Certainly, Before, Mother, True, Would, Other, Were, Many, Things, Absolute, Body, God Himself, Today, Doesn, Final
+
+---
+### Line 1014-1022 (Match: 'However')
+**Folder**: part of
+
+```text
+The conduit is the optic nerve, the eye the receptor percept organs, but the message is to the pineal body, not the brain. Generally, photon light messages travel to brain-reception; but as the Psy Today article shows, some are "intended" for the pineal body (springtime).
+
+One could speculate that this is the purpose of human beings: Why We Are Here -- to serve as the recipient "female" "mothers" for the implantations of the solar spermatika, the divine seeds. Curiously, this would bear on Doris' point about the item in Catholic Agitator that Jesus' healing activities were not only primary, it was that which most crucially angered the Romans. I asked her, "Why the hell would healing these bodies for us be a primary act on His part, especially since these bodies will die anyhow; they're healed, but they aren't made into anything but what they are, i.e. they aren't immortal." Well, if these bodies are to serve as the "wombs" for the solar spermatika, then healing such a body would be "pre natal care," and certainly logically crucial. Doris and I both agreed that even without knowing precisely why healing these bodies was primary it did show that there was some vast importance to our physical lives here. Healing us would be a logical continuation of creating us in physical form in the first place; it is a stage, but now I am thinking that it is a "launch stage," a platform --I hate to say host situation, and "host" isn't right because the divine seed and the human "mother" bond into a duplex entity which is not in accord with the meaning of "host." (A baby is not a parasite in the strict sense, only when one views it in a value sense; in which case all children are parasites to their parents, and anyone in need is a parasite on the rich, etc.) (And the sick to the healthy; any outstretched hand...which brings us back to Gospel symbolism.) God is the Father; the select mortal (human) male or female is the mother, into whose spirit the seed is placed; but the human (or so Christ assured us) has plenty to gain: she/he/it isn't discarded as the seed grows, because it is a Light Body which involves eternally the human mother. Carrying "her" with it when the rotting fruit decays (dies). This is the only way our physical body can become a fruit containing a seed; otherwise it is only a flower: pretty, but temporary, ephemeral. It does not give birth (except to other ephemeral flowers, a procession of them), missing their true purpose.
+
+It doesn't seem to me that it's just speculation that it was my pineal gland to which the primary message went, and which was primarily stimulated; because: (one) the dreams of three eyed people, with the third eye being the Hindu 3rd all seeing eye of enlightenment dead-center in the forehead. And (two) the pineal gland is affected by light, according to Psy Today, in early springtime, at the vernal equinox or just before...probably it can be computed at the precise time (March 18) (1974) that I experiences the chromatic progressions. However, this still leaves the issue of, Where did all the information (e.g. written) come from? Disinhibited (i.e. this was all engrammed inside, in my entelechy, but held back, blocked by the melatonia, the GABA fluid, etc? Just in there waiting? Or did it enter me along with the seed? (Pre-natal instructions! No wonder I felt myself to be under the guidance of Asklepios -- and dreamed of doctors! And got primarily medial/healing advice, which goes with what Christ himself offered, for the same reason
+
+Last edit over 5 years ago by Harpax
+69
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Jesus, Form, Well, Roman, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Certainly, Before, Doris, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Information, Except, Dead, Today, Otherwise, Human, Doesn, Right
+
+---
+### Line 1022-1030 (Match: 'However')
+**Folder**: part of
+
+```text
+Needs Review
+69
+What, though, took possession of me, which seemed like Elijah (if not truly Elijah)? I guess it was the Father; certainly it was not the seed. A form of the Father: the Holy Spirit, which, recall, made Mary pregnant, which brought conception to her; she conceived by the Holy Spirit and gave birth to the Logos; and yet, the Logos in a sense impregnated her; I guess the macroLogos this way achieves its micropresence here. Locally.
+
+However, against this is set my experience of anamnesis, the neoplatonistic recovery of memory of divinity already there. I did not acquire it abruptly; I recalled it.
+
+In reconciling this with Christianity, I was restored. To the former state I had lost (the myth of Adam, the Fall). In the Parousia, there is the Restoration of all things, specifically, man is restored to his intended, divine state. The Second Birth (born again or saved, found after having been lost)
+
+Is it food for a seed already there? A seed which was never germinated? Been fed? ("Your ancestors ate manna in the desert and they are all dead; I give you bread of eternal life." This implies it is more a kind of food in the sunlight, packets of nourishment. But I think the mystery has to do with what I experienced as suddenly being back 2000 years in Rome, being in another space-time. It shows that we do not understand the nature of time. If a new seed, from without, were implanted, why (like Empedocles) would we remember? But we do. Here, we're dealing with the "divine spark," like that which is in us because our ancestors, the Titans, ate the infant Zagreus. The divine spark is the same as the logos spermatika. The spark or seed, being an immortal being, is not subject to time. The kind of transtemporal experience which I had is impossible to a being which is mortal and hence subject to time; as the Brit 3 says, mortality and being in thrall to time are identical. If a spermos logos were implanted from without, and then fed, I think the person would suddenly find himself no longer bounded by time (and also not bounded by space, but this would be a lesser release). It is time which grinds down and brings death. The divine seed being immortal would transcend time, and what I experienced (because of the nature of time, which is not known to me) would be the sort of natural result of the sudden release from thrall to it. I would imagine a time dysfunction; actually, it would more accurately be that I had become an entity not bound by time. I would think, "Something is wrong with time; I am no longer in Fullerton in 1974 but 2000 years back in the past, in Rom[e]." The change, though, was in me. No one else felt anything, anamnesis, recovery of memory, is a projection (in the Jungian sense) outward, upon the person receiving immortality (i.e. freedom from the thrall of time). THIS WOULD EXPLAIN WHY THERE ARE NO INTERVENING MEMORIES, AND WHY I KNEW IT WASN'T A REINCARNATION TYPE MEMORY, OF A FORMER LIFE. THAT I ONCE HAD BEEN IN ROME CIRCA 70 AD AND SUDDENLY REMEMBERED IT. Rome and Fullerton were fused, as if the element of time were withdrawn. I didn't remember; I was there. (At two points, A and B simultaneously; vide Dr NK's "universe projected from a single point," etc. This can't be understood unless time is understood. We are freed -- from what? What is time?
+```
+**Co-occurrences**: Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Parousia, Elijah, Father, Like, Fall, Because, Time, After, Something, Once, Adam, Again, Zagreus, Being, Empedocles, Divine, Himself, Anamnesis, Without, More, Another, Upon, Actually, Fullerton, Certainly, Death, Universe, Would, Were, Back, Things, Life, Memory, Freedom, Jungian, Having, Remember, Unless, Dead, Suddenly, Mary
+
+---
+### Line 1140-1148 (Match: 'However')
+**Folder**: book is
+
+```text
+It occurs to me that "Elijah" and the "Old King" of the dream are the same figure, are both the Father. Firebright, Christ, and the dancing would new King of springtime, who I identify with Zagreus, would be Firebright: "Santa Sophia," He who is born. First came the Father, and then, through me, birth of Firebright took place, and this is the beardless youth whom I now see: the Son. Where is it perfectly clear that it was the Father who as a plasmic life-form filled me up, it is equally clear now that the Son, who is dancing, is another form of God entire: the offspring, who will live here.
+
+In my dreams last night: Nick was jolted to discover that I had discerned patterns "which had died with Herb" and left no trace; there had been a total disjunction and yet I had them. "Herb" would be the Employer, Mr. Runciter (a figure of God the Father). This whole movement through the cycles is expressed by the movement of Father to Son, from Wise Age to Wise Youth. Last year (March, April 1974) I was so aware of, and filled up with Justice and the pursuit of Truth, the grim Fatherly pursuits...this year I am so aware of springtime and the figure of the youth, dancing. It sounds like Firebright is alive and growing; I hadn't realized: the Son. He is not after grim Justice, not like the Old Testament God; he is permissive, I guess. Maybe what happens to those Christians like Calvin is that the Holy Spirit fills them with the aspects of the Father, but birth never takes place, so they never pass on into the Youth Stage. I keep wondering if Firebright is okay...actually a millon times I've envisioned him. He's still a youth, but look at his rate of growth: He is ready to assume kingship. He must be 17 or so, or was, back at Passover. What a rate of growth! But I'm not sure, any more, that Firebright (the Young Spring King) is in me in any way, or merely --i.e. only-- in me; I think He moved from Point A or World A, which was not tangent to our world, into our world via me, which was Point B. I was an entry point or nexu[s].
+
+But I am still in touch with him. He is, however, now in this world. I guess again (after a time dysjunction). (I.E. There was a period when he wasn't.)
+
+The transmission of the Light Creatures was somehow inturrupted (by accident, be martyrdom, design, etc.) around 100 AD, or maybe even earlier (Jesus being the last one), so that a two thousand year breach had to be leaped to restored the Light Creatures to our world once more. This is what the New Testament is talking about, and Orphism. They are in need of us to transmit themselves, and all of us who "contained" any of them were (by the Romans!!) destroyed...hence my fear, my dreadul urgency and secrecy esp re Chrissy. Nobody else was left who knew how to receive (and harbor & shelter & incubate, whatever) a Light Creature.
+
+Eyes of newborn babies: mercury drop. Also, dream of grape-colored cube: yogert, fruit, eternal. We must remember: old age is a disease; we are sick, not self-renewing, like yogert (it's a symbol, in dream, of renewal). The bichloride: to restore (i.e. project) new sight. However psychological, though, this is still what Christ taught us; it is still the arrival of God's Kingship (within).
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Sophia, King, Roman, Elijah, Father, Maybe, Like, World, Only, Time, After, Light, Even, Firebright, Okay, Look, Once, Again, Both, Zagreus, Being, March, Runciter, Self, Santa, Chrissy, Those, Still, More, Another, Through, Orphism, Actually, Santa Sophia, Will, Calvin, Would, Somehow, Kingship, Were, Back, Whatever, Life, Justice, Spring, Wise, Testament, Passover, Remember, Truth, Dream
+
+---
+### Line 1144-1152 (Match: 'However')
+**Folder**: book is
+
+```text
+But I am still in touch with him. He is, however, now in this world. I guess again (after a time dysjunction). (I.E. There was a period when he wasn't.)
+
+The transmission of the Light Creatures was somehow inturrupted (by accident, be martyrdom, design, etc.) around 100 AD, or maybe even earlier (Jesus being the last one), so that a two thousand year breach had to be leaped to restored the Light Creatures to our world once more. This is what the New Testament is talking about, and Orphism. They are in need of us to transmit themselves, and all of us who "contained" any of them were (by the Romans!!) destroyed...hence my fear, my dreadul urgency and secrecy esp re Chrissy. Nobody else was left who knew how to receive (and harbor & shelter & incubate, whatever) a Light Creature.
+
+Eyes of newborn babies: mercury drop. Also, dream of grape-colored cube: yogert, fruit, eternal. We must remember: old age is a disease; we are sick, not self-renewing, like yogert (it's a symbol, in dream, of renewal). The bichloride: to restore (i.e. project) new sight. However psychological, though, this is still what Christ taught us; it is still the arrival of God's Kingship (within).
+
+Last edit over 5 years ago by Harpax
+80
+Needs Review
+```
+**Co-occurrences**: Christ, Jesus, Roman, Maybe, Like, World, Time, Harpax, After, Light, Even, Once, Again, Being, Self, Chrissy, Still, More, Orphism, Somehow, Kingship, Were, Whatever, Testament, Remember, Dream
+
+---
+### Line 1156-1164 (Match: 'However')
+**Folder**: part of
+
+```text
+There is no doubt that, what with my right hemisphere experiments, I was trying to achieve something -- and perhaps did. Recieved something; receiving was part of what I was into, the idea that we could, if we listened in a new way (or a forgotten way). Where did the "tight beam" come from? Certainly my dreams suggest the past; anyhow it is all what should be identified as retrieved knowledge. But it may have been triggered (the disinhibiting) by an ET signal. This presumes a link between earth and, ahem, heaven. I think there is.
+
+Two other points: (one) On the aspects designated as those which the "Christ transformation" confers according to the "Decoded N T," all that can be verified now (e.g. higher intelligence, better health, prosperity, etc. whatever) I've obtained; now, there is no intrinsic relationship which link these various "gifts." No one would draw up such a list a priori, since they appear unrelated. They are leaps forward in various areas. Others listed by the "Decoded N T" such as immorality I can't check on, of course, but I will infer that this too was acquired, if the others were. (two) My left eye suddenly resolving better than my right: this may refer to feature extractors in the cerebral cortex, and be brain improvements, allied with the sense of "having been blind but no longer being so." Again, this is linked with the prophecies given in the N T to those who receive the Spirit (i.e. become Christ). Vide my dream of last night: a theraphist named Mary is washed --healing-- my ankles and feet. At first I thought nothing of this dream, but on later refle[x]ion, it certain[ly] seems to me religious in nature; not only am I having "weak legs," as Red Foxx puts it, but recall Mary Magdelane vis-a-vis the desciples. Maybe this dream (following by one in which I escape from prison, am not followed and am free to run and run) are reassurances that my improved state is permanent.
+
+I just had a thought: when the words came to me, "Santa Sophia is going to be reborn; she was not acceptable before," I interpreted this 'Santa Sophia' to refer to the Christos, making use of the concept in John of Christ being the Logos. But in fact, uninterpreted, what I heard simply states that the "Wisdom of God," which is the Firstborn Son of God, or the Logos, or the Word, will be reborn -- not the Christ, although that may be true; it's an additional interpretation, however, and may have misled me. It is the Logos which is back for sure, according to those words that I heard, and the emphasis should be on that. What is more striking would be Logos...born which seems now to have referred me back to "Logos spermatika," the fertilizing or creating Logos, and to the entire doctrine of the "Dec N T" and Philo's ideas, without necessarily involving the Messiah (another concept entirely; the Persians had the Logo spermatikos, for example). I certainly should consider this view first.
+
+Last edit over 5 years ago by Harpax
+
+81
+```
+**Co-occurrences**: Christ, Spirit, Logos, Sophia, Wisdom, These, Perhaps, Maybe, Since, Prison, Only, John, Earth, Harpax, Could, Anyhow, Philo, Just, Something, Again, Being, Although, Christos, Santa, Without, Nothing, Brain, Those, Part, More, Another, Heaven, Such, Certainly, Before, Consider, True, Santa Sophia, Will, Would, Other, Messiah, Were, Back, Whatever, Have, Later, Having, Knowledge, Suddenly, Dream, Free, Right, Mary
+
+---
+### Line 1171-1179 (Match: 'However')
+**Folder**: part of
+
+```text
+Here is something hard to express, but important. Going back to Plato and Neoplatonists. If the soul remembered each life, and if there is reincarnation, and if the soul acquired wisdom each time around, THEN what I experienced (anamnesis) is exactly the breadth and magnitude of wisdom commensurate with these many live, and of the quality which this and only this wisdom -- acquired this long, laborious way-- could consist of, could have gathered. What I saw (space and time), what I understood (how the universe worked), my total awareness, is exactly understood commensurate with the Platonist and Neoplatonism (and Pythagorian) idea of rising each time, rising but forgetting, and the value of anamnesis, the removal of amnesis. What was remembered was the wisdom and understanding that was the aggerate of all these lives, and proportionate thereto (consider how many...perhaps thousands). Nothing else really was retained (although the dreams show local details sufficiently).
+
+But of all that I understood, a union with God by means of the Logos meant most to me. To rise up, assisted by the Logos. The double action: reaching up/reaching down. The Guide (Erasmus). qed
+
+I think that my seeing the Levant in Feb 1975 is as important, although less striking, as my seeing Rome in March 1974. In both cases, the thrall of time was removed, disclosing the eternal world, in Dante's sense. A transition had been made in that world (it is hard for someone unacquainted with Medieval thought to understand progression in eternity, but the basis would be a progression or procession of Platonic archetypes[.] The archetype in March 1974 was Rome and Iron and Slavery, with a corresponding need to fight for freedom, truth and justice; however, a year
+
+Last edit over 5 years ago by Harpax
+82
+Needs Review
+```
+**Co-occurrences**: Logos, Rome, Plato, Wisdom, These, Perhaps, Plotinus, World, Iron, Only, Time, Platonist, Harpax, Could, Something, Both, March, Although, Dante, Platonic, Anamnesis, Nothing, Soul, Most, Consider, Universe, Would, Erasmus, Back, Many, Have, Life, Justice, Freedom, Truth, Someone
+
+---

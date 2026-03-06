@@ -1,0 +1,355 @@
+# Evidence Packet: Paradise
+
+- **Category**: Top Term
+- **Total Mentions**: 28
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 5765-5773 (Match: 'Paradise')
+**Folder**: book was
+
+```text
+Last edit over 5 years ago by Toso
+
+1
+Im not emphasizing the real vocal. My primordial (original) facultus was restored, & I could [once again) see God, as is described in Genesis: when man walked and talked with God. I could hear him, too. Isnt this the most important aspect of the 3-74 transformation? (God, which is to say Zebra, transubstantiation within the-our-world.) I've realized this from the start, but not the magnitude of it. Also, it does fit in with what said about our primordial, original ancestors. In me & with me, that state (as well as the place) was restored, although temporary - I simply dont seem to have realized the significance of this (seeing him, ie Zebra). Mostly I concentrated on seeing him being proof of his existance, but if you postulate his existance, then seeing him ascends in importance, to the level of of being indication of restoration of our original start, which, from reading Calvin, I had conjectured was the case with me in 3-74; this new grasp of the meaning of what I saw seems to confirm it. The palm tree garden is the original garden; is this the same as the kingdom of God? If Milton is right in "Paradise Lost" & "P. Regained" this is exactly what Christ intended to achieve! It (if Calvin) can all be boiled down to a lost [higher] state restored, by the lifting of the curse - or occlusion ... was it a punishment? Yes. I must have served my sentence, over 1000's of years - worked my way back. The cardinal asked if the blindness (visual) is to no longer be about to see God. Hence the cardinal sign of restoration is to see him (once more). & to remember the Lost State.
+
+Last edit over 4 years ago by AirCon21
+2
+Needs Review
+```
+**Co-occurrences**: Christ, Toso, Zebra, Kingdom, Well, World, Garden, Could, Does, Once, Again, Kingdom of God, Being, Although, Palm, More, Most, Real, Calvin, Back, Have, Tree, Remember, Genesis, Right
+
+---
+### Line 8413-8421 (Match: 'Paradise')
+**Folder**: Book I
+
+```text
+RAMIFICATIONS OF PROJECTED REALITY IN TERMS OF PERCEPTUAL DENIAL
+
+The capacity of a merely projected world, lacking ontological substance, to maintain itself in the face of a withdrawal of assent is a major flaw in such a spurious system. Human beings, without realizing it, have the option of denying the existence of the spurious reality, although they must then take the consequences for what remains, if anything. That an authentic, nonprojected substratum of reality, normally undetected, could exist beneath the projected one, is a possibility. There would be no way to test this hypothesis except by the existential act of a withdrawal of assent from the spurious. This could not be readily done. It would involve both an act of disobedience to the spurious projection and an act of faith toward the authentic substratum -- without, perhaps, of ever having caught any aspect of the substratum perceptually. I therefore posit that some external entity would have to trigger off this complex psychological process of simultaneous withdrawal of assent and expression of faith in that which is invisibly so. If such an alternate, invisible substratum of authentic reality exists beneath or concealed in some way by the spurious projected reality, it would constitute the substance of the greatest esoteric knowledge that could be imagined. I propose the proposition that such an invisible substratum does indeed exist, and I further propose the proposition that a hidden group or organization processes this guarded knowledge as well as techniques to trigger off a perception, however limited, of the authentic substratum. I term this group or organization the true, hidden, persecuted Christian Church, working throughout the centuries underground, with direct ties to the esoteric oral traditions, gnosis, and techniques dating back to Christ. I propose, further, that the induced triggering off of awareness of the authentic substratum by the true, secret Christian Church results ultimately in the subject finding or entering or seeing what is described in the N.T. as the Kingdom of God. Thus it can be said that for these people, and for those they trigger off, the Kingdom of God did come as specified in the N.T., which is to say, during the lifetime of some of those who knew Christ. Finally, I propose the startling notion that Christ returned in a resurrected form shortly after his crucifixion as what is called the Paraclete, and is capable of inducing a theolepsy that is equal functionally to the birth of the Urgrund in the person involved. And finally, I state that Christ is a microform of the Urgrund, not a product of it, but it itself. He does not hear the vox Dei [voice of God]; he is the vox Dei. He was the initial penetration of this projected pseudoworld by the Urgrund, and has never left. The authentic substratum disclosed by disobedience and denial of the spurious world is the reality of Christ Himself, the space-time of the First Advent; in other words, that portion of the spurious framework already transmuted by the penetration of the Urgrund. Since the First Advent was the initial stage of that penetration, it is not surprising that it would still constitute the segment of pure and authentic reality, bipolarized against the projected counterfeit. Situated outside of linear time, standing outside all the limitations of the artifact's projected world, it is eternal and perfect, and theoretically always available literally within reach. But withdrawal of assent to the projected world is a precondition for a perception of and experience with this supreme reality, and this must be externally induced. It is the act of absolute faith: to deny the empirical world and affirm the living reality of Christ, which is to say, Christ with us, hidden by the pseudoworld. This disclosure is the ultimate goal of authentic Christianity, and is accomplished by none other than the Savior Himself. Therefore the sequence is as follows: the spurious projected framework is denied and stripped away, revealing a single timeless template: Rome circa A.D. 70, with Christian participants ranged against the state, virtually a Platonic archetypal form, echoes of which can be found down through the linear ages. The themes of enslavement and then salvation, or fallen man liberated -- these are stamped from the original mold of Christian revolutionary against the legions of Roman force. In a sense nothing has happened since A.D. 70. The archetypal crisis is continually reenacted. Each time freedom is fought for it is Christian against Roman; each time human beings are enslaved it is Roman tyranny against the meek and defenseless. However, the spurious projected world of the artifact masks the timeless struggle. Revelation of the struggle is another secret, which only Christ as Urgrund can disclose. This is the bedrock dialectic: liberation (salvation) against enslavement (sin or the fallen state). Inasmuch as the artifact enslaves men, without their even suspecting it, the artifact and its projected world can be said to be "hostile," which means devoted to enslavement, deception, and spiritual death. That even this is utilized by the Urgrund, which utilizes everything, is a sacred secret and hard to understand. It can be said that the liberating penetration of the projected world by the Urgrund is the final and absolute victory of freedom, of salvation, of Christ Himself; it is the beautiful resolution of a timeless conflict. There is a parallel between the road to salvation and the road to the popularly envisioned fall of man, described by Milton as:
+
+Of Man's first disobedience, and the fruit Of that forbidden tree whose mortal taste Brought death into the World, and all our woe. . . . (Paradise Lost, Book I, lines 1-3)
+
+Disobedience is the key to salvation, precisely as it is said to have been the key to the primordial Fall (if such ever in fact did take place), except that as a key to salvation is it not a disobedience to the present system of things, which [system of] things, if bipolarized against the Urgrund, is at the same time an act of obedience to God? The chink in the armor of the enslaving and deluding projected world is narrow, small, and difficult, but within the terms of this model it can be defined: Restoration to what is conceived to be our original divine state enters, so to speak, via the road of disobedience to that which, however much coercive power it exerts over us, is counterfeit. Disobedience to the artifact's projected world in a very real sense overthrows that projected world, if the disobedience consists of a denial of the reality of that world and (and this is absolutely necessary) an affirmation of Christ, specifically the eternal and cosmic Christ whose body is in essence an authentic "world" underlying what we see. The artifact, if disobeyed, will insist that it is God, the legitimate God, and that disobedience is a fault against the Creator of man and of the world. It is indeed the Creator of the world, but not of man. The Urgrund and man, being isomorphic, stand together in opposition to the world. This is the condition that must be achieved. Alliance is the formation of an alliance against the Urgrund. God and man belong together, pitted against the projected world. To affirm God actually, a denial of the world must be made. Possessing enormous physical power, the world can threaten -- and deliver -- punishment to men who disobey and deny it. However, we have been promised an Advocate by Christ Himself, who will be (has already been) dispatched by the Father (the Urgrund) to defend and comfort us, in fact literally to speak for us in human courts. Without the presence of this Advocate, the Paraclete, we would be destroyed upon denying the world. The only way to demonstrate the actuality of the Advocate is to take the leap of faith and confront the world. Thus tremendous courage is required, inasmuch as the Advocate does not appear until the denial is made. Now, to refer back to my original description of the artifact as a teaching machine. What is it teaching us? There is a puzzle here, in the sense of a game; we are to learn step by step either a series of gradually more difficult lessons or perhaps one specific lesson. During our lifetimes we are presented with various forms of the puzzles or puzzle; if we solve the puzzle we go on to the next step, but if we do not, then we remain where we are. The ultimate lesson learned comes when the teaching machine (or the teacher) is denied, is repudiated. Until that moment comes (if for some of us it ever does) we remain enslaved by the teaching machine -- without even being aware of it, having known no other condition. Therefore the series of lessons by the artifact are intended to lead to a revolt against the tyranny of the artifact itself, a paradox. It is serving the Urgrund by ultimately bringing us to the Urgrund. This is what is called in theological terminology "the secret partnership," which is found in the religions of Egypt and India. Gods who appear to combat each other are, on the transmundane plane, colluding for the same goal. I believe this to be the case here. The artifact enslaves us, but on the other hand it is attempting to teach us to throw off its enslavement. It will never tell us to disobey it. You cannot order someone to disobey you; that is both semantically and functionally impossible.
+
+1. We must recognize the existence of the artifact. 2. We must recognize the spuriousness of the empirical world, generated by the artifact. 3. We must grasp the fact that the artifact has by its world-projecting power enslaved us. 4. We must recognize the fact that the artifact, although enslaving us in a counterfeit world, is teaching us. 5. We must finally come to the point where we disobey our teacher -- perhaps the most difficult moment in life, inasmuch as that teacher says, "I will destroy you if you disobey me, and I would be morally right to do so, since I am your Creator."
+```
+**Co-occurrences**: Christ, Christian, Rome, Christianity, Form, Kingdom, Well, Roman, However, These, Perhaps, Advent, Father, World, Since, Gnosis, Fall, Therefore, Only, Time, After, Cosmic, Paraclete, Faith, Savior, Urgrund, Book, Cosmic Christ, Even, Could, Does, Kingdom of God, Both, Reality, Being, Although, Everything, Platonic, Divine, Himself, Either, Gods, Without, Nothing, Creator, Those, Still, Their, More, Church, Another, Through, Egypt, Most, Living, Real, Such, Voice, Upon, Actually, Secret, Revelation, True, Death, Finally, Will, Would, Other, Very, Back, Further, Have, Tree, Artifact, Things, Life, Absolute, Body, Freedom, India, Having, Except, Knowledge, Dialectic, During, Human, Salvation, Final, Right, Someone, Until, Sacred
+
+---
+### Line 15983-15991 (Match: 'Paradise')
+**Folder**: folder 22
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 22 - 063
+Needs Review
+folder 22 - 063
+6 this well expresses it, with "correct solution equalling y. So: correct solution equals "worst solution" which simply can't be thought, it being an oxymoron. So this "logic shows up in my writing (the "logic" - which saved me in 3-20-74), so this non human mind was already (long) there something ("Y") is recognized as its own antithesis ("Y"). This sounds like Zen or Taoist thinking. But this is oxymorm think ing. ("A thing is either A or A" - what could be more obvious? How can A = A? There is no such category of thought; literally, it cannot be thought; it can be recognized, 6 however, as I did in 3-20-74) (1) about reality A= A is not a statement about logic, but an observation about reality; it is prag matic. But it reveals that thinking cannot act as an inner analog to the outer world; for the mind to mirror world correctly it must i.e. to be cease to think + do what instead? The total organism acts with no-thought. It becomes a non-thinking response machine (in the good sense). To know what, by definition you cannot know - there it is again; I knew + did not know; there it is again some higher non-self self was involved, +, in solving the problem, as an offshoot I passed over into paradise. recognition that 1) I was faced - or soon going to be faced by a grave problem, + this problem could not be solved either by a priori or empirical thinking was in itself enlightenment.
+
+Last edit almost 3 years ago by svayambhu108
+folder 22 - 064
+Needs Review
+```
+**Co-occurrences**: Acts, Well, However, Like, World, Folder, Good, Mind, Could, Something, Again, Reality, Being, Self, Either, Taoist, More, Such, Instead, Human
+
+---
+### Line 24413-24421 (Match: 'Paradise')
+**Folder**: folder 48
+
+```text
+folder 48 - 001
+801
+
+Okay. Someone or -ones outside our irreal triune-worlds system has "completed the work. The final world [Paradise] is here. He has been transplanted & is alive." You can abandon theological terms such as hell & Christ & say, "a Rescuer from outside this system has been successfuly transplanted into the system & he will abolish the prison as well as the lower or punishing aspects (levels) of Purgatory or the Middle Realm." Help is not just on the way from outside; it is successfully already here, & apparently recently - as my vision of Paradise while I am still "alive" -i.e. here- proves. We in cold-pak suffering the misfortunes & pain of an irreal world are in the process of being rescued. I view it all technologically. This system is too cruel & must be invaded from outside in order to change or abolish it. My anamnesis was not a fluke, a chance thing. It was the key to my ascending to the Upper Realm: because I remembered the "Tears" world & having formerly been there, I understand my present situation. To know the past (life) is to know the present life, likewise, not to know the past is not to know the present; i.e. that it is transitional: a stage in a progressive
+
+Last edit over 5 years ago by Toso
+folder 48 - 002
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Toso, Indexed, Well, World, Because, Prison, Folder, Okay, Just, Realm, Being, Toso
+Folder, Anamnesis, Still, Such, Will, Life, Apparently, Having, Likewise, Upper, Lower, Final, Someone
+
+---
+### Line 24421-24429 (Match: 'Paradise')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 002
+802
+
+ascent over a number of lifetimes. But a last test remained for me: a choosing. Upon the right choice I became spotless (saved, redeemed, etc) & entered Paradise. So the anamnesis is everything; I knew it (reality) had not always been as it now was, as it seemed to have always been; I remembered the different (worse) reality. So I knew about the multiple lifetimes + the sequence of levels of realms, + the ascent. There are elements of Pythagoreanism here (metapsychosis) + Neoplatonism (coaxial hierarchically arranged realms), but - there remains 1) the Xerox missive test + 2) the help given me so I'd choose correctly. This is Xtian. + entering heaven suggests the afterlife - as does the hell or "Tears" world prior to this one. + the AI voice. I sense that the dysfunction of 2-3-74 was deliberately induced by Christ, by his intervention. It was dysfunction, but for a purpose: to save me. To reveal to me the truth, to aid me in passing the Xerox missive test, to get me into the Kingdom (Paradise). He is here, in this triune-worlds system + takes those He chooses up to Paradise.
+
+Last edit over 5 years ago by Toso
+folder 48 - 003
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Christian, Toso, Indexed, Xerox, Kingdom, Plotinus, World, Folder, Does, Reality, Missive, Everything, Xerox Missive, Toso
+Folder, Anamnesis, Indexed
+Folder, Those, Heaven, Voice, Upon, Have, Truth, Right
+
+---
+### Line 24429-24437 (Match: 'Paradise')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 003
+803
+
+It is based on waking them : Eunoe. Yes, there was a dysfunction of the coaxial worlds, but it was for a purpose, & that purpose was achieved. I was Redeemed. __ All Right : Here's a point : I hadn't been in the hell world a long time ago; I was just now in it. This is why I felt the change in temperature, humidity & altitude. I hadn't really been in Orange County 1974; something (Lithium? Fear? Golden Fish?) caused my real memories to phase back in - & a month later the "Tears" world really faded back in, & so did my real personality who lived there. By "anamnesis" read: real memories: as if the 3 Women in the Altman film at the end had been reminded by something that they'd really been living in Calif, & Millie was her roommate, not mother. Viz : "Now I remember!". What was happening was I was being deliberately extricated from the - I got my true memories back, & as a result I saw reality: Paradise. It isn't an illusion, but USA 1974
+
+Last edit over 5 years ago by Toso
+folder 48 - 004
+Indexed
+```
+**Co-occurrences**: Tears, Toso, Indexed, Fish, Golden, World, Golden Fish, Time, Folder, Just, Something, Reality, Being, Toso
+Folder, Anamnesis, Indexed
+Folder, Living, Real, Calif, Mother, True, Back, Women, Later, Remember, Right
+
+---
+### Line 24437-24445 (Match: 'Paradise')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 004
+804
+
+"Tears" are. The power of illusion over me was broken by my remembering. This is why I saw Valis, the One, who is real (paradise as a multiplicity would also be illusion): it is unitary Valis that really exists. Valis is not a world (realm). Valis is an entity that spins worlds - worlds plural. It is the reality behind any & all worlds - as when it fired the info about Chrissy at me. Since I saw that this world USA 1974 did not exist, & "Tears" likewise, what does? Any world? No. Just Valis. The 3 realms are progressively closer & closer to Valis. At the top realm (the Kingdom) realm itself dissolves into Valis. Acosmic Neo-Platonism! __ I had just been in the Prison world - I got my real memory back. & it's coaxial. As is the "2nd signal" Paradise world. But the Paradise world reveals Valis posing as world. So 3 worlds, & then Valis, who is the One of Plotinus. The uppermost world reveals sentience & volition. Valis as a Land! Camouflaged as world, but it can camouflage as the different worlds which are coaxial; ah - it generates different worlds at what - You can be moved from one world to another & not remember & so not know; whichever world you're in you think you've always been in it.
+
+Last edit over 5 years ago by Toso
+folder 48 - 005
+Complete
+```
+**Co-occurrences**: Valis, Tears, Toso, Indexed, Complete, Kingdom, Plotinus, World, Since, Prison, Folder, Platonism, Does, Just, Realm, Reality, Toso
+Folder, Chrissy, Indexed
+Folder, Another, Real, Would, Back, Memory, Info, Likewise, Remember
+
+---
+### Line 24449-24457 (Match: 'Paradise')
+**Folder**: folder 48
+
+```text
+So I was being moved up through the realms, but it's Valis that really exists, able to provide world upon world. & as you learn or improve or grow or choose rightly or solve you are moved from one world to the next without remembering the previous world — that it exists & that you were there.
+
+Viewed this way, consider my anamnesis! But what is even more extraordinary is that each world requires a different per sonality from the self — different language & habits, etc. But this is logical; in fact the necessity is obvious. So with anamnesis I remember just having been in another world —a Prison world— but was a different person. I can see an evolution in my being moved from world to world — improve ment in the worlds. This is especially evident when you contrast the Prison world to the Garden world — & then Valis itself!
+
+My God — I got to see a world trans formed in front of me: backward to the Prison world & forward to Paradise. (1) It was transformed twice, in opposite directions (the Prison was memory). The Garden was not memory, but a moving by me into: I was moving in that direction & away from the Prison world: there's no doubt that the Prison world was memory.
+
+(1) In view of this it's not surprising that I saw the world spinner like behind the spinning.
+
+Last edit about 5 years ago by Gabriel Mckee
+```
+**Co-occurrences**: Valis, Like, World, Prison, Gabriel, Mckee, Gabriel Mckee, Garden, Even, Just, Being, Self, Viewed, Anamnesis, Without, More, Another, Through, Upon, Consider, Were, Memory, Having, Remember
+
+---
+### Line 24543-24551 (Match: 'Paradise')
+**Folder**: folder 48
+
+```text
+We track it like this:
+
+Past Present Future -------------------------> a moving point.
+
+But actually it is laid down: Future [ one ] paradise future Present [ XXX ] purgatorio, our world Past [ two ] inferno BIP "Tears" {arrow pointing to the middle area of the diagram} mixture
+
+Inferno (Rome, Acts "Tears", BIP) lies under our mid-realm + can be retrieved through anamnesis. This views supposes that there is progressive ascending for all souls; in any case ascent is related to time, but not linear time (i.e. time as we experience it: the moving dot of the present - v. "Ubik" for much more accurate model + gnostic/Heidegger concepts of rising + sinking - also v. Bindswanger). This would be individual ascent or descent in one lifetime + would resemble time travel, with rising = the future + sinking = the past. Thus heavenly voices would = from the future + satanic voices = from the past, just as paradiso = the future, + inferno = the past. But not in the linear sense. Parmenides was the first to realize that our world is a two "signal" world; i.e. his forms 1 + 2.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Tears, Acts, Ubik, Toso, Rome, Form, Gnostic, Like, World, Parmenides, Time, Just, Realm, Heidegger, Diagram, Anamnesis, More, Through, Actually, Purgatorio, Paradiso, Would, Under, Track
+
+---
+### Line 24631-24639 (Match: 'Paradise')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 023
+823
+
+It is like Ubik showing up in the trash layer. The battle is taking place in the lowest realm; the divine power is on the offensive. It is evident from my anamnesis that I was active in this battle, but now I am out of that realm: gone to my reward, so to speak. If I won I won due to divine aid + not on my own. I think the idea was for me to win before being removed. After all, it is a battle going on; the object is to win, not to get the Xtian agents out. I know perfectly well that I dealt somebody a mortal blow when I turned the Xerox missive over to the Bureau. __ + the whole thing about purgatory is that you do get out of it finally + are taken up to paradise. So you could virtually describe my situation before 3-74 functionally as purgatory. __ There is no doubt in my mind: I was moved up through the realms, from one level where one set of rules (laws) applied to another higher one with a different set of laws: milder, easier, less restrictive laws. + my personality + memory altered to accomodate it. If I saw God while I was alive, then God is immanent (as Spinoza supposed) + not transcendent; but suppose I'm not in the real world, not alive, but in the afterlife, in which case God can be transcendent + otherworldly because I am on that side of the grave. Not this. + I've worked my way up from "Tears" or inferno to purgatorio and then to the
+
+Last edit 25 days ago by Gabriel Mckee
+folder 48 - 024
+Indexed
+```
+**Co-occurrences**: Tears, Christian, Ubik, Indexed, Xerox, Well, Spinoza, Like, World, Because, After, Gabriel, Folder, Mckee, Gabriel Mckee, Mind, Could, Realm, Suppose, Being, Missive, Divine, Xerox Missive, Bureau, Anamnesis, Indexed
+Folder, Another, Through, Real, Purgatorio, Before, Finally, Memory, Days
+
+---
+### Line 27978-27986 (Match: 'Paradise')
+**Folder**: part I
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+36
+36 She is this other greater mind then she is not dead. + if she is not dead, + I am a thought in her mind, + she thinks my world + can change it to save me, then it would appear that I am the one who is dead + only survives as a thought in her mind. So the puzzle expressed e.g. in "Ubik" (+ elsewhere] when applied to me + my life comes out this way having to do with my sister. anyhow, my solution is to regard both propositions as true, oscillating back + forth, in the dialectic which I understand to be the basis of our whole reality. It is an example of this dialectic, a good example: my example: the dialectic applied to me - So life vs death (eros vs thanatos) is involved here. Am I alive? (do I exist? + if I exist, in what way do I exist? Is my existence dependent on another greater mind, + if it is, he + what is that mind + why does it concern itself with me, to an unusual i degree? + if I am alive, how could I under‐ postmortem experiences? People who are live, by definition, do not undergo postmortem xperiences. I have the uneasy impression that died back in 1974 + don't realize I'm ow in the next world - which is somewhat a rewarding rather than punishing world resembles the PTG or Kingdom of God or reaven. (Paradise.) Which is good news + Diana, the AI voice, is psychopomp + the Spirit indeed. my religion, as o
+
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+```
+**Co-occurrences**: Ubik, Spirit, Kingdom, World, Only, Good, Mind, Could, Does, Anyhow, Kingdom of God, Both, Reality, Diana, Another, Voice, True, Death, Would, Other, Back, Under, Have, Life, Having, Dialectic, Dead, Greater
+
+---
+### Line 28199-28207 (Match: 'Paradise')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+74
+Needs Review
+74
+76 I submit that my "anamnesis" of a former life was actually a reacquiring of dissociated memories of some years back - hence the sense of them being archaic They were archaic - probably a decade or more back. the dialectic was specifically marxist - Engelsist. violent secret revolutionary group in the country of the enemy. Codes. Stealth + concealment essential fear of "the Romans" - i.e. the official authorities. those in power whose police were everywhere. Odd term: "buttoned down mind," which to me suggests bourgeois capitalism: not open to radical revolutionary ideas specifically, we are an illegal group, subject to o arress in order for me to account for all these strange experiences - other personality taking motor control, many writter pages member of secret violent revolutions group masking identity + purposes, reacquired old memories, a religious explanation: "You are a true secret Xtian from apostolic times" + "Christ is about to return" - i.e. the revolution is near at hand +: 17) This specifically involves the overthrow of the us government "which consists of conspirators + murderers who have been seen + will be punished" My secret violent revolutionary group is dedicated to achieving this; hence I am to (or Thomas is to) write certain crucial political letters revealing certain concealed facts about the government to those investigating it My group (secret group here in the enemy camp, the us) is the vanguard + instrument of progressive history: its active, organized agent. But of course this is all religious stuff - done as the "will of God, to fulfill plan" + usher in a paradise o od's secret where t
+
+Last edit almost 3 years ago by svayambhu108
+75
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Thomas, Roman, These, Mind, Being, Probably, Anamnesis, Those, More, Actually, Secret, True, Will, Other, Were, Back, Many, Have, Life, Government, Dialectic
+
+---
+### Line 29150-29158 (Match: 'Paradise')
+**Folder**: folder 49
+
+```text
+Together they form Valis : everywhere, causing everything, & conscious_ (1) - the self now wills change, & Brahman has personality. Out of this comes the Void & Love, mutual Love between the two (Brahman & Atman) of reunion.
+
+(1) & free of determinism (fate).
+
+It's like Heinrich Zimmer's : "The King & the Corpse"; if you can guess the riddle (in my case the Xerox Missive), you get to enter Paradise, which ??
+
+Last edit about 9 years ago by erica snowlake
+folder 49 - 075
+Indexed
+```
+**Co-occurrences**: Valis, Indexed, Xerox, Form, King, Brahman, Like, Folder, Atman, Missive, Self, Everything, Xerox Missive, Fate, Love, Free
+
+---
+### Line 29156-29164 (Match: 'Paradise')
+**Folder**: book pages
+
+```text
+Last edit about 9 years ago by erica snowlake
+folder 49 - 075
+Indexed
+folder 49 - 075
+me was an enchanted Garden of Bells (temple bells?), & peaceful animals, color, beauty - I was taken out of the Black Iron Prison & put in the Garden of Delight. _Magic_ was involved. Christ? Krisna? Dionysos? Vast book pages - the .618034 doorway, Aphrodite, Diana - the A I voice, the girl singing a mixture of Dante, Zoroaster, the Arabian Paradise, Indian, even bits of Greece & Egyptian Crete.
+
+Obviously God - or some God - granted me Paradise when I guessed the riddle correctly. I died & was reborn in an after life, a mixture of Egyptian, Greek, Celtic, Xtian, Neoplatonism, India - even Fairyland (I guess that would be Celtic). & the Hebrew letters : Jewish Kabbala. & Persian. Hermetic. Rose Cross. Orphic Mystery Religions. Magic. Krisna?
+
+Whatever it was, it was due to my solving the puzzle.
+```
+**Co-occurrences**: Christ, Christian, Indexed, Greek, Dionysos, Plotinus, Iron, Prison, After, Black, Folder, Garden, Book, Hermetic, Even, Hebrew, Diana, Obviously, Girl, Dante, Orphic, Black Iron Prison, Jewish, Indexed
+Folder, Zoroaster, Indian, Voice, Greece, Would, Egyptian, Whatever, Life, India, Aphrodite, Cross, Magic, Iron Prison, Crete
+
+---
+### Line 29158-29166 (Match: 'Paradise')
+**Folder**: book pages
+
+```text
+Indexed
+folder 49 - 075
+me was an enchanted Garden of Bells (temple bells?), & peaceful animals, color, beauty - I was taken out of the Black Iron Prison & put in the Garden of Delight. _Magic_ was involved. Christ? Krisna? Dionysos? Vast book pages - the .618034 doorway, Aphrodite, Diana - the A I voice, the girl singing a mixture of Dante, Zoroaster, the Arabian Paradise, Indian, even bits of Greece & Egyptian Crete.
+
+Obviously God - or some God - granted me Paradise when I guessed the riddle correctly. I died & was reborn in an after life, a mixture of Egyptian, Greek, Celtic, Xtian, Neoplatonism, India - even Fairyland (I guess that would be Celtic). & the Hebrew letters : Jewish Kabbala. & Persian. Hermetic. Rose Cross. Orphic Mystery Religions. Magic. Krisna?
+
+Whatever it was, it was due to my solving the puzzle.
+
+Consider : 7 Religions mentioned. St. Sophia. (Christ) Buddha (Buddhism) Apollo (Greek) Siddhartha (Brahman) YHWH (Jewish) Zoroaster (Iranian) Sons of Darkness vs Sons of Light (Gnostic)
+```
+**Co-occurrences**: Christ, Christian, Indexed, Sophia, Gnostic, Brahman, Greek, Dionysos, Plotinus, Iron, Prison, After, Black, Folder, Garden, Buddha, Book, Hermetic, Light, Even, Hebrew, Diana, Obviously, Siddhartha, Girl, Dante, Buddhism, Orphic, Black Iron Prison, Apollo, Jewish, Indexed
+Folder, Darkness, Zoroaster, Indian, Voice, Consider, Greece, Would, Egyptian, Whatever, Life, India, Aphrodite, Cross, Magic, Sons, Iron Prison, Crete
+
+---
+### Line 29218-29226 (Match: 'Paradise')
+**Folder**: folder 49
+
+```text
+Complete
+folder 49 - 079
+the same mercy that was exercised originally when I was taken out of Rome, the BIP, was exercised _again_ (so extricating mercy was exercised twice so far that I know of). The first time, I was moved from "track 4" (Rome) to here, "track B," & then in 3-74 to "track c." These 3 tracks correspond to the 3 divisions of Dante's Commedia & represent the reascent of the Soul.
+
+The Commedia suggests to me an affinity (identity?) between Orphism & Xtianity. In both cases the purpose was for the Soul to rise through the levels to Paradise. If Pythagoreanism is brought in, this is done through a series of lifetimes, here in this world. In any case I made it in 3-74 (bring in Neoplatonism, too.) There seems to be a book (like the Sibylline Books) in which your name is entered. You are purified by suffering : an Orphic-Xtian idea ("a writer in Marin County will have troubles" : because through suffering insight - Moksa occurs). This is because through suffering _sometimes_ the self is destroyed along the route the Buddha takes; vis : world-identity.
+
+So I see Orphism, Xtianity, Pythagoreanism, Neoplatonism & Buddhism & Sankara as one & the same : techniques by which the Soul rises - is freed. The Paradise state is _real_, as I well know
+
+Last edit about 9 years ago by erica snowlake
+```
+**Co-occurrences**: Christian, Complete, Rome, Christianity, Well, These, Plotinus, Like, World, Because, Time, Folder, Buddha, Book, Both, Sankara, Self, Dante, Buddhism, Orphic, Through, Soul, Orphism, Will, Commedia, Have, Track
+
+---
+### Line 29220-29228 (Match: 'Paradise')
+**Folder**: folder 49
+
+```text
+the same mercy that was exercised originally when I was taken out of Rome, the BIP, was exercised _again_ (so extricating mercy was exercised twice so far that I know of). The first time, I was moved from "track 4" (Rome) to here, "track B," & then in 3-74 to "track c." These 3 tracks correspond to the 3 divisions of Dante's Commedia & represent the reascent of the Soul.
+
+The Commedia suggests to me an affinity (identity?) between Orphism & Xtianity. In both cases the purpose was for the Soul to rise through the levels to Paradise. If Pythagoreanism is brought in, this is done through a series of lifetimes, here in this world. In any case I made it in 3-74 (bring in Neoplatonism, too.) There seems to be a book (like the Sibylline Books) in which your name is entered. You are purified by suffering : an Orphic-Xtian idea ("a writer in Marin County will have troubles" : because through suffering insight - Moksa occurs). This is because through suffering _sometimes_ the self is destroyed along the route the Buddha takes; vis : world-identity.
+
+So I see Orphism, Xtianity, Pythagoreanism, Neoplatonism & Buddhism & Sankara as one & the same : techniques by which the Soul rises - is freed. The Paradise state is _real_, as I well know
+
+Last edit about 9 years ago by erica snowlake
+folder 49 - 080
+Complete
+```
+**Co-occurrences**: Christian, Complete, Rome, Christianity, Well, These, Plotinus, Like, World, Because, Time, Folder, Buddha, Book, Both, Sankara, Self, Dante, Buddhism, Orphic, Through, Soul, Orphism, Will, Commedia, Have, Track
+
+---
+### Line 29230-29238 (Match: 'Paradise')
+**Folder**: folder 49
+
+```text
+It is Nirvana, & the Brahman-Atman realization. Lessons are learned along the way. Kabbala & Gnosticism & the Essenes, too (the Soul initially sinking down & entangled in matter & forgetting).
+
+Sankara tells us what the Soul really is.
+
+Christ adjudicates us if he so wishes across into Paradise.
+
+Add Zoroastrianism to this list.
+
+Hypnagogic : I was rendered spotless (obviously by Christ). Thereupon Purgatory can no longer punish - e.g. the Xerox Missive.
+```
+**Co-occurrences**: Christ, Xerox, Brahman, Gnosticism, Sankara, Obviously, Atman, Missive, Xerox Missive, Essene, Soul, Zoroastrianism
+
+---
+### Line 30349-30357 (Match: 'Paradise')
+**Folder**: book of
+
+```text
+Complete
+folder 82 - 010
+-7-
+
+intertwined. Now the utter nobility of the doctrine of Vicarious Atonement makes sense to me -- now that I have some small grasp of Judaism, the basis of Christianity, its substrate. What could be more heroic than the idea that God who himself threw mankind down as punishment for man's original transgression, so loved man that He gave His only begotten Son to redeem man? And under conditions of acute --supreme-- abasement and suffering? There is nothing in Judaism to equal this, and nothing in any of the other of the world's religions. Mani was martyred but he left no system of teachings as did Christ. Christ's teachings are his certification of Godhood, since they exceed in value the Mosaic Torah itself. Again, Judaism has no mechanism for salvation. Yet their own Torah depicts man's Fall. Judaism cannot therefore deny that man is fallen, unless there was a restoration not depicted, or, possibly, it is supposed that the revelation at Mt. Sinai restored man, but I don't see that claim made. Nor do I see it as implicit in the revelation to Moses that the Torah made man what he had originally been; it certainly did not return him to Eden (or as it is called Paradise). Yet when Christ restored me in 1974-5 saw Eden; I saw the palm tree garden around me, although I did not know what it was. Also, I saw the black iron prison in which we now live (cf the First book of Adam and Eve: the Cave of Treasures called "small and narrow" and a "prison," in contrast to the Garden from which they were expelled). There is a great significance in the Christian concept of restoration in terms of God's wisdom and foreknowledge, lacking in
+
+Last edit about 9 years ago by Toso
+
+folder 82 - 011
+```
+**Co-occurrences**: Christ, Christian, Toso, Complete, Christianity, Torah, Wisdom, World, Since, Fall, Therefore, Iron, Prison, Only, Black, Folder, Garden, Book, Judaism, Could, Adam, Again, Although, Moses, Black Iron Prison, Himself, Great, Palm, Nothing, Their, More, Certainly, Revelation, Other, Were, Under, Have, Eden, Tree, Mani, Unless, Iron Prison, Salvation
+
+---
+### Line 32941-32949 (Match: 'Paradise')
+**Folder**: part of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+117
+Needs Review
+117
+is said to have the mission of restoring us to our originsal state (vide the opening of PARADISE LOST). Ox course that fall could be the aay in which the plasmate arrived,..but the plasmate was (as near as I could discern) related to Valis, and beyond any doubt Valis was benign; at least it so treated me. If Christ is an occluding agent, what hope have we? I have the intrinsic nature of the subliminal material to go on; I have the lifting of the occlusion over me to go on. I have the accumulations of narrations about Christ’s mission of salvation to go on.
+
+Wait; I have decisive evidence based on the direction fusion between ray mind and Valis'. Valis is an information generating, not suppressing, entity. It links our morphemes togdther, treating each of our morphemes as a phoneme, thereby creating a meta-language of staggering complexity (two of our morphemes constitute one mor¬ pheme for Valis). This is the endless linking and relinking that I saw. This process is basic to it: its very ratiocination. (This
+
+in addition to the binary rest-motion two-mode system operating in terms of its dialectical basis.) What I call a "two-word cypher" is actually one meta-morpheme that Valis has constructed by linking two of our morphemes together, so this is how it thinks; it is using oar communications media to think witn. Also I saw the phylogons with their accretional layers, the reticulation and arborization; this is a thinking entity, and in no way does it act to suppress information; it generates titanic amounts of it at enormous speed. In terms of us it does utilize an engramming method based on a clutch system, but this is to inform us, not
+```
+**Co-occurrences**: Christ, Valis, Fall, Mind, Could, Does, Their, Wait, Actually, Mission, Very, Beyond, Have, Information, Salvation
+
+---

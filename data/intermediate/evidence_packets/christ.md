@@ -1,0 +1,345 @@
+# Evidence Packet: Christ
+
+- **Category**: Top Term
+- **Total Mentions**: 4853
+- **Aliases**: Christs
+
+## Supporting Passages (Context Windows)
+
+### Line 26-34 (Match: 'Christ')
+**Folder**: part was
+
+```text
+Indexed
+2
+never realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Orthogonal (i.e the Forms) yes; reversion, no. Now, when I saw what I saw, I had "died" in an actual sense; like those in UBIK I came to the end point of my lineal time-line. But I wasn't depleted; this "decay backward" to Rome which I saw wasn't an entropic process, or even decay at all.
+
+I saw the Parousia, and I couldn't have unless they actually took place (I didn't know enough to hallucinate them accurately). Did they take place? Has the Kingdom arrived? I say Yes it has, certainly in the sense that the Brit 3 macro says about Jesus Christ's message about it. Not only is it real, it has arrived; the Day of Wrath -- I think it is not a mere personal trip which I went though but which we all went through (toppling Nixon was not in my head, nor what Nixon had been doing). Which part was on my head? Only the realization of what it meant, these historical events, and I didn't realize.
+
+It has happened, the Prince of this World fell.
+
+This all has been an unfolding process. A revealing or disclosing of Being.
+```
+**Co-occurrences**: Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Time, Nixon, Even, Being, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+
+---
+### Line 62-70 (Match: 'Christ')
+**Folder**: part of
+
+```text
+(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.
+
+Yes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh.
+
+First, the "Artist" (logos) is drawing you (or universe is fashioning you) more and more like Christ. These are first kinds of changes: you're made to look i.e. be like him. But the real thing is when you can see the likeness. First, see him seated there, being drawn, then see that you the 1.5 minute sketch resemble Him; its when you see that affinity, that's the last transformation, in you. That follows in linear time what the artist (continual creation) is doing: upon completion, of the entelechy; when time stops, being "filled up" or rrealized.
+
+Last edit almost 3 years ago by jhordan
+4
+Complete
+```
+**Co-occurrences**: Logos, Complete, Rome, Well, These, Elijah, Like, Iron, Time, Just, Look, Being, March, More, Real, Upon, Universe, Creation
+
+---
+### Line 304-312 (Match: 'Christ')
+**Folder**: part of
+
+```text
+Dear Claudia,
+
+I've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.
+
+Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected the dead or sleeping man the way the forces of spring/nature revive all sleeping roots, bulbs, trees, etc.; all nature which is not man, and that the cyclic small year is to nature in general as the great year (200 B.C. to 2000 AD) is to the species man. Therefore, in my novel, TO SCARE THE DEAD, if the "Essene" were to awake from his 2000 year slumber, he would bring spring to the character, Nicholas Brady (the name I've chosen for my protagonist), and no separation can be made between this resurrection and the deity Zagreus-Christ and what a bulb esxperiences. So:
+
+In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: his job requires him to fake what he is, to be inauthentic inasmuch as he fronts for the government re the recording artists he deals with. This has produced a schism within him. There can be others, but basically he leads a typically modern inauthentic schismatic existence --note existence, not life. There is no growth, just the constant revolution of the wheel of lineal time which accumulates only dust. So:
+
+When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
+```
+**Co-occurrences**: Thomas, Form, Well, However, Dionysos, Perhaps, Like, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Claudia, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+
+---
+### Line 347-355 (Match: 'Christ')
+**Folder**: book as
+
+```text
+Complete
+22
+After all, not all seeds are planted as wheat grains are... there are those concealed whithin ripening fruit: the seeds of the various shrubs and trees. The fruit around them is to entice and to hide.
+
+We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus died as any man dies -- but another Christ, and probably another Paul were born out of and after that. Rebirth does nor mean to return as you were, in a mere cycle; this is where the wheat seed could not have been a wheat seed, because Jesus specifically says that on its own the grain of wheat leads a solitary life, and after it is thrown into the furrow (the grave) it is reborn differently, into a communal life. "Reborn in glory and no longer alone." A single vast plant "the mustard tree in which birds roost" will come about; I think this is what we call the noösphere, and I myself have already entered it.
+
+In March it took me over totally; I was a spectator to my dream in waking life, as it awoke.
+
+If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
+```
+**Co-occurrences**: Logos, Jesus, Complete, Paul, These, Because, Only, After, Could, Does, Again, Zagreus, March, Runciter, Probably, Those, More, Another, Living, Real, Voice, Death, Will, Deity, Would, Were, Have, Tree, Life, Claudia, Testament, Dream
+
+---
+### Line 414-422 (Match: 'Christ')
+**Folder**: book A
+
+```text
+26
+coffins, severally, and individually, as shown in the novel.
+
+(eight) Those in half-life are not dead, nor is the root slumbering under the snow (the symbol of both Christ and Dionysos: it looks dead but is only asleep, waiting to be awakened by the voice of spring). We are those slumbering roots. We are dormant. It is difficult intellectually to understand this, that we are neither fully alive nor fully dead (Aristotle taught us that we have to be A or not-A), but in fact these thousands of years for our species, and for our animal friends as well -- these are nothing but a long winter in which half of us (expressed neurologically, perhaps, by the fact that we use only one of our brains, or the left hemisphere) is alive and the other half has not yet come to life. Many of the parables of Christ, familiar to those who knew the cryptic sayings of the mystery religions in general, refer to this (the grain of wheat which must be planted; we are now sorrowing in childbirth, the treasure buried in the pasture, etc.).
+
+That the Final Days should be in fact a springing up into full life, complete life, going from seed (vide the parables and especially the Pauline Texts, plus the Orphics' doctrines and Neo-platonism, etc.) -- going from dormant seed slumbering under the snow of Winter and then hearing/feeling/sensing/knowing the voice of moisture and warmth and Spring, the voice of God saying, "The time has come! Wake up!" These are authentic commands coming to us in dreams, and are no less real and no more real than what the ordinary seed experiences in its own fashion; we are all one in that regard...except that our orthogonal Winter has lasted for one hell of a long lineal period; it seemed as if it would never end. But Winter always feels that way; each seed, each slumbering root and bulb, must in its half-life state, buried in ice and waiting, experience all of this: we share a common reality.
+
+From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
+```
+**Co-occurrences**: Complete, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+
+---
+### Line 527-535 (Match: 'Christ')
+**Folder**: book about
+
+```text
+What I noticed most was the total isomorphic relatedness between me and my environment, which I realized to be an animate and concerned entity guiding me by an endless series of engaging signals -- engaging with internal systems of my own; so I was and therefore am still, although the isomorphic relatedness is now invisible to me; it must be there yet, that envolving, living world of kindness and guidance on every side: I move along a narrow path well-marked with signs that I notice and respond to even though in a sense I do not (consciously) any more notice; they still guide me, just as well, like a gutter pipe directs rain water without the water being conscious of it.
+
+The "Whale's Mouth" sign of intersecting arcs, which I viewed as representing curved time and curved space -- if each arc represents a form of time (one of them lineal time, the other orthogoal or hyper-time) then this sign could be thought of [a] representing a single previous intersection (in our past) at which the two times came together (around 100 AD), and then each went its own way...but as they were moving in arcs, it was inevitable, by the laws of geometry, that eventually they would once more intersect, perhaps 2000 years or so later (i.e. very soon). These also would represent the two hemispheres of the brain, any human's brain, once before linked, then soaring off orthogonally, but fated by immutable laws to come together again.
+
+It's possible that the Christian fish sign concealed these two geometric arcs, intentionally; the arcs would show that the unique event of Christ's First Coming was beyond any doubt to be followed by the second coming or intersection; this was conveyed and concealed and revealed all at once by the fish sign, making sense, too, out of there being both a first and second coming; the arc opened after the first, and each line seemed to separate from the other farther and farther (heaven and earth splitting futher and further apart) but a keen trained eye could discern in this simple drawing the return together lying inevitably ahead; the Promise was ad hoc true. Put another way, when viewed in this geometrical fashion, there was no way by which the Second Coming (together in time) could be averted. No force, delusion, lies or guile or threats could prevent it eventually coming (see Virgil's 4th Eclogue: The Age of Iron to give way to the Age of Gold. And the fish sign I saw was made of gold. And I saw around me a prison, a magnet like ring, of iron.
+
+Last edit almost 3 years ago by twsullivan
+33
+Complete
+```
+**Co-occurrences**: Christian, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Iron, Prison, Time, Earth, After, Even, Could, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Would, Other, Were, Very, Beyond, Further, Later, Human
+
+---
+### Line 567-575 (Match: 'Christ')
+**Folder**: Unknown
+
+```text
+The fish symbol didn't perhaps "disinhibit" me, i.e. act as a disinhibiting stimulus to release emgramming; it, more accurately broke the power of this world over me. It deautomatized and released.
+
+It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
+
+Isn't this what the Christian fish sign is supposed to do? Representing Christ, it is Christ; and this is what He does for a person, a very desperate person: He breaks that earthyl thrall. He, through his emblematic sign.
+
+[Itwas] He, no metal sign; no object, but The Savior, expressed in His presence. He came to the door manifest in [a] emblematic form, which was verbally (the Logos?) identified. We grow; we reach a certain point; we stop growing; we decline and die. What did it all up to? Nothing, because we were blocked --limited-- at a certain point. He expressed as emblematic pin broke that hold or limit, and growth resumed in me, at enormous speed, as if to make up for lost time. She, the girl, wore/bore a message to me, from Him (my heavenly father). What I became afterwards were all supposed to be...but something went wrong; error slipped in, for us all.
+
+He corrected that error. (In my case -- and how many others has He freed? And how long had this freeing been going on? Is this the Parousia?????)
+```
+**Co-occurrences**: Christian, Logos, Form, Fish, Parousia, Perhaps, Father, World, Because, Therefore, Time, Savior, Does, Something, Reality, Girl, Nothing, More, Through, Were, Very, Back, Many, Freedom
+
+---
+### Line 590-598 (Match: 'Christ')
+**Folder**: part was
+
+```text
+Hence, I was not in a situational jeopardy, within a limited crisis thrall; my life at stake for an interval; it is Aeon thrall removed; it was always there and would always have been. The immediate situation was only a worsening of an endless thrall.
+
+So the total thrall was burst. (For seige read blight. For blight read seige.) After seeing the sign, "He began to wake up and to understand -- i.e. understand what he saw, so that it made sense to him. By degrees he saw more and more clearly." But I do think it was always certain that I would be rescued, that there was no latter time hasty decision. Thus, he who is saved was always saved. "There is nothing to fear but more true: there never was anything to fear. Didn't you feel the contintual presence of hidden benign powers guiding and watching? The dream in which Kathy and everyone suddenly took off their masks and she said, 'Someday you'll be told what this was all about.' Promise then. Last night, the dream: 'I will send you a leader, named Vinland Smith.' And the dream about the government office, where the boss returns and most employees are found to be idle, and some (even worse) playing venal money games and turning away those in need. Only a few employees truly doing their work while the boss was gone; but now the boss has returned. If the 'Kathy' dream, in Canada in 1972 was fulfilled, then these, also, I am sure. Leader equals:
+
+(our) land(ing will) vin(dicate cordwainer) smith. And vin equals vine equals Zagreus-Christ-Dionysos, Lord of Springtime. I.e. "the leader I am sending comes from the stars."
+
+Last edit over 5 years ago by Harpax
+37
+Needs Review
+```
+**Co-occurrences**: Dionysos, Lord, These, Only, Time, Harpax, After, Even, Zagreus, Nothing, Kathy, Those, Their, More, Most, True, Will, Would, Have, Clearly, Life, Government, Suddenly, Dream
+
+---
+### Line 736-744 (Match: 'Christ')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+
+46
+Whether my exemplar is "me" is a merely semantic question; my exemplar is "me complete," and that is not "me in the process." Me exemplar is the Christos; we all are drawn from the future to become Him, and as we reach Him and become Him, then we turn back to help those still in progress or process. I would say that the absolutely overall biggest achievement of this is to dissolve and destroy our mere ego identity and allow us to merge into the Kingdom (Kingship) of Christ: him in me, me in him, as Paul says; we will / do form a Kingdom, where he is Lord.
+
+Dr. NK: "Time enters material systems." Maybe our dreams are time, as energy which bears info to us, entering us; we are the single simultaneous point from which the entire universe is projected from in terms of time (v. Dr. NK's paper).
+
+We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one of the RUs, one of the sources. This is very strange (paradigm is FLOW MY TEARS, in which 3 separate superimposed but somewhat different universes are lived in between first and final page of pt 1 to 3. How is this overlap achieved? How does one exit from one and into another? Who manages all this? Why?
+```
+**Co-occurrences**: Tears, Complete, Form, Kingdom, Paul, Lord, Maybe, Only, Time, Harpax, Light, Does, Christos, Those, Still, Another, Universe, Will, Would, Page, Kingship, Very, Back, Info, Whether, Evidently, Whereas, Final
+
+---
+### Line 839-847 (Match: 'Christ')
+**Folder**: part segment
+
+```text
+exam merely determines whom the teaching benefited and how much. Viewed this way, Divine Judgment was a searching out, a scanning of each person, to determine who had learned anything, rather than who had done bad. What was wrong in my case was that I still had a lot to learn; thereupon I took a vast high-speed training course, in which I learned what I never up to then learned: that God is filled with joy and love, that He has infinite patience, and that He desires me to come to Him in fit shape. There are no other criteria, such as being a "Good" person. God is above that, since His love is a refining love, in the light of which one is transformed; it is impossible to feel God's love and to desire to harm a living thing.
+
+I am less in doubt that this was the Parousia (I am not in doubt about that at all; it is exactly what Jesus and Paul anticipated, if not John) than I am in doubt --in perplexity-- as to whether it was solely in my own world, my idios kosmos, that it took place. Does the koinos kosmos remain the same? I don't think, really, that is has. But no one else that I know of (sic) saw what I saw, which by general standards at the very least limits it to a subjective experience, a personal one, for me alone. I think that seeing the signals around me firing, the living organism, may have been what Malachi meant by "The Lord of Hosts shall suddenly some to his temple," etc.; suddenly He was within everything, and visible, at least to me. "At least to me." I saw His presence. Perhaps I err when I assume that He had always been there, but not visible to me; that my eyes were suddenly opened to what had always been. Maybe he Had been gone, came back; my eyes were opened and He came back and there fore I saw Him. If my eyes had been opened a month earlier I wouldn't have seen Him because He hadn't arrived then, as yet.
+
+Let us consider the miracle involved. When God enters time, when he pierces our world, he pierces the veil and rends it -- where go the usual categories of personal-subjective, then-now etc? Did He come for all men or just me? Will what happened to me in March 1974 still later on happen for others, or did it happen once for everyone? This is the same question about Christ's death on the cross; does he really die again and again for each man, so-to-speak sequentially, or simultaneously, which is to say, once? I think both are true; the usual categories don't apply.
+
+I am a child trying to understand adult concepts.
+
+As in FROLIX 8 -- the change rushes across the world, the way I saw the black band rush across the sky on Good Friday: the band that joined the old universe with the new...and in that instant as I and Laura watched, I understood that we were on film, on a loop. This 3 - hour strip rushing at so high a speed -- it tied the two ends together. And started the sequence anew. Thus, back in 1962, my first mystic (sic) understanding of Easter, and of the Death on Christ, the dead god -- in the bonds of dear "Christ lag in Todesbanded," etc. I saw it then. What I saw then was real and I knew it then to be real; what I experienced in 1974, which was maybe 12 year later -- at the same time of year...it was real, too. We can maybe resolve this when we ask, Then you play your LP of Beethoven's 7th symphony, is it a different performance each time? Does von Karajan repeat it? One hears it again and again, but it is the same: like the archetype, printing out: the die stamping. What we hear is the "print."
+```
+**Co-occurrences**: Jesus, Paul, Parousia, Lord, Perhaps, Maybe, Like, World, Since, Because, John, Time, Black, Good, Light, Does, Just, Once, Again, Both, Kosmos, Being, March, Everything, Divine, Frolix, Viewed, Beethoven, Still, Living, Real, Such, Laura, Love, Consider, True, Easter, Death, Universe, Will, Friday, Other, Were, Very, Back, Have, Judgment, Later, Whether, Cross, Dead, Suddenly
+
+---
+### Line 843-851 (Match: 'Christ')
+**Folder**: Unknown
+
+```text
+Let us consider the miracle involved. When God enters time, when he pierces our world, he pierces the veil and rends it -- where go the usual categories of personal-subjective, then-now etc? Did He come for all men or just me? Will what happened to me in March 1974 still later on happen for others, or did it happen once for everyone? This is the same question about Christ's death on the cross; does he really die again and again for each man, so-to-speak sequentially, or simultaneously, which is to say, once? I think both are true; the usual categories don't apply.
+
+I am a child trying to understand adult concepts.
+
+As in FROLIX 8 -- the change rushes across the world, the way I saw the black band rush across the sky on Good Friday: the band that joined the old universe with the new...and in that instant as I and Laura watched, I understood that we were on film, on a loop. This 3 - hour strip rushing at so high a speed -- it tied the two ends together. And started the sequence anew. Thus, back in 1962, my first mystic (sic) understanding of Easter, and of the Death on Christ, the dead god -- in the bonds of dear "Christ lag in Todesbanded," etc. I saw it then. What I saw then was real and I knew it then to be real; what I experienced in 1974, which was maybe 12 year later -- at the same time of year...it was real, too. We can maybe resolve this when we ask, Then you play your LP of Beethoven's 7th symphony, is it a different performance each time? Does von Karajan repeat it? One hears it again and again, but it is the same: like the archetype, printing out: the die stamping. What we hear is the "print."
+
+Last edit over 5 years ago by Harpax
+55
+Needs Review
+```
+**Co-occurrences**: Maybe, Like, World, Time, Harpax, Black, Good, Does, Just, Once, Again, Both, March, Frolix, Beethoven, Still, Real, Laura, Consider, True, Easter, Death, Universe, Will, Friday, Were, Back, Later, Cross, Dead
+
+---
+### Line 849-857 (Match: 'Christ')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Harpax
+55
+Needs Review
+55
+The great miracle is that it is always new, and always it is the same, once more: unchanged. Suppose I play my LP of the 7th symphony until I know it by heart, and then I give it to you and you play it. You have never heard it before; to you it is entirely new, no more and no less new in relationship to my knowing it -- I mean, however many times I have played it is new independent of me, and herein lies the miracle. However many times Christ has died for man; however many people have had my experience; it was anew for me as if no one had ever had it before; in my world, it was unique, it had never happened before, and so Christ died for me solely. He is infinitely new, infinitely divisible, infinitely everywhere -- I guess he is Ubik.
+
+Each new child enjoys his sandbox as if sandboxes were first new and had never pleased and been experienced by childhood before. Thus a great truth is here: I can assimilate the phenomenon rose without in any way assimilating the rose qua rose; this leaves the rose fresh for you to assimilate in the same way, phenomenologically, leaving its true essence pristine and unchanged. I take nothing from it, since I do not assimilate it qua rosa; do you see? I just assimilate an image; thus we can see the necessity of our "reality" being made up of mere images -- it is to keep the essence of each thing from being used up. All the images in the world (food eaten, wine drunk, etc) do not consume in any way or to any degree the archetypal categories which are real. And so each new life is free to encounter and experience the images fresh, a new, as if no one ever did before. And, too, the universe is not consumed. It is exactly as if we had done one U.S. silver dollar rather than the possibility of stamping out an infinite number -- all those are merely "images" of the original dollar, but if instead of printing from dies made from the archetypal original -- suppose instead of printed editions of my books, the MSS were sold? Instead of the possibility of as many people -- well, you see what I mean; for purpose of (one) maintaining the renewal of the universe and (two) giving each person an equally fresh, untouched experience, the cave or image or film system must be employed; I guess somewhere is The rose and The every single thing, which the prints which we take to be reality come from -- God help us if they get consumed! If, as we seek, ontology should be experienced (assimilated, consumed) rather than print-out.
+
+If my world is one film then I am on film and hence immortal, like "Citizen Kane." The film can be stored and later rerun, and even other prints --and stills-- can be made. I do not joke, here.
+```
+**Co-occurrences**: Ubik, Well, However, Like, World, Since, Harpax, Book, Even, Just, Once, Suppose, Reality, Being, Great, Without, Nothing, Those, More, Real, Before, True, Universe, Other, Were, Many, Have, Life, Instead, Later, Truth, Free, Until
+
+---
+### Line 906-914 (Match: 'Christ')
+**Folder**: part of
+
+```text
+In terms of Parmenides basic point about appearance versus substance, you could say that what we see looks like Mickey Mouse, but a priori we know (maybe it says so on the box the puzzle came in) that when complete, we will have a picture of Teddy Roosevelt. If, when it has been fully and correctly assembled, and it still looks to you, to me, to everyone, unlike Teddy Roosevelt and much like Mickey Mouse, then we can conclude there is an unexplainable gulf between what we "know to be there" and "what we in fact perceive." But this is another matter from that obtaining when we are even one piece short of completion and it looks like Mickey Mouse. Anyone familiar with gestalting will be able to explain that a partial gestalt may not resemble the full or actual gestalt, because we must fill in the missing section with a projected form-constituent. We have seen Mickey Mouse but in fact there is no Mickey Mouse, any more than when some one brings in a potato[e] which looks like Mickey Mouse. It is merely a potato[e] which has grown funny, and we project or gestalt it as Mickey Mouse -- the potato is not an incomplete picture; there is no missing piece to add, and no picture was intended, either or Mickey Mouse or anyone else. This is how the R[oh]rs[c]hach blots work; they intristically have no content; all is projected.
+
+If we ask, "Why do I see Mickey Mouse and not Teddy Roosevelt, when I know it should be Teddy Roosevelt?" I point it that there is a piece missing and that when it is added probably the discrepincy between what you see (MM) and what you should see (TR) will be abolished, and only the Gute-Forme TR will remain. Thus, the dokos will finally lift.
+
+When the development toward completion of this overall pattern is equated with evolution in general, it is evident that we do not worship this god, who is the Creator, but rather the God who enters and picks up the pieces allowed to drop to the workroom floor -- "The stone rejected by the builder shall be my cornerstone," as our God, Christ, put it. There is one God of the total section, the universe as entelechy, and a God of each discarded subsection, that it, too, in some miraculous way, will not perish. It is evident in what manner the universe --the developed completly evolved pattern-- will not perish, but what about those of us who were sacrificed or lost out along the way? The principle of "those who did not make it" is a major principle and includes many. My dream of the man who created life from the atom, to the comic strip baby to Kathy -- that procession was the universe moving toward completion, and this ruthless march forward injured a bystander, casualties were involved: the lamb, specifically, as represented in the dream as Tessa, who needed medical assistance from the good scouts who were coming in to the vast building. We seek help, but the Creator is concerned with the total structure, not with the rejected bits; if there were only this God and not Christ, what a juggernaut the cosmos would be. We would all perish, ant-like, in the service of the final gestalt or pattern (Darwin et al believed in just such a world). But we seek another God, that of the defeated and powerless.
+
+Last edit over 5 years ago by Harpax
+60
+Needs Review
+```
+**Co-occurrences**: Complete, Form, Maybe, Like, World, Parmenides, Because, Only, Harpax, Good, Even, Gestalt, Could, Just, March, Either, Probably, Tessa, Creator, Kathy, Those, Still, Dokos, More, Another, Such, Universe, Finally, Will, Would, Were, Many, Have, Life, Dream, Lamb, Final
+
+---
+### Line 912-920 (Match: 'Christ')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+60
+Needs Review
+60
+When first the vision of Christ as the God who goes along invisibly behind the flock and picks up those who can't keep up, who fall - this at first seems like a small matter, from a nonethical standpoint; how vital a principle is illustrated here? But if the universe is still in process, if continual creation is going on, then maybe "the lambs who could not keep up" represent every one and every thing sacrificed along the route of creation; it might include all of us, since it is possible that all of us will not make it into the final completed pattern. We really have nowhere to go for help but to Christ.
+
+NB: The difference between Ghosticism and Neoplatonism is basically that (one) the Neoplatonists believed you could achieve it yourself, whereas (two) the Gnostics believed that the Redeemer did it for you. I think that (two) the Gnostics are correct; it is not something which you acheive, but which (as God's Grace) is sent to you.
+
+. . I finally tied it all up: the phosphene graphics were exactly like the Auroras. Probably I thought of this already, but the significance escaped me. Pattern or blueprint -- the Logos. The Aurora is energy, in the ionosphere, is plasmic, and is involved with solar flares: is radiation. It acted as a cathode ray tube with my optic nerve as screen.
+```
+**Co-occurrences**: Logos, Gnostic, Plotinus, Maybe, Like, Since, Fall, Harpax, Could, Something, Probably, Grace, Those, Still, Universe, Finally, Will, Creation, Were, Have, Whereas, Final
+
+---
+### Line 975-983 (Match: 'Christ')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+64
+Needs Review
+64
+When I look back on those first days in 3 74 when I saw Tome around me, not Fullerton, and specifically the Rome of the period of Christ's time, and saw its angry military hostility, I was equally aware (and this is what I tend to forget) of my own identity standing in opposition to it; hence its hostility toward me -- the scurrying of its agents were specifically hostile toward me, and I had to work in stealth, e.g. in baptising Christopher et al. The other end of the dipole was my own new identity, not merely the "new" identity of my environment (Fullerton made into Rome); I had become a Christian and a very special kind, different from what I had been as Fullerton had been to Rome; I was a member of a secret group which Rome was dedicated to destroy: this made me part of the Fish sign secret society, killed on identification and disclosure. No sense can be made out of my seeing Fullerton turn into Rome until the other hemisphere of the Magdeburg jars is taken into account: what I had turned into. I can infer it from the hostility of my Roman environment (the ir leg, for instance,) but more so I can infer it from what I did (the baptism) and my knowledge of the original Christian practices. The change had been wrought in me; Fullerton metamorphosing into Rome came as a result of that. Thus, what I saw externally in terms of transformation ratifies what I knew from an inner awareness to be the case; the two fit perfectly. What was Rome of that period hostile to? The authentic early Christians. Also, I tend to forget that in addition to the secretiveness of my actions, due to my knowledge of what the Romans would do to me, was my anticipation of the Savior to come. Now, the Fish-Christians (i.e. the original authentic Christians) did not exist before Christ, nor had they the fish sign; thus, it was the Second Advent which I --we in our group-- anticipated. We as a small select body were already in existence, and our savior was evidently already gone (of course: the fish sign came from the sign the Romans placed on the cross above him as he died). There is no latitude in the measure of precision in my knowing what I had been transformed into, both by external observation of change, and inner. Therefore it is bootless to dwell on the question, How did Fullerton become Rome and what does it mean? Are we really in Rome and don't know it? Was there a time dysfunction? etc., because the answer is already there in the other Magdeburg hemisphere transformation; I need only look to the change that took place in myself to know the answer. It is only Rome, and Rome as persecuting enemy, if one is what I became. The Crucifixion, although a[n] historical event (circa 50 AD) is also in the Platonic world of archetypes always present, outside time, available as the cornerstone experience for someone changed like I was; when you think about it, my transformation would probably be merely one of psychological "Set" had I perceived externally a total transformation...and I should add here, not just the original Fullerton into Rome, but also God along the alley, and being able to read the steganographic codes in the Bible, to sense the Logos, everything else, the world-conflict. I was augmented in my faculties, as the original secret Christian body of men was.
+
+What is involved is a restoring, a new life which is the igniting by means of the penetrating of the solar spermatakos of what had lain dormant, asleep over two thousand, maybe five to ten thousand years; it
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christian, Logos, Rome, Fish, Bible, Roman, Advent, Maybe, Like, World, Because, Therefore, Only, Time, Harpax, Savior, Does, Just, Look, Both, Being, Although, Everything, Platonic, Probably, Those, Part, More, Fullerton, Secret, Before, Christopher, Would, Other, Were, Very, Back, Life, Body, Days, Knowledge, Cross, Evidently, Someone, Answer, Until
+
+---
+### Line 983-991 (Match: 'Christ')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+65
+Needs Review
+65
+could not wake itself up -- like the root or bulb called to by spring (by the healing warming Sun of R[l]ighteousness) it had to be summoned. If new birth or new life refers to a restoring (which it does) then at one time that Healing Sun was present and somehow withdrew, at which time the higher life in us fell asleep, in the darkness (vice the pineal body secreting the hormone melatonia, in darkness, which impedes the expansion, the growth, the coming into activity, of the latent form or entelechy). The very idea of "Wake up" implies winter time and the slumbering during winter time of all life. In some fashion, however, we once were awake and then fell asleep, which is what the Greeks meant by Lethe, by forgetfulness; forgetfulness is equated with falling asleep, and waking up with anamnesis. I guess the nourishing and feeding by the solar spermatika is understandable when one realizes that all life is "fed" by sunlight per se; this is an analog of that. It cannot wake unless fed; the first impulse rouses it from slumber, as when I felt that an Essene or someone holy who had been slumbering in me thousands of years and who possessed Sophia Pistis had awakened; the shock was of such enormity as to be beyond words to express; I can see why. I asked, Did I once live, then, and am reincarnated and now remember? No, I did not, as least not as an individual, the one born in 1928. What is shown here is the grid-like interpersonality of the Christ consciousness, that there is a kingship and a kingdom, each of us being in him and He in us. I awoke to the experience of having been there in a non material sense, beyond material space and time. I recalled no Latin, only Greek, because it is a Greek religion and a Greek spiritual rebirth experience; Rome was totally hostile to it (it came from Orpheus and Zagreus, etc).
+
+I awoke abruptly to find myself with my Savior, and then entered Fellowship with God (the dreams of the delighting void). Can it be said that this is the rebirth, accomplished by penetration of the Child by the solar spermatikos? Yes. Firebright, brought to life and sustained Greater intelligence for me, better health, longer life, even prosperity. A certain facility with life. But most of all I recall what I saw when I awakened: I saw my God, smiling in the sunlight of day. Once, during the years of the Terrible Separation, I saw Palmer Eldritch in the Sun -- I saw God backward, but sure enough, in the daytime sun: at high noon, and know him to be a god. THE THREE STIGMATA, if read properly (i.e. reversed) contains many clues as to the nature of God and to our relationship with him. I was motivated to flee, then, fearing what I saw, so vast was the breach then. It was definitely a true vision of God, but grown (to my blind sight) terrible, still, it was the beginning of my seeing; that I could see God at all, in the sun, showed that I was not entirely blind, but rather deranged. My 3 74 experiences are an outgrowth of my Palmer Eldritch experience of over ten years earlier. "Faith of Our Fathers" shows this, too; I knew Him to be real...but only in UBIK does he begin to appear as benign, especially then in MAZE OF DEATH. We were coming back together, as friends in the light-struck meadow or forest...the summertime to greet.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Ubik, Holy, Rome, Form, Sophia, Kingdom, Greek, However, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+
+---
+### Line 990-998 (Match: 'Christ')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+
+66
+The band of darkness which I and Laura saw passing across the sky on Good Friday, during the 3 hour period in which Christ is dead - i.e. in the tomb. It was real; we both saw it, and felt the powerful wind. But maybe it meant more that I realized; vide the "Decoded N.T." where they speak of Jesus crying out, "Eli, Eli," meaning "My power, my power" has gone because the sun has gone down (out). This darkness described in the Bible, and referred to in the "Decoded" is what Laura and I saw; what did it mean? That He was dead. That the light was gone. Now, take Doris' notion that maybe a time dysfunction had taken place that day; suddenly (the day of the Crucifixion) suddenly it was sundown and suddenly (way ahead of schedule) He was dead. There was a connection. I knew, when I saw that band of darkness travelling across the sky, that it was related to his death; this fits in perfectly with the "Decoded" theory that He got his power from the sun. What, then, in view of what the "Decoded" as well as the time dysfunction theory -- what did I see what what did it mean? No universe at all? Night had taken place at midday, exactly as on the day of the Crucifixion? I really saw night happen at midday...so, logically, there could be the opposite: light (and hence Christ's source of power, and Christ alive) during our regular darkness, at night...would this, then, be another mirror-opposite time dysfunction? If/when this happens? Christ never dead or gone or in the thrall (bonds) of death, in the tomb? When He is risen for us all? No "band of darkness" even when there is no sun...because Laura and I saw this while the sun shone (early afternoon, on a cloudless day).
+
+Not the physical sun that day had done out (had it, as in an eclipse, I wouldn't have been anything), but the other sun, the Sun of Righteousness, without realizing it. That is why I saw "Palmer Eldritch" in the sun, even thought I was afraid (Palmer means pilgrim to the Holy Land, which I didn't know. Palm leaves, Santa Sofia, etc).
+
+But more: what Laura and I saw must have been what Jesus himself, on the cross, saw: the Other Sun had gone out (time dysfunction). We saw what we saw. And He died, because of that darkness. When Laura and I saw that certainly not Laura and not me either could have understood the significance of what we saw; I mean, this is not faked, because for us to see that rushing band of darkness, and lacking on back our parts the highly sophisticated knowledge I now have, we did not see it because we "expected" to see it. That was around 1962. It has taken 13 or so years for me to understand what that meant, which certifies to the genuineness of the experience. Then indeed, as related in the Bible, the sun did go out that day on Calvery. The sun went out. Then, as in 1962. This proves the connection between Christ or anyhow Christ's power or origin and the sun, as stated in the "Decoded." I am witness to what must consist of a valid (scientifically valid) proof of this. And, just as Isa had the book dream and healing dream here, Laura was witness with me then. In each case a daughter of mine was witness, without comprehension ("a little child shall lead them," because it can't fake it).
+```
+**Co-occurrences**: Holy, Jesus, Well, Bible, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Certainly, Doris, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+
+---
+### Line 994-1002 (Match: 'Christ')
+**Folder**: book dream
+
+```text
+The band of darkness which I and Laura saw passing across the sky on Good Friday, during the 3 hour period in which Christ is dead - i.e. in the tomb. It was real; we both saw it, and felt the powerful wind. But maybe it meant more that I realized; vide the "Decoded N.T." where they speak of Jesus crying out, "Eli, Eli," meaning "My power, my power" has gone because the sun has gone down (out). This darkness described in the Bible, and referred to in the "Decoded" is what Laura and I saw; what did it mean? That He was dead. That the light was gone. Now, take Doris' notion that maybe a time dysfunction had taken place that day; suddenly (the day of the Crucifixion) suddenly it was sundown and suddenly (way ahead of schedule) He was dead. There was a connection. I knew, when I saw that band of darkness travelling across the sky, that it was related to his death; this fits in perfectly with the "Decoded" theory that He got his power from the sun. What, then, in view of what the "Decoded" as well as the time dysfunction theory -- what did I see what what did it mean? No universe at all? Night had taken place at midday, exactly as on the day of the Crucifixion? I really saw night happen at midday...so, logically, there could be the opposite: light (and hence Christ's source of power, and Christ alive) during our regular darkness, at night...would this, then, be another mirror-opposite time dysfunction? If/when this happens? Christ never dead or gone or in the thrall (bonds) of death, in the tomb? When He is risen for us all? No "band of darkness" even when there is no sun...because Laura and I saw this while the sun shone (early afternoon, on a cloudless day).
+
+Not the physical sun that day had done out (had it, as in an eclipse, I wouldn't have been anything), but the other sun, the Sun of Righteousness, without realizing it. That is why I saw "Palmer Eldritch" in the sun, even thought I was afraid (Palmer means pilgrim to the Holy Land, which I didn't know. Palm leaves, Santa Sofia, etc).
+
+But more: what Laura and I saw must have been what Jesus himself, on the cross, saw: the Other Sun had gone out (time dysfunction). We saw what we saw. And He died, because of that darkness. When Laura and I saw that certainly not Laura and not me either could have understood the significance of what we saw; I mean, this is not faked, because for us to see that rushing band of darkness, and lacking on back our parts the highly sophisticated knowledge I now have, we did not see it because we "expected" to see it. That was around 1962. It has taken 13 or so years for me to understand what that meant, which certifies to the genuineness of the experience. Then indeed, as related in the Bible, the sun did go out that day on Calvery. The sun went out. Then, as in 1962. This proves the connection between Christ or anyhow Christ's power or origin and the sun, as stated in the "Decoded." I am witness to what must consist of a valid (scientifically valid) proof of this. And, just as Isa had the book dream and healing dream here, Laura was witness with me then. In each case a daughter of mine was witness, without comprehension ("a little child shall lead them," because it can't fake it).
+
+Last edit over 5 years ago by Harpax
+67
+Needs Review
+```
+**Co-occurrences**: Holy, Jesus, Well, Bible, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Certainly, Doris, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+
+---
+### Line 1012-1020 (Match: 'Christ')
+**Folder**: part of
+
+```text
+Needs Review
+68
+The conduit is the optic nerve, the eye the receptor percept organs, but the message is to the pineal body, not the brain. Generally, photon light messages travel to brain-reception; but as the Psy Today article shows, some are "intended" for the pineal body (springtime).
+
+One could speculate that this is the purpose of human beings: Why We Are Here -- to serve as the recipient "female" "mothers" for the implantations of the solar spermatika, the divine seeds. Curiously, this would bear on Doris' point about the item in Catholic Agitator that Jesus' healing activities were not only primary, it was that which most crucially angered the Romans. I asked her, "Why the hell would healing these bodies for us be a primary act on His part, especially since these bodies will die anyhow; they're healed, but they aren't made into anything but what they are, i.e. they aren't immortal." Well, if these bodies are to serve as the "wombs" for the solar spermatika, then healing such a body would be "pre natal care," and certainly logically crucial. Doris and I both agreed that even without knowing precisely why healing these bodies was primary it did show that there was some vast importance to our physical lives here. Healing us would be a logical continuation of creating us in physical form in the first place; it is a stage, but now I am thinking that it is a "launch stage," a platform --I hate to say host situation, and "host" isn't right because the divine seed and the human "mother" bond into a duplex entity which is not in accord with the meaning of "host." (A baby is not a parasite in the strict sense, only when one views it in a value sense; in which case all children are parasites to their parents, and anyone in need is a parasite on the rich, etc.) (And the sick to the healthy; any outstretched hand...which brings us back to Gospel symbolism.) God is the Father; the select mortal (human) male or female is the mother, into whose spirit the seed is placed; but the human (or so Christ assured us) has plenty to gain: she/he/it isn't discarded as the seed grows, because it is a Light Body which involves eternally the human mother. Carrying "her" with it when the rotting fruit decays (dies). This is the only way our physical body can become a fruit containing a seed; otherwise it is only a flower: pretty, but temporary, ephemeral. It does not give birth (except to other ephemeral flowers, a procession of them), missing their true purpose.
+
+It doesn't seem to me that it's just speculation that it was my pineal gland to which the primary message went, and which was primarily stimulated; because: (one) the dreams of three eyed people, with the third eye being the Hindu 3rd all seeing eye of enlightenment dead-center in the forehead. And (two) the pineal gland is affected by light, according to Psy Today, in early springtime, at the vernal equinox or just before...probably it can be computed at the precise time (March 18) (1974) that I experiences the chromatic progressions. However, this still leaves the issue of, Where did all the information (e.g. written) come from? Disinhibited (i.e. this was all engrammed inside, in my entelechy, but held back, blocked by the melatonia, the GABA fluid, etc? Just in there waiting? Or did it enter me along with the seed? (Pre-natal instructions! No wonder I felt myself to be under the guidance of Asklepios -- and dreamed of doctors! And got primarily medial/healing advice, which goes with what Christ himself offered, for the same reason
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Certainly, Before, Doris, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Information, Except, Dead, Today, Otherwise, Human, Doesn, Right
+
+---
+### Line 1014-1022 (Match: 'Christ')
+**Folder**: part of
+
+```text
+The conduit is the optic nerve, the eye the receptor percept organs, but the message is to the pineal body, not the brain. Generally, photon light messages travel to brain-reception; but as the Psy Today article shows, some are "intended" for the pineal body (springtime).
+
+One could speculate that this is the purpose of human beings: Why We Are Here -- to serve as the recipient "female" "mothers" for the implantations of the solar spermatika, the divine seeds. Curiously, this would bear on Doris' point about the item in Catholic Agitator that Jesus' healing activities were not only primary, it was that which most crucially angered the Romans. I asked her, "Why the hell would healing these bodies for us be a primary act on His part, especially since these bodies will die anyhow; they're healed, but they aren't made into anything but what they are, i.e. they aren't immortal." Well, if these bodies are to serve as the "wombs" for the solar spermatika, then healing such a body would be "pre natal care," and certainly logically crucial. Doris and I both agreed that even without knowing precisely why healing these bodies was primary it did show that there was some vast importance to our physical lives here. Healing us would be a logical continuation of creating us in physical form in the first place; it is a stage, but now I am thinking that it is a "launch stage," a platform --I hate to say host situation, and "host" isn't right because the divine seed and the human "mother" bond into a duplex entity which is not in accord with the meaning of "host." (A baby is not a parasite in the strict sense, only when one views it in a value sense; in which case all children are parasites to their parents, and anyone in need is a parasite on the rich, etc.) (And the sick to the healthy; any outstretched hand...which brings us back to Gospel symbolism.) God is the Father; the select mortal (human) male or female is the mother, into whose spirit the seed is placed; but the human (or so Christ assured us) has plenty to gain: she/he/it isn't discarded as the seed grows, because it is a Light Body which involves eternally the human mother. Carrying "her" with it when the rotting fruit decays (dies). This is the only way our physical body can become a fruit containing a seed; otherwise it is only a flower: pretty, but temporary, ephemeral. It does not give birth (except to other ephemeral flowers, a procession of them), missing their true purpose.
+
+It doesn't seem to me that it's just speculation that it was my pineal gland to which the primary message went, and which was primarily stimulated; because: (one) the dreams of three eyed people, with the third eye being the Hindu 3rd all seeing eye of enlightenment dead-center in the forehead. And (two) the pineal gland is affected by light, according to Psy Today, in early springtime, at the vernal equinox or just before...probably it can be computed at the precise time (March 18) (1974) that I experiences the chromatic progressions. However, this still leaves the issue of, Where did all the information (e.g. written) come from? Disinhibited (i.e. this was all engrammed inside, in my entelechy, but held back, blocked by the melatonia, the GABA fluid, etc? Just in there waiting? Or did it enter me along with the seed? (Pre-natal instructions! No wonder I felt myself to be under the guidance of Asklepios -- and dreamed of doctors! And got primarily medial/healing advice, which goes with what Christ himself offered, for the same reason
+
+Last edit over 5 years ago by Harpax
+69
+Needs Review
+```
+**Co-occurrences**: Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Certainly, Before, Doris, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Information, Except, Dead, Today, Otherwise, Human, Doesn, Right
+
+---

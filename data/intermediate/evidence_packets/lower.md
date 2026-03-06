@@ -1,0 +1,342 @@
+# Evidence Packet: Lower
+
+- **Category**: Top Term
+- **Total Mentions**: 25
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1534-1542 (Match: 'Lower')
+**Folder**: part retained
+
+```text
+This is very much a confirmation of Aristotle's idea (mentioned in Dante) of three distinct human souls in each person, two of which are mortal (as I recall the vegetable & animal) and then one which is immortal, which is pure thought that delights in philosophy and contemplative wisdom, etc. Possibly, since what the daimon brought to me in anamnesis was memory of notable ideas and thoughts of Attic Greece, only this soul is retained by the daimon, carried off out of the dying mortal man; just as when we tape record what we hear on the radio we do not tape record everything, we record just what we consider to have an enduring value. Thus, the spirit brought me no trivia of that time period, but its "third soul" sophia-like concepts.
+
+To clarify, then, each of us is not immortal, but partly immortal; parts do die off and wither away with the body, but one part retained by the daimon as it leaves the duplex dialo[n]g fusion goes on into the collective demiurge, forever.
+
+. . . Meaning RM about the Will. It was not that my will was replaced by another or another's, but that my passive, willness, learned-helplessness was replaced by a Will, but not mine; from the unconscious, whatever and wherever that is...also, it not only decisively chose, but it chose and [?] before the danger (which had to be responded to) arrived; which alone disclosed its supernatural quality. That this will was in me but not mem that it came "trailing clouds of glory," that it was as the daimon of the Greeks is described --an indwelling guardian deity or mediator between man and the gods-- shows me my own nature: that although I don't have any true will, there resides in me a very powerful true will and it acts to preserve, guard and protect me; so I am very [?] as possible. Certainly few men know this about themselves, and their condition. I am not alone. This entity, whether as the [?] Greeks believed it is a shade of one who lived during the "Golden Age" (i.e. in my case Brasmus) or actually, Dionysos -- the fact remains that it is armed with total knowledge and total wisdom. It is indeed god-like, even if it was once a mortal (again eg Brasmus). Now it is not mortal; it is bonded to God just as it is bonded, evidently, to me (the mediator, as described). To lose contact with either me or with God would be for it to lose its role as mediator; it must link up at both ends, upper and lower. It is either divine or semi-divine; I certainly knew this about it at once. It partakes of God's vision; I knew this at once, hence I thought it might be Elijah. But Rollo May causes me to examine the fact that it is my will, the only will I have, and it is not me; it is superior to me, for which I rejoice. I think that the pure bubbling joy I felt several times (e.g. when I was loaded, when I heard it laughing, the whole springtime vision) indicates it to be Eros, who brought life, motion and joy to the world; certainly, when not acting as pure will (during the original crisis danger threat situation) it is joyful, even playful. Perhaps more important than it being my will (although that does maintain my life, especially in crisis), (and perhaps underlies all my writing, which is from my unconscious and involves my will, or rather it, its will) is the fact that it is my [G]round of being with whom I can engage in dialog. (Ala Buber.) I have touched my ontological nature, here. Nietzsche is right; the will is the ground of being. And the will is superpersonal or transcendent. I will never be able to view myself as I did before: the weak, puny mortal at the mercy of all the forces of his society & universe. It is
+
+Last edit over 5 years ago by Harpax
+109
+Needs Review
+```
+**Co-occurrences**: Acts, Spirit, Sophia, Greek, Golden, Wisdom, Dionysos, Perhaps, Elijah, Like, World, Since, Only, Time, Harpax, Even, Does, Just, Once, Again, Both, Being, Although, Everything, Dante, Divine, Aristotle, Either, Gods, Anamnesis, Part, Their, More, Another, Soul, Ground, Actually, Certainly, Before, Consider, Greece, True, Universe, Will, Deity, Would, Very, Attic, Whatever, Have, Life, Body, Memory, Whether, Knowledge, Upper, During, Human, Evidently, Right
+
+---
+### Line 1575-1583 (Match: 'Lower')
+**Folder**: book COSMIC
+
+```text
+God works through evolution, not to circumvent it. This, too, would explain my strong intuition that what happened in 3 74 didn't consist of one desperate event and supernatural solution, but the inevitable outcome of an entire lifetime. All my life I had been moving toward this metamorphosis; the dormant possibility of it lay slumbering in me from birth; of my dreams of childhood, where I arrive on a raft avoiding Scotland Yard, climb to the top and then turn out to be a cookoo egg. This would explain why now I feel that unless I went through everything I went through I couldn't have gotten there; my metasystem wouldn't have fired. It was programmed to fire after the proper sequence. (of events? of learning? of experience? of trial and failure????? aha!) had passed, and all the changes, or steps or stages, necessary had taken place in me.
+
+Makes much, much sense.
+
+Got my right hemisphere to fire. Instinctively knew how to do it: the ortho-molecular vitamins, the manta, etc. Did like the bird in building a nest. Made myself a nest and then lay down to wait, expecting. And it came. The golden fish necklace told me it was time; I began my work, like the worm constructing its coccoon. In order to die, in its original primal lower form, to be remade into a better newer creating! To fly up from the "sea" into the sky!
+
+I imagine these jumps forward, back to the Cambrian Period, are associated with pain and stress and a great deal of uncertainty and fear. The creature toils alone, under duress, staggers or ventures out into the unknown, to his species anyhow...he much exhause all the possibilities which they still rely on for better or worse; he must try, be urged on by the life force, the elan vital, to break new ground. He suffers, maybe fails. Exhausted, oppressed, but finally the night ends --maybe-- in gasping victory. The bright light floods over him from above, signal he's succeeded: The Jewish-Christian myth which says that we once had these faculties and lost them --devolved-- might
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christian, Form, Fish, Golden, These, Maybe, Like, Golden Fish, Time, Harpax, After, Light, Anyhow, Once, Everything, Great, Jewish, Still, Wait, Through, Ground, Finally, Would, Back, Under, Have, Life, Unless, Right
+
+---
+### Line 2224-2232 (Match: 'Lower')
+**Folder**: BOOK OF
+
+```text
+Last edit over 5 years ago by Harpax
+
+166
+Echkardt also speaks of this happening to a man who has misstepped (vertreten, as I recall); God, then, corrects the mis-swing of the man and brings him back to the Tao or Logos. This, then, is the macro/micro/macro schema that I drew, with God as the great macro; then myself the micro; then a fragment of the macro, of God, inside me at the very exact certain specific center (concentric rings). God is at the deepest heart or ring or level inside, and also outside everywhere; He replaces the world, resembling it as if He had transubstantiated --infused Himself-- into everything, connecting all things into the One. The macro Godhead would be the Brahmin; the inner "macro" would be the Atman. This Divine birth, though, I believe, is quite different from the Child being born in the mind, which has to do with a new self, with psychic integration; instead of giving birth to a child, one gives birth to what resembles the Wise Old Man (its nearest archetype). The birth, not of the son, but of the Father! That this divine birth took place in me spotaneously, without my knowing about it, trying for it, having any wisdom or knowledge or practicing any techniques -- this is important, showing its unquenchable aspects. What good did it do the Romans to kill people and burn their writing, if this can occur now spontaneously, with no trans-cultural link of any sort...especially if, as in my case, after the event occurs, the transcultural link is generated ad hoc, a priori, noetically, etc? God lived once; He died, or rather He slept; He slept in us. The human soul is the image of God (Eckhardt); out of this image, God is reconstructed, reconstituted, printed back out: the original reborn from its image. (Crypte --- morphosis, etc). The sleeping or dormant form within is God Himself, like Ptath in Van Vogt's novel, THE BOOK OF PTATH. We are all sleeping avatars of God, with amnesia. The human soul: DNA coding for God!!! But man does not reconstruct God out of this "DNA" coding; God reconstitutes Himself Himself. (Adventitious to the human being whole soul it is.) The man cannot say, "I am God," or "I have become/turned into God." Rather, God flashpointed him to make use of him to become Himself once more, an event in micro, in space-time. The mortal human only anticipates, as a lower life form, the Form to come.
+
+This is all a 4 billion year evolutionary process on Earth. God is the outcome, the backward teleological purpose of it all. In my James-James dream, Kathy represents the last step it can go causually; for the next step to occur (from man the mortal to God the immortal) someone adventitious (the scouts) must come here, from non-Earth, outside, etc. They relieve the tension (pressure) on the incumbent form, the human being, by a transmutation of him, rather than a "higher species" born from a physical womb. It will somehow resemble a healing or therapeutic act, an integration or curing (from madness to sanity, sickness to pure health), of the organism, man, qua man. Lead into gold, in the mystical Alchemical terms.
+
+One clearcut indication that this is indeed the next step up is its informational homeostasis: it is self-informing, as no creature ever was before. Thus it/he can't be cut off from knowing, as were our ancestors. To be self-informing it must transcend its own experience (which means its own life); this is an index of immortality right there. Self-creating, self-informing -- self-renewing -- this is indeed God. This might explain a major mystery of natural evolution (selection): how can an organism give birth to something greater than itself?
+```
+**Co-occurrences**: Logos, Form, Roman, Wisdom, Godhead, Father, James, Like, World, Only, Time, Earth, Harpax, After, Good, Mind, Book, Does, Something, Once, Being, Atman, Self, Everything, Divine, Himself, Great, Without, Kathy, Their, More, Soul, Gold, Before, Macro, Will, Would, Somehow, Were, Very, Back, Have, Things, Life, Instead, Wise, Having, God Himself, Knowledge, Greater, Human, Dream, Ptath, Right, Someone
+
+---
+### Line 2945-2953 (Match: 'Lower')
+**Folder**: Book of
+
+```text
+-1-
+
+There is an implication in "St. Sophia will be reborn; she was not acceptable before” that I haven’t noticed. All other reali zations aside, this single sentence links Wisdom of The Book of Wisdom and Prov. 8 with Christ, as Christian thought has done, although it isn’t explicit —stated— as such in the Scriptures. This shows that this identification is correct. Thus this one single sentence contains even more information that I had thought, and I already got a great deal from it. And it is a further piece of information which I myself could not have known. It is truly an adventitious statement. Well, I done placed it in DEUS IRAE whithout fully comprehending it, which is okay; let someone else do so...of course, put in print like that there is no implication that I didn't consciously know what I was saying, tiahat I hadn’t researched it. I will just look awfully versed in theology, esp. Hellenistic theology.
+
+Aristotle's distinction between the sublunar world and the supralunar world, leading into NeoPlatonism (in the latter it is believed that the supralunar world —the band of fixed stars— can reach down into this world, which would be the same as grace). Determinism rules here; freedom there. This agrees with the mystery religions view of God freeing man (through His intervention, which is to say, grace again; cf the worship of Sarapis et al.). (Christ would be one of these.) Hence I saw in several dreams a viewpoint from above looking down into a stagnant ocean, with us as creatures of that ocean...the sublunar world seen from the supralunar world (above). This agrees with Jesus' "...On earth as it is in heaven," heaven being supralunar, earth being sublunar. This sheds much light on the Christian idea that when you die, if you performed well here, you get to ascend to Heaven: i.e. you rise (or more accurately, you may rise) from the sublunar realm to the supralunar realm. However, you may fall even lower: to hell. All at once the whole Christian worldview no longer seems vague, hopefulmerely or orbitrary; in context it makes sense, and must have made that sense to the whole Hellenistic world. Heaven is the heavens, the realm of fixed stars, or even above ("Ubrem Sternanzelt"),. If, during one's lifetime in this the sublunar realm, one finds favor with God, then upon one's death one ascends. Merit is acquired here; it is decided here if one ascends or descends. A demonstration that one has found God's favor would be an intercession by God here, during one's lifetime, the supralunar entering the sublunar in the form of grace. It all fits together. This is why in 3-74 I sat outside at night watching the sky, the stars. Could it also be said that the mere phenomenological world which I feel is "fake" is the sublunar world? And the real world is the supralunar? But I have never really drawn the bottom line on this: if it was indeed St. Sophia who spoke to me and for me, then it was the Logos, Christ, since she is that same Savior, God's First Begotten, the Light of the World, Wisdom Itself. What my experience has shown is that John is correct in applying the concept of the identity between Wisdom of the O.T. and Christ of the N.T.
+
+Last edit almost 5 years ago by svayambhu108
+225
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Logos, Jesus, Form, Sophia, Well, However, Wisdom, These, Plotinus, Like, World, Since, Fall, John, Earth, Savior, Book, Light, Even, Okay, Could, Just, Look, Once, Realm, Again, Being, Although, Aristotle, Great, Deus, Grace, More, Through, Heaven, Real, Such, Upon, Before, Irae, Death, Will, Would, Other, Further, Have, Fake, Information, Freedom, Deus Irae, During, Someone
+
+---
+### Line 3997-4005 (Match: 'Lower')
+**Folder**: part I
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+31
+. So these 3 are roughly equal: ET1 cAlbemuth) âž€ ( our future our past (now) it may be just a forloon hope that we, upon death, return (or go) to heaven - i.e. the stars - i.e. our ancestral home, albemuth. it may be an atavistic memory only; the JWs may be correct: that it must be established - + will be - here, if we are even going to return to the condition, we had + lost as the Gnostics say, we don't belong here, + can retrieve memories of our lost home, but evidently we did come here + must make the best of it. This is a totally eclectic one taking elements from all 3 theories. Maybe it's so, maybe not. Most appealing to me is the tutulary, parental, protecting element. The whole thing just seems right. I more fully understand why they were here (I in better empathize their motives, intentions via this theory) + what they intended to do; it sure makes comprehensible what they intended to do (+ did do). Although nothing could exceed the element of God himsed, these added elements seem to bring it into greater conformity with the situation itself (i.e. with my experience). Nothing which I have worked out so far need be discarded - this is not a different theory but the same one with important addition. This theory fits in very well with the dreams in which we are looking down at a stagnant pond, or conversing with lower aquatic life forms, + the pond turns out to be our world, + the cover life forms ourselves. However, this amended theory casts a totally different idea over the material in my writing (probably limited to later books such as Ubik, mage, tears. Frolix). (Well, maybe earlier stuff too like Impistor. But certainly in later stuff) who, then, put in the material? For the most part I guess I put it in, but - there is
+
+Last edit almost 3 years ago by svayambhu108
+32
+Needs Review
+```
+**Co-occurrences**: Tears, Ubik, Form, Gnostic, Well, However, These, Maybe, Like, World, Only, Book, Even, Could, Just, Although, Frolix, Probably, Nothing, Part, Their, More, Most, Heaven, Such, Upon, Certainly, Death, Will, Were, Very, Have, Life, Memory, Later, Greater, Evidently, Right
+
+---
+### Line 4188-4196 (Match: 'Lower')
+**Folder**: book which
+
+```text
+Last edit almost 3 years ago by svayambhu108
+58
+Needs Review
+58
+68 I just couldn't grasp it. The 1st Advent occurs every spring (he is born "again" so to speak; it occurs "again) but really it is only once other model: vernal equinoxe t Advent I time : (station) (revolving) of t The new personality I experienced was the fundamental fact of rebirth (renewal) derived from the saviors perpetual renewal at that date (march zoth). This evidently in what is actually meant by "being born from above (again); a trans-mundate-world person (ality) is incised on you - as it were from above, rather than up from below (it is adventitious). The Roman world memorie ae are the incidentals of the anamnesis, associations due to the fact that it occured at that time + that place (i.e. culture). my rebirth (e.g. new personality, Greater vitality + health, wisdom + intelligence) are the "as it is in heaven (upper or macro), so on Earth (lower, micro). So to speak the unity of the realms: his will done here, as it always is there. in mid march (by God's grace, this timing) my personality, hence my world, disintegrated (my preconceptions, V-P + perception of reality), + into the vacuum due to the time of the cycle, rushed in - not denied by convertion - the epiphany of Christ. This would not have happened, say, or dead winter; I saw - experienced - what was (at that moment) actually happening? I saw him (Christ) born into the world, + transsubstantiate it I saw "as a little child." without predetermined preconceptions a
+
+Last edit almost 3 years ago by svayambhu108
+59
+Needs Review
+```
+**Co-occurrences**: Christ, Roman, Wisdom, Advent, World, Only, Time, Earth, Just, Once, Again, Reality, Being, March, Anamnesis, Without, Grace, Heaven, Actually, Macro, Will, Would, Other, Were, Have, Spring, Upper, Dead, Greater, Evidently
+
+---
+### Line 4436-4444 (Match: 'Lower')
+**Folder**: part is
+
+```text
+5 mind coming into being is all of us, but: not just us; it is us incorporated into Holy Wisdom herself - again Corpus Christi. But now regarded as -not just organismbut brain which it knows (knows what? itself? the entire universe at last becoming sentient?
+
+Well I actually know the result: I see now that what happened to me in 3-74 was that I got "arranged" (incorporated) to this vast mentational entity, which is not only the why it all I suddenly knew, but in addition the how (this is how you get to know everything absolutely -+ maybe the only way).
+
+So in 3-74 I was temporarily incorporated into the growing physical brain which non-material noös is assembling. Not the brain producing mind, but mind producing brain - which assimilates the universe to it as sentient unitary mentality. which proves my point about the adversary being blind: as is (not incorporated) the universe is - without consciousness - purpose - coordination + is: random, chaotic. unawake, purposeless, destructive of itself, moving for complex + higher to simpler + lower - in fact the whole damn thing is without sense of pattern or goal heedless of everything it creates - is blind what we experience is a blend of the 2: anima + kosmos (cf Augustine) - so we perceive some purpose., but also random, chance, accidents, my structure based on my revelation, resolves the paradox (along Plato's lines) the Kosmos part is called "Divine Providence"; my contribution is to see that it is growing in proportion to [not-p?] Even more accurately, this Kosmos is experienced + expressed as "the will of God".
+
+Last edit almost 5 years ago by svayambhu108
+
+6
+```
+**Co-occurrences**: Holy, Plato, Well, Wisdom, Maybe, Only, Holy Wisdom, Mind, Even, Just, Again, Kosmos, Being, Christi, Everything, Divine, Corpus, Augustine, Without, Brain, Part, More, Corpus Christi, Actually, Revelation, Universe, Will, Suddenly
+
+---
+### Line 5005-5013 (Match: 'Lower')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+26
+23 Thus perhaps it can be said that Zebra wished to disclose itself to me (hierophany) + arranged the [causal steps necessary. This ought to end this discussion, except: did Zebra disinhibit a personality that could see him (it was the enhanced vision due to the presence of the particulon disin hibited personality? I mean, I don't see how it would follow that just because an earlier personality re-emerged it would neces sarity be able - mate me able - to see Zebra In that case (i.e. the experienced arranged by Zebra) it desired more - more was involved - than my merely correctly dealing with the Xerox letter. I'm sure that could be arranged without my ever seeing Zebra, etc. If (since) Zebra arrange the disinhi t biting, perhaps my seeing it was a prime objective - the prime one surely I've repeatedly realized that the entire disinhibiting process was engineered by Zebra. As the modern protestant theologians say, God must take the initiative; man can't. Thus it would seen that, as the EB says, the main purpose of the intervention (with me) was to display (reveal) his reality, goodness, knowledge + powers It was above all things an end in itself. Spiritual things are never subordinated to the material. God descends + man thereby is elevated. Perhaps what is/ was represented here is the principle of at least limited adoptionalism. The superhuman being. I saw are intermediate between man + God, to which level I was raised. so many of my dreams represented the company of the divine I would suspect that at the end of things the personality of Thomas" will absorb me, rather than the other way around; he is the saved (restored) self along my historic (genetic) line. We will be rolled up in him, + he finally in the father. The greater will assimis late the lesser (lower) until final union with God is achieved "Thomas" is my avenue, my bridge, back to God. Between me + God there is too great a gielf; I must be transformed into Thomas" for it to be bridged, + very likely this is precisely what happened in 3-74. "Thomas" shows that that vast gulf can be bridged - + it showed exactly how. "Thomas" was without imperfec tion; he was a perfect man. So back along my genetic line lies one fully justified man: sufficient to serve as a psychopomp for us all, we lesser ones of his species. "Thomas" showed man as knew. he was/is supposed to be: consider what he could see + what he
+
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+```
+**Co-occurrences**: Thomas, Zebra, Xerox, Perhaps, Father, Since, Because, Could, Just, Reality, Being, Self, Divine, Great, Without, More, Consider, Finally, Will, Would, Other, Very, Back, Surely, Many, Things, Except, Knowledge, Greater, Final, Until
+
+---
+### Line 5309-5317 (Match: 'Lower')
+**Folder**: book it
+
+```text
+Last edit almost 3 years ago by svayambhu108
+78
+Needs Review
+78
+75 + scriptural support can be found for this "assimilation" theory - it comes from Paul when I characterized Ubik as containing scien tific knowledge. I was right: the information from Runciter (as Christ) breaking through as spokesman for Ubik (God?); I was expressing what the noosphere is/will be doing (certainly I saw it already doing it in 74) by way of informing us, addressing us. I am saying in Ubik, "this is going on, this verbal information breaking through into This world from a vast benign - but-human entity who was here but died + is now speaking to us in all ways from als sides" like pere Teilhard's views, this passes over from theology into a description of scientific fact. I now assess the assembling going on, which I saw by Zebra, not merely as it creating itself (though that probably is So) but the assimilating (+ in doing so rearranging) this universe to itself: i.e. incorporating the "sundered" sublunar world âž€ it was doing that; âž€ + communication by juxtaposing; + 3) modulating causal processes for the better. 1) Assembling the new structure out of the "pile of parts" making up the antecedent universe 2) inserting its verbal messages by juxtapositions of pieces our own, etc. of 3) redirecting the outcome of deterministic (or chance) causal processes the way Plato describes Noos doing with ananke H) related to (1): reanimating (virifying or spiritualizing "lifeless" or "lower" matter, by its own identity. by analyzing these four things it was doing I can more readily view it as not pantheism (it isn't the "pile of parts" + it isn't the total verbal stuff + it isn't the causal processes + objects before modulation + insertion. Zebra is entering an extant structure, + he is/was wit that structure. This view fits
+
+Last edit almost 3 years ago by svayambhu108
+79
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Zebra, Plato, Paul, These, Like, World, Noos, Teilhard, Runciter, Probably, More, Through, Certainly, Before, Universe, Will, Things, Information, Knowledge, Human, Right, Ananke
+
+---
+### Line 5715-5723 (Match: 'Lower')
+**Folder**: part of
+
+```text
+Indexed
+7
+7
+
+The 3 eyed Sibyl - was that Holy Wisdom? Deities from Greek + Hebrew antiquity: Asklepios + Elijah, Zagreus, the Sibyl. the cyclopse. If I am insane then so were they. + all the koine words - + always we get back to Ubik + "The man contains -not the boy- but the former man" + the whole form-regression - except in my case it was thousands of years, not just a century (but the principle is the same: the present unpeeling to expose the lower, earlier layers, like geological strata exactly. But along the form (orthogonal?) axis. ___ The J. Bible gloss on John says that the whole purpose of the Messiah's coming "is to baptise in the Holy Spirit," which flows from his (Christ's) resurrected body like water from an inexhaustible spring, conferring life. "The spirit rests on him + so he can confer it on others." This is the Adoptionist view - that at Christ's baptism by John, God sent. Mark: 'The Messianic secret': not until after his death was anyone to know that Jesus was the Messiah. Fascinating. I didn't realize that. A secret the 2nd time? No. He will come as rightful king to openly claim his kingdom. But - yes, this is implied by the words "...she was not acceptable before" implying this 2nd time will be otherwise. Look! The historic intervention, the overthrow of the conspirators - that there is alone a crucial difference. This time Caesar has been deposed. The way is being prepared. In fact, the intervention of '74 is best understood not intrinsically but as the beginning; Wisdom (Christ) is already here. Revelation: (+) "The definite sign of the establishment of the Kingdom is the destruction of the enemy of God's people! I.e. Babylon." Is this not what took place in '74? Did I not flash on the fact just 2 days ago that Cyrus besieging Babylon was the besieging I'd had the vision of - as having taken place? Rev: "The time of waiting is over... God's secret intention will be fulfilled" - + the (+) footnote here! J. Bible gloss, Rev 17:"Rome (Nero) is guilty of the double crime of idolatry + murder (v. what the Sibyl said about the conspirators having murdered our leaders -
+
+Last edit over 5 years ago by Toso
+8
+Indexed
+```
+**Co-occurrences**: Christ, Ubik, Toso, Indexed, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Bible, Wisdom, Elijah, Like, John, Time, After, Holy Wisdom, Hebrew, Just, Look, Zagreus, Being, Messianic, Sibyl, Babylon, Secret, Before, Revelation, Death, Will, Messiah, Were, Back, Caesar, Life, Body, Spring, Days, Having, Except, Otherwise, Until
+
+---
+### Line 5820-5828 (Match: 'Lower')
+**Folder**: part of
+
+```text
+Last edit less than 20 seconds ago by Gabriel Mckee
+7
+Needs Review
+7
+i Rome I wonder if I can make a case (vis-a-vis viewing CAD 70 superimposed on Fullerton 1974) not for retrieval of the past but an expanded present - as in how Avicenna envisions the way God sees time. But that which is revealed when all these layers (like the phosphene graphics) are [rapidly] superimposed is Rome: as if by flipping the pages past out of the many [frames] emerges the one - the underlying force. That would mean that what I saw as Rome c. 70 AD was not an earlier frame, but the form revealed within all the [historie frames, right up to now. In which case it is not a "wass surfacing in the "is" but the underlying is throughing, which is to say, it is as true (real) now as it ever was. This would point to "Rome C. AD 70" as not being a former time. But the real time now - only visible via an extended - present perspection. It's like stop action photogry this makes it clearly an essence -to-accidents situation. Or "latent form the master of obvious form." + Rome, the latent form, doesn't become visible except unde "high speed forward" frame - runs. This is the how. Long term memory retrieval - anamnesis - produces by its very nature, this many-frame, "fast forward" within which (id within its enormously expanded slot-like present) the enduring form is visible - with the eternal Xtian opposition as well. These are the lower inner layers of reality as presented in "Ubik." So "Ubik" contains two truths. 1) previous time layers lie within present phenomena, + can be retrieved; + (2) information drifts "up" to us from some kind of substratua beneath. This means that what we normally see, with our narrow time-slot (restricted presen) are merely epiphenomena the whole thing has to do with time, with an overwhelming of normal linear time by some other kind of time or no time of all
+
+Last edit almost 3 years ago by svayambhu108
+8
+Needs Review
+```
+**Co-occurrences**: Christian, Ubik, Rome, Form, Well, These, Like, Only, Time, Gabriel, Mckee, Gabriel Mckee, Reality, Being, Anamnesis, Real, Fullerton, True, Would, Other, Very, Many, Clearly, Memory, Information, Except, Doesn, Right
+
+---
+### Line 6380-6388 (Match: 'Lower')
+**Folder**: book came
+
+```text
+Last edit almost 3 years ago by svayambhu108
+30
+Needs Review
+30
+60 when anamnesis occured, I perceived that I was in the fortress of the enemy - the slave empire. Although we had long ago blown it up, it was still here, + only an external column at its gates could destroy its leader + free the prisoners (slave workers) within. The relieving column would be led by the King itself (v. the "James-James" dream). Not earthly rebels but the heavenly host itself would have to attack. We inner agents could not do it alone - from inside - the King + his column of Knights were necessary. This latter could (e.g. the dream in "Tears") be a graphic representation of Zebra's orthogonal - time intervention through the 3:5 gate ("window"). The column would not approach physically on the linear time landscape (as in "Fidelio") but would breach through into linear time (as in the dream in "Tears" + according to Bible prophecy). Did this happen? Yes. Inner agents such as myself were, on their own, helpless. The orthogonal breaking through + reweaving - the stone uncut- would have to happen. it did. +, like the lightning. Zebra (Christ) was everywhere at once, awakening his followers (This flock"). However There has yet to be the 2nd Advent; he could not be seen by unenhanced eyes. He had no physical body the JWs con‐ sider him to have been located invisibly in the atmosphere since 1974. My dreams were often from that vantage point - looking down into a stagnant pond at lower life forms. St teresa of Alvila: Jesus now has no body but yours t was this Thomas? This would accure with the "when I was naked you did not clothe me; when hungry you did not feed me." + they said, But Lord, we did not know it was you." Such an important passage - he would return as one of the persecuted + lowly - perhaps not incarnated but "using" (i.e. theolepsy) poor in spirit human bodies temporarily (which fits with the J. Bible glass: "the voice of the Holy Spirit is heard in human courts: ) recollection of a long + distinguished life as knight + rebel making war on the slave state empire
+
+Last edit almost 3 years ago by svayambhu108
+
+31
+```
+**Co-occurrences**: Christ, Tears, Thomas, Spirit, Holy, Zebra, Jesus, Holy Spirit, Form, King, Empire, Bible, However, Lord, Perhaps, Advent, James, Like, Since, Only, Time, Could, Once, Although, Anamnesis, Still, Their, Through, Such, Voice, Would, Were, Have, Life, Body, Human, Dream, Free
+
+---
+### Line 7940-7948 (Match: 'Lower')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+83
+Needs Review
+83
+80 + physical nature, + the process - not of abolish physical nature but transmuting it. This is what I saw Zebra doing (which I termed transub‐ stantiation by a sentient plasmatic entity). Out of This transmutation of the empirical universe by triad the divine comes harmony between the upper (spiritual) + the lower (empirical) A German cobbler in 1616 + me - for him me the sunlight reflected from a pewter dish-for the Golden Fish ecklace, + in the light cast by Spirit the incarnation of the son (God as heart) its disclosed + the Kingdom (reconciliation between The two triads) achieved After reading about Boehme I can see why I was getting nowhere. My schema was naive - far too simple. specifically, material nature - its things + processes - progressively become more + more subject to God's will (which I perceived as a sentient modulation of causal chains to determine their outcome as part of a plan or Logos). I know from what I saw that this exercise of divine will acting on the material world is well-advanced. this is what Jesus referred to in the prayer" - thy will be done on Earth as it is in heaven." I witnessed it done on Earth; I am God's human witnessed. aised by him from the dead. I had to spiri tually (mentally) die first
+
+Last edit almost 3 years ago by svayambhu108
+84
+Needs Review
+```
+**Co-occurrences**: Spirit, Zebra, Logos, Jesus, Kingdom, Fish, Well, Golden, World, Golden Fish, Earth, After, Light, Jakob Boehme, Divine, Part, Their, More, Heaven, Universe, Will, Things, German, Upper, Dead, Human
+
+---
+### Line 7952-7960 (Match: 'Lower')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+85
+Needs Review
+85
+88 - the urgrund is the abyss, or"+ when it Nothing collides with the byss (something) - it must transmute the something, not abolish it. The Trinity + higher + lower triads of Boehme may be extraneous (when Occham's Kazor is applied as principle), but there or not, what we have is the divine abyss transmuting material reality as a process in linear time. Where does the divine agony enter? Why? Before the incarnation? Isn't the incarnation The intrusion - the initial intrusion- of the divine aby ss into the mundane something? Christ said, "I have conquered the world. It was like an impregnation of matter (yin) by the creative divine (yang). But the divine will is thwarted; it encounters opposition (Boehme pointed this out). Matter has hysteresis (or inertia). Its entropic direction must be transmuted into negentropism - a titanic task possible only in a protracted process or series of sequential steps. The intruding light is rejected our problem may be that we have no comprehension of the inner necessity of sequence in this transmutation could our agony be microcosmic replications of the macrocosmic divine, with which we are (isomorphic; + 2 Actual fragments of, like bits of a hologram: intact Gestalts but dimmer" or less defined. The urgraund sought self-intuition. We as diminer bits have not yet achieved that self-intuition; hence, when we suffer, we do not know why. Up the hierarchical scale there is still suffering - even perhaps an increasing level of suffering at each hierarchical stage - but also at each ascending stage there is a quantum leap in a selfintuition which bestows (permits) greater understanding of why there is this suffering. At the top, the incarnated son (heart, Logos, etc, St. Sophia) knows himself totally knows totally why he suffers. It is due to the blity + The flash of the encounter between the divine abyss the something - which must be "overcome" (transmuted this is why Paul can speak of the whole universe
+
+Last edit almost 3 years ago by svayambhu108
+
+86
+```
+**Co-occurrences**: Christ, Logos, Sophia, Paul, Perhaps, Like, World, Only, Time, Urgrund, Light, Even, Gestalt, Yang, Could, Does, Jakob Boehme, Something, Reality, Self, Divine, Himself, Nothing, Still, Before, Universe, Will, Have, Trinity, Greater
+
+---
+### Line 7957-7965 (Match: 'Lower')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+86
+89 being in birth pangs." Here enters the cosmic aspect salvation presented in collosians. of There is one thing that indicates that Boehme's "upper + lower triads" must be retained as part of the model: it would explain why ➀ prior to 3/74 I saw no divine entity at work (Zebra); then did see it; the (3) didn't again. We can see only the lower triad (v. Boehme's system). By the light of The Holy Spirit we can see the upper - i.e. spiritual triad, which is what I saw. "The Flash is the collision, as if were, between the absolute will + nature. Herein the Spirit reveals in its light the higher triad identified with the sor as the incarnation of spirit in matter this is the goal of the divine operation, whereby the opposition {Not is overcome + made into a harmony." N "Thus the Father differentiates himself through The first (lower) trial into material nature. An ob‐ stacle is thereby created to the abysmal will, which can be overcome, not by abolition, but only by transformation." It was the Spirit whose light illuminated the upper (spiritual) triad -temporarily - for me. What it disclosed may or must have been the cosmic plasmatic Christ. + it spoke of his 2nd incarnation fon the So I can't edit out portions of Boehme's system simplify it. But I can see how colossians can be + collated with Boehme's system i
+
+Last edit almost 3 years ago by svayambhu108
+87
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Zebra, Holy Spirit, Father, Only, Cosmic, Light, Jakob Boehme, Again, Being, Divine, Himself, Part, Through, Will, Would, Were, Have, Absolute, Upper, Salvation
+
+---
+### Line 7985-7993 (Match: 'Lower')
+**Folder**: part of
+
+```text
+Needs Review
+90
+93 Therefore I say, what was revealed was the absolutely good, the absolutely wise + loving + divine. In contrast to My certitude about this, any knowledge of an evil deit is merely secondary + deductive (or inductive) - but not given direct. Every bad aspect of non-transmuted reality can be accounted for - not by the activity + presence of an evil deity but by the absence of a power‐ ful benign deity. Yet I witnessed such a deity. I could not assess the extent of the transmutation. For all I know, it's vastly advanced. For all I know it isn't. take the statement by the spirit to me back in 1968 about the Galapagos turtle. The import of what the spirit said was that even though it appeared
+
+other‐ wise, the dying turtle was somehow extricated: "+ she shall see the sea." one could extrapelate + say that This statement implies that even what appears to be, or remain [unsubdued] evil is invisibly ameliorated wa mysterious way Boehme wrote that man (i.e men) have a choice illumi‐ nated for them by the light of the spirit: we can remain in torment as victim of the oscillations of the lower triad (or material) universe, or "die to our self" - negate ourselves as the urgrund does, + thereby imitate Christ + follow him from suffering to triumph (joy). Thus anguish is ultimately something to overcome, not fall victim to. Anguish is the starting point. So we must not tarry in anguish, but paster with "gladdening fortsteps." In 3-74 at the heart of hisery + despair I found supreme joy + freedom; it t
+
+was totally transmuted. This is Taoistic. (+ didn't Hera‐ Clogus teach this unity of opposites, if pushed far enough I o
+
+Last edit almost 3 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Spirit, Fall, Therefore, Urgrund, Good, Light, Even, Could, Does, Jakob Boehme, Something, Reality, Self, Divine, Such, Universe, Deity, Other, Somehow, Back, Have, Freedom, Wise, Evil, Knowledge
+
+---
+### Line 8021-8029 (Match: 'Lower')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+96
+99 So 3, not 2 stages or worlds can be discerned 1) A real world - from which we fell. 2) a delusional, or many delusional worlds. 3) a new real world, consisting of - rather than created or made by, the benign deity. + then other novels + stories of mine investigate fakes, deceit, the unreal, etc. In collating this to Xenophane's description of God what is added is process - that of an assimilation of the material world (lower triad) into the upper (spiritual which will result in "thy will be done on Earth as it is in heaven." Xenophanes was aware of the all-pervasive thinking God, but he did not realize that for it to be "all in all" it had to penetrate the material world + begin to transmute it. But Plato distinguished the two realms (ideal vs empirical), although, not knowing Christ, he could not foresee the assimilation of the of lower or "came of refections" world. No - Xenophanes was aware of ➀1 the world of mere appearances vs ➁ the real (invisible) world - all the pre‐ Socratics were. What he + all the others did not know was that a process by which this dual reality structure could be replaced by a single reality was going to set in, by Christ, to restore the original pre-fall harmony of inner-outer/upper-lower/spiritual-material, that a spiritualization by infusion + substitution would set in. The spurious world of deluding appearances ("the many would be progressively + stealthily transmuted, not bolished. The normal thought would be, "Let's abolish o it but Boehme correctly saw transmutation, not abolition
+
+Last edit almost 3 years ago by svayambhu108
+97
+Needs Review
+```
+**Co-occurrences**: Christ, Plato, World, Fall, Earth, Could, Jakob Boehme, Reality, Although, Xenophanes, Heaven, Real, Will, Deity, Would, Other, Were, Many, Upper
+
+---
+### Line 8052-8060 (Match: 'Lower')
+**Folder**: Part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+101
+109 This pits God against death, pain, sickness. injury, loss + decay. Whereas if one reasons that God works through nature, God becomes the s of all this evil ourse + to say that he lifted me out from the grip (i.e. prison) of nature, + freed me, mean s he freed me from the material universe (of matter - the lower triad) itself. I had been nothing but a robot, a machine (as I told sergeant kelly). God restored my lost freedom - hence all the inner + outer images of the Black Iron Prison, prisoners, + external (to the material universe) intervention we are talking about the Subhuman which does not know it is under an exterial control at all times. The concepl "salvation" means nothing it to because it does not realize that it, like the is totally enslaved (e.g. by the DNA) Salma Gnosticism must be turned to as correct now another novel of mine enters: "Clans." This is so a prison world, re my Metz speech about that, + God's historic intervention. He did not interveni th one individual (i.e. me) but for all men, on an historic scale, where I differed from others was not in being freed (since they were, too) but in seeing it. For some reason it was given to me to see to understand, + to remember the previous prison world as well as the change-process; other people are unaware /or have forgotten.
+
+Last edit almost 3 years ago by svayambhu108
+102
+Needs Review
+```
+**Co-occurrences**: Well, Gnosticism, Like, World, Since, Because, Iron, Prison, Black, Does, Being, Black Iron Prison, Nothing, Another, Through, Metz, Death, Universe, Other, Were, Under, Have, Freedom, Evil, Remember, Iron Prison, Salvation, Whereas
+
+---
+### Line 8058-8066 (Match: 'Lower')
+**Folder**: Part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+102
+Needs Review
+102
+10 I It may be that the divine is re-entering not I s 3 entering our universe (viz to -=: this would I indicate a fallen state of our world, + the divine enters at the botton - i.e. in the trash, the lowly The discarded. Christ spoke of the tiny Mustard seed, + the gloss on the J. Bible spresses that the Kingdom will enter inconspicuously - very small: i.e. lowly. Where we would be least likely to look for it (cf "The stone rejected by the builder" This realization is very important. + this lowly, trash, bottom penetration it i exactly how I portrey it (Ubik) in "Ubik on match folders: in tawdry commercials t thereor lie the divine messages Entra from the "provinces" - Galitee - now takes the form of entry from trash in the gutter on up - a trashy (S-F] novel which contains trash (the chapter opening commercials) is the triomphant return of the rightful king. "Ubik" is trash containing an even lower orde of trash: the UBIK commercids - but which are in fact roy de. The entry of God into the material universe equals the manifestation of the Kingdom, since kingship of God is more precisely meant. Always we must turn to the Lord'; prayer: "May the will be done on Earth as in heaven" - i.e. brought or entering here t which logically implies a place or state (situation) here on when (where) it was not done. Earthy Do I rememeer the former (Black Iron Prison) world because I wrote about it so often - therefore revised memory for me woorld not suffice to conceal "ta etrack A"?
+
+Last edit almost 3 years ago by svayambhu108
+103
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Form, Kingdom, King, Bible, Lord, World, Since, Because, Therefore, Iron, Prison, Earth, Black, Even, Look, Divine, Black Iron Prison, More, Heaven, Universe, Will, Would, Kingship, Very, Memory, Iron Prison
+
+---
+### Line 8919-8927 (Match: 'Lower')
+**Folder**: book is
+
+```text
+Last edit almost 3 years ago by svayambhu108
+40
+Needs Review
+40
+38 ceases to be experienced as corpus dei but as irreal (Dokos) A point re 2). Here the world is seen to be more like man than in 1), because as he is aware of is; it is aware of him - but only in 3) does the heightened similarily over 1) become true isomorphism, which is the true state of things (this includes, supra, the abolishing of the world, leaving only man + God i ho are now one Evil (+ evil God) + irreal worlds are correctly shown in "Stigmata" the invading of an evil 68 + irreality into actuality. but in "Ubik" it is reversed: the a world is already irreal, + the good deity invades it; + the good deity is related to reality in the same way that in "Stigmata" the evil one is related to irreality. So "Ubik," not "stigmata," describes the i rue nature of our actual condition: an irreal world in a del by a good God. The turning point in this exegesi i came when I recognized Zebra as an invader into this world, from beyond. Thus ends pantheism, + of cou te I have long recognized the quondam world as delusionary. one could again meld "Stigmata" + "Ubik" w to I a cosmogony of our irreal world; origin: a Palmer E (ahitch sort of entity spun it out, + now a Ubik entity is n vading it. This is very Gnostic; but to reconcile my cosmology + cosmogony with my "lower level decision s t revelation, I cannot posit evil being in charge, but only a lesser - i.e. imperfect - good. God's overruling, then, adds good + presses it from imperfect or relat ore or partial good (a dialectic?) into total absolute goo t the arena for this being space + time.
+
+Last edit almost 3 years ago by svayambhu108
+
+41
+```
+**Co-occurrences**: Ubik, Zebra, Gnostic, Like, World, Because, Only, Time, Stigmata, Good, Could, Does, Again, Reality, Being, Palmer, Corpus, Dokos, More, Revelation, True, Deity, Very, Beyond, Have, Things, Absolute, Evil, Dialectic
+
+---

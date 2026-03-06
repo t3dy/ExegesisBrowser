@@ -1,0 +1,344 @@
+# Evidence Packet: Gnosticism
+
+- **Category**: Top Term
+- **Total Mentions**: 319
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 535-543 (Match: 'Gnosticism')
+**Folder**: Unknown
+
+```text
+Complete
+33
+Undoubtedly the alchemical meta(crypte)morphosis worked in the human (lead to gold) contains a key to this transformation cycle of all society, of earth itself. After my own transformation, done via gold (the fish wrought in gold) I had a ferocity about --a maniacal antipithy toward-- lead in particular, base metals secondarily, but certainly a sense that lead was a poison, destroyer of life, killer of health (the dream: "The bichlorides are a very poisonous poison" suggests the alchemical symbol or reality of lead as poison was there in my head -- Albert Magnus, Simon Magnus, et al. I saw the world under the vector-aspect of gold, and I saw the former point or filter color presenting me with the departing base metal, the oncoming gold.
+
+It certainly shows that the alchemists were seeking a symbolic transmutation of psyche or maybe noös, not metal qua metal (which Jung and AMORC have pointed out). That something equal to turning lead to gold can happen in the person, in his mind -- this is certainly extraordinary, and makes the upfront alchemist's story (lead to gold) an allegory of man's progress spiritually (again the magic of the mystery religions). So in considering what happened, how it happened, who (if anyone) arranged it and what for, the alchemists and what they actually were up to must be considered. This could have been a spontaneous process in me, in which I obtained that very lead-to-gold transmutation sought for by the alchemists...that they sought this is certain; that they found it is speculation. I am sure many of them did undergo this crypte morphis, invisible to the outside. It is possible that I did it alone (the experimentation with the ortho molecular vitamins and so forth being my "alchemical experiments"), but it is also possible that a Redeemer caused it adventitiously (Gnosticism versus Neoplatonism). The spontaneousness of it would indicate that, like any true chemical reaction, it is not reversable. I think that the first dream being the baby's cereal box with the "the bichlorides are" etc on it indicates an external Grace assistance or intervention; I was and am being told by someone else...which the AI system of Albert Magnus maybe was. (The problem solving question answering head.)
+
+The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
+
+It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese States of America" dream is typical. I dreamed all manner of explicit alchemical symbols (the homonculus, the retorts interwoven...flask of Hermes, the fish, etc.), out of Jung's description of the self in the process of psychic integration experiencing noetically these prior consciously arrived at symbols (prior in terms of centuries -- thus his theory of the Collective Unconscious, that such symbols could arise in a modern man who did not know them, who had no way of knowing them -- like me with the Greek. But this
+```
+**Co-occurrences**: Complete, Fish, Greek, Wisdom, These, Plotinus, Maybe, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, America, Magic, Hermes, Human, Dream, Someone
+
+---
+### Line 580-588 (Match: 'Gnosticism')
+**Folder**: part was
+
+```text
+The distinction here between a special disinhibiting external stimulus for a special (unusual or even unique) "second stage or meta stage" system -- versus breaking a limiting factor with the fish sign which everyone has, to release a metasystem which everyone has -- this is the difference between (one) a godlike divinity which made me as entelechy different from other man versus (two) I was the same but He freed me; He could --will-- free them, too. Only special part was my release.
+
+This distinction defines the difference between the purpose and meaning of the mystery religions, based on the "orphic" discovery, and anamnesis within Christianity per se, uniquely; that He shall free the world, not just certain men. Also, it assigns the role of freeing agent to Him, as "God's grace," not to special knowledge on my part, etc., special gnosis or initiation, etc. If anything could be said to have defined it happened to me it was His Presence and Reality, plus my need.
+
+The latter against all Neoplatonism and ever gnosticism, although less so. And against all mystery religions, although based on the awareness of submerged (blinded) inner spark.
+
+V. Tagomi in the park. Was there anything special about Mr. Tagomi? He was intensely human, and in need.
+
+He was not a great man.
+```
+**Co-occurrences**: Christianity, Fish, Plotinus, World, Gnosis, Only, Even, Could, Just, Reality, Although, Orphic, Great, Anamnesis, Grace, Part, Will, Other, Have, Tagomi, Knowledge, Human, Free
+
+---
+### Line 1043-1051 (Match: 'Gnosticism')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+
+71
+One could assume, I guess, that the divine seed is in every one of us, but remains dormant (crypto morphosis); it is never fed, and this feeding comes to the pineal body via sunlight. So there is no implantation. I myself, I felt something (Firebright) was implanted. I had visions of Firebright's heavenly parents. That sounds like more that celestial food. Which do we have, a quickening, an awakening, or an implantation? The parables about the seeds sown...they don't make it certain (some sown on barren soil, some on rock, some on good soil, etc.) If one had had a dormant seed all ones life, and it had never stirred, come to life at all, and then a shaft of fire-light from the Sun of Righteousness cause it to come to life for the first time, one might sense an implantation from outside; something which was not oneself. (Sasha must feel that way, with her little new unborn kittens inside her. "They came from outside." But in fact they were fertilized from outside. Okay, fertilization is what takes place: it isn't a seed such as a plant has, but an egg such as a human woman ovulates, and a cosmic spermatika fertilizes it; a zygote is produced. Firebright is a combining. Here would be the crucial distinction between Neoplatonism and Gnosticism, which I feel so strongly about: the former is sort of self-fertilizing, parthonogenesis, so to speak, but in Gnosticism you have the idea that the Savior is absolutely necessary, so we have here the idea that something entirely from outside one is necessary, it comes along (God's grace) and if it doesn't come, then there is no zygote, no Firebright, no seed, no immortality. I always felt Gnosticism was correct over Neoplatonism; viewed this way, it is evident why. The Neoplatonist knows what happened, in a basic way, but he feels he did it by himself: up by his own bootstraps. A personal achievement. I guess this is a failure to know about the "birds and the bees," as the "Decoded N T" points out. How are babies born? By thinking about it, or by copulating? Let's be realistic; it takes a union, always true in higher forms, of which we are one. This is why the "Dec N T" can so plainly declare that no meditation, no prayer, no affirmation of belief, is going to do it. It is done to us, not by us. All each of us can do is accept -- i.e. receive.
+
+You are to be "meek," i.e. Yinnish, humble, receptive, but what overpowers you (the father!) is fierce, like Elijah, seeking justice and truth, powerful, definitely Yanglish, and the not-you. Just the opposite. Possession by the God (vide Virgil describing Appollo taking over the Sibyl. You may be masculine to other humans, but to Him you are feminine, passive. Now, the Mynaeds of Dionysos did not seem to believe (read know) that a permanent fertilization, acquisition took place, but the Orphics certainly did; here lies a vast distinction! The being-overpowered leaves something forever, but after the beatific vision, the Firebright Second Birth, what is born, lives on, eternally. What a jump from the mere Dionysian frenzy to Orphism and beyond, to Christianity! What a realization of the value of being possessed!
+
+This borders on the Sufi: becoming God. One does "become" God while he possesses you, but then he leaves. But -- well, it's like poor Leda. Vide Yeat's poem. But look at the progeny: Helen of Troy.
+```
+**Co-occurrences**: Christianity, Form, Well, Dionysos, Plotinus, Elijah, Father, Like, Time, Harpax, After, Cosmic, Savior, Good, Light, Firebright, Okay, Could, Does, Just, Something, Look, Being, Self, Orphic, Divine, Himself, Sibyl, Viewed, Grace, More, Orphism, Such, Certainly, True, Would, Other, Were, Beyond, Have, Life, Body, Justice, Truth, Human, Doesn
+
+---
+### Line 3057-3065 (Match: 'Gnosticism')
+**Folder**: part of
+
+```text
+Here is a better explanation: I have a daimon, as Socrates had, a guardian (tutelary) spirit within me. I heard it speak first during my physics test in high school, then in the '60s about the great turtles. In 3-74 due to the extremity of danger facing me, the daimon surfaced and took control entirely. I heard its thoughts, which were in Greek. It remembered the antique world and knew the mysteries. It was an early Christian. Then slowly it sank back down. The voice, female evidently, which I continued to hear, the voice which spoke in my head at night which said, "St. Sophia will be" etc., was/is it. It still speaks to me (e.g. the words tutelary, epiphany, etc), but at a reduced level (as before 3-74; not quite that reduced, though). It inspired, among other works, UBIK. It put the dream material in TEARS. Perhaps it is a woman, a Greek woman. I see her, then, in my dreams: as Aphrodite, as the sibyl, as Linda Ronstadt singing...I hear her voice as the "A-l" voice, the neutral voice of wisdom. What makes my daimon-experience different from what Dr. Bucke described is the fact that (I know) my daimon is Greek and from 2,000 years ago. I know (Ach Gott!) that once it/she/he lived, was a person, a very wise & educated one, evidently with great powers, who wished/intended to come back. I would guess (here a true guess begins) that if anyone brought it back it was Christ who did it. What I must never lose sight of was how, at its height, it revealed itself as part of the cosmic body of Christ all around, a living environment which I (and she/it/he) was within, fed by and informed by; tnis was its greatest vision, before it began to sink back. Next in order of significance, I guess, were its memories of a stellar, cosmic origin: the stars. I think that in Feb 76 when I tried to kill myself it was she/he/it would fought back (my creator, I thought at OCMC) and eventually triumphed.
+
+Item. A porno subtrack on an LP buried unaer other tracks is stegenographia. I was beginning to traneliminate accurately when I heard the filth on KNX-FM; nobody else could hear it...it prepared the way to (1) transliminate the daimon, and (2) the Xerox information. The veil, inside and outside, was off.
+
+Gnosticism: "The true purpose of Gnostic develation was to free spiritual man from astral determinism." Especially if man knew his origins in the pleroma. It is Gnosticism & Gnosticism alone which denies the patriarchal Jewish-Christian religion and enshrines Sophia as the creator goddess. So says Neumann in the E.B. My experience of the lady — it is exactly Gnostic. None else. In my revelations all roads & aspects lead to her; this is Gnosticism.
+
+Last edit almost 5 years ago by svayambhu108
+234
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Xerox, Sophia, Gnostic, Greek, Wisdom, Perhaps, World, Cosmic, Could, Once, Great, Sibyl, Jewish, Creator, Still, Part, Living, Voice, Before, True, Will, Would, Other, Were, Very, Back, Have, Body, Information, Wise, Aphrodite, Socrates, During, Dream, Evidently, Free, Pleroma
+
+---
+### Line 3063-3071 (Match: 'Gnosticism')
+**Folder**: part of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+234
+Needs Review
+234
+I've seen her, heard her, in many guises, and finally the name "St. Sophia." Gnostic revelation has broken through into my head in the modern world. I think anyone versed in Gnosticism who read my notes would say, "You're a Gnostic." I am not happy about this, but it is so, based on 3-74. Simon Magus lives. Also, it is a thoroughly Greek syncretistic system. I must go where truth (as I've experienced it) takes me; my experience is of St. Sophia. Well, this is a modified Gnosticism, with Sophia sanctified as Wisdom of Proverbs and the book "Wisdom," so that it can be made to jibe with the Bible; thus Christ becomes the female spirit Sophia in a male body, a syzygy. Ah! Yes! This is the complete person! The missing half which Plato wrote about. In Jungian terms, psychological completeness; psychic integration. Not either or but both and. At last; the repressed female goddess Prinzip breaks through into Christianity, in a Third Testement or Covenant. Father (0. T.), Son (N.T.) and daughter or mother (3rd T.). The first emanation from God, according to the O.T., so I guess daughter as demiurge (cf Plato). The Godhead remains behind her; I experienced that; she is the Pantocrator. Ma'at. Or rather Pantocratrix. Two aspects differ from Gnosticism: It is holy Wisdom, not just Sophia; and: she was born before and rejected, which identifies hers with Christ, hence the Logos. This restores the cosmological quality to the system, lost in Gnosticism; the creating spirit (universe creating) is holy & good, not fallen (blech). And this maintains Christ correctly as the Redeemer and Revealer.
+
+Pantocrator: ruler of the universe. Creator and Savior com¬ bined. Also judge. He is represented as holding a book, bound, of the Gospels. But if the Pantocrator is/was creator (which is so) then it is close to Gnosticism, with their Sophia as creator, but the same exactly as the Bible with Wisdom (or Christ) as the actual creator of the universe, rather than God. In a sense Gnosticism is a correct exegesis of the Bible (i.e. Proverbs 8 and "Wisdom"). (And Paul in assigning the role of creator to Christ, who equals Holy Wisdom.) The Gnostics were grappling with the problem of why the space-time universe is so inferior and we are cut off from the pleroma — the answer of the Christians being the fall of man by Adam. Why are we in this dim place when we once were in that bright place? is the q. for both. We were once there; it is a far better place; we are going back; our father is there; it is our natural home — all this is derived from revelation and has passed into general Christian belief (like in the spiritual "Going Home"). Anamnesis (as with the Orphics too) brings recollection of celestial origin. The continual unanswered question is how come we fell? Nobody knows, and none of the answers is convincing; they're all obviously guesses & myths and arbitrary. Recall the story about the son sent on an errand to a strange land, who forgets his origins and lives there believing he's a native, and then a letter comes from his real parents, which restores his memory (Book of Thomas?), and he starts the journey back. Why was he sent to the strange land? and why did he forget his origins? Really, there are two unanswered questions. Anyhow, that is the state of things: exile and amnesia. But also: the Redeemer who restores us to our original estate, which seems to be after death (I guess), or else in the coming of the Kingdom of God here, which doesn't imply after death but an as simulation of
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Orphic, Covenant, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Journey, Things, Body, Memory, Jungian, Truth, Magus, Doesn, Pleroma, Answer, Simon Magus
+
+---
+### Line 3065-3073 (Match: 'Gnosticism')
+**Folder**: Book of
+
+```text
+Needs Review
+234
+I've seen her, heard her, in many guises, and finally the name "St. Sophia." Gnostic revelation has broken through into my head in the modern world. I think anyone versed in Gnosticism who read my notes would say, "You're a Gnostic." I am not happy about this, but it is so, based on 3-74. Simon Magus lives. Also, it is a thoroughly Greek syncretistic system. I must go where truth (as I've experienced it) takes me; my experience is of St. Sophia. Well, this is a modified Gnosticism, with Sophia sanctified as Wisdom of Proverbs and the book "Wisdom," so that it can be made to jibe with the Bible; thus Christ becomes the female spirit Sophia in a male body, a syzygy. Ah! Yes! This is the complete person! The missing half which Plato wrote about. In Jungian terms, psychological completeness; psychic integration. Not either or but both and. At last; the repressed female goddess Prinzip breaks through into Christianity, in a Third Testement or Covenant. Father (0. T.), Son (N.T.) and daughter or mother (3rd T.). The first emanation from God, according to the O.T., so I guess daughter as demiurge (cf Plato). The Godhead remains behind her; I experienced that; she is the Pantocrator. Ma'at. Or rather Pantocratrix. Two aspects differ from Gnosticism: It is holy Wisdom, not just Sophia; and: she was born before and rejected, which identifies hers with Christ, hence the Logos. This restores the cosmological quality to the system, lost in Gnosticism; the creating spirit (universe creating) is holy & good, not fallen (blech). And this maintains Christ correctly as the Redeemer and Revealer.
+
+Pantocrator: ruler of the universe. Creator and Savior com¬ bined. Also judge. He is represented as holding a book, bound, of the Gospels. But if the Pantocrator is/was creator (which is so) then it is close to Gnosticism, with their Sophia as creator, but the same exactly as the Bible with Wisdom (or Christ) as the actual creator of the universe, rather than God. In a sense Gnosticism is a correct exegesis of the Bible (i.e. Proverbs 8 and "Wisdom"). (And Paul in assigning the role of creator to Christ, who equals Holy Wisdom.) The Gnostics were grappling with the problem of why the space-time universe is so inferior and we are cut off from the pleroma — the answer of the Christians being the fall of man by Adam. Why are we in this dim place when we once were in that bright place? is the q. for both. We were once there; it is a far better place; we are going back; our father is there; it is our natural home — all this is derived from revelation and has passed into general Christian belief (like in the spiritual "Going Home"). Anamnesis (as with the Orphics too) brings recollection of celestial origin. The continual unanswered question is how come we fell? Nobody knows, and none of the answers is convincing; they're all obviously guesses & myths and arbitrary. Recall the story about the son sent on an errand to a strange land, who forgets his origins and lives there believing he's a native, and then a letter comes from his real parents, which restores his memory (Book of Thomas?), and he starts the journey back. Why was he sent to the strange land? and why did he forget his origins? Really, there are two unanswered questions. Anyhow, that is the state of things: exile and amnesia. But also: the Redeemer who restores us to our original estate, which seems to be after death (I guess), or else in the coming of the Kingdom of God here, which doesn't imply after death but an as simulation of
+
+Last edit almost 5 years ago by svayambhu108
+235
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Orphic, Covenant, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Journey, Things, Body, Memory, Jungian, Truth, Magus, Doesn, Pleroma, Answer, Simon Magus
+
+---
+### Line 3574-3582 (Match: 'Gnosticism')
+**Folder**: part in
+
+```text
+September 15, 1976
+
+Dear Dorothy,
+
+I wanted to add a footnote to my earlier letter about my religious discoveries: new light shed on them through an interview with a lady reporter who came to see me yesterday. I mentioned to her that 36 of my novels asked the question, What is real? which is the basic question of all Greek philosophy, starting with Parmenides who felt that what we see is "dokos" or a kind of counterfeit reality, behind which lies a real or absolute reality; this distinction is later found in Kant. I told the lady reporter that my newest novel, VALISYSTEM A, is not this question repeated but the answer given, and she pointed out that after 25 years I seem to have arrived at an answer. For the first time I realized that my religious experience of 1974 was indeed an answer to a 25 year seeking, and not mere happeenstance, and I saw it in perspective for the first time. That my answer should be the Christian answer did not appear to disturb the lady reporter, but she pointed out that those fans who had grumbled at my asking the question, "What is real?" repeatedly would probably now grumble at the answer which I had found, which was a blend of Platonism, Neoplatonism, Gnosticism and Christianity, with nothing really new in it. Later I got to thinking of how many factors had gone into my finding this answer. I had just had several teeth removed, and was still under the influence of sodium pentathol, for one thing. As a second major factor, I was experimenting with the orthomolecular vitamin formula, and had accidentally taken 7 grams of vitamin C, much more than is indicated. Thirdly, a girl had come to my door with a gold fish necklace, which had fascinated me, and she had said, "This is a sign used by the early Christians." Also, I own a very old wooden saint figure, and for some reason had been moved to burn a votive candle before it perpetually. Too, it was the time of the vernal equinox, which is near Easter and the Jewish Passover. All these factors were causal in producing what happened; neural firing took place in the right hemisphere of my brain for the first time, and there was a radical drop in GABA fluid, which is the inhibiting fluid, allowing metasystems to fire for the first time (I use Maslow's terms here). The experience did not come easily, and, as I mentioned in my earlier letter, I was in a unique state of fear and dread. My first stage of the experience was to undergo the Bardo Thodol journey, and was then suddenly surprised to find myself confronting Aphrodite, who Empedocles believed to be the generative principle of all life, of all love and the formation of krasis or gestalts in the universe, as opposed to the principle of strife. What this meant I did not know at the time. Soon thereafter I was treated to 8 hours of violent phosphene activity, resembling modern nonobjective graphics such as those by Klee and Kandinsky; at this point I was aware that another mind was reaching out to my own, but I thought it human, perhaps a Soviet telepathic experiment. The sense impressions were overwhelming. When the phosphene activity ended, I felt that I had regained my sight, that I had been blind all my life ana could see for the first time. What I saw, then, were the mysteries of the universe; and at the same time a theophany took place, the mani¬ festation of a divine entity which passed into my own mind, displacing my ego and becoming a theolepsy. From there on, in visions, dialog and dreams, it informed me of all things which were: the actual or absolute reality I had been seeking for 25 years. One of the first actions this
+
+Last edit almost 5 years ago by svayambhu108
+288
+Needs Review
+```
+**Co-occurrences**: Christian, Christianity, Fish, Greek, These, Perhaps, Plotinus, Parmenides, Time, After, Platonism, Mind, Light, Gestalt, Could, Bardo, Just, Soviet, Thodol, Bardo Thodol, Reality, Empedocles, Girl, Divine, Probably, Jewish, Nothing, Brain, Those, Still, Dokos, More, Another, Through, Real, Gold, Such, Kant, Love, Before, Easter, Universe, Would, Were, Very, Under, Many, Have, Mani, Journey, Things, Life, Absolute, Aphrodite, Later, Passover, Suddenly, Human, Right, Answer
+
+---
+### Line 4033-4041 (Match: 'Gnosticism')
+**Folder**: part I
+
+```text
+Last edit 8 months ago by Zebrapedia
+35
+Indexed
+35
+35 In fact, once anamnesis occurs, the person expands to a near god-like level, with virtually supernatural powers + perception, evidently because he has been transformed to this High level, can pass easily + naturally back into the Garden, which he can (among other things) now see. So identity (ie. what you are), memory+ salvation are interwoven, all of which suggests Neo-Platonism with its concentric rings of emanation. But it also resembles Gnosticism doctrines about the divine spark remembering its origin in another better world, so that it can get out of here + return to its home, this also resembles the doctrines of India.
+
+What I'm faced with at this point is the realization that I cannot really explain or comprehend what happened to me, + perhaps I never will. There are Jungian explanations, S-F explanations, occult explanations, plus ones I probably haven't thought of. But will. A power + entity as vast as the one I encountered in me + around me - if it doesnt deserve the name God I dont know what term to use for it.
+
+In answer to "what happened in 3-74?" the I Ching gives me #46: ascending, promoting, + comments, "the weak ascend." Interestingly this hex[agram] has to do - not with expansion - but with vertical ascent: "direct rises from obscurity + lowliness to power + influence." ALSO, it is pushing upward associated with effort +: "one pushes upward by steps," meaning: "one achieves one's will completely." Each line suggests a better pushing up, + this line is the culmination (the top is bad - but 5 is the ruler).
+```
+**Co-occurrences**: Indexed, Perhaps, Like, World, Because, Garden, Platonism, Zebrapedia, Once, Divine, Probably, Anamnesis, Another, Will, Other, Ching, Back, Things, Memory, Jungian, India, Salvation, Evidently, Answer
+
+---
+### Line 4539-4547 (Match: 'Gnosticism')
+**Folder**: part of
+
+```text
+We hadn't been there (black I.P.) I had been. The whole uncut some - the Gold fish + gal, me not us.
+
+Whole new theory: Black iron prison world not memory but subspecia aeternitas of our world; the CP USSR secretly runs the whole world.
+
+God. Determinism = CP world. In 3-74 I saw this world at this time as it really is - the devil's world. Gnosticism is correct. The scales fell off, + not only did I get saved but also my son. True Xtianity is a tiny thread in this devil run CP world.
+
+Zebra has invaded our world replacing merciless determinism with its own loving + living body, to deprogram + save us, this is the great white fish giving us of its body, by which it suffers pain, that we might live (find salvation - freed from "astral" determinism). The Black Iron Prison is simultaneous in all time planes + it is the merciless world from which the living Corpus Christi saves us. I have seen it + its nature - + Zebra + its. It has the (magic to us) power to transform
+
+Last edit less than 10 seconds ago by Gabriel Mckee
+```
+**Co-occurrences**: Zebra, Christianity, Fish, World, Iron, Prison, Only, Time, Black, Gabriel, Mckee, Gabriel Mckee, Christi, Black Iron Prison, Corpus, Great, Corpus Christi, Living, Gold, True, Have, Body, Memory, Magic, Iron Prison, Salvation, White
+
+---
+### Line 4575-4583 (Match: 'Gnosticism')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by mccuelena
+20
+Needs Review
+20
+20 That same purpose necessary is/was serves by this B.I.P. However, I see in the superimposition by invading by Zebra a dialectic opposition to this would, not just improvement.[I]. Functions, my noetic vision shows two game-player as opponments at strife with each other. I think Zebra knows what it knows and when it knows it-and when it doesnt. It never fails, in what is true. To do because it never attempts what it cant do-which certainly doesnt mean it knows it can do everything. it wins but only [trick by trick]; step by step. It is pitted against J-J and they are rather evenly matched. A zero[astrion] dualism (in Gnosticism) seems involved. Since J-J always moves (acts)first he very much resembles the Bad (limited) creator God of Gnosticism, with Zebra the "kind stranger" god who enters in to give assistence to us here. Also the way I learned all this fits with the how learned of the Gnostic revelation. I can readily see a difference between Zebra savior, us and the [revelation] itself to us; it can do the former without doing the latter..but specifically in Gnosticism salvation comes through revelation- that is not only a definition of a fundemental meaning of the term itself, but also the content of my revelation was very much the content. To define Gnosticism is to talk about saving revelation about 1) a B.I.P. [world]; 2) a blind or purposeless evil or [dammed] creation; 3) an external-to-this-world salvitic entity wntering out of kindnessand extending a secret revelation which consists of knowledge about this world not otherwise known. let me outline what was revealed to me not known generally.
+
+1) the world is a Black Iron Prison of determinisn, in which we have the deliberate inspired delusion of individual freedom (free will), whereas in [concealed] fact we are programmed by mercies mecahnical force which use us seamlessly. they control us and cause us to do as they please- we are slaves who work, suffer and die for no good reason; meanwhile we believe there is a point to all this illness and [labor] and misery.
+
+2) the creator of this world doesnt care what happens to us, and kills and maims us recklessly.
+```
+**Co-occurrences**: Acts, Zebra, Gnostic, However, World, Since, Because, Iron, Prison, Only, Black, Savior, Good, Just, Everything, Black Iron Prison, Without, Creator, Through, Certainly, Secret, Revelation, True, Will, Would, Other, Creation, Very, Meanwhile, Have, Freedom, Evil, Knowledge, Dialectic, Otherwise, Iron Prison, Salvation, Whereas, Free
+
+---
+### Line 4616-4624 (Match: 'Gnosticism')
+**Folder**: book and
+
+```text
+Interesting--if the xerox letter is connected with the Soviet interests in Ubik, since it is in ubik in which the entity which saved me from the xerox letter is described! Maybe there is a connection: Lem-Ubik/Ubik-Xerox Letter
+
+The soviet unit about UBIK and the to get me to come over there, because I write UBIK, nad it is UBIK in the actual world which opposes them and saves me. Ah! UBIK (zebra I mean) doesnt want the person (as they) who wrote about it(evidently who it inspired and informed and made use of to unit about it) to fall into soviet hands I never thought of before. That coincidence. maybe Zebra/UBIK would have protected me-even did- against anyone who read the book and knew what I didnt and who this to net me may be to try to see how I knew and I knew more, and if so what Zebra/UBIK may consider nightly that I got into trouble due to what it influences me to say, so: the answer to the question, why did Zebra disclose itself to me is: it caused me to unite Ubik, I got into trouble because It's based on a [great] secret hidden truth, so it wishes to protect me.
+
+the missing piece in Gnosticism is the "imprisionment [spark?] of the divine" and loss of memory as to [publish?] identity , but this is exaclty the anamnesis and [navigation?] I had in 3-74: regaining memory and sense of divinity, the [after?] being a staggering discovery about my self.
+
+Last edit over 3 years ago by etherfire
+24
+Needs Review
+```
+**Co-occurrences**: Ubik, Zebra, Xerox, Maybe, World, Since, Fall, Because, After, Book, Even, Soviet, Being, Self, Divine, Great, Anamnesis, More, Secret, Before, Consider, Would, Have, Memory, Truth, Evidently, Answer
+
+---
+### Line 4622-4630 (Match: 'Gnosticism')
+**Folder**: book and
+
+```text
+Last edit over 3 years ago by etherfire
+24
+Needs Review
+24
+24 I certainly got that, + only Gnosticism + neoplatonism contain that. In fact it was that most of all that I experienced A new schema: the Lord of the universe (Brahman God) saw the crail "dead" (prechanistic) world that YHWH had greated here + sent his son, Zebra, to do battle for us against our own creator + world. That is why although our world has been here much longer, Zebra only appeared C. 600 be + later to heep. The dialectic interaction I saw is Zebra fighting the greator demiurge. But Zebra is not infinite in power or knowledge; he is divine + not God - + K.W. is right; he mimiced being a man while here as Jesus; that's why he was resurrected. Zebra is not just our savior; he is our champion, doing battle on our behalt as advocate champion ("the sign of man) + comforter. The structure is Taoistic: Yang (3-7), yim (Zebra) + Tao (Brahman a God). God's stasis is achieved by the interaction of the 2 adversaries ("the secret partnership it Vishnu + Shiva). But the Gnostics are wrong: no mistake occured. God deliberately get J-J start, since J-) is yang the creat God (fire + ice, maybe), knowing he must after a period of proto creation send the son of man to balance J-5. Thus Christ says, "Before Abraham was, I am." most of what I know came directly by revelation (3-74 on), but I has alread, discerned that the reality of our world was not as it seemed, + that we had blocked of f memories as to our origin + purpose ("Impostor"). However the proof if Zebris success at mimicing is shown by the fact that it wasn't until Ubik that I even guessed his existence it wasn't until tears that I clearly saw the nature of this world (i.e. prison + us as slaves). not only are we prisons here but due to maya (wizardry) we have been deprived of our long term memories + identity.
+
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Ubik, Zebra, Jesus, Gnostic, Brahman, However, Lord, Plotinus, Maybe, World, Since, Prison, Only, After, Savior, Even, Yang, Just, Shiva, Maya, Reality, Being, Although, Divine, Creator, Most, Certainly, Secret, Before, Revelation, Universe, Creation, Have, Clearly, Later, Knowledge, Dialectic, Dead, Comforter, Impostor, Right, Until
+
+---
+### Line 4633-4641 (Match: 'Gnosticism')
+**Folder**: book and
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+26
+(6) I can see an identity (trinitarian) between the inner entity + the external one + an identity by the both, fused as nothing less than God - the true God which, by being both inner + outer is everywhere it is to me as if only that which lives is real - + because of Zebra reality itself lives as his body. I 3-74 reality (ontologically speaking) poured back into the world, but it was a reality it had never [previously] had. The Q: "is what I see real?" was answered. "It is even more real than it seems but real only because what you see is an outward manifes tation of divinity. What is real about it is the divinity + not it in itself as seen." Dokos, the veil, starting out as copy - counterfect - is given ontological reality later on by Christ (which is pure Gnosticism). Christ has turned the faulty demiurge's feeble fake into authentic substance - a great miracle - just as He takes us who are perishable + doomed to die + gives us an imperishable eternal life this famous transformation of men, much discussed by pared, has its counterpart in the whole universe (as object or series of ob jects, not alive) which would explain what is referred to by the statement in the Bible "the entire univered groans in Birth pains" (& labors to bring forth [new] life) more than a process involving us as human individuals is involved; all creation seems to be meant. Again, this seems to conform to the Gnostic idea of true life being breathed into the feeble (demiurges] copy (a Platonistic - + accurate-conception). This must be why I sensed reality as irreal; I was experience the aspect of it being mere copy. Not the real thing. What I did not see is that God in her graciousness is transforming it by stages into the real thing, a process which has progressed far. On the surface nothing seems changed. As people did not perceive the feeble copy as such, so they do not see the great ontological newer presence) they did not see the lack + so can hardly be granted a vision of the gain. I was lucky; I first saw the look (original state) + then saw the replacement of copy by essence s
+
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+```
+**Co-occurrences**: Christ, Zebra, Gnostic, Bible, World, Because, Only, Even, Just, Look, Again, Both, Reality, Being, Great, Nothing, Dokos, More, Real, Such, True, Universe, Would, Creation, Back, Life, Body, Fake, Later, Human
+
+---
+### Line 4639-4647 (Match: 'Gnosticism')
+**Folder**: book and
+
+```text
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+27
+that essence could be added later, without disturbing the phenomenal surface, is an [extraordinary insight], & exactly what Gnosticism teaches, rather than abolish the
+
+Last edit over 4 years ago by green.daisy
+28
+Needs Review
+```
+**Co-occurrences**: Could, Without, Later
+
+---
+### Line 4691-4699 (Match: 'Gnosticism')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+36
+3 18 is theory about a single God will work unless b power +/or knowledge is regarded as superior but his finite, in which case he is not "God" with a capitue the two alternatives me G 1) Two mutually opposed deities (dualism) 2) superior, even God-like being (s), life for but not God. the noetic info showed (1) which as always brings me back to Gnosticism (for reasons already detailed - supra, In the case of (o, some or even all (or most) of the prefigured etal engramming may not be by the God, inter vering deity (entity). Is it not against this very deterministic engramming (programming) that the intervertion comes? But hark! the prefiguring engramming is a retrograde, teleological at work; i.e. the wise, good deity (entity). The bad of blind one grinds out in regular linear time - into which counsel + info from the Good entity intrudes, ala Runciter. This (prefiguring) teaching is also interventive; 3-74 was not unique, just extreme I suppose the yang, creative efficient-cause linear entity can be regarded as being as necessary as the yin teleological receiving one (i.e. the interventive one) but from a salvific stand point it is the latter we must turn to for help. Beyond doubt it is the latter (Christ) whom Christianity regards as salvific, the worlds, activities processes + presence of the 2 are blended to our unaided eyes. In 3-74 I was caused or permitted to distinguish the two - a truly Gnostic revelation, + quite secret, since it discloses this world as the evil kingdom (v. Gnosticism), which must be over. thrown. But if I think I am having trouble with this point in th exegesis consider orthodox Christion - Jewish monotheism + its total inability to explain the origin + continuation of evil (pain, dith, disappointment, slavery) in this, our God's world.
+
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+```
+**Co-occurrences**: Christ, Christianity, Kingdom, Gnostic, Like, World, Since, Time, Good, Even, Yang, Just, Suppose, Being, Runciter, Jewish, Most, Secret, Revelation, Consider, Will, Deity, Very, Back, Beyond, Life, Wise, Info, Evil, Having, Unless, Knowledge
+
+---
+### Line 5696-5704 (Match: 'Gnosticism')
+**Folder**: Book of
+
+```text
+Indexed
+4
+4
+
+By an act of belief ("credo") when I saw the Golden Fish Sign + heard the words I broke the power of this, the stamped-out [mere] image (eikon) world over me + received grace, received the real (supratemporal) world + the sole 3-aspect life that dwells throughout it. Gnosticism is correct; this is (but perhaps was not always!) a flawed (or fallen, decomposing) level (a la Plotinus). The sign (Zeichen) in a sense woke me up (cf the slumbering soul, cf Plato, cf Pythagoras). (Cf Heraclitus + the idios kosmos vs the koinos, within the latter lying -acting- the Logos. Thus, too in a sense I broke the power of the curse, which is a blindness + a sleep - in which we are in darkness; thus the salvific power is referred to as "the Light of the world" "which the darkness neither knows, recognizes, sees nor accepts." Darkness + blindness are related - also seeing + light. When I say "I broke the power of this [false] world over me by an act of faith (pistis) I am saying that in some sense this world is a delusion; evidently this is what is meant by dokos or maya. (This insight may be the most important of all: what I then related to was an eternal archetype of apocalypse: "Babylon," "Daniel" "Cyrus" "God" [or Wisdom or Christ or the Logos]. The best meaning of dokos here is, "the counterfeit passing as the real thing." Whence comes this dokos? Because our brains construct (hypostatize) an isomorphic (to us) outer analog - + the Trinity is not isomorphic nor subject to hypostatization, + is perceptually rejected. This is what Christ meant when he said, "Believe in me; I have (can - have the power to) overcome the world."
+
+Last edit over 5 years ago by Toso
+5
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Logos, Plato, Fish, Golden, Wisdom, Perhaps, Plotinus, World, Because, Golden Fish, Faith, Pythagoras, Light, Maya, Kosmos, Heraclitus, Daniel, Grace, Darkness, Dokos, Soul, Babylon, Most, Real, Have, Life, Neither, Trinity, Evidently
+
+---
+### Line 5760-5768 (Match: 'Gnosticism')
+**Folder**: book was
+
+```text
+Indexed
+12
+12
+
+- The whole sphere of "astral influence" (determinism) was signified, to me, by the materialistic CP., the "Olive Holt" programming which ran back to my early childhood. It was this that the salvific spirit broke! Thus, for a short time, I perceived myself performing automata actions - + so they were: slavelike + mechanical, not free, not voluntary; + it was against this that I rose up - this is what via the spirit I overthrew. So when I ask how communism + the USSR + the KGB come into the theological picture, this was their role - which was broken by Christ (v. Ephesians + Paul's cosmology). (Also v. Gnosticism: the role of the redeemer is breaking the power of Fate.) For a short while (hours, days) in 3-74 I correctly perceived myself as nothing more than a programmed automaton responding blindly to key stimuli - disinhibited by signals from a rigid structure. This is the primary thing that was done for me, the freeing me from this deterministic prison of which we are all unaware. You can only become aware when/if you are lifted out of it, + this only comes via outside intervention - you can't save yourself because you have the total + perfect delusion of being free + making voluntary choices. But, in this sphere, it is all blind cause + effect - stimulus + response. We can't understand what is meant by Christ saving us because delusion keeps us totally oblivious to this imprisoning mechanism - this "Pavlovian" world.
+
+Last edit over 5 years ago by Toso
+
+1
+```
+**Co-occurrences**: Christ, Toso, Indexed, Spirit, Paul, World, Because, Prison, Only, Time, Being, Fate, Nothing, Their, More, Holt, Olive, Olive Holt, Were, Back, Have, Days, Free
+
+---
+### Line 5956-5964 (Match: 'Gnosticism')
+**Folder**: part could
+
+```text
+Last edit 1 minute ago by Gabriel Mckee
+
+6
+i The EB article on salvation says that the bad condition which we are saved from is bondage - primarily - to time This bondage resulting in death - thus that which salvation saves us from primarily is death. What interests me here is that I just recently figured out that what the intervention of 3-74 saved me from was death. That which intervened accom‐ plished - I now realize - my salvation in the precise sense of the word. The EB article on salvation also says that Gnosticism + Hermeticism + the teaching of St. Paul "deliverance was sought primarily from the planetary powers that were believed to control human desting in the sublunar world." This too, fits exactly with my experience of 3-74: ➀ I was lifted above time, ➁ saved from death; ➂ freed from a rigid "programming" (planetary determinism) vis-a-vis the CP. Thus regarded, my 3-74 experience was one of Christian salvation, initiated by God through either Christ or the Holy Spirit. All the elements were there. It wasn't a conversion perience; it was literal + immediate salvation - over the planetary powers which had programmed me to die around 4-74. But There is also a hinder element: "as long as the soul mistakes This phenomenal world for reality + clings to its existence in it, it is doomed to suffer endless births + deaths." I not only perceived the empirical (phenomenal) world as irreal, I also remembered thousands of years of prior life. It's as if my Gnosis was achieved by Christ - + my salvation - but the secret disclosed was that which Hinduism teaches - as it Christ revealed to me that Hinduism is correct. Also, I take note of the fact that my salvation began when I saw The Golden Fish + abroptly ceased to believe in the space time world around me (calis in 1974), +, instead, believed in another reality in its place; the power of the phenomenal world - the planetary powers - was broken but what I saw as real was Zebra or the Logos, the cosmic Christ, + the world of The Bible, as if the world described in the N.T. is the real world.
+
+Last edit almost 3 years ago by svayambhu108
+7
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Zebra, Logos, Holy Spirit, Paul, Fish, Bible, Golden, World, Gnosis, Golden Fish, Only, Time, Cosmic, Gabriel, Mckee, Gabriel Mckee, Cosmic Christ, Just, Reality, Either, Another, Through, Soul, Real, Secret, Death, Were, Life, Instead, Human, Salvation
+
+---
+### Line 6003-6011 (Match: 'Gnosticism')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+14
+Needs Review
+14
+think I have it. If the original imprisonment (fall) was due to the intellectual error of taking the phenomenal world as real (intellectual error, not moral), then when in 3-74 I did what supra I say I did (upon seeing the Golden fish): i.e. broke the power of the world over me - then thereupon the original error - + imprisonment - was obliterated. This all fits in with Gnosticism, Hinduism + Buddhism + perhaps Zoroastriaism. The Gnosis is that the world we see is not real - but that isn't the entire revelation. Breaking the power of the world - withdrawing assent- opens the way to experience with the truly real world, this experience constitutes a return (Also, my experience of withchrawing assent + then later having a different world swim (phase) into sight would tend to confirm The view that our original error was indeed intellectual, not moral. I gnorance (i.e. not realizing that what we see is not really there) is replaced by 2 step of knowledge: (1) What we see is not there + ➁ that which I gave assent to instead is there. All I need do is explore the nature of what I gave assent to in place of what we see. Primarily, it was assent to another time + another place + myself as something other than what I imagined myself to be: I realized (remembered) I was one of the early Xtians was this merely substituting another place + another time + another life, or is the nature of the space-time-personality qualitatively - substantially different? Clues as I know from the "St. Sophia will be born again" announcement, Christ came here from the real world. It was the first breaking through into our [sublunar] realm. Although we date it as 2000 years ago, it must possess a supratemporal quality, as if always present (the theory of the encharist agrees with this). Thus the master could say, "I will be with you always, yea even unto the ench This ubiquity fits, too, with my perception + analysis vis-a-vis Pinky. The early Christians probably had been able, through the Holy Spirit, to do what I did (if I comprehend correctly what his teachings to his desciples must have consisted of); but also Babylon / Rome is part of the true real template: what is disclosed us not merely the world of the divine, the pleroma, but rathere
+
+Last edit almost 3 years ago by svayambhu108
+15
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Fish, Golden, Perhaps, World, Gnosis, Fall, Golden Fish, Time, Even, Could, Pinky, Something, Realm, Again, Although, Buddhism, Divine, Probably, Part, Another, Through, Babylon, Real, Upon, Revelation, True, Will, Would, Other, Have, Life, Instead, Later, Having, Knowledge, Pleroma
+
+---
+### Line 6020-6028 (Match: 'Gnosticism')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+17
+( We are talking about something very simple but very startling. An ETI intelligence represented here by - not avatars - but - what should we (they-no-we) be called? Agents of the ETI (singular or plural) operating over a time span of thousands of our years. Christ was/is the conscious total intellegence - the rest of us followers possessing only as much knowledge as we need to know. The statement about st Sophia not having been acceptable before suggests to me a failure of the mission at that time, + a fore knowledge by Christ that only a limited success (a beach head) could at that time be achieved; specifically, the B. I. Prison + its tyrant couldn't be overthrown. Christ, who is immortal, would return + the next time take over, those such as I - we are agents-sleepers" as the spy people say. my main clue of the fact that in 3-74 I brought my buried memories to consciousness (i.e. they were there for at least 27 years, not just implanted in 3-74) is the total corpus of my writing, a kind of exalted secular explanation for everything I knew, remembered + experienced can thus be given what does that make Zebra? The invisible Parousia: the now enormous metamorphosing insect like organism not native to this planet, who originally incarnated here 2000 years ago. We were invaded. They failed to kill him because he can't be killed. As the gloss in the J. Bible says. He didn't want anyone to know who or what he was, They still don't know. Do they know yet? The true Christians are overridden by the ETI entity, called the Holy Spirit, + they act on his instructions (promptings). Now back to the roll back of time. more, it is a roll-aside or roll-away. The real conflict is exposed: The prison vs the agents of the Garden. Our world is a battle ground. The incumbant power is evil it probably always was. We are prisoners - slaves. Gnosticism is correct. The kind stranged "God" intervened. He is hated - fought off. I think the true (esotered) "Church" then went underground + still is underground, directed directly by the touls supernatural Zebra) holy Spirit / Christ. specifically, we are prisoners of a "DNA" [like] programming which eventually uses us up + kills is off - this matrix can be tis broken by Zebra when it wishes to.
+
+Last edit almost 3 years ago by svayambhu108
+18
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Zebra, Holy Spirit, Sophia, Bible, Parousia, Like, World, Because, Prison, Only, Time, Garden, St Sophia, Could, Does, Just, Something, Everything, Corpus, Probably, Those, Still, More, Church, Ground, Real, Such, Before, True, Would, Mission, Were, Very, Back, Evil, Having, Knowledge
+
+---

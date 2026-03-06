@@ -1,0 +1,345 @@
+# Evidence Packet: Nothing
+
+- **Category**: Top Term
+- **Total Mentions**: 58
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 143-151 (Match: 'Nothing')
+**Folder**: book the
+
+```text
+Last edit over 5 years ago by Zebrapedia
+9
+Indexed
+9
+It’s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the vestment of my saint statue – that was like it: the bursting forth into life of Spring, in the midst of stark winter. Now, this is obviously a mescaline type of experience. We know that. And I was loaded. And yet, perhaps Ms. Fisher who wrote THE RED FEATHER based that episode on something she experienced once, and in those days no one in the U.S. took mescaline; no one got loaded. The reproach, “Phil, you experienced that because you wanted to; i.e. the swirling vines of new life” is no better an argument than, “You experienced selling UBIK to Doubleday because you wanted to.” Also, “You experienced it because you read about something like that years ago in a child’s book” – of what real meaning is this argument, since we don’t know how the passage got into Ms. Fisher’s novel in the first place? It doesn’t explain why I recall that section, which was minor, which in the novel just showed the child that her difference from the other children included having strange powers; it was exciting, but not good. She didn’t want to be different. (We knew, because of the scene of the baby exchanging.) Obviously, in that scene, Ms. Fisher intentionally or otherwise incorporated something of the Fruhlingszauber: the magic of springtime, as it really would be: those poppies would have sizzled in the snow, being hot. They were hot with life; the fact that Ms. Fisher saw the equation death/winter/cold versus life/Spring/heat isn’t an invention of her head; it is an actual truth. She did, however, equate magic with springtime; fairy power used to turn the winter to spring, to bring life, and therein she touched on something very deep, at the heart of her small readers, like me, who were astonished and touched, but didn’t know why (we knew nothing of the mystery or fertility religions of Greece et al, did we?).
+
+Magic equals life equals warmth equals poppies. Now, poppies are an exotic flower, with intense colors, identified with foreign lands (this I’m sure is why Ms. Fisher chose them).
+
+Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
+```
+**Co-occurrences**: Ubik, Indexed, However, Perhaps, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Those, Still, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+
+---
+### Line 389-397 (Match: 'Nothing')
+**Folder**: book A
+
+```text
+A certain portion of the phenomenal world which we encounter is hologram-like, projected and false, to fill in missing spaces, as in the time extension, missing elements are filling in along similar lines. Therefore we see total continuity in both extensions, time and space, without awareness of dysfunction or rupture. But in truth, there are dysfunctions which (to return to my former term) the Dreamer causes us to gloss over, or allows us to -- perhaps it is less a manipulation that a permission, if you see what I mean.
+
+In a meaningful sense, portions of our reality extensive in time and space are false; other portions are real; we have no way of determining which is which or even if this proposition is true -- but this proposition is true, because I saw in March of last year a roll-back of the artificial portions (the term "the veil of Maya" comes to mind). After ten months of studying and speculating, I have come to these conclusions:
+
+(one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, and wihtout it, there would be nothing but illusion, nothing but Maya, so to speak.
+
+(two) Lineal time is mere process or accumulative time, which conceals orthogonal time from our gaze.
+
+(three) The Dreamer who determines both our sleeping dreams and our waking dreams (vide Tart) wishes us to suppose the reality of the phenomena extensive in lineal time. But, upon the command, "Wachet auf!" these accretions within lineal time roll back to expose the ground of being. The Dreamer (i.e. He who dreams us) can perform this absolute act at any time He wishes (called by the Christians God's Grace or God's Mercy).
+```
+**Co-occurrences**: Christian, These, Perhaps, Like, World, Because, Therefore, Time, After, Mind, Even, Suppose, Both, Maya, Reality, Being, March, Without, Grace, Ground, Real, Upon, True, Would, Other, Back, Have, Absolute, Truth
+
+---
+### Line 414-422 (Match: 'Nothing')
+**Folder**: book A
+
+```text
+26
+coffins, severally, and individually, as shown in the novel.
+
+(eight) Those in half-life are not dead, nor is the root slumbering under the snow (the symbol of both Christ and Dionysos: it looks dead but is only asleep, waiting to be awakened by the voice of spring). We are those slumbering roots. We are dormant. It is difficult intellectually to understand this, that we are neither fully alive nor fully dead (Aristotle taught us that we have to be A or not-A), but in fact these thousands of years for our species, and for our animal friends as well -- these are nothing but a long winter in which half of us (expressed neurologically, perhaps, by the fact that we use only one of our brains, or the left hemisphere) is alive and the other half has not yet come to life. Many of the parables of Christ, familiar to those who knew the cryptic sayings of the mystery religions in general, refer to this (the grain of wheat which must be planted; we are now sorrowing in childbirth, the treasure buried in the pasture, etc.).
+
+That the Final Days should be in fact a springing up into full life, complete life, going from seed (vide the parables and especially the Pauline Texts, plus the Orphics' doctrines and Neo-platonism, etc.) -- going from dormant seed slumbering under the snow of Winter and then hearing/feeling/sensing/knowing the voice of moisture and warmth and Spring, the voice of God saying, "The time has come! Wake up!" These are authentic commands coming to us in dreams, and are no less real and no more real than what the ordinary seed experiences in its own fashion; we are all one in that regard...except that our orthogonal Winter has lasted for one hell of a long lineal period; it seemed as if it would never end. But Winter always feels that way; each seed, each slumbering root and bulb, must in its half-life state, buried in ice and waiting, experience all of this: we share a common reality.
+
+From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
+```
+**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+
+---
+### Line 466-474 (Match: 'Nothing')
+**Folder**: book about
+
+```text
+I had worked out beyond any reasonable doubt evidence that the ancient deity Dionysos had infused me and made me his back in March of last year. In an article to be printed in England, in a book, I was going to reveal this.
+
+However, I have discovered that I have been tricked. It is not the ancient Phrygian god of the vinetree, but Erasmus pretending to be Dionysos. My problem now is that I have toiled in vain in order that Erasmus have his little joke.
+
+To his credit, he was delighted when I abruptly guessed that it was him and not Dionysos. Still, after I had enjoyed realization of the clues which Erasmus had left along the way (all of them puns, double puns, and which I always saw solemn and heavy meaning in -- the wrong meaning leading me astray), I discovered that there are in the universe always layers below layers, and that the universe resembles nothing so much as an onion the innermost layer of which is also the outer. For instance, perhaps it filled Dionysos with mirth to pretend to be Erasmus. Would not the god of mirth get off on that? Maybe it is Dionysos pretending to be Erasmus pretending to be Dionysos. Maybe they are the same.
+
+I present you with the sort of evidence which deep within the heavy books I read seemed to indicate vast truths undisclosed to most men; viz.:
+
+In a dream I was shown that the word "Jesus" is a code, a word made up and not a name at all; those reading the text who knew (the Quamran men, for instance) would see "ZEUS" and "ZAGREUS" combined into the integer "JESUS". It is a substitution code, I think they call it. These idle games of Erasmus, however, had grown stale to me once it was revealed how I'd been taken in by my own proclivity for profundity...however, as I went to get a spelling right for this letter, I found these remarkably similar textual passages:
+```
+**Co-occurrences**: Jesus, However, Dionysos, These, Perhaps, Maybe, After, Book, Once, Zagreus, March, Those, Still, Zeus, Most, Universe, Deity, Would, Erasmus, Back, Beyond, Have, Dream, Right
+
+---
+### Line 569-577 (Match: 'Nothing')
+**Folder**: Unknown
+
+```text
+It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
+
+Isn't this what the Christian fish sign is supposed to do? Representing Christ, it is Christ; and this is what He does for a person, a very desperate person: He breaks that earthyl thrall. He, through his emblematic sign.
+
+[Itwas] He, no metal sign; no object, but The Savior, expressed in His presence. He came to the door manifest in [a] emblematic form, which was verbally (the Logos?) identified. We grow; we reach a certain point; we stop growing; we decline and die. What did it all up to? Nothing, because we were blocked --limited-- at a certain point. He expressed as emblematic pin broke that hold or limit, and growth resumed in me, at enormous speed, as if to make up for lost time. She, the girl, wore/bore a message to me, from Him (my heavenly father). What I became afterwards were all supposed to be...but something went wrong; error slipped in, for us all.
+
+He corrected that error. (In my case -- and how many others has He freed? And how long had this freeing been going on? Is this the Parousia?????)
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Christian, Logos, Form, Fish, Parousia, Father, World, Because, Therefore, Time, Harpax, Savior, Does, Something, Reality, Girl, Through, Were, Very, Back, Many, Freedom
+
+---
+### Line 588-596 (Match: 'Nothing')
+**Folder**: part was
+
+```text
+He was not a great man.
+
+Hence, I was not in a situational jeopardy, within a limited crisis thrall; my life at stake for an interval; it is Aeon thrall removed; it was always there and would always have been. The immediate situation was only a worsening of an endless thrall.
+
+So the total thrall was burst. (For seige read blight. For blight read seige.) After seeing the sign, "He began to wake up and to understand -- i.e. understand what he saw, so that it made sense to him. By degrees he saw more and more clearly." But I do think it was always certain that I would be rescued, that there was no latter time hasty decision. Thus, he who is saved was always saved. "There is nothing to fear but more true: there never was anything to fear. Didn't you feel the contintual presence of hidden benign powers guiding and watching? The dream in which Kathy and everyone suddenly took off their masks and she said, 'Someday you'll be told what this was all about.' Promise then. Last night, the dream: 'I will send you a leader, named Vinland Smith.' And the dream about the government office, where the boss returns and most employees are found to be idle, and some (even worse) playing venal money games and turning away those in need. Only a few employees truly doing their work while the boss was gone; but now the boss has returned. If the 'Kathy' dream, in Canada in 1972 was fulfilled, then these, also, I am sure. Leader equals:
+
+(our) land(ing will) vin(dicate cordwainer) smith. And vin equals vine equals Zagreus-Christ-Dionysos, Lord of Springtime. I.e. "the leader I am sending comes from the stars."
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Dionysos, Lord, These, Only, Time, Harpax, After, Even, Zagreus, Great, Kathy, Those, Their, More, Most, True, Will, Would, Have, Clearly, Life, Government, Suddenly, Dream
+
+---
+### Line 634-642 (Match: 'Nothing')
+**Folder**: part or
+
+```text
+Last edit over 5 years ago by Harpax
+39
+Needs Review
+39
+That signal was/is also the Not-I, all that was lost inwardly, too; when it returns it will fulfill the law of Karma; whatever we lost expresses in miliamps will return a thousandfold, but in kind; i.e. ach Gott, for those who are "now filled," v. Taoism; what is the not-I for the agrandizing person? Amazing, how many of the Gospels express these concepts of symmetry and parity; the bread cast upon the water, etc. Well, this does link my experience not only with the New Testament but with the scientific discoveries by Heri and Parmeni. Conservation, nothing can be created nor destroyed...I am experiencing the return or "reversal" effect, which expresses conservation and symmetry ("Tao abases the hightly and lifts high the humble"). (Contraction expansion, oscillation, the palintropos harmonie. My experience (and the current movement toward entropy) indicates that the oscillation view of the Strung Bow of Heri is correct, rather that the tension system of equilib, which is a simultaneousity. It goes out now (toward entropy) is restored later (which means sequential oscillation; this doesn't mean that time is real but that sequence is.)
+
+The tension view of bow and lyre (fr 51) would be a fine thing for structure-as-a-whole (plague of rats on planet One balanced by superabundance of Warfarin[g] on planet Two), but this treats every subsystem as expendable. The oscillation interpretation would mean that imbalances within each descending level of subsystem would be balanced; re my dream about the 3 lives I might have led, with Tao establishable within each one: not left balanced by right, but balance within left; balance within mid; balance within right. Within each subsystem is that balance or Tao. In each segment, no matter how biasedly cut, or small, that segment (of a former whole) then becomes a whole, and spreads out fan-wise (Rhipidon!) to give a left, middle, right section, space being infinitely divisible. You could compare this to the regenerating by the two parts of the worm when cut in half; soon you have, not two halves, but two wholes. You know, I think of Peter Mann's account of the murdered baby rabbit sending out a microwave signal which the mother, miles away, on a shore, picked up. Meine Schwester, die [gestorben], hatte solch ausgeschicht; weit von uns, sehr weit, irher Himmlicher Vater es gehort hatte, und Hilfe [x] geschenkt [?]at; nun kommt es, die Antwort davon.
+
+No, as mechanical bounce-back or even noos-reinforced (changed to act as deliberate responses) they are more archaic, language and concepts indicate if answers, then to signals sent out circa 400 B.C. By our species, not be me qua me. (Then about 1000 Light years away, twice two.)
+```
+**Co-occurrences**: Well, These, Only, Time, Harpax, Noos, Light, Even, Karma, Gospel, Could, Does, Taoism, Being, Those, More, Real, Upon, Mother, Will, Would, Back, Whatever, Many, Have, Wise, Later, Testament, Dream, Doesn, Right
+
+---
+### Line 709-717 (Match: 'Nothing')
+**Folder**: part delibaratedly
+
+```text
+The Pulkovo work has rediscovered the Logos at work, and given it the name of Chronos instead -- father Chronos from whose race we are all descended, and who controls all things.
+
+It could be said that if Dr. NK --i.e. Pulkovo-- was feeding lines to me, the Logos was feeding lines --i.e. prompting-- to him. Beyond and behind the figure of any and all temporal powers, and their intentions, lie the intentions and power of God. Here is an excellent illustration of that: Man proposes/ God disposes. If indeed telepathy is the univeral medium of information-exchange, then the Logos, if it existed, would use it; also, those involved in experimentation with time and its into-transfer uses, would be in more direct connection with the Logos as Plan than most of us.
+
+We still serve our ex-employer, Mr. Runciter; and he still assists and advises us, as before. Nothing has changed; he knows how to get through to us, and what to bring us to restore us, and what advice (info) to lay on us. All of us.
+
+Dr. Kozyrev speaks of Time informing all biological entities simultaneously on an instinctive basis, by telepathy; this is fine, but where does this information originate? Can Time think? It is evident that Immanent Mind is equal to Time, possessing the same qualities, both of them. The Plan, being pressed onto us, is thought of separately (as Logos). This is an inference on the part of Dr. NK; Time informs, but it must know in order to inform (or anyhow be in possession of what it informs with). He is so close to attributing knowing to it that he might as well speak of it as knowing what to inform each species with, and when (as well as where from). I think anybody reading his paper would eventually wonder the same things I am wondering, even without my experience. I point out: that God's thoughts and will and plans are not separate, as they are in us (v. Hericlitus, Avicenna, Isa.). There is mind but no brain, just as He is aware without eyes, etc. Time seems according to Dr. NK to be capable of all these simultaneously -- without lag or distinction, as is found in us.
+
+Ad I found today in Psychology Today: The New Testament De-coded. "Jesus taught a self-realization beyond classical physics." "Knowledge of the code was lost during the persecutions." This is precisely what I have dreamed again and again. Amazing, and I came across the ad because of an article on autistic children in PT; last night I dreamed all night about autistic children, and so knew to go read this discarded issue of PT -- and saw that ad.
+```
+**Co-occurrences**: Logos, Jesus, Well, These, Father, Because, Time, Mind, Even, Could, Does, Anyhow, Just, Again, Both, Being, Runciter, Self, Without, Brain, Those, Still, Part, Their, More, Through, Most, Before, Will, Would, Illustration, Beyond, Have, Things, Information, Instead, Info, Testament, Knowledge, Today, During
+
+---
+### Line 752-760 (Match: 'Nothing')
+**Folder**: part segment
+
+```text
+Needs Review
+47
+It just occured to me: Hell is dark, heaven made up of light. Maybe the fluctuation of universes is a fluctuation of degrees of light (or color?). Like with Land's two beam color theory: two light sources are all that's needed, to create within the outcome all the colors (permutations and changes, possibilities) there are. But without 2 sources, with only 1, there would be no change because there would be no interaction. Back to Empedocles: the two players at their game. Best of all: back to the symbol of Taoism, in which a small spot of light appears within the dark when it grows too great, and vice versa. Each changes over into its opposite when pushed too far -- a basic principle underlying Taoism.
+
+We could put Her[e]clitus against Empedocles this way: He would maintain that, "Are you sure two light sources are needed? Dark is only the absence of light; changes could be induced merely b[y] decreasing the amount of light, volume or intensity, anyhow, lowering it in terms of its intrinsic quantity. As when a battery loses its charge gradually." Empedocles would posit "dark" as an actual Yin force. What I myself saw were two players, in the Empedoclean sense, but above them, the Logos of Plan -- I think. Also, I saw one player playing in lineal time, the other retrogressively -- this was the main difference, although it was an antagonist two-person game all right. Maybe: "Nothing can exist without creating its own opposite." But why?
+
+You get enough darkness and it turns spontaneously to light. You get enough light, etc.
+
+For all purposes which are ours, we should contrue our universe as under the dominion of two distinct RUs, if not more, and a compound of both -- so in a sense, not as real as both or either of them. But maybe ours it the desired product, and also more stable. Again, the two light sources pouring through frames of film...
+```
+**Co-occurrences**: Logos, Maybe, Like, Because, Only, Time, Light, Could, Anyhow, Just, Taoism, Again, Both, Empedocles, Although, Either, Great, Without, Darkness, Their, More, Through, Heaven, Real, Universe, Would, Other, Were, Back, Under, Dark, Right
+
+---
+### Line 764-772 (Match: 'Nothing')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+48
+Needs Review
+48
+the dream showed me clearly that the primary miracle, the one which of necessity must precede all others, is the miracle of life born out of the unliving, the miracle of creation itself; then the movement up the evolutionary scale, from form to higher form to highest form; this surely is the primary work of the universe, to do this, its hardest, first, and most solemn task, over which nothing else can take precedence. How can anyone question that? But although there must be a flock to go on (the species, I guess, or all life), before there can be those who fall back too weak or sick to keep up -- this in the dream was so damn clear: one person out of thousands in that auditorium caused trouble, stood up (against James James rules) and was thrust back down and crippled. The ratio of success to failure was maybe 10000 to 1. So I am concerned with that 1, and stepped forward, halting James James and his continual miracle of evolving creation (certainly the most extraordinary event I've seen in dream time or waking time, ever). I was asking for medical attention, not for me or for her, but for us. "We need medical attention" or assistance, whichever. There is such a need; there are casualties, and I understand that He Whom I follow, He sees to it that the 1 casualty is assisted: i.e. gets medical attention. The image of the good scouts: good semaritans, maybe; those which lend a hand to those in need. It is as if the dream says:
+
+The universe has now successfully progresses along far enough so that forward-motion can begin to be mitigated by the "scouts entering the situations" to pick up the casualties, since evolution of form has gone so well and so far. There are now casualties to pick up. In this work there'd be a lag; it wouldn't begin for a while. But now the laws of compensation and equilibrium have brought us to the point where we have a small but very significant casualty, and so by these laws which govern reality, the scouts are starting to appear, to march onto the scene from outside (wherever that might be, anyhow marching here from somewhere else). They have begun to arrive. We must state our needs (by definition, they listen and give aid). Our need is a medical one; we are injured, or sick, or crippled, or weak. We need help of that kind: life-support help. We'll get it; a dream like this could not lie.
+
+I think a tremendous principle of conservation and balance was expressed in this dream. Kathy represented what I would deem the higher form of form-evolution; even so, I halted the forward-motion because the casuality was not acceptable to me. I noticed, and steeped forward. That time has come (e.g. "No, we will not allow our mentally deficient, our weaker races, our poor, our old, our helpless in general, to be sacrificed; the day of Rule by the Strong and healthy is over; the sick must be cared for, although perhaps not by the healthy but by someone coming here from Elsewhere.
+```
+**Co-occurrences**: Form, Well, These, Perhaps, Maybe, James, Like, Since, Fall, Because, Time, Harpax, Good, Even, Could, Anyhow, Reality, March, Although, Kathy, Those, Most, Such, Certainly, Before, Universe, Will, Would, Creation, Very, Back, Surely, Have, Clearly, Life, Dream, Someone
+
+---
+### Line 782-790 (Match: 'Nothing')
+**Folder**: part segment
+
+```text
+It also gives Tessa now as joining Ralph and Pinky, the lamb the deer, as injured and to be treated with love and cherishing care, as being of great worth -- too great to sacrifice. These sacrifices, the dream said, are too great to ask (Jesus sacrificed himself in their/our place; he was/is the lamb). That is the key word: the involuntary sacrifice, which will not be permitted now, since it is too precious (observe the notion that the sacrificial animal was decidedly not of too much worth; that is why it was offered, in the past). First a human became of too much worth; now then animal, too. We must all live or perish; we cannot be serparated into the "strong versus the weak" or whatever any more.
+
+But regarding possible time dysfunctions (due either to experiments at e.g. Pulkovo, or natural, due to overloading of the ontological matrix, or both,) most of my experiences have had to do, not with time, but with space (mostly about Mexico or what resembles Mexico and is taken to be). Future space at some future time? The only for sure time dysfunction I felt was in March 74, and that was, if it existed at all, probably artificially obtained (Pulkovo). The other, spacial ones -- they probably were natural dysfunctions, sudden brief windows into the future of both space and time. What is possible, though, as I've said before, is the notion of "mytosis-like" splittings of the present (due to time dysfunctions, perhaps in our past) that result in alternate worlds (as in MITHC).
+
+It's as if the merely potential (i.e. discarded at one or more critical junctions along the linear time-line) has come into a periodic shimmering realization, along side what is actual (vide William James on the sea of potential facts around each actualized fact -- each that, so to speak, makes it). Like in my story "The Commuter." Also, there is to me the real thought that adjustments (ala "Adjustment Team") are being made in our past, which are to an ever increasing degree making a certain "alternate present" (or time line) actual -- in place of the one we have, not along side it. I sense a series of minute tinkerings going on (vide Peter Mann's conversation with me recently on that idea). They are realigning our reality so it will conform to what the Plan (Logos) called for, thus losing the error fact, finally, which crept in. I suppose they could be making be making this critical correction back as far as 100 A.D. Just for story purposes, let us suppose a time-traveling team from our future has gone back to 45 A.D. to see to it that Jesus is not crucified. When the Parousia are finished with, the time line we have will not even be remembered; our memories will be retaped to fit our newly made past, as well as present, and, as in "Commuter," we will be relieved that "nothing has changed after all" (sic). I guess the realigned-correctly world will have California still the property of Spain-Mexico. Portugal will retain its States of America. The Catholi[c] Church will not have been re[?]nt asunder by the Reformers; this world will have only one huge Christian church/body, for all...
+
+Last edit over 5 years ago by Harpax
+50
+Needs Review
+```
+**Co-occurrences**: Christian, Logos, Jesus, Well, Parousia, These, Perhaps, James, Like, World, Since, Only, Time, Harpax, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Still, Their, More, Church, Most, Real, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+
+---
+### Line 805-813 (Match: 'Nothing')
+**Folder**: part segment
+
+```text
+51
+Jesus spoke of a coming "Kingship of God" which, He said, "Is among you/ around you/ within you." It could arrive any time. When it arrives, many men, most men, won't know. Since God created this world in the first place, the angle of error may be slight, and the percentage which He must remove and change may be relative, small. Is all this world, every thing and creature and idea and object in it, objectionable to God and a produce of the Adversary? Obviously not. Suppose there were a subtle seizing of power, behind the scenes as it were, by the Rightful King. He would retain the present order by and large, disturb as little of it as possible, act in an economical way to take control. We might only sense that some oppressive power had departed; some burden and fear had lifted.
+
+That this has happened I am positive. That so little has changed shows how slight the angle of error, the element which had to be "burned off like chaff." Death still exists; Jesus and Paul always said that this body would have to live out its natural cycle and die away, for the other body to replace it, which comes later. The main thing is, This world is under control, now, and two main spirits reign: Truth and Justice, although they are of necessity unfolding in time (i.e. it takes time, because sequence is necessary). This world does not operate on its own, independently, and having fallen into the hands of tyrants and liars. Truth and justice lie at the heart, and work out judiciously, where needed; they now, in a distinct and real sense, although subtle, prevail, and nothing can ever change this; any set back, or any retention of the lie, is only apparent. We must not go on what is apparent; that was never a good index. But, in another way of viewing this, we can say that at last that which is apparent, which appeard to be, in actuality is. This was not true before. There are no further real secrets, and no further fake facade cardboard Thought-control hypnotis pseudo-reality managed and manipulated, no invisible empire of police and criminals and dangerous covert power. What meets the eye can be trusted, except that still hidden to most people is the heart, not of darkness, but of light; it is the pulse at the core of things, whereas not so long ago at the core of things rotten darkness stank and conived.
+
+We have a concentric-ring society, and the innermost ring has been burned off by the fire, has now been replaced by light, by God, and this is parallelled by a discernment outside, by those on the rim, that the Lord of Hosts has in fact suddenly come to his temple, announced by the messenger of the covenant whom we delight in...as Malachi put it. There was a swift arrival (mainly by Elijah), a swift victory over the darkness, a tossing down of the tyranny, and then the enormous judging and destroying power was withdrawn and replaced by an assisting and healing power. Advocacy for the weak and oppressed is no longer necessary, now that God rules. Healing (as if after a battle which was won) has been in order, and so done. Finally, the freeing of the many
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Jesus, King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+
+---
+### Line 851-859 (Match: 'Nothing')
+**Folder**: Unknown
+
+```text
+Needs Review
+55
+The great miracle is that it is always new, and always it is the same, once more: unchanged. Suppose I play my LP of the 7th symphony until I know it by heart, and then I give it to you and you play it. You have never heard it before; to you it is entirely new, no more and no less new in relationship to my knowing it -- I mean, however many times I have played it is new independent of me, and herein lies the miracle. However many times Christ has died for man; however many people have had my experience; it was anew for me as if no one had ever had it before; in my world, it was unique, it had never happened before, and so Christ died for me solely. He is infinitely new, infinitely divisible, infinitely everywhere -- I guess he is Ubik.
+
+Each new child enjoys his sandbox as if sandboxes were first new and had never pleased and been experienced by childhood before. Thus a great truth is here: I can assimilate the phenomenon rose without in any way assimilating the rose qua rose; this leaves the rose fresh for you to assimilate in the same way, phenomenologically, leaving its true essence pristine and unchanged. I take nothing from it, since I do not assimilate it qua rosa; do you see? I just assimilate an image; thus we can see the necessity of our "reality" being made up of mere images -- it is to keep the essence of each thing from being used up. All the images in the world (food eaten, wine drunk, etc) do not consume in any way or to any degree the archetypal categories which are real. And so each new life is free to encounter and experience the images fresh, a new, as if no one ever did before. And, too, the universe is not consumed. It is exactly as if we had done one U.S. silver dollar rather than the possibility of stamping out an infinite number -- all those are merely "images" of the original dollar, but if instead of printing from dies made from the archetypal original -- suppose instead of printed editions of my books, the MSS were sold? Instead of the possibility of as many people -- well, you see what I mean; for purpose of (one) maintaining the renewal of the universe and (two) giving each person an equally fresh, untouched experience, the cave or image or film system must be employed; I guess somewhere is The rose and The every single thing, which the prints which we take to be reality come from -- God help us if they get consumed! If, as we seek, ontology should be experienced (assimilated, consumed) rather than print-out.
+
+If my world is one film then I am on film and hence immortal, like "Citizen Kane." The film can be stored and later rerun, and even other prints --and stills-- can be made. I do not joke, here.
+
+Viewed in this very simple way, God is the living force of rebirth and renewal; our world --and each of us-- have been decaying into entropic dimness, and what God does is reestablished equilibrium: everything can, through Him, be restored -- back to that concept: the Restoration of All Things: the Day on which that occurs is God's return. This is Ubik, and for the universe to survive this force, God, must exist and be capable of doing what Run[ci]ter, Ella and Ubik do. Otherwise it would continue to run down like a watch and finally end; and our days would be progressively more dismal. In my case, this process was reversed -- and what had once existed (like the Greek concepts) were Restored -- by divine intervention.
+```
+**Co-occurrences**: Christ, Ubik, Greek, Well, However, Like, World, Since, Book, Even, Does, Just, Once, Suppose, Reality, Being, Everything, Divine, Great, Viewed, Without, Those, More, Through, Living, Real, Before, True, Universe, Finally, Would, Other, Were, Very, Back, Many, Have, Things, Life, Instead, Later, Days, Truth, Otherwise, Free, Until
+
+---
+### Line 922-930 (Match: 'Nothing')
+**Folder**: part of
+
+```text
+. . On the "Decoded New Testament": It agrees with my experiences of the whole last year. They say it comes via the sun; the sun acts as a transducer (so to speak) between Creator and visible universe, a sort of nexus. There is the solar spermatikos, which impregnate men's souls, which enter us as divine immortal seeds. (One to a person.) That would make God the father; is the human being, then, merely the host for this, for Firebright, as I understand to call mine? Or am I the other parent? (The second birth of the New Testament.) It is also me born again; the second birth is mine; so I am a parent, not merely a host. We have here a true duplex entity, not a parasite. I merge with and gradually, by degrees, become Firebright, who is growing. I --physically speaking-- can get sick and be killed; not so Firebright (the karmic body, so-called).
+
+You can't make this happen. God does it. How exciting, and yet I knew all this, from Firebright (i.e. the Logos, the microLogos).
+
+. . "The Decoded N.T." shows that there are others like me, and they know who and what they are, and have joined together. There is nothing I know that they don't. This answers one of my most pressing questions; the answer is Yes. This whole thing is really real. That I was given this...crucial stations, I suppose, which fan out in all directions (of my London "speech"). But I did see what they haven't said: the absolute purposefulness of everything, and the retrograde method of making it all work to a point. What happened to me (Firebright) had a certain history -- if you read backward along linear time: my works and my life, in oddly contrasting ways, make the experience although in no sense predictable, at least sensible.
+
+. . .
+
+In discussion with Loren Cavit: what I saw in 3 74 may not have been "Seeing the universe backward, reversed, etc." but I may have in
+```
+**Co-occurrences**: Acts, Logos, Father, Like, Time, Firebright, Does, Again, Suppose, Being, Although, Everything, Divine, Creator, Most, Real, True, Universe, Would, Other, Have, Life, Absolute, Body, Testament, London, Human, Karmic, Answer
+
+---
+### Line 931-939 (Match: 'Nothing')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+
+61
+fact seen a mirror opposite universe, reversed, with time naturally travelling backward...and processes reversed, so that (this is hard to phrase) these processes blend with forward moving processes in our own universe, and in that fashion so seen signify nothing to us; but when seen correctly (i.e. reversed, in their true mirror opposite universe) these drab processes attain great meaning and can be identified by us as for instance the Logos at work. Forward-moving, the work of the Logos is undistinguished and appears to lead nowhere; but we are mis-perceiving as a part of our universe what is really a vital factor in the mirror opposite universe. This is why I kept exclaiming that I was seeing time moving backward, but, more importantly, why I exclaimed with conviction, "I have been seeing the mirror universe backward," and why I felt suddenly I had seen the universe pulled inside out -- and reversed (and why I felt we had always seen just a mirror image of reality, a reflection -- and hence reversed. The true universe is the reverse of ours; the "mirror opposite" is somehow more real, more true; ours is a mere picture of it. The mirror opposite universe is the actual universe: essence versus phenomena.
+
+This would well express the relationship between dokos or maya or phenomena and reality; the former are a picture of a mirror opposite actual universe.
+
+It is not instantly possible to figure out what each item in our universe would look like if reversed; simple notions (backwards, going the other way, etc.) are inadequate. Like writing held up to the mirror in our world; if we hold up "mirror writing" suddenly we can read what had been unreadable. What was chaos (blur) becomes cosmos (in focus), simply by reversing it; processes, i.e. which made no sense now make sense.
+```
+**Co-occurrences**: Logos, Well, These, Like, World, Time, Harpax, Just, Look, Maya, Reality, Great, Part, Dokos, Their, More, Real, True, Universe, Would, Other, Somehow, Have, Suddenly
+
+---
+### Line 943-951 (Match: 'Nothing')
+**Folder**: part of
+
+```text
+This is the mystery secret of like Christianity (real xtianity).
+
+It would be a[n] error to say this mirror opposite universe is invisible in another dimension -- it is visible to us, to our senses, but like a monochromatic person, we blend it with our forward-moving processes, not discriminating it out. We must turn our monovectoral (unidirectional flow-perception) into two perceptions showing both directions visually. We see these processes backwards; but we see them, and they are all "gray," i.e. the color of the picture universe: forward-linear.
+
+If one were to abruptly (for the first time) see processes flowing in a reversed time way, and be able to recognized them at once, and see them as coherent, this would be excellent proof that these process were now being seen properly; i.e. in accord with their actual direction of development. Otherwise, one would expect the person to be confused for a very long period, to be able to make nothing out clearly. Were he to see famous entities such as the Logos and know them for what they were, almost at once -- this would indicate very much as to the more correct view here than the forward (picture) one he'd been experiencing. (Even if he knew nothing of Parmenides' proof of the dokos.) It's a simple, "Now it makes more sense...viewed this way." A resolution of a picture is its own proof of its own correct resolution: when the picture swims into clarity and focus and one can tell, at last, what it is...the visage of God, in my case.
+
+Last edit over 5 years ago by Harpax
+62
+Needs Review
+```
+**Co-occurrences**: Logos, Christianity, These, Like, Parmenides, Time, Harpax, Even, Once, Both, Being, Viewed, Dokos, Their, More, Another, Real, Such, Secret, Universe, Would, Were, Very, Clearly, Otherwise
+
+---
+### Line 1034-1042 (Match: 'Nothing')
+**Folder**: part of
+
+```text
+Needs Review
+70
+It may be that Dr. NK is wrong, and that time is a 4th dimensional space imperfectly perceived; I was freed from time, and this shows that indeed I had been Reborn immortal, but I do not understand that which I was freed from (time). What I should do is try to infer the nature of time from what I experienced ("anamnesis") when freed from it. It became unreal (I remembered at least 2000 years back; Restoration took place; there was retrieval of data, etc.). What we experience as lost --things moving into the past-- those things ceased to be lost. Those things which had passed out of sight (moving from the present to the past and hence gone forever, destroyed) were again there, again real, not destroyed. This is intimately bound up with immortality, the rebirth, the freedom back upward from the Fall. The continual perishing (including that of myself) was abolished -- but not only of myself, but of everything. The world-and-I together were retrieved, as if no destroying process had obliterated us ("Death, where is thy sting? Grave, where is thy victory?"). Is this a waking up? ("Look! I tell you a sacred secret: we shall not all sleep," etc.) Here, "sleep" equals a loss of full consciousness in which perception of all-which-was is lost, and we cease to see it and imagine it destroyed & abolished.
+
+The transient quality of things, the loss of them into the past, is a diminution of perception, a visual-perceptive loss; we cease to be able to track or follow their movements to another place (the past is another place which we can't see, being partly blind; in the "Decoded" it says, "He now could --an angel?-- see only things very close to himself, and nothing which was far away." I.e.; he could only see that point which is the immediate present. Those two vast eternities, which contain everything, the past and the future, were no longer visible (the 3rd eye had shut). And this would be why the gift of prophecy (second sight) is so basic to the restitution of ones full faculties, and associated with Men of God. Prophecy: seeing into. The past is within things (as in UBIK). Again, the onion rings universe. Where is the past? Within what we see, at the hearts. All reality is like some great Indian burial garbage mound, like layer or accretions, at Troy, successive. Not being but "below." Contained.
+
+Like in the 3 pages I sent Angus. Palimpset. Well, if the past is within what we see (smaller concentric rings, constricted) perhaps one can reason that the future consists of larger rings that that which makes up our perceptual present; vide Plotinus. The next concentric ring of emanation would be the future...strange. Which we reach toward, and which recoprically reaches down to assist us (as I inferred about the "space people": they're from the past, to give help. Angels. They would come to us in dream-time, with visions of what is ahead, and this is why dreams are prophetic. And less dense, less constricted that the daytime Now ring.
+
+Recall in "Autofac" how the automatic factory creates seeds of itself to survive through; this is what a seed is for; I had carefully studied the purpose of seeds. Well, the divine seed is so that I (and not merely my species) can survive, the death of my physical body; when the autofac was destroyed, the seed lived on and grew. Thus, the factory was immortal. It replicated itself and so escaped destruction.
+```
+**Co-occurrences**: Ubik, Well, Perhaps, Plotinus, Like, World, Fall, Only, Time, Could, Look, Again, Reality, Being, Everything, Divine, Himself, Great, Anamnesis, Those, Their, Indian, Another, Through, Real, Secret, Death, Universe, Would, Angel, Were, Very, Back, Things, Body, Freedom, Dream, Track, Sacred
+
+---
+### Line 1112-1120 (Match: 'Nothing')
+**Folder**: Book of
+
+```text
+Just to spell it out: "Santa Sophia" and "Firebright" are one and the same.
+
+My whole God is identified with a vitilizing (or revitalizing) life-giving principle, like the orgone, like springtime...and the adversary (e.g. Marxism) is envisioned as mechanical, hollow-eyed, without life. God is a vitalistic force, like Drietsch's entelechy, etc. This is like my division between the Human and the Android. With God, in the form of Christ, as the exemplar Human. The complete human.
+
+This beats the Greek idea of God as Mind which does nothing but think. Or know. How is it to know, if there is nothing to know? I conceive of it as a builder, an artificer, who creates, in conformity to its Plan: the Logos (I conceive of Logos and blueprint of something to be actualized). The Greek prejudice against the manual arts/the mere crafts prevented them from seeing this quality of God.
+
+He is both building and He is perfecting what He has already built. He animates it, infuses it.
+
+Ursula accuses me of getting away from "Taoistic balance" when I get into Christianity. The Logos and balance (of Fr. 51 of Hericlitus) are intimitely connected, with the Logos implementing balance or harmony everywhere, it being the Plan. It is hard to imagine the Logos out of balance. Also, when conditions on our world were out of balance, it was the Logos which brought what we experienced as relief, but which, on a supraterrestrial scale, was probably a restitution of harmonie. Also, there is my "Rhipidon" fan dream of the left-right-with the center as God's balanced perfection in any situation (and the material in "Decoded" about Satan as the unreal to left and to right.
+```
+**Co-occurrences**: Christ, Logos, Complete, Christianity, Form, Sophia, Greek, Satan, Like, World, Mind, Firebright, Does, Just, Something, Both, Being, Probably, Santa, Without, Santa Sophia, Were, Life, Human, Dream, Right
+
+---
+### Line 1124-1132 (Match: 'Nothing')
+**Folder**: Book of
+
+```text
+Last edit over 5 years ago by Harpax
+78
+Needs Review
+78
+The Second Advent or God's Intervention, the prophecy, is more accurately the running down or wearing out of our kosmos, and the revitalization. Here is the biological model, rather than the mechanical model (vide Hussey). The egg: reborn, et al. Biological models. Orphic. What repels me about Marxism is its mechanistic quality. I get the impression that some of the very early Greeks believed that when the kosmos had run down sufficiently, the Unbounded (i.e. the deity) had of necessity to revitalize it, or whatever he did; we are all governed by law of some kind; it wasn't by whim. (Ananke? Moira?) (Ananke, I guess.) Is this view not sort of Babylonian? "Can be counted on, is I guess all we can know for sure, especially if He has promised. What is really just important, though, it so realize that beyond our kosmos (which we keep calling "the universe") lies the Unbounded, which "governs" the universe, and so is the natural source of physical law. (Hussey) "More-over, the lawlike behavior occurs 'by necessity,' which implies a power imposing the necessity, and 'according to the assessment of Time.'" It's all there. My idea the other night was: suppose the universe were entirely emptied of all matter, in every form. So it was just empty space. Nothing, then, would exist. Right? Wrong. All the laws, which now govern matter, which govern energy as well, would obtain, although we couldn't discern them. It seems to me that if we don't assume as Unbounded (as so represented by the pressure of these necessities on matter and energy) we are just describing, we are saying, "Things do what they do because they do it." A tautology. An observation of regularity, not an analysis of why. You could approach it another way if desired: either the universe does not run down (but the laws of thermodynamic show that it does), or it ends; or it periodically is renewed. To say that it renews itself poses certain problems; I find it easier to imagine it renewed from without, although that poses certain problems too. But if the universe is everything, then it begins to run down (like a clock, like an animal) and then suddenly it revitalizes itself (as I experienced). I am equating the Second Advent & God breaking his silence with this turn of the cycle, this springtime, this revitalization. I think this is what has happened. A revitalizing is going on, and it certainly comes here from elsewhere. Where that "elsewhere" is, I don't know, but I've experienced a real, alive, thinking force.
+
+One of the best points in Hussey's book is where he says that one of the ancient Greeks (Anaxamander, maybe) assigns to the deity this primary fu[n]ction or activity or attribute or quality of definition: we would experience the return of God, this revitalization, as exactly what the word implies: a renewal of life.
+
+I note that Parmenides' Form I is equated, by him, with light: This is exciting, since as I understand Parmenides, he saw Form II as a mere mirror reflection, and urged a monism on us (the fiery or dry soul) which made us relate only to Form I, or to light.
+```
+**Co-occurrences**: Form, Greek, Well, These, Advent, Maybe, Like, Parmenides, Since, Because, Only, Time, Harpax, Book, Light, Could, Does, Just, Suppose, Kosmos, Although, Everything, Orphic, Either, Without, More, Another, Soul, Real, Certainly, Universe, Deity, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+
+---
+### Line 1154-1162 (Match: 'Nothing')
+**Folder**: part of
+
+```text
+My sense that Firebright has done on only means that He, a half Light, Half Human creature, is now strong enough to leave the "womb," which is good. Any immortality I have will be through the fact that He is immortal; like all children, he must leave, Son of a Mortal Mother (myself) and Deity (God as Father). Tessa points out it's a corporate body, like yogurt (in the dream, the renewing fish that's sliced forever). Christ as pure Light Being is the Head; we all form the body; we are immortal with Him. It would be dreadful to be immortal alone, separate.
+
+There is no doubt that, what with my right hemisphere experiments, I was trying to achieve something -- and perhaps did. Recieved something; receiving was part of what I was into, the idea that we could, if we listened in a new way (or a forgotten way). Where did the "tight beam" come from? Certainly my dreams suggest the past; anyhow it is all what should be identified as retrieved knowledge. But it may have been triggered (the disinhibiting) by an ET signal. This presumes a link between earth and, ahem, heaven. I think there is.
+
+Two other points: (one) On the aspects designated as those which the "Christ transformation" confers according to the "Decoded N T," all that can be verified now (e.g. higher intelligence, better health, prosperity, etc. whatever) I've obtained; now, there is no intrinsic relationship which link these various "gifts." No one would draw up such a list a priori, since they appear unrelated. They are leaps forward in various areas. Others listed by the "Decoded N T" such as immorality I can't check on, of course, but I will infer that this too was acquired, if the others were. (two) My left eye suddenly resolving better than my right: this may refer to feature extractors in the cerebral cortex, and be brain improvements, allied with the sense of "having been blind but no longer being so." Again, this is linked with the prophecies given in the N T to those who receive the Spirit (i.e. become Christ). Vide my dream of last night: a theraphist named Mary is washed --healing-- my ankles and feet. At first I thought nothing of this dream, but on later refle[x]ion, it certain[ly] seems to me religious in nature; not only am I having "weak legs," as Red Foxx puts it, but recall Mary Magdelane vis-a-vis the desciples. Maybe this dream (following by one in which I escape from prison, am not followed and am free to run and run) are reassurances that my improved state is permanent.
+
+I just had a thought: when the words came to me, "Santa Sophia is going to be reborn; she was not acceptable before," I interpreted this 'Santa Sophia' to refer to the Christos, making use of the concept in John of Christ being the Logos. But in fact, uninterpreted, what I heard simply states that the "Wisdom of God," which is the Firstborn Son of God, or the Logos, or the Word, will be reborn -- not the Christ, although that may be true; it's an additional interpretation, however, and may have misled me. It is the Logos which is back for sure, according to those words that I heard, and the emphasis should be on that. What is more striking would be Logos...born which seems now to have referred me back to "Logos spermatika," the fertilizing or creating Logos, and to the entire doctrine of the "Dec N T" and Philo's ideas, without necessarily involving the Messiah (another concept entirely; the Persians had the Logo spermatikos, for example). I certainly should consider this view first.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Logos, Form, Sophia, Fish, However, Wisdom, These, Perhaps, Father, Maybe, Like, Since, Prison, Only, John, Earth, Harpax, Good, Light, Firebright, Could, Anyhow, Philo, Just, Something, Again, Being, Although, Christos, Santa, Without, Tessa, Brain, Those, Part, More, Another, Through, Heaven, Such, Certainly, Before, Mother, Consider, True, Santa Sophia, Will, Deity, Would, Other, Messiah, Were, Back, Whatever, Have, Body, Later, Having, Knowledge, Suddenly, Human, Dream, Free, Right, Mary
+
+---

@@ -1,0 +1,344 @@
+# Evidence Packet: Info
+
+- **Category**: Top Term
+- **Total Mentions**: 29
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 537-545 (Match: 'Info')
+**Folder**: Unknown
+
+```text
+Undoubtedly the alchemical meta(crypte)morphosis worked in the human (lead to gold) contains a key to this transformation cycle of all society, of earth itself. After my own transformation, done via gold (the fish wrought in gold) I had a ferocity about --a maniacal antipithy toward-- lead in particular, base metals secondarily, but certainly a sense that lead was a poison, destroyer of life, killer of health (the dream: "The bichlorides are a very poisonous poison" suggests the alchemical symbol or reality of lead as poison was there in my head -- Albert Magnus, Simon Magnus, et al. I saw the world under the vector-aspect of gold, and I saw the former point or filter color presenting me with the departing base metal, the oncoming gold.
+
+It certainly shows that the alchemists were seeking a symbolic transmutation of psyche or maybe noös, not metal qua metal (which Jung and AMORC have pointed out). That something equal to turning lead to gold can happen in the person, in his mind -- this is certainly extraordinary, and makes the upfront alchemist's story (lead to gold) an allegory of man's progress spiritually (again the magic of the mystery religions). So in considering what happened, how it happened, who (if anyone) arranged it and what for, the alchemists and what they actually were up to must be considered. This could have been a spontaneous process in me, in which I obtained that very lead-to-gold transmutation sought for by the alchemists...that they sought this is certain; that they found it is speculation. I am sure many of them did undergo this crypte morphis, invisible to the outside. It is possible that I did it alone (the experimentation with the ortho molecular vitamins and so forth being my "alchemical experiments"), but it is also possible that a Redeemer caused it adventitiously (Gnosticism versus Neoplatonism). The spontaneousness of it would indicate that, like any true chemical reaction, it is not reversable. I think that the first dream being the baby's cereal box with the "the bichlorides are" etc on it indicates an external Grace assistance or intervention; I was and am being told by someone else...which the AI system of Albert Magnus maybe was. (The problem solving question answering head.)
+
+The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
+
+It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese States of America" dream is typical. I dreamed all manner of explicit alchemical symbols (the homonculus, the retorts interwoven...flask of Hermes, the fish, etc.), out of Jung's description of the self in the process of psychic integration experiencing noetically these prior consciously arrived at symbols (prior in terms of centuries -- thus his theory of the Collective Unconscious, that such symbols could arise in a modern man who did not know them, who had no way of knowing them -- like me with the Greek. But this
+
+Last edit over 2 years ago by ratatosk
+```
+**Co-occurrences**: Fish, Greek, Gnosticism, Wisdom, These, Plotinus, Maybe, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, America, Magic, Hermes, Human, Dream, Someone
+
+---
+### Line 561-569 (Match: 'Info')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Harpax
+35
+Needs Review
+35
+The anamnesis phenomenon, especially because triggered off by an external disinhibiting stimulus, suggests not only an entire "second stage" in the human being unsuspected, but held in reserve, but also that the organism as model or paradigm may explain human existence; that the disinhibiting signal was intentional suggests a transpersonal entity at work; and most of all, a heirarchy of functions leading entirely out of the visible (i.e. space-time) universe, ala Plotinus. However accurate the Neoplatonistic and Gnostic might be, our concept of universe as organism (and universe of space-time within larger universe also stages or levels within thinking organism) is a powerful view, here, to account for these events; the human as microbearer of information ala DNA coding: the cell with can replicate the entire organism...it must wonder what all that info in its head is for. Not only, Where does this info come from? And How does it get into ones head, but What is it for? Certainly not to replicate the individual. It's a sort of micro-Logos (Logos here as master blueprint or plan).
+
+The fish symbol didn't perhaps "disinhibit" me, i.e. act as a disinhibiting stimulus to release emgramming; it, more accurately broke the power of this world over me. It deautomatized and released.
+
+It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
+```
+**Co-occurrences**: Logos, Gnostic, Fish, However, These, Perhaps, Plotinus, World, Because, Therefore, Only, Time, Harpax, Does, Reality, Being, Anamnesis, More, Most, Certainly, Universe, Back, Information, Freedom, Human
+
+---
+### Line 675-683 (Match: 'Info')
+**Folder**: part delibaratedly
+
+```text
+or;
+
+(2) My experience is a result (a causal connection) of the experiments and truth of his work; the difference being that it is possible that any major telepathic reception would induce the massive time dysfunction I experienced, for the reason given in Dr. HK's theory; in which case no matter who transmitted to me, including the Logos --instinct-- itself, I'd sense the time transformations involved.
+
+A further point: it's evident from what Dr. HK says that it would be the intent to cause a great leap in time-density in order to transmit information telepathically, not the other way around (i.e. increase density as means, the t-p info as ends; not the other way around, not send info telepathically as means of increasing time denisty somewhere. The leap in time density, the entire experience of radically rolled-back time, would be an automatic experience of any t-p receiver, would have to happen in order for him to receive. This surely would be more evident if it was not a person normally sensitive to t-p info transfer; someone like me who never normally got info by telepathy would experience a unique and surprising transformation in time and not understand why. Normal telepaths probably would have become accustomed to it. My sense of time changes (in terms I guess of density) would indicate a strong artificial sending system and little if any natural sensitivity in me. This indicates that rather than me having hyped up my input they hyped up their output: as means, the created dense time around me, and thus were able to transmit. I infer from this (assuming all I've figured out in this sequence is correct so far) that Dr. HK or someone anyhow, and probably someone connected with Pulkovo, did in fact finally manage to figure out how to increase time density "at will," as desired.
+
+All this indicates that (1) Telepathic transmission to me of info was the goal; (2) Increasing the density of time around me was the means; (3) I was an "effect" and not a "cause," which explained why I felt so much under duress, and acting out adventitious commands. I probably was. But that's not the whole story. (4) Probably it was Pulkovo, or related to it. Why me? UBIK, no doubt; the fact that it resembled Dr. NK's work -- even seemed to parody it. Chance (a meaningful acausal "Logos Effect") coincidence brought the novel and me to their attention. The Logos foresaw all this when it imprinted the ideas into me originally (in 1968). Thus, it caused Lem (et al) to take an interest in UBIK and to invite me to come to Poland, and all else that happened. The Logos' purposes were always served in this primarily, since it excited us all into what we did initially; we
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Ubik, Logos, Like, Since, Time, Harpax, Even, Anyhow, Being, Great, Probably, Their, More, Finally, Will, Would, Other, Were, Back, Surely, Under, Further, Have, Information, Having, Truth, Someone
+
+---
+### Line 677-685 (Match: 'Info')
+**Folder**: part delibaratedly
+
+```text
+(2) My experience is a result (a causal connection) of the experiments and truth of his work; the difference being that it is possible that any major telepathic reception would induce the massive time dysfunction I experienced, for the reason given in Dr. HK's theory; in which case no matter who transmitted to me, including the Logos --instinct-- itself, I'd sense the time transformations involved.
+
+A further point: it's evident from what Dr. HK says that it would be the intent to cause a great leap in time-density in order to transmit information telepathically, not the other way around (i.e. increase density as means, the t-p info as ends; not the other way around, not send info telepathically as means of increasing time denisty somewhere. The leap in time density, the entire experience of radically rolled-back time, would be an automatic experience of any t-p receiver, would have to happen in order for him to receive. This surely would be more evident if it was not a person normally sensitive to t-p info transfer; someone like me who never normally got info by telepathy would experience a unique and surprising transformation in time and not understand why. Normal telepaths probably would have become accustomed to it. My sense of time changes (in terms I guess of density) would indicate a strong artificial sending system and little if any natural sensitivity in me. This indicates that rather than me having hyped up my input they hyped up their output: as means, the created dense time around me, and thus were able to transmit. I infer from this (assuming all I've figured out in this sequence is correct so far) that Dr. HK or someone anyhow, and probably someone connected with Pulkovo, did in fact finally manage to figure out how to increase time density "at will," as desired.
+
+All this indicates that (1) Telepathic transmission to me of info was the goal; (2) Increasing the density of time around me was the means; (3) I was an "effect" and not a "cause," which explained why I felt so much under duress, and acting out adventitious commands. I probably was. But that's not the whole story. (4) Probably it was Pulkovo, or related to it. Why me? UBIK, no doubt; the fact that it resembled Dr. NK's work -- even seemed to parody it. Chance (a meaningful acausal "Logos Effect") coincidence brought the novel and me to their attention. The Logos foresaw all this when it imprinted the ideas into me originally (in 1968). Thus, it caused Lem (et al) to take an interest in UBIK and to invite me to come to Poland, and all else that happened. The Logos' purposes were always served in this primarily, since it excited us all into what we did initially; we
+
+Last edit over 5 years ago by Harpax
+43
+Needs Review
+```
+**Co-occurrences**: Ubik, Logos, Like, Since, Time, Harpax, Even, Anyhow, Being, Great, Probably, Their, More, Finally, Will, Would, Other, Were, Back, Surely, Under, Further, Have, Information, Having, Truth, Someone
+
+---
+### Line 709-717 (Match: 'Info')
+**Folder**: part delibaratedly
+
+```text
+The Pulkovo work has rediscovered the Logos at work, and given it the name of Chronos instead -- father Chronos from whose race we are all descended, and who controls all things.
+
+It could be said that if Dr. NK --i.e. Pulkovo-- was feeding lines to me, the Logos was feeding lines --i.e. prompting-- to him. Beyond and behind the figure of any and all temporal powers, and their intentions, lie the intentions and power of God. Here is an excellent illustration of that: Man proposes/ God disposes. If indeed telepathy is the univeral medium of information-exchange, then the Logos, if it existed, would use it; also, those involved in experimentation with time and its into-transfer uses, would be in more direct connection with the Logos as Plan than most of us.
+
+We still serve our ex-employer, Mr. Runciter; and he still assists and advises us, as before. Nothing has changed; he knows how to get through to us, and what to bring us to restore us, and what advice (info) to lay on us. All of us.
+
+Dr. Kozyrev speaks of Time informing all biological entities simultaneously on an instinctive basis, by telepathy; this is fine, but where does this information originate? Can Time think? It is evident that Immanent Mind is equal to Time, possessing the same qualities, both of them. The Plan, being pressed onto us, is thought of separately (as Logos). This is an inference on the part of Dr. NK; Time informs, but it must know in order to inform (or anyhow be in possession of what it informs with). He is so close to attributing knowing to it that he might as well speak of it as knowing what to inform each species with, and when (as well as where from). I think anybody reading his paper would eventually wonder the same things I am wondering, even without my experience. I point out: that God's thoughts and will and plans are not separate, as they are in us (v. Hericlitus, Avicenna, Isa.). There is mind but no brain, just as He is aware without eyes, etc. Time seems according to Dr. NK to be capable of all these simultaneously -- without lag or distinction, as is found in us.
+
+Ad I found today in Psychology Today: The New Testament De-coded. "Jesus taught a self-realization beyond classical physics." "Knowledge of the code was lost during the persecutions." This is precisely what I have dreamed again and again. Amazing, and I came across the ad because of an article on autistic children in PT; last night I dreamed all night about autistic children, and so knew to go read this discarded issue of PT -- and saw that ad.
+```
+**Co-occurrences**: Logos, Jesus, Well, These, Father, Because, Time, Mind, Even, Could, Does, Anyhow, Just, Again, Both, Being, Runciter, Self, Without, Nothing, Brain, Those, Still, Part, Their, More, Through, Most, Before, Will, Would, Illustration, Beyond, Have, Things, Information, Instead, Testament, Knowledge, Today, During
+
+---
+### Line 738-746 (Match: 'Info')
+**Folder**: part of
+
+```text
+46
+Whether my exemplar is "me" is a merely semantic question; my exemplar is "me complete," and that is not "me in the process." Me exemplar is the Christos; we all are drawn from the future to become Him, and as we reach Him and become Him, then we turn back to help those still in progress or process. I would say that the absolutely overall biggest achievement of this is to dissolve and destroy our mere ego identity and allow us to merge into the Kingdom (Kingship) of Christ: him in me, me in him, as Paul says; we will / do form a Kingdom, where he is Lord.
+
+Dr. NK: "Time enters material systems." Maybe our dreams are time, as energy which bears info to us, entering us; we are the single simultaneous point from which the entire universe is projected from in terms of time (v. Dr. NK's paper).
+
+We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one of the RUs, one of the sources. This is very strange (paradigm is FLOW MY TEARS, in which 3 separate superimposed but somewhat different universes are lived in between first and final page of pt 1 to 3. How is this overlap achieved? How does one exit from one and into another? Who manages all this? Why?
+
+For all I know, there are many more RUs than two. It could be like the Selectric in terms of letter and numbers: hundreds. This is really weird. And what has time to do with all this? It would seem very little (another example: Mr. Tagomi in the park. These alternate presents, maybe. An infinity of splits within splits, like each half halving again into infinity, and each somewhat different --the Rhipadon fan-shape 3-part segment which divides and each had 3 parts: left, middle, right. Well, how about this: left is RU One; Middle is compound; Right is RU Two. That makes the compound, at epicenter, the Tao. This gets us into Taoism fast.
+```
+**Co-occurrences**: Christ, Tears, Complete, Form, Kingdom, Paul, Well, Lord, These, Maybe, Like, Only, Time, Light, Could, Does, Taoism, Again, Christos, Those, Still, Part, More, Another, Universe, Will, Would, Page, Kingship, Very, Back, Many, Tagomi, Whether, Evidently, Whereas, Final, Right
+
+---
+### Line 3461-3469 (Match: 'Info')
+**Folder**: part of
+
+```text
+Needs Review
+275
+-3-
+
+letter. Now, here was a false assumption (proved so later) leading to a correct hypothesis: that in two days another Soviet letter would follow. Had my theory been correct, I could assume more "hitletters , but my theory was false. How, then, can I account for a false theory yielding correct, absolutely correct, prognosis, without recourse to parapsychology? Only if someone else was following my reasoning about the Roogna letter, in a fashion, and they themselves sent the Xerox letter. They took the Roogna letter to be something other than what it was. who could or would do this, the Soviets? More likely the U.S. authorities. The Roogna letter was passed by Soviet censors and assumed to be what it was. The Xerox letter following was parallel to my assuption of its following, and since the assumption was based on a false premise, probably the Xerox letter being sent (i.e. following) was falsely premised, and about the Roogna letter, too. The false premise was: The Roogna letter is more than it appears. I thought that; someone else thought that. Who besides me would think that? Not the Soviets. "It could not have gotten into the mails," I say in V A "except for the cooperation of the U.S. authorities." True, I think. What I said on the phone to L.A. had to get me off the hook in either case. I guess the Xerox letter was someone fishing; I can't be sure yet which side it was. The "Cabalirros" dream suggests I brought what I found accidentally back to the loser, read sender. Well, I hate ’em all. I still say, that Xerox thing had subliminal material in it, designed —if not to cause me to actually do something— at least to unconsciously convince me of it, and the direction that went was, Party. "If subliminally he thinks this is from the Party, what will his reaction be, even if consciously he doesn'£ know what it is." I think the subliminal material was, "Con¬ tact the party," to see what I did given that material. My right hemisphere was told, "Contact the party"; my left, nothing, no in¬ structions. THEREBY I COULD NOT SIMULATE, FEIGN OR FAKE, COMPARED TO LIMINAL OR LEFT HEMISPHERE INFO OR INSTRUCTIONS. They got —would be sure of getting— a real or Rohrshack response. Bypassing conscious intentions to fake it. I would feel a compulsion to contact by whatever means I had at my disposal -- i.e. I reacted to the hammer and s^cle in the Martyrs ad. It did effect a compulsive nonrational response, all right. What a device/test that was I They could smoke out any Party person that way. I suddenly realize what the old wash¬ erwomen in white in the dream were: laundering the federal shield! No wonder I started in realization! And it was connected with my possessions stolen in Nov 17 71, which certainly wasn't by the Party. The antipithy toward Communism the spirit instilled in me assures that such terrible things as Nov 17 71 and March 20 74 won't ever happen a^ain. * * The parables taught the disciples how to receive the Holy Spirit; they did at Pentercost; when they died, their spirits were to loop back (via the third eye) the way Elijah's did with Elisha, but those who received the disciples' spirits had to prepare, as the disciples had; but then the Romans killed the Xtians and destroyed the oral tradition of knowledge started by Christ, so when Christians died, there was no one trained to receive their spirits, so they couldn't return, loop back; the continuity was broke?; their spirits stayed in the atmosphere. I think I received the spirit of an early Christian...did he wait that long
+
+Last edit almost 5 years ago by svayambhu108
+
+276
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Xerox, Holy Spirit, Well, Roman, Elijah, Since, Only, Even, Could, Soviet, Something, Being, March, Either, Probably, Without, Nothing, Those, Still, Their, Wait, More, Another, Real, Such, Actually, Certainly, True, Will, Would, Other, Were, Back, Whatever, Roogna, Have, Things, Fake, Later, Days, Except, Knowledge, Elisha, Suddenly, Dream, Doesn, Right, Someone, White
+
+---
+### Line 3862-3870 (Match: 'Info')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+8
+Needs Review
+8
+8 This "isomorphic" nature of perception imple, that since you can only see that which resembles now, to see Brahman you must resemble him or more preisely, be hich So by this reasoning I reach the Atman (Brahman identity proposition. Normally (lity the way I am pur we do not see Brahman because we are not Brahman. Only Brahman can be aware of itself. Such recognition is alw a care of Brahman remembering who it is to awake + see a Brahman is to wake up + be Brahman. There is no other roote: no improvement of perception can occur + itself i that one, comes when the soul (atman) wakes up. The statement "Sometimes Brahman sleeps" must lifer to situations (times! in which Brahman ceases to be aware of itself which is a description of us. This is how Brahman gets info a position of un-self awareness - it either transforms itself into created thing. (Such as us) or assumes the shape of - whatever this which we in fact do have going on here. In the act of transforming itself ino us or assuming the appearance of us, Brahman is temporarily no more thin us: the transformation or assumption of shape is thorough: both inner + outer. maybe Brahman wearies of being alone (the one), + so divide. tial into the many + then deliberated greates amnesia in all its particularities so that it is truly no longer alone - like a child with imaginary playmates wishing to make the illusing of then realit binding primarily on his own self - on him who crested them in the first place. I recall the two played (amn contest which I saw. It must be playing against itself - but as I clearly saw a blind self who either does not know of the receiving savior at all, or if he does he does not recognize it as his own self, his sighted will self. An exegesis from this would identity us (who also are blind) as somehow belonging to a partaking of the blind player + this is probably so, since her created us + our world. For one of us to be captured by Brahman would result in this perion waking up to Brahman on hime + outside him
+
+Last edit almost 3 years ago by svayambhu108
+9
+Needs Review
+```
+**Co-occurrences**: Brahman, Maybe, Like, World, Since, Because, Only, Savior, Does, Both, Being, Atman, Self, Either, Probably, More, Soul, Such, Will, Would, Other, Somehow, Whatever, Many, Have, Clearly
+
+---
+### Line 4569-4577 (Match: 'Info')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by mccuelena
+19
+Complete
+19
+19 "It (Zebra) not my mimics the things of this world it also imitates the [inocosses] "([kas] me changes birth defect "casuality " of insight). there in that case the birther [sang] the earlier scrotal pain, and the brutality bear of light cominc through the first sign did not cause the knowledge to enter my heart: it was,rather, a simulationof casuality, of the actual deterministic kind found outside Zebra. so Zebra does not just"persuade" causilty alone, diffrent outcomes [lines]; it also simply mimics, them. However, to me, at the time. I knew that the info came from "Him", not from the apparent causes. However, Zebra knew it [god] discloses itself tome anyhow. Its causes for chist out weighs its desire to retain its usual concealment.
+
+Last edit over 4 years ago by mccuelena
+20
+Needs Review
+```
+**Co-occurrences**: Zebra, Complete, However, World, Time, Light, Does, Anyhow, Just, Through, Things, Knowledge
+
+---
+### Line 4674-4682 (Match: 'Info')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+33
+Needs Review
+33
+83 Note: 2.B, "Strawberry Field," in itself doesn't either agram or communicate; at one point in space-time it is made to, by Zebra, + then not necessarily again; it is not the sons. But Zebra speaking through the song - like cunciter in Ubik. The verbal + graphic "trash" of this world arranged by Zebra: which obscures Zebra's presence F it used its own voice, we would know of its guiding presence. This realization causes me to think 2. has been here for some time (not just in 3-74). The engramming usually registers on a subliminal level. But from 3-74 on. I had no subliminal level. I not only saw 2.; I also consciously experienced it working on us. (Using objects + processes as means shape + us + events) of course it shapes us; we are to part of the (its) cosmos + must be harmonized. For the infor mation to work, the person must also be "arranged" (influenced) well as the materid, or it won't register, the info is caused 8 as to be there, + the person is caused to respond - incorporate it + act on it. Again: although objects are influenced, it is we who are most influenced. We are caused to selectively learn; this is a continuation the process of teaching which I saw acting in early childhood. of doesn't end ever, but this is not intervention; this is the of normal method. There is nothing "orthogonal" about it. This is nit intervention; the intervention (as in my case) Acts to abort this very process. The intervening God is somehow not in our world + it, processes but external to it + them. The normal proces. ses cannot be mode to yield the results he wants; no arrangement o the what is will achieve fulfillment of the plan. He him self must enter + impart something new, not derived or arranged. od hoc new creation is involved. At this point at least to some people he reveals himself + his presence
+
+Last edit almost 3 years ago by svayambhu108
+34
+Complete
+```
+**Co-occurrences**: Acts, Ubik, Zebra, Complete, Well, Like, World, Only, Time, Just, Something, Again, Although, Self, Himself, Either, Nothing, Part, Through, Most, Voice, Will, Would, Creation, Somehow, Very, Sons, Doesn
+
+---
+### Line 4691-4699 (Match: 'Info')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+36
+3 18 is theory about a single God will work unless b power +/or knowledge is regarded as superior but his finite, in which case he is not "God" with a capitue the two alternatives me G 1) Two mutually opposed deities (dualism) 2) superior, even God-like being (s), life for but not God. the noetic info showed (1) which as always brings me back to Gnosticism (for reasons already detailed - supra, In the case of (o, some or even all (or most) of the prefigured etal engramming may not be by the God, inter vering deity (entity). Is it not against this very deterministic engramming (programming) that the intervertion comes? But hark! the prefiguring engramming is a retrograde, teleological at work; i.e. the wise, good deity (entity). The bad of blind one grinds out in regular linear time - into which counsel + info from the Good entity intrudes, ala Runciter. This (prefiguring) teaching is also interventive; 3-74 was not unique, just extreme I suppose the yang, creative efficient-cause linear entity can be regarded as being as necessary as the yin teleological receiving one (i.e. the interventive one) but from a salvific stand point it is the latter we must turn to for help. Beyond doubt it is the latter (Christ) whom Christianity regards as salvific, the worlds, activities processes + presence of the 2 are blended to our unaided eyes. In 3-74 I was caused or permitted to distinguish the two - a truly Gnostic revelation, + quite secret, since it discloses this world as the evil kingdom (v. Gnosticism), which must be over. thrown. But if I think I am having trouble with this point in th exegesis consider orthodox Christion - Jewish monotheism + its total inability to explain the origin + continuation of evil (pain, dith, disappointment, slavery) in this, our God's world.
+
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+```
+**Co-occurrences**: Christ, Christianity, Kingdom, Gnostic, Gnosticism, Like, World, Since, Time, Good, Even, Yang, Just, Suppose, Being, Runciter, Jewish, Most, Secret, Revelation, Consider, Will, Deity, Very, Back, Beyond, Life, Wise, Evil, Having, Unless, Knowledge
+
+---
+### Line 5480-5488 (Match: 'Info')
+**Folder**: book included
+
+```text
+800-648-4100
+
+Discovery of anti-matter universe throws entirely new light on VALIS. People, and cars + everything. Explanation to follow.
+
+Key: transfer of information (first geometric/ math graphics, then cosmological model, written info, medical, engineering, in hierarchical order) so:
+
+My knowledge of Greek: transferred information, as from computer to computer, brain to brain. In fact, an entire mind ("Thomas") was transferred, but (1) by whom + (2) from where + (3) who?
+
+Last edit over 5 years ago by wtutwiler70
+```
+**Co-occurrences**: Valis, Thomas, Greek, Mind, Light, Everything, Brain, Universe, Information, Knowledge
+
+---
+### Line 6043-6051 (Match: 'Info')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+21
+dream: opening huge ( ) carter + taking out large Logos Artifact + nature electionie artifact, below (religious (wall of it is as solid wall, a information) electronic) bey rectanger, of beef. Under it is every king of religious (Christian) writing imaginable, even sentences covered (stegenograbia) by a glued-on paper strip with a replacement sentence. I the to interest everyone in the theological material, but they are like the harness bull who preceeded sergent Kelly: totally uninterested. It is as if the religious material is crazy. There is no reconciliation between the world (of nature) represented by the huge rectangle Wall) of beef + the layer of religious information under it; the impli cation is that if you believe in the reality of the wall of flesh Sarx?) you can't see any sense in the religious info below, ( + the wall of belf is certainly real - you have to beliem in it. But on the other hand, what is the relationship between the wall of belf + the creat electronic artifact? As between the religious writing + the wall of beef, there is no reconcillation between the wall of been + the artifact. I am sure that the religious writing equals the computer punched tape in "Electric Ant" + in the computer of the persus 9 in maze, which can't be read intrinsically but which gives rise to the world of flesh or nature which again in turn gives rise to the artificial world of mechanical/electronic constructs. 3 levels or layers are represented. No one wishes to take seriously the deepest one (except mey). The Logos, the word, is represented; that which is written gives rise to the living world (creatures, nature) which in turn give ise to our artificial environment. If we place ourselves in the top world (artificial construct) we are totally walled off - have no knowledge of or contact with - the Logos substratum, not. if it is called to our attention can we see any merit in it: ➁ is real + rational. ➀ is not. It is even hard if not impossible, to comprehend (2) (when one starts with (3) which is given in the dream as the starting point of view. (I itself is difficult to explain: how does it relate to (3? But at least It isn't "crazy: the way ( looks. But put another way, ➀ gives rise to ( via (2), a fascinating thought. So the origins of i i
+
+Last edit almost 3 years ago by svayambhu108
+22
+Needs Review
+```
+**Co-occurrences**: Christian, Logos, King, Maze, Like, World, Even, Does, Again, Reality, Another, Living, Real, Certainly, Other, Under, Have, Artifact, Information, Electric, Except, Knowledge, Electric Ant, Dream
+
+---
+### Line 6049-6057 (Match: 'Info')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+22
+Needs Review
+22
+if The technological world - the manufactured, the constructed lies ultimately in a sort of hidden punched out tape just as the false world of Delmak-O arose from perses 95 computer. No, the world of flesh + nature, totally hides the true origin of (3), it is by a thorough study of the relation ship between (1) + (3) that the relationship between (1) + (2) can be understood. As ➀ ist , ➁ is to (3). We live some when between (3) + ➁, never (as the persus 9 crew never suspected while in polyencephalic fusion) suspecting (1) what the dream reveals is not just that we, like they, have a punched out computer tape programming us, but tells, too, that it is Christion in fact Biblical in essence: i.e. Christianity is our punched out take. All the thousands of large written pages of books which I saw - the books themselves - were our "punche out computer tape" - i.e. the source of our natural/living world, which totally obscures its origins (cause) given a random fissful of the ribbon of info, we can make no sense out of it The fascinating thing is that a glimpse of our "punched tape" exposits (to us) nothing that makes sense. We do get glimpses of bits of it; e.g. the Bible + apocrophal books Even more revealingly, as trimage is to human, human is to Logos. t I should examine the prefound implications that the "Maze" model of punched - tape programmy simulating a shared reality is an accurate model of our own world. Such a model (with i Christian archetype as the punch-outs) would go long way to explain what I saw in 3-74 on. Plato's Edolos theory must be modernized. Put another way, Plato's concept of the real world (of forms) was or primitive pare technological attempt to describe what is more accurately described by the Logos theory which resembles what I described in "Maze." But look: No, the punched out computer tape, resembles the world of (3) more than it does the intermediary (separating world of nature (2). It like "a chicker is an egg's way of producing + another egg" ➁ is ➀ way of replicating itself.
+
+Last edit almost 3 years ago by svayambhu108
+23
+Needs Review
+```
+**Co-occurrences**: Christian, Logos, Christianity, Form, Plato, Bible, Maze, Like, World, Book, Even, Does, Just, Look, Reality, Nothing, More, Another, Living, Real, Such, True, Would, Were, Biblical, Have, Human, Dream
+
+---
+### Line 6061-6069 (Match: 'Info')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+24
+Needs Review
+24
+21 This certainly indicates that my anamnesis was due to taken The active intervention (+ theolepsy by) Christ over by him (at 3-74) I saw level ( penetrating up through + into (+ to an extent replacing) level ➁. The landscape of level ➀ is Biblical (e.g. Rome, early Christians, God breaking through into time, etc). I did not see an earlier form of (2) but the timeless archetypal landscape of N it certainly is odd (i.e. an odd coincidence) that in " "Maze" I assign to the mentufactures the power to roll back time, though. However, a closer scruting of the Delmako world in "Maze" would show that he has that power due to the illusory quality of that world. Perhaps if it were real, time (even by God) could not be rolled back; put another way, if you discover that, in your world, time can (I guess by God) be relled back, you can correctly deduce that your world is illusory. + then: what is exposed when that time, by the deity, is rolled back? I discerned a landscape of apocalyptic (Biblical] archetypes. Presum ably that world (like the control room of the spaceship Persus 9) is the real world; it is not just an infurate series of illusions. level ( (the Logos) generated a world so substantial (so to speak opaque) as to conceal it - No - totally If I am correct about all this, then I say, the 1st advent was a palpable breaking - through of the supreme entity (mind. i.e. Holy Wisdom) of level (1) into level (2), the sole time it took place conspicuously. But in 3-74 I was shown - in my own novel "Tears" a breaking through of info from level ( right on past (2) + into level (! In level (3) there is such a vast component of (verbal] information that info propenly a part of level ( blends invisibly in. All the "Acts" + "Daniel" (the dreams) stuff in "Tears" is a perfect example of that I virtually conclude that level ( deliberately evolves ("programs") level ( forward toward oral speech, then writing, + at last
+
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Logos, Rome, Form, However, Maze, Wisdom, Perhaps, Advent, Like, World, Time, Holy Wisdom, Mind, Even, Could, Just, Daniel, Anamnesis, Part, Another, Through, Real, Such, Certainly, Deity, Would, Were, Biblical, Back, Information, Right
+
+---
+### Line 6079-6087 (Match: 'Info')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+27
+22 when (3) is completed it will be the "new heavens + new earth" + that "which will never enter the mind nor come up into the heart" will have been (2). It is interesting that the Corpus Christi (completed (3) must pass through rather than springing directly from ➀. Not only the things (objects of (2) are turned into a womb by N for (3) but the sentient beings of (2) are so used: i.e. the Holy Spirit possesses them the way externally Zebra transubstantiates objects + processes what I saw in 3-74 (Rome) is a vivid example of ➀ showing through (2) to (, if by (3, you mean me: the new self within me perceiving - finally - its origin, it's home: (i. + even the B. I. Prison: I had been/was there, too, an an early Christian. The Atman fusing with the Brahman: ( fusing with ( + bypassing (2) - so (2) is identified as Maya. So I ask, where in, is (1) being primarily born? I'd have to answer: most likely in the most sentient parts of (3), which could well be human minds (insofar as this planet is concerned). This makes of each of our heads a receiver - transduces of emanations from (1): if we evolve far enough we - perhaps suddenly - hear + see past - thick as it is. To the words, books + pages of (1). However, I am speaking of conscious reception; in point of fact, buts of ( are forever ubiquitously reaching us subliminally imbedded in + indestinguishable from info in (3) deriving out of (2 what must be rembered is that the vast gult between ( + ➁ is equally great between (2) + (1). In certain respects ➀ would resemble (3) (i.e. verbal material) but: it would seem to be nuts. Crazy, cryptic verbal material - as inscrumble as the punched tape intrinsically in "Maze: under very unusual circumstances a person might lose contact with (2) + relate directly to (1), but this would amount virtually to a trip ahead in time, because the delusional (2) is still with us, still a barrier between (3) + (1) if for any reason a
+
+Last edit almost 3 years ago by svayambhu108
+28
+Needs Review
+```
+**Co-occurrences**: Christian, Spirit, Holy, Zebra, Rome, Holy Spirit, Brahman, Well, However, Maze, Perhaps, Because, Prison, Only, Time, Earth, Mind, Book, Even, Could, Maya, Being, Christi, Atman, Self, Corpus, Great, Still, Through, Corpus Christi, Most, Finally, Will, Would, Very, Under, Have, Things, Suddenly, Human, Answer
+
+---
+### Line 6120-6128 (Match: 'Info')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+34
+Needs Review
+34
+I s (i.e. hold over us, to mjure + enslave us) which this delusional world exerts: i.e. God is abolishing it by weakening it, a process which will be completed by St Sophia's new incarnation, which is to say: a further secret is that the 1st + 2nd advents are by the female principle of holy Wisdom, in mate form For me a very important revelation was that it wasn't just that it's really 70 AD Rome, but: that I am one of the illegal Christians of that age, very active as pt of an illegal "revolutionar" group against Rome. This must not be lost sight of; e.g. it explains who "homas" was/is: my real identity (personality): Thomas is to PKD as Rome c AD 70 is to Calif AD 1978 Also it is very important that the two realize (AD 70 + AD 1974) were not merely alternate equal realities - like two equal possibilities - alternate worlds - but that either âž€ The 1974 landscape rolled back or aside to reveal the actual (AD 70) reality within; or (2) the actual reality seeped up through the 1974, with the latter as veil on Dokos. Take the scene in TMITHC where Tagome enters our world. These were alternate equal worlds. This is not what I experienced; rather, I experienced what was shown in is Maze": a counterfeit landscape breaking up (or down) to expose the actuality "beneath" - as if the dreamer (+) was/ were waking up. The tripartate division of the artifact/will of meat Gnosis-info about Christ could express this, with the wall of eal being - not just the world of nature - but the 1974 Dokos (veil) between us (the artifact world) + the real world as expressed - known to us - in the N.T. then the Gnosis would be the word + the time/place continuum of the first advent (esp "revelation"). We normally only experience it in word form (i.e. the Bible). This brings me to the bits of "Ubik info surfacing. The "commercial" in the final chapter was explicitly scriptural (cf John 1:1). Are not the Runciter) Ubik messages bits of the bottom, real, N.T. world rising up through the substantial (natural or phenomenal)
+
+Last edit almost 3 years ago by svayambhu108
+35
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Ubik, Thomas, Holy, Rome, Form, Sophia, Bible, Maze, Wisdom, These, Advent, Like, World, Gnosis, Only, John, Time, Holy Wisdom, St Sophia, Could, Just, Reality, Being, Runciter, Either, Dokos, Through, Real, Calif, Secret, Revelation, Will, Would, Were, Very, Back, Further, Artifact, Final
+
+---
+### Line 6297-6305 (Match: 'Info')
+**Folder**: book Therefore
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+16
+11 oddy, we will experience the true orthogonal world of the 2nd Advent breaking through upward from below, from within, the lowest "gutter" layers of our world, as if immanent within it - as Brahman is to our world. So the 2nd Advent matrix is not transcendent but immanent: the first signs will be in trash + cheap matter (e.g. St novels such as mine + star Wars, exactly as depicted in "Ubik" - which confers onto the novel "Ubik" stunning reveletory significances": as with the dream in "Tears" another world, a divine one con‐ stellated around the divine force (Ubik) is already palpable. were it not close now, this breaking through of the real landscape "Ubik" + "Maze" could never have been written - my skeptical epistomology led to the affirmative information in "Ubik.") + in maze the true orthogonal world of the 2nd advent is as the real world of the persus 9 is to the Delmak-O polyencephalic fusion "hallucination," which at the end begins to disintegrate to expose the true landscape below. if the messages of the 3 Stigmata," " "Ubik" + "Tears" are superimposed the single true message emerges, esp. if "Tears" is then superimposed after those 3 earlier novels are - + there is some info in "Frolix 8." Also "pot healer" should be mentioned, + There are the "mercer" couckes in "sheep" - I see now what Ursula means about all the books forming one landscape, which is to say, all my novels (inc "time out of joint" + even "pem, truth") telling one story - each is a "chapter" of the over all book Therefore the reproach or georse turner that "Phil Dick does it all over again." What is the Quelle or ur Geschicht? "Tears" certainly adds to it with its acct of amnesia on the pt of 30 million people. + the "Acts" stuff + the dream. Ah - I have it. A computer analysis of "Ubik," "Joint" "Maze" + possibly others ("3 Stigmata?) would show world II thrusting itself into illusory world I. This is the koinos kosmos (world II) thrusting into the illusory plurality of idios kosmoi
+
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+```
+**Co-occurrences**: Tears, Acts, Ubik, Brahman, Maze, Advent, World, Therefore, Time, After, Stigmata, Book, Even, Could, Joint, Does, Again, Kosmos, Divine, Frolix, Those, Another, Star, Phil, Through, Real, Such, Dick, Certainly, True, Will, Would, Were, Wars, Have, Information, Star Wars, Truth, Dream, Phil Dick
+
+---
+### Line 6303-6311 (Match: 'Info')
+**Folder**: book helps
+
+```text
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+17
+N The 1952 world of ragle Gumm, Delmaco, the 30s world of Tear Ubik, the false worlds in + "3 Stigmata" - all relate what must be the true koinos thrusting through. + this is what I saw in 3-74 as Rome c AD70. Further info in my writing lies in the study of fakes in "pen truth" + MITHC" - also, in "MITHC" the real world breaks through for Mr. Tagomir exactly as Rome c AD70 did for me, + having the same relationship. In my writing I am not just denying the reality of apparent reality - esp in "MITHC," "Joint" + "Ubik" Maze" I show another world underneath. Now, if "Martian + time slip" is also read, the study of counterfeit vs real worlds is intensively studied Tempunauts" even studies reliving the present - + "impostor" + "Ant" study fake memories + self-programmed worlds. indeed there is eine Geschichte related in my writing, + if you read it all you get the one full story - which [even I writing sequentially, didn't conscauish remember (i.e. understand]. pot Healer" adds - helps explicate -Ubik. Each book + story sheds explanatory light on the others - each book helps explain the others! If you don't understand "Tears" read "MITHC" etc. Each is a piece in the puzzle. unsertive take world s a s of prime (real world "Black Iron Prison" - finally transmuted to the park Garden world in "Deus Irae" scanner" holds an interesting position of giving a non-fiction actual scientific as to how we could possibly perceive 2 different worlds. Jeter says of it, "only the deranged in it see reality as it truly is" cf "time slip: one thing "Tears" says is that the epistomological issue over idios vs koinos is rendered moot or at least seconder to the embrace of love as expresed at the end of the book.
+
+Last edit almost 3 years ago by svayambhu108
+18
+Needs Review
+```
+**Co-occurrences**: Tears, Ubik, Rome, Maze, Scanner, World, Iron, Prison, Only, Time, Black, Stigmata, Garden, Book, Light, Even, Could, Joint, Just, Reality, Self, Black Iron Prison, Deus, Another, Through, Real, Love, True, Irae, Finally, Further, Fake, Having, Remember, Deus Irae, Truth, Impostor, Iron Prison
+
+---
+### Line 6315-6323 (Match: 'Info')
+**Folder**: book covers
+
+```text
+Last edit almost 3 years ago by svayambhu108
+19
+Needs Review
+19
+( How close did I come in my writing? Well, in "Ubik, "Maze" + "pot healer" all deal with a wisdom entity - which leaves clues strewn, even on bathroom walls + match book covers. + in "Frolix 8" it sets things vis-a-vis the tyranny right: the Ubik" + "pot healer" external beseiger of the prison -fortress. get right to the core of the wisdom (machine or rather) entity. who, I now have learned, is Christ. (I.e. St. Sophia.) This especially becomes evident when I consciously try to write about it in Valis - knowing now that it does exist I am staggered - paralyzed - by the immensity of the subject. molinari, led botero, Runcite fade off into Glimmuny, who fades off int God in beginning to posit the "wisdom machine" (v. "Ubik" + "Pot Healer") I was onto the track of the greatest reality we can encounter - the "teaching machine" aspect of all reality - the only thing lying within or beyond at a deeper level is Zebra Qua Zebra, causing all to be that is ("I am he who causes to be"). I sought, I formulated, +, in 3-74, I found. in essence I figured out that the universe is alive. + can talk to you ("the still small voice"), what is more, it knows everything - + is sublimes beautiful + good. One good right step I made was to seek the word (the Logos info) not in the sky or the cathedral, but, e.g., in bowls of alphabet soup, since I realized it totally pervades the world. Rock lyrics + SF - perfect places to look. I did not force Zebra to reveal itself by any craft on my part, but I figured out ( where to look + (2) what to look for, + voluntarily Zebra graciously manifested itself to me by opening my 5th chakra. I think Zebra informed my writing in the 1st place: he is moving swiftly toward his/her 2nd incarnation + wants the way paved (cf Star Wars); after all, the greatest sign foretellen the incarnation has occured: the fall of "Babylon"
+
+Last edit almost 3 years ago by svayambhu108
+20
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Ubik, Zebra, Logos, Sophia, Well, Maze, Wisdom, World, Since, Fall, Prison, Only, After, Good, Book, Even, Does, Look, Reality, Everything, Frolix, Still, Part, More, Star, Babylon, Voice, Universe, Wars, Beyond, Have, Things, Star Wars, Right, Track
+
+---

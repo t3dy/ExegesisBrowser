@@ -1,0 +1,347 @@
+# Evidence Packet: Certainly
+
+- **Category**: Top Term
+- **Total Mentions**: 44
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 26-34 (Match: 'Certainly')
+**Folder**: part was
+
+```text
+Indexed
+2
+never realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Orthogonal (i.e the Forms) yes; reversion, no. Now, when I saw what I saw, I had "died" in an actual sense; like those in UBIK I came to the end point of my lineal time-line. But I wasn't depleted; this "decay backward" to Rome which I saw wasn't an entropic process, or even decay at all.
+
+I saw the Parousia, and I couldn't have unless they actually took place (I didn't know enough to hallucinate them accurately). Did they take place? Has the Kingdom arrived? I say Yes it has, certainly in the sense that the Brit 3 macro says about Jesus Christ's message about it. Not only is it real, it has arrived; the Day of Wrath -- I think it is not a mere personal trip which I went though but which we all went through (toppling Nixon was not in my head, nor what Nixon had been doing). Which part was on my head? Only the realization of what it meant, these historical events, and I didn't realize.
+
+It has happened, the Prince of this World fell.
+
+This all has been an unfolding process. A revealing or disclosing of Being.
+```
+**Co-occurrences**: Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Time, Nixon, Even, Being, Jesus Christ, Those, Part, Through, Real, Actually, Macro, Have, Unless, Crete
+
+---
+### Line 515-523 (Match: 'Certainly')
+**Folder**: book about
+
+```text
+"Growth time" (movement of an entelechy toward completion) must be orthogonal to "decay time," or "wheel spinning time," even if our senses can't sort out these two times at work before us, in us and around us. Some sections (subparts) of the universe are moving backward, then, despite our occluded vision of a single forward lineal stream. We have a monovision in a sense. Blending two signals which should be discriminated.
+
+When we do discriminate, we perceive a general forward flow (to decay) but within it a backward flow (v Hericlitus fr 51; the key retractile pulling back oscillation of the bow and lyre). I think they are both present now, and may always be/have been, but we are generally occluded: i.e. one-eyed.
+
+It seems unlikely that the retrograde form completing heat-energy gathering time I briefly discerned was there only as so long as I discerned it, and then it departed; is it much more likely, if not certain, that it was there before, and is there now, but that I fell back into monotemporal vision once more. I would be like a blind person who [open] seeing for the first time imagined that the objects were brought into being by his seeing them. No, I saw what I saw because of the [recripocal] tug: the existence of the two times forced me into perceiving them (that which is perceived precedes perception, certainly an axion of reason).
+
+Last edit almost 3 years ago by twsullivan
+32
+Complete
+```
+**Co-occurrences**: Complete, Form, These, Like, Because, Only, Time, Even, Once, Both, Being, More, Before, Universe, Would, Were, Back, Have
+
+---
+### Line 533-541 (Match: 'Certainly')
+**Folder**: Unknown
+
+```text
+Last edit almost 3 years ago by twsullivan
+33
+Complete
+33
+Undoubtedly the alchemical meta(crypte)morphosis worked in the human (lead to gold) contains a key to this transformation cycle of all society, of earth itself. After my own transformation, done via gold (the fish wrought in gold) I had a ferocity about --a maniacal antipithy toward-- lead in particular, base metals secondarily, but certainly a sense that lead was a poison, destroyer of life, killer of health (the dream: "The bichlorides are a very poisonous poison" suggests the alchemical symbol or reality of lead as poison was there in my head -- Albert Magnus, Simon Magnus, et al. I saw the world under the vector-aspect of gold, and I saw the former point or filter color presenting me with the departing base metal, the oncoming gold.
+
+It certainly shows that the alchemists were seeking a symbolic transmutation of psyche or maybe noös, not metal qua metal (which Jung and AMORC have pointed out). That something equal to turning lead to gold can happen in the person, in his mind -- this is certainly extraordinary, and makes the upfront alchemist's story (lead to gold) an allegory of man's progress spiritually (again the magic of the mystery religions). So in considering what happened, how it happened, who (if anyone) arranged it and what for, the alchemists and what they actually were up to must be considered. This could have been a spontaneous process in me, in which I obtained that very lead-to-gold transmutation sought for by the alchemists...that they sought this is certain; that they found it is speculation. I am sure many of them did undergo this crypte morphis, invisible to the outside. It is possible that I did it alone (the experimentation with the ortho molecular vitamins and so forth being my "alchemical experiments"), but it is also possible that a Redeemer caused it adventitiously (Gnosticism versus Neoplatonism). The spontaneousness of it would indicate that, like any true chemical reaction, it is not reversable. I think that the first dream being the baby's cereal box with the "the bichlorides are" etc on it indicates an external Grace assistance or intervention; I was and am being told by someone else...which the AI system of Albert Magnus maybe was. (The problem solving question answering head.)
+
+The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
+```
+**Co-occurrences**: Complete, Fish, Gnosticism, Wisdom, Plotinus, Maybe, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Grace, Jung, Gold, Actually, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, Magic, Human, Dream, Someone
+
+---
+### Line 535-543 (Match: 'Certainly')
+**Folder**: Unknown
+
+```text
+Complete
+33
+Undoubtedly the alchemical meta(crypte)morphosis worked in the human (lead to gold) contains a key to this transformation cycle of all society, of earth itself. After my own transformation, done via gold (the fish wrought in gold) I had a ferocity about --a maniacal antipithy toward-- lead in particular, base metals secondarily, but certainly a sense that lead was a poison, destroyer of life, killer of health (the dream: "The bichlorides are a very poisonous poison" suggests the alchemical symbol or reality of lead as poison was there in my head -- Albert Magnus, Simon Magnus, et al. I saw the world under the vector-aspect of gold, and I saw the former point or filter color presenting me with the departing base metal, the oncoming gold.
+
+It certainly shows that the alchemists were seeking a symbolic transmutation of psyche or maybe noös, not metal qua metal (which Jung and AMORC have pointed out). That something equal to turning lead to gold can happen in the person, in his mind -- this is certainly extraordinary, and makes the upfront alchemist's story (lead to gold) an allegory of man's progress spiritually (again the magic of the mystery religions). So in considering what happened, how it happened, who (if anyone) arranged it and what for, the alchemists and what they actually were up to must be considered. This could have been a spontaneous process in me, in which I obtained that very lead-to-gold transmutation sought for by the alchemists...that they sought this is certain; that they found it is speculation. I am sure many of them did undergo this crypte morphis, invisible to the outside. It is possible that I did it alone (the experimentation with the ortho molecular vitamins and so forth being my "alchemical experiments"), but it is also possible that a Redeemer caused it adventitiously (Gnosticism versus Neoplatonism). The spontaneousness of it would indicate that, like any true chemical reaction, it is not reversable. I think that the first dream being the baby's cereal box with the "the bichlorides are" etc on it indicates an external Grace assistance or intervention; I was and am being told by someone else...which the AI system of Albert Magnus maybe was. (The problem solving question answering head.)
+
+The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
+
+It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese States of America" dream is typical. I dreamed all manner of explicit alchemical symbols (the homonculus, the retorts interwoven...flask of Hermes, the fish, etc.), out of Jung's description of the self in the process of psychic integration experiencing noetically these prior consciously arrived at symbols (prior in terms of centuries -- thus his theory of the Collective Unconscious, that such symbols could arise in a modern man who did not know them, who had no way of knowing them -- like me with the Greek. But this
+```
+**Co-occurrences**: Complete, Fish, Greek, Gnosticism, Wisdom, These, Plotinus, Maybe, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Self, Grace, Jung, Gold, Such, Actually, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, America, Magic, Hermes, Human, Dream, Someone
+
+---
+### Line 561-569 (Match: 'Certainly')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Harpax
+35
+Needs Review
+35
+The anamnesis phenomenon, especially because triggered off by an external disinhibiting stimulus, suggests not only an entire "second stage" in the human being unsuspected, but held in reserve, but also that the organism as model or paradigm may explain human existence; that the disinhibiting signal was intentional suggests a transpersonal entity at work; and most of all, a heirarchy of functions leading entirely out of the visible (i.e. space-time) universe, ala Plotinus. However accurate the Neoplatonistic and Gnostic might be, our concept of universe as organism (and universe of space-time within larger universe also stages or levels within thinking organism) is a powerful view, here, to account for these events; the human as microbearer of information ala DNA coding: the cell with can replicate the entire organism...it must wonder what all that info in its head is for. Not only, Where does this info come from? And How does it get into ones head, but What is it for? Certainly not to replicate the individual. It's a sort of micro-Logos (Logos here as master blueprint or plan).
+
+The fish symbol didn't perhaps "disinhibit" me, i.e. act as a disinhibiting stimulus to release emgramming; it, more accurately broke the power of this world over me. It deautomatized and released.
+
+It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
+```
+**Co-occurrences**: Logos, Gnostic, Fish, However, These, Perhaps, Plotinus, World, Because, Therefore, Only, Time, Harpax, Does, Reality, Being, Anamnesis, More, Most, Universe, Back, Information, Freedom, Info, Human
+
+---
+### Line 758-766 (Match: 'Certainly')
+**Folder**: part segment
+
+```text
+You get enough darkness and it turns spontaneously to light. You get enough light, etc.
+
+For all purposes which are ours, we should contrue our universe as under the dominion of two distinct RUs, if not more, and a compound of both -- so in a sense, not as real as both or either of them. But maybe ours it the desired product, and also more stable. Again, the two light sources pouring through frames of film...
+
+The dream about James James certainly expressed what I saw in 3 74: with the Creator producing first solar flares (or the atom and its moving parts), then from it the baby, and then evolving from the baby Kathy. But that he had to injure Tessa (because she stood up to see his "act" better) -- this was what I saw as objection to linear forward moving time and continual creation anyhow: that in the powerful huge surging-forward drive of life, so many creatures are wounded and crippled, left to die, behind the flock. And in my dream I asked for help, and none of the thousands sitting around to form an attentive audience for James James would lift a finger, despite my appeals. But then the wide glass doors opened, and the first scouts entered the great building. "We need medical assistance," I said to them, and they came toward me; small as they were, and only the first vanguard, they did represent another force, one which heard and responded. Surely this is a dream-drama expression of the retrograde force which is the other game-player and which I construe as either the Logos or Christos or the Holy Spirit -- and which to me is the "good" although so far weaker of the two players. Certainly
+
+Last edit over 5 years ago by Harpax
+48
+Needs Review
+```
+**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Form, Maybe, James, Because, Only, Time, Harpax, Good, Light, Anyhow, Again, Both, Although, Either, Great, Christos, Tessa, Darkness, Creator, Kathy, More, Another, Through, Real, Universe, Would, Other, Creation, Were, Surely, Under, Many, Life, Dream
+
+---
+### Line 764-772 (Match: 'Certainly')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+48
+Needs Review
+48
+the dream showed me clearly that the primary miracle, the one which of necessity must precede all others, is the miracle of life born out of the unliving, the miracle of creation itself; then the movement up the evolutionary scale, from form to higher form to highest form; this surely is the primary work of the universe, to do this, its hardest, first, and most solemn task, over which nothing else can take precedence. How can anyone question that? But although there must be a flock to go on (the species, I guess, or all life), before there can be those who fall back too weak or sick to keep up -- this in the dream was so damn clear: one person out of thousands in that auditorium caused trouble, stood up (against James James rules) and was thrust back down and crippled. The ratio of success to failure was maybe 10000 to 1. So I am concerned with that 1, and stepped forward, halting James James and his continual miracle of evolving creation (certainly the most extraordinary event I've seen in dream time or waking time, ever). I was asking for medical attention, not for me or for her, but for us. "We need medical attention" or assistance, whichever. There is such a need; there are casualties, and I understand that He Whom I follow, He sees to it that the 1 casualty is assisted: i.e. gets medical attention. The image of the good scouts: good semaritans, maybe; those which lend a hand to those in need. It is as if the dream says:
+
+The universe has now successfully progresses along far enough so that forward-motion can begin to be mitigated by the "scouts entering the situations" to pick up the casualties, since evolution of form has gone so well and so far. There are now casualties to pick up. In this work there'd be a lag; it wouldn't begin for a while. But now the laws of compensation and equilibrium have brought us to the point where we have a small but very significant casualty, and so by these laws which govern reality, the scouts are starting to appear, to march onto the scene from outside (wherever that might be, anyhow marching here from somewhere else). They have begun to arrive. We must state our needs (by definition, they listen and give aid). Our need is a medical one; we are injured, or sick, or crippled, or weak. We need help of that kind: life-support help. We'll get it; a dream like this could not lie.
+
+I think a tremendous principle of conservation and balance was expressed in this dream. Kathy represented what I would deem the higher form of form-evolution; even so, I halted the forward-motion because the casuality was not acceptable to me. I noticed, and steeped forward. That time has come (e.g. "No, we will not allow our mentally deficient, our weaker races, our poor, our old, our helpless in general, to be sacrificed; the day of Rule by the Strong and healthy is over; the sick must be cared for, although perhaps not by the healthy but by someone coming here from Elsewhere.
+```
+**Co-occurrences**: Form, Well, These, Perhaps, Maybe, James, Like, Since, Fall, Because, Time, Harpax, Good, Even, Could, Anyhow, Reality, March, Although, Nothing, Kathy, Those, Most, Such, Before, Universe, Will, Would, Creation, Very, Back, Surely, Have, Clearly, Life, Dream, Someone
+
+---
+### Line 829-837 (Match: 'Certainly')
+**Folder**: part segment
+
+```text
+The whole experience seems to take about one full cycle of the earth: one year, beginning at the vernal equinox. Thus it is identified with the departing of winter and the reappearance of the lost spring.
+
+This whole last year contained a lot of pain and shock and loss for me (I was hospitalized twice, my son once, I lost two cats in very sad ways, and had to get rid of my little dog, and was burned on my first screen play), but it was the best year of my life, because somehow within the illness and loss and pain I gained an inner reality to match the external reality. There is no point in merely establishing an external new real kingdom or kingsom. God must reign in the human heart and body as well. It is the ultimate growth: to turn into a portion of God ("that I might live in Him / Invisible and dim") and continue on, knowing that He is both inside and outside. I can say that although I have not seen God, I saw signs of Him, indubitable signs. And knew Him to be growing within me, as the new life Firebright, from the Sun...the Aton, I guess, which Iknaton spoke of, that good tender trembling frail brave man.
+
+The criticism that Elijah's coming first and shaping certain folk up so they'd be acceptable was somehow cheating -- this misses the point of it all. God's desire is to save, not to co[n]d[em]n; he wished that as many as possible could be ready for acceptance. The object was not to judge; the object was to save. Thus, before he judged he prompted, so to speak, everyone who needed it or would benefit from it. I certainly wouldn't have passed muster without prior help. The exam per se was not the main purpose of God's coming; He intervened, entered time, and it was necessary to make swift judgment the moment he resumed Kingship. If anyone objects to God's desire to have as many people as possible fir for acceptance when judgement came -- that is an odd objection, and makes the judgment a sort of end in itself, which it is not. It is as if one were to construe the purpose of school to be to give exams and flunk people. The purpose of school is to teach, and to teach in order to prepare the
+
+Last edit over 5 years ago by Harpax
+54
+Needs Review
+```
+**Co-occurrences**: Kingdom, Well, Elijah, Because, Time, Earth, Harpax, Good, Firebright, Could, Once, Both, Reality, Although, Without, Real, Before, Would, Somehow, Kingship, Judge, Were, Very, Many, Have, Judgment, Life, Body, Spring, Human
+
+---
+### Line 951-959 (Match: 'Certainly')
+**Folder**: part of
+
+```text
+Needs Review
+62
+That makes of reality a sort of code, which we kept running through (like a tape) different ways, until finally we thought to reverse it (which doesn't merely mean backward but maybe inside out; x cf tape processes where a tape can be played inside out, not merely reversed).
+
+We are not stabilizing what we experience correctly; if enlightenment comes as soon as we run it "inside out," which is also automatically in a reversed way, then it is evident that our senses should be striving to do this; or anyhow to pick up the picture of the universe and the mirror opposite as well; and certainly not blending them into one signal.
+
+Messages are arriving in red and green and we are monochromatic; the resulting blur makes little sense.
+
+At this point I would make this guess: that the universe is not running backward and we see it forward; if that were so, we would have recorrected our impressions of it; I think that there are two flows, and we see both as running forward, which is not true. There is perhaps the main flow, or the more powerful flow, which does run forward; but there is a subtle, mild, mirror opposite running inside out and reversed, and it seems to be a sort of intelligence capable of affecting our forward flow, in crucial ways. That is my summation: the mirror opposite universe is a weak, living, intelligent mind which alters the configuration of reality in its backward-moving time flow so as to benefit our total flow, which is to say, the forward one we normally see.
+```
+**Co-occurrences**: Well, Perhaps, Maybe, Like, Time, Mind, Does, Anyhow, Both, Reality, More, Through, Living, True, Universe, Finally, Would, Were, Have, Doesn, Until
+
+---
+### Line 994-1002 (Match: 'Certainly')
+**Folder**: book dream
+
+```text
+The band of darkness which I and Laura saw passing across the sky on Good Friday, during the 3 hour period in which Christ is dead - i.e. in the tomb. It was real; we both saw it, and felt the powerful wind. But maybe it meant more that I realized; vide the "Decoded N.T." where they speak of Jesus crying out, "Eli, Eli," meaning "My power, my power" has gone because the sun has gone down (out). This darkness described in the Bible, and referred to in the "Decoded" is what Laura and I saw; what did it mean? That He was dead. That the light was gone. Now, take Doris' notion that maybe a time dysfunction had taken place that day; suddenly (the day of the Crucifixion) suddenly it was sundown and suddenly (way ahead of schedule) He was dead. There was a connection. I knew, when I saw that band of darkness travelling across the sky, that it was related to his death; this fits in perfectly with the "Decoded" theory that He got his power from the sun. What, then, in view of what the "Decoded" as well as the time dysfunction theory -- what did I see what what did it mean? No universe at all? Night had taken place at midday, exactly as on the day of the Crucifixion? I really saw night happen at midday...so, logically, there could be the opposite: light (and hence Christ's source of power, and Christ alive) during our regular darkness, at night...would this, then, be another mirror-opposite time dysfunction? If/when this happens? Christ never dead or gone or in the thrall (bonds) of death, in the tomb? When He is risen for us all? No "band of darkness" even when there is no sun...because Laura and I saw this while the sun shone (early afternoon, on a cloudless day).
+
+Not the physical sun that day had done out (had it, as in an eclipse, I wouldn't have been anything), but the other sun, the Sun of Righteousness, without realizing it. That is why I saw "Palmer Eldritch" in the sun, even thought I was afraid (Palmer means pilgrim to the Holy Land, which I didn't know. Palm leaves, Santa Sofia, etc).
+
+But more: what Laura and I saw must have been what Jesus himself, on the cross, saw: the Other Sun had gone out (time dysfunction). We saw what we saw. And He died, because of that darkness. When Laura and I saw that certainly not Laura and not me either could have understood the significance of what we saw; I mean, this is not faked, because for us to see that rushing band of darkness, and lacking on back our parts the highly sophisticated knowledge I now have, we did not see it because we "expected" to see it. That was around 1962. It has taken 13 or so years for me to understand what that meant, which certifies to the genuineness of the experience. Then indeed, as related in the Bible, the sun did go out that day on Calvery. The sun went out. Then, as in 1962. This proves the connection between Christ or anyhow Christ's power or origin and the sun, as stated in the "Decoded." I am witness to what must consist of a valid (scientifically valid) proof of this. And, just as Isa had the book dream and healing dream here, Laura was witness with me then. In each case a daughter of mine was witness, without comprehension ("a little child shall lead them," because it can't fake it).
+
+Last edit over 5 years ago by Harpax
+67
+Needs Review
+```
+**Co-occurrences**: Christ, Holy, Jesus, Well, Bible, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Doris, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+
+---
+### Line 1002-1010 (Match: 'Certainly')
+**Folder**: part of
+
+```text
+Needs Review
+67
+This news (in Psy Today) about the pineal body being a light-receiving organ or gland is so exciting to me because it means that the chromatic phosphene source I experienced did not merely go to the light-sensitive part of my brain, but also to my pineal gland. Since the pineal gland is the "third eye" actually, scientifically speaking, as the Hindus believed, this is thrilling (and helps explain my dreams of the three-eyed people, also ratifying their significance and ratiofying that indeed the pressure experienced as phosphene activity did in fact travel to my pineal) anyhow, its function, as the Ency Brit says, "its obscure," but it is connected with springtime, with instinctive actions, and with total endocrine encoded metaprogramming. My brain saw the phosphene activity and was dazzled and delighted; however, probably as far as the brain itself went, it ended there. Not so for my pineal body; it responded (which is what it does; see article in Psy Today) to what it received from the optic nerve, accepting it not as entertainment but as signal. (Disinhibiting, no doubt.) Probably all melatonia production (for openers) was halted, it being an inhibiting secretion. I guess I saw the "Other Sun," which shone at nighttime, when the physical sun isn't there. It was a deliberate signal from the Sun of Righteousness, in the night, a dazzling display of its kind of light (a fire-like light, much like chromatic fire), and it tripped the pineal into things buried in our morphology for thousands of years, which the physical daytime sun doesn't trip (more that abolishing the production of melatonia and histomine, etc.). This chromatic Other Sun fire light would cause firing (sic) in the pineal body which constituted the true, absolute, ultimate purpose of that body, and place my total mind-body organism into its true, absolute, ultimate Being state. Here, I am not saying anything new about what happened, only about how it was done. But it emphasizes that the cause was external, and deliberate ("Grace of God"). And again ratifies the "Decoded N T" theory of what Xtianity was all about -- what they were after, and shows there is indeed a "Sun of Righteousness" capable of shining at night, or day if it wished, but not, repeat not, our physical sun and its variety of light.
+
+Nurturing. I am not, rather than merely being nurtured (by the Earth, etc.) but nurturing Firebright within me (a Yinnish matter: hence this is why I got K'un as my trigram, K'un and Tui, both female). This is the normal growth-line of a[n] organism: it is born, and must, as an incomplete, ungrown infant, be nurtured. Gradually, as it grows, it moves toward nurturing rather than being nurtured; final entelechy completion would be for it to nurture, be a parent. This is logically visible in all higher organisms. (We call this "giving" rather than "receiving." What the Gospels stress when they repeat the concept of giving in so many ways is nurturing, which is giving. The parent (mother or female) gives of her own body in this. The reason the Gospels emphasize the female values is not for receptivity alone (which is the first step, before implantation) but after the reception of the seed, then the nurturing. So long as one takes, one is not full grown, and certainly not yet a parent (of the Spiritual, Immortal body within). One becomes the "mother" and God Himself is the Father. And does the protecting, as one sees on the visible plane, in a family.
+
+The "receiving of the Holy Spirit" at Pentercost, in Acts, probably is this reception to the pineal body by this different light. What travels to the brain itself is only a by-product "Aurora" display.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Acts, Spirit, Holy, Christianity, Holy Spirit, However, Father, Like, Since, Because, Only, Earth, Harpax, After, Mind, Light, Gospel, Firebright, Does, Anyhow, Again, Both, Being, Himself, Probably, Grace, Brain, Part, Their, More, Actually, Before, Mother, True, Would, Other, Were, Many, Things, Absolute, Body, God Himself, Today, Doesn, Final
+
+---
+### Line 1012-1020 (Match: 'Certainly')
+**Folder**: part of
+
+```text
+Needs Review
+68
+The conduit is the optic nerve, the eye the receptor percept organs, but the message is to the pineal body, not the brain. Generally, photon light messages travel to brain-reception; but as the Psy Today article shows, some are "intended" for the pineal body (springtime).
+
+One could speculate that this is the purpose of human beings: Why We Are Here -- to serve as the recipient "female" "mothers" for the implantations of the solar spermatika, the divine seeds. Curiously, this would bear on Doris' point about the item in Catholic Agitator that Jesus' healing activities were not only primary, it was that which most crucially angered the Romans. I asked her, "Why the hell would healing these bodies for us be a primary act on His part, especially since these bodies will die anyhow; they're healed, but they aren't made into anything but what they are, i.e. they aren't immortal." Well, if these bodies are to serve as the "wombs" for the solar spermatika, then healing such a body would be "pre natal care," and certainly logically crucial. Doris and I both agreed that even without knowing precisely why healing these bodies was primary it did show that there was some vast importance to our physical lives here. Healing us would be a logical continuation of creating us in physical form in the first place; it is a stage, but now I am thinking that it is a "launch stage," a platform --I hate to say host situation, and "host" isn't right because the divine seed and the human "mother" bond into a duplex entity which is not in accord with the meaning of "host." (A baby is not a parasite in the strict sense, only when one views it in a value sense; in which case all children are parasites to their parents, and anyone in need is a parasite on the rich, etc.) (And the sick to the healthy; any outstretched hand...which brings us back to Gospel symbolism.) God is the Father; the select mortal (human) male or female is the mother, into whose spirit the seed is placed; but the human (or so Christ assured us) has plenty to gain: she/he/it isn't discarded as the seed grows, because it is a Light Body which involves eternally the human mother. Carrying "her" with it when the rotting fruit decays (dies). This is the only way our physical body can become a fruit containing a seed; otherwise it is only a flower: pretty, but temporary, ephemeral. It does not give birth (except to other ephemeral flowers, a procession of them), missing their true purpose.
+
+It doesn't seem to me that it's just speculation that it was my pineal gland to which the primary message went, and which was primarily stimulated; because: (one) the dreams of three eyed people, with the third eye being the Hindu 3rd all seeing eye of enlightenment dead-center in the forehead. And (two) the pineal gland is affected by light, according to Psy Today, in early springtime, at the vernal equinox or just before...probably it can be computed at the precise time (March 18) (1974) that I experiences the chromatic progressions. However, this still leaves the issue of, Where did all the information (e.g. written) come from? Disinhibited (i.e. this was all engrammed inside, in my entelechy, but held back, blocked by the melatonia, the GABA fluid, etc? Just in there waiting? Or did it enter me along with the seed? (Pre-natal instructions! No wonder I felt myself to be under the guidance of Asklepios -- and dreamed of doctors! And got primarily medial/healing advice, which goes with what Christ himself offered, for the same reason
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Before, Doris, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Information, Except, Dead, Today, Otherwise, Human, Doesn, Right
+
+---
+### Line 1020-1028 (Match: 'Certainly')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+69
+Needs Review
+69
+What, though, took possession of me, which seemed like Elijah (if not truly Elijah)? I guess it was the Father; certainly it was not the seed. A form of the Father: the Holy Spirit, which, recall, made Mary pregnant, which brought conception to her; she conceived by the Holy Spirit and gave birth to the Logos; and yet, the Logos in a sense impregnated her; I guess the macroLogos this way achieves its micropresence here. Locally.
+
+However, against this is set my experience of anamnesis, the neoplatonistic recovery of memory of divinity already there. I did not acquire it abruptly; I recalled it.
+
+In reconciling this with Christianity, I was restored. To the former state I had lost (the myth of Adam, the Fall). In the Parousia, there is the Restoration of all things, specifically, man is restored to his intended, divine state. The Second Birth (born again or saved, found after having been lost)
+```
+**Co-occurrences**: Spirit, Holy, Logos, Christianity, Holy Spirit, Form, Parousia, However, Elijah, Father, Like, Fall, Harpax, After, Adam, Again, Divine, Anamnesis, Things, Memory, Having, Mary
+
+---
+### Line 1045-1053 (Match: 'Certainly')
+**Folder**: part of
+
+```text
+71
+One could assume, I guess, that the divine seed is in every one of us, but remains dormant (crypto morphosis); it is never fed, and this feeding comes to the pineal body via sunlight. So there is no implantation. I myself, I felt something (Firebright) was implanted. I had visions of Firebright's heavenly parents. That sounds like more that celestial food. Which do we have, a quickening, an awakening, or an implantation? The parables about the seeds sown...they don't make it certain (some sown on barren soil, some on rock, some on good soil, etc.) If one had had a dormant seed all ones life, and it had never stirred, come to life at all, and then a shaft of fire-light from the Sun of Righteousness cause it to come to life for the first time, one might sense an implantation from outside; something which was not oneself. (Sasha must feel that way, with her little new unborn kittens inside her. "They came from outside." But in fact they were fertilized from outside. Okay, fertilization is what takes place: it isn't a seed such as a plant has, but an egg such as a human woman ovulates, and a cosmic spermatika fertilizes it; a zygote is produced. Firebright is a combining. Here would be the crucial distinction between Neoplatonism and Gnosticism, which I feel so strongly about: the former is sort of self-fertilizing, parthonogenesis, so to speak, but in Gnosticism you have the idea that the Savior is absolutely necessary, so we have here the idea that something entirely from outside one is necessary, it comes along (God's grace) and if it doesn't come, then there is no zygote, no Firebright, no seed, no immortality. I always felt Gnosticism was correct over Neoplatonism; viewed this way, it is evident why. The Neoplatonist knows what happened, in a basic way, but he feels he did it by himself: up by his own bootstraps. A personal achievement. I guess this is a failure to know about the "birds and the bees," as the "Decoded N T" points out. How are babies born? By thinking about it, or by copulating? Let's be realistic; it takes a union, always true in higher forms, of which we are one. This is why the "Dec N T" can so plainly declare that no meditation, no prayer, no affirmation of belief, is going to do it. It is done to us, not by us. All each of us can do is accept -- i.e. receive.
+
+You are to be "meek," i.e. Yinnish, humble, receptive, but what overpowers you (the father!) is fierce, like Elijah, seeking justice and truth, powerful, definitely Yanglish, and the not-you. Just the opposite. Possession by the God (vide Virgil describing Appollo taking over the Sibyl. You may be masculine to other humans, but to Him you are feminine, passive. Now, the Mynaeds of Dionysos did not seem to believe (read know) that a permanent fertilization, acquisition took place, but the Orphics certainly did; here lies a vast distinction! The being-overpowered leaves something forever, but after the beatific vision, the Firebright Second Birth, what is born, lives on, eternally. What a jump from the mere Dionysian frenzy to Orphism and beyond, to Christianity! What a realization of the value of being possessed!
+
+This borders on the Sufi: becoming God. One does "become" God while he possesses you, but then he leaves. But -- well, it's like poor Leda. Vide Yeat's poem. But look at the progeny: Helen of Troy.
+
+Well, I have certainly (through Doris' help) made a distinction
+```
+**Co-occurrences**: Christianity, Form, Well, Gnosticism, Dionysos, Plotinus, Elijah, Father, Like, Time, After, Cosmic, Savior, Good, Light, Firebright, Okay, Could, Does, Just, Something, Look, Being, Self, Orphic, Divine, Himself, Sibyl, Viewed, Grace, More, Through, Orphism, Such, Doris, True, Would, Other, Were, Beyond, Have, Life, Body, Justice, Truth, Human, Doesn
+
+---
+### Line 1049-1057 (Match: 'Certainly')
+**Folder**: part of
+
+```text
+You are to be "meek," i.e. Yinnish, humble, receptive, but what overpowers you (the father!) is fierce, like Elijah, seeking justice and truth, powerful, definitely Yanglish, and the not-you. Just the opposite. Possession by the God (vide Virgil describing Appollo taking over the Sibyl. You may be masculine to other humans, but to Him you are feminine, passive. Now, the Mynaeds of Dionysos did not seem to believe (read know) that a permanent fertilization, acquisition took place, but the Orphics certainly did; here lies a vast distinction! The being-overpowered leaves something forever, but after the beatific vision, the Firebright Second Birth, what is born, lives on, eternally. What a jump from the mere Dionysian frenzy to Orphism and beyond, to Christianity! What a realization of the value of being possessed!
+
+This borders on the Sufi: becoming God. One does "become" God while he possesses you, but then he leaves. But -- well, it's like poor Leda. Vide Yeat's poem. But look at the progeny: Helen of Troy.
+
+Well, I have certainly (through Doris' help) made a distinction
+
+Last edit over 5 years ago by Harpax
+72
+Needs Review
+```
+**Co-occurrences**: Christianity, Well, Dionysos, Elijah, Father, Like, Harpax, After, Firebright, Does, Just, Something, Look, Being, Orphic, Sibyl, Through, Orphism, Doris, Other, Beyond, Have, Justice, Truth
+
+---
+### Line 1059-1067 (Match: 'Certainly')
+**Folder**: part of
+
+```text
+between two opposite sequential states; my experience began when I was "listening for very weak signals to transduce," which was meekness (I got it right, picked up paw talk, etc), and then came the chromatic fire. That was when I received God or God's Power or Spirit, the Yang upon me-as-Yin. Possession of me by the God took place, as Ted Sturgeon says in VENUS PLUS X or whatever, this being what was really sought at the Feast of Agape. No wonder they say, as Doris points our, God is love! Wow, He sure is! It is a (ahem) mating (again vide Yeat's poem "Leda and the Swan.") But that was one year ago -- over a year ago. Actual possession lasted days, weeks, slowly drained off; no more than a couple weeks, the electrostatic life form gradually drained off. But Firebright remained; the dreams remain right up to now; contact (Fellowship) with God remains.
+
+Spring is the mating season. As Psy Today says, it's based all the way up to cosmic influences (sidereal). All synchronized.
+
+By following all the admonitions of the Gospels, one literally courted the great masculine Father deity so that he literally possessed the Christian. From this (receiving the Holy Spirit, as they put it euph[e]mistically) they got various powers: healing, prophecy, ability to discern, and were made Righteous, which I experienced as a thirst for Truth and Justice and going the right thing. "Gifts of the Spirit," yes, but those who were possesses were also the "First fruits of the harvest," which meant that they gained something permanent; this would correspond with my being back in Rome; i.e. escaping the thrall producing death -- hence, freedom, release, from the power of death. Certainly, of all the various gifts, this would matter the most. I myself experienced reality on an inner ontological basis (assimilating objects themselves rather than mere phenomena), saw the structure of the universe (Logos or Plan), have and still retain fellowship --contact-- with God, which is to say, knowledge of him. I didn't just get the power to heal; I was healed. I walked with God and communed with him (along the alley that day, also in trances and dreams). I knew the true state of things (the tyranny) and what to do. But to dream of Crete or dream of Rome is a lot difference than that perios when I was there; when for me time was abolished. This is what I mean when I say, The power of the world over me was broken. It got that cardboard fake quality. Now it is clear about the Father-Son (JHWH-Christ) relatinship (Zeus-Zagreus). The Holy Spirit, a form God the Father takes, impregnates (the person receives it) and Christ consciousness is born (in Mary's case, Jesus Christ physically born from her womb, she being made with child by the Holy Spirit). Out of this union comes Christ. The father is God. The impregnating spirit is the Holy Spirit. (Does Christ grow up to be Jehovah? Why hasn't anyone ever asked that before? Or like him? I think he can be like him or even be him.) Where is the Logos in all this? The outcome of possession by the deity is Logos relatedness, in the sense Hericlitus meant. One (the receiving one) is brought into conformity with it, while the Christ within, Firebright, grows. The former mere moral human, full of sin (sickness and insanity) is consumed by the growing Christ, moves toward him, toward the Logos, with it as exemplar and outcome: as perfected form. The Logos is the plan and information which leads to that completion, a process begun by the Holy Spirit initially.
+
+Last edit over 5 years ago by Harpax
+73
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World, Time, Harpax, Cosmic, Even, Gospel, Yang, Firebright, Does, Just, Something, Again, Reality, Zagreus, Being, Jesus Christ, Great, Those, Still, More, Zeus, Most, Upon, Love, Before, Doris, True, Death, Universe, Deity, Would, Were, Very, Back, Whatever, Have, Things, Life, Justice, Spring, Fake, Information, Freedom, Days, Sturgeon, Knowledge, Truth, Today, Human, Dream, Crete, Right, Mary
+
+---
+### Line 1065-1073 (Match: 'Certainly')
+**Folder**: part is
+
+```text
+Last edit over 5 years ago by Harpax
+73
+Needs Review
+73
+This makes of the Trinity a great biological organism in its several stages or phases: father-son is obvious, with the holy spirit bringing about the production of the son, using the human as "mother." (Just as Mary was used; she is the exemplar for that.) God gets from where He is to produce Christ (as many as God wishes, all of which probably share one "body," one "mind," which is transpersonal) via the activity of the Holy Spirit. Certainly the distinctions between God the Father and Christ the Son are clear (Zeur to Zagreus), but then someone asks, "How does the father produce the song? By binary fission? By parthonogenesis, which would make Him a Her?" Answer: as Holy Spirit her very Yanglishly uses one of us, which makes the human race the bride, not of Christ, but of God. (Hence the strange bride and bridegroom imagery in the church --"Wenn kommst du mein Heil? Ich komme dein Teil," etc., which I knew was erotic but which I couldn't understand. It has passed down to us in a typically garbled form. The Som is not the bridegroom; He is the issue. God is the Groom; Man is the Bride. Thus, we mere perishing mortals are brought up to participate in an act of biological or anyhow metabiological reproduction of an immortal and very superior electrostatic deity-race, and gain immesurably from this act; if never involved in this, we mere mortals perish in the most miserable and pointless fashion, just as the Bible says. The odd part is, the text of the New Testament really has got it all there, if you just get the proper slant on it, which we don't get, the sort of biological, reproductive, live-form, springtime, mating thing...it's there, but for some wild weird reason we utterly reject and cast out as unholy and suggestion of the erotic...except in the odd idea of Bride and Bridegroom, Christ and the Church. This is a case of almost being right, but the not-quite bit is a razor's edge bit, separating us absolutely. We get just to the edge of grasping it...but as the "Decoded N T" says, it isn't an intellectual thing anyhow; "grasping it" doesn't do it, any more than reading about the sexual act among cats produces cats. It's the old confusion between banana and the word banana. (Philosophy.) Reading about being seized by the Holy Spirit and believing that the HS exists and that it can do it, and that immortality therefrom is possible, through Christ, doesn't produce it in you. Too bad, but as the "Dec N T" says, no universe ever worked any other way. This is what I've meant by "cargo cult."
+
+(It's interesting how in my novel MAZE OF DEATH I wrote about a society where the communication and I guess by inference reproduction of God to his Son did take place routinely; anyhow there were a lot of Walkers-on-Earth bopping around, which is what this is supposed to achieve.
+
+I guess you could say, the total family is, God (JHWH), his impregnating self which comes to man (the Holy Spirit, sent by God) (as Christ said), and if Christ is the Son, the issue, it's pretty obvious that we humans are the mother; we're all Mary right now, until we receive an inner, Light-body transformation, into what they call Christ Consciousness. Our completion/perfection is not here on this Earth, but after our physical body perishes ("If a grain of wheat remain solitary, not sown then it --" etc. Well, [i] guess [i] got it. Albemuth: the star of Bethlehem, which I kept gazing up, seeking. Point of His (HS) origin?
+```
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Maze, Father, Earth, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+
+---
+### Line 1075-1083 (Match: 'Certainly')
+**Folder**: part survives
+
+```text
+Last edit over 5 years ago by Harpax
+74
+Needs Review
+74
+Maybe I'm missing one major point (certainly one disputed in early Christianity): Christ, although God is His father, has/had a human mother; so Christ while remaining God's true son, is a halfbreed. This certainly removes any "host" or "use" aspect from this, and returns us to the Zeus-Leda paradigm. And it certainly would make Christ different from His father, since Christ partakes (equally?) of our race. Half God, half man. God fused with us, in holy union. We lifted up...this seems exactly what the Bible says about Jesus Christ. Then, upon physical death, the transient earthly body is shed, and He becomes all Light, since only that part survives; thus, as Firebright and I fuse, then we are together half human (my part) half god (His part; except that Firebright more accurately is half of me, half of God -- I am to him as Mary was to Jesus. Did she survive in Christ's immortality? We progressive Christians are certain that out of the HS penetrating one of us, the human lives on after his physical, temporary body dies; that which is the union (the [f]irebright) carries him along; this does with the victory over time which I have already experienced, the onion rings, layers, as in UBIK; if my offspring is immortal, I am immortal, since any offspring of mine (Firebright, not Christopher) contains me, ala UBIK, and in my Rome-within-Fullerton experience (where is the past? Inside the present). "The father achieves immortality through his offspring." This is true, but only if the offspring is immortal. Firebright is, since he has a celestial Father.
+
+In one sense Firebright is within me; in another (looking ahead, past the tyranny of time) I am within him. "The child is father to the man." What will survive of me is what is worthy, I guess, and a sort of consciousness, but yoked in duplex or multiplex with the Savior, who is/will be each and all of us.
+
+There was another entity in me, all right: thinking away in Attic Greek. (the [l]ogos?) (the father?) (Firebright?) (The Holy Spirit? Probably the HS. But it proves one was; and, as Apollo made the sibyl do this and that, it made me do this and that.
+```
+**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Father, Maybe, Since, Only, Time, Harpax, After, Savior, Light, Firebright, Does, Jesus Christ, Although, Apollo, Probably, Sibyl, Part, More, Zeus, Another, Through, Upon, Fullerton, Mother, True, Death, Will, Christopher, Would, Attic, Have, Body, Except, Human, Right, Mary
+
+---
+### Line 1087-1095 (Match: 'Certainly')
+**Folder**: part survives
+
+```text
+Last edit over 5 years ago by Harpax
+75
+Needs Review
+75
+I never after that "found" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was actually there and actually experienced during full wakefulness, as present. Yet, it was still now. But now He has returned. I was now and yet superimposed Rome of 2000 years ago: 1974 Fullerton and Rome c 45. I gather that what I experienced were the two advents unified, with time abolished. It made Rome Fullerton and Fullerton Rome; it made 45 AD 1974 AD and 1974 AD 45 AD. This certainly would explain why I knew that neither reincarnation or time-travel per se were involved. It was a time dysfunction but of a crucial sort, that prophecyed in the Bible: the Parousia, an expression (experience) of it, a demonstation of the nature of the Parousia in which it abolishes or ends time, or perhaps, when God enters time from outside time, which is to say, from Eternity; surely that's a time dysfunction, although you might not be able to fathom why it happened. But I guess this is what you experience when God abolishes time; when the Parousia arrives.
+
+In connection with this, I wasn't just back in Rome; I was aware of two portions (not aspects, but divisions): the Roman army/police -- and the hurrying semi-invisible Christian underground, the fish Christian who were illegal and whom the Romans (part one) were after, to destroy. Gosh, if I were merely transported back to Rome via a time dysfunction I might gaze at great buildings and watch crowds, having no awareness of the fish Christians or the Roman ir leg. So this was not only Rome, or Rome as such; it was Rome viewed as the Apostles must have viewed it; it was a very precise and special view, and I was one of those fish Christians. I am happy to say that in this apocolyptic experience, I was indubitably one of those Christians, and our Savior was anticipated momentarily (later in the year I had the "Santa Sophia" dream, bearing this out without the Roman experience, that is, the Second Advent for sure, for us).
+
+The "Dec N T" says that this time Christ won't appear in the form of one single man (as he did as Jesus before), because if he does, then they'll get him again and it'll be a failure again; therefore, as I understand it, this is what all this solar spermatika, the seeds, etc. talk has to do with; there will be many implantations, of persons already alive and walking around "at their regular tasks," and the births will be plural, and inside peoples' heads, and not out of a womb, as with Mary's. Gee, I finally understood it. There will be no one Savior born this time, but a different system. Vide St. Teresa of Avilia. "Now, Christ has no body but yours." Is before (at the First Advent) implantation will be done by the same spirit, the Holy Spirit, supra, and the same issue will occur: the Son, which explains Jesus' cryptic remarks about where the Kingdom would be (not here, not there, and Christ not here, not there). But: in you and among you. Yes indeed! Kingship, then, within given persons; the assumption of rule (this duplex personality) within various persons; this is the Second Advent, and not a mere anticipation, a la Elijah. This is the Second Coming itself, this Firebright implantations. I mean, these, not this. My God -- what happened to me (sic: to me) in 3 74 was the Second Advent, one of them, anyhow. Guess who Firebright is, viewed this way. This now resolves one mystery (mystery to me, anyhow): the relationship between Elijah and the Holy Spirit. What Malachi said would come back was the Spirit of Elijah (if you read about Elisha this is clear). Surely it wasn't the physical man. The Spirit of Elijah is the Old Testament Hebrew concept for the Christian Holy Spirit (remember, the Jews were absolute monotheists).
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+
+---
+### Line 1124-1132 (Match: 'Certainly')
+**Folder**: Book of
+
+```text
+Last edit over 5 years ago by Harpax
+78
+Needs Review
+78
+The Second Advent or God's Intervention, the prophecy, is more accurately the running down or wearing out of our kosmos, and the revitalization. Here is the biological model, rather than the mechanical model (vide Hussey). The egg: reborn, et al. Biological models. Orphic. What repels me about Marxism is its mechanistic quality. I get the impression that some of the very early Greeks believed that when the kosmos had run down sufficiently, the Unbounded (i.e. the deity) had of necessity to revitalize it, or whatever he did; we are all governed by law of some kind; it wasn't by whim. (Ananke? Moira?) (Ananke, I guess.) Is this view not sort of Babylonian? "Can be counted on, is I guess all we can know for sure, especially if He has promised. What is really just important, though, it so realize that beyond our kosmos (which we keep calling "the universe") lies the Unbounded, which "governs" the universe, and so is the natural source of physical law. (Hussey) "More-over, the lawlike behavior occurs 'by necessity,' which implies a power imposing the necessity, and 'according to the assessment of Time.'" It's all there. My idea the other night was: suppose the universe were entirely emptied of all matter, in every form. So it was just empty space. Nothing, then, would exist. Right? Wrong. All the laws, which now govern matter, which govern energy as well, would obtain, although we couldn't discern them. It seems to me that if we don't assume as Unbounded (as so represented by the pressure of these necessities on matter and energy) we are just describing, we are saying, "Things do what they do because they do it." A tautology. An observation of regularity, not an analysis of why. You could approach it another way if desired: either the universe does not run down (but the laws of thermodynamic show that it does), or it ends; or it periodically is renewed. To say that it renews itself poses certain problems; I find it easier to imagine it renewed from without, although that poses certain problems too. But if the universe is everything, then it begins to run down (like a clock, like an animal) and then suddenly it revitalizes itself (as I experienced). I am equating the Second Advent & God breaking his silence with this turn of the cycle, this springtime, this revitalization. I think this is what has happened. A revitalizing is going on, and it certainly comes here from elsewhere. Where that "elsewhere" is, I don't know, but I've experienced a real, alive, thinking force.
+
+One of the best points in Hussey's book is where he says that one of the ancient Greeks (Anaxamander, maybe) assigns to the deity this primary fu[n]ction or activity or attribute or quality of definition: we would experience the return of God, this revitalization, as exactly what the word implies: a renewal of life.
+
+I note that Parmenides' Form I is equated, by him, with light: This is exciting, since as I understand Parmenides, he saw Form II as a mere mirror reflection, and urged a monism on us (the fiery or dry soul) which made us relate only to Form I, or to light.
+```
+**Co-occurrences**: Form, Greek, Well, These, Advent, Maybe, Like, Parmenides, Since, Because, Only, Time, Harpax, Book, Light, Could, Does, Just, Suppose, Kosmos, Although, Everything, Orphic, Either, Without, Nothing, More, Another, Soul, Real, Universe, Deity, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+
+---

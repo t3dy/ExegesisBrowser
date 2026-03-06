@@ -1,0 +1,345 @@
+# Evidence Packet: Illustration
+
+- **Category**: Top Term
+- **Total Mentions**: 36
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 707-715 (Match: 'Illustration')
+**Folder**: part delibaratedly
+
+```text
+Needs Review
+44
+The Pulkovo work has rediscovered the Logos at work, and given it the name of Chronos instead -- father Chronos from whose race we are all descended, and who controls all things.
+
+It could be said that if Dr. NK --i.e. Pulkovo-- was feeding lines to me, the Logos was feeding lines --i.e. prompting-- to him. Beyond and behind the figure of any and all temporal powers, and their intentions, lie the intentions and power of God. Here is an excellent illustration of that: Man proposes/ God disposes. If indeed telepathy is the univeral medium of information-exchange, then the Logos, if it existed, would use it; also, those involved in experimentation with time and its into-transfer uses, would be in more direct connection with the Logos as Plan than most of us.
+
+We still serve our ex-employer, Mr. Runciter; and he still assists and advises us, as before. Nothing has changed; he knows how to get through to us, and what to bring us to restore us, and what advice (info) to lay on us. All of us.
+
+Dr. Kozyrev speaks of Time informing all biological entities simultaneously on an instinctive basis, by telepathy; this is fine, but where does this information originate? Can Time think? It is evident that Immanent Mind is equal to Time, possessing the same qualities, both of them. The Plan, being pressed onto us, is thought of separately (as Logos). This is an inference on the part of Dr. NK; Time informs, but it must know in order to inform (or anyhow be in possession of what it informs with). He is so close to attributing knowing to it that he might as well speak of it as knowing what to inform each species with, and when (as well as where from). I think anybody reading his paper would eventually wonder the same things I am wondering, even without my experience. I point out: that God's thoughts and will and plans are not separate, as they are in us (v. Hericlitus, Avicenna, Isa.). There is mind but no brain, just as He is aware without eyes, etc. Time seems according to Dr. NK to be capable of all these simultaneously -- without lag or distinction, as is found in us.
+```
+**Co-occurrences**: Logos, Well, These, Father, Time, Mind, Even, Could, Does, Anyhow, Just, Both, Being, Runciter, Without, Nothing, Brain, Those, Still, Part, Their, More, Through, Most, Before, Will, Would, Beyond, Things, Information, Instead, Info
+
+---
+### Line 5725-5733 (Match: 'Illustration')
+**Folder**: part of
+
+```text
+8
+
+martyred them. - On this Babylon / Rome / Washington DC thing, I've solved it. The Medieval view of archetypal printouts is correct.
+
+{Illustration:} Black Iron Prison archetype {with arrows to} Babylon / Rome / Police Bldg in Tears / USA {with explanatory text:} The Platonist eternal (i.e. timeless) world printing out again + again into time from one source (or form - eidola - all the eikoi)
+
+Pinky wearing the scarf - dying + humiliated, + being somehow Christ, revealed this truth to me. Among the archetypes are the divine: Christ, e.g., who is always with us. Yea, to the very end. In 3-74 as I recognized at the time, I had abreacted to the medieval Weltansicht; when I did so I broke up (à la Plotinus) out of the eikoi of the space time world + into the real (edoli). The Kingdom, "Babylon-Rome-Washington- + Flow My Tears [The Police Academy Bldg where Buckman worked] - all of them were perceptible to me, these eternal forms. Eureka. I herewith am not merely explaining what I saw - I more important see that what I saw itself explains what we normally see (+ don't see). Via this schema it can be understood how simultaneously I could be in the USA 1974 + Rome c 70 AD. He was there + I didn't know him (until afterward). But I saw Him resurrected + oh so great + strong - back there again - with the Father, beyond the 3:5 door. In '74 (August) he died for me. +, as I recently realized, I was programmed to literally physically die at that time. He interposed himself as voluntary, saved me.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Tears, Toso, Rome, Form, Kingdom, These, Plotinus, Father, World, Iron, Prison, Time, Platonist, Black, Buckman, Could, Pinky, Again, Being, Divine, Black Iron Prison, Himself, Great, More, Babylon, Real, Somehow, Were, Very, Back, Beyond, Truth, Iron Prison, Until, August
+
+---
+### Line 6712-6720 (Match: 'Illustration')
+**Folder**: part at
+
+```text
+years before Christ. When I realized this, I could no longer take the Christ story seriously, or rather literally.
+
+Blow up the BIP. What is the BIP? Scramble Generator?
+
+{illustration: In the middle a cube} BIP (Telos) {surrounded by a circle} Kosmos {surrounded by a circle} Atelos {which are pointed to by an arrow} Xtians OCCP
+
+To shut off the scramble generator at the omphalos? Maya machine. The Fall: man's occluded faculties (v. Calvin + "Scanner"). V. "Maze."
+
+{illustration: A seed} Telos which is alive + grows Valis (kosmos, an organism) {surrounded by a square} Generator (BIP) {surrounded by a circle} Scramble (atelos) {; the seed is pointed to by an arrow} Xtians, Pyth, OCCP: deposit seed (telos) from which kosmos (Valis) grows outward from center of the irrational - from center of its generator (i.e. sabotage)
+```
+**Co-occurrences**: Christ, Valis, Christian, Maze, Scanner, Fall, Could, Maya, Kosmos, Pyth, Before, Calvin
+
+---
+### Line 6716-6724 (Match: 'Illustration')
+**Folder**: part at
+
+```text
+{illustration: In the middle a cube} BIP (Telos) {surrounded by a circle} Kosmos {surrounded by a circle} Atelos {which are pointed to by an arrow} Xtians OCCP
+
+To shut off the scramble generator at the omphalos? Maya machine. The Fall: man's occluded faculties (v. Calvin + "Scanner"). V. "Maze."
+
+{illustration: A seed} Telos which is alive + grows Valis (kosmos, an organism) {surrounded by a square} Generator (BIP) {surrounded by a circle} Scramble (atelos) {; the seed is pointed to by an arrow} Xtians, Pyth, OCCP: deposit seed (telos) from which kosmos (Valis) grows outward from center of the irrational - from center of its generator (i.e. sabotage)
+
+{illustration: Square} BIP {with a seed at its centre, pointed to by arrow} Xtians / Pyth / OCCP penetrate barrier + deposit explosive seed which when it detonates grows into "fitting together" transubstantiation of irrational irreal scramble atelos. Devours it, from center outward. Grain of wheat planted. Of course: Generator of acosmic scramble is protected by a barrier. Scramble generator wasn't always here (hence the legend of the Fall). Yahweh: Scramble Generator. "Valis" is right: irrational but deliberately so (symbolized by "bichlorides of mercury - aspirin of mercury" : it deranges us. It must be shut off - this is done by planting seed (telos or limiting factor which grows into structuring. Ach! Dialectic is insane (atelos): leads to endless procession of impaired "truths" as in Greek philosophy which winds up saying,
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Valis, Christian, Toso, Greek, Maze, Scanner, Fall, Maya, Kosmos, Pyth, Yahweh, Calvin, Dialectic, Right
+
+---
+### Line 6718-6726 (Match: 'Illustration')
+**Folder**: part at
+
+```text
+To shut off the scramble generator at the omphalos? Maya machine. The Fall: man's occluded faculties (v. Calvin + "Scanner"). V. "Maze."
+
+{illustration: A seed} Telos which is alive + grows Valis (kosmos, an organism) {surrounded by a square} Generator (BIP) {surrounded by a circle} Scramble (atelos) {; the seed is pointed to by an arrow} Xtians, Pyth, OCCP: deposit seed (telos) from which kosmos (Valis) grows outward from center of the irrational - from center of its generator (i.e. sabotage)
+
+{illustration: Square} BIP {with a seed at its centre, pointed to by arrow} Xtians / Pyth / OCCP penetrate barrier + deposit explosive seed which when it detonates grows into "fitting together" transubstantiation of irrational irreal scramble atelos. Devours it, from center outward. Grain of wheat planted. Of course: Generator of acosmic scramble is protected by a barrier. Scramble generator wasn't always here (hence the legend of the Fall). Yahweh: Scramble Generator. "Valis" is right: irrational but deliberately so (symbolized by "bichlorides of mercury - aspirin of mercury" : it deranges us. It must be shut off - this is done by planting seed (telos or limiting factor which grows into structuring. Ach! Dialectic is insane (atelos): leads to endless procession of impaired "truths" as in Greek philosophy which winds up saying,
+
+Last edit over 5 years ago by Toso
+3
+Indexed
+```
+**Co-occurrences**: Valis, Christian, Toso, Indexed, Greek, Maze, Scanner, Fall, Maya, Kosmos, Pyth, Yahweh, Calvin, Dialectic, Right
+
+---
+### Line 6728-6736 (Match: 'Illustration')
+**Folder**: part at
+
+```text
+3
+
+1) Nothing is; 2) + if it did exist it couldn't be known; 3) + if known, couldn't be communicated. Something is wrong. Scramble. No way by which we can arrive at knowledge, not due to limitation of our percept systems but 1) a priori scramble ("Scanner") + 2) empirical scramble (Buddhism idealism). V. Calvin. We can neither think nor apprehend, but the morphology for both is there but deliberately impaired (by the scrambler, the generator of the dialectic, which, as I've said, is unstable (irrational). Negation of every negation (Engels). Telos weaves a coherence (Kosmos or Valis) which is stable (rational) + can be known both a priori + a posteriori. Christ is a term for that seed. His death + burial in the tomb + resurrection is code for the sneaking of the seed into the scramble generator (called “Rome” in the code story), its being planted (his passion + death) + its coming to life + growing into Valis. The growing is represented graphically in modern terms as the detonating of explosives smuggled into the BIP (fortress: barrier around the scrambled generator).
+
+{illustration: A center} Scramble generator {surrounded by a cube} BIP fortress barrier {surrounded by a circle} Atelos: Maya acosmos, in macro form as world; in micro form in each of our minds. {Center is pointed to by arrow} OCCP + Xtians smuggling explosive seed (telos) into center of scramble generator of dialectic
+
+Last edit over 5 years ago by Toso
+4
+Complete
+```
+**Co-occurrences**: Christ, Valis, Christian, Toso, Complete, Rome, Form, Scanner, World, Something, Both, Maya, Kosmos, Being, Buddhism, Nothing, Death, Macro, Calvin, Life, Neither, Knowledge, Dialectic
+
+---
+### Line 6738-6746 (Match: 'Illustration')
+**Folder**: part at
+
+```text
+4
+
+The scramble generator is not blown up; a seed which explodes into growth is smuggled into the center of it, whereupon it [the planted seed] expands in creating Kosmos (Valis), the rational devouring the irrational: feeding on it: an organism eating the atelos. (Dialectic infinitude which endlessly contradicts itself). Preying on the atelos, + is totally stable (coherent, + hence can be known). Nothing can be known of the acosmism (Maya) because we are scrambled +, I guess, it is scrambled (but since we are, there's no way to know that - if all the percipients are scrambled). The heart of the matter is, we are impaired both a priori and a posteriori calculatedly - but the generator can be obviated by the smuggling in of the potentially explosive seed to its heart. "Small as a mustard seed, but will grow into a tree so vast that the birds can roost in it." No wonder 1) He spoke of the "Kingdom of God" but 2) was enigmatic in saying where it was; + 3) He had to die, be buried (at the core of the scrambler generator) + 4) be reborn + grow to cosmic proportion. James-James: The scrambler generator, who has us hypnotized with his light show. Mad as a hatter. Apollo: the god of telos + harmonia. Then telos is a life form come here to exact hagocytosis on the scrambler generator: to prey on it as a supply of parts (food). Viewed biologically, the scrambler generator is a life form harmful to us, + the seed harmful to it, hence our friend.
+
+{illustration: 3 interlinked boxes:} Us: lowest life form / Scrambler generator: higher life form / Seed: highest life form
+
+Last edit over 5 years ago by Toso
+5
+Indexed
+```
+**Co-occurrences**: Valis, Toso, Indexed, Form, Kingdom, James, Since, Because, Cosmic, Light, Kingdom of God, Both, Maya, Kosmos, Apollo, Viewed, Nothing, Will, Tree, Life, Dialectic
+
+---
+### Line 6765-6773 (Match: 'Illustration')
+**Folder**: part of
+
+```text
+B) Buckman: King Pentheus, king who suffers final ruin. A/C) Taverner: the stranger, who effects that ruin The old king = Dionysos, the hidden C side of what appears to be an A.
+
+Maybe the B life form is plural + poses as As to prey on them. The Cs prey on the Bs, + do so successfully by posing as As in order to draw the Bs passing as As into revealing their true B nature. To understand this you must conceive of Cs as predators stalking the Bs who are here preying on As + hence posing as them.
+
+{illustration:} A) Jesus / B) Pilate (Rome) / C) Christ } all parties either A or posing as A
+
+The Cs have started Kosmos into being: Cs are the seed stage of Kosmos (Valis, or the cosmic Christ who/which we could call D. So: A human B predator on A C seed predator on B D mature unitary macro form of C, with the plasmate info interlinking it, its thoughts unavailable to As + Bs alike. So the Cs hatch in the world of B + consume it - the rational consuming the irrational. We're really seeing a war between Bs and Cs. The Bs are always watching for any sign of A C, but in killing it they get D which eats their acosmos.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Valis, Toso, Jesus, Rome, Form, King, Dionysos, Maybe, World, Cosmic, Buckman, Cosmic Christ, Could, Taverner, Kosmos, Being, Either, Their, True, Macro, Have, Life, Pentheus, Info, Human, Final, Pilate
+
+---
+### Line 6800-6808 (Match: 'Illustration')
+**Folder**: part cycle
+
+```text
+11
+11
+
+My being trapped in 3-74 accomplished this: caused telos to be planted as seed in me as atelos, to grow into inner microcosmos. The seed isn't inserted by B but by D, Valis, the macrocosmos. Killed (ie crushed) the seed rises to a new kind of life (the mustard tree). B has been tricked into being an agent which immortalizes C, its victim. There is a mystery here. B is evil + necessary. Telos doesn't get deposited + start growing into cosmos otherwise. Okay. C has two-part cycle: + 2nd part needs B to trigger it off. This also results in the destruction of B. B the trapper is destroyed, + the victim C enters the D part of its 2 part cycle. C is converted into its opposite (victim to immortality). B is converted into its opposite (powerful trapper into the destroyed). Overstepping a crucial limit is involved; this summons ma'at. Is Valis the cause of all this? The macrocosm which is alive? Is a ma'at moral order pointed to? Or some kind of law we can't fathom? Something like Tao {illustration: Yin and Yang}? Conversion to opposite "proposition"? The dialectic? In other words the "Xtians" analyzed how the dialectic works (the Tao), + learned how to make use of this conversion to opposites? Valis, then, is the Tao. But two conversions are accomplished: C into D, + B destroyed (cf "Tears"). The mighty is humbled (B destroyed), the humble exalted (C converted into D). C must enter the fortress as a victim + be destroyed by B, accomplishing two goals. What acts is what I call Valis which is the Tao. What C gains is taken from B. So an outside force -the Tao- is drawn on. A law of the Tao, maybe its basic law. This suggests the Pythagoreans to me; they figured out this telos placed in the atelos to start kosmos growing.
+
+Last edit over 5 years ago by Toso
+12
+Indexed
+```
+**Co-occurrences**: Valis, Tears, Acts, Christian, Toso, Indexed, Maybe, Like, Yang, Okay, Something, Kosmos, Being, Part, Other, Tree, Life, Evil, Dialectic, Otherwise, Doesn
+
+---
+### Line 6810-6818 (Match: 'Illustration')
+**Folder**: part cycle
+
+```text
+12
+
+B is bilked into so overstepping its limit that not only is its own future reversed but so is its victim's (which is more important). This is the "bait of humanity + the barb of divinity," but that's not the full explanation; some kind of deep law is involved which Taoism + Pythagoreanism + ma'at hint at. “Full made empty; empty made full.” Both are converted into their opposites. You might say, the total energy in the total system remains constant: ah - the Tao itself (whatever it is - divine, eternal, wise) enters the humbled crushed killed "seed" C, at the seed's lowest point; this is an alchemical verklärung. Just intrinsic misery + misfortune is not enough; there must be a powerful oppressor from which the energy is taken - transferred.
+
+This is all depicted in "Tears" with Buckman: {illustration:} Power => Ruin / Alys' death => Entry of wise old king => Conversion on the Road
+
+Overstepping is the key - ie atelos is deliberately set up which attracts telos + hence extends kosmos to assimilate this extreme instance of atelos. Kosmos (Valis) is divine -I equate Valis with God in "Valis"- it pours into the extreme atelos created. The death (passion) + resurrection is supposed to occur in this life - as it did with me. My experience
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Valis, Tears, Toso, King, Only, Buckman, Just, Taoism, Both, Kosmos, Divine, Their, More, Death, Whatever, Life, Wise
+
+---
+### Line 6838-6846 (Match: 'Illustration')
+**Folder**: part cycle
+
+```text
+15
+
+use of these inevitable laws to become (themselves) divine + immortal. The only party bilked is B, the atelos "Roman Empire" which is induced to massively overstep against a victim made innocent to a sufficient degree by the excessiveness (unmeritedness) of B's overstepping.
+
+Situation imagined by B (atelos, irrational): {illustration:} B => C Actual situation: {illustration:} 1) VALIS B => C 2) VALIS / C => B
+
+These are absolute laws, hence predictable. If B oversteps far enough, Valis will correct. Pressed far enough, Valis' correction will include assimilation of C into itself as well as dealing B a mortal blow. Result: the oppressor destroyed + the real pay off: the victim made immortal + divine as a permanent part of Valis. The Christ story illustrates this, wherein B (Rome) is an instrument by which a mortal (human) victim is converted into God; this is a paradigm + not an actual history. Without this interpretation the passion part of the Christ story, the crucifixion, makes no sense (the doctrine of vicarious atonement is nonsense, concocted either to conceal the true meaning from outsiders or by persons unaware of the true meaning - ie purpose of the crucifixion). The fact that it is stated that Jesus was already God or the son of God or the Messiah merely tells us that he is innocent.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Valis, Toso, Jesus, Rome, Well, Empire, Roman, These, Only, Divine, Either, Without, Part, Real, True, Will, Messiah, Absolute, Human
+
+---
+### Line 6890-6898 (Match: 'Illustration')
+**Folder**: part of
+
+```text
+21
+I saw us gray-robed Xtians hurrying away in glee after blowing up part of the fortress - it's not the past or the present but the future, as in "Joint." Q: Why does it look like the 20th century? A: A weapon of war in the future. Disformer of reality. A mind-control device by the enemy.
+
+{illustration: A cube} Cube BIP protecting scramble generator. We're trying to reach it {surrounded by concentric rings} Kosmos / Acts / 1974 {entered by an arrow} Secret Xtians searching for the scrambler to blow it up, with explosive seed (telos). It's all set in a technologically hype sophisticated future. Our world is really future slave state Acts. Valis is the seed grown into Pyth kosmos replacing Acts + irreal world. The kingdom of God.
+
+{illustration: Core seed} Xtian seed producing Kosmos which preys on Acts + irreal world {surrounded by circle} Scramble generator {surrounded by square} BIP {surrounded by concentric circles} Kosmos / Acts / Irreal world USA 1974 (scramble world + in each of us)
+
+The ultimate vision is of the Kosmos as the body of Christ, + the plasmate his blood. An organism, alive + divine + eternal. At the time + place of Acts as now. Jesus was the seed (telos) placed at the center of atelos, + started Kosmos growing.
+```
+**Co-occurrences**: Christ, Valis, Acts, Christian, Jesus, Kingdom, Like, World, Time, After, Mind, Joint, Does, Look, Kingdom of God, Reality, Kosmos, Divine, Part, Pyth, Secret, Body, Blood
+
+---
+### Line 6892-6900 (Match: 'Illustration')
+**Folder**: part of
+
+```text
+I saw us gray-robed Xtians hurrying away in glee after blowing up part of the fortress - it's not the past or the present but the future, as in "Joint." Q: Why does it look like the 20th century? A: A weapon of war in the future. Disformer of reality. A mind-control device by the enemy.
+
+{illustration: A cube} Cube BIP protecting scramble generator. We're trying to reach it {surrounded by concentric rings} Kosmos / Acts / 1974 {entered by an arrow} Secret Xtians searching for the scrambler to blow it up, with explosive seed (telos). It's all set in a technologically hype sophisticated future. Our world is really future slave state Acts. Valis is the seed grown into Pyth kosmos replacing Acts + irreal world. The kingdom of God.
+
+{illustration: Core seed} Xtian seed producing Kosmos which preys on Acts + irreal world {surrounded by circle} Scramble generator {surrounded by square} BIP {surrounded by concentric circles} Kosmos / Acts / Irreal world USA 1974 (scramble world + in each of us)
+
+The ultimate vision is of the Kosmos as the body of Christ, + the plasmate his blood. An organism, alive + divine + eternal. At the time + place of Acts as now. Jesus was the seed (telos) placed at the center of atelos, + started Kosmos growing.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Valis, Acts, Christian, Toso, Jesus, Kingdom, Like, World, Time, After, Mind, Joint, Does, Look, Kingdom of God, Reality, Kosmos, Divine, Part, Pyth, Secret, Body, Blood
+
+---
+### Line 6922-6930 (Match: 'Illustration')
+**Folder**: part -portions
+
+```text
+Indexed
+25
+The acosmism in my writing is to wake people up to what I realized in 2-74. The fake memory (genera{...} starting in 2-74) didn't really "take" with me - part -portions- of true memory remained. (Of Acts.) + Thomas, my real personality, from Acts - both of which had really been there up to 2-74. So my anamnesis isn't to be in interpreted symbolically; it's literally true: we'd all just been living in Acts - + "Tears" proves it! "Tears" is the truth. I knew Acts because I'd been living there. It shows through in "Tears" like previous wallpaper. This way Satan blocks the Parousia. I must continue to in my writing awaken people's true memories.
+
+{illustration: Sine wave oscillating between} L / Acts {and} R / 1974 We don't remember the left track. We're tracking two worlds simultaneously, then we must be a groove like recording - our worlds are. This explains my reacting in advance to stimuli. Of course the world didn't seem real to me all those decades of my writing. It was a mere memory retroactive veneer over Acts! Here is how they
+
+Last edit over 5 years ago by Toso
+
+26
+```
+**Co-occurrences**: Tears, Acts, Toso, Thomas, Indexed, Satan, Parousia, Like, World, Because, Just, Both, Anamnesis, Those, Part, Through, Living, Real, True, Fake, Memory, Remember, Truth, Track
+
+---
+### Line 6933-6941 (Match: 'Illustration')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Toso
+27
+Complete
+27
+I saw the third eye as clue to the presence of a moth-like camouflaged life form with ocelli. The "eye" was, like all ocelli, to scare me; I should have thought of this fearsome mask possibility, hiding a gentle + harmless + timid ultra life form. + it ({illustration: a triangle/pyramid with an eye}) scared me nearly to death. I roused its defenses. It wasn't trying to hurt me; it just wanted to protect itself, from being seen; I was on the verge of seeing it, so it had to scare me off. It's actually very vulnerable. Then the Eye [of Horus] in the Tetraktys is the symbol for Valis; put another way, I saw -when I saw Valis- what the {illustration: a triangle/pyramid with an eye} symbol stands for. (The third eye of the Sibyl.) __ What if "reality" doesn't exist but has a quasi-existence as web (lattice) for beauty, which is real? I melted the causal trains; ich bin der zweite Retter, this time they did not seize me (ie 2nd advent where the plot to take him + destroy him is foiled? Only Christ could see as I saw, know what I knew, + do what I did. But (as I recently realized) there is no Christ. It's a term for - something else. A race? A specific journey of reincarnation? A political group? Mutants? Symbiosis - yes, me + Thomas who is ETI. That kind of symbiosis. 2-3-74: birth of Thomas - long [latency] period. No - this is not so.
+
+Last edit over 5 years ago by Toso
+28
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Toso, Thomas, Indexed, Complete, Form, Advent, Like, Only, Time, Could, Just, Something, Reality, Being, Sibyl, Another, Real, Actually, Death, Very, Have, Journey, Life, Doesn
+
+---
+### Line 6963-6971 (Match: 'Illustration')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Toso
+30
+Complete
+30
++ God sayeth: You see why I do not show myself to you as I am?" + I say, "Lord, forgive me, please. Ich sterbe. Lese, Welt, was ich weiß: Der Grosse Gott Lebt. YHWH. Er macht mich tot. Auge von Gott {illustration: an eye with a rectangle at its center, with an arrow pointing to the rectangle with the description} color spectrum. 5 / 3
+
+Forgive me Father, in Jesus' name. Peccato.
+
+It is God. Horus' eye the eye of God.
+```
+**Co-occurrences**: Toso, Jesus, Complete, Lord, Father
+
+---
+### Line 7132-7140 (Match: 'Illustration')
+**Folder**: Folder 32
+
+```text
+"Jesus, the revealer, tells his disciples that the secret of the kingdom of God is Given to them But that to the outside everything is in parable in order that they may not hear and understand."
+
+"The question in the synoptic Gospels concerns the extent to which the divine reality Broke into history in Jesus' coming."
+
+"The creator of the world enters anew with creative power." [illustration A]
+
+"Such (ie Gnostic) enthusiasts prized eloquent or secret wisdom; they sought a revealer who had come into the world hidden from the eveil powers and known only to those, the pneumatikoi, or the spiritual elite, who recognize him.
+
+A pollonius of tyana: "He was depicted as being possessed of divine cosmic power not as an exception But as an example to men wo have the possibility of sharing such power (cf Matt 9:8 :
+```
+**Co-occurrences**: Jesus, Kingdom, Gnostic, Wisdom, World, Only, Cosmic, Gospel, Kingdom of God, Reality, Being, Everything, Divine, Creator, Those, Such, Secret, Have
+
+---
+### Line 12978-12986 (Match: 'Illustration')
+**Folder**: part divinely
+
+```text
+Indexed
+2
+2
+
+{illustration: Three concentric circles, the outermost numbered 1, the middle one 2, and the innermost 3:} Brahman (1) Atman (3) (1) Cosmic Christ outside + around us. (2) Our own selves (psyches) (3) Christ as Holy Spirit within us. So it can be said that we are in Christ ((1)), + Christ is in us ((3)). This is a sacred mystery, how that which is macrocosmic + outside us can also be "smaller" than us + within us. Total reality (the pleroma) is like a titantic hologram of which each tiny bit is a replica of the totality. It is a mirror-like situation. ___ In Acts there are two conversions: of Paul on the road to Damascus, + the black eunach by Philip. In "Tears" these two are melded (condensed) into one conversion (of Felix). But all the parts of both are there. Due to a vision (while on the road) he now embraces those whom he oppressed - + specifically feels what Paul writes about: agapē. ___ Thinking over my exegesis I see it as a vast, original cosmology, partly philosophical + partly theological. It is my own worldview, in part divinely revealed to me, in part arrived at by careful analysis, ratiocination + so forth. It is an awe-inspiring structure + resembles no other arrived at by anyone I have ever heard of. Continually I have been corrected + instructed by the voice.
+
+Last edit over 5 years ago by Toso
+3
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Acts, Toso, Indexed, Spirit, Holy, Holy Spirit, Brahman, Paul, Felix, These, Like, Black, Cosmic, Cosmic Christ, Both, Reality, Atman, Philip, Those, Part, Voice, Other, Have, Pleroma, Sacred
+
+---
+### Line 13060-13068 (Match: 'Illustration')
+**Folder**: part of
+
+```text
+Indexed
+12
+12
+
+{illustration: a box "World of Acts" (Realm I real timeless) is connected to the boxes "Tears" and "Our World" (Realm II irreal temporal) which two are also connected to each other}
+
+Rome is often stigmatized as the personification of the Satanic power. So if Rome is really there, then Q.E.D. the Satanic power is there (behind it). This explains why I saw also the illegal apostolic Xtians undermining it. By my figuring, I could not have failed to see them, too. "Tears" is more important than 3-74 although for me 3-74 was more important subjectively. "Tears" is the vital information. My experience (as I've said before) is what an awareness of that knowledge can produce. I am an example of the "product" of my own book properly used. But the Golden Fish sign was also necessary. Here enters the true secret church, + the "Charfreitagzauber." The crypte basis of the world of "Tears" is Acts. The crypte basis of our world is Acts. Following the reasoning of Parmenides I deny reality to our world, to "Tears," + affirm it for Acts-as-world. In this respect our world = "Tears" but only via Acts. What "Tears" shows is that Acts can take a plurality of modern day forms + yet remain what it really is unchanged (ie by contrasting + collating our world with "Tears" we can see the constant: Acts as substratum). I did not see (in 3-74) or write about in "Tears" or remember in 2-74 a modern, contemporary extension of time of Rome, but rather Rome of the time of Acts ie the distant past as true + real + secretly here. I saw the "early Xtian" first, + remembered. Then we are indeed asleep, + our reality falsified. We have been made
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Tears, Acts, Christian, Toso, Indexed, Rome, Form, Fish, Golden, World, Parmenides, Golden Fish, Only, Time, Book, Could, Realm, Reality, Although, More, Church, Real, Secret, Before, True, Other, Have, Information, Remember, Knowledge
+
+---
+### Line 13140-13148 (Match: 'Illustration')
+**Folder**: part of
+
+```text
+21
+22
+
+This fast ratiocination may be the key to its identity - I saw it when my own neural firing was speeded up, + my field of consciousness vastly expanded in terms of the temporal present. Rome, the true temporal-constant Rome, is distributed over millenia. Its Gestalt only comes forward as set when so viewed. But it is an unchanging black prison, made of iron. + we are in it. Perhaps its time rate is very slow, + the brain's is the opposite; very fast. One too slow for us to see [it], the other too fast! But the brain is aware of Rome. Although concealed from us, the temporal constant Rome is visible to the brain. I conceive the brain as rapidly growing, evolving + changing - + Rome as inert. Rome is always the same: Rome in USA 1974, in "Tears" + in CAD 45 is unchanged. What it was it is, + what it is it will be. But in contrast the brain began CAD 45 (time of Acts) + permutates furiously ... + continually altering its swift messages that pass between + among its physical -distributed- parts, linking those many parts together. Rome, the BIP, constantly repeats; like a psychotic human mind, nothing new ever comes into it. So in a real sense it is dead; more precisely it is a reflex system of some kind, recirculating forever one (?) thought (?) {illustration of a spiral} warped into an orbitting circle - it has us, but the brain breaks that hold ("Salvation" - which equals growth which equals freedom - negentropic). The BIP's tug has no power over the brain at all (ie the upper realm, the brain, can overrule the lower, the BIP, but never vice versa).
+
+Last edit over 5 years ago by Toso
+22
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Toso, Indexed, Rome, Perhaps, Like, Iron, Prison, Only, Time, Black, Mind, Gestalt, Realm, Although, Viewed, Nothing, Brain, Those, More, Real, True, Will, Other, Very, Many, Freedom, Upper, Dead, Human, Lower, Salvation
+
+---

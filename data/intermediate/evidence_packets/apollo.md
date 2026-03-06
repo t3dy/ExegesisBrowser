@@ -1,0 +1,358 @@
+# Evidence Packet: Apollo
+
+- **Category**: Top Term
+- **Total Mentions**: 66
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 744-752 (Match: 'Apollo')
+**Folder**: part segment
+
+```text
+We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one of the RUs, one of the sources. This is very strange (paradigm is FLOW MY TEARS, in which 3 separate superimposed but somewhat different universes are lived in between first and final page of pt 1 to 3. How is this overlap achieved? How does one exit from one and into another? Who manages all this? Why?
+
+For all I know, there are many more RUs than two. It could be like the Selectric in terms of letter and numbers: hundreds. This is really weird. And what has time to do with all this? It would seem very little (another example: Mr. Tagomi in the park. These alternate presents, maybe. An infinity of splits within splits, like each half halving again into infinity, and each somewhat different --the Rhipadon fan-shape 3-part segment which divides and each had 3 parts: left, middle, right. Well, how about this: left is RU One; Middle is compound; Right is RU Two. That makes the compound, at epicenter, the Tao. This gets us into Taoism fast.
+
+However, on this Rhipidon model, 3 RUs would suffice, and still explain like my 3 lives dream (poor, like I have, rich). Also, this would equate the mid or Tao with Apollo's Golden Means, his Harmony and Balance. So our world is stabilized from dual sources, like the two-rotor system I saw, in the clock face, with the tiller. This is still the model; our universe is maintained in equilibrium, fed by the two sources; my god, this is the other interpretation of Hericlitus, of palinthropos harmonie: this is the static harmony of the strung bow, or simultaneous tension, rather than successive oscillation; see outside time --seen I guess "correctly," i.e. sub specia eternitatis-- it's the strung bow. Oh jeez. Maybe the two interpretations of Fr. 51 are themselves examples of balance and equilibrium: both are true (a[n] example of itself right there; what is true of all sentences, etc.). This is one vast great point that Hericlitus wanted us to understand, along with the fact that Form One and Two meld into each other, so that these two interpretations are themselves meldable into a single -- whatever.
+
+Last edit over 5 years ago by Harpax
+47
+Needs Review
+```
+**Co-occurrences**: Tears, Form, Well, Golden, However, These, Maybe, Like, World, Only, Time, Harpax, Light, Could, Does, Taoism, Again, Both, Great, Still, Part, More, Another, True, Universe, Would, Other, Page, Very, Whatever, Many, Have, Tagomi, Form One, Dream, Evidently, Whereas, Final, Right
+
+---
+### Line 1079-1087 (Match: 'Apollo')
+**Folder**: part survives
+
+```text
+Maybe I'm missing one major point (certainly one disputed in early Christianity): Christ, although God is His father, has/had a human mother; so Christ while remaining God's true son, is a halfbreed. This certainly removes any "host" or "use" aspect from this, and returns us to the Zeus-Leda paradigm. And it certainly would make Christ different from His father, since Christ partakes (equally?) of our race. Half God, half man. God fused with us, in holy union. We lifted up...this seems exactly what the Bible says about Jesus Christ. Then, upon physical death, the transient earthly body is shed, and He becomes all Light, since only that part survives; thus, as Firebright and I fuse, then we are together half human (my part) half god (His part; except that Firebright more accurately is half of me, half of God -- I am to him as Mary was to Jesus. Did she survive in Christ's immortality? We progressive Christians are certain that out of the HS penetrating one of us, the human lives on after his physical, temporary body dies; that which is the union (the [f]irebright) carries him along; this does with the victory over time which I have already experienced, the onion rings, layers, as in UBIK; if my offspring is immortal, I am immortal, since any offspring of mine (Firebright, not Christopher) contains me, ala UBIK, and in my Rome-within-Fullerton experience (where is the past? Inside the present). "The father achieves immortality through his offspring." This is true, but only if the offspring is immortal. Firebright is, since he has a celestial Father.
+
+In one sense Firebright is within me; in another (looking ahead, past the tyranny of time) I am within him. "The child is father to the man." What will survive of me is what is worthy, I guess, and a sort of consciousness, but yoked in duplex or multiplex with the Savior, who is/will be each and all of us.
+
+There was another entity in me, all right: thinking away in Attic Greek. (the [l]ogos?) (the father?) (Firebright?) (The Holy Spirit? Probably the HS. But it proves one was; and, as Apollo made the sibyl do this and that, it made me do this and that.
+
+Perhaps, when the Moment of Restoration comes (which could work equally for all men at once --collectively-- or for one individual here and another there, or even visible to just one) the accretional laters of their/his reality would simply be removed, stripped away, to reveal the past -- i.e. what had been lost. Again, I refer to the quality of lineal time to accumulate as it advances up the manifold. Restoration would be a taking away! Just as when one restores a piece of furniture to its original --true-- wood by stripping away layers of varnish; under them the authentic wood remains. We do call this "restoring." Perhaps the ultimate & absolute Restoration (rather than merely a partial one, but rather the one) would be an abrupt stripping away of all layers back to 2000 years ago: to the time when Christ was alive, not to the Crucifixion as I was thinking, but to the restoration of Him. The Crucifixion was the taking away of him. My experience contained an awareness of a savior about to come, which would be both a restoration (first advent) and the ful[l]fil[]ment (Second Advent). A collapse of time, the 2000 year interval between His going and His return, tel[li]scoped into a single point. Like when as one train leaves a station "another" appears at once.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Perhaps, Advent, Father, Maybe, Like, Since, Only, Time, Harpax, After, Savior, Light, Even, Firebright, Could, Does, Just, Once, Again, Both, Reality, Jesus Christ, Although, Probably, Sibyl, Part, Their, More, Zeus, Another, Through, Upon, Fullerton, Certainly, Mother, True, Death, Will, Christopher, Would, Attic, Back, Under, Have, Absolute, Body, Except, Human, Right, Mary
+
+---
+### Line 1416-1424 (Match: 'Apollo')
+**Folder**: book certainly
+
+```text
+Needs Review
+99
+... I have the feeling that Dionysos is the patron god of all small creatures who’ve fallen into the snare (of THE BACCHAE). (Of my dream of being in the cage, hissing, the flying snakes darting at me who am trapped.) But wheras Jesus might rescue (somehow) the drapped animal/person, Dionysos would like to lure in to its destruction the layer-of-this-snare (and be victorious over him; of. THE BACCHAE). (“what is joy? To [nolo] the hand of victory over the enemy,” etc.) In one of the books I’ve been reading, about mediums... someone askes the spirits if they are real or just in her head; they answer, “Both.” Again, this transcends the “A or not-A.” Dichotomizing. Here with Dionysos, it would go, “Is it fully Dionysos who showed up, or only my idea of him?” and the answer would be, “Both.”
+
+The Neoplatonist (yes? no?) theory that the gods were what is it? [?] or something? Send by the Immanent Mind to assist men? E.G. Apollo, Dionysos, intermediaries or guides of the Total God.
+
+... I had a difficult & complex intellectual model insight last night. Back to my “loaded” insight: there stands Christ; there stand a very large number of persons rapidly sketching him. We are the sketches. We can’t see the model, Christ, “in whose style we are all drawn.” It came into my head last night that every now and then one of us —the sketches— reaches the so-to-speak Christ point, something like a liquid being heated reaching flashpoint. Then I remembered what Angus Taylor points out about my story “Pay of the Printer” in which there are 3 elements: (one) the [?] [?] [?] glass. (two) the fucked-up sketches of it which the printer must make. (three) the still clumbsy but on-the-right-path [?] cups which people are building using the [?] [?] [?] — which is concealed from their sight, wrapped up and put away; otherwise, they’d merely sketch or print it: capture the mere appearance [?] mere copy. This way, knowing that the Steuben cup exists, [?] must merely go by recall of it, and the result is that “A million paths,” so to speak, open as they seek different ways by which to capture the only glimpsed goal (or Platonic ideal). Well, I hazard this different thought: we are merely like (three) than (two). Thus we take quite different forms... proof we’re not merely copied. Then I remembered the Gnostic story of the creator angels copying man, but being unable to make their copies good enough; the copies wouldn’t come to life, and out of mercy God brought them to life. What we seem to have going is a system to promote the diversification of the ontology of Christ into as many Varient forms as can be produced (the “open market,” so to speak). The advantages are mainly this, that virtually anything, anyone or any object, can be built (three-system supre) until eventually, if the work goes right, it finally reaches Christ-point.” This would indicate, evidently, animals and men, then maybe the world with even inanimte objects in it. A total kingdom in the image of the King, and thus the sterility of mere copying (sketching) is abolished in favor of a time-consuming, laborious task, but one with extraordinary promise. Wow.Now I’m writing my own theological myths! Imagine the low-born and the base elements, and the unusual combinations (stones rejected, etc) which might result in successful Christpoints in many of the constructs! (This myth would equate the forces of nature with the creator angels or those who’re sketching, a step down from God, obviously, but doing HIs work
+
+Last edit over 5 years ago by jbpjackson
+```
+**Co-occurrences**: Christ, Jesus, Form, Kingdom, Gnostic, King, Well, Dionysos, Maybe, Like, World, Only, Time, Good, Mind, Book, Even, Just, Something, Again, Both, Being, Obviously, Platonic, Bacchae, Gods, Creator, Those, Still, Their, Real, Finally, Would, Somehow, Were, Very, Back, Many, Have, Life, Otherwise, Dream, Evidently, Right, Someone, Answer, Until
+
+---
+### Line 1498-1506 (Match: 'Apollo')
+**Folder**: part pressing
+
+```text
+106
+Rollo May can't really sa[y] what Socrates' daimon "is," only that it is real -- esp. for all creative men; warns of something which will take away one's a[u]to[n]o[m]y...leads one into the right relationships -- to cause on to meet certain persons (in my case eg Tessa); knows the future, is renewing, every point in detail; the inner voice which is not mere conscience, with which one can have colloquy. Is the voice of nature; is also the voice of history and historic change (!!!); it caused Socrates to become a gadfly against the state and to defy the court... [???] it, it is real, it is what took me over & which spoke to me in my physics test, etc. But what is it? Why would my daimon speak in Attic Greek same as Socrates'? Same daimon? Same voice, not his versus mine? We all have the same one and it's Attic Greek (it has a local habitation and a name?). The mystery becomes vitally wild, here. Can't be Christ; Socrates lived before Christ; likewise the Paracletos. Who, then? Whoever talked to Socrates inside his head, warned him and inspired him and guided him, it's doing it for me, too, but that doesn't tell me who or what it is "really." "You know the disease you had last year? Well, you have it again." Recognition without identification.
+
+This is 2400 years later; it's still talking -- to me, at least. Also I guess to Goethe (of RM's book). In a way this makes sense (my voice talking attic Greek) since (sic) it's the daimon of Socrates, who was Greek; I mean, it looks like it dovetails; it's logical...but on a deeper level, although it "fits," really, the mystery deepens. "Of course it lapsed into Attic Greek. After all, that's the language it used when it talked to Socrates." As Dr. Bear said, "Why Greek, and not, say, Hebrew?" Well, here is the answer. I guess (chuckle chuckle, very nervously. This is mind-blowing. This must mean something, everything. And validated by today's foremost psychiatrist. But -- but -- Most of all, its fighting for new social forms to come, destroying the social forms which are, in Socrates' case especially, and hence regarded (he being regarded by Athens) as a bad man. Recall I was saying, "I was given the same trial as Socrates: for corrupting the youth. Told to get out of Narin County or die. I chose to leave." Ach Gott, what am I to make of this? Wo bin ich? If Rollo May were here he'd say in alarm, "Oh no, you can talk to a daimon, but not to Socrates' daimon specifically! You don't understand!" RM marvelously describes it[s] relatedness to the future, to final causes -- rather than being pushed causally by the past -- he's got it all down! Also, those creative persons inspired by it are the vanguard of society, building values for the future which will take root later. Eros is the anthesis of Thabatos: death. Eros created all life, motion and joy in the first place; before Eros emerged, "noting strirred or moved or lived" (Hesiod). Also as Angus Taylor shows, my philosophy is thorough-going Platonistic! In all my books and stories! Of Ubik and the first new revision of Plato's forms; look what Patrice said! It fits together. What does it? Who am I? So many parallels. Just how much "data" from Athens never died? Most important and significant of all: in 3 74 when I was taken over, I had a totally new worldview and it was absolutely the sum total of the highest Greek worldview, an absolutely flawless recap of all the Athenian et al philosophers did: I retrieved it utterly!!!! Now, in view of what Rollo May says, well, then is it not the spirit of Athens, then, which is Apollo Himself?
+
+Last edit over 5 years ago by Harpax
+107
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Form, Plato, Greek, Well, Like, Since, Only, Harpax, After, Mind, Book, Does, Hebrew, Just, Something, Look, Again, Being, Although, Everything, Himself, Without, Tessa, Those, Still, Most, Real, Voice, Before, Death, Will, Would, Were, Very, Attic, Many, Have, Life, Later, Socrates, Likewise, Today, Doesn, Final, Right, Answer
+
+---
+### Line 1504-1512 (Match: 'Apollo')
+**Folder**: part pressing
+
+```text
+Last edit over 5 years ago by Harpax
+107
+Needs Review
+107
+I think Socrates daimon is Apollo, the city builder. This is a civic god. (Which brings in Delphi at once!)
+
+Apollo and Dionysos: another secret partnership (like Thoth and Set, Horus and Set, whatever). (Behind the scenes, in the eternal world.)
+
+I think that was Apollo I saw (when I heard "kai hypsilon").
+```
+**Co-occurrences**: Dionysos, Like, World, Harpax, Once, Another, Secret, Whatever, Socrates
+
+---
+### Line 1506-1514 (Match: 'Apollo')
+**Folder**: part pressing
+
+```text
+Needs Review
+107
+I think Socrates daimon is Apollo, the city builder. This is a civic god. (Which brings in Delphi at once!)
+
+Apollo and Dionysos: another secret partnership (like Thoth and Set, Horus and Set, whatever). (Behind the scenes, in the eternal world.)
+
+I think that was Apollo I saw (when I heard "kai hypsilon").
+
+Socrates: since he was a danger to the state, for what he preached, they sought a charge to try him on. Esp he taught the youth: to question. Dia-logos (logos: Meaningful structure of reality)
+```
+**Co-occurrences**: Logos, Dionysos, Like, World, Since, Once, Reality, Another, Secret, Whatever, Socrates
+
+---
+### Line 1508-1516 (Match: 'Apollo')
+**Folder**: part pressing
+
+```text
+I think Socrates daimon is Apollo, the city builder. This is a civic god. (Which brings in Delphi at once!)
+
+Apollo and Dionysos: another secret partnership (like Thoth and Set, Horus and Set, whatever). (Behind the scenes, in the eternal world.)
+
+I think that was Apollo I saw (when I heard "kai hypsilon").
+
+Socrates: since he was a danger to the state, for what he preached, they sought a charge to try him on. Esp he taught the youth: to question. Dia-logos (logos: Meaningful structure of reality)
+
+RM: He met God and wrestled with him (Jacob) and became a better man -- but was maimed (i.e. crippled). The creative person, RM means here also by God, Elohim, or angel, he means Eros or daimon.
+```
+**Co-occurrences**: Logos, Dionysos, Like, World, Since, Once, Reality, Another, Secret, Angel, Whatever, Socrates
+
+---
+### Line 2477-2485 (Match: 'Apollo')
+**Folder**: vol 12
+
+```text
+could still be right. But the case for the Parousia is strengthened if I could show that, as they say, the Holy Spirit has been absent throughout these many centuries (since nothing but the Holy Spirit could have achieved a biblical print-out in TEARS). This decision does not settle the matter against; but the alternative would have settled it for (the Parousia arriving now).
+
+. . . In 3 74 God (Sarapis, once called) undid determenism for me, undid my fate; He rules above the stars. Hence He gave me, his servant, longer life. Undid the strands of Moiria. (Saparis is Osiris; also equated with Dionysos, Pluto and Zeus.) See vol 12 p. 783, top right, EB, macro. "Ubren Sternanzelt muss ein lieber Vatter wohnen," who assisted me to overcome the anakie or fate closing in around me. "Sarapis could save his servant from illness and prolong his life. He took his servant from the sphere of determinism and gave him liberty." EB continues, "This foreshadowed Christian grace."
+
+. . . Jane Harrison: "Apollo the god of constancy; Dionysos the god of metamorphosis (!!!). Also the god of joy. I guessed he metamorphosed into the laughing Erasmus. Also: The Father & Son are one; e.g. Zeus and Zagreus. Guess what this implies re Christianity. I say, Dionysos is the deus abscontitus par excellence!!! And, under various nom de plumes, He lives! (Or nom de vive, or guerre). JH says, "Dionysos came first humbly, was exorcised and expelled, but will return with overwhelming power & magic, to triumph." He is the unaccepted god, the immigrant god, the outsider god, expelled, but will come back again stronger and larger, and will prevail (esp over those who expelled him). How much I have lived the outcast life, drawn to other outcasts (e.g. at X-Kalay and in Marin County in 1971) that Dionysos associated himself with, being sympathetic, being one himself (v. life of Jesus). Wow, he (Jesus-Zagreus) could have destroyed them any time he wanted. Outcast equals straggler (from the flock). Riddles, always riddles; the god with a sense of humor. His main riddle: "What's my name?" and then it's acted out graphically, in visual no-words form. Because, perhaps, of what Plato said about the supreme value of the search itself (on our part, to arrive at wisdom/understanding). (Dionysos' wine cup is the grail.) Historically, Dionysos (under all his names) broke the back of astrology: of the fixed immutable rule by the stars over men, and whatever evil influences they have on us. Plato believed that beyond the eighth sphere, the fixed stars, ruled the divine -- perhaps it was up to this that I was looking back in 3 74, where Sarapis is: "He rules over the stars." Now, as to the two-person game I saw. Could determinism have been one player, that which set up growingly more "iron" situations, but blocked by "intervention" from Sarapis? That is to say, the juggernaut of causal force, cause and effect, periodically aborted by the God? Its plots untied, unravled, freeing the person(s) caught? Sarapis, our Protector, playing his card(s) against determinism again and again (determinism equalling James-James?)? It seems to me that most essentially this is a victory for and by life over inexorable machinery which surely equals death. This is exactly what is meant in the Bible by, "He makes intercession" (for us). I.E. God's grace. This overcoming Ananke is precisely what the Olympian Greek gods could not do -- hence they proved useless, and the god who successfully intervened, but secretly, and then "ran," wasn't visible doing it, he
+
+Last edit over 5 years ago by Harpax
+
+186
+```
+**Co-occurrences**: Tears, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Plato, Greek, Bible, Parousia, Wisdom, Dionysos, These, Perhaps, Father, James, Since, Because, Iron, Time, Harpax, Could, Does, Once, Again, Zagreus, Being, Divine, Himself, Gods, Fate, Deus, Grace, Nothing, Those, Still, Part, More, Zeus, Most, Death, Macro, Will, Would, Other, Biblical, Erasmus, Back, Beyond, Surely, Whatever, Under, Many, Have, Life, Evil, Magic, Right, Ananke, Grail
+
+---
+### Line 6736-6744 (Match: 'Apollo')
+**Folder**: part at
+
+```text
+Complete
+4
+4
+
+The scramble generator is not blown up; a seed which explodes into growth is smuggled into the center of it, whereupon it [the planted seed] expands in creating Kosmos (Valis), the rational devouring the irrational: feeding on it: an organism eating the atelos. (Dialectic infinitude which endlessly contradicts itself). Preying on the atelos, + is totally stable (coherent, + hence can be known). Nothing can be known of the acosmism (Maya) because we are scrambled +, I guess, it is scrambled (but since we are, there's no way to know that - if all the percipients are scrambled). The heart of the matter is, we are impaired both a priori and a posteriori calculatedly - but the generator can be obviated by the smuggling in of the potentially explosive seed to its heart. "Small as a mustard seed, but will grow into a tree so vast that the birds can roost in it." No wonder 1) He spoke of the "Kingdom of God" but 2) was enigmatic in saying where it was; + 3) He had to die, be buried (at the core of the scrambler generator) + 4) be reborn + grow to cosmic proportion. James-James: The scrambler generator, who has us hypnotized with his light show. Mad as a hatter. Apollo: the god of telos + harmonia. Then telos is a life form come here to exact hagocytosis on the scrambler generator: to prey on it as a supply of parts (food). Viewed biologically, the scrambler generator is a life form harmful to us, + the seed harmful to it, hence our friend.
+
+{illustration: 3 interlinked boxes:} Us: lowest life form / Scrambler generator: higher life form / Seed: highest life form
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Valis, Toso, Complete, Form, Kingdom, James, Since, Because, Cosmic, Light, Kingdom of God, Both, Maya, Kosmos, Viewed, Nothing, Will, Illustration, Tree, Life, Dialectic
+
+---
+### Line 14711-14719 (Match: 'Apollo')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 034
+34
+
+I know now that the brotherhood, which I suspected exists + worked through me, does exist + has been working through. I know they are immortal, transtemporal, + I know why + how, + what they do. But who they currently are I will never know, except that, because of P., I am one (he is one). If indeed they operate out of alternate worlds they may well be able to move retrograde in time, as it seemed to me in 3-74. That ability would allow them to operate into + out of alternate universes. I know they go back directly to Christ, + get their knowledge + powers from him, which no one (e.g. Bob Anton Wilson) seems even remotely to have guessed (nor re their transtemporal immortality + using host persons, etc, to jump back + forth across time). I just realized: they are informed + instructed + coordinated by the macrobrain via its messages -e.g. the bit in "Tears," that was the macrobrain- + it's living info itself! The brotherhood must have the set/ground discrimination, which has to do with an evolved color perception. __ Voice: "The head Apollo is about to return." See previous voice note p 24: "This is the hour you've waited for." Siddhartha is waking up?
+
+Last edit over 5 years ago by Toso
+Folder 03 - 035
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Toso, Indexed, Well, Because, Time, Folder, Even, Does, Just, Siddhartha, Toso
+Folder, Indexed
+Folder, Their, Through, Living, Ground, Voice, Will, Would, Back, Have, Info, Except, Knowledge, Wilson
+
+---
+### Line 14719-14727 (Match: 'Apollo')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 035
+35
+
+It is quite some cosmology which permits the abolition of the phenomenal world of the many, + then encounter with the one, + its traffic of messages: its thinking - + to know we are very literally actually parts of this one. The raft floating toward England - the little boy Philip getting past Scotland Yard - I was just now joking with K.W. about the Apollo sentence, + found myself saying: "A raft pulled by 6 (or 12) sea serpents floating up to England {Note} - Apollo taken off to Whitehall + being interrogated by Scotland Yard, + now there is no England-" + then remembered the dream. It sounds like Orpheus. (Dionysos, too.) Ist die Zeit da? Could the development + publishing widely (retrieval) of my (our) macro-microcosm cosmology be deliberately synchronized (in time) with the long-awaited "return" cited above (i.e. of St Sophia, Buddha-Siddhartha, "the head Apollo")? In other words, my writing is a preparatory step, one among many (e.g. the overthrow of Nixon)?
+
+{Note:} Albion Azoth England Paracelsus Albemuth Azimuth Bismuth White Fish Water (mouth of river or ocean)
+
+Every time I go to sleep now I again see writing. E.g.: "The only living reality we have now is Philip the first." (Like a pope?) This seems to express pessimism, as if the agency, the viaduct, right now is severely limited. To me? A very narrow + small outlet indeed. "Philip the first": perhaps the initial viaduct for the "we" to act through: a meager beginning, but still a beginning. Note
+```
+**Co-occurrences**: Indexed, Sophia, Fish, Dionysos, Perhaps, Like, World, Only, Time, Nixon, Folder, Buddha, St Sophia, Could, Just, Again, Reality, Being, Siddhartha, Philip, Indexed
+Folder, Still, Paracelsus, Through, Living, Actually, Macro, Other, Very, Many, Have, Dream, Right, White
+
+---
+### Line 14754-14762 (Match: 'Apollo')
+**Folder**: book of
+
+```text
+Complete
+Folder 03 - 039
+39
+
+peccata mundi. Credo sed timeo. Apollo, Buddha, St. Sophia - the whole world will be drawn together by this, the universal divine Savior. He awakens now; he is nearing the shore - like King Arthur, returning from across the sea, to reclaim his rightful throne + kingdom, on the silent, flat barge, with the sword Azoth. Maybe what scares me is knowing that the books are closed or nearly closed - the books upon whose contents we will be given life or death: it's like that night when the cold moonbeam-like white light filled the bedroom + we were as if painted in place, with nowhere to hide. The eye of Shiva is upon us: herdsman + destroyer. Time is ending, literally. Reality will now be exposed + all will become known: disclosed openly, + weighed. We can only pray for rescue in this hour; the judge -the great assize- is here: the Pantocrator himself. I must remind myself that I saw my name entered in the book of life. All I need is faith + trust. All I need is to know that I have an advocate with the Father who will never desert me. __ The 3-74 experienced, unleashed by 2-74, was the breaking of a partition between me + - what? A former self? No, I say, the immortal person. He cannot be defined by any one space, name or time. Whether this fits in with any system I do not know. (Hermetic?) There is an analog in the microcosm to the immortal world soul of the macrocosm. Perhaps it is the macro soul. Contracted, not analogous to it, but actually it.
+
+Last edit over 7 years ago by Toso
+Folder 03 - 040
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Complete, Sophia, Kingdom, King, Perhaps, Father, Maybe, Like, World, Only, Time, Folder, Faith, Buddha, Savior, Book, Hermetic, Light, Shiva, Reality, Self, Divine, Toso
+Folder, Himself, Great, Pantocrator, Soul, Upon, Actually, Death, Macro, Will, Judge, Were, Have, Life, Whether, White
+
+---
+### Line 14816-14824 (Match: 'Apollo')
+**Folder**: part of
+
+```text
+Indexed
+Folder 03 - 047
+53
+
+cosm is the macrocosm contracted, + the macrocosm is the microcosm expanded to fill the infinitude of P.'s inner space. The person is not-himself but is the immortal man who is everyone, everywhere + every place. Purpose, mind (thought) + growth + life are everything, + this is something he cannot step outside of: the macro-will is inside him as well as outside him; inside + outside are the same, just as the little (man) + the large (cosmos) are the same. Thus says Hermes Tristmegistos; thus says the voice of our God. That we should know all this is in itself part of the unfolding plan. What I know now I have always known. What I am now I have always been + will always be. I had just fallen asleep for a little while, + was reawakened, + after a time remembered, +, because of this, am happy + free. "This is the hour you've waited for." + "The head Apollo is about to return." The 4th Eclogue of Virgil which I came across years ago + have forgotten: "At last the final time announced by the Sibyl will arrive: The procession of ages turns to its origin. The Virgin returns + Saturn reigns as before; A new race from heaven on high descends. Goddess of birth, smile on the new-born baby, In whose time the iron prison will fall to ruin + a Golden race arises everywhere. Apollo, the rightful King, is restored!
+
+Two points. Apollo as rightful king - his return is referred to. + - these are the very symbols by with the early 17th century RC brothers referred to the age of Pan-Sophiasm which they wished to usher in. The Sibyl {...} the Virgin {...}
+
+Last edit over 7 years ago by Toso
+```
+**Co-occurrences**: Toso, Indexed, King, Well, Golden, These, Fall, Because, Iron, Prison, Time, After, Folder, Mind, Just, Something, Everything, Himself, Sibyl, Indexed
+Folder, Part, Heaven, Voice, Before, Macro, Will, Very, Have, Life, Hermes, Iron Prison, Free, Final
+
+---
+### Line 14818-14826 (Match: 'Apollo')
+**Folder**: part of
+
+```text
+53
+
+cosm is the macrocosm contracted, + the macrocosm is the microcosm expanded to fill the infinitude of P.'s inner space. The person is not-himself but is the immortal man who is everyone, everywhere + every place. Purpose, mind (thought) + growth + life are everything, + this is something he cannot step outside of: the macro-will is inside him as well as outside him; inside + outside are the same, just as the little (man) + the large (cosmos) are the same. Thus says Hermes Tristmegistos; thus says the voice of our God. That we should know all this is in itself part of the unfolding plan. What I know now I have always known. What I am now I have always been + will always be. I had just fallen asleep for a little while, + was reawakened, + after a time remembered, +, because of this, am happy + free. "This is the hour you've waited for." + "The head Apollo is about to return." The 4th Eclogue of Virgil which I came across years ago + have forgotten: "At last the final time announced by the Sibyl will arrive: The procession of ages turns to its origin. The Virgin returns + Saturn reigns as before; A new race from heaven on high descends. Goddess of birth, smile on the new-born baby, In whose time the iron prison will fall to ruin + a Golden race arises everywhere. Apollo, the rightful King, is restored!
+
+Two points. Apollo as rightful king - his return is referred to. + - these are the very symbols by with the early 17th century RC brothers referred to the age of Pan-Sophiasm which they wished to usher in. The Sibyl {...} the Virgin {...}
+
+Last edit over 7 years ago by Toso
+Folder 03 - 048
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, King, Well, Golden, These, Fall, Because, Iron, Prison, Time, After, Folder, Mind, Just, Something, Everything, Toso
+Folder, Himself, Sibyl, Part, Heaven, Voice, Before, Macro, Will, Very, Have, Life, Hermes, Iron Prison, Free, Final
+
+---
+### Line 14826-14834 (Match: 'Apollo')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 048
+54
+
+the very symbolic terms used by the Hermetics c. 1600. I believe they deflected history then (+ set up a better track B world in which the Protestant cause was not defeated) - + did so again in 1974. + now again they strive to usher in the "reign of Saturn," "the reign (return) of "Apollo" the rightful king" - i.e. the Golden Age, with Astraea returning first (seen by me as the Sibyl with Shiva's dual-purpose ajna eye of justice). They used the term + concept "PanSophiasm," which explains why I heard "St. Sophia will..." etc - all R.C. + Hermetic phraseology. I have been right from the start; it is the Rosy Cross. "St. Sophia" would be the R.C.-Hermetic Gnostic analysis as to who + what Christ really is. Elijah got brought into my noetic revelations because of P.'s belief that "Elias" (Elijah) would return. The kind of enlightenment I experienced in 3-74 is precisely what the R.C. Hermetic brotherhood wishes to bring to all mankind. I thank them for bringing it to me. It shows that their virtually supernatural powers are working - proving effective. I help, via my writing, made use of without realizing where my unorthodox material was coming from. So the "Apollo" prophecy (which stressed an imminent return) is one more tie to the Rosy Cross! My entire corpus of writing can be viewed in terms of the R.C. Pansophiasm: as an enlightening instrument in a popular form. Specifically, as esp. in "Ubik," it spreads the Hermetic macro-microcosm cosmology, veiled, of course, even from me. Thus, the RC is able to spread its advanced doctrines.
+
+Last edit over 7 years ago by Toso
+Folder 03 - 049
+Indexed
+```
+**Co-occurrences**: Christ, Ubik, Toso, Indexed, Form, Sophia, Gnostic, King, Golden, Elijah, World, Because, Folder, Hermetic, Even, Again, Shiva, Toso
+Folder, Corpus, Sibyl, Viewed, Without, Indexed
+Folder, Their, More, Macro, Will, Would, Very, Have, Justice, Cross, Right, Track
+
+---
+### Line 14844-14852 (Match: 'Apollo')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 050
+56
+
+Fascinating, that they could spread their Pansophiasm by supernatural means. My matrix personality seems to be one of the immortals. Then the Pansophiasm is secretly being sought for by equally secret immortals. This would be tied in with P. + with Bruno. I am sure they were (or became) among the immortals, who go back directly to Christ, who is the head of it all. "Head." The corpus Christi. Suppose in the sentence "head Apollo" "head" refers to the head of the Mystical Body! I.e. "Apollo who is the head [of the Mystical Body of which we are members]." Ah! That's it; that's what we are: parts of the corpus Christi. That's the source of our transtemporal immortality: in that we are subsumed by that macro-corpus. I bet P. + the other adepts knew + were this! "Tears," too, is evidence of an alternate universe. ___ The invisible unending victory of Christ is the greatest secret -+ joyous mystery- of all. It is not well understood. There are no books on it + no authorities on it. But there it is: Christ against Caesar, the latent inner vs the obvious outer. This is the underlying tale told down through 2000 years + yet never told at all. He is here + not here, gone + not gone. In defeat he wins. He picks up the dying straggler. He supports that which is failing + brings to ruin that which can defeat anything. "Latent form is the master of obvious form." Which will you bet on? He did not reveal his presence in 1974 regarding Nixon - no one knows. It must always be that way. The essence of salvation is to relate to "latent form," i.e. Christ (as Heraclitus put it) + not "obvious form," i.e. Caesar, because it is latent form which is the true victor, despite what we see.
+
+Last edit over 5 years ago by Toso
+
+Folder 03 - 051
+```
+**Co-occurrences**: Christ, Tears, Toso, Indexed, Form, Well, Because, Nixon, Folder, Book, Could, Suppose, Heraclitus, Being, Christi, Corpus, Indexed
+Folder, Their, Bruno, Through, Corpus Christi, Secret, True, Macro, Universe, Will, Would, Other, Were, Back, Caesar, Body, Salvation
+
+---
+### Line 14937-14945 (Match: 'Apollo')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 062
+68
+
+from the past, the future, from the stars + from alternate universes. + I have seen Zebra + its traffic of messages. I know that we are stationary stations of a macrobrain. + I reached level #9. + I have been told that St Sophia (Christ), the Buddha, Siddhartha, Apollo, by whatever name are about to be born again - i.e. incarnate openly in the "objective" (obvious, or Caesar's) world. I know that the time has almost come - or in fact has come, "for which I've waited." The return of the rightful King, as I was caused to foretell in "Tears" written 9 years ago. ___ Do you suppose the "latent world" (level #3) which I remembered as true, in 2-74, + saw a month later, is what Christ meant by "the Kingdom (or -ship) of God" - i.e. His Kingdom, i.e. where he ruled, + not Caesar? [Yes - see sub p 73! It is!] But in any case, to see within the evident (obvious) world a second, different, latent world which is a sort of reverse of the obvious one, where that which wins in the obvious world loses, + that which was murdered in the obvious world secretly rules - this is extraordinary indeed! A latent world at a different place, + at a different time, + yet nonetheless syntonic with the obvious world - a way a seeing the world as such, + yet knowing that syntonic or not, aspect or not, it is not the obvious world but concealed behind or within or under it... which is why I call it 'latent.' How can this be {...}?
+
+Last edit over 5 years ago by Toso
+Folder 03 - 063
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Toso, Indexed, Zebra, Sophia, Kingdom, King, World, Time, Folder, Buddha, St Sophia, Again, Suppose, Siddhartha, Toso
+Folder, Indexed
+Folder, Nonetheless, Such, True, Whatever, Under, Have, Caesar, Later
+
+---
+### Line 15722-15730 (Match: 'Apollo')
+**Folder**: folder 22
+
+```text
+An interesting corollary of this is that when anti-meaning is encountered, it must be assured not to be actual, however palpable it is to our percept system.
+
+This view, however, cannot be equated with the Gnostic idea of the divine sparks being drawn one by one out of this acosmos to allow the ascosm, when so deprived, to perish.
+
+My writings, e.g. "Maze," point to the latter yet the 1974 historic intervention points to an imposition of divine form (plan, Logos) onto this world - + the return of the rightful king (Siddhartha, Buddha, Apollo, St. Sophia
+
+Last edit about 6 years ago by Zebrapedia
+folder 22 - 039
+Indexed
+```
+**Co-occurrences**: Indexed, Logos, Form, Sophia, Gnostic, King, However, Maze, World, Folder, Buddha, Zebrapedia, Being, Siddhartha, Divine
+
+---
+### Line 15814-15822 (Match: 'Apollo')
+**Folder**: folder 22
+
+```text
+folder 22 - 046
+46
+
+into the world, after 1900 years absence? "Thomas" wasn't an instance of reincarnation. He thought (when he came to) that he was still in Rome (c. AD 45-70). After all, he had just been. + then he was killed + the plasmate got into a scroll in its discarnate dormant germ info form + was buried for 1900 years. But I'm saying: "Thomas" was the homoplasmate which Zebra took over just after the death of Christ. Zebra equals paraclete. Paraclete equals Christ. So the return of "Thomas" after 1900 years is, by Logic, in fact the return of the discorporate Christ. "Ubik" contains a full + accurate description of Zebra: i.e. Ubik itself. __ Zebra, the Logos (Ubik) is capable of becoming a verbal analog of itself. + then reversing the process + reconstituting itself (as with apple tree to seed + back to apple tree). But the verbal analog has to be exact. __ Voice: [Using "Tears"] he sent out one signal." (That he was [now] here.) Thought: One signal would be enough to tell them that he was here. He equals St. Sophia, Buddha, Apollo, Siddhartha, "they" are not like him; he is unique. They have been waiting for him.
+
+Last edit over 5 years ago by Toso
+folder 22 - 047
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Ubik, Toso, Thomas, Indexed, Zebra, Logos, Rome, Form, Sophia, Like, World, After, Folder, Paraclete, Buddha, Just, Siddhartha, Toso
+Folder, Still, Voice, Death, Would, Back, Have, Tree, Info
+
+---
+### Line 16369-16377 (Match: 'Apollo')
+**Folder**: folder 20
+
+```text
+folder 20 - 006
+5
+
+So my contrast of the BIP / PTG, occlusion or blindness / seeing higher levels of creation is a basic Jewish-Christian substratum of worldview - one of the most basic, + entirely in accord with orthodoxy. By 2-74 to 2-75 experience was a restoration 1) of my faculties (i.e. myself to what I originally was); + 2) I was removed from the BIP + from the power of the BIP + restored to the Garden, the Kingdom of God, in fulfillment of God's promise, via Christ. My original bright nature (of light) was restored, + I was taken back home: to where I originally came from. Restored person, restored place. All conditions, inner (me) + outer (world) as they should be + had once been. Out of the dark narrow prison. Is there a causal relationship between restored person + restored place? Can you have one without the other? + if causally connected, which is cause + which is effect, or are they just inner-outer parallel equals? A dual (binary) restoration? Am I one of the "Second Adam" race? + how many other people has this happened to? More important, does my inner (self) / outer (world) restoration signify (signal) that the time of the fulfillment of God's promise (of salvation) has at last (historically, generally) come? I have reason indeed to believe that it has come: 1) The St. Sophia prophecy. 2) The Buddha prophecy. 3) The Head Apollo prophecy. 4) The "the time you've waited for has come" statement 5) The dream + code in "Tears" 6) The AI voice + my 2-74 - 2-75 experience in themselves 7) The overthrow by God of Nixon.
+
+Last edit over 5 years ago by Toso
+folder 20 - 007
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Christian, Toso, Indexed, Sophia, Kingdom, World, Prison, Time, Nixon, Folder, Garden, Buddha, Light, Does, Just, Once, Adam, Kingdom of God, Self, Toso
+Folder, Jewish, Without, More, Most, Voice, Other, Creation, Back, Many, Have, Dark, Dream, Salvation
+
+---

@@ -1,0 +1,346 @@
+# Evidence Packet: Zoroastrian
+
+- **Category**: Top Term
+- **Total Mentions**: 67
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1394-1402 (Match: 'Zoroastrian')
+**Folder**: book certainly
+
+```text
+This vision of all causes that are real being actually present is quite different from the idea that causes lie in the past (prior to effect). My universe was like a complicated engine. Where are the pressures coming from within an engine? From the past? No, from other parts of the engine. I guess I am saying, I saw cause and effect as real, but all operating in the present, in the [?] [M]indkowski block universe, perhaps. Time has nothing to do with it (time rendered maybe into space, as befits the [K]indoswski block universe). What I saw had more to do with stimulation and pressure, but still the term "cause" is a proper one to describe that which signalled or pressed. There was still action on. That which acted; that which was acted on, giver (doner) and receiver. Time might be viewed as nothing more than a lag, with no special or important significance (as, when I mail you a check and it takes 5 days for the letter to get to you, and more days for the check to clear, etc. That's time, a bunch of lags, almost weaknesses, to be overcome. I nuisance, at most? Real but like friction or heat-loss: limitation and problem, not reality.
+
+The Hopi nontime view of the manifest and the manifesting -- my onion ring universe, maybe.
+
+Hypnogogic thoughts: 3 74: "Realized I was God, ala "Faith of Our Fathers." No, advanced up out of the game for a moment." Fully awake; this refers to the Zoroastrian two-person game I saw, makes sense; the Xerox letter, my response, this is what is referred to. I had been within the game, taking the game (and game-playing) as reality. The level I rose up out of, the game, equals the whole Xerox business, which I've never seen before; also, possession, by the Holy Spirit, equals rising up out of the game (for an interval). That was a clear victory over the infusing particles of darkness. (Which are in me, as well as in everything else. Triumph was internal as well as ex[e]stential.)
+
+It is not "possession," then, but waking from the game and the playing of the game; person immeshed entirely in role of player, with no awareness of any other reality or identity.
+
+The arrival of the Xerox made me aware that the game existed, made me conscious of the game, that "reality" was/is a game, between vast forces mostly obscured. I saw the world qua game, and was then liberated from seeing it any other way (i.e. I saw it correctly, for what it actually is). I understood the mechanism of what I saw and was involved in, the transcendent aspect (sub specia aeternitatis). To see is to be released, although one must still act (i.e. make ones move, although now consciously making a move in a game, to defeat an invisible counterplayer) I distinguished the paradigm; it wasn't so much that God came to me but that the blinders ceased to blind. Probably at no other time had I ever been so solidly locked into the game and move against; seeing it coming, I began to disinhibit (the phosphene activity) to prepare only because I could properly discern it as such, and make use of it. It attempted to camo[l]flage itself, but failed to do so; it didn't blend. Thus I became aware of it as piece in pattern, hence of whole pattern,
+```
+**Co-occurrences**: Spirit, Holy, Xerox, Holy Spirit, Well, Perhaps, Father, Maybe, Like, World, Because, Only, Time, Faith, Could, Reality, Being, Although, Everything, Probably, Viewed, Nothing, Darkness, Still, More, Most, Real, Such, Actually, Before, Universe, Other, Days
+
+---
+### Line 2825-2833 (Match: 'Zoroastrian')
+**Folder**: Book of
+
+```text
+My Nazi, porno, underground cartoon, homosexuals, etc. dream last night suggests that it is how one views reality which determines which reality (idios or koinos) one experiences.
+
+Would the koinos be a group mind, like the noosphere? Yes it would. This is what we would notice most in entering it: that's what "koinos," the word itself means: shared. Head shared mind instead of shared physical world. And this is what I felt (the noosphere) I entered back in 3 74. In fact I felt the material world cease to be material but pellucid, a glimmering through. The material substantiality which we perceive is a symptom of the idios. But I cannot achieve entry into this but rather God or the Logos through His act of grace must lead me there. Hence the pylon doorway I saw at that time: the narrow way meaning Christ. And few men are saved; the work of salvation for mankind is far from complete. If by "salvation" is meant losing the idios and entering the koinos, where you cease to be the epicenter. This means that Christianity can be viewed in terms of Heraclitus' admonition to leave the idios and wake up to the koinos, the idea of the Logos as Redeemer itself acting to bring man/men in.
+
+The graphics 3 74: I, a station, was signalled to fire (act) in response to a stimulus (the Xerox letter). A station in a vast system or network. I was then aware of being linked or hooked in to a system or mind, and that I had been "disinhibited" as I called it then actually I was as I now put it signalled, but I as a station in a network So of course for a time (3 days) I saw the system itself of which I was one of many stations, and was aware of the "traffic" of signalling going on. The veil was lifted because I had been signalled to fire (act in a very specific and complex way; I was given information-rich signals, for complex activity. This revealed to me the War in progress, which is how I see it; my response was combative to the stimulus (letter). Mostly, this bears out the Zoroastrian Sons of Light vs the Sonys of Darkness and their struggle. Prior to this, for several years, I had either been on hold, or was being moved into proper position in spacetime for this evidently important (to the overall picture) response. Naturally, this exposed for me temporarily the true nature of reality, compared to the merely manifest or evident, bringing me to Parmenides, the true being so radically different. 1 can’t doubt the two-entities in their struggle. But it is veiled under convention struggles, probably cutting across all manifest lines.
+
+Last edit almost 5 years ago by svayambhu108
+
+216
+```
+**Co-occurrences**: Christ, Logos, Complete, Xerox, Christianity, Like, World, Parmenides, Because, Time, Mind, Light, Reality, Heraclitus, Being, Either, Probably, Viewed, Grace, Darkness, Their, Through, Most, Actually, True, Would, Very, Back, Under, Many, Information, Instead, Days, Sons, Dream, Salvation, Evidently
+
+---
+### Line 3196-3204 (Match: 'Zoroastrian')
+**Folder**: part at
+
+```text
+-6-
+
+all I ever can say; in fact DEUS IRAE was a godsend as a vehicle in which to insert the material obtained from 3-74. I saw my chance & I took it, and I guess that is that. I guess it is God's plan to.save man on a one-to-one basis, with no mass salvation. I have testified to several people, believers & unbelievers, and the result is always the same: indifference. It doesn't even seem to matter if they believe me; when I talk about it, it comes out in hollow platitudes. "I saw God; do b you doubt it? Do you dare to doubt it? I saw the Almight Man." It's been said better than I can say it countless times. What happened to me was a reward, not a mandate. I found the pearl of great price, buried amongst the trash in the alley. Anyhow, it permanently changed me. The one bad thrall in my life (alliegence to the worldwide CP apparatus) was burst forever. I separated myself from that awful mother-womb, turned against it as I saw it for the tyranny it is; or rather, I had always seen it that way intellectually, but could not cut the cord and hence could not really take a stance against it, as its enemy. Now I have. It has no claim on me any longer, which I discovered, to my horror, it had had since I was born. I was severed from an earthly bond which was in the process of destroy¬ ing me forever (soul included).
+
+The spring of 74 marked the point of my greatest partici¬ pation with the world', guided & animated by the spirit in me. The battle was won and then the war itself was won; that time ended, and now we have peace. Probably my withdrawl from the world will continue, in that I am probably retired from the struggle, having done my part at the most critical time in history (!!!). I was there and I did everything I could. That's over and it came out just great, for me personally and for the world of man. Since then I have progressively looked more and more inwardly. Politics and the struggle have given way to theology, meditation, and isolated note-taking; how could it be otherwise? The tide turned favorably, probably forever (I feel that strongly). How lucky I am, that I was able to participate in that final vast struggle, in the Zoroastrian sense. The War Between the Sons of Darkness & the Sons of Light. I was born to fight in that fight. Vast tyrannies fell; vast governments fell; the people remain. Whatever happened to me, whatever significance the epiphany had for me personally, can't be severed from the intervention by God, suddenly, in world history. That is the main event, and everything else was coordinated to dovetail with it. ("The trumpnet's loud clamor doth call us to arms.!" to guote Dreyden.) People such as I were moved about over the previous years, placed in position, held there until the hour had struck, and when it struck, in the spring of 74, they were then informed of their mission & task, and given the strength & wisdom to accomplish it. They were thrown into a struggle the outcome of which was foreordained, a struggle first pictured by Zoroaster. The white-haired old king on horseback with his hosts had breached into our world. The veil split open. The seals were broken and the books opened (as I saw so vividly in my first series of "dreams" in 3-74). Die Stunde ist da! Well, it is evident that I have developed my thesis of all this; I know what I know because I experienced & saw. The usurpation of my own will in 3-74 would have been justified if it was to save my life, but undoubtedly it was done in order that historic necessity be fulfilled, in which
+
+Last edit 7 months ago by Zebrapedia
+248
+Needs Review
+```
+**Co-occurrences**: Spirit, King, Well, Wisdom, World, Since, Because, Time, Book, Light, Even, Could, Anyhow, Zebrapedia, Just, Everything, Great, Probably, Deus, Darkness, Zoroaster, Part, Their, More, Soul, Most, Such, Mother, Irae, Will, Would, Mission, Were, Whatever, Have, Life, Spring, Having, Deus Irae, Suddenly, Otherwise, Sons, Salvation, Doesn, Final, Until, White
+
+---
+### Line 3418-3426 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+Needs Review
+270
+-6-
+
+I have the feeling that as linear times moves along, the full complement of the "144,000" is completed, drawn continually out of the "deluded mass which worships and wears the mark of the beast." The critical choice which would elevate one out of the mass of the deluded with the beast's mark is always available, in all lifetimes for all men. A small minority at any given times makes that choice and is so elevated, whereupon he sees the opened scrolls and is made to understand in the symbolic visionary terms which John experienced originally (like Daniel et al). Thus an elect is drawn together across time, spanning it. Change is an illusion; it is always as it is now: Rome at its worst, the prison versus the palm garden. Linear time is unreal, and the transformations within it are irreal. What is real remains the same, as seen by John. This is so. The only event in history was the first incarnation, so to speak; the true time is slightly past that. My dream of the stagnant ocean with the so few helium filled balloons occasionally zig-zagging up — that represented the occasional few who rise from the "deluded mass" to join the "rem¬ nant" of the Lamb. They are put to work. They have been at work all this time (since Jesus' death). Rome is unchanged because it is Satan's front organization on earth and he is supernatural; this is why Rome never disappears (not yet anyhow). It is the earthly city of evil, of imprisonment and persecution. The choice is join (which most do) or be persecuted unto death (the remnant). The Parousia, the saving presence/intervention of Christ the Lamb, is always here for the perse¬ cuted elect to destroy their enemies and elevate them; this goes on perpetually. Only the elect experience the perpetual saving presence at the moment that their persecutors are thrown down and they them¬ selves arei lifted up, shown and explained to, made to understand who they are and what their future will be (entry into the Kingdom). Meanwhile the deluded mass goes on; the beast goes on; Rome as physical extension of Satan goes on, but in eternity he is always defeated. The elect are, were and will always be saved (thus I remembed back thousands of years). Eternity does not lie at the end of linear time but above it; the saving presence (the Parousia) lies above, not at the end, although when linear time ends it probably collapses back into eternity, so that is nominally true. My whole basic mistake in all these 300,000 words has been to accept on face value the reality of linear time and the changes therein. The Parousia did not set in on linear time in 74; I was lifted up out of linear time, to see the Parousia which is always there. Thus it did come — for me, in this manner: ray reward, so to speak, as I was exalted up from the "deluded mass" into the "remnant." (I think anyhow.) I saw what Daniel & John saw because that is how it is in the eternal world of Platonic forms; that is what is, and it was then when they saw it. Thus I adopt the Zoroastrian "game-board" view of this world, as a place where the two antagonists play it out through hand after hand in linear time. My task has been to explain (1) How the Parousia came and did not come; (2) How everything, in 74, happened and did not happen — at the same time. In think now I have done this.
+
+--- END ---
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Jesus, Rome, Form, Kingdom, Satan, Parousia, These, Like, World, Since, Because, Prison, Only, John, Time, Earth, After, Garden, Does, Anyhow, Reality, Although, Everything, Platonic, Daniel, Probably, Palm, Their, Through, Most, Real, True, Death, Will, Would, Were, Back, Meanwhile, Have, Evil, Dream, Lamb
+
+---
+### Line 3781-3789 (Match: 'Zoroastrian')
+**Folder**: Book of
+
+```text
+My Nazi, porno, underground cartoon, homosexuals, etc. dream last night suggests that it is how one views reality which determines which reality (idios or koinos) one experiences.
+
+Would the koinos be a group mind, like the noosphere? Yes it would. This is what we would notice most in entering it: that's what "koinos," the word itself means: shared. Bead shared mind instead of shared physical world. And this is what I felt (the noosphere) I entered back in 3 74. In fact I felt the material world cease to be material but pellucid, a glimmering through. The material substantiality which we perceive is a symptom of the idios. But I cannot achieve entry into this but rather God or the Logos through His act of grace must lead me there. Hence the pylon doorway I saw at that time: the narrow way meaning Christ. And few men are saved; the work of salvation for mankind is far from complete. If by "salvation" is meant losing the idios and entering the koinos, where you cease to be the epicenter. This means that Christianity can be viewed in terms of Heraclitus' admonition to leave the idios and wake up to the koinos, the idea of the Logos as Redeemer itself acting to bring man/men in.
+
+The graphics 3 74: I, a station, was signalled to fire (act) in response to a stimulus (the Xerox letter). A station in a vast system or network. I was then aware of being linked or hooked in to a system or mind, and that I had been "disinhibited" ax as I called it then; actually I was as I now put it signalled, but I as a station in a network. So of course for a time (3 days) I saw the system itself of which I was one of many stations, and was aware of the "traffic" of signalling going on. The veil was lifted because I had been signalled to fire (act in a very specific and complex way; I was given information-rich signals, for complex activity. This revealed to me the War in progress, which is how I see it; my response was combative to the stimulus (letter). Mostly, this bears out the Zoroastrian Sons of Light vs the Sons of Darkness and their struggle. Prior to this, for several years, I had either been on hold, or was being moved into proper position in spacetime for this evidently important (to the overall picture) response. Naturally, this exposed for me temporarily the true nature of reality, compared to the merely manifest or evident, bringing me to Parmenides, the true being so radically different. I can't doubt the two-entities in their struggle. But it is veiled under convention struggles, probably cutting across all manifest lines.
+
+Last edit almost 5 years ago by svayambhu108
+310
+Needs Review
+```
+**Co-occurrences**: Christ, Logos, Complete, Xerox, Christianity, Like, World, Parmenides, Because, Time, Mind, Light, Reality, Heraclitus, Being, Either, Probably, Viewed, Grace, Darkness, Their, Through, Most, Actually, True, Would, Very, Back, Under, Many, Information, Instead, Days, Sons, Dream, Salvation, Evidently
+
+---
+### Line 4933-4941 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+It certainly is interesting that my situation came to a head right at the time the whole outcome of the Watergate matter hung in the balance (Q.U. Charles wiggens- the fact that the Nixon transcripts were forgeries- v. My letter to the Wall St. Journal). Maybe it was the moment of the “uncut storm [flung?]”
+
+But my real evidence of the continual presence of God’s leading, teaching, arranging, engramming activity here [always] is in Zebra. It is zebra who arranges the prefiguring engramming stimuli in their sequence. So intervention, though orthogonal, is a long-term process, + if the evil one program (deterministically) at least God (Qua Zebra) counterprograms.
+
+The nice thing about this view is the Zoroastrian zPrison Brand Game quality it imparts. Could as [cene?] of battle. I like that sons of light vs sons of darkness.
+
+Last edit over 4 years ago by carolinerose
+17
+Needs Review
+```
+**Co-occurrences**: Zebra, Maybe, Like, Time, Nixon, Light, Could, Darkness, Their, Real, Certainly, Were, Evil, Sons, Right
+
+---
+### Line 5440-5448 (Match: 'Zoroastrian')
+**Folder**: book included
+
+```text
+The bottom line of it all (book included) is: Zebra is the rightful king, + he is already here, invisibly, modulating events to prepare the way for his assumption of the seat (throne) of kingship.
+
+The true landscape revealed when the mists (veil) disappears is that of the battle (as in Zoroastrianism) which has been in progress: the two sides are visible, + also one's own role - + side - in the battle. One remembers being sent here to fight in the battle; one has one's task to perform. Perhaps the battle has "always" been in progress, so the real time revealed is like 70 AD, + the setting antique. The rest is accretions.
+
+My vision was Zoroastrian, the battle, the two sides, myself as warrior sent here (with memories first erased, then restored), then victory by us + also on its own limited scale by me - + my reward - the fields of wheat, the reunion with God. I saw the Earth as a "gameboard" for the two players, + Zebra, our great (invisible) captain, our - THE - rightful - king. '74 was not the start of the battle but victory in that battle, the point at which I + others were brought in finally; our time to join had come, + the masks (v. my dream) were removed, + we could see who we were + who they were, + their black iron prison + our palm tree world, the kingdom of God.
+
+The "70 AD" landscape, then, is not a landscape but the landscape, located at the start of the final apocalyptic battle which has in a sense always been taking place, involving all or many of us, reaching its climax (payoff) in '74 (1974), at which time I personally entered consciously to do what I was supposed to do, although previously unconsciously I had been a warrior on the side of the light, which had always been the true issue involved in what I had been doing, inc. my writing.
+
+Last edit over 5 years ago by wtutwiler70
+```
+**Co-occurrences**: Zebra, Kingdom, King, Perhaps, Like, World, Iron, Prison, Time, Earth, Black, Book, Light, Could, Kingdom of God, Being, Although, Black Iron Prison, Great, Palm, Their, Real, Zoroastrianism, True, Finally, Kingship, Were, Many, Tree, Iron Prison, Dream, Final
+
+---
+### Line 5450-5458 (Match: 'Zoroastrian')
+**Folder**: book included
+
+```text
+Needs Review
+2
+(2)
+
+Only by resorting to the Zoroastrian/Manician [should be: Manichean] view can I grasp the fact that world temporal power had been usurped by the dark force at some earlier time (the Black Iron Prison) + we had been sent here, engaged in overthrowing it - secret + revolutionary Xtianity but also Zoroastrian "sons of light" as the Essene scrolls reveal. Zebra's role in this must never be ignored, as he/it/she is our divine commander + king (+ [upholder?]), invisible to all but us as he/she/it modulates events toward victory + to prepare the way for his resumption of his rightful place as king. He, rather than the now deposed (or partially deposed) dark power.
+
+The colors which I saw, such as the phosphene graphics, show him to be the lord of light shining in the darkness (but "not comprehended" by the darkness, which is to say, not perceived as being there at all).
+
+Thus the most accurate single word description of the absolute (BIP) landscape I saw was: armageddon. The scene of the final great battle, + "Thomas" was the authentic pre (or [from?]) 1928 on personality sent here to fight in that battle. (Which we won.)
+```
+**Co-occurrences**: Thomas, Zebra, Christianity, King, Lord, World, Iron, Prison, Only, Time, Black, Light, Being, Divine, Black Iron Prison, Great, Essene, Darkness, Most, Such, Secret, Absolute, Dark, Sons, Iron Prison, Final
+
+---
+### Line 5466-5474 (Match: 'Zoroastrian')
+**Folder**: book included
+
+```text
+Needs Review
+3
+(3)
+
+In Christian eschatological terms, my BIP "AD 70" experience, as - even as - anamnesis must be viewed as a revelation of an ancient landscape. But: in Zoroastrian terms this battlefield - which is what it is/was [-] can be viewed as perpetually - always - there, behind the veil; so I say, Zoroastrian eschatology makes it possible for me to comprehend how that landscape can be somehow under or within 1974 now, it being timeless (which only to a very slight extent is the Christian, although of it one cannot say it is not).
+
+Jayne 663-8306
+
+Neil Christianson 526-6541 (home) 870-2718 (library)
+```
+**Co-occurrences**: Christian, Only, Even, Being, Although, Viewed, Anamnesis, Revelation, Somehow, Very, Under
+
+---
+### Line 5949-5957 (Match: 'Zoroastrian')
+**Folder**: part could
+
+```text
+The acient belief: Jesus was not God become man, but a man who (through adoptianism) become God. But adoptisnism is my view (it is accomplished by a theolepsy of the holy spirit).
+
+In Zoroastrianism (cf the Essenes) the spirit of truth is not only identified with light but also Justice.
+
+The belief that virtues, such as Justice, wisdom, truth, are persons (supralunar) is Zoroastrian in origin.
+
+"Manual of discipline": The 2 spirits in each man: 1) truth 2) lies. &: made by the God of knowledge. Luke 3:21 Jesus Baptism "& a voice came from heaven, "You are my son, the beloved, my favor rests on you". Note: "var. & You are my son, today I have become your father." Adoptionism
+
+Last edit 1 minute ago by Gabriel Mckee
+```
+**Co-occurrences**: Spirit, Holy, Jesus, Holy Spirit, Wisdom, Father, Only, Gabriel, Mckee, Gabriel Mckee, Light, Luke, Essene, Through, Heaven, Such, Voice, Zoroastrianism, Have, Justice, Knowledge, Truth, Today
+
+---
+### Line 5991-5999 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+12
+Needs Review
+12
+( medical assistance" is part of the paradigm (e.g. Cyrus at the gates of Babylon). I now understand that what I saw happening historically in 1974 occurs again + again, but evidents obscured from unaided eyes; the final conflict will not be obscured, how‐ ever. Put another way, the entire sequence of end-yone events ("Babylon" the B. I. Prison, the breaking through by God to free the prisoners + depose the tyrant) repeatedly occur in our kind off time, which we experience as linear where as more accurately it is a cyclic recapitulation of prototype situations again + again, so to speak cyclic repetitions - but our view of time as linear + accruing prevents us from seeing this. There is some kind of accrual (last year was different from this) but also There must be something else there: repeated printout by the eternal forms of specific crucial situations, + the basic crucial situation in history is the prison vs the Garden, these two forms being the (Zoroastrian/Essene) dualism. Satan's power will always manifest itself as the cruel prison city; God's servants will always manifest then selves as the voluntary prisoners (martyrs), + God will always come to their aid via the Holy Spirit. If I accept This paradigm as the most fundamental expression of the conflict between light + darkness, then the Holy Spirits intervention on my behalf in '74 is comprehensible, since I had involved myself in the "74 manifestation just as Thomas had at Neros time from the edola (form) transtime standpoint, just as Rome C. AD 70 was the US AD 1974, Thomas AD 70 was me AD 1974 starting from this cosmological view of the congruence of the varior manifestations of any one form - in fact their identity - then the otherwise incomprehensible situation posed as the Q: "was Thomas me or not me?" can be understood. I am now confronted with the surprising notion that I, PKD, am a temporal manifestation of a form which has "printed out" before + will again. This would (wow?) account for my anamnesis: retrieval of literally thousands of years of memory. Evidently all the manifestations in linear time of this form superimposed, as did Babylon - Rome washington De
+
+Last edit almost 3 years ago by svayambhu108
+13
+Needs Review
+```
+**Co-occurrences**: Thomas, Spirit, Holy, Rome, Holy Spirit, Form, Satan, These, Since, Prison, Time, Garden, Light, Just, Something, Again, Being, Anamnesis, Essene, Darkness, Part, Their, More, Another, Through, Babylon, Most, Before, Will, Would, Memory, Otherwise, Evidently, Free, Final
+
+---
+### Line 6009-6017 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+15
+Needs Review
+15
+battlefield arena - exactly as conceived of by the Zoroastrians + Essenes + the apocalyptic writers in general. Not only is the divine (esp. the savior) disclosed, but the adversary as well (v. "The cosmic puppets"). In terms of the truly real world, the savior came here, taught, was crucified + returned to the pleroma; + his imminent return is, with gladness, anticipated. This dovetails with the St. Sophia prophecy. It was Harnack who first seems to have grasped This absolute quality of the first Advent in terms of time. It is (was) not a temporal event. Perhaps I could say that my perience confirms the supratemporal absolute quality of the Advent (although I seem to have blundered into a tautology, here). What, then, I remembered was not that I once was an early Christian, but rather (+ this distinction is staggeringly important) that I really am - i.e. now, here, not then, there. The discovery was primarily one of my own identity or self. + only secondarily when + where I am; in importance before the when + where, in fact coming directly after the "who I really am" is the "who + what The antagonist is." The awakening was primarily inner, + about me, by me. I can't help noticing the Zoroastrian quality (the battlefield), but also something that is not quite the Gnostic spark sunk down into matter + forgetting; my impression was more of myself as a warrin of light who had infiltrated into the domain of darknes, to pull its citadel down; this is a micro- savior version of the advent, since Christ kept his identity secret as long as possible. Am I onto a great secret here? Jesus Christ was not here alone. Lesser beings from the supralunar world - could they (we!) have descended too? There is something really strange about this. The prisoner in The B. I, prison is an infiltrator; like "impostor" he does not know (1) who he is; (2) that he is from another world; (3) that he has a destroy mission. A disinhibiting signal when it occure. will trigger recollection (+ mission activation). But the othere here are prisoners. We are a very small revolutionary group. - I found the "Acts of Thomas" mention in the EB; it is under "mystery religions." This passage also include
+
+Last edit almost 3 years ago by svayambhu108
+
+16
+```
+**Co-occurrences**: Christ, Acts, Christian, Thomas, Jesus, Sophia, Gnostic, Well, Perhaps, Advent, Like, World, Since, Prison, Only, Time, After, Cosmic, Savior, Light, Could, Does, Something, Once, Jesus Christ, Although, Self, Divine, Great, Essene, More, Another, Real, Secret, Before, Will, Mission, Very, Under, Have, Absolute, Impostor, Pleroma
+
+---
+### Line 6014-6022 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+16
+13) The first mention I ever came across of the purpose of believing in such a God as sarapis (Zeus - Dionysos YHWH): that Sarapis was above the planets (which determine man's fate) + can inter‐ vene + free him from the prison of this planetary determinism, + that this prefigures the Xtian concept of God's grace. It is in the "Acts of Thomas" that the letter comes (from his parents) which bring back his memory as to who he is + as to his mission (task). It seems to me that the assistance (inter‐ ventive grace) which the believed- in God can offer could well begin with the restoration of memory, thus combining the two things: help + restoration of self-knowledge, with recollection of the mission being recollection of something which will not merely save or help extricate the believer but will go beyond that + achieve something which will also help others (or the general historic situation) the letter, then, triggers off something more than the somewhat negative quality of extrication; this leads me to the Zoroastrian concept of us as warriors (of light). We did not fall here in any sense for either moral or intellectual reasons. We were sent here as "sleepers" until the moment for action came (exactly as in the "Acts of Thomas." Our mission is avatar like; it would be regarded by the tyrannical regime as an invading infiltration for sinister purposes It certainly couldn't be supposed that a large number of persons had been so programmed (missioned). Again, I think: my being this accounts fore the basic themes of my writing. They bear out the prior - to-3-74 existence of the material as being in my mind at a subliminal - latent - level. Viewing it all this way, I think now of The 3 eyed people + the healer whom I identified as Asklepios. Just for fun, let me imagine that they sent me. The supralunar, the band of fixed stars, above the planets - another star system + sentient race? Ah - if my intentions are representative of the mission of Christ + the desciples - haven't I through my retrieved knowledge relearned something which casts a new + hidden light on the nature + purpose of the savior (+ their mission? Although emanating "from the heavens" it seems to have a distinctly political purposes the overthrow of tyranny - a fight for freedom emanating from outside
+
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+```
+**Co-occurrences**: Christ, Acts, Christian, Thomas, Well, Dionysos, Like, Fall, Prison, Savior, Mind, Light, Could, Just, Something, Again, Being, Although, Self, Either, Fate, Grace, Their, More, Zeus, Another, Star, Through, Such, Certainly, Will, Would, Mission, Were, Back, Beyond, Have, Things, Memory, Freedom, Knowledge, Free, Until
+
+---
+### Line 6565-6573 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+62
+Needs Review
+62
+( that, as amore claims, the true Xtian church dates back to Egypt + to thoth, Ptath, Ma'at, is is + Osiris + Horus I don't doubt; it also dates back to Krishna, Vishnu + esp. Shiva - + to Dionysos. What must never be over‐ looked is that you don't join the "society"; you are selected by it, + act out its bidding long before you realize it. Bob Wilson is right in this respect: "by the time you realize you are one of the illuminati, it is too late to back (get) out." (This view is in line with the orthodox + Gnostic Xtian view that the salvific initiative originates with God or Christ, not man in fact in the Gospels, Christ specifically tells his litte band of disciples: "You did not choose me; I chose you" + he also says, "I will never fore sake you, Yea, I will be with you even unto the end."). I feel about Bob Wilson's work is that he has dealt too much with the lesser part: the age-old secret human group, influencing history over the centuries. where he makes a brilliant guess is to tie it all in with the kennedy (et al) assinations. This collates with my revelation. Were he sufficiently Gnostic (dualist - Zoroastrian) in inclination he would/could see what was disclosed to me: that the "illuminati + their celestial source face a dreadful foe here why holds primary worldly power, + whom the secret society is overthrowing; it not they, truly rule here, + is not secret: it is the total visible ensemble of coerce I've governmental power on this planet. Basically, the 0 I" are subversive, + are outsiders. secret society + to triumph they must seize power - take it from the incumbents.
+
+Last edit almost 3 years ago by svayambhu108
+63
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Gnostic, Dionysos, Time, Even, Gospel, Could, Shiva, Krishna, Part, Their, Church, Egypt, Secret, Before, Revelation, True, Will, Would, Were, Back, Wilson, Human, Ptath, Right
+
+---
+### Line 7350-7358 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+22
+Needs Review
+22
+in One might say it committed suicide when it killed Christ, for 1 Christ is the source or conduit of life (to individuals + kosmoi Had it (II) accepted him he could have revived or restored it (it must already have been infirm, having burst "from the egg" prematurely). It was the unhealthy twin. His mission, then was a mission of mercy: a healing mission, life-giving: eternal our universe as admixture of 2 dipolar worlds - that is a view I tried unsuccessfully to extract from Augustine's "city of God + s life city of the world" which separate at the end-times. I held that view, but Augustine didn't. Like land's radical new color theory our world is a "two source" world: one of which represents eternal life the other death; the admixture is short (finite) life (with illness + injury). Eros vs thanatos. Aphrodite vs Palmer Eldritch. Eigen etcunced I a mt or the hitheis I) ours s um s II i in some respects "Stigmata" + "time slip" + "pot healer" were more accurate + penetrating studies of II than was "Tears" "Ubik" studies Eros or Logos or I, espily Maze" is a mixture. its efforts to re invigorate + extricate II + those in II. It is as s if in "Ubik" I invades II - + in "Stigmata" II invades I. in "Maze" it is a Zoroastrian conflict. In "Eye" II invades I, + I in turn re-invades II. So, in summation, our world is neither evil (as the Gnostics believed, nor irreal as they believed). But it is also not YHWH's creation (as the Jews + Xtians believe); it is more like what Zoroaster believed (+ not what Mani believed). I is YHWH's world or soma; II Satan's. Gnostic fulminations against our world should be directed at hyperuniverse (or track) II. Jesus, in the Lord's prayer, specifically states that the Father's will, which is done in heaven (i.e. I) is not yet done on Earth (the admixture). It would seem that "blow + counterblow coming faster + faster do not allow us to assess whether I or II predominates here, but that at the end, I will absolutely triumph - by a vast invasion of II will all the hosts, whereupon the dead, the counterfeit will vanish. It is not really here in our composite world that the issue will be decided, but we will experience dis‐ ruptions, echoes, of the war in heaven between absolute good + absolute evil (I + II). Each of us must choose to become an instrument for one side or the other, inasmuch as control of our world is what the quaired concerns: it is our world which the contests rages over. In connection with this I reaffirm that whereas in the early sixties I saw Palmer Eldritch here, in the seventies I saw Zebra, the Logos, here. The tide turned.
+
+Last edit almost 3 years ago by svayambhu108
+23
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Zebra, Logos, Jesus, Gnostic, Satan, Maze, Lord, Father, Like, World, Time, Earth, Stigmata, Good, Could, Eldritch, Palmer, Augustine, Palmer Eldritch, Zoroaster, Those, Jews, More, Heaven, Death, Universe, Will, Would, Other, Mission, Creation, Were, Have, Mani, Life, Absolute, Neither, Aphrodite, Whether, Evil, Having, Dead, Whereas, Track
+
+---
+### Line 7963-7971 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+87
+Needs Review
+87
+90 I'll bet that a synthesis of colossians, Boehme system + Gnosticism can not only be achieved, But that a working totality (including the DNA memory coil + deranged circuit boral model) will account for most things What is especially valuable is this (derived perhaps inaccurately From Boehme): 1) God, the urgrund, the divine Father + abyse, suffers divine asony in the encounter with the material world, which he must overcome by sequentially trans‐ muting it. 2) We are isomorphic microcosms of him. 3) We feel revirberberations of his agony‐ but (in contrast to him, he being all-wise) we can't discern the source or cause or reason for our analagous pain. (Animals even less so. greater enlightenment (revelation) will not reduce the pain, + may even increase it; but the increase in understanding why will overweigh the increase in pain - + hence is a gain The "transmuting of the obstacle" fits in well with the Zoroastrian concept of the need for victory by the sons of light - also it fits such mystical sensa tioof purpose as I felt vis-a-vis the Xerox letter. (+ the general historic transmutation.) The thing is, I didn't just see ZeBRA; I was in another realm. Via the Spirit I had passed across -not to an after life - but to the uppertriad. Maybe that's where we go when our bodies die
+
+Last edit almost 3 years ago by svayambhu108
+88
+Needs Review
+```
+**Co-occurrences**: Spirit, Zebra, Xerox, Well, Gnosticism, Perhaps, Father, Maybe, World, Only, After, Urgrund, Light, Even, Jakob Boehme, Just, Realm, Being, Divine, Another, Most, Such, Revelation, Will, Things, Life, Memory, Wise, Greater, Sons
+
+---
+### Line 10087-10095 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+ratifies my schema in which despite its "evil" priorities, it serves the overall plan. There has to be a (yin) world for yang to regulate. (i.e. influence)
+
+cf Plato's "Timaeus" ananke as yin - noös as yang.
+
+We can redefine "salvation" as liberation from the deterministic programming of the yin world by the yang entity. Christ (in the gospels) expresses an antipathy toward the yin world which did not appear as a complimentary bipolarization but antipathetical. We now assume from this that at the yin-yang interaction there is antipathy, but that to the Godhead (Tao) which embraces them. Both - whatever the yang entity may feel toward his antagonist - the antagonism may be of a Zoroastrian nature. (v. Joseph Cambell + the "secret partnership behind the scenes, outside of time," etc) There is just no way that a creature embroiled in time could approve of the destructive machinery of the yin world (BIP). We are entitled, with Jesus, to oppose it wholly. It deals out our doom + destruction whereas the yang entity rescues us - + we are equally entitled to veneration + love that entity.
+
+The fact of the matter is that our only hope is extrication by the yang entity from the BIP, + we are supposed to be allied with Christ in maneuvering the BIP (back) into its proper servant status (yielding in all matters to the persuasion of yang). Nothing but total receptivity to the template of yang is envisioned. The ultimate triumph involves a total subordination of the yin world, a total subjugation: back in its proper place at last. The rebellion (which our Xtian religion teaches) overcome. That the yin world should enslave us is not a legitimate function of yin but an exceeding of its boundaries. Christ (yang) breaks this hold + restores the servant back to its proper status. He is our champion against this unjust encroachment on our freedom; we are enslaved + don't even know it. The top line of hex 2 pertains to the overall situation.
+
+Last edit about 5 years ago by sekennedy62
+```
+**Co-occurrences**: Christ, Christian, Jesus, Plato, Godhead, World, Only, Time, Even, Gospel, Yang, Could, Just, Both, Nothing, Timaeus, Secret, Love, Back, Whatever, Freedom, Evil, Joseph, Salvation, Whereas, Ananke
+
+---
+### Line 10248-10256 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+Last edit about 5 years ago by sekennedy62
+
+91
+So Forms I + II don't comprise one laminated universe of opposing signals. But a blind universe invaded. When this invasion began I have no idea. This fits no known religion but can be seen as something like eschotological religions like Xtianity + Zoroastrian. What we now have (+ may not have had before) is the juridically - rectifying power modulation everything it feels is out of balance. Who or what this entity (Zebra) is, if not God, I have no idea. It can be an object (item) (datum) of human experience (perception), + God is said not to be.
+
+I can speculate forever + draw models forever, but the fact is I don't know who or what it is, + how long it has been here. What I do know is 1) it is an invader, camouflaged, in our universe; + 2) it is benign, wise, powerful + juridically rectifying - v. the Watergate conspirators, etc. In terms of the "great assist" it would seem to have come, but not as anticipated literally - by the Xtian scripture. (But our universe is bad in contra distinction to [..]
+
+So my 3-74 revelations although related to Xtianity do not fit conventional historical Xtian models. I have 2 reasons to identify it with Xtianity:
+```
+**Co-occurrences**: Christian, Zebra, Christianity, Form, Like, Something, Although, Everything, Great, Before, Universe, Would, Have, Wise, Human
+
+---
+### Line 12237-12245 (Match: 'Zoroastrian')
+**Folder**: book was
+
+```text
+"Something warping + evil we don't know of has been defeated by a group secret to us, with the result (also unknown to us - hidden from us) that Christ has or will return. All 3 elements - the whole narrative - is occluded all from us." (page 52) (referring to the message in "Tears.")
+
++ Zebra (if it is an additional element) is also camouflaged - occluded off from us. What occludes us? What creates the negative hallucinations + the counterfeit world in place of what is really there? (i.e. the 3-element narrative supra.)
+
+The BIP? It is "Zebra" vs the "BIP." This is very Zoroastrian. + the fact that the true kerygma must be smuggled in encoded - buried - stegenographically. So that it took me over four years to extract it.
+
+PS1: "Why should the good news have to be encoded? It must not only differ from the ostensible message of "Tears" but from what we are told generally - i.e. the exoteric theological narrative of our civilization."
+
+No wonder K.W. thought of R.A. Lafferty's "What the name of that town?" viz"
+```
+**Co-occurrences**: Christ, Tears, Zebra, World, Only, Good, Something, Kerygma, Secret, True, Will, Page, Very, Have, Evil
+
+---
+### Line 12906-12914 (Match: 'Zoroastrian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+107
+Needs Review
+107
+66 So we are talking about a growing evolving process of form I (Noos) linear time, using ananke (form II) a stockpile. This process taking pla time, is totally invisible to us norm but I got to see it in progress. Perh i in 1974 noos gained a crucial ed + "Tears" proclaims this. God wants form II (the ananke world totally abolished (absorbed) by the my t growing sentient body, form I. To this I properly write about our world (format as irreal that is my job. It is being systematically dismantled. Zebra, the lin thinking dismantler, has come into it + assimilating it - but we can't distin Zebra as entity or realm. There is no way occluded eye can discern this. Thus the but form II powers are totally ignorant of what is being done (to them). This is Zoroastrian : light (yang) v darkness (immutable world of yin). it is almost as if organism I penetr The body of Form II + laid an egg there (here which "hatches" + now feeds on Form b as it (form I) grows. I, as a microcosm of this felt this impregnation - Firebring this depositing an eg Form II, on its own, is dying. Form I = life.
+
+Last edit almost 3 years ago by svayambhu108
+108
+Needs Review
+```
+**Co-occurrences**: Tears, Zebra, Form, World, Time, Noos, Light, Yang, Realm, Being, Darkness, Life, Body, Ananke
+
+---

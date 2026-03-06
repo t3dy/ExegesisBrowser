@@ -1,0 +1,363 @@
+# Evidence Packet: Saturday
+
+- **Category**: Top Term
+- **Total Mentions**: 30
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 19533-19541 (Match: 'Saturday')
+**Folder**: folder 06
+
+```text
+Indexed
+folder 06 - 053
+53
+
+Someone could say, "of what practical use is it, this mysticism?" To which I say (to myself): "I preprogrammed Valis to rescue me" (which is why I keep having the intuition that in 2-74 I arranged to disinhibit myself + produce anamnesis to lead to 3-74), "+ I can even better, now, volitionally pre-program my reality. It has immense pragmatic application" - as I realized on Friday + Saturday. There's a good reason why "the highest wisdom + enlightenment of mankind" - i.e. Tibetian Buddhism - is called just that. The R.C. brothers are right. 1) We were born in God. 2) Then, in the first century AD (Acts) we died in/as/with Christ - + have been dead since until 3) now, in our post-mortem Bardo Thodol state, the Holy Spirit at last restores us to life, but a new + different life: in the body of God + filled with his blood. + the pseudoworld falls away as a dimming memory, this is what happens to Felix Buchman in "Tears" - i.e. in Acts. The real meaning (secret) of the bright white light is that the cycle of rebirths ends, the Bardo Thodol trip ends, + you return to God: a different kind of birth entirely, + one I began in 2-3-74. In a sense I am there now, in the body + filled with the blood - I saw it in 3-74: God.
+
+Last edit over 5 years ago by Toso
+folder 06 - 054
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Tears, Acts, Toso, Indexed, Spirit, Holy, Holy Spirit, Felix, Wisdom, Since, Folder, Good, Light, Even, Could, Bardo, Just, Thodol, Bardo Thodol, Reality, Buddhism, Toso
+Folder, Anamnesis, Indexed
+Folder, Real, Secret, Friday, Were, Have, Life, Body, Memory, Having, Blood, Dead, Right, Someone, Until, White
+
+---
+### Line 25998-26006 (Match: 'Saturday')
+**Folder**: folder 48
+
+```text
+folder 48 - 186
+981
+
+that only constants were visible; reality was a veritable light show! Impinging at enormous velocity, as if faster than the retina could record it. Optic neurons were firing at ultimate excitement, thus stimulating the phosphenes. It was as if unbearable amounts -in the form of flashes- of lights were impinging on the retinas. + in fact the peril did arrive too soon: in March, not April, almost a month early. My intuitive apprehension was accurate. But I reacted to events before they occurred. In which case my inner tape had speeded up + carried me subjectively past the point of death into the post mortem world. Hence the sense of rushing down a tunnel. No, I did not react in advance: I reacted tardily. Specifically I reacted to the Xerox letter (which came on Wednesday) the following Saturday (the ad in "Psychology Today")! I did on Saturday what I was supposed to do on Wednesday. That was the reaction that scared me because of robot-like automism of it, the total lack of ideation. But it was a delayed reaction from the Xerox missive. That was why there was no ideation. I was belatedly answering the Xerox missive, + upon doing it, realized what I had just done, + phoned the police. There should have been a reflexive response to the Xerox missive on Wednesday, but "Thomas" intervened. Let me consider that I discovered that I had been engrammed on the pretty girl with fish teeth (i.e. fish) necklace over a period of
+
+Last edit almost 7 years ago by Toso
+folder 48 - 187
+Indexed
+```
+**Co-occurrences**: Toso, Thomas, Indexed, Xerox, Form, Fish, Like, World, Because, Only, Folder, Light, Could, Just, Reality, March, Missive, Girl, Xerox Missive, Toso
+Folder, Upon, Before, Consider, Death, Were, Have, Today
+
+---
+### Line 30874-30882 (Match: 'Saturday')
+**Folder**: folder 82
+
+```text
+Indexed
+folder 82 - 065
+-14- 3-3-80
+
+know is how it was done. There seems to be --and to have always been-- another mind in my head, and it moves retrograde in time; this would be "Thomas" and this would be the AI voice, and this would explain the material in my writing of the Sixties and TEARS. Now that I have explained Valis it would seem I could drop the theological interpretation, which is really dependent on my view of Valis and my inability to understand that view, that perception; it is now simply, very simply, explicated, and with no need of theology. It started out on Saturday night when I said, "I saw time run backward." This led me to the theory of a paranormal talent that disrupted time, and this one explanation covered virtually everything, as I soon realized (coupled with the realization that I am chronically a precog, and that this precognition peaked into something qualitatively different --and conscious-- under the stress of 3-74). Finally, today, I realized that the pretextual cause that is not cause that I term Valis readily can be accounted for when time is seen to run backward: under those circumstances there is the semblance of purpose and the absence of causality, since when cause and effect occur in reverse there is no cause and effect, just pattern of movement. When Valis goes as a theological or religious constituent, theology itself goes, because Valis is the heart of it. What the real issue is, here, is information that can only be gained if you can subjectively cause time hence cause and effect to run backward, because then you have in your possession now information that you need that through normal channels you can only obtain later, which is to say, too late to be of any use. So this all is a matter of survival and a faculty to promote that survival. This has to do with biological adaptation to stress, not
+
+Last edit over 5 years ago by Toso
+
+folder 82 - 066
+```
+**Co-occurrences**: Valis, Tears, Toso, Thomas, Indexed, Since, Because, Only, Time, Folder, Mind, Could, Just, Something, Everything, Indexed
+Folder, Those, Another, Through, Real, Voice, Finally, Would, Very, Under, Have, Information, Later, Today
+
+---
+### Line 30942-30950 (Match: 'Saturday')
+**Folder**: part of
+
+```text
+Indexed
+folder 82 - 074
+-23- 3-3-80
+
+Maybe it's never happened before. Or maybe it's happened before but the person could never figure out what the hell he experienced; good god, it's taken me six years, and I merely just happened to state the case, Saturday night, in conversation - and heard what I had said! Heard myself say it, and realized, "That's it." Well, VALIS will get published, here and in the UK and in France, and someday maybe I can explain what I've figured out starting last Saturday night (today is Monday). Certainly it's not made clear in VALIS, because I simply didn't know. Now I do. I'm a precog, and, what is more, I know why. But I don't know how; I mean, how do I get time to run backward? It probably always runs backward for a portion of my mind. "Thomas" is always with me. It is so absolutely logical that if a precog had his unconscious talent flood into consciousness he would find that that part of him experienced time running backward. I know I am right. And the flooding into consciousness of this ability was so that it could act; it seized speech and motor centers purposefully, as a fulfillment of its regular foreknowing functioning. The talent became the person; it swept the person away as if it, the talent, were itself a person, another person in my head; hence I call it "Thomas." It had its own idiosyncracies -- like beer instead of wine. What a vast mystery, and how thrilling. And what a strange world it or he inhabits; how differently he sees/experiences reality! What a privilege for me, to be overwhelmed by this talent and to see the world as it does. But how strange...
+
+Last edit about 9 years ago by Toso
+folder 82 - 075
+Complete
+```
+**Co-occurrences**: Valis, Toso, Thomas, Indexed, Complete, Well, Maybe, Like, World, Because, Time, Folder, Good, Mind, Could, Does, Just, Reality, Toso
+Folder, Probably, Indexed
+Folder, Part, More, Another, Certainly, Before, Will, Would, Were, Instead, Today, Right
+
+---
+### Line 31375-31383 (Match: 'Saturday')
+**Folder**: part of
+
+```text
+Indexed
+folder 82 - 129
+-1- 4-9-80
+
+Interlinking and phylogons are one and the same. The ontogon is not interlinked with anything. Thus kosmos and phylogons are one and the same. Thus the thematic interlinking that FIDDLER created Saturday night was a creating of phylogons out of ontogons (and a phylogonization of my life per se). FIDDLER wove 13 themes of my life into the permanent structure of the phylogons -- i.e. kosmos. Thus there are no isolated phylogons and no interlinked ontogons. What makes the phylogons eternal is this interlinking into the structure (kosmos) since the structure is permanent. This is the assimilation and incorporation of parts out of the stockpile that I saw Valis doing -- creating phylogons and adding accretional layers to them in linear time. valis sees how the ontogons can be fitted into the permanent structure, thus converting them into phylogons. There is no way a phylogon can be conceived apart from its structural involvement in the ediface as a whole. The ediface is permanent, and although it is here we can't discern it because it is not involved with time as we are; time is a spacial axis for it. Could "rest-motion" equal ontogon-phylogon conversion? This is the "plantation" view of reality; constituents are raised as on a plantation and then, when they are ripe, incorporated into the permanent structure as phylogons. Of course, the question I'm wondering about is, Did 3-74 represent my conversion from an ontogon into a phylogon? You would be incorporated at your ontological peak (this has nothing to do with physical age, but it might have to do --in my case-- with my work. My work is the permanent part of me; perhaps when I brought TEARS out I was thereupon incorporated into the permanent structure; this explains the cypher (plasmate) in TEARS -- the phylogon on it. It
+
+Last edit over 5 years ago by Toso
+folder 82 - 130
+Indexed
+```
+**Co-occurrences**: Valis, Tears, Toso, Indexed, Perhaps, Since, Because, Time, Folder, Could, Reality, Kosmos, Although, Toso
+Folder, Indexed
+Folder, Nothing, Part, Would, Have, Life
+
+---
+### Line 31383-31391 (Match: 'Saturday')
+**Folder**: folder 82
+
+```text
+Indexed
+folder 82 - 130
+-2- 4-9-80
+
+could mark the completion of my ten-volume meta-novel. It is one unitary thing that I brought, at last, to completion, whereupon it was whipped from its rest mode to its active mode and inserted into its proper place in the structure, forever. Thesis of VALIS REGAINED: The primary role of God is to provide ontology to world (and to self). I think I see now how this is done: through the inner tape (self) and outer tape (world) meshing. Further, by this mechanism the integration of all the main themes in a person's life can be achieved (they can be woven into a tapestry) (As was done for me last Saturday night with FIDDLER) (Whereupon all these themes --hence the person's total life, and not just that moment-- is rendered real! A retroactive ontology is conferred on the corpus of vast themes of his entire, existence, hence existential being is equated as congruent with his experience of world as such!!!) Then this knitting together is an ontologizing of his life-in-the-world and it can be achieved retroactively, as the pattern (1) emerges; (2) is completed (3) given ontology. Therefore ontology equals coherency (pattern, which is to say meaning! Rather than solidity in the material sense.) Pattern equals meaning equals ontology; this is what confers ontology. Bedeutung ist Sein. And Bedeutug in turn derives from the coming into being of coherent pattern, which is to say Kosmos. Thus FIDDLER turned 13 ontogons constituting my life into a network of phylogons by interlinking them; my life was made real because thematically it was made coherent. Each strand had a role to play vis-a-vis the other strands; they formed a unitary entity, and
+
+Last edit about 9 years ago by Toso
+
+folder 82 - 131
+```
+**Co-occurrences**: Valis, Toso, Indexed, These, World, Because, Therefore, Folder, Could, Just, Kosmos, Being, Self, Corpus, Indexed
+Folder, Through, Sein, Real, Such, Other, Further, Life
+
+---
+### Line 31390-31398 (Match: 'Saturday')
+**Folder**: folder 82
+
+```text
+folder 82 - 131
+-3- 4-9-80
+
+this unitary entity linterlinks with the overall kosmos; there is only one kosmos, not many. The idea that God promotes "good" may be meaningless because "good" is not defined; but to say that God promotes being may be a meaningful sentence, especially if "being" (ontology) is defined; my definition is, A coherent interlinking of many things, possibly all things; an overall pattern; a thematic tapestry. This is why I felt Valis to be present last Saturday night, because at that moment the ontogons of my life were suddenly made into interlinked phylogons; so of course I felt Valis to be present! This is a definition of Valis' role vis-a-vis the universe and the lives in it. So I believe I was not mistaken; I felt the overpowering presence of ontology in the world binding on me, and now I understand why. Everything hinges on whether when you see this you feel it simply happened, or was, rather, caused to happen. I believe --perhaps know-- it is caused to happen (e.g. last Saturday night) because of what I saw in 3-74. This was a card played by the Deity against the dark counter-player; this is negentropy versus entropy, form versus the form-destroyer. The form-destroyer can never see how the Deity is going to give form to the given person's life; in my case who would have thought that FIDDLER would do it, by my seeing it that particular night? This is Deity's paradigmatic victory. But, more, this sudden moment of ontologization governs the person into performing certain sacrament-like acts, done in rigidly determined (programmed) ways to achieve clearly defined ends. Thus a ritual is enacted that is solemn and significant, at such crucial times. The total history of the person forces him to act in
+
+Last edit about 9 years ago by Toso
+folder 82 - 132
+Indexed
+```
+**Co-occurrences**: Valis, Acts, Toso, Indexed, Form, Perhaps, Like, World, Because, Only, Folder, Good, Kosmos, Being, Everything, Toso
+Folder, More, Such, Universe, Deity, Would, Were, Many, Have, Clearly, Things, Life, Dark, Whether, Suddenly
+
+---
+### Line 31406-31414 (Match: 'Saturday')
+**Folder**: folder 82
+
+```text
+Indexed
+folder 82 - 133
+-1- 4-11-80
+
+"A principle of organization" is a functional definition of God (cf Whitehead's "A principle of selection that realizes the good in the world process." My definition is better -- more objective and meaningful -- and based on experience). It is not a principle but the principle (since it is everywhere). Especially (this proves it) it is total structure "with everything fitted perfectly into place." Kosmos per se. The card that Valis finally plays is inserting a piece at the right time and place that locks everything into total structure (as with FIDDLER on Saturday night). This lock leaves no latitude or play; the structure becomes real. Here is a titanically important point: until Valis plays the card that creates total structure, no one can see how structure (organization) can be achieved or even that it can be achieved; all that is seen are unrelated threads, which is to say chaos. This is what I saw as stockpile. Valis fits them into the soma at the right places and times (kosmos). Stockpile equals chaos. Soma equals kosmos. Anything short of kosmos is chaos -- if one piece is missing you still have chaos (stockpile). There is no such thing as partial kosmos. I actually saw Valis doing this. It is not the M.O. of Valis, its operating principle, but its purpose. Its goal. It is its end, not means. This is not a theory I have about Valis; it was revealed to me six years ago, but only now do I understand what I saw (the plundering of the stockpile to form the soma), now, as a result of FIDDLER when, for me my chaotic life was turned into kosmos. Thus the synchronization of plural parts --which has been the hallmark of my 3-74 revelation (hence displaying the attribute of a
+
+Last edit about 9 years ago by Toso
+folder 82 - 134
+Complete
+```
+**Co-occurrences**: Valis, Toso, Indexed, Complete, Form, World, Since, Only, Time, Folder, Good, Even, Kosmos, Everything, Toso
+Folder, Indexed
+Folder, Still, More, Real, Such, Actually, Revelation, Whitehead, Finally, Have, Life, Right, Until
+
+---
+### Line 41882-41890 (Match: 'Saturday')
+**Folder**: part whose
+
+```text
+Last edit almost 3 years ago by svayambhu108
+245
+Needs Review
+245
+331 causation - efficient causation. So it must have been final causation. I.e. (1) from the future (possibly) + (2) purposeful (yes, by the definition of final causation). i last Saturday night I had a vision of how reality is constructed - a very mystical vision. Each discrete object is connected through an ultra-dimension (sort of linkage] axis which we can't see to one unitary thing which we also can't see Thus object A is not directly connected to object B or Cord, etc., but all are mutually linked through this third thing, which is unitary + ubiquitous; + the resulting diagram is as follows object a (object B). Look familiar? yes it does. + icommon essence This is how what "Third thing" we see as plurality + multiplicity is in fact a unity; a third thing must be posited for every twoobjects which, if it is not seen, leads to a misperception of multiplicity, the plural discrete. This third thing is not itself an object + not iden tical to the multiplicity of objects pro‐ jecting from it (we can see them). This is what gives rise to the conviction/intuition) quasi-perception that causation is irreal that is, object a does not really hit object B + somehow transfer kinetic force to it. what in fact really happens is also not pre‐ set synchronized clocks harmony
+
+Last edit almost 3 years ago by svayambhu108
+
+246
+```
+**Co-occurrences**: Does, Look, Diagram, Reality, Through, Somehow, Very, Have, Final
+
+---
+### Line 44549-44557 (Match: 'Saturday')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+112
+Needs Review
+112
+C-196 the tragic is the old way + the Gnostic manichaean (the heroic) the new way: victory replaces defeat. Here history divides into two ages, the age of iron (tragedy) + the age of Gold (the heroic). but, you see, the heroic is so paradoxical + shrewd that it seems to be defeat (the passion, the lamb, the vicarious atonement, the sacrifice - the bait seized on by the "demons" - i.e. the ancient ruling powers, in their greed "Valis" is both the story of that victory (a Gospel of Manichaean Gnosticism) + that victory itself; it is what it describes (which I realized Saturday night after I wrote Sandra). (Upon making my decision.) (In which I chose the heroic path over the tragic path: to seek victory rather than capitulat (to fite]).
+
+Last edit almost 3 years ago by svayambhu108
+113
+Needs Review
+```
+**Co-occurrences**: Valis, Gnostic, Gnosticism, Iron, After, Gospel, Both, Their, Gold, Upon, Sandra, Lamb
+
+---
+### Line 45495-45503 (Match: 'Saturday')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 117
+Needs Review
+folder 55 - 117
+D-104 understanding of the Apollonian way (no This is incorrect; I had begun to exhibit distinct Apollonian qualities in my life in terms of stability, prudence, foresight, moderation, etc). The strangest thought just came to me. In the completed Bibliography that arrived on Saturday the statement is made that God's nature is split (sundered) into its Apollonian (Emmanuel) + Dionysian (zing Pallas) mirror I opposite halves - which I had never even remotely thought of, but, upon reading this, realized was so. This insight may have caused me to view, first, God in terms of these two bit polarities comprising when unified wholeness - + then, by analogy, my own nature likewise; that is, may well have seen the application to my own I self (the terms are very meaningful to me + have been for decades). For one thing I fear Nietzsche's fate: terminal psychosis after years of brilliance, this terminal psychosis being specifically enthersiasmos by Dionysus (or the psychological archetype there of) himself. ofter I have speculated that this has in fact already happened to me (was this not the original theme of "BTA"?). My anxiety (which surfaced crucially last thursday in Balboa) + which became (to be honest about it) psychotic anxiety sunday night - the worst anxiety I have ever known or even known of - may have been a lucid, valid I + absolute preminition that the fate feared - Nietzsche's fate! - had caught up with me, as with Marlowe's Faust when Faust is dragged down to hell in
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 118
+Needs Review
+```
+**Co-occurrences**: Well, These, After, Folder, Even, Just, Being, Self, Himself, Fate, Dionysus, Upon, Very, Have, Life, Absolute, Likewise
+
+---
+### Line 47119-47127 (Match: 'Saturday')
+**Folder**: book i
+
+```text
+Last edit almost 3 years ago by svayambhu108
+23
+Needs Review
+23
+E-23 objects (world) directly but only as representations (which for Malebranche are based on the pre-existent archetypal intelligible ideas in the mind of God used as the basis of creation); but that we know two things immediately: (1) our mind itself + (2) God (I have been saying Christ but the reasoning is the same for both Malebranche + for me) my Spinozan attribute of infinite (which I realized last Saturday night) be the intelligible pre-existent would archetypal ideas in the mind of God s quite obviously. This does not surprase me; then are many common elements in Also, exactly as Spinoza + Malebranche. I do, Malebranche homologizes God + infinity, a critical point. He corrects my solipsism, my notion that the human mind auto-generater all its own ideas; he shows why that is inplausible (but it is also not plausible that we actually experience objects, i.e. world). His arguments strike me as invincible. I yield So here (joyfully) I am back once more with Malebranche + the occasionalists! 2-3-74 can readily be understood in terms of Malebranche's "we see all things in God." We know God immediately (as infinity), world as representations based on the pre-existent archetypal ideas in God's mind, + occasionalism, in short a Cartesian pantheism, a theocentric system: we know only our own mind/self + God
+
+Last edit almost 3 years ago by svayambhu108
+24
+Needs Review
+```
+**Co-occurrences**: Christ, Spinoza, World, Malebranche, Only, Mind, Does, Once, Both, Obviously, Self, Cartesian, More, Actually, Would, Creation, Back, Many, Have, Things, Human
+
+---
+### Line 47125-47133 (Match: 'Saturday')
+**Folder**: book i
+
+```text
+Last edit almost 3 years ago by svayambhu108
+24
+Needs Review
+24
+E-24 what for me finally clinches it is my realization / perception/conception of last Saturday night of the "attribute" (to use Spinoza's term) of infinity; this is -as I have said - not physical or spatial infinity (extension) but rather an infinity of what is best called meaning or significance. Apparently I glimpsed the pre-existent ideas in God's mind as such: as what they - which normally appear to us as extended particulars/objects - really are. This is the final + essential piece needed that has of the picture that I eluded me in terms of actual experience, although I knew it in theory from reading about Malebranche. What I saw when I saw Valis was a cooperation between + among abjects rather than a transfer of force from one to the next: each operating on - affecting - the next. This is Malebranche's occasionalism. God as info. The basic energy (i.e. the topic anti-entropic) of the universe. of "Ubik." + later I saw it - "Valis." negentropy + into homologized; entropy This is what I + loss of info likewie. first understood in "Ubik" + later 2-3-74 experienced: the plasmate as negentropy per se in its true form. This is what is meant by saying "the Logos is living info"; that it is negentropy perse a new religious idea. Found first in "Ubik" info that concerns itself: it is what it describes t
+
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+```
+**Co-occurrences**: Valis, Ubik, Logos, Form, Spinoza, Malebranche, Mind, Although, Living, Such, True, Universe, Finally, Have, Apparently, Info, Later, Final
+
+---
+### Line 47882-47890 (Match: 'Saturday')
+**Folder**: folder 53
+
+```text
+here not from another star system in our universe. Thus they stimulate our brains to see holograms. This is what UFOs are. In my vision (dream) they appeared as ape-like to suggest "2001." & "Frau sing für unsere Freunde" points to "Close Encounters". The Holy: yes it is Christ (i.e. Valis) but yes it is another species dysmorphic to us in another [5D] realm, right here. They intrude onto/into our 4D realm as theophanies & hierophanies. They know of the existence of sound scientifically, but can't hear it & didn't evolve organs to detect it, but they know we did. Their vision is perfect: ours is dim. Here is the dysmorphism experience. Mary solved it. Color as language: where we use sound, they use colors: the common ingredient being fixed incremental ratios i.e. frequencies.
+
+Sketch: Math => Sound (Music): Our species & 4D Realm Pythagoras Color (light): Their species & 5D realm, some analog
+
+Here is what "Primum Mobile" was supposed to convey: equation between other species ("from the fixed stars" as in "Close Encounters") & God (via Dante to Aristotle;): this goes back to the fish-stelle revelation or rather fish-stelli: i.e. fish star. Christ-ETI. But I need write: it's all in "Valis" - Christ as an ETI from the stars, interspecies symbiosis, etc. They taught me well, but what I saw (3-74) was artificially induced holograms to & for a species/creature (myself) who is from their stand point nearly blind. Their proof to me last Saturday: concepts along axes (e.g. color) that my species does not use. Both our species have the math in
+
+Last edit over 5 years ago by Toso
+folder 53 - 073
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Toso, Indexed, Holy, Fish, Well, Like, Folder, Pythagoras, Light, Does, Realm, Both, Being, Dante, Toso
+Folder, Aristotle, Their, Another, Star, Revelation, Universe, Other, Back, Have, Dream, Right, Mary
+
+---
+### Line 47890-47898 (Match: 'Saturday')
+**Folder**: folder 53
+
+```text
+Indexed
+folder 53 - 073
+G-7
+
+common, but they go math-color; whereas we go math-music. I am not speculating. I am problem-solving,trying to understand. Sat nite was real. I see: they solved the "substantia" problem on a math-color (light frequency ratio) basis + we solved it on a math-music (sound frequency ratio) basis. "Valis" is sufficiently true. What I did was correctly homologize God/religion/theophany with ETIs, with another, sentient species + technology. Although in "Valis" I have no 4D-5D understanding, "Valis" is enough: I can rest, now. I did it - as I realized when I reread it recently. As with "Tears" I did my job. It is another, higher species; it is a "they" - but simultaneously it is God + Christ + religion, as my "Ape" dream revealed. "Valis" is literally not metaphysically true. For them, it is not "the music of the spheres" but "the colors of the spheres." Look: this is real. (1) I have been contacted + given information. (2) I wrote it up, all up, + correctly, in "Valis" 10-4. In 3-74 due to phosphene stimulation I saw them (Christ/Valis) + their world as it intersects our own. The medieval Xtians in touch with God were in touch with them; hence the illuminated mss. Hence Dante's vision of God the trinity as colors. There is too close a resemblance between these disclosures + the music-pitch/color use at the end of "Close Encounters" to be coincidence. It's real. We have linked up - I personally did for 90 seconds last Saturday night.
+
+Last edit over 5 years ago by Toso
+folder 53 - 074
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Tears, Christian, Toso, Indexed, These, World, Folder, Light, Look, Although, Dante, Toso
+Folder, Indexed
+Folder, Their, Another, Real, True, Were, Have, Information, Trinity, Dream, Whereas
+
+---
+### Line 47941-47949 (Match: 'Saturday')
+**Folder**: folder 53
+
+```text
+Indexed
+folder 53 - 079
+G-13
+
+(A) scale & overthrow God? Then Beethoven is the most revolutionary living creature ever born in our world & in fact may represent another world & species entirely. Literally: the illusion of a different universe - & yet one predicated on Pythagoras' equation of music with "substantia" (einai): structure, which is to say, math, number, proportion, harmony & ratio. The issue here is so radical that it has never before been discerned; if I seek the ultimate context, this is it, even beyond noesis, perhaps. What I am saying is that (as Schopenhauer was the first to point out) music is the highest art, for it is the most abstract; & yet this fits with Pythagoras' equation of number - einai-music! But last Saturday night I realized that Pythagoras' equation was the inbreaking into our world (4D realm) of another & higher (ie 5D) realm; therefore the priority of music over light (hearing over vision) is from - & represents - a higher realm: one whole dimension higher. That is, music is beyond the 4D realm, but light is the elimination of the value-system of the 4D realm; yet, paradoxically, light exists in the 5D realm as the supernatural & transcendent "upper realm" for us of the 4D realm; yet those who live naturally in the 5D realm, for whom light is natural, possess a better, superior perspective & comprehend that what we have here naturally in the 4D realm - music - is superior to what they have, eg color & light. To repeat, our 4D realm is Purgatorio & deals with sound, hence music, & is superior to the 5D realm which deals with light, color & God. They know & see what we do not, for they are wiser. Thus I can know a truth beyond Dante! & Ikhnaton! Is there a hint here of Orpheus & his lyre? Is the golden rectangle best expressed by music; rather than the Parthenon? This is not even esoteric wisdom - it transcends our species & even our very God.
+
+Last edit over 5 years ago by Toso
+folder 53 - 080
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Golden, Wisdom, Perhaps, World, Therefore, Folder, Pythagoras, Light, Even, Realm, Dante, Toso
+Folder, Indexed
+Folder, Beethoven, Those, Another, Most, Living, Purgatorio, Before, Universe, Very, Schopenhauer, Beyond, Have, Upper, Truth
+
+---
+### Line 47953-47961 (Match: 'Saturday')
+**Folder**: folder 53
+
+```text
+If we overthrow the ascending trinary realms of Dante we overthrow our own species + world, perhaps even universe; thus the other (5D) universe appears to us to be superior to ours. But from their 5D standpoint ours is superior - + they know more than we. We are more limited, but in our atmospheric world, limited as we are, we have found something superior to God + heaven itself! Those in heaven look with envy on us.
+
+There is an assumption too so fundamental that only Pythagoras + Schopenhauer + Beethoven questioned it: the primacy of vision over hearing. Why, this even overthrows Plato's noesis, the Forms themselves (which are color)
+
+The wisdom of heaven, once attained, points back down the ladder to Purgatorio. "The Garden of Earthly Delight: Mathilde singing." This is revolution beyond conception: it cannot even be thought! There is something superior to the King of Light(s) + it is the lyre. What I saw on 2-3-74 to 2-75 is the 5D world, Paradiso, God = but Purgatorio is superior + the 5D world knows it, as if the icon (copy) is superior to the model (Form, archetype), which is impossible. From the standpoint of our species this cannot be thought. At the very instant that "they" broke in last Sat. night with their "math-color" world I then saw how they see us; I saw from their viewpoint, + to them, we are the God, + they are apes! Yet we view it the other way around. On Saturday I as a 4D human saw them + their world. But this morning I saw us as they see us. As if Paradiso is only penultimate. But to know this you must transcende our species. + this is why the soul (in Ted Sturgeon's schema) "descends" into incarnation in this, our world: Purgatorio. Our world is superior because here there is atmosphere, hence music. This is the motion for the voluntary fall, + it is quintessential wisdom.
+
+Last edit 8 months ago by Zebrapedia
+
+folder 53 - 081
+```
+**Co-occurrences**: Form, Plato, King, Wisdom, Perhaps, World, Fall, Because, Only, Folder, Garden, Pythagoras, Light, Even, Zebrapedia, Something, Look, Once, Dante, Beethoven, Those, Their, More, Soul, Heaven, Purgatorio, Universe, Paradiso, Other, Very, Schopenhauer, Back, Beyond, Have, Sturgeon, Human
+
+---
+### Line 47960-47968 (Match: 'Saturday')
+**Folder**: folder 53
+
+```text
+folder 53 - 081
+G-15
+
+Now I think both views are equally correct: ours of them (ie of Dante's Paradiso) + their view of us (Music, Mathilde). It is very evident what has happened: last Saturday night for the first time I entered 2-way dialog with them. I saw their color world, which is our Paradiso, the King (God) + kingdom of light (heaven), but for quite natural reasons as a spin off because of this genuine fusion of my mind, a human mind, with their mind (an extraordinary event) I then presently saw us as they see us. First I as a human saw them: then I as if one of them saw us. They are God, to us: we are God to them.
+
+What this proves is that this was indeed an interspecies inter-world contact. From a purely objective, neutral standpoing. Both (A) + (B) are equal: [Diagram:] Math / \ Music Color Us Them
+
+This morning was a sort of backlash of last Saturday night. They venerate us/ yearn for us: we venerate them + yearn for them. It is as if when we die + go to our just reward we go there; + when they die + go to their just reward they come here, as willingly + voluntarily + eagerly as we go there. It turns out to be all relative, then, color vs music. + the profundity of my insight is evident + the Manichaean, Zoroastrian, 4th Gospel light element is scrutinized; this is the core of our species' spirituality; but theirs reverses it. So to them, to go to their light world is a fall! A sort of Einstein spiritual relativism! But you would have to cross species lines to keep this. If instead of a triune division, you utilize only a lower-order binary division, our lower realm is their upper; + our upper is their realm - to them it is the lower. Earth is the afterlife reward of the other, so an eternal dynamic transfer continues as we seek "liberation" from this realm to go there. + they to go here. Thus
+```
+**Co-occurrences**: Kingdom, King, World, Fall, Because, Only, Time, Earth, Folder, Mind, Light, Gospel, Just, Realm, Both, Diagram, Dante, Zoroastrian, Their, Heaven, Paradiso, Would, Other, Very, Have, Instead, Cross, Upper, Human, Lower
+
+---
+### Line 47964-47972 (Match: 'Saturday')
+**Folder**: folder 53
+
+```text
+Now I think both views are equally correct: ours of them (ie of Dante's Paradiso) + their view of us (Music, Mathilde). It is very evident what has happened: last Saturday night for the first time I entered 2-way dialog with them. I saw their color world, which is our Paradiso, the King (God) + kingdom of light (heaven), but for quite natural reasons as a spin off because of this genuine fusion of my mind, a human mind, with their mind (an extraordinary event) I then presently saw us as they see us. First I as a human saw them: then I as if one of them saw us. They are God, to us: we are God to them.
+
+What this proves is that this was indeed an interspecies inter-world contact. From a purely objective, neutral standpoing. Both (A) + (B) are equal: [Diagram:] Math / \ Music Color Us Them
+
+This morning was a sort of backlash of last Saturday night. They venerate us/ yearn for us: we venerate them + yearn for them. It is as if when we die + go to our just reward we go there; + when they die + go to their just reward they come here, as willingly + voluntarily + eagerly as we go there. It turns out to be all relative, then, color vs music. + the profundity of my insight is evident + the Manichaean, Zoroastrian, 4th Gospel light element is scrutinized; this is the core of our species' spirituality; but theirs reverses it. So to them, to go to their light world is a fall! A sort of Einstein spiritual relativism! But you would have to cross species lines to keep this. If instead of a triune division, you utilize only a lower-order binary division, our lower realm is their upper; + our upper is their realm - to them it is the lower. Earth is the afterlife reward of the other, so an eternal dynamic transfer continues as we seek "liberation" from this realm to go there. + they to go here. Thus
+
+Last edit almost 5 years ago by Gabriel Mckee
+folder 53 - 082
+Indexed
+```
+**Co-occurrences**: Indexed, Kingdom, King, World, Fall, Because, Only, Time, Earth, Gabriel, Folder, Mckee, Gabriel Mckee, Mind, Light, Gospel, Just, Realm, Both, Diagram, Dante, Zoroastrian, Their, Heaven, Paradiso, Would, Other, Very, Have, Instead, Cross, Upper, Human, Lower
+
+---
+### Line 48256-48264 (Match: 'Saturday')
+**Folder**: folder 53
+
+```text
+Complete
+folder 53 - 103
+H-16
+
+When I heard Jeannie as the AI voice it was narrating a different narrative -hence world- than ours, but upon my hearing it, I was thereupon in that world. Thus world absolutely compels our assent because the narrative is an absolute basis; there is no other. Is this connected with what I call "endless horizontal tracking?" Only the aspects (accidents) change; the matrix remains constant. "He causes things to look different so it'd appear time has passed"; one narrative + then the next. But essentially the one matrix remains as a constant; time, then, is illusory, + the vertical "pulley" axis reveals this. What I realized that Saturday night is that e.g. London 1715 "is" our world in terms of matrix-essence; a slight shift + Calif 1982 becomes (or is experienced as) London 1715. This is precisely why we fail to grasp that we track horizontally forever; limited by + to horizontal vision. It does not seem to repeat itself; upon the entry of the vertical or "pulley" axis all the trackings can be seen as one tracking repeated, with only the accidents changed. To comprehend the significance of this you must turn to pan-Indian thought: the "grand illusion," "the weary wheel," +, most of all, Karma.
+
+Last edit over 5 years ago by Toso
+folder 53 - 104
+Complete
+```
+**Co-occurrences**: Toso, Complete, World, Because, Only, Time, Folder, Karma, Does, Look, Toso
+Folder, Indian, Most, Voice, Upon, Calif, Other, Things, Absolute, London, Track
+
+---

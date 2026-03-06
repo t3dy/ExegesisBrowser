@@ -1,0 +1,347 @@
+# Evidence Packet: Having
+
+- **Category**: Top Term
+- **Total Mentions**: 28
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 80-88 (Match: 'Having')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by A23
+5
+Complete
+5
+karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done in response to decissions or considerations or needs or directive or to accord with a higher morality which make it binding on one to take life. Therefore I saw the role that death had in the universe: a necessary one (clay pots have to be deliberately thrown back as long as they remain unsatisfactory, and the that rat, honey, was he unsatisfactory.) It showed me that death could not be avoided. But -- I still grieved and I still prayed. Rog Phillips story had a lot to do with my empathy; I had read the story a bit earlier, as I recall. And got the autograph later. The rat came inbetween. This was my baptism into reality, my having to kill this huge gutter-water rat which had gotten into the house and was hiding back in the girls' rooms. As their father I knew what to do. I guess our father (God) knoww what to do, too, when he judges, and now we come to Judgment Day and why it must be so. Exactly as I had to judge and condemn and execute that rat, so must God do this -- judge us all and spare some (accept them) and execute others; he would like to save them all, but the necessity of the structure precludes it.
+
+If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
+
+I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
+```
+**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Instead, Later, Except, During
+
+---
+### Line 84-92 (Match: 'Having')
+**Folder**: part of
+
+```text
+karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done in response to decissions or considerations or needs or directive or to accord with a higher morality which make it binding on one to take life. Therefore I saw the role that death had in the universe: a necessary one (clay pots have to be deliberately thrown back as long as they remain unsatisfactory, and the that rat, honey, was he unsatisfactory.) It showed me that death could not be avoided. But -- I still grieved and I still prayed. Rog Phillips story had a lot to do with my empathy; I had read the story a bit earlier, as I recall. And got the autograph later. The rat came inbetween. This was my baptism into reality, my having to kill this huge gutter-water rat which had gotten into the house and was hiding back in the girls' rooms. As their father I knew what to do. I guess our father (God) knoww what to do, too, when he judges, and now we come to Judgment Day and why it must be so. Exactly as I had to judge and condemn and execute that rat, so must God do this -- judge us all and spare some (accept them) and execute others; he would like to save them all, but the necessity of the structure precludes it.
+
+If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
+
+I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
+
+I think that in 1974 my entelechy was completed, but I never heard of anyone having his entelechy completed (watch it, Claudia), be-cause this means that the time has ended, not by God intervening, but because the last frames ran through the film ended naturally. Well, see, here is your clue: when the last frames of my film (entelechy) passed faster and faster through the projector, I wasn't perfect; I'm still full of alll
+
+Last edit over 5 years ago by FolkDevil
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Except, During
+
+---
+### Line 86-94 (Match: 'Having')
+**Folder**: part of
+
+```text
+If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
+
+I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
+
+I think that in 1974 my entelechy was completed, but I never heard of anyone having his entelechy completed (watch it, Claudia), be-cause this means that the time has ended, not by God intervening, but because the last frames ran through the film ended naturally. Well, see, here is your clue: when the last frames of my film (entelechy) passed faster and faster through the projector, I wasn't perfect; I'm still full of alll
+
+Last edit over 5 years ago by FolkDevil
+
+6
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Maybe, Because, Only, Time, Something, Again, Empedocles, Self, Divine, Philip, House, Without, Still, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Have, Things, Judgment, Claudia, Instead, Except, During
+
+---
+### Line 143-151 (Match: 'Having')
+**Folder**: book the
+
+```text
+Last edit over 5 years ago by Zebrapedia
+9
+Indexed
+9
+It’s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the vestment of my saint statue – that was like it: the bursting forth into life of Spring, in the midst of stark winter. Now, this is obviously a mescaline type of experience. We know that. And I was loaded. And yet, perhaps Ms. Fisher who wrote THE RED FEATHER based that episode on something she experienced once, and in those days no one in the U.S. took mescaline; no one got loaded. The reproach, “Phil, you experienced that because you wanted to; i.e. the swirling vines of new life” is no better an argument than, “You experienced selling UBIK to Doubleday because you wanted to.” Also, “You experienced it because you read about something like that years ago in a child’s book” – of what real meaning is this argument, since we don’t know how the passage got into Ms. Fisher’s novel in the first place? It doesn’t explain why I recall that section, which was minor, which in the novel just showed the child that her difference from the other children included having strange powers; it was exciting, but not good. She didn’t want to be different. (We knew, because of the scene of the baby exchanging.) Obviously, in that scene, Ms. Fisher intentionally or otherwise incorporated something of the Fruhlingszauber: the magic of springtime, as it really would be: those poppies would have sizzled in the snow, being hot. They were hot with life; the fact that Ms. Fisher saw the equation death/winter/cold versus life/Spring/heat isn’t an invention of her head; it is an actual truth. She did, however, equate magic with springtime; fairy power used to turn the winter to spring, to bring life, and therein she touched on something very deep, at the heart of her small readers, like me, who were astonished and touched, but didn’t know why (we knew nothing of the mystery or fertility religions of Greece et al, did we?).
+
+Magic equals life equals warmth equals poppies. Now, poppies are an exotic flower, with intense colors, identified with foreign lands (this I’m sure is why Ms. Fisher chose them).
+
+Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
+```
+**Co-occurrences**: Ubik, Indexed, However, Perhaps, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Remember, Truth, Magic, Otherwise, Doesn
+
+---
+### Line 198-206 (Match: 'Having')
+**Folder**: book of
+
+```text
+Mrs. Phyllis Boucher 2643 Dana St. Berkeley, Calif.
+
+Dear Phyllis,
+
+I have long thought about you, wondering how you are, and my having just now written the short enclosed piece, which is about Tony, gives me pretext to write you as well as the opportunity to extend this copy of the piece so that you might read it. My love and memory of Tony are combined in this, although I must admit in a rather odd way; the reason is that this was commissioned by the Sufi Magazine The Real World, which is a very good magazine (it is put out by Tony Hiss, you writes the “Talk of the Town” in the New Yorker, and boasts such people as Robert Ornstein in its staff; it is what they call (ouch) a class magazine. The paper is high quality, too.
+
+I hope that you like this piece (they may not). They just accepted a poem by my wife Tessa, and then told me that they’d like to be able to get both of us together in an issue. So the heat is on me to Come Through (I’ve been working since seven-thirty a.m.).
+
+You’ll note that I’m living in Southern California now, “north of Disneyland,” as Tony Hiss put it when he interviewed me for the New Yorker. I’m still writing s-f. I’ve got a lovely little 1.5 year-old son named Christopher, my wife Tessa is incredibly beautiful and very young (the pressure is on me, always, in all ways, to keep going, to not fall behind… alas, we all do eventually, I guess, but then, I have developed strongly religious convictions that Our Good Friend is watching to reach out and scoop us up, when we fall behind).
+```
+**Co-occurrences**: Well, Like, World, Since, Fall, Good, Just, Both, Tony, Although, Tessa, Still, Through, Living, Real, Such, Calif, Love, Christopher, Very, Have, Berkeley, Memory
+
+---
+### Line 282-290 (Match: 'Having')
+**Folder**: part of
+
+```text
+Most cats fear the clattering arrival of the grabagemen each week, but Pinky really more detested them than feared them. He hit out under our bed about half an hour before we heard them coming every Monday. He didn’t show fear; we just saw the two unwinking green eyes under the bed where he waited the garbagemen out. There was no PInky, just the eyes, waiting them out, the Bastards.
+
+(B)
+
+Four nights before Pinky died, before we knew he had cancer – I started to say, before he had been diagnosed as having a bruised rib – he and Tessa and I were lying in the bedroom on the bed, and I saw a uniform pale light slowly fill the room. I thought the angel of death had come for me and I beganb to pray in Latin: “Tremens factos sum ego, et timeo,” and so forth; Tessa gritted her teeth but Pinky sat there, front feet tucked under him, impassive. I knew there was no place to hide, like under the bed. Death can find you under the bed; everyone knows that, even little kids. And it looks bad.
+
+It never occurred to me that death was coming for anyone but me, which shows my attitude. I saw us all as painted ducks, on a painted sea, and thought of the Arab 13th century poem about “Once he will miss, twice he miss/ All the world’s one level plain for him on which he hunts for flowers.” We were as conspicuous as – well, anyhow finally I gave up praying, but I remember in particular I kept crying out, “Mors stupebit et natura,” Which I thought meant that death stood stupefied, as if in surprise (as in, “I was stupefied to lean that my car had been towed away.” It means just standing there impotently. That is not what Merriam-Webster 3 says, but it is what I say).
+
+Pinky never noticed the pale light; he seemed awake, but dozing. I think he was humming to himself. Later when I slept, toward morning I dreamed a disturbing dream: the report of a gun being fired close to my ear: a shotgun blast, and when I looked I saw a woman lying dying. I went for aid, but got onto some kind of one of those electric trolley busses by mistake, along with 3 Gestapo agents (I dream that a lot). We rode around forever while I tried vainly to short-circuit the power cables of the bus, or trolley car, whatever it was; without avail. The Gestapo agents seemed confident and read newspapers and smoked. They knew they had me.
+```
+**Co-occurrences**: Well, Like, World, Light, Even, Pinky, Anyhow, Just, Once, Being, Himself, Without, Tessa, Those, More, Most, Before, Death, Finally, Will, Angel, Were, Whatever, Under, Later, Remember, Electric, Dream
+
+---
+### Line 367-375 (Match: 'Having')
+**Folder**: book A
+
+```text
+Dear Ursula,
+
+Did I thank you for what you said about Mr. Tagomi in your London speech? I forget. Anyhow I have word of that, and so thank you. It is only one of many thanks which I give and which I owe you. The lovely lady of s-f; that is how I think of you.
+
+Ursula, I suppose that by now you've seen SFS which deals with my writing (March '75), and which has in it one article, by Ian Watson: "Le Guin's LATHE OF HEAVEN and the Role of Dick: The False Reality as Mediator." You and I must sit down one day and talk, to see what is going on. From Ian Watson's analysis, I can readily discern that much of the underlying experiences from which my own work have come somehow underlie your work and perhaps you, if you see what I mean. It strikes me that whether you are conscious of it or not, whatever is influencing my work --I mean, making use of me, really, to put forth this work-- that entity or drive is making use of you, too. It is not that I affect you or you me; it is that we are twin outcomes of a single underlying experience. What that experience is of -- that we must discuss, for I know by now that it is a most important experience, having to do with the nature of the substance of reality (in contradistincion to the manifold appearances of reality).
+
+Once I read somewhere: "We do not dream; we are dreamed." That is, someone or something which is a Not-I dreams us when we are asleep. A prime mover confronts us, and designs the fabric of our night's events. I say, truly say, in no idle fashion, Ursula, that are we sure, are we really sure, that He Who dreams us at night does not also dream us during the day -- and as He so dreams, or so builds (I personally conceive of him as an artificer, a workman) our koinos, perhaps He changes and erases backwords, and also now and then places us under something much like a spell: a spell of enchantment, so that we imagine --do you see?-- imagine whole areas which are, as an archetect much construct of necessity, what they call false work amid the permanent...
+
+I quote from page 32 in Fred Jameson's article in the same issue of SFS:
+```
+**Co-occurrences**: Perhaps, Like, Only, Does, Anyhow, Something, Once, Suppose, Reality, March, Most, Heaven, Dick, Somehow, Page, Whatever, Under, Many, Have, Tagomi, Whether, London, During, Dream, Someone
+
+---
+### Line 430-438 (Match: 'Having')
+**Folder**: book A
+
+```text
+March 4, 1975
+
+Dear Dr. Ornstein:
+
+Recently I met Mr. Henry Korman and Mr. Tony Hiss (Tony had come by to interview me for the New Yorker). I got into a marvelous discussion with Henry about Sufi and I mentioned my admiration, bordering on fanatic enthusiasm, for your pioneer work with bilateral brain hemispheric parity. Thus, I, having learned that they know you, and am summoning my courage to write you and ask, What has become of me, since experimenting with bringing on my right hemisphere (I did it mainly by the ortho molecular formula vitamins, plus a good deal of concentrated meditation).
+
+By this I mean to say, Dr. Ornstein, ten months ago this took place, and for ten months I have been a different person. But what to me is most extraordinary (I am writing a book about it, but in the form of fiction, a novel called TO SCARE THE DEAD), is that -- well, let me give the premise as I placed it into the novel:
+
+Nicholas Brady, an ordinary American citizen with contemporary worldly values and drives (money and power and prestige) suddenly has inside him a winking into life an entity which has slumbered for two thousand years. This entity is an Essene, who died knowing that he would be given the promised resurrection; he knew it because he and other [Qumran] individuals had in their possession secret formulae and medications and scientific practices to insure it. So suddenly our protagonist, Nicholas Brady, finds that there are two of him: his old self, at his secular job and goals, and this Essene from the [Qumarn] wadi back circa 45 A.D., a holy man with holy values and utter antagonism to the secular physical world, which he sees as the "City of Iron." The [Quamran] mind takes over and directs Brady in a complicated series of acts until it becomes evident that others such as this [Qummran] man are coming back to live here and there in the world.
+```
+**Co-occurrences**: Acts, Holy, Form, Well, World, Since, Because, Iron, Good, Mind, Book, March, Tony, Self, Essene, Brain, Their, Most, Such, Secret, Would, Other, Back, Have, Life, Dead, Suddenly, Qumran, Right, Until
+
+---
+### Line 622-630 (Match: 'Having')
+**Folder**: part or
+
+```text
+This, then, is not only a journey; it is a simultaneous double journey; he watches himself recede from himself, grow smaller and farther away. When, later on, if ever, will he encounter himself again, the two arc re-intesecting ultimately (but at a time he can't plot)? Eventually he (expressed as either hemisphere, in search of the Other) will encounter an other which is That Other: himself (v. Plato and the four-armed four-legged animus-anima whole person long ago split apart and in search of its other part): he will unexpectedly encounter Himself, and thereby close the loop, probably forever.
+
+Or -- did his other self (the Other) start out long ago, and is just now returning? Himself expressed as signal ("I shoot an arrow into the air"; by arrow read "half of myself") now returning, producing anamnesis, the shock of recognition. He is not starting on t[h]is trip; this trip is ending.
+
+These are answers -- responses, to him. By whom? This is the m[y]stery; who is he in contact with (the VALISystem). It really is not himself in time, in part or present, but spacially complete, as on GO board. "Our souls, having traveled out to the stars, are now streaming back, to report that life exists, they they exists, and hence so do we."
+
+What is expressed here is an extraordinary demonstration of the principles of conservation and symmetry (Hericlitus and Parmenides, plus our thermal laws). What was dispatched tiny and weak and frail and ignorant has returned with moral and spiritual authority, capable of working "magic," i.e. casting and removing dokos. Originally it fled Kali and has now returned, cowl-masked, robed and in d[u]sguise, the "unknown person" of Zeno's paradox who is himself, to break the power (thrall) of Kali (the deformed kingdom; desiccated kingdom of Set). So, more correctly, it can break spells, not cast them; it is parity within the Kundry Klingsor) versus the Redeemer axis.
+
+I am going to state a truly extraordinary premise: that long ago, when Earth fell to thrall, a signal was sent out for help; that signal itself has returned in strength, bearing power and arms, in truth and justice; that signal accumulted space, hence time, transduced other fields, rose from unliving to animate. That signal is it's own reciever, and has been boosted, fedback to grow; hence in a sense to send out a prayer is to automatically intuit its return later, at the time of fulfillment (which would vary from person to person; earlier sent, earlier returned; if time is an energy, and time and space are convertable extension of a matrix, then space is energy, as well; as it traveled space it began to grow, rather than weaken -- this was after it had gone half-way and was returning; it recapitulated all that had been lost, by the principles of conservation, parity and symmetry, supra).
+```
+**Co-occurrences**: Complete, Plato, Kingdom, Well, These, Parmenides, Only, Time, Earth, After, Just, Again, Self, Himself, Either, Probably, Anamnesis, Part, Dokos, More, Will, Would, Other, Back, Journey, Life, Justice, Later, Truth, Magic
+
+---
+### Line 675-683 (Match: 'Having')
+**Folder**: part delibaratedly
+
+```text
+or;
+
+(2) My experience is a result (a causal connection) of the experiments and truth of his work; the difference being that it is possible that any major telepathic reception would induce the massive time dysfunction I experienced, for the reason given in Dr. HK's theory; in which case no matter who transmitted to me, including the Logos --instinct-- itself, I'd sense the time transformations involved.
+
+A further point: it's evident from what Dr. HK says that it would be the intent to cause a great leap in time-density in order to transmit information telepathically, not the other way around (i.e. increase density as means, the t-p info as ends; not the other way around, not send info telepathically as means of increasing time denisty somewhere. The leap in time density, the entire experience of radically rolled-back time, would be an automatic experience of any t-p receiver, would have to happen in order for him to receive. This surely would be more evident if it was not a person normally sensitive to t-p info transfer; someone like me who never normally got info by telepathy would experience a unique and surprising transformation in time and not understand why. Normal telepaths probably would have become accustomed to it. My sense of time changes (in terms I guess of density) would indicate a strong artificial sending system and little if any natural sensitivity in me. This indicates that rather than me having hyped up my input they hyped up their output: as means, the created dense time around me, and thus were able to transmit. I infer from this (assuming all I've figured out in this sequence is correct so far) that Dr. HK or someone anyhow, and probably someone connected with Pulkovo, did in fact finally manage to figure out how to increase time density "at will," as desired.
+
+All this indicates that (1) Telepathic transmission to me of info was the goal; (2) Increasing the density of time around me was the means; (3) I was an "effect" and not a "cause," which explained why I felt so much under duress, and acting out adventitious commands. I probably was. But that's not the whole story. (4) Probably it was Pulkovo, or related to it. Why me? UBIK, no doubt; the fact that it resembled Dr. NK's work -- even seemed to parody it. Chance (a meaningful acausal "Logos Effect") coincidence brought the novel and me to their attention. The Logos foresaw all this when it imprinted the ideas into me originally (in 1968). Thus, it caused Lem (et al) to take an interest in UBIK and to invite me to come to Poland, and all else that happened. The Logos' purposes were always served in this primarily, since it excited us all into what we did initially; we
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Ubik, Logos, Like, Since, Time, Harpax, Even, Anyhow, Being, Great, Probably, Their, More, Finally, Will, Would, Other, Were, Back, Surely, Under, Further, Have, Information, Info, Truth, Someone
+
+---
+### Line 723-731 (Match: 'Having')
+**Folder**: part of
+
+```text
+Needs Review
+45
+To transmit even the most unscrupulous lied, designed to destroy and enslave the receiver, would be overtaken by the heightened energy of the receiver; it, he would be able to discern the aspects, and he would be powerful enough (drawing on the newly and perhaps uniquely for him dense time) to throw this off, self indicates, it would be done "instinctively" (like automatic actions, outside conscious awareness).
+
+I think I've shown not just that the Logos (or Immanent Mind) might enter, could enter, but would. Also, the Pulkovo people would know this by now, having discerned this in proir tests; they would by now be making no attempt to transmit deceitful information or for inhumane use, it being recognized as self-cancelling.
+
+Voila! For Magdeburg jars read moist soul-dry soul (and the related external worlds). Read filters/scramblers/monism/v. FLOW MY TEARS; v. March 74. In all this, the moist-soul, dry-soul, plus any combinations (proportions) of mixture. Binomial therum A plus B all squared. How many possibilities? Two pure (one heaven, one hell), then two mixed (the middle).
+
+How? The "Selectric rotating ball lens filter" system.
+```
+**Co-occurrences**: Tears, Logos, Perhaps, Like, Time, Mind, Even, Could, Just, Being, March, Self, Soul, Most, Heaven, Would, Many, Information
+
+---
+### Line 805-813 (Match: 'Having')
+**Folder**: part segment
+
+```text
+51
+Jesus spoke of a coming "Kingship of God" which, He said, "Is among you/ around you/ within you." It could arrive any time. When it arrives, many men, most men, won't know. Since God created this world in the first place, the angle of error may be slight, and the percentage which He must remove and change may be relative, small. Is all this world, every thing and creature and idea and object in it, objectionable to God and a produce of the Adversary? Obviously not. Suppose there were a subtle seizing of power, behind the scenes as it were, by the Rightful King. He would retain the present order by and large, disturb as little of it as possible, act in an economical way to take control. We might only sense that some oppressive power had departed; some burden and fear had lifted.
+
+That this has happened I am positive. That so little has changed shows how slight the angle of error, the element which had to be "burned off like chaff." Death still exists; Jesus and Paul always said that this body would have to live out its natural cycle and die away, for the other body to replace it, which comes later. The main thing is, This world is under control, now, and two main spirits reign: Truth and Justice, although they are of necessity unfolding in time (i.e. it takes time, because sequence is necessary). This world does not operate on its own, independently, and having fallen into the hands of tyrants and liars. Truth and justice lie at the heart, and work out judiciously, where needed; they now, in a distinct and real sense, although subtle, prevail, and nothing can ever change this; any set back, or any retention of the lie, is only apparent. We must not go on what is apparent; that was never a good index. But, in another way of viewing this, we can say that at last that which is apparent, which appeard to be, in actuality is. This was not true before. There are no further real secrets, and no further fake facade cardboard Thought-control hypnotis pseudo-reality managed and manipulated, no invisible empire of police and criminals and dangerous covert power. What meets the eye can be trusted, except that still hidden to most people is the heart, not of darkness, but of light; it is the pulse at the core of things, whereas not so long ago at the core of things rotten darkness stank and conived.
+
+We have a concentric-ring society, and the innermost ring has been burned off by the fire, has now been replaced by light, by God, and this is parallelled by a discernment outside, by those on the rim, that the Lord of Hosts has in fact suddenly come to his temple, announced by the messenger of the covenant whom we delight in...as Malachi put it. There was a swift arrival (mainly by Elijah), a swift victory over the darkness, a tossing down of the tyranny, and then the enormous judging and destroying power was withdrawn and replaced by an assisting and healing power. Advocacy for the weak and oppressed is no longer necessary, now that God rules. Healing (as if after a battle which was won) has been in order, and so done. Finally, the freeing of the many
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Jesus, King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Except, Truth, Suddenly, Whereas
+
+---
+### Line 823-831 (Match: 'Having')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+53
+Needs Review
+53
+carries with him a friends list. The messenger, Elijah, shapes up and squares up each person on the list; this involves making him pious, and directing him to engage in good works; he is good of attitude and good of action. Let's say there is a five to six month period in which the persons are reshaped and refined and reworked. They are born anew, in God, and it's a hard row to hoe. They are acquainted with the true nature of reality, and the true situation confronting them. They become conscious of their forgotten origin and task (anamnesis). Setting to work, they aid in the Great War against the Lie, offering themselves as sacrifices. They sustain mortal injuries in that fight, but accept it, confident in their tasks and their God. While lying bound up, as if in the "Todes Banden," the bonds of death, they see the surprising, sudden awful glare of the Day of Judgment; at this point, Elijah has seen to it that they are in proper shape to escape the Wrath and to please God. Even so, the loving sacrifice, their Savior, is present to absorb both the blow (Pinky the guru) and the sin, the toxin, the guilt (Ralph, as lamb). The person is lovingly accepted by God and goes to join him, although he continues on here, since the Kingship (Kingdom) is now here, rather than "beyond," or "in heaven." Thus, this experience comes without him having actually physically to die. All this, including the restoration which is his reward, the green grass, the pasture, is here.
+
+The whole experience seems to take about one full cycle of the earth: one year, beginning at the vernal equinox. Thus it is identified with the departing of winter and the reappearance of the lost spring.
+
+This whole last year contained a lot of pain and shock and loss for me (I was hospitalized twice, my son once, I lost two cats in very sad ways, and had to get rid of my little dog, and was burned on my first screen play), but it was the best year of my life, because somehow within the illness and loss and pain I gained an inner reality to match the external reality. There is no point in merely establishing an external new real kingdom or kingsom. God must reign in the human heart and body as well. It is the ultimate growth: to turn into a portion of God ("that I might live in Him / Invisible and dim") and continue on, knowing that He is both inside and outside. I can say that although I have not seen God, I saw signs of Him, indubitable signs. And knew Him to be growing within me, as the new life Firebright, from the Sun...the Aton, I guess, which Iknaton spoke of, that good tender trembling frail brave man.
+```
+**Co-occurrences**: Kingdom, Well, Elijah, Since, Because, Earth, Harpax, Savior, Good, Even, Firebright, Pinky, Once, Both, Reality, Although, Great, Anamnesis, Without, Their, Heaven, Real, Actually, True, Messenger, Death, Somehow, Kingship, Very, Beyond, Have, Judgment, Life, Body, Spring, Human, Lamb
+
+---
+### Line 983-991 (Match: 'Having')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+65
+Needs Review
+65
+could not wake itself up -- like the root or bulb called to by spring (by the healing warming Sun of R[l]ighteousness) it had to be summoned. If new birth or new life refers to a restoring (which it does) then at one time that Healing Sun was present and somehow withdrew, at which time the higher life in us fell asleep, in the darkness (vice the pineal body secreting the hormone melatonia, in darkness, which impedes the expansion, the growth, the coming into activity, of the latent form or entelechy). The very idea of "Wake up" implies winter time and the slumbering during winter time of all life. In some fashion, however, we once were awake and then fell asleep, which is what the Greeks meant by Lethe, by forgetfulness; forgetfulness is equated with falling asleep, and waking up with anamnesis. I guess the nourishing and feeding by the solar spermatika is understandable when one realizes that all life is "fed" by sunlight per se; this is an analog of that. It cannot wake unless fed; the first impulse rouses it from slumber, as when I felt that an Essene or someone holy who had been slumbering in me thousands of years and who possessed Sophia Pistis had awakened; the shock was of such enormity as to be beyond words to express; I can see why. I asked, Did I once live, then, and am reincarnated and now remember? No, I did not, as least not as an individual, the one born in 1928. What is shown here is the grid-like interpersonality of the Christ consciousness, that there is a kingship and a kingdom, each of us being in him and He in us. I awoke to the experience of having been there in a non material sense, beyond material space and time. I recalled no Latin, only Greek, because it is a Greek religion and a Greek spiritual rebirth experience; Rome was totally hostile to it (it came from Orpheus and Zagreus, etc).
+
+I awoke abruptly to find myself with my Savior, and then entered Fellowship with God (the dreams of the delighting void). Can it be said that this is the rebirth, accomplished by penetration of the Child by the solar spermatikos? Yes. Firebright, brought to life and sustained Greater intelligence for me, better health, longer life, even prosperity. A certain facility with life. But most of all I recall what I saw when I awakened: I saw my God, smiling in the sunlight of day. Once, during the years of the Terrible Separation, I saw Palmer Eldritch in the Sun -- I saw God backward, but sure enough, in the daytime sun: at high noon, and know him to be a god. THE THREE STIGMATA, if read properly (i.e. reversed) contains many clues as to the nature of God and to our relationship with him. I was motivated to flee, then, fearing what I saw, so vast was the breach then. It was definitely a true vision of God, but grown (to my blind sight) terrible, still, it was the beginning of my seeing; that I could see God at all, in the sun, showed that I was not entirely blind, but rather deranged. My 3 74 experiences are an outgrowth of my Palmer Eldritch experience of over ten years earlier. "Faith of Our Fathers" shows this, too; I knew Him to be real...but only in UBIK does he begin to appear as benign, especially then in MAZE OF DEATH. We were coming back together, as friends in the light-struck meadow or forest...the summertime to greet.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Ubik, Holy, Rome, Form, Sophia, Kingdom, Greek, However, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Remember, Unless, Greater, During, Someone
+
+---
+### Line 1024-1032 (Match: 'Having')
+**Folder**: part of
+
+```text
+What, though, took possession of me, which seemed like Elijah (if not truly Elijah)? I guess it was the Father; certainly it was not the seed. A form of the Father: the Holy Spirit, which, recall, made Mary pregnant, which brought conception to her; she conceived by the Holy Spirit and gave birth to the Logos; and yet, the Logos in a sense impregnated her; I guess the macroLogos this way achieves its micropresence here. Locally.
+
+However, against this is set my experience of anamnesis, the neoplatonistic recovery of memory of divinity already there. I did not acquire it abruptly; I recalled it.
+
+In reconciling this with Christianity, I was restored. To the former state I had lost (the myth of Adam, the Fall). In the Parousia, there is the Restoration of all things, specifically, man is restored to his intended, divine state. The Second Birth (born again or saved, found after having been lost)
+
+Is it food for a seed already there? A seed which was never germinated? Been fed? ("Your ancestors ate manna in the desert and they are all dead; I give you bread of eternal life." This implies it is more a kind of food in the sunlight, packets of nourishment. But I think the mystery has to do with what I experienced as suddenly being back 2000 years in Rome, being in another space-time. It shows that we do not understand the nature of time. If a new seed, from without, were implanted, why (like Empedocles) would we remember? But we do. Here, we're dealing with the "divine spark," like that which is in us because our ancestors, the Titans, ate the infant Zagreus. The divine spark is the same as the logos spermatika. The spark or seed, being an immortal being, is not subject to time. The kind of transtemporal experience which I had is impossible to a being which is mortal and hence subject to time; as the Brit 3 says, mortality and being in thrall to time are identical. If a spermos logos were implanted from without, and then fed, I think the person would suddenly find himself no longer bounded by time (and also not bounded by space, but this would be a lesser release). It is time which grinds down and brings death. The divine seed being immortal would transcend time, and what I experienced (because of the nature of time, which is not known to me) would be the sort of natural result of the sudden release from thrall to it. I would imagine a time dysfunction; actually, it would more accurately be that I had become an entity not bound by time. I would think, "Something is wrong with time; I am no longer in Fullerton in 1974 but 2000 years back in the past, in Rom[e]." The change, though, was in me. No one else felt anything, anamnesis, recovery of memory, is a projection (in the Jungian sense) outward, upon the person receiving immortality (i.e. freedom from the thrall of time). THIS WOULD EXPLAIN WHY THERE ARE NO INTERVENING MEMORIES, AND WHY I KNEW IT WASN'T A REINCARNATION TYPE MEMORY, OF A FORMER LIFE. THAT I ONCE HAD BEEN IN ROME CIRCA 70 AD AND SUDDENLY REMEMBERED IT. Rome and Fullerton were fused, as if the element of time were withdrawn. I didn't remember; I was there. (At two points, A and B simultaneously; vide Dr NK's "universe projected from a single point," etc. This can't be understood unless time is understood. We are freed -- from what? What is time?
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Parousia, However, Elijah, Father, Like, Fall, Because, Time, Harpax, After, Something, Once, Adam, Again, Zagreus, Being, Empedocles, Divine, Himself, Anamnesis, Without, More, Another, Upon, Actually, Fullerton, Certainly, Death, Universe, Would, Were, Back, Things, Life, Memory, Freedom, Jungian, Remember, Unless, Dead, Suddenly, Mary
+
+---
+### Line 1089-1097 (Match: 'Having')
+**Folder**: part one
+
+```text
+Needs Review
+75
+I never after that "found" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was actually there and actually experienced during full wakefulness, as present. Yet, it was still now. But now He has returned. I was now and yet superimposed Rome of 2000 years ago: 1974 Fullerton and Rome c 45. I gather that what I experienced were the two advents unified, with time abolished. It made Rome Fullerton and Fullerton Rome; it made 45 AD 1974 AD and 1974 AD 45 AD. This certainly would explain why I knew that neither reincarnation or time-travel per se were involved. It was a time dysfunction but of a crucial sort, that prophecyed in the Bible: the Parousia, an expression (experience) of it, a demonstation of the nature of the Parousia in which it abolishes or ends time, or perhaps, when God enters time from outside time, which is to say, from Eternity; surely that's a time dysfunction, although you might not be able to fathom why it happened. But I guess this is what you experience when God abolishes time; when the Parousia arrives.
+
+In connection with this, I wasn't just back in Rome; I was aware of two portions (not aspects, but divisions): the Roman army/police -- and the hurrying semi-invisible Christian underground, the fish Christian who were illegal and whom the Romans (part one) were after, to destroy. Gosh, if I were merely transported back to Rome via a time dysfunction I might gaze at great buildings and watch crowds, having no awareness of the fish Christians or the Roman ir leg. So this was not only Rome, or Rome as such; it was Rome viewed as the Apostles must have viewed it; it was a very precise and special view, and I was one of those fish Christians. I am happy to say that in this apocolyptic experience, I was indubitably one of those Christians, and our Savior was anticipated momentarily (later in the year I had the "Santa Sophia" dream, bearing this out without the Roman experience, that is, the Second Advent for sure, for us).
+
+The "Dec N T" says that this time Christ won't appear in the form of one single man (as he did as Jesus before), because if he does, then they'll get him again and it'll be a failure again; therefore, as I understand it, this is what all this solar spermatika, the seeds, etc. talk has to do with; there will be many implantations, of persons already alive and walking around "at their regular tasks," and the births will be plural, and inside peoples' heads, and not out of a womb, as with Mary's. Gee, I finally understood it. There will be no one Savior born this time, but a different system. Vide St. Teresa of Avilia. "Now, Christ has no body but yours." Is before (at the First Advent) implantation will be done by the same spirit, the Holy Spirit, supra, and the same issue will occur: the Son, which explains Jesus' cryptic remarks about where the Kingdom would be (not here, not there, and Christ not here, not there). But: in you and among you. Yes indeed! Kingship, then, within given persons; the assumption of rule (this duplex personality) within various persons; this is the Second Advent, and not a mere anticipation, a la Elijah. This is the Second Coming itself, this Firebright implantations. I mean, these, not this. My God -- what happened to me (sic: to me) in 3 74 was the Second Advent, one of them, anyhow. Guess who Firebright is, viewed this way. This now resolves one mystery (mystery to me, anyhow): the relationship between Elijah and the Holy Spirit. What Malachi said would come back was the Spirit of Elijah (if you read about Elisha this is clear). Surely it wasn't the physical man. The Spirit of Elijah is the Old Testament Hebrew concept for the Christian Holy Spirit (remember, the Jews were absolute monotheists).
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Remember, Elisha, During, Dream, Crete, Mary
+
+---
+### Line 1154-1162 (Match: 'Having')
+**Folder**: part of
+
+```text
+My sense that Firebright has done on only means that He, a half Light, Half Human creature, is now strong enough to leave the "womb," which is good. Any immortality I have will be through the fact that He is immortal; like all children, he must leave, Son of a Mortal Mother (myself) and Deity (God as Father). Tessa points out it's a corporate body, like yogurt (in the dream, the renewing fish that's sliced forever). Christ as pure Light Being is the Head; we all form the body; we are immortal with Him. It would be dreadful to be immortal alone, separate.
+
+There is no doubt that, what with my right hemisphere experiments, I was trying to achieve something -- and perhaps did. Recieved something; receiving was part of what I was into, the idea that we could, if we listened in a new way (or a forgotten way). Where did the "tight beam" come from? Certainly my dreams suggest the past; anyhow it is all what should be identified as retrieved knowledge. But it may have been triggered (the disinhibiting) by an ET signal. This presumes a link between earth and, ahem, heaven. I think there is.
+
+Two other points: (one) On the aspects designated as those which the "Christ transformation" confers according to the "Decoded N T," all that can be verified now (e.g. higher intelligence, better health, prosperity, etc. whatever) I've obtained; now, there is no intrinsic relationship which link these various "gifts." No one would draw up such a list a priori, since they appear unrelated. They are leaps forward in various areas. Others listed by the "Decoded N T" such as immorality I can't check on, of course, but I will infer that this too was acquired, if the others were. (two) My left eye suddenly resolving better than my right: this may refer to feature extractors in the cerebral cortex, and be brain improvements, allied with the sense of "having been blind but no longer being so." Again, this is linked with the prophecies given in the N T to those who receive the Spirit (i.e. become Christ). Vide my dream of last night: a theraphist named Mary is washed --healing-- my ankles and feet. At first I thought nothing of this dream, but on later refle[x]ion, it certain[ly] seems to me religious in nature; not only am I having "weak legs," as Red Foxx puts it, but recall Mary Magdelane vis-a-vis the desciples. Maybe this dream (following by one in which I escape from prison, am not followed and am free to run and run) are reassurances that my improved state is permanent.
+
+I just had a thought: when the words came to me, "Santa Sophia is going to be reborn; she was not acceptable before," I interpreted this 'Santa Sophia' to refer to the Christos, making use of the concept in John of Christ being the Logos. But in fact, uninterpreted, what I heard simply states that the "Wisdom of God," which is the Firstborn Son of God, or the Logos, or the Word, will be reborn -- not the Christ, although that may be true; it's an additional interpretation, however, and may have misled me. It is the Logos which is back for sure, according to those words that I heard, and the emphasis should be on that. What is more striking would be Logos...born which seems now to have referred me back to "Logos spermatika," the fertilizing or creating Logos, and to the entire doctrine of the "Dec N T" and Philo's ideas, without necessarily involving the Messiah (another concept entirely; the Persians had the Logo spermatikos, for example). I certainly should consider this view first.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Logos, Form, Sophia, Fish, However, Wisdom, These, Perhaps, Father, Maybe, Like, Since, Prison, Only, John, Earth, Harpax, Good, Light, Firebright, Could, Anyhow, Philo, Just, Something, Again, Being, Although, Christos, Santa, Without, Tessa, Nothing, Brain, Those, Part, More, Another, Through, Heaven, Such, Certainly, Before, Mother, Consider, True, Santa Sophia, Will, Deity, Would, Other, Messiah, Were, Back, Whatever, Have, Body, Later, Knowledge, Suddenly, Human, Dream, Free, Right, Mary
+
+---
+### Line 1290-1298 (Match: 'Having')
+**Folder**: part of
+
+```text
+So it was a vision.
+
+I must never forget the bells.
+
+(I wrote of God manifesting himself in transsubstantiation; but of course it is Christ. This now causes me naturally to wonder, No [one] ever reported seeing the miracle even in the objects of the Mass. How come I saw this (not how come it happened), but why extended, as I saw it? Also, it advances it down the time manifold, out of the distant past, into the Medieval Period anyhow...I should really go back over everything I've written over the whole 14 months and put the correct word "Christ" wherever I speak of having experienced God (especially immanent God; it is immanent or the actually present Christ). Beebread. We are fed in each's individual cell, but must emergy to join cooperative.
+
+. . .
+
+3 74: Instead of a past and present I had two different presents. At the same time. Not in sequence (except in terms of ontology; the Roman was more real, had more Being). Certainly it was like a movie overlap, a double exposure. If they are treated as spacial realities, then my percept system monitored conflicting information in the form of, "This is location A. This is location B," defining them as mutually exclusive. In audio terms, two signals (like picking up two stations at once). Is this a spacio-temporal fusion? A demonstration that such a thing is possible, and reminding me of the analogy between the movie film, UBIK, and our world, which JP brought up: "The Cave" updated is cinerama.
+```
+**Co-occurrences**: Christ, Ubik, Form, Roman, Like, World, Time, Even, Anyhow, Once, Being, Everything, Himself, More, Real, Such, Actually, Certainly, Back, Information, Instead, Except
+
+---
+### Line 1426-1434 (Match: 'Having')
+**Folder**: Unknown
+
+```text
+Needs Review
+100
+The most compelling aspect of this print-vs-create myth is that what we experience as the reality of natura and ourselves in nature resmbles the theoratical model to a truly extraordinary degree: all the strife, the workshop quality, the endless labors, that the getting it wrong again and again...concerning which we've always asked, ”Why?” and gotten no satisfactory answer. But look: here are the results which could be a priori expected to accrue from this system we posit Christ the only-glimpsed model, and obtain the same benefits put forth in my story "Pay for the Printer." What's true for any one universe is true for all universes...
+
+“Sure werk hat mir gafallen.” (Dar Meister hat gesprochen. That which we wait for...we as creating angeks. Item: are we perhaps those very same creating angels, given the draught of Lethe, having forgotten why and virtually what...but still fashoning -- ourselves? From inside out, which stresses ontology again? Self-perfection? And we remember (anamnesis) when we succeed, or when God intervenas to halt us and say, “Your work pleases me."
+
+I think the miracle born out of pity (when the sketches failed to come to life originally) —- I think this gets done a lot. As in my case; I had reached a dead—end; the game was over for me. I had done my best and I had failed. Nonetheless, God out of compassion made use of me; the nest was adequate for the Light Being to bring an egg to, an egg of fire and light and brightness; thus that [typewriter crossout] miracle was rapeated, and the faulty “sketch” or "version" lifed(in Christ) anyhow. I had run out of time. Death in all sets was at hand. So I did not achieve it (by "good works" or good work), but was given it (by God’s grace). God didn't say, "Your work has been successful"; he said, "Your work pleases me," and then he made it [typewriter crossout] successful Himself.
+
+This dovetails with Tielhard's nation of all mankind moving along the route to the cross; we undergo His passion, but finally His transfiguration; add to this Pascals' ”All mankind can be viewad as a single selfsame man who perpetually learns from generation to generation" and you've got it. We are all tegethar an entity ("Alle Menschen werden brüder"). I saw this entity and knew myself to be a subsection of it, within it. So the whole universe rolls along, from one station of the cross to tne next (we are surely not in synch in time; we don’t arrive at it all together but rather like many runners). (Still "No man is an island," which means we all already partake of Him reaching it, as well as those others who have; the saints with long polws reaching down to assist us...those who are dead and are (up) there. We form a [typewriter crossout] corpora[?] body with them. It’s as if a problem-solving entity has set itself the task of finding out how many different solutions (paths, ways) yielded (ended at) the same result. This really could be a task assigned to just one section of the universe (as Peter Mann said); maybe only our world. This is maybe why we feel continually we're on trial; in a maze; sent here "for a definite purpose"; this is the time of labor, with a reward to come after (for those who “pass"). It's partly a guessing game; we are to develop a "correct" picture of something we aren’t --deliberately aren’t, for good reason-- allowed ever to see clearly, because as I say if we saw it clearly we'd simply copy, and all copies would be alike.
+```
+**Co-occurrences**: Christ, Form, Well, Maze, Perhaps, Maybe, Like, World, Because, Only, Time, After, Good, Light, Could, Anyhow, Just, Something, Look, Again, Reality, Being, Self, Himself, Anamnesis, Grace, Those, Still, Wait, Most, Nonetheless, True, Death, Universe, Finally, Would, Very, Surely, Many, Have, Clearly, Life, Body, Remember, Cross, Dead, Answer
+
+---
+### Line 1489-1497 (Match: 'Having')
+**Folder**: part pressing
+
+```text
+Last edit over 5 years ago by Harpax
+105
+Needs Review
+105
+since we don't remember the future the way we do the past we don't discern these "heavy" event weighing on the present and forcing the present into an[n]ihilation, into the past. What our minds do is link everything in a sort of string, one after another, in the order in which we encounter them. Thus, if we reach into a fishbowl of numbered slips randomly distributed, we will write down as a linear sequence the numbers we draw. In whatever order or non-order we encounter event (experience them) our memory will arrange them on this linear track, as if they happened that way. Actually, they didn't happen (were not arranged) that way but only encountered that way. But, having lined everything up, we imagine the past in this orderly line, which is readily translated i[nt]o a causal string because so arranged it has that look to it. Eventually in this way we create in our heads an enormous part pressing inexorably against the present to create the events of the future. But suppose we imagine everything in the present like a stage set and actors for the next scene. These latter, dimly discerned, will inexorable push everything on the stage off eventually. It is not the prior act but the next act which exerts the force on the present. Also, if as Dr. NK say, time is energy entering a material system, perhaps it enters from the future -- is the future; i.e., time has more charge, more force in the future, drains out into the spacial reality of the present, and at last disipates down into the drain-esc slot which is the used up past. This is a disturbing new view but oddly enough it coincides with my dream experiences, my precognition of events moving this way from the future; I feel them inexorably approaching, not generated from the present, but somehow already there but not yet visible. If they are somehow "there" already, and we encounter them successfully (the [M?]indkowski block universe; events are all already there, but we have to encounter them successfully) then this view might be a correct view of time and causality. The reason (again) why we feel the past to be real but not the future is simply that we have experienced the past and recall it; memory bits lie in our brain tissue, but this is not true of the future. However, I have never experienced Bombay India and I have San Francisco; but the latter in reality is no more real than the former. (For myself, I would guess that we have, as the Hopis believed, two realities only: that which is manifest, and that which is in the process of manifesting. The former is the present; the latter is our future, sort of rising up from within, from potent to actual. This can be re[s]presented spacially in terms of rings, concentric, of actualization, ala Plotinus.)
+
+. . . Eureka! I've been reading Rollo May's LOVE AND WILL. He describes Eros, the spirit of life, mediator between men and gods, partaking of the human & the divine; it is the elan vital of Bergson, Dionysos, it is especially Socrates daimon -- this is the voice I hear; this is what "possessed" me in 3 74. But an overwhelming intruiging mystery present itself: Socrates was Greek; Eros is a Greek myth; Dionysos was a Greek god; if Eros (as RM says) is not an actual entity, then how come I heard words in Attic Greek and it, the daimon, thought in Attic Greek? This both confirms and yet adds more mystery, pins it down for sure and yet -- the coincidence (Greek speaking) is too great; it must indicate something -- a vital clue beyond all other clues!!!!!!
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Spirit, Greek, However, Dionysos, These, Perhaps, Plotinus, Like, Since, Because, Only, Time, Harpax, After, Something, Look, Again, Suppose, Both, Reality, Everything, Divine, Great, Gods, Brain, Part, More, Another, Real, Voice, Actually, Love, True, Universe, Will, Would, Other, Somehow, Were, Attic, Beyond, Whatever, Have, Life, Memory, India, Socrates, Remember, Human, Dream, Track
+
+---

@@ -1,0 +1,365 @@
+# Evidence Packet: Heidegger
+
+- **Category**: Top Term
+- **Total Mentions**: 96
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 14672-14680 (Match: 'Heidegger')
+**Folder**: part of
+
+```text
+Indexed
+Folder 03 - 029
+29
+
+Maybe those 4 Marxists were right about "Ubik" being subversive to capitalist society - it represents a non "age of reason" worldview, which maybe the intellectuals are into (Freud, Nietzsche, Heidegger, maybe even Schopenhauer + the will - all opposed to intellect, reason). Maybe out of them a new + progessive quantum leap forward in human thought is shaping - maybe I've underestimated them (P. had only scorn for the intellect: "Reason can prove anything," etc - + he was right). + maybe I'm (without realizing it) a part of this progressive new movement - maybe their theoreticians like Lem can see the broad social + historical context + meaning of my writing e.g. esp. "Ubik." They are right: I am a visionary. Take what Spinrad says about me maybe being the "most metaphysical writer of all times." I am tearing down time, space, causality, world - this would be subversive to capitalism, to the bourgeoise mind which is intimately connected with 18th century Anglo-Saxon rationalism (Newton, Locke, Bentham, etc.). I am systematically undermining the philosophers + philosophy on which capitalism is based, + going back to a Hermetic, Gnostic Neoplatonism, + a vitalism replacing mechanism - I deal a lethal blow to Anglo-Saxon thought, to its vaunted pragmatism. I am not just asking, "What is real?" as I've thought; in, e.g. "Ubik" I state -give- an alternate cosmology at the heart of what appears to be skeptical inquiry + tearing down. The reason the statement of a (this) alternate cosmology is not recognized even by me is that this par-
+
+Last edit over 7 years ago by Toso
+Folder 03 - 030
+Indexed
+```
+**Co-occurrences**: Ubik, Toso, Indexed, Gnostic, Plotinus, Maybe, Like, World, Only, Time, Folder, Mind, Hermetic, Even, Just, Being, Toso
+Folder, Without, Indexed
+Folder, Those, Part, Their, Most, Real, Will, Would, Were, Schopenhauer, Back, Human, Right
+
+---
+### Line 24545-24553 (Match: 'Heidegger')
+**Folder**: folder 48
+
+```text
+Past Present Future -------------------------> a moving point.
+
+But actually it is laid down: Future [ one ] paradise future Present [ XXX ] purgatorio, our world Past [ two ] inferno BIP "Tears" {arrow pointing to the middle area of the diagram} mixture
+
+Inferno (Rome, Acts "Tears", BIP) lies under our mid-realm + can be retrieved through anamnesis. This views supposes that there is progressive ascending for all souls; in any case ascent is related to time, but not linear time (i.e. time as we experience it: the moving dot of the present - v. "Ubik" for much more accurate model + gnostic/Heidegger concepts of rising + sinking - also v. Bindswanger). This would be individual ascent or descent in one lifetime + would resemble time travel, with rising = the future + sinking = the past. Thus heavenly voices would = from the future + satanic voices = from the past, just as paradiso = the future, + inferno = the past. But not in the linear sense. Parmenides was the first to realize that our world is a two "signal" world; i.e. his forms 1 + 2.
+
+Last edit over 5 years ago by Toso
+
+folder 48 - 016
+```
+**Co-occurrences**: Tears, Acts, Ubik, Toso, Rome, Form, Gnostic, World, Parmenides, Time, Folder, Just, Realm, Diagram, Anamnesis, More, Through, Actually, Purgatorio, Paradiso, Would, Under, Paradise
+
+---
+### Line 24639-24647 (Match: 'Heidegger')
+**Folder**: book of
+
+```text
+Indexed
+folder 48 - 024
+824
+
+first level of paradiso, + so could see the infinite One, God. What I'm more inclined to think, however, is based on Canto 33 of Paradiso of the "Commedia." Viz: "God is the book of the universe: "the same [volume of leaves] that the universe holds scattered through its maze." This relates God to the universe in a way that isn't contingent. What I did was move along an axis of some kind + encounter -one or perhaps several- of these pages of the book, as if they are very fine layers, resembling the phosphene graphics. I moved through them, along this axis, + the laws (rules) changed; I am speaking of plural coaxial worlds. Actually I am sure that I was moved as a primary condition of my level of ontology (authentic being, in Heidegger's sense, ushered in by Urangst), moved up crucially, + in fact rather suddenly - it is of extraordinary value to know that this can occur during a lifetime rather then between. It is as if the frequency of these pages become greater the closer (but not spacially!) that you get to the Source, the One - this is clearly Neo-Platonism. I seem to have passed orthogonally through a sort of realm, + I had done so once before to get here, as my anamnesis showed. At once the rules changed; I changed + world changed, + "always was [now] different," like retroactive changes.
+
+Last edit over 6 years ago by Toso
+folder 48 - 025
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, However, Maze, These, Perhaps, Like, World, Folder, Platonism, Book, Could, Once, Realm, Being, Toso
+Folder, Anamnesis, Indexed
+Folder, More, Through, Actually, Before, Universe, Paradiso, Very, Commedia, Have, Clearly, Suddenly, Greater, During
+
+---
+### Line 24871-24879 (Match: 'Heidegger')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 052
+852
+
+So my writing -+ thinking- have been a search for God; but in the end, when the crisis came -in Heidegger's sense of me being aware of my own death, i.e. my own non-being- it was YHWH who found me, not me him. At all costs the world must be real; it must not betray its epiphenomenality except under certain exceptional circumstances, such as 2-3-74, since the consequences can be lethal (since they involve (1) non-being + (2) the revealing of non-being). Thus such a crisis engages the percipient in death, +, if all goes well, resurrection; but only the most extreme circumstances would call it forth; it is, in my opinion, the ultimate move by God, since in allowing world to dissolve (display non being) he replaces it with himself (pellucid theophany). Both self + world disappear for a moment. The seriousness of this can't be overstated - + the possible benefit. (In terms of outcome experience of being by the creatorial percipient). It is like the bichlorides: "a very poisonous poison for you"; but if used in a "measured dose" a medicine that cures madness; viz: the drugged intoxication of our earthly state.
+
+Last edit almost 7 years ago by Toso
+folder 48 - 053
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Well, Like, World, Since, Only, Folder, Both, Being, Self, Toso
+Folder, Himself, Indexed
+Folder, Most, Real, Such, Death, Would, Very, Under, Have, Except
+
+---
+### Line 25316-25324 (Match: 'Heidegger')
+**Folder**: folder 48
+
+```text
+900
+
+1) Asher: sleeping [death] [das Nichts] '' waking [born!] 2) Belial: irreal [evil] [das Nichts] '' : being - 3) The universe: epiphenomenal, based on YHWH's Sein. Real (being - Sein) only insofar as it receives being from YHWH or is YHWH 4) YHWH to Belial to universe? Then YHWH directly to the universe?
+
+Asher when first seen is 1) asleep; 2) lost in the irreal; 3) is not yet born. YHWH literally wakes him up, with a shocking phrase ("Your behind" - breaking into Asher's dream). But more than waking up is involved. Being born = born "from above"! Death = sleep. Hence birth = life. YHWH will vanquish Belial by waking him up (into being)! The fan letter with "Asher" on it is to Belial as "Your behind" is to Asher, with the same results. The novel is consistent. Ancient Hebrew monotheistic concepts of God merged with Heidegger's 20th century [nazi] existential phenomenology. Wow. The letter to Belial: "The Legend of the Pearl"! Also the Xerox missive which woke me up (I had that in mind in "Valis Regained").
+
+Last edit almost 7 years ago by Toso
+folder 48 - 107
+Indexed
+```
+**Co-occurrences**: Valis, Toso, Indexed, Xerox, Only, Folder, Mind, Hebrew, Being, Missive, Xerox Missive, Toso
+Folder, More, Sein, Real, Death, Universe, Will, Belial, Life, Evil, Dream, Asher
+
+---
+### Line 25379-25387 (Match: 'Heidegger')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 113
+907
+
+The BIP + PTG must be sine wave pulsation: {Illustration of sine wave oscillating between BIP and PTG} Our dream world auto-produced. Risk. Shrinking from risk - hence retractile from knowing. Unity of opposites BIP + PTG. High stakes. To try for PTG you risk BIP. Could go either way. Retreat from epistemological risk. Too dangerous. Heaven and hell; Purgatorio as compromise for the faint hearted - not so much war as gamble. Like turning up the next card. Eagles: "It could be heaven, it could be hell." That's it. Strive for PTG, drop to BIP. They both are real + - yes: "VR" is correct. Final 7th battle outcome will retroactively decide; roll back through time. "VR" is correct; Valis got through to me. We must have taken refuge -run away- from the war! Consequences of losing too dangerous. "VR" is correct: we could lose [the 7th + final battle]. I see: the 7th battle is going on, + 2 realities oscillate (pulse phase) in + out until it's decided. "VR" is correct. Absolute faith in YHWH is required. Here is where primal angst enters: awareness (v. "VR") comes in: awareness of what losing would mean (BIP). Worse -no Sein- nothing! No you + no world. Cosmic death. Heidegger is correct. The risk. The universe could turn into a dream because in point of fact our universe is a dream. If you abandon it, what will cut in to replace it? The BIP! Which is also the PTG.
+
+Last edit almost 7 years ago by Toso
+folder 48 - 114
+Indexed
+```
+**Co-occurrences**: Valis, Toso, Indexed, Like, World, Because, Time, Cosmic, Folder, Faith, Could, Both, Toso
+Folder, Either, Indexed
+Folder, Nothing, Through, Sein, Heaven, Real, Purgatorio, Death, Universe, Will, Would, Illustration, Back, Have, Absolute, Dream, Final, Until
+
+---
+### Line 25504-25512 (Match: 'Heidegger')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 127
+921
+
+deepest level; I was terror-stricken: either I believed in YHWH or there was das Nichts. Not the salvation of my individual soul +/or immortality was at stake but what I call "the existence of existence." I -in 3-74- was given an example of the role of Valis working at a level deeper than that of saving one man (me) or all men; rather, the guarantor of substantia as such: all substantia as a single totality. This is power beyond any that I could ever (without the 3-74 demonstration) have imagined. Even the existence (Sein) of evil was at stake; without YHWH there wouldn't even be evil. Or chaos. Or pain. Or loss. I would not be I, + world would not be world. This has led me back to the kind of comprehension that must have gripped the early Hebrews, the essence of Moses' vision gained from the theophany at Mt. Sinai. The deepest level of reality is YHWH. This is what is meant by "creator." It is not precisely artificer to artifact, + it is not precisely pantheism. It was reading Heidegger that caused me to understand it. My years of acosmism has been a search for YHWH who had to exist if world really existed, rather than only seemed to exist (dokos or dream: auto-generated by each percipient: viz: idios kosmos only, just a lot of them). I had construed the problem correctly. But only upon "3 Women did I fully appreciate the problem - did it really wash over me and leave me terrorized, whereupon the solution came.
+
+Last edit almost 7 years ago by Toso
+folder 48 - 128
+Indexed
+```
+**Co-occurrences**: Valis, Toso, Indexed, World, Only, Folder, Even, Could, Hebrew, Just, Reality, Kosmos, Moses, Toso
+Folder, Either, Without, Indexed
+Folder, Creator, Dokos, Sein, Soul, Such, Upon, Would, Back, Beyond, Have, Artifact, Women, Evil, Dream, Salvation
+
+---
+### Line 25512-25520 (Match: 'Heidegger')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 128
+922
+
+Spinoza was a crucial help to me. This view ("Deus sive substantia sive natura") does not lead to the Platonic body-soul dualism but leads back to world-affirmation. To immediate deity. God + nature are inexorably inter-involved. The problem is that a mock creation has filtered in, which must be transubstantiated into the real, by YHWH. My God - I seem to have become profoundly anti-Platonist! (Cf. "Beyond the Tragic Vision" re Plato). As if correcting the error Plato made vis-a-vis Parmenides (i.e., when I wrote: "Parmenides" did not say there were 2 realms, a priori + empirical; he said there were 2 ways of viewing one realm, one right way -a priori- + one false - empirical. Plato misunderstood this + assigned some reality to the empirical as if it were a partial realm, rather than a way of knowing, a partial way, not realm."). + the other basic error in Western philosophy (held by, e.g. Pythagoras and the Orphics), corrected by Plotinus, was the error that the journey of the soul was spacial: first down from the cylum past the planets + then back up again (an error held, again, by Plato!). In this ontological view of the journey, rather than spacial, Plotinus anticipates Heidegger. The upper realm is spacially here, not there. I should know; I entered it, in 3-74. + if here, it can be entered in this life, not just after death!
+
+Last edit almost 7 years ago by Toso
+folder 48 - 129
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Plato, Spinoza, Plotinus, World, Parmenides, Platonist, After, Folder, Pythagoras, Does, Just, Realm, Again, Reality, Platonic, Orphic, Toso
+Folder, Deus, Indexed
+Folder, Soul, Real, Death, Western, Deity, Other, Creation, Were, Back, Beyond, Have, Journey, Life, Body, Upper, Right
+
+---
+### Line 25944-25952 (Match: 'Heidegger')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 179
+974
+
+is proof of his victory over + above the secret fact that he is here. Now he chooses whom he will choose. __ All my acosmic novels deal with the topic of "VR": putting your foot through reality - e.g. through the ground, the ground sinking away, as if you've stepped into an old septic tank, as in my dream: "almighty power who rules the Earth + sky / + variagated orders in confusion lie." I am dealing with the issue of Heidegger, but not "why is there something rather than nothing?" but, "is there something rather than nothing?" YHWH is the solution, + the only one, to the problem or issue I've raised over + over again in my books. I never considered it a solved issue; I never took the universe for granted. The dream applauds my new way of approaching the theme in "VR," re YHWH: story by a brilliant new young writer: My stepping through the ground ("into the old septic tank") is the idea in his story. I.e. acosmism - the universe not being substantial - substantia. In my novels I tackled an even more profound issue than Heidegger, not "why is..." but "is there something rather than a mere dream?" My conclusion, at last is, "Yes + no. No, in the reality is an epiphenomen; yes, in that YHWH exists + is the guarantor of reality." What this analysis ultimately serves to do is not just reveal the nature of reality but, more, of YHWH.
+
+Last edit almost 7 years ago by Toso
+folder 48 - 180
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Only, Earth, Folder, Book, Even, Just, Something, Again, Reality, Being, Toso
+Folder, Indexed
+Folder, Nothing, More, Through, Ground, Secret, Universe, Will, Dream
+
+---
+### Line 25952-25960 (Match: 'Heidegger')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 180
+975
+
+Via Heidegger it has led me to moksa about YHWH. I.e. to an understanding of God as he basically is + what he basically does + why he is necessary. __ Note: Ground is based on the rigid + deterministic efficient cause formula called by the Jews the Torah. It is running down like a clock; it has become ossified -like iron- like a metal prison. These are the ancient powers, the old cosmic order from which Christ frees you. From the "astral order." Evidentally the info for that was fed in at the beginning (as in deism). Causality, with nothing new. You know, although my cosmogony + cosmology seems original it is absolutely Paulline. I have interpreted my 3-74 revelations in terms of Paul. Law (Torah) = the immutable cause-+-effect world of yin, Form Two. The mechanism which programs us with the two synchronized tapes - of course; this is how it maintains its clock-type order! It keeps everything + everyone on tracks, rigidly; it is specifically this cosmic system that Christ freed me from in 2-3-74 inasmuch as the system called for my death in 8-74. Inexorably. It had to be broken from outside; I couldn't do it. I wonder how Christ overpowers the efficient cause system. Creating time dysfunctions? This would void causal trains. Replacing elements of the trains with himself? Then the "modulating" of causal processes that I saw Valis as doing is what it -he- primarily does. (In order to abolish the "law").
+
+Last edit almost 7 years ago by Toso
+
+folder 48 - 181
+```
+**Co-occurrences**: Christ, Valis, Toso, Indexed, Form, Torah, Paul, These, Like, World, Iron, Prison, Time, Cosmic, Folder, Does, Although, Everything, Himself, Indexed
+Folder, Nothing, Jews, Ground, Death, Would, Have, Info
+
+---
+### Line 26065-26073 (Match: 'Heidegger')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 194
+989
+
+the external world, death is carried within the person, also. So his death strip is edited out by a sort of psycho surgery. I was changed so that I no longer contained the death strip, which focused on the years 1970-1974. Thomas was me without the death-strip. __ Sudden thought: "Instilled an anti-Pigspurt personality in me + then tested it out." Possibility: my normal personality is fugal. Under extreme pressure the fugal personality retreated as far as possible - this personality took over in 1970 when I took the mescalin. It was psychotic if fugal = psychotic. Then a non-fugal self ("Thomas") took over in 2-3-74 when the fugal one could retreat no further; i.e. sufficient pressure made me sane because I could retreat no farther. The key term is: coming to grips with; i.e. facing reality, not evading it. In 2-3-74 my problems could no longer be evaded; hence the epiphany of Thomas. Fugue, as a way (device for) of handling reality broke down. (Heidegger's inauthentic way of Being.) The fugal personality was always high. Auto-intoxicated-evasive. Or rather, intoxicated by the amphetamines + then going into up-down cyclythemia, neither phase being related to reality. Both phases were turned inward. The hawk + the Mater Dolorosa. Driven mad by 1) Nancy leaving; + 2) drugs; + 3) endogenous psychosis. Thomas, not having been conscious in decades or ever before, saw reality
+
+Last edit over 6 years ago by Toso
+folder 48 - 195
+Indexed
+```
+**Co-occurrences**: Toso, Thomas, Indexed, World, Because, Pigspurt, Folder, Could, Both, Reality, Being, Self, Toso
+Folder, Without, Indexed
+Folder, Before, Death, Were, Under, Further, Neither, Having, Nancy
+
+---
+### Line 28874-28882 (Match: 'Heidegger')
+**Folder**: folder 49
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 49 - 052
+Not Started
+folder 49 - 052
+I just now read over the outline for "VR" & experienced Moksa, due to the final note about monotheism & what monotheism really means illusion & evil are the same. Reality & God are the same. Thus to truly _see_ would be to see (this follows logically) what I saw : Valis & the plasmate - i.e. God, since he _could not_ have a merely contingent relationship to reality (I have really done my homework : Spinoza & Buber & Heidegger & the O.T.). It is not that he does not have a merely contingent relationship to the universe; no - he _could_ not. When illusion (Dokos) departs evil departs & YHWH-as-reality remains. & this is what I saw. YHWH did not break into reality (it was not a Theophany in that sense); reality reverted to its actual form for me - that of the one God - there is no other. To say, "Evil holds the power centers" is to say, "Illusion holds the power centers." But YHWH is _here_, not remotely _there_ (far off : transcendent). It is like in "Ubik," the ads. For the first time I see that if monotheism is the case, _it would have to be so_. * By understanding monotheism I find that I understand Valis - how Valis must be the case. What is not Valis (YHWH) is Dokos.
+
+* that God is as (& where) I saw him : reality collapsing back into its _own_ urgrund - not God behind reality but God as reality - _if_ monotheism is the case. & my encounter with Valis indicates that yes, it is the case. I understand that Valis _must_ be the case, I have never, in the years since 3-74, comprehended this : the inexorability of Valis being as I saw it doing what I saw it doing where I saw it.
+
+Last edit almost 3 years ago by svayambhu108
+```
+**Co-occurrences**: Valis, Ubik, Form, Spinoza, Like, Since, Time, Folder, Urgrund, Does, Just, Reality, Being, Dokos, Universe, Would, Other, Back, Have, Evil, Final
+
+---
+### Line 28894-28902 (Match: 'Heidegger')
+**Folder**: folder 49
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 49 - 054
+Not Started
+folder 49 - 054
+Since (inasmuch) as I saw Valis principally in/as Causality, sentient & volitional, then I am at this moment _absolutely convinced_ that I was seeing God (YHWH), because I know, due to my understanding of Spinoza, Heidegger, Buber, & the O.T., that this is precisely where & how I would see God if I did see him (in contrast to, e.g. an anthropomorphic figure in the world).
+
+As to Xtianity, as Spinoza remarked, I do not know what to make of it at all. It sheds no light on my experience one way or another, for or against.
+
+& I am saying, yes, monism is the case; a human has no true self or independent will; there is only God's will, & _one_ self (God), & everything we do is willed by God; that my actions vis-a-vis the Xerox Missive was a clear example of this, that there is _one_ entity & one only. What I do I only think I do because there is no "I" but God. Hence the 2 synchronized tapes, the linking & relinking, the clutch, the engramming, etc. Spinoza is right; it is one _necessary_ system. Nothing resists God's will because there is nothing _but_ God's will except
+```
+**Co-occurrences**: Valis, Xerox, Christianity, Spinoza, World, Since, Because, Only, Folder, Light, Missive, Self, Everything, Xerox Missive, Nothing, Another, True, Will, Would, Except, Human, Right
+
+---
+### Line 30065-30073 (Match: 'Heidegger')
+**Folder**: folder 49
+
+```text
+Last edit almost 9 years ago by erica snowlake
+
+folder 49 - 151
+My theological reinterpretation of Heidegger's Sein vs. das nichts states in insuring ("creating") Sein, the Godhead is unable to avoid a paradox of values which splits it & sets up an antithetical interaction within the Godhead itself - having to do with means-ends (this is beset on Plato's "Forms" vs. epiphenomena). Thus a process universe is brought into existence that is rooted in sorrow at every level. Involved in its own agonized creation (actualization) the Godhead is damaged. (split = damage.) Thus the "Fall" is due to a built-in selfcontradiction & _not_ to sin or whatever. The Godhead itself is no longer intact; it is not above or outside or transcendent to the schism. Actualization (Sein) is impossible without self-damage to the Godhead & within creation (Sein). Thus no perfect Sein can exist; to Godhead has set itself a seemingly impossible goal due to the means-subordination of the ontogons to the phylogons, & our daily empirical experience with reality bears this out; it is confirmed a posteriori (a priori & a posteriori agree). Most awful of all, the Godhead stands as self-damaged by its own verdict of guilt for the suffering it has imposed on the ontogons. But the alternative
+
+Last edit almost 9 years ago by erica snowlake
+folder 49 - 152
+Complete
+```
+**Co-occurrences**: Complete, Form, Plato, Godhead, Fall, Folder, Reality, Self, Without, Sein, Most, Universe, Creation, Whatever, Having
+
+---
+### Line 30225-30233 (Match: 'Heidegger')
+**Folder**: folder 49
+
+```text
+Last edit almost 9 years ago by erica snowlake
+folder 49 - 163
+Indexed
+folder 49 - 163
+prehension of YHWH; this came to me via Heidegger : " Why is there something instead of nothing?" I realized that there could only be one answer; for example, Brahman & his (I mean its) magical tricks only heightened the problem instead of presenting a solution; Brahmanism & Buddhism are only expressions of the _problem_ & say, "Right; it is _not_ real"! They correctly formulate the question; but I in my writing had already done that & sought an answer. i.e. which would repudiate acosmism : the apparent irreality (more properly epiphenomenality) of the universe.
+
+It really does not make sense to say that the universe is irreal unless you have something real to compare it with. So the correct formulation is not "irreal," which begs the question, but epiphenomenal, whereupon you look behind or beyond the epiphenomenon to see what its urgrund is.
+
+The answer is, the epiphenomenal is real insofar as it partakes of God & _only_ insofar as it does. Thus I have to agree with Sankara that ultimate questions regarding ontology lead back to God.
+```
+**Co-occurrences**: Indexed, Brahman, Only, Folder, Urgrund, Could, Does, Something, Look, Sankara, Buddhism, Indexed
+Folder, Nothing, More, Brahmanism, Real, Universe, Would, Back, Beyond, Have, Instead, Unless, Right, Answer
+
+---
+### Line 32779-32787 (Match: 'Heidegger')
+**Folder**: part of
+
+```text
+(1) Umwelt. Hell. Immutable yin world of cause and effect. Bad. crawling. Shut in. Prison. Metal. Poisoned. Occluded.
+
+(2) Mitwelt. Human interaction. Good. Walking. Greater space.
+
+(3) Eigenwelt. Ethereal. Divine. Flying. infinite space. I never noticed this before. Gnosticism to Heidegger to Bindswanger. So in 3-74 I entered the Eigenwelt and Saw the world I had been in as the Umwelt (TEARS): hell. The Palm Tree Garden equals the Eigenwelt.
+
+Last edit almost 5 years ago by svayambhu108
+107
+Needs Review
+```
+**Co-occurrences**: Tears, Gnosticism, World, Prison, Garden, Good, Divine, Palm, Before, Eigenwelt, Tree, Umwelt, Greater, Human
+
+---
+### Line 32847-32855 (Match: 'Heidegger')
+**Folder**: Unknown
+
+```text
+Needs Review
+110
+-11-
+
+I am glad that my 9-2-80 pc-per has merit. I just didn’t at that time know what particular sacred narrative I reenacted; it was the passion, death and resurrection of Christ at Easter (passover; the spring). And for some incredible reason I never saw the three realms of my Metz speech and Dante's three realms as the three realms of Bindswanger...hence Gnostic (via Heidegger).
+
+Someone who is certainly in the tomb world lowest stratum of the DmweIt is Doris. She is trying, like Ellen Weat, to rise all the way to the Eigenwelt (’’spirituality") , but it isn’t working. Her only real relief is the Mitwelt, but she is always dragged back down to the Umwelt, in fact the tomb world* She is a recreation of Ellen West, living in the Umwelt —chained to drudgery and entropy and blind necessity— while dreaming hopelessly of the Eigenwelt. This is exactly what Ellen West did; lived in the Umwelt and dreamed of the Eigenwelt. Cause? An impairment in the Mitwelt; note Doris’ inability to form real relationships with men.
+
+All this —the three realms-— could be viewed in terms of genetic programming, with tne ascent from the Umwelt to the Eigenwelt as the genetic instructions somehow cancelling them¬ selves by firing a meta-stage that burns the programming up, leaving you a free individual. The genetic programming abolishes itself, not you (i.e. the death strip fires for it, not you). Research may someday disclose that there is a higher level of programming blocked (GABA inhibited) until the right time comes along; it still may be genetic programming but of a quantum-leap higher order, a sort of pay-off time by the DMA, the time anticipated by it.
+```
+**Co-occurrences**: Christ, Form, Gnostic, Like, World, Only, Time, Could, Just, Dante, Viewed, Still, Living, Metz, Real, Certainly, Doris, Easter, Death, Somehow, Eigenwelt, Back, Spring, Umwelt, Passover, West, Free, Right, Someone, Until, Sacred
+
+---
+### Line 33992-34000 (Match: 'Heidegger')
+**Folder**: folder 01
+
+```text
+501
+
+successful of the mystery religions" - + VALIS - God - did break the power of the spatiotemporal world over me, I mean astral determinism or Fate or Heimarmene or Karma or the sublunar realm or the planetary powers or the old law or DNA programming - this fired futilely into empty (non) time-+- space. This event, as Eliade points out, is trans-cultural + trans-doctrinal. All you really need to know is: 1) Lower realm (spatiotemporality) [Note A] 2) Upper realm (above space + time) 3) Vertical axis leading from (1) to (2). I.e. the universe of the shamans. This is e.g. what the Eucharist is supposed to do (v. the E.B.macro article on time).
+
+[Note A] + when this goes, so also goes causation. My 5 or 6 realm hierarchy is correct, but - is it Gnostic? No, it is Neo-Platonism because it has to do with (1) essence vs accidents; (2) the Form realm; (3) the supra-spatiotemporal; (4) the One. There is no suggestion of acosmism. Or of an evil demiurge. Oh yes there is a suggestion of Gnosticism: the Fremdheit of the spatiotemporal world -Geworfenheit- + the familiarity of the restoration-state: + the salvator salvandus. + Heidegger's Ur-Angst. + the dialectic is the war between God + the world (demiurge who
+
+{folder 01 - 006}
+502
+```
+**Co-occurrences**: Valis, Form, Gnostic, Gnosticism, World, Because, Time, Folder, Platonism, Karma, Realm, Fate, Eucharist, Eliade, Macro, Universe, Evil, Dialectic, Upper, Lower
+
+---
+### Line 33997-34005 (Match: 'Heidegger')
+**Folder**: folder 01
+
+```text
+{folder 01 - 006}
+502
+
+lacks the a priori knowledge of St. Sophia. Plotinus/Gnosticism/Paulline Xtianity/Iranian influence: the dialectic. But if I had to chose I'd chose Plotinus. Plus Gnostic overtones due to Heidegger (esp. the Ur-Angst + the role, the crucial role, it plays in authentic being. I researched Plotinus; there is no doubt it is Neo-Platonist. No other doctrines are necessary nor do they apply. My 5 levels are his. Q.E.D. There was a Fall. - 4:30 a.m.: I didn't just realize world could be arranged (perceived) morphologically; I realized (2-74) that it is [in fact] arranged morphologically. Which is to say, I remembered. USA 1974 + Rome C. AD 45 are not tangent; they are at an essence (Form) level the same. This all (Neo-Platonism) is why 3-74 most resembles "Ubik" which is Platonist, in fact Neoplatonist. Ubik being Nous. So I now know the precise operation my brain performed in 2-74, what it recognized, the effects thereof + why, + what system of human thought it points to (Neo-Platonism).
+
+
+{folder 01 - 007
+Indexed
+```
+**Co-occurrences**: Ubik, Indexed, Rome, Christianity, Form, Sophia, Gnostic, Gnosticism, Plotinus, World, Fall, Platonist, Folder, Platonism, Could, Just, Being, Nous, Brain, Most, Other, Knowledge, Dialectic, Human
+
+---
+### Line 34013-34021 (Match: 'Heidegger')
+**Folder**: folder 01
+
+```text
+Indexed
+folder 01 - 008}
+504
+
+it was a titanic psychological breakthrough as well. The term "schizophrenia" then, does apply to -refer to- a mental impairment or occlusion that locks you into the lowest realm, +, in extreme cases, the lowest level of the lowest realm. Thus I have adduced the spiritual implications of what we know of as "schizophrenia". (Lost in a world of chaotic accidents out of which no sense -order- can be made. Entropy, too.) (Entropy = disorder = proportional to multiplicity.) The Fall of the soul -as I have long speculated- does tie in with an occlusion of cognition + perception that I have of late come to identify with schizophrenia; I now see specifically that it has to do with impairment in the ability to perceptually abstract. We all have it to some degree. My ability to perceive the world-order abstractly is why I said: "I am no longer blind!" I was perceiving conceptually the Form world - essences morphologically arranged; hence much more order (negentropics + unity + reality (einai). + with einai came Nous, hence noein (Heidegger is right). (Plato, in describing the Form Realm, is describing a realm now lost to human perception due to a further sinking of the soul.) The intermediate illo tempore essence world carries vast space + time. Because it is extensive over 1000s of years + 1000s of miles it can be
+
+
+{folder 01 - 009
+Indexed
+```
+**Co-occurrences**: Indexed, Form, Plato, Well, World, Fall, Because, Time, Folder, Does, Realm, Reality, Nous, Indexed
+Folder, More, Soul, Further, Have, Human, Form World, Right
+
+---

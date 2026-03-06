@@ -1,0 +1,350 @@
+# Evidence Packet: Indian
+
+- **Category**: Top Term
+- **Total Mentions**: 52
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1034-1042 (Match: 'Indian')
+**Folder**: part of
+
+```text
+Needs Review
+70
+It may be that Dr. NK is wrong, and that time is a 4th dimensional space imperfectly perceived; I was freed from time, and this shows that indeed I had been Reborn immortal, but I do not understand that which I was freed from (time). What I should do is try to infer the nature of time from what I experienced ("anamnesis") when freed from it. It became unreal (I remembered at least 2000 years back; Restoration took place; there was retrieval of data, etc.). What we experience as lost --things moving into the past-- those things ceased to be lost. Those things which had passed out of sight (moving from the present to the past and hence gone forever, destroyed) were again there, again real, not destroyed. This is intimately bound up with immortality, the rebirth, the freedom back upward from the Fall. The continual perishing (including that of myself) was abolished -- but not only of myself, but of everything. The world-and-I together were retrieved, as if no destroying process had obliterated us ("Death, where is thy sting? Grave, where is thy victory?"). Is this a waking up? ("Look! I tell you a sacred secret: we shall not all sleep," etc.) Here, "sleep" equals a loss of full consciousness in which perception of all-which-was is lost, and we cease to see it and imagine it destroyed & abolished.
+
+The transient quality of things, the loss of them into the past, is a diminution of perception, a visual-perceptive loss; we cease to be able to track or follow their movements to another place (the past is another place which we can't see, being partly blind; in the "Decoded" it says, "He now could --an angel?-- see only things very close to himself, and nothing which was far away." I.e.; he could only see that point which is the immediate present. Those two vast eternities, which contain everything, the past and the future, were no longer visible (the 3rd eye had shut). And this would be why the gift of prophecy (second sight) is so basic to the restitution of ones full faculties, and associated with Men of God. Prophecy: seeing into. The past is within things (as in UBIK). Again, the onion rings universe. Where is the past? Within what we see, at the hearts. All reality is like some great Indian burial garbage mound, like layer or accretions, at Troy, successive. Not being but "below." Contained.
+
+Like in the 3 pages I sent Angus. Palimpset. Well, if the past is within what we see (smaller concentric rings, constricted) perhaps one can reason that the future consists of larger rings that that which makes up our perceptual present; vide Plotinus. The next concentric ring of emanation would be the future...strange. Which we reach toward, and which recoprically reaches down to assist us (as I inferred about the "space people": they're from the past, to give help. Angels. They would come to us in dream-time, with visions of what is ahead, and this is why dreams are prophetic. And less dense, less constricted that the daytime Now ring.
+
+Recall in "Autofac" how the automatic factory creates seeds of itself to survive through; this is what a seed is for; I had carefully studied the purpose of seeds. Well, the divine seed is so that I (and not merely my species) can survive, the death of my physical body; when the autofac was destroyed, the seed lived on and grew. Thus, the factory was immortal. It replicated itself and so escaped destruction.
+```
+**Co-occurrences**: Ubik, Well, Perhaps, Plotinus, Like, World, Fall, Only, Time, Could, Look, Again, Reality, Being, Everything, Divine, Himself, Great, Anamnesis, Nothing, Those, Their, Another, Through, Real, Secret, Death, Universe, Would, Angel, Were, Very, Back, Things, Body, Freedom, Dream, Track, Sacred
+
+---
+### Line 4056-4064 (Match: 'Indian')
+**Folder**: part could
+
+```text
+Last edit 8 months ago by Zebrapedia
+37
+Needs Review
+37
+23 But ah! I was released from maya, bondage to which is due to Karma. Yes, the recover of memory, escape from the veil of delusion - But the ultimate release from Karmic burden is this: that one is freed from the wheel of rebirth - + all the ecstatic joy, the rapture - being taken into God, welcomed by him in his realm - return from birth + rebirth over + iner again in this world - this is it; this is what I'm free free; hence "vertical ascent" - leaving here + going hone to my original place at last - for the first time in thousands it years - finally. I can now go back. The recovered memories show me that I came here long ago + have been embroiled over + over; this, what I've been given now in this lifetime - I must have sought for it + not attained it ever before. Ah! The release is connected with my handling of the Xerox letter. I have an intuition: had I handled it wrong, I would not have found release. Every effort + talent + faculty had to be brought to bear - was brought to bear the great trans-identity real self in me knew, it knew. + I was not willing to fail; it bloomed to life fully in order to pass this final test; it tested the quality of the holy in me; only the holy part could have succeeded; no holy part, no release; it was for me the great assize indeed, but only an individual judgment on me me alone. So then I saw my name writter in the great ledger later on thought of Papagans + prince taming + ther + trials. Ah! The divinity was the total hosts of light coming to my defense - they did all they could to assist + extricate me, + they were successful; thus it is said that God wishe. to bring all men to salvation. Whether viewed in Indian or Christion - or even Egyption terms - the matter is the same.
+
+Last edit almost 3 years ago by svayambhu108
+38
+Needs Review
+```
+**Co-occurrences**: Holy, Xerox, World, Only, Time, Light, Even, Karma, Could, Zebrapedia, Realm, Again, Maya, Being, Self, Great, Viewed, Part, Real, Before, Finally, Would, Were, Back, Have, Judgment, Life, Memory, Later, Whether, Karmic, Salvation, Free, Final
+
+---
+### Line 6438-6446 (Match: 'Indian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+40
+Needs Review
+40
+to 1) memory that it is, not that it was (70 AD) which 2) produces release from the repeating wheel. a form of waking to the authentic reality, which is There hidden by the Dokos without + amnesia within. 3) simultaneously, my real self springs [back?) into existence, matched to + with the external real world. therefore I infer that the accretions of linear time, since They repeat themselves, are somehow cyclic, despite appearances. in actuality, we are doomed to repeat a script until inter mention + awakening (through the savior) come. So I say, linear time is warped back on to itself around the punches through orthogonal omphalos - which alone is real; the repeated script is a kind of hallucination (shared by all); v. "Maze" being caught in the repetition of linear time equals not being saved. Being awakened to memory (+ hence perception) of the true world equals being saved. There is a strong Indian element in this basically Gnostic/Paulist (cf "planetary powers") view. After all, the planets repeat + repeat their motions forever + savior (i.e. advent) is very close - a step away. But since the evil sons (fallen ones) do not know this - they think 1000s of years have passed - it is safe for them to reveal themselves. This is a prime use (divine purpose) of this spurious long, extended time (or appearance there of). The deceivers are themselves deceived. Then it serves God's purpose that this spurious long time seem to have happened, that the promise (of His retured soon) was not kept. It is a great revelation, perhaps the greatest of all that 1) Only a few years - decades - have really gone by: I 2) he is about to return, as promised - i.e. where mised
+
+Last edit almost 3 years ago by svayambhu108
+
+41
+```
+**Co-occurrences**: Form, Gnostic, Maze, Perhaps, Advent, World, Since, Therefore, Only, Time, After, Savior, Reality, Being, Self, Divine, Great, Without, Dokos, Their, Through, Real, Revelation, True, Somehow, Very, Back, Have, Memory, Evil, Sons, Until
+
+---
+### Line 6869-6877 (Match: 'Indian')
+**Folder**: part of
+
+```text
+Indexed
+18
+18
+
+Looking all this over I realize that the Ramparts petition + then my failure to fill until the war ended was not just an antiwar act, a dissenting, or even civil disobedience but an outright sacrifice of my freedom + career; the punishment was inevitable, as was Jesus' when he entered Jerusalem. + I knew it. By '74 I lived in terms of them arresting me, then 2-3-74, the Xerox missive + what I now believe to be the correction or justification by Valis on my behalf. I had unintentionally, accurately followed the instruction manual (NT), including all the elements necessary. For the first time I can see logic, not caprice, in the advocate coming to me in 2-74 as soon as "Tears" was published. __ It can't be said that evil B causes apotheosis, the kicking over to stage two by its victim; the cause is Valis' justification. This justification can legally render the person spotless + (to think in Pythagorean/Orphic terms) unsullied by earthly existence; put in Indian terms, karma is burned up, + further earthly life (by which karma works itself out) is irrelevant. This fits my own impression that my programmed tape "played itself out at high speed in a vacuum" in 3-74. The future events to which it had been synchronized were not events necessary for me to live through; Valis short circuited the cosmic machinery when it justified me. It's as if the judge (ma'at) has now seen enough to have her basis by which to render judgment. The facts are in. To allow the person to be exposed to further injury would just be cruel. Another view could be that B + Valis are in contention for the person's soul. {But if B}
+
+Last edit over 5 years ago by Toso
+19
+Complete
+```
+**Co-occurrences**: Valis, Tears, Toso, Indexed, Jesus, Complete, Xerox, Time, Cosmic, Even, Karma, Could, Just, Missive, Orphic, Xerox Missive, Another, Through, Soul, Would, Judge, Were, Further, Have, Judgment, Life, Freedom, Evil, Until
+
+---
+### Line 10933-10941 (Match: 'Indian')
+**Folder**: part prevented
+
+```text
+Last edit almost 3 years ago by svayambhu108
+29
+Needs Review
+29
+9 suddenly he understands. But it is too late now to rectify anything: the judge has ruled + the ledger is shut. That he did not know at the time at all the times - he comprehends the nature of The trial + testing, the winnowing process. It is now so clear, + previously he never guessed. He played out one of the several roles. Tormentor or the tormented? It's stressed, however, that in Xtianity, in contrast to Indian avatars, God descended + became man only once, at a particular, unique time + place. Therefore, to witness Christ purely, + not just the "reverbera tions" one would have to travel backward in time + spacially to that place: there are no plural avatars showing up in many, several, all or a few places to enlighten each country + age. The 1st Advent was unique, so, in order that it can be experienced, linear time (+ space, too) must be dissolved. This probably is accomplished through gene pool memory, or perhaps It's simply a miracle: God wills it. Actually, it's analogous to the regression along the form-axis I described in "Ubik." This axis leads back ultimately to its rock bottom stratum: the original time + place of Jesus. Which is to say, buried within all the variations + evolutions of any form lies the pristine + unadullerated original form, regression from which is impossible. As Joe Chip thinks, "the man contains not the boy but the former man. It's intereting in "Ubik" that I seemed to think That the genuine, ultimate form lay in the past, not the future. But re Christ, this is so.
+
+Last edit almost 3 years ago by svayambhu108
+30
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Jesus, Christianity, Form, However, Perhaps, Advent, Therefore, Only, Time, Just, Once, Probably, Through, Actually, Would, Judge, Back, Many, Have, Memory, Suddenly, Chip
+
+---
+### Line 16479-16487 (Match: 'Indian')
+**Folder**: folder 20
+
+```text
+Complete
+folder 20 - 019
+18
+
+This is a pretty good theology, although not original (it comes from India). But I've added one point: the creator spins out an irreal universe + then enters it as all the creatures in it, is deluded + forgets - this is early Indian theology. My addition is: The creator deliberately plants clues in his irreal creation (which he enters, + then suffers deliberate amnesia) - clues which he cunningly knows in time (eventually) will restore his memory (anamnesis) of who he is + that his creation is irreal + has imprisoned him in it, thus freeing himself + restoring himself to Godhood.
+
+Wow!
+
+So he has a fail-safe system built in. No chance he won't eventually remember. Makes himself subject to [spurious] space, time + world (death, pain, loss, decay, etc.), but has these disinhibiting clues or stimuli distributed deliberately [strategically in time + space]. So it is he himself who sends himself the letter which restores his memory (Legend of the Pearl). Not bad! Salvador Salvandus! Boy, what this says about my 2-74/2-75 experience! When I saw the clue in 2-74! Look what this theory says I remembered - + who placed the clue in front of me + why! I think I've solved it. Christ without memory of identity, here in the world [Note]. + Christ = God = creator.
+```
+**Co-occurrences**: Christ, Complete, These, World, Time, Folder, Good, Look, Although, Himself, Anamnesis, Without, Creator, Death, Universe, Will, Creation, Memory, India, Remember
+
+---
+### Line 17203-17211 (Match: 'Indian')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 044
+42
+
+Christ having just been alive, but hadn't personally known or met him. He spoke + thought in the koine. There was/is a strong Zoroastrian tinge to his thinking (which fits Simon) as well as middle-Platonistic. + Egyptian + Indian. (+ what about the 3-eyed people?) [Note] I suppose it is possible that Zebra is Sophia (Wisdom -the Logos?-) overruling Yaltabeoth, the mad genius James-James creator who creates + then irrationally destroys. But I know who I am; am Simon Magus who perhaps is born again + again - immortal, + of course who can see + recognize Sophia; we are both of the Pleroma + not of this irreal world. No wonder I wrote about irreal worlds, + have starting in the fifties - for 27 years. Just consider how much Gnosticism is in "Stigmata", "Ubik," "Maze" "Tears" + "Scanner": evil creator or illusory worlds, salvific messages from outside, mass hallucinations, prison world, occlusion (ignorance). + consider how the savior (Mercer) is presented in "Sheep", the trash-stratum penetration of a hostile world.
+
+[Note] This implies contact with ETIs. ___ I just remembered my Siddhartha dream: the Book in two parts, with pt one ending with "+ during all this, (underneath it all) Siddhartha slept" - the obvious implication being that now, in part two, he will awaken. A fifth savior is now being born! There
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Tears, Ubik, Toso, Indexed, Zebra, Logos, Sophia, Well, Gnosticism, Maze, Wisdom, Perhaps, James, Scanner, World, Prison, Folder, Stigmata, Savior, Book, Just, Simon, Again, Suppose, Both, Being, Siddhartha, Zoroastrian, Indexed
+Folder, Creator, Part, Consider, Will, Egyptian, Have, Evil, Having, Magus, During, Dream, Pleroma, Simon Magus
+
+---
+### Line 17316-17324 (Match: 'Indian')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 058
+56
+
+The fact that the Karmic bond breaks when you remember shows its illusory nature, its dream-quality, + the dream-quality of this world + identity + life in this world. Otherwise, would the bond, the fetters, immediately break? It only has power if we regard it as real - i.e. the world as real. I'm not sure Eliade sees this. The Pan-India theorists certainly saw this (but the Greeks did not; the Gnostics sure saw it!) It seems to me that the Karma-breaking experience of anamnesis would lead to acosmism. Also, the real home (Pleroma) is remembered - +, as in my case, the [Gnostic] messenger / savior is encountered + seen (correctly) as responsible for the Karma-breaking. Most important, the person recovers his Godhead identity (self), + this Eliade does not deal with. The authentic self is experienced as greater + more real than the world, + not of it. Thus the proto-story is made available to the person: the original home, the fall, the previous life or lives - the vast true self, + the messenger / savior. The vast expanses of space + time all of which are present. (I.e. Acts was not in the past, but superimposed on USA 1974 outside as was "Thomas" on me inside). Speaking of Indian thought, Eliade writes: "Ignorance - which in the last analysis is ignorance of oneself - can be thought of as a forgetting of the true self (atman): wisdom, which by tearing the veil of maya or ignorance makes liberation possible, is an awakening." + atman is Brahman - + for a long time I saw that the reality which I apprehended in place of the illusory world was exactly as Brahman is de-
+
+Last edit about 8 years ago by Toso
+folder 21 - 059
+Complete
+```
+**Co-occurrences**: Acts, Toso, Thomas, Indexed, Complete, Gnostic, Brahman, Greek, Wisdom, Godhead, World, Fall, Only, Time, Folder, Savior, Karma, Does, Maya, Reality, Atman, Self, Toso
+Folder, Anamnesis, Indexed
+Folder, Eliade, More, Most, Real, Certainly, True, Messenger, Would, Life, India, Remember, Greater, Otherwise, Karmic, Dream, Pleroma
+
+---
+### Line 22014-22022 (Match: 'Indian')
+**Folder**: Book of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+17
+2 This is how man is restored ("saved" or born from above/again): God becomes man, not posing as man, as in an indian avatar; no, it is a real flesh + blood man into which God injects himself, somehow (the method is not clear). (+ he can leave, as he did Jesus on the cross.) "Jesus" is to be read as a prototype, not an historical figure, although there may have been such a person. It is possible he (Jesus) was the first. The gate, the narrow door (1:.618034), God first entering this world. (I may have seen the other world - upper realm - when he left me + went back.) But I remain linked to him (or to her); I still hear the AI voice. The circuitry ince installed is permanent, I'm glad to say. So I am permanently changed - in eternal symbiosis: 2-brained, now. (Consider firebright.) (+ my sense being a female host impregnated - this certainly of fits the "Christ became me" view: God made [into) man). The recruiting. Could it be that he's returned? clothering a new band? A new group of disciples? is he did before? But this would mean that the great assize is secretly taking place. I know - due to what the AI voice has told the books he - that in my case, at least, have been closed: I have been "adopted" I even know why. Could judgment have seen passed at the same time on everyone? 541-6756
+
+Last edit almost 3 years ago by svayambhu108
+18
+Needs Review
+```
+**Co-occurrences**: Christ, Jesus, World, Time, Book, Even, Firebright, Could, Realm, Again, Being, Although, Himself, Great, Still, Real, Such, Voice, Certainly, Before, Consider, Would, Other, Somehow, Back, Have, Judgment, Cross, Blood, Upper
+
+---
+### Line 29156-29164 (Match: 'Indian')
+**Folder**: book pages
+
+```text
+Last edit about 9 years ago by erica snowlake
+folder 49 - 075
+Indexed
+folder 49 - 075
+me was an enchanted Garden of Bells (temple bells?), & peaceful animals, color, beauty - I was taken out of the Black Iron Prison & put in the Garden of Delight. _Magic_ was involved. Christ? Krisna? Dionysos? Vast book pages - the .618034 doorway, Aphrodite, Diana - the A I voice, the girl singing a mixture of Dante, Zoroaster, the Arabian Paradise, Indian, even bits of Greece & Egyptian Crete.
+
+Obviously God - or some God - granted me Paradise when I guessed the riddle correctly. I died & was reborn in an after life, a mixture of Egyptian, Greek, Celtic, Xtian, Neoplatonism, India - even Fairyland (I guess that would be Celtic). & the Hebrew letters : Jewish Kabbala. & Persian. Hermetic. Rose Cross. Orphic Mystery Religions. Magic. Krisna?
+
+Whatever it was, it was due to my solving the puzzle.
+```
+**Co-occurrences**: Christ, Christian, Indexed, Greek, Dionysos, Plotinus, Iron, Prison, After, Black, Folder, Garden, Book, Hermetic, Even, Hebrew, Diana, Obviously, Girl, Dante, Orphic, Black Iron Prison, Jewish, Indexed
+Folder, Zoroaster, Voice, Greece, Would, Egyptian, Whatever, Life, India, Aphrodite, Paradise, Cross, Magic, Iron Prison, Crete
+
+---
+### Line 34625-34633 (Match: 'Indian')
+**Folder**: folder 01
+
+```text
+{folder 01 - 084}
+
+10-24-80 4
+
+So I am saying that Indian thought is wrong when it assigns to cause to maya; I say, with Zoroaster, "There is a magician." This is Zoroastrianism --and Mani and Gnosticism-- blended with Indian thought about maya and karma. With Christ viewed as the one who wakes us, who causes us to remember. Then it is not accident that it was the Christian fish sign that caused me to remember, to cease to forget. That is what it is supposed to do ... counteract the Lie (the delusion). So I combine Indian doctrines of maya with the Judo-Christian etc. idea of the Fall. I say, we fell into Satan's world which is irreal, a "spurious interpolation." Yet God is using Satan, through enantiodromia. Countering him. Reversing him. Here, within this very domain; the good that occurs in this domain (through enantiodromia) is placed into the macrometasomakosmos. Evil is concerted into good by enantiodromia and then inserted into the macrometasomakosmos. The theories about the Fall must be revised; an intellectual error, not moral error, must be presumed. One can almost --almost-- view Satan's activity as a high technology in which the simulation of a world order is achieved. This element of maya or dokos has interested thinkers in India and Greece, but with Christianity and Gnosticism comes a really penetrating analysis between the two elements of world and Satan, with the theme of epistemology running through Gnosticism -- which is why I can't abandon it. We fell asleep because we were induced into falling asleep; the spurious world had to be there for us to take it as real; we ourselves don't generate it... unless it's a maze that we ourselves built and then fell into (which always remains a possibility). Probably the wisest view is to say: the truth --like the Self-is splintered up over thousands of miles and years; bits are found here and there, then and now, and must be re-collected; bits appear in the Greek naturalists, in Pythagoras, in Plato, Parmenides, in Heraclitus, Neo-Platonism, Zoroastrianism, Gnosticism, Taoism, Mani, Gnosticism, orthodox Christianity, Judaism, Brahmanism, Buddhism, Orphism, the other mystery religions. Each religion or philosophy or philosopher contains one or more bits, but the total system interweaves it into falsity, so each as a total system must be rejected, and none is to be accepted at the expense of all the others (e.g. "I am a Christian" or "I follow Mani"). This alone, in itself, is a fascinating thought: here in our spatiotemporal world we have the truth but it is splintered --exploded like the eide-- over thousands of years and thousands of miles and (as I say) but be recollected, as the Self or Soul or eidos must be. This is my task.
+
+
+{folder 01 - 085}
+```
+**Co-occurrences**: Christ, Christian, Christianity, Plato, Fish, Greek, Satan, Gnosticism, Maze, Like, World, Parmenides, Fall, Because, Folder, Pythagoras, Platonism, Good, Karma, Judaism, Taoism, Maya, Heraclitus, Self, Buddhism, Probably, Viewed, Zoroaster, Dokos, More, Brahmanism, Through, Soul, Orphism, Real, Zoroastrianism, Greece, Other, Were, Very, Have, Mani, India, Evil, Remember, Unless, Truth, Judo
+
+---
+### Line 35156-35164 (Match: 'Indian')
+**Folder**: folder 01
+
+```text
+VI
+
+11-7-80 1
+
+I've solved it! I've solved the problem of 2-3-74; I did it through Eliade. It was right there in front of me; I read it but did not see the application. I will quote: For Indian thought, suffering is originated and indefinitely prolonged in the world by karma, by temporality; it is the law of karma that imposes the countless series of transmigrations, the eternal return to existence and hence to suffering. Liberation from the karmic law is equivalent to "cure." The Buddha is the "king of physicians," his message is proclaimed as a "new medicine." It is by "burning up" the very last germ of a future life that the individual definitely ends the karmic cycle and is delivered from Time. Now, one of the ways of "burning up" the karmic residues is the technique of "going back" in order to learn one's previous lives. The method is to cast off from a precise instant of Time, the nearest to the present moment, and to retrace the Time backward in order to arrive ad originem, the point where existence first "burst" into the world and unleashed Time. Then one rejoins that paradoxical instant before which Time was not, because nothing had been manifested... In the man who accomplishes it this "return" or "regression" finds expression in the annihilation of the Cosmos and hence brings about "emergence from Time," entrance into "immortality." Now, in the Tantric view immortality can be obtained only by halting manifestation and hence the process of disintegration; one must proceed "against the current" and recover the primordial Unity that existed in illo tempore, before Creation. What is necessary, then, is to enact in one's own being the process of cosmic resorption, and so return to the "origin." ... After describing the creation of the Universe by Shiva, the text describes the inverse process of cosmic resorption, as it is to be lived, experienced by the yogi. The latter sees the element Earth become "subtle" and dissolve in the element Water, Water dissolve in Fire, Fire in Air, Air in Ether, and so on, until all is reabsorbed into the Great Brahman. The yogi witnesses the inverse of the process of Creation, he "goes back" until he reaches the "origin." Valis is Brahman. I am finished. I know now. I saw Brahman because through anamnesis I escaped from time, and then time ran backward, and I saw cosmic return from plurality to unity (the metakosmos) and most of all I saw Brahman, which I called Valis. I did it. I figured it out. The Platonist anamnesis was the cause. It sent time moving backward from plurality to unity, to Brahman.
+
+
+{folder 01 - 149}
+```
+**Co-occurrences**: Valis, King, Brahman, World, Because, Only, Time, Earth, Platonist, After, Cosmic, Folder, Buddha, Karma, Shiva, Being, Great, Anamnesis, Nothing, Eliade, Through, Most, Before, Universe, Will, Creation, Very, Back, Life, Karmic, Right, Until
+
+---
+### Line 35163-35171 (Match: 'Indian')
+**Folder**: BOOK OF
+
+```text
+{folder 01 - 149}
+
+11-7-80 2
+
+The cosmic resorption must have occurred in a flash; I mean, it --time-- regressed at hyper speed, as represented by the permutation of the phosphene graphics. So I reached the point "where existence first 'burst' into the world and unleashed Time" came very swiftly. This (the realization that time moved retrograde) was an absolute essential fact for completion of my understanding of 2-3-74. It is no wonder that I felt that I had encountered world as my own prior thought-formations; this is connected with Buddhism, Brahmanism, the "TIBETIAN BOOK OF THE DEAD." I am right about that; but: I did become involved with my own prior thought formations because I literally traveled back through them into phylogenic reverse-time; I used up ontogenic time (my own prior thought formations). I relived my own earlier books. But Valis is Brahman, the unity before time hence multiplicity occurred. Then the metakosmos is the universe before the Fall: During the fusion of metals the Taoist alchemist tries to bring about in his own body the union of the two cosmological principles, Heaven and Earth, in order to reproduce the primordial chaotic situation that existed before the Creation. This primordial situation corresponds both to the egg or the embryo and to the paradisal and innocent state of the uncreated World. Obviously this process of cosmic resorption was triggered off by the Platonist anamnesis which freed me of time, of the spatiotemporal world; and, specifically, I remembered my former life or lives. Thus I saw Acts because time was reversed, flowing backward. God, the work I have put into this. I am so tired. But here it is. Platonism, most of all, then this Taoist and Pan-Indian technique of returning to the origins, to cure the work of time, to attain health and immortality, and to burn up karma and get off the wheel. It is very complex; I must adopt a synchretistic view; but what is most important is that Valis is identified as the Great Brahman; when I saw Valis I saw Brahman, the unity before time and multiplicity began (time and multiplicity are the same because time equals flux, which is change, which is multiplicity). I can only repeat: this was the missing element, this business of cosmic resorption, time flowing backward. So what I did was alchemical and yoga. God, I could just burst with excitement. Once I broke free of time I was on my way back; once I remembered that's what the whole thing hinges on, the anamnesis. And I wound up seeing Brahman.
+
+{folder 01 - 150}
+
+11-7-80 3
+```
+**Co-occurrences**: Valis, Acts, Brahman, World, Fall, Because, Only, Time, Earth, Platonist, Cosmic, Folder, Platonism, Book, Karma, Could, Just, Once, Both, Obviously, Buddhism, Great, Anamnesis, Taoist, Brahmanism, Through, Most, Heaven, Flux, Before, Universe, Creation, Very, Back, Have, Life, Absolute, Body, Dead, During, Free, Right
+
+---
+### Line 36021-36029 (Match: 'Indian')
+**Folder**: part of
+
+```text
+Indexed
+82
+25
+
+a "bad" side in that they involved me in the Buddhist perception of world suffering (which cannot be separated from compassion to which this perception gives rise); but this perception + the compassion it gives rise to is precisely the means to release from the wheel of birth + rebirth, since your ego -regarded by the Buddha as irreal- is extinguished with your will - + what is finally led to is the ecstasy of Nirvana - i.e. 11-17-80. This appears in "VR" in the dying dog in the ditch scene + Emmanuel's series of responses: it leads to sorrow + compassion for him, + a return of his memories - i.e. true identity (his Brahman-atman God nature). So the etiology of 11-17-80 lies in 3-74 which is rooted in the dream + sorrow, compassion + love put into "Tears" in 1970, + then back to the rat, + the beetle + the cat (+ the Galapagos turtles), to my whole "Atlas" empath nature. In Western terms it leads to God because God's nature is love, but Indian thought gives a more penetrating analysis of why Mitleid is the means to salvation. Thus my act vis-à-vis Covenant House is representative + symbolic of my freed (enlightened) Buddha nature. It was a paying off of my Karmic cebt. Paradoxically, this enlightened nature
+
+Last edit almost 4 years ago by Toso
+83
+Complete
+```
+**Co-occurrences**: Tears, Toso, Indexed, Complete, Brahman, World, Since, Because, Buddha, Atman, Covenant, House, Covenant House, More, Love, True, Western, Finally, Will, Buddhist, Back, Karmic, Dream, Salvation
+
+---
+### Line 36029-36037 (Match: 'Indian')
+**Folder**: part of
+
+```text
+Complete
+83
+26
+
+creates severe problems for me in wanting things (i.e. in acquiring), +, too, it was the basis of my anti-war stand, leading to the tax situation. That 2-3-74 + 11-17-80 were genuine I cannot now doubt, having perceived this life-history (of progressive moksa) of stages of loss of striving + self (the two are the same). Both Xtianity + Buddhism-Brahmanism lead to the same goal, because both are based on compassion (for India this means the loss of self; for the Xtian it means experiencing agapē hence God, since agapē is his nature). Hence I can now link Xtianity with pan-Indian thought through the "slayer + the slain" compassion. Identification; this is one road + it does lead to release. It leads specifically to the perception of reality as one total sentient field, i.e. Valis (Brahman or the Cosmic Christ) of which you are a part. So Valis is Brahman, but also yourself + also -hence- Christ, since yourself now has given birth to the Godhead i.e. Christos in you: the you it (or you not-you) dualism has been literally abolished! Compassion led to this [experience]; this is 3-74, my perception of Valis: this is perception of Brahman via the Xtian route. Thus my entire life led up to 3-74 + seeing Valis, + this in turn led logically to 11-17-80 - Xtian Nirvana. To
+
+Last edit almost 4 years ago by Toso
+84
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Christian, Toso, Indexed, Complete, Christianity, Brahman, Godhead, Since, Because, Cosmic, Cosmic Christ, Does, Both, Reality, Self, Buddhism, Christos, Part, Brahmanism, Through, Were, Things, Life, India, Having
+
+---
+### Line 36097-36105 (Match: 'Indian')
+**Folder**: Unknown
+
+```text
+91
+20
+
+the Gnostic model where Christ combats the power of the original creator-creation: i.e. the law - heimarmene. The old oriental-Indian universe has been invaded by a dynamic process that began at a specific time + place in history with a specific act; this fits in with the insights of "Valis": the rational has invaded the irrational which came first. Therefore a dynamic, process, evolving -rather than static- situation is envisioned. This was "God's secret plan, hidden over the ages from the ancient powers but revealed to us now" - to quote Paul. + it is precisely this dynamic evolving process that was disclosed to me, it taking two forms: 1) in human history (the secret Xtians vs the BIP/Empire) 2-74 2) cosmically (Christ defeating the old creation in combat, dismantling + assimilating it to form his own macrometasomakosmos). 3-74 Both (1) + (2) involve a dialectic - one form operating in human history (stegenographic Messianic chiliastic history), the other in terms of the cosmos as a whole.¹ Both are invisible to our eyes, + in both, Christ is the head or psychē. So I received two revelations.
+
+¹ i.e. it is metaphysical + cosmic
+
+Last edit almost 4 years ago by Toso
+```
+**Co-occurrences**: Christ, Valis, Christian, Toso, Form, Gnostic, Paul, Empire, Therefore, Time, Cosmic, Both, Messianic, Creator, Secret, Universe, Other, Creation, Dialectic, Human
+
+---
+### Line 37421-37429 (Match: 'Indian')
+**Folder**: part of
+
+```text
+61
+14 at once, + was simultaneously Thomas + PKD.
+
+But as I realized last october. There is an explanation for this: my "meta-abstraction" to a "common essence," although this insight was just the beginning of a proper compre‐ hension on my part. Viz: the same intelligible archetypal idea can appear in many places at many times + still be unitary; i.e. there is only one of it, + Plato was herein lies the whole point! onto the metaphysics involved here but could not figure out just how it worked. He would have had (to solve it) come to the realization that we are (1) not here; (2) not now; + (3) self is equally illusory In fact you can serve up a single grand system by combining Plato, Male‐ branche, Pan-Indian thought + quantum mechanics. + as an essential ingredient, the cosmology-mysticism of St. Paul! this explains the specifically Xtian rather than just theistic, elements of 2-3-74 (were not Malebranche's main sources St. Paul, Augustine + Neoplatonism + of course occasionalism + Descartes?) Here is my chance to reintroduce Xtianity, by way of St. Paul
+
+The purpose of breaking the power of world exerted over you is a mean to a greater end. to render tael
+
+Last edit about 3 years ago by svayambhu108
+```
+**Co-occurrences**: Christian, Thomas, Christianity, Plato, Paul, Plotinus, World, Malebranche, Only, Could, Just, Once, Although, Self, Augustine, Still, Part, Would, Were, Many, Have, Greater
+
+---
+### Line 38743-38751 (Match: 'Indian')
+**Folder**: folder 84
+
+```text
+This is very important for any conception one has of world (and of course of God; but look what it tells you about world. On the other hand, 11-17-80 tells you nothing about world, and, as Wittgenstein says, "Die Welt ist alles dasz das Fall ist." As I look about me I think of the tenth section of the GITA and what Lord Krishna says about what he is, the many things in world that he is. "The cunning of the dice player. The letter A." Etc. Also 3-74 points to the fact that although I can't see it --i.e. him-- I am here with God -- as in UBIK. I'm afraid that parts X and XI of the GITA remind me too much of Valis to be ignored.
+
+To repeat, 11-17-80 was a mystical experience and it took place during an altered state of consciousness on my part. But in 3-74 I _saw_ God empirically as well as experiencing him a priori. Thus, as I say, this was a theophany. It wasn't just a , "I talked to God" situation. And it lasted for months.
+
+I saw God and he was here and there in the world; not as the world, but distinguishable from it as set to ground. Exactly as Krishna says in chapter ten of the GITA. And the world did not (as such) exist, i.e. the spatiotemporal world; that was how my experience began, with that perception. This is Brahmanism or at least Pan-Indian. Certainly 11-17-80 is a much more common experience, at least in the West; but 3-74 represents moksa, and, as I say, it is a genuine theophany. I felt that Valis had (at an earlier time) invaded our world; hence what I saw disclosed was an in-breaking of God who is now here. This might be my solution to the Eastern-Western dilemma. God is here in world (an Eastern view) but he is not world; he broke into world (the Western concept of God's in-breaking, which is apocalyptic thought). 2-3-74 had vast epistemological and meta-physical implications, but 11-17-80 did not. Here's a theory: in 3-74 I saw God more as he is, but in 11-17-80 he assumed an anthropomorphic form, and attributes, in order to communicate with me.
+
+Last edit over 9 years ago by cfr5005
+folder 84 - 010
+Indexed
+```
+**Co-occurrences**: Valis, Ubik, Indexed, Form, Well, Lord, World, Fall, Time, Folder, Just, Look, Although, Nothing, Krishna, Part, More, Brahmanism, Ground, Such, Certainly, Western, Other, Very, Many, Things, Eastern, West, During
+
+---
+### Line 39356-39364 (Match: 'Indian')
+**Folder**: folder 90
+
+```text
+Indexed
+folder 90 - 069
+E-11
+
+lost contact with our source. My restoration may indicate that the Parousia is here because it indicates that Christ is here, in other words, not just (sic!) what I saw indicates this ((1) the scripture in "Tears" + (2) Christ camouflaged) but, more, that I saw, that I was restored! So there is a symmetry between what I saw + that I saw. When I believe, I am crazy. When I don't believe, I suffer psychotic depression. I oscillate between intoxication (mania) + melancholia. I think, now, that my dream about the child going blind + no longer able to see the sun symbolized my losing my vision (sic): i.e. of Christ, Dionysos, Wotan, YHWH, because it is all gone; it seems mere mad fancy, like believing you might see mr Toad sculling a little boat down a stream. I can't live without my vision but my vision is self-delusion. This is a Verfallen from what Bindswanger calls the Eigenwelt to the Umwelt as with Ellen West "I can no longer see" - my vision (I peer but do not see) faded out + I am blind - poisoned by the earth itself: symbol of the chthonic -i.e. tomb- world. The poison comes up from below. __ Ach - ich versuche einmal wieder. Indian pantheism assumes that the world we see -of plurality- is not real because it is imperfect, whereas Brahman is perfect. Xtian medieval pantheism, in contrast, assumes that God alone is real: therefore everything that we see must in some way be God or a manifestation of God. Upon reading this I realized at once that the latter is the explanation of Valis.
+
+Last edit over 5 years ago by Toso
+folder 90 - 070
+Complete
+```
+**Co-occurrences**: Christ, Valis, Tears, Christian, Toso, Indexed, Complete, Brahman, Parousia, Dionysos, Like, World, Because, Therefore, Earth, Folder, Just, Once, Self, Everything, Toso
+Folder, Without, Indexed
+Folder, More, Real, Upon, Other, Eigenwelt, Umwelt, West, Dream, Whereas
+
+---
+### Line 41012-41020 (Match: 'Indian')
+**Folder**: part out
+
+```text
+Last edit almost 3 years ago by svayambhu108
+95
+Needs Review
+95
+K-96 pressed in the Torah, is built into the physical structure of natural law as Karma which recalls to me my impression upon reading like, that Christ was a yogi; + this talion law is Karma, which Christ taught us how to overcome by his system of ethics - this makes Christ's system seem a pan-Indian system of enlightenment I freedom from retributive Karma. But what am saying is that (1) the Torah is the source of the rules/laws governing reality; + (2) Christ + this combats this, as Paul so clearly understood. would be the dialectic! Paul's saying that we are all sinners until justified by God expresses the idea that without Christ's intervention, the law has it power over us all. + it will act retributively. is (in the physive structure of out universe, bound up with the world-mechanism. It actually takes a form that no one would dispute the reality of physical cause-+-effect. Thus were we to see Christ we would see a suspension of causation! that the Torah is built into our universe as its physical natural law is a realization vast indeed, + it shows that Christ, in com batting the Torah, is combatting causation itself - as indeed I saw; so Valis is invading into his own + transubstantiating the universe saw exactly what I thought I saw! I body: + as ontological basis, this is one info-system war with another. at The overthrow of Torah will mean a transformation natural law itself ("the servant has become of the master"). The Messianic age is here, expressed by an interference with causation itself. saw it but largely did not fathom the ustively in that Christ 3 except nificance 9
+
+Last edit almost 3 years ago by svayambhu108
+
+96
+```
+**Co-occurrences**: Christ, Valis, Form, Torah, Paul, Like, World, Karma, Reality, Messianic, Without, Another, Upon, Actually, Universe, Will, Would, Were, Clearly, Body, Freedom, Info, Except, Dialectic, Until
+
+---

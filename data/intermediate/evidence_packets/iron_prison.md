@@ -1,0 +1,343 @@
+# Evidence Packet: Iron Prison
+
+- **Category**: Top Term
+- **Total Mentions**: 24
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 2530-2538 (Match: 'Iron Prison')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+190
+Needs Review
+190
+While you are dead the Kingdom remains invisible to you. I think in 2 75 I began to see it. It is a spiritual kingdom, and in the process of becoming actual (physical, literal, visible). We are the dead, as in UBIK, who must be roused by the sound of His voice. But not roused to physical life but spiritual life (as the grain of what is not raised as it was sown). (But raised in a new, spiritual, better body.) This is why when I saw the King He was dancing among the furrows -- which is where the wheat lies sleeping (in death); he made a sound to them in some way; a form of music. He, the spring king, was calling the sleeping wheat up into life, from where they were buried in the furrows; this is what spring, and his voice, mean. Thus it is said of Dionysos that he "is a god of vegetation" and the mystery of Elysuis is a grain of wheat planted in the furrow is reborn, and the grave equals the furrow -- the dead human, buried, is reborn. This is what I saw in 2 75 without (as usual) understanding it. As He calls to the wheat, who are dead in their furrows, he calls to us who are dead (in our graves), exactly as I depicted in UBIK (Runciter's voice, their friend who died but who, for them, has returned to help them). As the corn(spring) king called the wheat to new (physical) life each spring, so Christ calls us to new (spiritual) life, out of the grave furrow) we are sleeping in. We must listen for the sound of his voice, which means the New Birth for us, just as each grain of wheat bursts into new life, a new kind of life different from before (before it was solitary), at the sound of his voice (spring). Light, entering the pineal gland in spring, has something to do with this, he is a god of light, turning us into light creatures. Regarding this, it is said that his voice wakes us to new (spiritual) life and calls us into His Kingdom, which is called the Kingdom of God, where He (Christ) rules. Thus the chromatic phosphene graphics which I saw in 3 74 are the light breaking through to me, just as it does to the wheat in spring (and this was the vernal equinox!); then I heard the sound of His voice, and entered a new world (the Kingdom). I felt, for the first time restored. I saw him correctly (I now know) in every detail: as the deposed --rightful, the rejected, exiled-- king (who would come back in power). Thus, the deposing of Nixon takes on an archetypal quality, in that he was the ursurper king ruling in the rightful king's place, like King Pentheus (and Claudius in "Hamlet".) His overthrow is an archetypal, not incidental, victory for the rightful king, the ursurper being the "Prince of this World," the Herod figure. Just like King Pentheus he sought to imprison in innocent, but instead imprisoned the figure of the Rightful King in some form, and was deposed. Thus in 3 74 I saw the iron prison the ursurper had built around us and recognized it as Rome; also in 2 75 after he had been deposed I saw springtime seep in, replacing it, which indicates to me that now the Rightful King can come toward us & speak to us more clearly, unhindered. And sure enough, subsequent to my seeing that springtime world (2 75) the imperial empire, its provinces, have slipped away without a fight. I.e.: THE WAR ENDED. There is no way, in considering these images, to fail how they pertain to Christ and the salvation story. I don't think Dionysos or any of the others is described as a king -- only Christ; and anyhow the king image relates it to the TEARS dream, which is surely the "Ancient of Days," and image of Christ. I note, too, that what is not a fertility symbol, but a rebirth symbol. The "solitary" life which both Christ and
+
+Last edit over 5 years ago by Harpax
+
+191
+```
+**Co-occurrences**: Christ, Tears, Ubik, Rome, Form, Kingdom, King, Empire, Dionysos, These, Like, World, Iron, Prison, Only, Time, Nixon, Harpax, After, Light, Does, Anyhow, Just, Something, Kingdom of God, Both, Being, Runciter, Without, Their, More, Through, Voice, Before, Death, Would, Hamlet, Were, Back, Surely, Have, Clearly, Life, Body, Spring, Pentheus, Instead, Days, Dead, Human, Dream, Salvation
+
+---
+### Line 3539-3547 (Match: 'Iron Prison')
+**Folder**: book of
+
+```text
+Needs Review
+284
+represented the spiratus veritas, the spirit of truth spoken of by Christ as the Helper who would assist man after His own death. I worked very hard on tne task assigned me, glad to do it, since the entity had extricated me from a thrall of such magnitude that in all candor I still can't speak of it; needless to say, had it not, I would now be in prison — it had to do with civil disobidience on my part during the Viet Nam War, which would have meant, if arrested and con¬ victed, some fifteen years in prison for me. The entity, during the brief period of theolepsy, dealt with the authorities and was so able in its eloquence and wisdom that it earned from the Federal Bureau of Investigation a letter of commendation signed by the assistant director, William Sullivan. Thus, the entity not only extricated me from a seemingly hopeless trap, but put me to worm (in my small way) bringing to light the truth which eventually deposed the tyrant and all his henchmen. This took from March 1974 to August 1974.
+
+The entity transported me from what is called secular time to sacred time (or eternity) and showed me the underlying structure of the universe, in particular the activity of the logos as it weaves the universe anew constantly. The entity restored my lost memories (a process called anamnesis! so that I could remember back over a timespan of two to three thousand years. It spoke to me in Koine Greek, but soon abandoned that, since I did not understand it; however, that was its natural language when addressing humans. You can see from this, and from the fact that it healed my and Christopher physically of all our ailments, that I was in the hands of what is generally callow the holy spirit, and I will accept that name, although it does not tell enough, since Christ Himself, the cosmic Christ, was equally present. I was shown name inscribed in the book of life, and I was shown the next world where humans go, to rejoin their Creator; I heard the singing of angels and saw the beatific vision spoken of by the Medieval saints. Possessing a memory going back thousands of years, and having seen the world to come, I understood that I had been placed here for only a brief part of my total life, that I had come from starry heaven and would return. Lastly, the entity informed me that the Savior would return, be incarnated again, although no date was given; but I was shown tha_ we should prepare for that event as if it might happen at any moment, and we should be constantly in a mood of joyful anticipa¬ tion. l was, at one point, taken back to the first incarnation, and saw the v.st Iron prison which was ——and still is— Rome, the physical presence of the evil spirit, the Prince of This 'World. It was shown to me that tina prophecies of the Bible are all true and are systemati¬ cally being fulfilled. The Parousia evidently is not far ahead of us.
+
+I have wanted to write you about all this for some time; for one thing I was shown old friends, now departed, such as Nick and Tony Boucher and Jim Pike, still living on, but not separately — they had become aspects of God. Again and again I have wondered why I was picked for these revelations, but can find no answer; a Catholic priest with whom I spoke said that the Holy Spirit favors writers, but that hardly explains it; there are many writers, perhaps the severity of my
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Rome, Holy Spirit, Greek, Bible, Parousia, However, Wisdom, These, Perhaps, World, Since, Iron, Prison, Only, Time, After, Cosmic, Savior, Book, Cosmic Christ, Light, Could, Does, Again, Being, March, Catholic, Tony, Although, Himself, Bureau, Anamnesis, Creator, Still, Part, Their, Pike, Living, Heaven, Such, Jim Pike, True, Death, Universe, Will, Christopher, Would, Very, Back, Many, Have, Life, Memory, Evil, Having, Remember, Truth, During, Evidently, Answer, August, Sacred
+
+---
+### Line 3879-3887 (Match: 'Iron Prison')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+11
+11 I may have waked my way toward + to this point through may than this one lifetime. + this whole awakening is intimated tied up with remembering (who I am, where I care from, what I dout do). Remembering that I am Brahman, since originally I was. An interesting conclusion from this is that James-James. creation comes out to be a sort of false, irreal or illusary universe superimposed onto Brahman's manifestations with Brahman like in Ubik breaking through from underneath or behind; perhaps J-J's world is idential to the "wizardng" world of Maya, + perhaps the Roman world c. AD 70 which was revealed is âž€ either what 5-t's world really looks like; or (2) the Roman world is Brahman + its real world; or (3) the Roman world is J-81 actual world, what he has actually constructed + then tried to make Palatable, with the "Palm tree" world the authentic world of Brahman I did have that impression (3, that the black iron Prison world is how this world actually is, in all its evil, but 5-5's keeps it disguised... + I fell the palm tree world to be the Kingdom of God (in this theory, Brahman's world). wizardry-maya. In my dream of 5-I, as I've said to people, he resembled a genius magician doing astonishing I rich, to bedazzle + impress a huge audience In Ubik, as Claudia pointed out, both worlds (32 + 2) are illusory: only runciter + Ubik (+ the characters) are real, + he characters don't know their own actual condition; that they are mutually dreaming the (decaying] world they're in, to be mutually asleep + dream an illuson world: that is ourselves lost in Maya - R. + Ubik are Brahman + its authenti living non-decaying reality breaking through to them th their benefit: as rescuer
+
+Last edit almost 3 years ago by svayambhu108
+12
+Needs Review
+```
+**Co-occurrences**: Ubik, Kingdom, Brahman, Roman, Perhaps, James, Like, World, Since, Iron, Prison, Only, Black, Kingdom of God, Both, Maya, Reality, Runciter, Black Iron Prison, Either, Palm, Their, Through, Living, Real, Actually, Universe, Creation, Have, Tree, Claudia, Evil, Dream
+
+---
+### Line 3887-3895 (Match: 'Iron Prison')
+**Folder**: part of
+
+```text
+Needs Review
+12
+12 The characters in Ubik (+ in maze. Death, + sometimes in Stigmata) are not really here, in this world which itself is an illusion; they are elsewhere + dreaming (or hallucinating) what does this tell us about us? We are "not here really; but "are" really in the pleroma (or anyhow entered this 3-3's (maya) illusory world from there, which we haw forgotter, + our real identity forgotten with it. An exegesis from Ubik (Ubik as model says that not only is the world we see here around us not real but that in sure true sense we ourselves arent here, + the illusory world hides our actual landscape
+
+which is "elsewhere. Meaning unsuspected, different Am I really in Rome C. AD 70? As I saw? At the time of the first Advents of the "wizardry" factor rolled back we'd see black iron doors + walls: a prison. We the prisoner, are dreaming (i.e. being dient, presented with) a better - appearing "Nice" world, which it actually is not (the real worlds for the people in Ubik stigmata + mare were all uniformly awful hence the people were motivated to collectively escape into a dream world - if world we're good (1) we wouldn't be motivated to escape into a collective dream, or (2) James-James wouldn't be motivated to conceal it maybe our collective amnesia is self-generated so that such as I saw. we can escaped from an intelerabler bad world, an Iron Prison the intrusions by R.+ Ubik + the Gnosis given me, are information (wisdom) from the savior deity apprising us of our true situation: "Jump in the urinal + stand on yout head) I am alive, you're all dead." The actual bad, prison world can't be abolished unless we awake to its existence - stop dreaming, ascying of into illusions be awakened (by the Good deity) + fight it, rather than just There is no motive - reason - for anyone to run away from a good world,
+
+Last edit almost 3 years ago by svayambhu108
+13
+Needs Review
+```
+**Co-occurrences**: Ubik, Rome, Maze, Wisdom, Maybe, James, World, Gnosis, Iron, Prison, Only, Time, Black, Stigmata, Savior, Good, Does, Anyhow, Just, Maya, Being, Self, Real, Such, Actually, True, Death, Deity, Were, Back, Information, Unless, Dead, Dream, Pleroma
+
+---
+### Line 3893-3901 (Match: 'Iron Prison')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+13
+Needs Review
+13
+the palm tree world is the real + good world we will be in after the Iron Prison world is destroyed. "To arms? the tutulary spirit was saying - for me to act against this actual black Iron Prison world to over throw it as part of the historic event of grand overthrow: water gate, as predicted by Daniel - the stone uncent. Brahman's real world is the civital see of Augustine, + the intelerable black Iron Prison world is the civity, munde If the Black iron world cant be destroyed, or as long as it still isn't destroyed, our only real refuge is in the Palm tree civitas dee not here: beholder Maya he âž€ reality (bad) âž€ ana oterial patt reality (good) âž€ ther tha or: pate the world here (events) Rising - what we see, mixed sinking /which is mired phenomenal - world we see black iron world) hell (punishment?) e our transmigration through the lives is attempted ascent from the black Iron world; had we been punished + incarcerated? I can assume the black iron realm is real + we are in it; if that wasn't so, thered be nothing for Christ to rescue us from. Intervention by a redeemed wouldn't be needed between us + the Kingdom stones the realm of eve the black Iron prison world. Against its walls knocks the savior from the other side.
+
+Last edit almost 3 years ago by svayambhu108
+14
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Kingdom, Brahman, World, Iron, Prison, Only, After, Black, Savior, Good, Realm, Maya, Reality, Black Iron Prison, Daniel, Augustine, Palm, Nothing, Still, Part, Through, Real, Will, Other, Tree
+
+---
+### Line 3899-3907 (Match: 'Iron Prison')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+14
+Needs Review
+14
+the existence of the Black Iron Prison is a revelation, [not?] visible to the unaided eyes ; But greater than that is the revelation that lying behind a [beymed?] if, Breaking into it. Breaching [it?], lie, God; Kingdom or Brahman, at the deepest level of ([ontological?]) reality. But we do not need to enter the Black Iron Prison to [?] God's Kingdom, we are in it now, & God (Brahman) is nearly reaching to us here in that prism from outside it. We must get out of the prism & enter his Kingdom, But what is first [required?] is to recognize the existence of the Black Inn Kingdom all around us. Evidently this is difficult for people to do. they would rather collute with J-J in the delusional [vil?] of Maya - "this play [was?] nice & I belong here." were we captured & brought here? or did we [rans ness?] & were sent here? I have no knowledge or insight about that. All I do know is that I wasn't always here; originally I lived with my heavenly father, in his mansion, "out there." Maybe, as the [Essones?] teach, we were divine souls who got tangled up with matter (if neoplatmism) & souls down into it, unconscious & forgetful. the solution seems to lie in the act of remembering ; this by itself has high - if not determining - [salvific?] properties. Id say, & we [illegible text?] captured, mere remembering wouldn't free us. But we could have transgressed & been exiled here, & the return of [Kemny?], initiated by God & [restner?] to us through his activity towards us (Grace) could signal that our period of exile here is over. Remembering does not Cause us to return; remembering is a signal that we have served our time & it is now time for us to return. Remembering is the first step in our journey Back; it comes as a reward, perhaps, for something Good that we did even here, without our knowing very much: maybe the men who remember do so after (for what ever reason) finding the [Dhanana in?] way. Revelation does not show us the way; revelation comes because we have already found it & begun in it, maybe by some heroic deed (which could include deeds of self-sacrifice & self-extinction).
+
+Last edit over 4 years ago by dstoerger
+15
+Needs Review
+```
+**Co-occurrences**: Kingdom, Brahman, Perhaps, Father, Maybe, Because, Iron, Prison, Time, After, Black, Good, Even, Could, Does, Something, Maya, Reality, Self, Divine, Black Iron Prison, Without, Grace, Through, Revelation, Would, Were, Very, Back, Have, Journey, Remember, Knowledge, Greater, Evidently, Free
+
+---
+### Line 3905-3913 (Match: 'Iron Prison')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by dstoerger
+15
+Needs Review
+15
+15 t the basic theme in stigmata, Ubik + make - the pleasant llusory skin stretched over a dreadful reality -- stems from my early reaction to the two stories I read, one of the dying fay walk ing around in front of him; the other the hidden underground lity screaming. The cardinal fixes idea of all my writing hastes This plus the theme: I am not (or he is not) what I think (I am) he is - in partic plan my (his) true identity is obscured by fake memories. âž€ Reality is not as it appears to be + (2) I am not who + what I think I am to put them together is to get: both inner + outer reality are not as they appear. The moment I read the two above -mentioned stories I intuitively fell, "this is the way it is: this is so. Already, before I myself ever wrote, I instinctively fell the insight to be correct. So my 3-74 vision of our really being is a black iron prison world, + the nice world we see being an illusion - that vision is tied to my entive intellectual life. Likewise my discovery in 3-74 that I am not who + what I think I am is central to my world-perception, + my corpus of writing an out growth + expresson of it, so for me, in terms of the history of my world-perceptions, the vision of the external black Iron prison + at the sane time an inner transformation of me from my cimited false, ego identity to the immortal visitor (with memories of just having been in the black iron Prison world) is an apotheosis of my own lifelong intimations - + a fruition of theme, turning an intuitive intimation into direct experience + encounter - not to mention a shocking + unexpectal verification of both themes. This for one the vision of the black in prison + the inner meta morphosis + restored memories is the basic fact of 3-74 - not discover but confirmation of what I evidently had known for tears on an unconscious level. It is as if an inconscious personality which always knew all that had at last broken through (in a sort of epiphany) + at last realized itself. The source of my knowledge, because of the stressful situation came forth + revealed its existence In talking to tim I noted that the basic themes in my writing add up to be the secret gnosis virtually entire. If this is the
+
+Last edit almost 3 years ago by svayambhu108
+
+16
+```
+**Co-occurrences**: Tears, Ubik, World, Gnosis, Because, Iron, Prison, Time, Black, Stigmata, Just, Both, Reality, Being, Black Iron Prison, Corpus, Through, Secret, Before, True, Other, Life, Fake, Having, Likewise, Knowledge, Evidently
+
+---
+### Line 3968-3976 (Match: 'Iron Prison')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+26
+26) ontil the intervention. This is why intervention tooh place - to avoid it as the final outcome, + to rearrange a crucial event back in our times that would instead establich the Garden as the end + outcome + goal of the linear becoming process extremely important, ther, is the perception I had of the activity of the Logos working back‐ ward from the end to direct causal events (persuade?) along - not chance lives - but along the one right line at every nexus or junction; this - all which I saw, inc. the historical intervention, would fit perfectly with that: a retroactive mending of the past, which explains my ver first impression: that people from the future were tinking around back here at our time to bring about a better direction of historical events: i.e. time travel (they would be the 3-eyed people + their Bathosphere technology). (Also this would explain why I knew the Xerox letter was coming, down to the very day; the spirit which took me over + controlled me was from the future. This, too, would explain how I got phased ahead in time + started reacting to events slightly before they happened."!! (So herewith we revive the tachyon et al theory.) It is certainly true that I did see the great sentient God - entity traveling backward thro time, + there fore absolutely knowing the future, + certainly it was the decisive force in we determining all outcomes of events; it seemed able to melt into causal chains +, by a sort of trans‐ substantiation become them (as Brahman is said to trans‐ form itself into the universe or take on the appearance of it) So the Black iron Prison was what our world really was, + the palm tree would was what it wasn't but could have been can infinitely more desirable alternative. + by the time "they" were finished, the latter was real + the for mer abolished
+
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+```
+**Co-occurrences**: Spirit, Logos, Xerox, Form, Brahman, World, Iron, Prison, Time, Black, Garden, Could, Black Iron Prison, Great, Palm, Their, More, Real, Certainly, Before, True, Universe, Would, Were, Very, Back, Have, Tree, Instead, Final, Right
+
+---
+### Line 3974-3982 (Match: 'Iron Prison')
+**Folder**: part as
+
+```text
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+27
+( + if this was a reweaving of the present by an entity or entities from the future, the reason I saw the was that Somehow I was involved in the change. Then the personality which took me over did not come from the pass but from the future, + the reason I felt the presence of the past is that our world is the past to him, an archaic world, bleakly tyrannical: as Rome is to us, we (or world is) to him; also maybe to him, to then, our world is viewed as the tail end of the wester Roman empire. Maybe I saw our world as the black Iron prison because that's how he saw it - i.e. one world is his past. So the black man world could be an alternate (bad) forture from which he had just come, + remembered, or it low he his view of our tyranny-dominated world. In both cases the Black Iron world is the is, + the palm tree world is the not real future hoped for + sought for. However, this uncertainly on my part as to whether he remembers the black Iron world from his own time or perceives it as the real nature of our time, is just a paralled versin of the confusion in my "man from the past" schema, in which I am not certain if he remembers Rome c. AD 70 or experiences - reveals - it as being here. In neither case (assum ing either to be true) can I determind which it is. + this confusion is confounded by dies of the ancient world in which There is super-modern technology - e.g. the high-speed up-down transport in the Roman trium, one argument that he came from the future, not the past, was his ability to drid my car. + his knowing the Xerox letter would arrive + when it would arrive the "man from the past" theory ony works when the theological elements (the theophany by God) is added to it, but conversely, the "man from the future" car be made to work in itself without the addition of any divine help or knowledg so the laten is more economical (dechan, razor principle.)
+
+Last edit almost 3 years ago by svayambhu108
+28
+Needs Review
+```
+**Co-occurrences**: Xerox, Rome, Empire, Roman, However, Maybe, World, Because, Iron, Prison, Time, Black, Could, Just, Both, Being, Divine, Black Iron Prison, Either, Palm, Viewed, Without, Part, More, Real, True, Would, Somehow, Tree, Neither, Whether
+
+---
+### Line 4021-4029 (Match: 'Iron Prison')
+**Folder**: part I
+
+```text
+Indexed
+34
+34 much of my writing contains themes from the Gnostic vision, which i hadn't realized. Thus i now say that, without knowing it, I have been unfolding the Gnostic vision for years. Evidently this can be explained by the presence of the Buried memories in me released by anamnesis in 3-74.
+
+The retrieved memories show that I came here originally "from the heavens." But I can't really say when. There is some reason to think that I lived a previous life during Greco-Roman times, but it is equally possible that my vision of that Black Iron prison world is actually a vision of this society, 1974 USA, seen from a more accurate view point. (is even sub specia aeternitatis), + there is, besides, the possibility that the vision is of one of two alternate futures.
+
+In other words, I do not know when the Black Iron Prison world existed, exists or will exist. More easily located is the other vision, the Palm Tree world. It is our home, the park or garden or pastoral Kingdom that for reasons unclear to me we left, + which we still yearn for. Evidently the is some possibility of our returning to it: this can happen through the savior, Jesus Christ, who came here from our homeland to help us - in particular to cause a restoration of our lost memories, hence our true Identity, +, with this, remembrance of our true purpose in being here; through this anamnesis we will be able eventually to get back home.
+
+Whatever, whenever + where ever the Black Iron world is, was, will be, it is bipolarized against the Palm Tree World, perhaps in Augustine's sense of the City of God vs the city of the world, which, he taught, have always been comingled as one, but at the end the two will separate + we can see to which we have given our allegiance.
+```
+**Co-occurrences**: Christ, Indexed, Jesus, Kingdom, Gnostic, Roman, Perhaps, World, Iron, Prison, Black, Garden, Savior, Even, Being, Jesus Christ, Black Iron Prison, Augustine, Palm, Anamnesis, Without, Greco, Still, More, Through, Actually, True, Will, Other, Back, Whatever, Have, Tree, Life, During, Evidently
+
+---
+### Line 4023-4031 (Match: 'Iron Prison')
+**Folder**: part I
+
+```text
+34 much of my writing contains themes from the Gnostic vision, which i hadn't realized. Thus i now say that, without knowing it, I have been unfolding the Gnostic vision for years. Evidently this can be explained by the presence of the Buried memories in me released by anamnesis in 3-74.
+
+The retrieved memories show that I came here originally "from the heavens." But I can't really say when. There is some reason to think that I lived a previous life during Greco-Roman times, but it is equally possible that my vision of that Black Iron prison world is actually a vision of this society, 1974 USA, seen from a more accurate view point. (is even sub specia aeternitatis), + there is, besides, the possibility that the vision is of one of two alternate futures.
+
+In other words, I do not know when the Black Iron Prison world existed, exists or will exist. More easily located is the other vision, the Palm Tree world. It is our home, the park or garden or pastoral Kingdom that for reasons unclear to me we left, + which we still yearn for. Evidently the is some possibility of our returning to it: this can happen through the savior, Jesus Christ, who came here from our homeland to help us - in particular to cause a restoration of our lost memories, hence our true Identity, +, with this, remembrance of our true purpose in being here; through this anamnesis we will be able eventually to get back home.
+
+Whatever, whenever + where ever the Black Iron world is, was, will be, it is bipolarized against the Palm Tree World, perhaps in Augustine's sense of the City of God vs the city of the world, which, he taught, have always been comingled as one, but at the end the two will separate + we can see to which we have given our allegiance.
+
+The changes in me in 3-74 seem to consist of a restoration to some superior primordial state or evolution to a superior later state or superimposition of a divine state such as may pertain before + after death: there seems to be some correlation between the Black Iron Prison + our normal state; + between the Palm Tree world + the superior state. The superior state, anamnesis + the Palm Tree World are in fact correlated, as are forgetfulness, the fall to this limited state + the Black Iron World.
+```
+**Co-occurrences**: Christ, Jesus, Kingdom, Gnostic, Roman, Perhaps, World, Fall, Iron, Prison, After, Black, Garden, Savior, Even, Being, Jesus Christ, Divine, Black Iron Prison, Augustine, Palm, Anamnesis, Without, Greco, Still, More, Through, Such, Actually, Before, True, Death, Will, Other, Back, Whatever, Have, Tree, Life, Later, During, Evidently
+
+---
+### Line 4027-4035 (Match: 'Iron Prison')
+**Folder**: part I
+
+```text
+In other words, I do not know when the Black Iron Prison world existed, exists or will exist. More easily located is the other vision, the Palm Tree world. It is our home, the park or garden or pastoral Kingdom that for reasons unclear to me we left, + which we still yearn for. Evidently the is some possibility of our returning to it: this can happen through the savior, Jesus Christ, who came here from our homeland to help us - in particular to cause a restoration of our lost memories, hence our true Identity, +, with this, remembrance of our true purpose in being here; through this anamnesis we will be able eventually to get back home.
+
+Whatever, whenever + where ever the Black Iron world is, was, will be, it is bipolarized against the Palm Tree World, perhaps in Augustine's sense of the City of God vs the city of the world, which, he taught, have always been comingled as one, but at the end the two will separate + we can see to which we have given our allegiance.
+
+The changes in me in 3-74 seem to consist of a restoration to some superior primordial state or evolution to a superior later state or superimposition of a divine state such as may pertain before + after death: there seems to be some correlation between the Black Iron Prison + our normal state; + between the Palm Tree world + the superior state. The superior state, anamnesis + the Palm Tree World are in fact correlated, as are forgetfulness, the fall to this limited state + the Black Iron World.
+
+Last edit 8 months ago by Zebrapedia
+35
+Indexed
+```
+**Co-occurrences**: Christ, Indexed, Jesus, Kingdom, Perhaps, World, Fall, Iron, Prison, After, Black, Garden, Savior, Zebrapedia, Being, Jesus Christ, Divine, Black Iron Prison, Augustine, Palm, Anamnesis, Still, More, Through, Such, Before, True, Death, Will, Other, Back, Whatever, Have, Tree, Later, Evidently
+
+---
+### Line 4046-4054 (Match: 'Iron Prison')
+**Folder**: part expressed
+
+```text
+36
+36 who experiences this talks about it (no con talk about it) , I passed from one world + into another. I sum it up like that, +: I ceased to be one thing + became a better thing, +: I escaped illusion + reached reality.
+
+How about this? I escaped from the Black Iron Prison, which limits + enslaves, + thereafter I found my way to the Palm Tree World, which frees. Growth is implied. I guess I found release or liberation through recording my lost memories, +, in that state, found my way back home, to God + His Kingdom - the real God of all men. What else can I say? What else need be said? What particulars? What elaborate theories?
+
+It's like Shangri-La, since I could not hang onto it - "Lost horizons" indeed. But as Ché said, the memory remains + that is something: that makes a difference. I have an Acute + unshakeable conviction that I now know [what] we will find beyond death. The Great assize is very real to me - a winnowing, with some rising + some falling. But what I describe here is exactly (I think) what has already happened to me - the 3-74 I imagine + don't understand. I just said it: there has been a judgement of me which has released me. What? Has what? Half-asleep I wrote that "which has released[undercored] me." What does this mean? Released from what? ... + What fell away? Not responsibility. ah! KARMIC BURDEN which I was carrying. The dead deer - carcasses of poor injured animals. I don't think this release can be understood without positing Karmic Burden.
+
+How did I cancel it? I don't even know that, but some kind of karmic cause + effect was involved. + this fits in with my recollection of at least my past life, my anamnesis. So here is another element of India[n] religion + they all seem to be here.
+```
+**Co-occurrences**: Kingdom, Like, World, Since, Iron, Prison, Black, Even, Could, Does, Just, Something, Reality, Black Iron Prison, Great, Palm, Anamnesis, Without, Another, Through, Real, Death, Will, Very, Back, Beyond, Have, Tree, Life, Memory, India, Dead, Karmic
+
+---
+### Line 4074-4082 (Match: 'Iron Prison')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+40
+Needs Review
+40
+0 I was so aware at the time of the Xerox letter of the nelf to choose correctly, it was fear-provoking + ominous - I was tense + terrified, as witness my B. P. But also; I knew there was incredible good latent in the situation, if I did manage to choose correctly well, I did so choose, + maya continieed to left, so that finally I could perceive + commune with God - the greatest joy possible: plus the promise that, upon death, I would go to join him + Tony Boucher + the others, who were there with him finally I say: the black Iron Prison world is that deterministic prison which the mechanical cause - + - effect laws of Karma imposes on us: each successive life determined rigorously by what carre (by what we did) before: truly a prison for the soul. + of course the Palm tree park is the place we yearn to return to, but cannot unless or until we are freed from karmic burden (or, if you will, sin). in Egyptian terms, ma'at's feather proved heaver than the heart being weighed In Zoroasterior ters, one has chosen the light, + his met, fought, + triumphed over his drus. I have it: my whole karmic burden expressed itself as ceaseless terror of capture. At 3-74, the Karmic content of This ceaseless torment swam to the surface + revealed its origins in a past life, in Rome, where I was an early Christian who lived in actually, realistic fear of the Ir leg, died to my involvement in illegal Christianity. The past life roots (cause a origing of this fear, rational ther in that previous world were revealed: the fear was of past life of karmic origin, +, once I had dealt with the Xerox letter rightly, I was freed of that ifelong fear of imprisonment + death + this is still so.
+
+Last edit almost 3 years ago by svayambhu108
+
+41
+```
+**Co-occurrences**: Christian, Xerox, Rome, Christianity, Well, World, Iron, Prison, Time, Black, Good, Light, Karma, Could, Once, Maya, Being, Tony, Black Iron Prison, Palm, Still, Soul, Upon, Actually, Before, Death, Finally, Will, Would, Were, Egyptian, Have, Tree, Life, Unless, Karmic, Until
+
+---
+### Line 4079-4087 (Match: 'Iron Prison')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+41
+41 So my lifelong fears had their origins in a past life. I remembered that past life, which feed people do, then I chose correctly (ore the Xerox letter). the immutable mechanical cause-+-effect force of Karma was broken (thanks to God's intervention or grace). That fear has never returned. Eviderly I was punished (arrested + immisure + finally killed in that past life); this was decollection & Cathasis what you do with childhood traume. fury theaky. Yas trauma, all right but in a prier life, not in childhood - dooming me to perpetual suffering. I had to make my peace with the autherites as it stood I was myself engineering a mechanical (karmic) repetition of that original situation + doon, + or some level I sensed this + so was afraid of what inexorably lay ahead (sare as before). Reacting to the Xerox letter the was I did broke the mold a pattern of the previous life I + so broke Karma. This time I did what I did not do (or couldn't do) then. + so at last I ceased to sense - or actually - see the black iron prison that was (is Rome ground one which once ha been literally there. My script" called for self-destrictly martyrden - my whole life aimed at it (Christianity prizes martyrdon) - but God's script (his will called for me to keep on livine (i.e. to write + act in a fighting way. rather than self-destructuewa). He won
+
+Last edit almost 3 years ago by svayambhu108
+42
+Needs Review
+```
+**Co-occurrences**: Xerox, Rome, Christianity, Iron, Prison, Time, Black, Karma, Once, Self, Black Iron Prison, Grace, Their, Ground, Actually, Before, Finally, Will, Life, Karmic, Right
+
+---
+### Line 4085-4093 (Match: 'Iron Prison')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+42
+Needs Review
+42
+2 partly, he won by lifting the veil for me on my past life, so I could see why + what I was doins: He knew I could not defeat my event the black Iron prison that way: he then showed me - motivated me - how to fight + help destroy it in non-self destructu ways, again I see this as a case of God performing his mighty act of breaking astral determinism (now expressed as Karma). It was necessary for me to do something I would never do, + only God can achieve this since existential man is difenced by his Acts. I had to be what I wasn't - an impossibility. My plan (script) was unfree + deterministic as was shown where the veil was lifted + I could see the source of my "fight the Inn Prison by fall ing into its clutches" martyrdom plan. It was my plan vs the plan God has for me (probably further writing, both books + letters such as the wiggens letters). In seeking to repeat my previous Christian Martyrdone I was warring one God, + as yeats says "on stroke of midnicht God will win. But I sense something more: what I think of as a reweaving of me. Which evidently is an unusual event moved backward through time from the far end (final ent) of the universe to abolish the black in prist replace it be with the palm tree Garden; to do this he hat ovidently) to reweave some of the fabric here, which meant ome people, as well as events. Indication of my personal weaving was the Adventitious not-me personality sent to olace more. A mere path along time -or through cause-+- ifect possibilities, an "alternate world" was brought into s
+
+Last edit almost 3 years ago by svayambhu108
+43
+Needs Review
+```
+**Co-occurrences**: Acts, Christian, Well, World, Since, Fall, Iron, Prison, Only, Time, Black, Garden, Book, Karma, Could, Something, Again, Both, Self, Black Iron Prison, Probably, Palm, More, Through, Such, Universe, Will, Would, Further, Tree, Life, Evidently, Final
+
+---
+### Line 4105-4113 (Match: 'Iron Prison')
+**Folder**: part could
+
+```text
+No wonder I saw the world - weaving logos [of wonder?] its infinte velocity - it was indeed weaving away, having come back from the termination of the universe to [last?] a best outcome - I'm saying, now that (obviously) not me but two alternate paths were absolute in preferences to the Best me, the palm tree me; so not [one?] was the Black Inn Prison abolished, but one we had (with Nixon ruling it, I Guess). He was rewovin, this one out of existence, too. Is that why the not - I [persmalits?] come here! to help in the work-to-be-done here! so on to connect our middle were into the palm tree me
+
+So not a previous life in the past, but a previous life in an alternate present. the one depicted in [teaks?].
+
+[Originally it existed?]. Changed by [netrognadi?] movement in time & reweaving into this (when the Black Iron Prison world was abolished, the [a.t?] - I [perimality?] come here, with purpose). then this me was tinkering with & became the palm tree one.
+
+Could the Not-I [pensmalis?] have been more than a human personality? But rather a divine instrumentality which did its work [finish?] in the Black Iron world, survived its [abolitim?] (not being a product of it but rather down into it, the original earth from the pleoroma) & hence "came" (remained) here, & continued its work? was it christ? only a divine, non-earthly adventitious entity could/would remember the Black Iron Prison world (which we were all in) since after the reweave - ing our past it never existed (except to him) ; I myself experienced it even having been [illegible text?] him-in-me. He survives it and remembered it ' no human did. Look what that makes Tears, them: the my surviving account (trace) it that [wined?], then did that world come to exist? the not-I perim loathed the CP- in the prison world had the society occupied us at some time in our past?
+
+Last edit over 4 years ago by dstoerger
+```
+**Co-occurrences**: Christ, Tears, Logos, World, Since, Iron, Prison, Only, Time, Earth, Nixon, After, Black, Even, Could, Look, Being, Obviously, Divine, Black Iron Prison, Palm, More, Universe, Would, Were, Back, Have, Tree, Life, Absolute, Having, Remember, Except, Human
+
+---
+### Line 4107-4115 (Match: 'Iron Prison')
+**Folder**: part could
+
+```text
+So not a previous life in the past, but a previous life in an alternate present. the one depicted in [teaks?].
+
+[Originally it existed?]. Changed by [netrognadi?] movement in time & reweaving into this (when the Black Iron Prison world was abolished, the [a.t?] - I [perimality?] come here, with purpose). then this me was tinkering with & became the palm tree one.
+
+Could the Not-I [pensmalis?] have been more than a human personality? But rather a divine instrumentality which did its work [finish?] in the Black Iron world, survived its [abolitim?] (not being a product of it but rather down into it, the original earth from the pleoroma) & hence "came" (remained) here, & continued its work? was it christ? only a divine, non-earthly adventitious entity could/would remember the Black Iron Prison world (which we were all in) since after the reweave - ing our past it never existed (except to him) ; I myself experienced it even having been [illegible text?] him-in-me. He survives it and remembered it ' no human did. Look what that makes Tears, them: the my surviving account (trace) it that [wined?], then did that world come to exist? the not-I perim loathed the CP- in the prison world had the society occupied us at some time in our past?
+
+Last edit over 4 years ago by dstoerger
+45
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, World, Since, Iron, Prison, Only, Time, Earth, After, Black, Even, Could, Look, Being, Divine, Black Iron Prison, Palm, More, Would, Were, Have, Tree, Life, Having, Remember, Except, Human
+
+---
+### Line 4113-4121 (Match: 'Iron Prison')
+**Folder**: part could
+
+```text
+Last edit over 4 years ago by dstoerger
+45
+Needs Review
+45
+63 + all this could be pot on a secular basis: from the future highly evolved 3-eyed people, making use of ther advanced technology, came back to the past (along a time line where the black iron prison world - precent - prevailed + tinkered with the past out past - + it changed to this, which tranferred there to this world where they confined Their work, whereupon it became the palm tree world But I doubt this. Back to God: it is said "For I am greation a mere heavens + a new Earth, + memory of former things will not enter the mind nor come up into the heart. t was this the promise which was fulfilled + not just the "uncut stone" one (or they refer to the same event in history: the apocalypse: moment of God's intervention). in fulfillment of "revelation" it was Rome (in our alternate present, not past) which God overthrew; probably on the black iron world Rome never fell; the tinkering may have taken place centuries so, or even nearly 2000 years ago. God has gross-mended laterally; the evils are so thoroughly abolished that they never existed in the first place. + then, to improve this alternative, tinkering took place in this one 74 + not earlier affecting only our future I'm going to make a daring leap here. The tinkering in our past, in Roman times, was the first Advent. The not-I personality had just come from there. The tinkering in '74 is the start of the second Advent - as witness the "St. Sophia" prophecy.
+
+Last edit almost 3 years ago by svayambhu108
+
+46
+```
+**Co-occurrences**: Rome, Sophia, Roman, Advent, World, Iron, Prison, Only, Time, Earth, Black, Mind, Even, Could, Just, Black Iron Prison, Probably, Palm, Their, Revelation, Will, Back, Have, Tree, Things, Memory
+
+---
+### Line 4118-4126 (Match: 'Iron Prison')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+46
+66 the black Iron Prison world is the hell this world would have been without the first Advent (cf Tears). (The conclusion of teaks inc. the dream shows Christian agape coming into that world - it depects either the 1st or the 2nd Advent, which also can be viewed together as me event). (Thus that world is, or the endachanged.) (into one like ours). The 1st Advent set up a much better alternate historical time - path, ours, but it was still not the best, not fully corrected. The 2nd correction. The 2nd Advent, took place in '74 much more dramatically than the 1st, since at the first the temporal gentile world power wasn't affected, as it was I this time This tinkering is the cause of my perceiving what I called "False work" which later on is retroactively removed so that it was never there. Only the divine world recalls it. Perhaps the black iron Prison would is what our present would be like - was lite without the first tinkering (ist advent) - i.e. without Christ - without his having entered history even once. The people in tears know No thing of Christianity; agape only enters when the dream comes; then Buckman experiences it. New schema no advent the black Iron world. ours 2 advents palm tree world. +: the Palm tree world is complete restoration (or will wind up to when fulfilled forward in linear time) of us back to (as I have realized) our lost state or home. No more intervention s required to realign this lost fallen world, the Palm tree world ow fulfilling itself, is the goal. What must be borne in mind coithugh it is difficult to realize) is that we were or have been living -or did live - in the black iron world, as depicted in Tears, all this time; it was really actualis, the one real world for all of us; + then the first tinkering took
+
+Last edit almost 3 years ago by svayambhu108
+47
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Complete, Christianity, Perhaps, Advent, Like, World, Since, Iron, Prison, Only, Time, Black, Mind, Buckman, Even, Once, Divine, Black Iron Prison, Either, Palm, Viewed, Without, Still, More, Living, Real, Will, Would, Were, Back, Have, Tree, Later, Having, Dream
+
+---

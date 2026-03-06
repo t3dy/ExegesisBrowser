@@ -1,0 +1,344 @@
+# Evidence Packet: Cosmic Christ
+
+- **Category**: Top Term
+- **Total Mentions**: 123
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1437-1445 (Match: 'Cosmic Christ')
+**Folder**: Unknown
+
+```text
+101
+The Neoplatonist structure of Plotinus goes: The One, who sends his first emanatino Nous (Intellect) to construct the universe. We can rise up into the eternal world or reality, of forms, to apprehend Nous. The forms are alive; collectively, they comprise Nous. Below them is Soul.
+
+We could perhaps equate the One with God; Nous with Christ as Pantocrator, but Soul would have to go. In any case, to so equate God with the One, Christ with Nous, would be to abolish their equality in the Trinity, and to turn toward the JWs beliefs. However, Christ is said to be the Mediator between God and man, and that view does seem to coincide with the structure of Plotinus; also, I read in "Wisdom" that wisdom is the first emanation of or from God, and if Wisdom equals Christ, then we do have the same general structure as Plotinus gives. I'm going to wing it and say that the Cosmic Christ, St. Sophia (Holy Wisdom) are identical with Plotinus' Nous: i.e. Lord of the Universe. Whom we can reach via the forms. But I just don't understand Soul at all; Soul acts in time, whereas Nous is eternal. I guess Soul is sort of like instinct, a Bergsonian elan vital.
+
+One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
+
+Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, After, Cosmic, Holy Wisdom, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+
+---
+### Line 1439-1447 (Match: 'Cosmic Christ')
+**Folder**: Unknown
+
+```text
+The Neoplatonist structure of Plotinus goes: The One, who sends his first emanatino Nous (Intellect) to construct the universe. We can rise up into the eternal world or reality, of forms, to apprehend Nous. The forms are alive; collectively, they comprise Nous. Below them is Soul.
+
+We could perhaps equate the One with God; Nous with Christ as Pantocrator, but Soul would have to go. In any case, to so equate God with the One, Christ with Nous, would be to abolish their equality in the Trinity, and to turn toward the JWs beliefs. However, Christ is said to be the Mediator between God and man, and that view does seem to coincide with the structure of Plotinus; also, I read in "Wisdom" that wisdom is the first emanation of or from God, and if Wisdom equals Christ, then we do have the same general structure as Plotinus gives. I'm going to wing it and say that the Cosmic Christ, St. Sophia (Holy Wisdom) are identical with Plotinus' Nous: i.e. Lord of the Universe. Whom we can reach via the forms. But I just don't understand Soul at all; Soul acts in time, whereas Nous is eternal. I guess Soul is sort of like instinct, a Bergsonian elan vital.
+
+One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
+
+Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, Harpax, After, Cosmic, Holy Wisdom, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+
+---
+### Line 1441-1449 (Match: 'Cosmic Christ')
+**Folder**: Unknown
+
+```text
+We could perhaps equate the One with God; Nous with Christ as Pantocrator, but Soul would have to go. In any case, to so equate God with the One, Christ with Nous, would be to abolish their equality in the Trinity, and to turn toward the JWs beliefs. However, Christ is said to be the Mediator between God and man, and that view does seem to coincide with the structure of Plotinus; also, I read in "Wisdom" that wisdom is the first emanation of or from God, and if Wisdom equals Christ, then we do have the same general structure as Plotinus gives. I'm going to wing it and say that the Cosmic Christ, St. Sophia (Holy Wisdom) are identical with Plotinus' Nous: i.e. Lord of the Universe. Whom we can reach via the forms. But I just don't understand Soul at all; Soul acts in time, whereas Nous is eternal. I guess Soul is sort of like instinct, a Bergsonian elan vital.
+
+One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
+
+Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
+
+Last edit over 5 years ago by Harpax
+102
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, Harpax, After, Cosmic, Holy Wisdom, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+
+---
+### Line 2998-3006 (Match: 'Cosmic Christ')
+**Folder**: Book of
+
+```text
+-5-
+
+After 3-74 I recapitulated the original fall, into the state that Vaughn correctly calls "corruption," and hence I am acutely aware, as he was, of the difference between the two states, bliss versus the fallen, corrupted state. I have to believe in the fall; I've lived it. Now I know where I am (again). Now I know where I was (in the primordial state of God's grace, as described by Wordsworth in his "Ode"). I briefly regained my sight and saw as Adam and Eve did in the "Book of Adam & Eve," before they entered the cave of treasures; no wonder I kept saying I'd been blind all my life. Why I fell again I don't know. Why I was given my faculties back briefly I don't know. I can contrast the two states as few men can; I don't need Calvin's description and contrasting, but he certainly put it well. Stripped away entirely or deformed...as Adam says, now he can only see "close up objects." During that brief period I could see a thousand miles into space, and two thousand years into time. And now, as with Adam, only objects near at hand. * The task is nothing less than restoring man's lost faculties (of perception and mentation), but how can this be done if men don't know/believe they have lost these faculties? If they do not understand what is being talked about? ( And memories, too.) How can I say to someone, "I will cause you to see?" if they already believe they are seeing? The doctrine of Original Sin must be retained; from it we can understand. It may have something to ao with the pineal body registering missing spectrums. But if Calvin is right and the missing segments are adventitious, then they can only be restored from without, which is to say, we require the Redeemer to restore them; nothing on the order of inner surgery etc would do it. As they were taken away so must they return. I have the feeling that it took enormous effort, or anyhow enormously complex planning and multiple arranged causes, to even temporarily restore my faculties: a whole string of circumstances that I could see, plus a lot I couldn't. Extraordinay planning, probably going back years, went into it. It didn't just happen. Also, vast historical changes were being brought about. Put another way, God lifted the curse of the fall in order to bring about (or anyhow facilitate) these changes, and when the changes had been made the curtain returned.
+
+The I.C.C.'s views are less advanced than Pere Teilhards, since he stressed (correctly) the role of the Cosmic Christ described by Paul -- that Cosmic Christ or St. Sophia who is assimilating the - universe. But in some respects they have something to say, except that they seem to imagine that Christ can fail, whereas he cannot (vide Zoroaster). St. Sophia will be born one more time and this time accepted. This was always predicted (vide Isaiah). At his first advent, Christ planted a seed; now he reaps the crop. It and He have been growing for 2,000 years. The crop and He are organically one, probably; they each of them grow into his cosmic being. Maybe it is a double growth: them to him, he to them. The I.C.C. is like the R.C. and thinks we need priests. We need only Him. The true membership is not of any church but consist of all those whom He takes, and He goes "where he pleases," to quote Vaughn. He is assembling a great dominion.
+
+Last edit almost 5 years ago by svayambhu108
+229
+Needs Review
+```
+**Co-occurrences**: Christ, Sophia, Paul, Well, These, Advent, Maybe, Like, Since, Fall, Only, Time, After, Cosmic, Book, Even, Could, Anyhow, Just, Something, Adam, Again, Being, Great, Probably, Without, Grace, Nothing, Zoroaster, Those, More, Church, Another, Certainly, Before, True, Universe, Will, Calvin, Would, Were, Back, Have, Life, Body, Except, During, Whereas, Right, Someone
+
+---
+### Line 3108-3116 (Match: 'Cosmic Christ')
+**Folder**: Book of
+
+```text
+-16-
+
+If this Orphic egg is there, then the steersman, the archetype, divinity, who was present and temporarily occupying and directing, was its father or source. I merely received it, gave it a place within which it could be. I am not its father; I am its recipient, which means host or mother. I shelter and hide it; no one knows it is here. I look the same; I act the same. Is this why the steersman took over my life, to be sure I'd be safe so that it, the Orphic egg/pearl, could be safe? Ah; is the Steersman the Holy Spirit? What happened in 3-74 was done in relationship to what is still future. (The birth from the Orphic egg.) Jung says that just prior to psychic integration & wholeness, the projections are withdrawn; the "spinning woman" is no longer present & at work. Certainly this is indeed what I experienced. Man, the person involved, is restored to his original state (of wholeness) before the Fall. The human soul is the bride of Christ, in which Christ is the King who comes & restores it. All these events took place in me in 3-74; I could see for the first time in my life when my projections were withdrawn. The unity (reconciliation) of all the opposites in my mind — hence the release of psychic energy. The God-image in me was restored.
+
+I keep saying —and thinking— that there was a 2,000 years elipsis in the time span of my 3-74 experience: Rome to now, with nothing inbetween. But that is wrong; there was the "Jagdstaffel Beamt" scenes which seemed to deal with World War One. It was as if the tape lapsed in 100 ad and then picked up in 1915 AD. Now, for what it is worth, I learn that the JWs believe that Christ returned invisibly in 1914. Maybe madness lies this way, but my 3-74 experience would tend to dovetail with this palpably mad assertion. He is certainly here now, and he, as they say, is the bodiless cosmic Christ, not Jesus; he is invisible and he is everywhere equally. Also, He evidently has great, even absolute, power, in that I saw Him depose the tyranny here. And this, the Anglo-American Empire, is, to the JWs, the last of the empires mentioned in the "Book of Daniel," in fact the one of iron with clay feet. And thus it did indeed prove to be. And there was indeed a stone, "not cut by man," which was hurled at it to topple it, which maybe hasn't ever happened before (maybe, maybe). Could they be right? Well, I know what I know; He is here with power; He did topple the tyranny; and did anything like this happen during the 2,000 previous years? Back to the anamnesis-memories: no. Absence only. Since I know him to be here, either he has always been here or he has returned. Nobody I ever heard of has reported an experience like mine; I will assume he has been gone virtually all this time & has recently (sic) returned...why not circa 1914? Wow.
+
+Well, in 3-74 He came & healed up my head, withdrew my projec¬ tions and caused me to see & understand. He's still here, but the projections are back — not because He did a bad job, but because — I can't do it alone, without him, and He drew back again to where he was before: concealed * Christus absconditus, I guess.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Spirit, Holy, Jesus, Rome, Holy Spirit, King, Well, Empire, These, Father, Maybe, Like, World, Since, Fall, Because, Iron, Only, Time, Cosmic, Mind, Book, Even, Could, Just, Look, Again, Orphic, Either, Great, Daniel, Anamnesis, Without, Nothing, Still, Jung, Soul, Certainly, Before, Mother, Will, Would, Were, Back, Life, Absolute, During, Human, Evidently, Right
+
+---
+### Line 3122-3130 (Match: 'Cosmic Christ')
+**Folder**: Book of
+
+```text
+Epiphaneia: appearing of Christ. He appeared to me in 3-74; parousia turning into a personal epiphaneia. (And no doubt to others.)
+
+Apokalupsis: revelation, be revealed; this would be His general manifestion visibly and palpably to everyone; this stage has not yet occured. This is what everyone is waiting for. This is probably what the "St. Sophia" message meant.
+
+In mid 74 I thought for some time, and gave up the idea reluct¬ antly, that the Parousia had come. Guess I was right — Parousia but not Apokalupsis. The "cloud level" idea agrees, actually, with Pere Tielhard de'Chardin & his noosphere, which is the growing mind (wisdom) of the cosmic Christ. I cite now enormous further verification. If Christ returned, what would he do? Already, not returned, he saves men after death; returning, he would impinge on this world in certain ways. What ways? To relieve men’s condition. In what way? To over¬ throw the tyranny, to relieve the oppression of war abroad and injustice at home. He would do what was done, what did happen. As in the BACCHAE, as in Hamlet, he toppled the iron & clay empire & the Prince of This World, the most powerful man in the world, who was evil. If he were here we would note his effect on history, in precisely the way it was visible — to me, anyhow. There is only the question, Is it God or Christ at work? and if the latter, then the Parousia is indeed here. Well, it was Christ who came to me in the epiphany, so it is likely that it was he who overthrew the tyranny; it was the figure of Haggia Sophia whom I saw with the third eye of wisdom who said she had seen the conspirators — Christ, the cosmic Christ. Also, recently I dreamed I was looking up epiphany, and KW#3 says "an epiphany is a manifesta¬ tion of o God; usually, of Christ, as divine." And also the time I dreamed "Cantata 4," Which is about Christ. Another thing which I might consider is that whereas I know that some divine power overthrew the tyranny in 74, previous reports of such matters, as in the Bible, are known only through report & faith in that report. He certainly did not overthrow Belshazzar, since there was no such king. There has been no promise of God's intervention in history since Daniel — before Christ. Are we not, by our faith, to think that any intervention since Christ would be by Christ, hence would be the Parousia, i.e. Christ's presence? Yes; I am sure it was the Second Advent, because the plasmatic spirit which came to me came to judge; he came for justice, which is how Christ will return, it is said always: Christ as Lord who judges. (Debbie said, "You will notice a change in the animals." Pinky.) Ah! I recall suddenly how I used to (as with Jane Burton) cry out in anguish: (to heaven) "Father! Take me back!" I knew then that I came here from the pleroma, which is those same stars I looked up at in 3-74. Anamnesis brought back memories of my ancient celestial origin; maybe I am a fallen angel.; in any case I am a fallen something.
+
+Last edit almost 5 years ago by svayambhu108
+
+241
+```
+**Co-occurrences**: Christ, Spirit, Sophia, King, Well, Empire, Bible, Parousia, Wisdom, Lord, Advent, Father, Maybe, World, Since, Because, Iron, Only, Time, After, Cosmic, Faith, Mind, Pinky, Anyhow, Something, Divine, Bacchae, Daniel, Probably, Anamnesis, Those, Another, Through, Most, Heaven, Such, Actually, Certainly, Before, Revelation, Consider, Death, Will, Would, Hamlet, Angel, Judge, Were, Back, Further, Justice, Evil, Suddenly, Whereas, Chardin, Pleroma, Right
+
+---
+### Line 3255-3263 (Match: 'Cosmic Christ')
+**Folder**: book by
+
+```text
+-12-
+
+Also, he was raring to go; he just kept on truckin’, as if his wheels were still turning from the spin out on them in his own time. He certainly hadn’t been anywhere in the meanwhile! (I.e. he came directly from Rome right to here.) That shows you where we go when we die: again the JW are correct, we're asleep until awakened on —yeep— judgment day, as evidently he was, and again we're back to the Parousia; he certainly hadn't lived an interem existence, in Heaven or anywhere else. And — he correctly apprise the situation, here, as the final battle: the situation and the enemy (the twin prongs of Rome, US and Soviet). Bewildered as he was he knew what was expected of him; the situation which greeted him was exactly the one he had prepared for & anticipated. No, there was no short km circuit; nothing which he expected had gone wrong or failed to materialize. It all took place according to their original plan. His feet were moving before he touched group. He was thrown right into the battle. Well, people such as him were/are the first-line troops at Armeggedon. The commanders or officers, as it were. They would be the ones who would understand the situation; I certainly didn't until I assimilated it from his mind. (Test: show in what ways the situation here in 94 would differ from what he expected. Answer: in no ways.)
+
+Like Doris says, "How could anyone miss seeing the Parousia when it comes?" but the first main event is the overthrow of the beast (the Antichrist), and if people don't/didn't see the beast qua beast anyhow, but voted it into office with the biggest mandate in history, they might see it overthrown without attaching any religious or supernatural significance to its passing, especially if the foe of the beast, the champion of man, Christ, were invisible; they would see the effects but not the source or cause. This is a secular age. The atheists would deny it, and the fundamentalists who are the main body who're waiting think in concrete terms regard¬ ing apocalyptic literature and would expect true physical beasts with ten horns, etc., nothing being symbolic to them. If you strip away the lurid symbolism of Revelation and Daniel you get this: the modern analog or descendent or form of Rome, the despotic empire and tyranny, will be overthrown by the Cosmic Christ during a time of great tribula¬ tion generally, in terms of war and famine, etc. After that, things will get better, since the rightful King now rules. a tyrant and an empire get overthrown by mostly invisible heavenly powers, but how much overt epiphany would there be? Maybe the Cosmic Christ would manifest himself only to a faithful elect (ahem). Put another way, Only to those actually involved. (As few as necessary? Who sees the religious material in TEARS? to give a small example; even the author who had the dream didn't, not until his eyes were opened for him (we get back to the stripped-away theory of Calvin). They will see it only if their faculties are restored, maybe; and that may be a long, slow process lasting generations. The main thing is the event, whether or not seen, which means the end of the oppression (of true Christians especially), and that has indeed happened. I don't see any incarnations (into flesh) in the cards, then or now. After all, Tessa couldn't see the white light that signified the presence of the Angel of Death that night when it came to claim Pinky; his death a
+
+Last edit almost 5 years ago by svayambhu108
+254
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Rome, Form, King, Well, Empire, Parousia, Maybe, Like, Since, Only, Time, After, Cosmic, Mind, Light, Even, Could, Pinky, Anyhow, Just, Soviet, Again, Being, Himself, Great, Daniel, Without, Tessa, Nothing, Those, Still, Their, Another, Heaven, Such, Actually, Certainly, Before, Revelation, Doris, True, Death, Will, Calvin, Would, Angel, Were, Back, Meanwhile, Things, Judgment, Body, Whether, During, Dream, Evidently, Final, Right, Answer, Until, White
+
+---
+### Line 3345-3353 (Match: 'Cosmic Christ')
+**Folder**: file numbers
+
+```text
+5-
+
+If I view her as the ultimate good agency of our universe, then surely I have been grated the greatest vision possible. I will always wonder why. Anyhow I cherish it. Wow. To see her defeat the baleful force over & over again, and always smiling, always wiser than that huge blind drive of efficient cause (ananke). The Bible is right (about her, the logos) but also Plato is right in Timaeus. What I saw was the, not just a. We are within a construct which she is building; it is a kind of body.
+
+I am more & more convinced that the agency (or entity) which brought me the 3-74 experience (visions) is the agency (or entity) revealed in the visions, since the more I am sure that the female figure is the guide of the universe and hence St. Sophia the more see seems the sole agency or entity capable of producing such visions. There is only one steersperson for this universe; my experience is by St. Sophia and about St. Sophia. This adds to everything else she was shown capable of in the visions themselves the ability to (whichever it is) restore the lost faculties or to confer miraculous sight; in either case this is an aspect of the salvific process, and identifies her again as the Cosmic Christ.
+
+The totality of atributes which she possesses certainly makes her the Pantocrator; for instance, she was not only witnessing the acts of the conspirators but she was judging and punishing those acts; who is this if not the Pantocrator? Then I say, I have been granted the miracle of beeing allowed to see the Pantocrator judging. What is this if not the Parousia? By definition of the Greek word: His
+
+Second Coming. In history, the invisible nucleus of evil has been replaced by the invisible nucleus of good; the plans of evil did not come to fruition but were removed with it (the plans were to recreate the ancient slave society, with the plutocracy living off it, as in Roman times). (I.e the reestablish the worst aspects of the Roman Empire, inside and out.) But, as in TEARS, which depicted all this, the turning point came when the wise old king burst through the breach with his armed hosts; amelioration began, justice set in, and the slave state withered away in the end. What happened to us (the bad: the slave state, then the heavenly intervention) is depicted in TEARS; what has been invislbe here is visible there. Thus TEARS, which was written and published before the intervention, is a very important book when viewed this way (i.e. as apocalyptic, showing what was going to happen — and it did). It is because of TEARS most of all that I was shown what I was shown; mark what I have said here, and recall, too, the material from Acts in TEARS, and the topic of Pauline agape or love. TEARS, then, is a vision of two things hidden by the dokos: a vision of the evil & its plans; a vision of the good & its intervention, and the nature of both set forth (the five police marshals against the wise old king). It is the police against God, with God turning the tide (i.e. the internal change in Buckman which causes him to do something absolutely not in character). "Love your enemies," epitimizes what he does: from the Sermon on the Mount, the highest form of love, and salvific. The Great Change begins in Buckman, and spreads out from there, with the vindication of Taverner.
+```
+**Co-occurrences**: Christ, Tears, Acts, Logos, Form, Sophia, Plato, King, Greek, Empire, Bible, Parousia, Roman, Since, Because, Only, Cosmic, Good, Buckman, Book, Taverner, Does, Anyhow, Just, Something, Again, Both, Everything, Either, Great, Viewed, Those, Dokos, More, Pantocrator, Through, Most, Living, Such, Timaeus, Certainly, Love, Before, Universe, Will, Were, Very, Surely, Have, Things, Body, Justice, Wise, Evil, Pauline, Right, Ananke
+
+---
+### Line 3382-3390 (Match: 'Cosmic Christ')
+**Folder**: book when
+
+```text
+266
+-1-
+
+Augustine says that at the Parousia the veil will lift, and the City of Man will be visible as separate from the City of God. This is what I saw: the Iron City, Rome, was the first; then in 2-75 the palm tree kingdom, that was the City of God; so further evidence that the Parousia was here. No blend, no ambiguity; each had parted company with the other. The prison versus the palm garden. No, I guess the Parousia hasn't come yet in linear time; I was lifted up (into sacred eternal time) the way an adult lifts a child to witnes a parade; I saw it the way John and Daniel saw it; I am an apocalyptist. When the Parousia comes it can be seen with the unaided eye; whereas I needed aided eyes, enhanced percep¬ tion, to see what I witnessed. So, again: I did not reach or attain this condition; it reached down (back) to me. In attempting to determine the relationship between the events I saw and the world of linear time in which we live, I have the verbal statemtn, "St. Sophia will be born again etc." to go on, indicating that these events lie directly ahead, since the rebirth of St. Sophia is in itself the Parousia or Second Advent. The Parousia refers not to the presence of the Cosmic Christ, but to the Second Incarnation, reffered to as "St. Sophia being born again," Teilhard de Chardin to the contrary. Thus he/she/it will be visible to all, with unaided eyes. The Cosmic Christ, as resurrected spirit, is indeed present now (it was he probably who came to me, as Holy Spirit), but to our normal eyes nothing is visible; he can only enter inside, as does the Holy Spirit, not be visible as he was as Jesus, and will be again (incarnated in a physical body); but preparations are now being made: the anticipation & expectation are high; the herald angels are here already. Mankind, all of them, will see with unaided eyes precisely what I saw with aided (enhanced) eyes, such as the transformation of the animals; the dividing apartly clearly of the City of Man versus the City of God; the pale white light coming on which signals judgment, etc. This finally resolves my confusion as to what I saw, which was manifestly now, and the promise of a future rebirth. However powerful, actual and real the spirit is (the Cosmic Christ is), this constitutes no incarnation, and it specifically, with a fine economy of words, is an incarnation that was promised (foretold). The foretelling is by herald angels (v. Mathew). The event itself is still future (for all to experience). This was, of course, a Christian rebirth for me (3-74), a being born again from above; but the material I witnessed had specific content beyond the personal experience itself. I recall the "James, James" dream in which advance scouts of the Afrika Corps rolled into manifestation; this was the Second Advent, which I requested medical help from. The implication of this dream was that it would come soon. It came upon the smashing-down of the defective lamb, which seems to me present now. Well, to preview the Parousia is to experience the Parousia is to live through the Parousia, is to experience Christ as returned now. Thus my confusion between the idios and the koinos. The idios now, the koinos later (for everyone). This is the first time I've considered my experience from the standpoint of Heraclitus' distinction. His distinction makes it possible to suppose that I did indeed have the experience, even if no one else did.
+
+Last edit almost 5 years ago by svayambhu108
+267
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Sophia, Kingdom, Well, Parousia, However, These, Advent, James, World, Since, Iron, Prison, Only, John, Time, Cosmic, Garden, Light, Even, Does, Again, Suppose, Heraclitus, Teilhard, Being, Daniel, Augustine, Probably, Palm, Nothing, Still, Through, Real, Such, Upon, Finally, Will, Would, Other, Back, Beyond, Further, Have, Tree, Clearly, Judgment, Body, Later, Dream, Whereas, Chardin, Lamb, White, Sacred
+
+---
+### Line 3453-3461 (Match: 'Cosmic Christ')
+**Folder**: part of
+
+```text
+Needs Review
+274
+2
+
+"Lambs" are a good symbol because lambs can hear the good shepherd, whereas treasures and pearls and seeds can't; at the very most grain or seeds sprouted can be harvested. They, who are twice born, wind up with him, obviously meaning the Cosmic Christ who I think is closely related to if not identical witn (at least in certain ways) to the Holy Spirit. I say, it is the Holy Spirit having gone through incarnation and being resurrected. * * The manifestation of the Holy Spirit to rescue me (God's Grace) conforms exactly to Plato's concept of Noos "persuading" ananke along the lines of wisdom; i.e. the inter¬ play between efficient causes —which would have led to my doom— and final causes, Holy Wisdom, follow Plato's schema precisely: I felt Wisdom take over control and direction. The dialectic which is described in Timeus. A situation of blind decay was leading into a cul de sac. Yet — I performed the early Xtian sacraments, and experienced the Xtian anamnesis, so it was the Holy Spirit; and I heard the bells. In the parables Jesus taught his disciples how to attain the Kingdom of God; he didn't want outsiders to know. Integral in this is receiving the Holy Spirit — I adjudge this to be the x prime event in it all. So evidently certain things, secret preparatory things, must be done in order that —if I am right— the Holy Spirit will come. I think I am right. This lore, this esoteric knowledge, was passed on by Christian to Christian; through it, spec, the practice of it, their obtained the theolepsy. But the lore was lost, when they were killed by the Romans. Thus people ceased to attain the Kingdom, because, I think, they did not know and perform what was needed. Well, the Holy Spirit came to me, but I think I had to do many things in preparation; I have been certain of it, without relating this to the parables or early Christianity. The votive candle, and I had to be shown the golden fish; there must have been others. The fish, right then and there, caused anamnesis. Doesn't this sound like the Orphic and perhaps other theolepsy mystery religions? I saw Rome and believed in my anamnesis experience before the spirit came; of everything I think the golden-fish-induced anamnesis made the thaiepsy possible. And I think anamnesis wouldn't have occured if I hadn't just been given the sodium penthathol, which probably served to replace some trance¬ like state of the mysteries. Something known to Christianity, a state very altered. There was some ancient equivilent, perhaps even drug induced. It is very significent that someasthing outside of and prior to the theolepsy caused anamnesis, although only for a split second; still it did. * * I just brought something to consciousness about my fear, lasting for a year prior to 74, about Soviet letters. It explains my discomforture about Antibi's "money and film" letter from Austria. I now know consciously what I was expected: a Soviet letter (Soviet in origin) which was a burn or Addressat Unbekannt letter, because of what I'd said to Lem. I was primed for this, due to our quarrel. My assumption was, with each letter, "This is it, what I've been expecting." Neither Party summons/instructions nor US was anticipated. Why did I think this? Well, anyhow I did. Well, I now ask myself, What did I think when I saw the Estonian letter? Did I think that? Yes (which it wasn't) and on the basis of that FALSE assuption about Roogna’s letter I anticipated —correctly]— the Xerox
+
+Last edit almost 5 years ago by svayambhu108
+275
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Xerox, Rome, Christianity, Holy Spirit, Plato, Kingdom, Fish, Well, Golden, Roman, Wisdom, Perhaps, Like, Because, Golden Fish, Only, Noos, Cosmic, Holy Wisdom, Good, Even, Anyhow, Just, Soviet, Something, Kingdom of God, Being, Obviously, Although, Everything, Orphic, Probably, Anamnesis, Without, Grace, Still, Their, Through, Most, Secret, Before, Will, Would, Other, Were, Very, Many, Roogna, Have, Things, Neither, Having, Knowledge, Dialectic, Evidently, Whereas, Doesn, Final, Right, Ananke
+
+---
+### Line 3539-3547 (Match: 'Cosmic Christ')
+**Folder**: book of
+
+```text
+Needs Review
+284
+represented the spiratus veritas, the spirit of truth spoken of by Christ as the Helper who would assist man after His own death. I worked very hard on tne task assigned me, glad to do it, since the entity had extricated me from a thrall of such magnitude that in all candor I still can't speak of it; needless to say, had it not, I would now be in prison — it had to do with civil disobidience on my part during the Viet Nam War, which would have meant, if arrested and con¬ victed, some fifteen years in prison for me. The entity, during the brief period of theolepsy, dealt with the authorities and was so able in its eloquence and wisdom that it earned from the Federal Bureau of Investigation a letter of commendation signed by the assistant director, William Sullivan. Thus, the entity not only extricated me from a seemingly hopeless trap, but put me to worm (in my small way) bringing to light the truth which eventually deposed the tyrant and all his henchmen. This took from March 1974 to August 1974.
+
+The entity transported me from what is called secular time to sacred time (or eternity) and showed me the underlying structure of the universe, in particular the activity of the logos as it weaves the universe anew constantly. The entity restored my lost memories (a process called anamnesis! so that I could remember back over a timespan of two to three thousand years. It spoke to me in Koine Greek, but soon abandoned that, since I did not understand it; however, that was its natural language when addressing humans. You can see from this, and from the fact that it healed my and Christopher physically of all our ailments, that I was in the hands of what is generally callow the holy spirit, and I will accept that name, although it does not tell enough, since Christ Himself, the cosmic Christ, was equally present. I was shown name inscribed in the book of life, and I was shown the next world where humans go, to rejoin their Creator; I heard the singing of angels and saw the beatific vision spoken of by the Medieval saints. Possessing a memory going back thousands of years, and having seen the world to come, I understood that I had been placed here for only a brief part of my total life, that I had come from starry heaven and would return. Lastly, the entity informed me that the Savior would return, be incarnated again, although no date was given; but I was shown tha_ we should prepare for that event as if it might happen at any moment, and we should be constantly in a mood of joyful anticipa¬ tion. l was, at one point, taken back to the first incarnation, and saw the v.st Iron prison which was ——and still is— Rome, the physical presence of the evil spirit, the Prince of This 'World. It was shown to me that tina prophecies of the Bible are all true and are systemati¬ cally being fulfilled. The Parousia evidently is not far ahead of us.
+
+I have wanted to write you about all this for some time; for one thing I was shown old friends, now departed, such as Nick and Tony Boucher and Jim Pike, still living on, but not separately — they had become aspects of God. Again and again I have wondered why I was picked for these revelations, but can find no answer; a Catholic priest with whom I spoke said that the Holy Spirit favors writers, but that hardly explains it; there are many writers, perhaps the severity of my
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Rome, Holy Spirit, Greek, Bible, Parousia, However, Wisdom, These, Perhaps, World, Since, Iron, Prison, Only, Time, After, Cosmic, Savior, Book, Light, Could, Does, Again, Being, March, Catholic, Tony, Although, Himself, Bureau, Anamnesis, Creator, Still, Part, Their, Pike, Living, Heaven, Such, Jim Pike, True, Death, Universe, Will, Christopher, Would, Very, Back, Many, Have, Life, Memory, Evil, Having, Remember, Truth, During, Iron Prison, Evidently, Answer, August, Sacred
+
+---
+### Line 3549-3557 (Match: 'Cosmic Christ')
+**Folder**: book of
+
+```text
+Needs Review
+285
+situation is more an explanation; let me tell you now, probably for the first time, that I was a tax protester during the Viet Nam War; I signed the Ramparts War Tax Protest Manifesto, and did not pay any taxes until the war ended, My objection being moral and derived from my Quaker background. I had not known that Christ promises in several of the gospels that if you are brought before the magistrate on His behalf, he will speak for you, lending you a supernatural wisdom and eloquence. Even though I did'nt know of that promise, I think in my it was kept - perhaps in all cases it is kept. I had not anticipated the Holy Spirit (who is also Christ) supplanting my human ego to speak for me, but he did, and I have never known a moment of fear since, only a sense of having participated knowingly in God's attack on the fearsome tyranny of the Nixon gang which pressed down the people of this country and proposed to destroy the very Structure of our republic. That l was given a role in the attack on this tyranny is the happiest thing in my life; that, and the memory of one year of dialog with the Holy Spirit, whos "still, small, voice" has a beauty which no man can imagine who has not heard it.
+
+I've told a few friends of my experience, but this is, after all, a secular world, and these friends thought I was either making it up or had gone crazy. My priest accepts it, and the experience contains hallmarks of authentic charismatic contact. That there is a supernatural realm I do not doubt now, having had it impinge on me, even enter me to do battle for me at the time of greatest thralldom in my life. I would not be here now had the Spirit not intervened. It shows the love of God for his children — and I was made to understand this, too, that we literally came from above the stars to this place, from God the Father to this world... a world which has fallen into ruin and sorrow and must be --will be-- saved Hy God's intervention. That intervention has already begun; in Portugal, Greece and the U.S.A. dreadful tyrannys fell, all at same time, as God acted; but what is more im¬ portant was the promise l heard, late one night as I was listened to the voice of the Spirit, when it informed me that "St. Sophia will be born again; she was not acceptable before," when I looked in my reference books to see who St. Sophia was, I discovered that she is the logos or the Cosmic Christ, or Holy Wisdom, the first emanation from God, and that she or he or it was the creator of the universe, its lord, and will one of these days be its judge.
+
+All this should inspire joy in anyone who hears it; it is the godspell, the good news: Christ has risen and will return, but this time not to be judged but to judge, and to free men for all time to come. The rightful king is approaching, and the iron walls of the prison in which we live will fall at the sound of his horn, and the sight of his sword, the sword of battle and judgment.
+
+P.S. By the way — my bloodpressure is now normal for the first time in my adult life: 130 over 90. I had it taken this week.
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Holy Spirit, Sophia, King, Wisdom, Lord, These, Perhaps, Father, World, Since, Fall, Iron, Prison, Only, Time, Nixon, After, Cosmic, Holy Wisdom, Good, Book, Even, Gospel, Realm, Again, Being, Either, Probably, Creator, Still, More, Voice, Love, Before, Greece, Universe, Will, Would, Judge, Very, Have, Judgment, Life, Memory, Days, Having, During, Human, Free, Until
+
+---
+### Line 3611-3619 (Match: 'Cosmic Christ')
+**Folder**: part in
+
+```text
+291
+-3-
+
+It is possible, in fact likely, that after fusion into a syzygy with a masculine human element, St. Sophia became transformed perpetually into this syzygy, which we know of as the Paraclete, this entity being St. Sophia plus Jesus: a human translated, along with her. An accrual, so to speak, up the manifold, showing that change is real (as for example the progression from Elysium to Dionysos to Orpheus to Christ, and then onward as I say, to the Paraclete, which I do believe would have St. Sophia predominating). What this points to, in my dream, is a corrective element, viz: I must comprehend the entity is binary or duel, being still a syzygy and I guess outwardly masculine still. It contains both natures still, evidently; but this is indeed a mystery. To go back, I said in opening this on page 1: "I had (a) dream in which the duel nature of Christ was revealed." Am I sure that this was the human figured Jesus Christ, and not the cosmic Christ? Is that certain? Perhaps the Cosmic Christ was meant by that diptych, and of course the man Jesus Christ too. Maybe the syzygy, as I later figure out, is on-going; I assumed that Jesus died, and is forever dead, but as I say, if the spirit couldn’t make him immortal it can't, or won't, make anybody immortal; this is obvious, absolutely obvious.
+
+Put another way, the female spirits uses him as its mouthpiece; the shaman has been deified. No, Jesus was not a shaman;it was an incarnation, a full bonding that ended only when Jesus died. It or rather they left and still live, as the Paraclete. Anyhow, at the very least I have been shown —not just the nature of the first incar¬ nation— but the second as well. I can still see the diptych with its two equal panels, one to the left, »sc one to the right, with the trigam Ch'ien directly below dead-center. Wow. I have seen into the nature (essence) of the second incarnation, and in doing so, have a stronger sense of its imminence. The Trinity is a mystery re its natures and persons, but (I have been told in my dream) so is the nature of St. Sophia incarnate — two persons, or rather (sic!) two essences! Forming one person! If the Trinity is real, then do we not have a quaternity, with man (Jesus) being the 4th person??
+
+This cautionary revelation would not have been necessary if the spirit weren't about to incarnate, I think. Surely such a cautionary warning would only take place if the second incarnation were imminent. (Perhaps in my lifetime, although I could commit it to print, which would extend, possibly, into the future.) Anyhow it concretizes the second advent, in my mind, as very imminent and very real.
+```
+**Co-occurrences**: Christ, Spirit, Jesus, Sophia, Well, Dionysos, Perhaps, Advent, Maybe, Only, After, Cosmic, Paraclete, Mind, Could, Anyhow, Just, Both, Being, Jesus Christ, Although, Still, Another, Real, Such, Revelation, Would, Page, Were, Very, Back, Surely, Have, Later, Trinity, Dead, Human, Dream, Evidently, Right
+
+---
+### Line 3718-3726 (Match: 'Cosmic Christ')
+**Folder**: Book of
+
+```text
+Needs Review
+302
+-5-
+
+this really clear, the Mindkowski block universe or something like it must be imagined, in this way: future events already exist before they pop into the present, and still exist after they disappear from our view into the past. I was lifted from our universe, or rather our segment of it in which future events are not visible, and past events seem to be gone, no longer existing; it x must be assumed that these future events do exist before they enter the present, and remain in existence after they disappear our of sight into the past. Now, I was very certain of the exact time I was at: it was first century AD after the crucifixion which means that the physical sarx (body) of Jesus had undergone the transformation into the resurrected imperishable. Therefore if I was conscious of being with him (there in Rome) it was with him in that resurrected body, and so it was the cosmic Christ, not the "man" Jesus, and this does fit. Those early Christians who had found a way of doing this, evidently involving the Feast of Agape, re-creating the Last Supper and something connected ± with the holy grail, were with the resurrected Christ. The cosmic Christ (to call it that) permeates the whole or true universe, and to enter it is to enter communion with him. I must have passed across, or obtained the powers of perception to experience that wider universe where the cosmic Christ, the logos —it must never be forgotten that he is the logos— is active in his job, described in the Book of Wisdom, of creating the universe, and this is something I did see "Anamnesis" in the Christian sense, then, means a return to fellowship with the leader who died and appears gone, but who in actuality is not gone; this is the mechanics of the miracle, the model of the universe on which the experience is based. However, I also experienced Rome circa 70 A.D., and felt myself back in the past, so "anamnesis" would be the true word, for I remembered being back there at that place, at that time, with him (again). The again part forces me to retain the term anamnesis; it was as if I had been one of the company of desciples, which I suppose relates to Jung’s racmal unconscious and its retention —and possession of— memories of the past. But the sacraments are intended to cause anamnesis of that particular event (and Person) and so it did, although I had collatoral anamnesis of Crete, etc. The Christ whom I experienced was the cosmic Christ, or Holy Wisdom, or the Logos, not Jesus the man. As the JWs say, "The man Jesus is dead, forever dead," but the Cosmic Christ, the Logos, Holy Wisdom are eternal (which they recognize). We are not worshipping a man but the first emanation of God, a supernatural deity. Viewed this way, I broke through to there, rather than it breaking or breaching through to me here, so it was not the Parousia, although there is still the historic overthrow of the tyrant. That would be the angelic host at work, commanded by their leader, Holy Wisdom, the cosmic Christ. What I must keep in mind is that there is a true element in (in fact the whole experience was) the miraculous, that no intellectual exegesis will exhaust or explain it. Transubstantiation and ananmesis were cardinal, but the human mind cannot fathom what those terms point to — the reality they point to, even when that reality is experienced. Nor can the nature of the cosmic Christ, which is to say to Trinity, be comprehended, as Augustine pointed out. Did I enncounter another universe or extended and nominally unseen levels of our own? I can’t say? Did it break through to me, or me to it? I can't say. What I do know is who was present: the cosmic Christ/St. Sophia/the logos, weaver of the universe.
+
+Last edit almost 5 years ago by svayambhu108
+303
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Holy, Logos, Jesus, Rome, Sophia, Parousia, However, Wisdom, These, Like, Therefore, Time, After, Cosmic, Holy Wisdom, Mind, Book, Even, Does, Something, Again, Suppose, Reality, Being, Although, Augustine, Viewed, Anamnesis, Those, Still, Part, Their, Jung, Another, Through, Before, True, Universe, Will, Deity, Would, Were, Very, Back, Have, Body, Trinity, Dead, Human, Evidently, Crete, Grail
+
+---
+### Line 4242-4250 (Match: 'Cosmic Christ')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+67
+Needs Review
+67
+6 e Now back to my ramparts unintentional - Christian act. Gwen The Black Iron Prison upwelt I inadvertently meshed with what I saw the gray-coweled authentic Christian secret church doing - pulling the iron walls down, so to speak. This iden is woven as a continual thread through this which exegesis i that because of what I did, I was ushered into the secret invisible real church, the living human elements of which I construe to be extension, of the Corpus Christs, guided + informed by it (him) as I began to be in 3-74. Probably you do not join but rather are selected by it (him). I can't put an other construction on my duel existence of the year - I was two people. continually infomed by that beautiful voice. If people could + only know the magic of the sacred, its shining sparks. There are many examples of this being chosen in the O.T. + always there is the element of my writing, another perpetual thread. Would it be wray to say that I feel as if the loving God her blessed me + my writing? "Euren were hat mir gefallen" - the most beautiful words one could hear. It seems hart for people to enjoy or appreciate the idea of being a hollow vessel made use of for a purpose not your own but in no respect contrary to your own: rather, ap enormous transformation + elevation of every they you have stood for an apotheosis of that up-to-then meager purpose; it is a transen dent fulfillment of it . was looking back mentally on all the above, + it occured to me that if I was right I should have experienced Christ, of the first advent, + then, suddenly, I realized that that was exactly what I did! So my experience with him - with the divinity that is him conform. This newer view I have of experiencing, in anamnesis, the urwelt of which he is the central figure; the Black Iron Prison wthout him is nothing worth experiencing at all, but there he was shining through in the form of thinking plasmatic light e yet has it not appeared repeatedly in this exegesis that in the First Advent he is a solitary figure, but, in the 2nd, ubiquitous? Well, the [cosmic Christ) deity whom I encountered possessed ubiquity, rather than thinking of this as the "cosmicilation" of i
+
+Last edit almost 3 years ago by svayambhu108
+68
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Form, Well, Advent, Because, Iron, Prison, Only, Black, Cosmic, Light, Could, Being, Black Iron Prison, Corpus, Probably, Anamnesis, Nothing, Church, Another, Through, Most, Living, Real, Voice, Secret, Deity, Would, Other, Were, Back, Many, Have, Magic, Suddenly, Human, Iron Prison, Right, Sacred
+
+---
+### Line 5234-5242 (Match: 'Cosmic Christ')
+**Folder**: part quited
+
+```text
+Last edit almost 3 years ago by svayambhu108
+65
+Needs Review
+65
+62 if (since) I saw Zebra (God) within this world, immanent, as in panthies then by my empirical observation gained during a state of enlightenment + revelation, I say (see p 61 last part quited) the at This world is not undivine, not separated from the divine, not not-God; + I say, the transcendent theistic view of God in heaven - the supralunar world - over + not against the sublunar, this world, this bifurcation of worlds is correct, although possibly it once was correct; I can't speak about the world prior to the time (3-74. that I saw it but I saw God here - +, because o the above (+ 61) quited paragraph, I see that the "fallen (away from God) quality" imparted to this world is incorrectly imparted - at least as regards now - well, as Hegel points out, it is the incarnation. which abolishes this sondering of worlds; the incar nation is both worlds, both natures, fused - is Zebra then, as I frequents think the cosmic Christ the fusion of God + world? Up to now, I have facted t be see totalled in film in its one face over transcendence. The only thing that can said to be "fallen" or not-God is some kind of phenomenal - layer veil. I never before even began to grasp the "historical view of the fall" theological implications of what I saw; either Hegel is right + God as absolute spirit has alway dwelt within human history (this world) or the re I assimilation of this world back to God after a period of separation has occurred.
+
+Last edit almost 3 years ago by svayambhu108
+
+66
+```
+**Co-occurrences**: Christ, Spirit, Zebra, Well, World, Since, Fall, Because, Only, Time, After, Cosmic, Even, Once, Both, Hegel, Although, Divine, Either, Part, Heaven, Before, Revelation, Back, Have, Absolute, During, Human, Right
+
+---
+### Line 5280-5288 (Match: 'Cosmic Christ')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+73
+Needs Review
+73
+et me reason thus: the reason I could see Zebra ital was because the ancient gene pool personality Thomas' with his ancient memories, inc. knowledge of the first Advent had been restored, replacing me. There fore. I reason. The purpose of anamnesis, of restoring "Thomas" was so that I could see; this was the how t the mechanics, of [the) revelation But as to the Q on P 69 - if I, who was overwhelmed. by "Thomas") was a micro version of how historic processes were overwhelined, it ten was No, intervention not pantheism e In any case its an unfallen world no i A combination of ➀ + ➁ p 69 could be: absolute spirit. on) normally active in history to some extent, but right now ('74 we're in unique times, since the 2nd incarnation is near, thus the Spirit is decisively more active + hence discernible But if it is as Hegel described, doesn't it seem strang that God would allow the entire Christian religion of one billion believers to cold a wrong (us. Theistic monotheist) vice for 2 thousaid years? This is a deus Absconditus indeed, esc since he could reveal himself to any + all men duerly there 2000 years any time. So of Hegel (i.e. pantheism) is right, boy doe, Zebra want to stay hidden, + allow the "fallen world" wise (i.e. of his absencel to go on uncorrected. This just doesn't sedon likely, I nean, over a 2000 year perial, wouldn't someborly besides he have noticed Zebra? Mathematically speaking, then, it is more likely that Zebra jet now got here Maybe the solution to this is to return to pere Teilhard formulation of the growth of the Cosmic Christ, + regard Zebra as strictly speaking, Christ. I quote:
+
+Last edit almost 3 years ago by svayambhu108
+74
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Thomas, Spirit, Zebra, Advent, Maybe, World, Since, Because, Time, Cosmic, Could, Just, Teilhard, Hegel, Himself, Deus, Anamnesis, More, Revelation, Would, Were, Have, Absolute, Wise, Knowledge, Doesn, Right
+
+---
+### Line 5292-5300 (Match: 'Cosmic Christ')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+75
+Needs Review
+75
+92 ) Christ as head of the vast supra consciousness of which we are all cells or parts. âž€ "At the same time." This expresses my feeling of perhaps having arrived at my 3-74 ultra-personal conscious ness in synchronization with, but not caused by, historical processes pere Teilhard in this is talking about point omega. His description - an abstract theoretical one, seems to bear a point-by-point congruency with what I empirically glimpsed in 3-74. Finally, I say, for me to have thus glimpsed it, not only would it have had macrocosmically to reach point omega, but I would have had to simultaneously reach that point as well. If it hadn't, I would have been the ob server, but there would have been nothing to observe; if it had reached it, but not me in my micro-evolution, the observed would have existed but not the observer. However, pere Teilhard's system (theory) makes it clear that this simultaneous, synchronized evolution to "con Summation" will by its nature happen in just this way: as he says, "Each element will reach its consummation at the same time as the universe. So his schema proposes this simul taneous arrival of the macro- + micro noospheric identity Thus I felt "Thomas" (God as Holy Spirit) within me + saw "Zebra" (God as cosmic Christ) outside me. Where God as creator was is, I think, God as final (teleological) cause - at the end, not beginning, but, as Paul says, at that final state "when God is all in all." At that point what I see as immanent God (pantheism) is (as I say supra) originally transcendent God, sundered off from this world ("on Earthas it is (now) in heaven" - it is not immanent God as such but transcendent God having achieved sufficient assimilation of the world to (as Teilhard says) "assuming control + leadership" "from this point of vantage" i.e. by "partially immersing him t self in thing." I see Zebra as descending, superimposing, inserting, not so much rising up from a sort of chthonic within (although Zebra has, by what I call
+
+Last edit almost 3 years ago by svayambhu108
+
+76
+```
+**Co-occurrences**: Christ, Thomas, Spirit, Holy, Zebra, Holy Spirit, Paul, Well, However, Perhaps, World, Only, Time, Cosmic, Just, Teilhard, Although, Self, Nothing, Creator, Heaven, Such, Macro, Universe, Finally, Will, Would, Have, Having, Final
+
+---
+### Line 5956-5964 (Match: 'Cosmic Christ')
+**Folder**: part could
+
+```text
+Last edit 1 minute ago by Gabriel Mckee
+
+6
+i The EB article on salvation says that the bad condition which we are saved from is bondage - primarily - to time This bondage resulting in death - thus that which salvation saves us from primarily is death. What interests me here is that I just recently figured out that what the intervention of 3-74 saved me from was death. That which intervened accom‐ plished - I now realize - my salvation in the precise sense of the word. The EB article on salvation also says that Gnosticism + Hermeticism + the teaching of St. Paul "deliverance was sought primarily from the planetary powers that were believed to control human desting in the sublunar world." This too, fits exactly with my experience of 3-74: ➀ I was lifted above time, ➁ saved from death; ➂ freed from a rigid "programming" (planetary determinism) vis-a-vis the CP. Thus regarded, my 3-74 experience was one of Christian salvation, initiated by God through either Christ or the Holy Spirit. All the elements were there. It wasn't a conversion perience; it was literal + immediate salvation - over the planetary powers which had programmed me to die around 4-74. But There is also a hinder element: "as long as the soul mistakes This phenomenal world for reality + clings to its existence in it, it is doomed to suffer endless births + deaths." I not only perceived the empirical (phenomenal) world as irreal, I also remembered thousands of years of prior life. It's as if my Gnosis was achieved by Christ - + my salvation - but the secret disclosed was that which Hinduism teaches - as it Christ revealed to me that Hinduism is correct. Also, I take note of the fact that my salvation began when I saw The Golden Fish + abroptly ceased to believe in the space time world around me (calis in 1974), +, instead, believed in another reality in its place; the power of the phenomenal world - the planetary powers - was broken but what I saw as real was Zebra or the Logos, the cosmic Christ, + the world of The Bible, as if the world described in the N.T. is the real world.
+
+Last edit almost 3 years ago by svayambhu108
+7
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Zebra, Logos, Holy Spirit, Paul, Fish, Bible, Gnosticism, Golden, World, Gnosis, Golden Fish, Only, Time, Cosmic, Gabriel, Mckee, Gabriel Mckee, Just, Reality, Either, Another, Through, Soul, Real, Secret, Death, Were, Life, Instead, Human, Salvation
+
+---
+### Line 6496-6504 (Match: 'Cosmic Christ')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+50
+Needs Review
+50
+8 the cardinal experience of 3-74 was anamnesis, + that was not set off by the phosphene-activity - source or any source which followed, but by my seeing the Golden Fish sign in Feb. This must always be kept in mind anamnesis began before the phosphenes, by a couple of weeks, + was, I am positive, deliberately induced, by a concerted group, as extensions of the cosmic Christ i.e. as parts of the true vine). I camet be sure if there were OCCP command micro-esp signals, but if there were, I successfully fought them off; what I am sure of is that there was Xtian anamnesu, + it was triggered in Feb, by the Fish sign, + not in march In a sense, the cause of the Feb Xtian anamnesis the OCCP signals which were to come later, in March was the effect came before the cause. It is clearly evident to me that had the Xtian anamnesis (possession by the Holy Spirit) not set in in Feb. the OCCP microwave psi commands vis-a-vis the Xerox missive would have been successful; but, as it was, with the Feb anamnesis firing, it was not. Evidently this thwarting was deemed vital to his historic pran by the wise mind fundamentally, however, I favor another theory, which does not include any soviet micro-psi commands. It is this: that "astral" (deterministic) programming caused me to did in March or April of 1974. But that God reran that segment of linear time (which is how I knew the Xerox missive was coming, + when), +, by his grace, by his power over the planetary influences," what ever they might be, he saved my life, then, from march 15th on, I experienced post morter events, since in the previous "playing of the linear time tape" from then on (3-74) I was dead.
+
+Last edit almost 3 years ago by svayambhu108
+
+51
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Xerox, Holy Spirit, Fish, Golden, However, Since, Golden Fish, Time, Cosmic, Mind, Does, Soviet, March, Missive, Xerox Missive, Anamnesis, Grace, Another, Before, True, Would, Were, Have, Clearly, Life, Wise, Later, Dead, Evidently
+
+---

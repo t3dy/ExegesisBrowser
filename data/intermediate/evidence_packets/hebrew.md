@@ -1,0 +1,346 @@
+# Evidence Packet: Hebrew
+
+- **Category**: Top Term
+- **Total Mentions**: 109
+- **Aliases**: Hebrews
+
+## Supporting Passages (Context Windows)
+
+### Line 1091-1099 (Match: 'Hebrew')
+**Folder**: part one
+
+```text
+I never after that "found" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was actually there and actually experienced during full wakefulness, as present. Yet, it was still now. But now He has returned. I was now and yet superimposed Rome of 2000 years ago: 1974 Fullerton and Rome c 45. I gather that what I experienced were the two advents unified, with time abolished. It made Rome Fullerton and Fullerton Rome; it made 45 AD 1974 AD and 1974 AD 45 AD. This certainly would explain why I knew that neither reincarnation or time-travel per se were involved. It was a time dysfunction but of a crucial sort, that prophecyed in the Bible: the Parousia, an expression (experience) of it, a demonstation of the nature of the Parousia in which it abolishes or ends time, or perhaps, when God enters time from outside time, which is to say, from Eternity; surely that's a time dysfunction, although you might not be able to fathom why it happened. But I guess this is what you experience when God abolishes time; when the Parousia arrives.
+
+In connection with this, I wasn't just back in Rome; I was aware of two portions (not aspects, but divisions): the Roman army/police -- and the hurrying semi-invisible Christian underground, the fish Christian who were illegal and whom the Romans (part one) were after, to destroy. Gosh, if I were merely transported back to Rome via a time dysfunction I might gaze at great buildings and watch crowds, having no awareness of the fish Christians or the Roman ir leg. So this was not only Rome, or Rome as such; it was Rome viewed as the Apostles must have viewed it; it was a very precise and special view, and I was one of those fish Christians. I am happy to say that in this apocolyptic experience, I was indubitably one of those Christians, and our Savior was anticipated momentarily (later in the year I had the "Santa Sophia" dream, bearing this out without the Roman experience, that is, the Second Advent for sure, for us).
+
+The "Dec N T" says that this time Christ won't appear in the form of one single man (as he did as Jesus before), because if he does, then they'll get him again and it'll be a failure again; therefore, as I understand it, this is what all this solar spermatika, the seeds, etc. talk has to do with; there will be many implantations, of persons already alive and walking around "at their regular tasks," and the births will be plural, and inside peoples' heads, and not out of a womb, as with Mary's. Gee, I finally understood it. There will be no one Savior born this time, but a different system. Vide St. Teresa of Avilia. "Now, Christ has no body but yours." Is before (at the First Advent) implantation will be done by the same spirit, the Holy Spirit, supra, and the same issue will occur: the Son, which explains Jesus' cryptic remarks about where the Kingdom would be (not here, not there, and Christ not here, not there). But: in you and among you. Yes indeed! Kingship, then, within given persons; the assumption of rule (this duplex personality) within various persons; this is the Second Advent, and not a mere anticipation, a la Elijah. This is the Second Coming itself, this Firebright implantations. I mean, these, not this. My God -- what happened to me (sic: to me) in 3 74 was the Second Advent, one of them, anyhow. Guess who Firebright is, viewed this way. This now resolves one mystery (mystery to me, anyhow): the relationship between Elijah and the Holy Spirit. What Malachi said would come back was the Spirit of Elijah (if you read about Elisha this is clear). Surely it wasn't the physical man. The Spirit of Elijah is the Old Testament Hebrew concept for the Christian Holy Spirit (remember, the Jews were absolute monotheists).
+
+Last edit over 5 years ago by Harpax
+
+76
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+
+---
+### Line 1191-1199 (Match: 'Hebrew')
+**Folder**: part of
+
+```text
+for my survival, defensive in nature; this explains the ferocity I felt, the awareness of combat, of an antagonist. None of that in 75; in springtime when the pineal body was reignited, only the St. Sophia cycle remained, and was pleasurable, as reproduction should be. It is always necessary that an organism survive intrinsically if it is to reproduce. If Firebright was to be born --the young beardless king-- in 75 I had to live on into 75; this required the warrior instincts of 74, which were successful. "The trumpet's loud clamor doth call us to arms," for 74; then for 75 the Purcell "St. Cecelia's Day Ode." I guess combat comes before mating, and the worthy survive and reproduce, and thus the species is strengthened; the dynamics which we see here with, say, deer, are the same for the metaworlds; if I had not proved capable of survival, I would not have had a chance to give birth to Firebright, the young king of springtime: the root and the star.
+
+Certainly during spring 74 I was personally aware of my need to survive, and that the Logos was assisting me to do this. I don't recall any strong sense of the spermatika, except theoretically; that I was achieving, by surviving, not temporary life, but somehow eternal life. But the remaining part of that came this spring...no wonder they wanted to strengthen me physically, "in this world."
+
+Also, what I experienced was ad Adjustment, in terms of the palintonos, and palintropos harmonie systems. The great entity which we call God, Immanent Mind being better a term, adjusted imbalances at that time, and this started up a lot of signalling. Probably I was part of a palintropos change, an oscillation outward (expanding) with what had been in the Taoist sense "too filled up," also the Greek sense (hubris) forced back, made Yinnish, retractile; this contributed to maintaining the total palintonos harmonie of the Universe/Mind. I was made into an active (Yangish) station of that change, and felt it, felt the signals coming to me; this is what appeared to be --or was-- possession by the God or Elijah, also divine intervention (to restore harmonie). Of course this is a constant process, but usually I am not a part of it in that sense, being shifted from retractile (Yinnish) so abruptly on signals; this served the purposes of justice (to aid me) and of justice (to deal out defeat to the haughty, whoever they were). A whole subsystem in the total universe must have started firing abruptly -- just as my brain did when I took the w.s. vitamins. Where this gave me the unique chance to see that the universe is not the sum total of all the objects in it, but the laws governing it (the harmonie systems, etc.) is that: between me and my environment (read establishment) there was a severe imbalance. If no God, Immanent Mind, Unbounded or Logos existed, the restitution of equilibrium between me and this environment would have had to be brought about by one or more of the objects which fill this universe -- me, or other people, etc., or visible forces. One or more of us would have had to act deliberately to bring about equilibrium. No one did; in fact, the imbalance was pushed further and further. What acted was the Immanent Mind which carries within it (the Container of all the objects) me and everyone else including my total environment. That this realm exists is not an object of knowledge to our society; it used to be called The Gods, in the Greek sense, not in the Hebrew sense (vide all studies thereon). Well, our society, inadequately informed on what the pre-Socratics knew, and the mystery religions and other Greek thinkers knew, continues on unaware of the forces which ultimately govern.
+
+Last edit over 5 years ago by Harpax
+84
+Needs Review
+```
+**Co-occurrences**: Logos, Sophia, King, Greek, Well, Elijah, World, Only, Time, Harpax, Mind, Firebright, Just, Realm, Being, Divine, Great, Gods, Probably, Taoist, Brain, Part, More, Star, Certainly, Before, Universe, Would, Other, Somehow, Were, Back, Further, Have, Life, Body, Justice, Spring, Except, Knowledge, During
+
+---
+### Line 1211-1219 (Match: 'Hebrew')
+**Folder**: part of
+
+```text
+In another sense, "being possessed" was being outside oneself, and outside the environment as well, at a third point, the Archimidean standpoint from which one could see both oneself and the environment as an interacting entity...but this does require "being outside." So it may not have been a coming into me, but a me going outside of me.
+
+I got at least as strong an impression that it was a vast body as that it was a vast mind. It certainly seemed to act, if signalling can be considering acting. Thinking is an action, an activity.
+
+I'm not completely away from the Hebrew idea of God, because it assigns total unboundedness to everything; there is no sense of law, which means, of harmonie of any sort. God does what he wishes; JHWH is a tribal god who has moods. The Greek ideas -- look at their insight into palintropos and palintonos; that alone...if JHWH is equal to Zeus, then okay, the Jews had that, they had Zeus. But look what else Greece had; the whole idea of lawful or regulated by the Unbounded; the kosmos within the Unbounded. Why need we obey a tribal deity when we can have all the thinking of the civilization of Greece?
+
+Last edit over 5 years ago by Harpax
+85
+Needs Review
+```
+**Co-occurrences**: Greek, Well, Because, Harpax, Mind, Okay, Could, Does, Look, Both, Kosmos, Being, Everything, Jews, Their, Zeus, Another, Certainly, Greece, Deity, Have, Body
+
+---
+### Line 1246-1254 (Match: 'Hebrews')
+**Folder**: part of
+
+```text
+"Mighty and great is Ptah, who rendered power to the gods and their kas: through his heart, by which Horus became Ptah; and through his tongue, by which Thot[h] became Ptah."
+
+This is 2,000 years before India. "The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator." Also, Ptah did it by speaking the word (the tongue). This anticipates the Logos doctrine. Heart is creative intent; tongue utters or expresses, gives voice to (I'll bet ka and voice and breath are closely identified).
+
+Joseph Campbell flatour says the the Occident believes in a transcendent god (above creation) and the Orient an immanent god who is here now (name your own subtheory). In that case I parted company with everyone in the West except (one) certain Presocratics and (two) Spinoza, who thinks very early Hebrews thought this, whi[ch] is possible but to me not important. The only reconcilitation I can imagine for me vis-a-vis the West would be to think that God had been above (transcendent) but the linkage is now so repaired that He is immediately accessable, which means that the Kingdom is here. (Maybe this is so.) How can I believe He will descend in/on/under a cloud if I know Him to be here, that in fact He never left?
+
+For palintropos h. to exist, time must exist (since it is in oscillation or sequence form). Insofar as this kind of balance (Yang-Yin alternation) is taken as real, time is real, but as soon as palintonos h. is viewed, we are in another world where time is absolutely not real, but for a certainly an illusion. Joseph Campbell, writing about Egypt, says that the great secret of the pharohs was that they were "Master of the Twin Opposed Gods," Horace and Seth, whose strife in the temporal world is absolutely real, but that "The Secret of the Two Partners," "was a reference to the hidden understanding of the two gods, who, though they appear to be implacable enemies, are of one mind behind the scenes...mythologically representing the inevitable dialectic of temporality, where all things appear in pairs, Horus and Seth are forever in confli[e]ct; whereas in the sphere of eternity, beyond the veil of time and space, where there is no duality, they are at one; death and life are at one; all is peace." (p81.) It looks to me as if
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Logos, Form, Kingdom, Well, Spinoza, Maybe, World, Since, Only, Time, Harpax, Cosmic, Mind, Yang, Great, Gods, Viewed, Creator, Their, Another, Through, Egypt, Real, Voice, Certainly, Secret, Before, Death, Will, Would, Creation, Were, Very, Beyond, Under, Campbell, Things, Life, Body, India, Except, Joseph, Dialectic, West, Whereas, Joseph Campbell
+
+---
+### Line 1498-1506 (Match: 'Hebrew')
+**Folder**: part pressing
+
+```text
+106
+Rollo May can't really sa[y] what Socrates' daimon "is," only that it is real -- esp. for all creative men; warns of something which will take away one's a[u]to[n]o[m]y...leads one into the right relationships -- to cause on to meet certain persons (in my case eg Tessa); knows the future, is renewing, every point in detail; the inner voice which is not mere conscience, with which one can have colloquy. Is the voice of nature; is also the voice of history and historic change (!!!); it caused Socrates to become a gadfly against the state and to defy the court... [???] it, it is real, it is what took me over & which spoke to me in my physics test, etc. But what is it? Why would my daimon speak in Attic Greek same as Socrates'? Same daimon? Same voice, not his versus mine? We all have the same one and it's Attic Greek (it has a local habitation and a name?). The mystery becomes vitally wild, here. Can't be Christ; Socrates lived before Christ; likewise the Paracletos. Who, then? Whoever talked to Socrates inside his head, warned him and inspired him and guided him, it's doing it for me, too, but that doesn't tell me who or what it is "really." "You know the disease you had last year? Well, you have it again." Recognition without identification.
+
+This is 2400 years later; it's still talking -- to me, at least. Also I guess to Goethe (of RM's book). In a way this makes sense (my voice talking attic Greek) since (sic) it's the daimon of Socrates, who was Greek; I mean, it looks like it dovetails; it's logical...but on a deeper level, although it "fits," really, the mystery deepens. "Of course it lapsed into Attic Greek. After all, that's the language it used when it talked to Socrates." As Dr. Bear said, "Why Greek, and not, say, Hebrew?" Well, here is the answer. I guess (chuckle chuckle, very nervously. This is mind-blowing. This must mean something, everything. And validated by today's foremost psychiatrist. But -- but -- Most of all, its fighting for new social forms to come, destroying the social forms which are, in Socrates' case especially, and hence regarded (he being regarded by Athens) as a bad man. Recall I was saying, "I was given the same trial as Socrates: for corrupting the youth. Told to get out of Narin County or die. I chose to leave." Ach Gott, what am I to make of this? Wo bin ich? If Rollo May were here he'd say in alarm, "Oh no, you can talk to a daimon, but not to Socrates' daimon specifically! You don't understand!" RM marvelously describes it[s] relatedness to the future, to final causes -- rather than being pushed causally by the past -- he's got it all down! Also, those creative persons inspired by it are the vanguard of society, building values for the future which will take root later. Eros is the anthesis of Thabatos: death. Eros created all life, motion and joy in the first place; before Eros emerged, "noting strirred or moved or lived" (Hesiod). Also as Angus Taylor shows, my philosophy is thorough-going Platonistic! In all my books and stories! Of Ubik and the first new revision of Plato's forms; look what Patrice said! It fits together. What does it? Who am I? So many parallels. Just how much "data" from Athens never died? Most important and significant of all: in 3 74 when I was taken over, I had a totally new worldview and it was absolutely the sum total of the highest Greek worldview, an absolutely flawless recap of all the Athenian et al philosophers did: I retrieved it utterly!!!! Now, in view of what Rollo May says, well, then is it not the spirit of Athens, then, which is Apollo Himself?
+
+Last edit over 5 years ago by Harpax
+107
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Form, Plato, Greek, Well, Like, Since, Only, Harpax, After, Mind, Book, Does, Just, Something, Look, Again, Being, Although, Everything, Himself, Apollo, Without, Tessa, Those, Still, Most, Real, Voice, Before, Death, Will, Would, Were, Very, Attic, Many, Have, Life, Later, Socrates, Likewise, Today, Doesn, Final, Right, Answer
+
+---
+### Line 1706-1714 (Match: 'Hebrew')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+120
+Needs Review
+120
+Now, viewed this way, that a message, the same message, was passed on to me repeatedly, the Attic Greek can be viewed as an essential ingredient; as a constituent in the carrier, it demonstrates that the material was not an autoproduction; it came from somewhere outside my own psyche; this indelibly stamps the material as non-psychotic or not a fantasy. I did not produce it, although my own mind may have shaped it. Therefore the Greek was essential to establish veracity of the message. Attic Greek served perfectly; it was something I did not know, could not have know, but could translate; whereas Hebrew, for instance, might have passed as mere gibberish or scribble.
+
+The linking, too, of even one fragment of the Greek to the Bible, as was done with the "kai hypsilon," to Romans, is of crucial importance, as with the finding of material derived somehow from Paul's "Acts" in TEARS. (I believe it was "Acts," anyhow one of Paul's works.) Yes, it was Acts, a relatively short section from the Bible; and then Romans comes next, also a relatively short section. When one considers the origin of the New Testament --dictated by the Holy Spirit to men-- then this fits together. Also, my ability during that time to see in brief flashes other events and places which I could confirm, plus the pre-cognition in dreams, was probably to bolster my realization, perhaps later, that I was indeed receiving in-coming information and hence the message was authentic, both in content and in origin.
+
+I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sense. In that area, the Levant, they were still part of the Hellenistic World and so wrote & spoke Greek. I had erroneously been supposing that the spoke/written language of that time would of couse be Latin. Then in 2 75 I did see the Levant for sure. In 3 74 I saw the hurrying secret Christians underground, at their work; they of a proven certainty at least wrote in Greek, and I think spoke Greek; yes, I'm sure. So this adds up: what I saw, and then later what in my head I heard. Yes, the fish sign, composed out of Greek letters and into a Greek word, proves it. I was back, auditorily as well as visually, among the apostles and early followers. And such dreams as "my friend Paul" holding up a prophetic galleyproof text: in which I was mentioned! And "Santa Sophia will be reborn, etc." was what they were into; the Savior has been born once already (obviously, since the Christian fish underground, them, existed); but I recall that I knew they were anticipating him returning, which is to say, Santa Sophia. This was what all their activity was in preparation for. This was their hope and their expectation: the Second Advent. So this is all of a piece. But, I believe, the voice I heard was not a voice from them but rather to them (to us?). This is the news I have; this is the news they had. We are linked together, and with us our two time-space periods. Li[n]ked by that anticipation (and that voice). Whoever it speaks to, and delivers that message, is somehow made one with them, outside time and space and all distances. This Christian underground much itself lie outside of time, like that which it awaits.
+```
+**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore, Time, Harpax, Savior, Mind, Even, Could, Anyhow, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Such, Voice, Secret, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Information, Later, Testament, During, Whereas
+
+---
+### Line 1914-1922 (Match: 'Hebrew')
+**Folder**: part left
+
+```text
+encounter with it (perception of it), no matter how small the segment, sector, in time or space. This recalls to me my "three lives" dream in which I was first in an alternate world where I was famous and flew everywhere, and then very poor in a Mexican ot Italian town, and in the dream the fan-shape triune sections were extended to show that no matter where of how you took a core sample or segment or fragment, from it the extremes on each side could advance out fan-blade like, with a Tao always created in the center. Each partial life was generated into a state of triune completeness (twoo little; just right (balanced); too much). I sensed/watched the slimmest sample expand into what, in terms of universal constants, an entire world; I don't think you could cut it too small to exclude that spontaneous process of total regeneration of World. That means that the All is immediately palpable ("break a stick and there am I; and I am the All"), if viewed at all; I mean, if it is seen it is NOT SEEN PARTIALLY, IN AN IMPAIRED WAY ( as we always see reality). This is the opposite of the blind men with the elephant situation. Now, the implications of this if as I believe God is an immanent God is enormous -- in fact, this might account for what I experienced, because given immanence, then when you encounter Him in the alley you have encountered Him completely, just as much so as if you met Him in heaven, in the cylem. It is not like a portion of God (analogous to a hand or arm of one of us). Like Kozyrev's theory of time, the whole "thing" is projected from a single point. At any point where He is, He is totally and to the extent that He can be known He can be totally known. One does not experience a portion of God. This makes clear how His immanence works. How He can be everywhere but not necessarily everything.
+
+I wonder what's in my other dreams of equal value in exegesis.
+
+Anyhow, regarding this projection-from-every-point-of-the-complete All, then any glimpse of it (as I say) would be an encounter with its totality, and would by definition not be partial and therefore probably more than could be comprehended. No matter how gently filtered or muted, or revealed in progressive degress of emergent clarity, by the time the encounter was over, the mortal creature would be amazed. Later, he would find himself trying to depict an infinitude in ordinary words; which is to say, he would find that which he experienced to be inexhaustible. Probably he would keep trying, and wonder why. (i.e. why even if it lasted only a little while he can't completely describe it or explain it.) He would forever be trying to fully explicate (or explain at all) what he saw along the gutter here and there which shone, saw in a time-period of 3 minutes one day and is greater than the universe. Pute another way, it seems reasonable that if after 14 months of unending exegesis, reading, studying, pondering, etc., one has still failed to even begin to account for what one saw in those 3 minutes --when in fact more remains to explain and understand than ever-- then there is reason to believe the vision authentic. The fact that one can't say (explain or account for) may reveal more than if one could. That it would be the complete deity, even when scaled down to a micropoint, would explain the striking account of Elijah finally encountering God in the "still small voice" and not in larger more spectacular forms. Also, the ancient Hebrew priests declaring that the voice of God is like the cooing of doves.
+
+Last edit over 5 years ago by Harpax
+140
+Needs Review
+```
+**Co-occurrences**: Complete, Form, Elijah, Like, World, Because, Therefore, Only, Time, Harpax, After, Even, Could, Does, Anyhow, Just, Reality, Everything, Himself, Probably, Viewed, Those, Still, More, Another, Heaven, Voice, Universe, Finally, Deity, Would, Other, Were, Very, Have, Life, Later, Greater, Dream, Right
+
+---
+### Line 2022-2030 (Match: 'Hebrew')
+**Folder**: part of
+
+```text
+Needs Review
+148
+I read now that the Passover celebrates the Exodus -- i.e. the Jews leaving Egypt and slavery. Lamb's blood was smeared on their doors to show they were God's children.
+
+I also read that "Yahwen" is the causative form of the Hebrew vern to be and means, "He Who Creates" (brings into being). It tells us the nature of (this) Deity. Knowing that name enabled Moses to understand that this God was sovereign over (one) nature and (two) nations. You know, the damn plagues show Yahweh as a nature god, all right: frogs and bugs, etc. He (Yahweh) assailed Egypt with naturalistic events. Understand this: He assailt Egypt, the State, from outside, from the realm of nature. (Yahweh, remember, had manifested Himself to Moses out of the desert in the burning bush. The outsider god!)
+
+The "Moses" TV program sees Yahweh pitted against the state, to destroy it & its slavery; also it describes him, incredibly, as "the dancing god," and, "the god of the young"! The parting of the waters of the Sea of Reeds (called Red Sea by mistaken now) is also a nature-god event...I'm convinced; qed. Dionysos, again. Yahweh had delivered the Hebrews, so he had a claim on them, for them to do his will; this was a fealty oath of obedience between a superior (lord) and vassal. A contractual relationship, not slavery. What God gives, then, is love and care; he asks back subordination to fulfilling His will (which is reasonable indeed!). "He was concerned to protect the powerless Hebrews." This His rules enjoins --requires-- us to protect the weak & helpless. "And guarantee justice for them." This is the Covenant. (Plus else.) "To regulate the civil rights of the community." Rule by law -- what we here now need most desperately! This is the essence of worship of Yahweh.
+
+I just can't get over this that I saw (the TV "Moses" program episode dealing with the plagues and then their leaving Egypt):
+```
+**Co-occurrences**: Form, Dionysos, Lord, Just, Realm, Again, Being, Moses, Covenant, Himself, Jews, Their, Egypt, Most, Love, Yahweh, Will, Deity, Were, Back, Justice, Passover, Remember, Blood, Lamb, Right
+
+---
+### Line 2024-2032 (Match: 'Hebrews')
+**Folder**: part of
+
+```text
+I read now that the Passover celebrates the Exodus -- i.e. the Jews leaving Egypt and slavery. Lamb's blood was smeared on their doors to show they were God's children.
+
+I also read that "Yahwen" is the causative form of the Hebrew vern to be and means, "He Who Creates" (brings into being). It tells us the nature of (this) Deity. Knowing that name enabled Moses to understand that this God was sovereign over (one) nature and (two) nations. You know, the damn plagues show Yahweh as a nature god, all right: frogs and bugs, etc. He (Yahweh) assailed Egypt with naturalistic events. Understand this: He assailt Egypt, the State, from outside, from the realm of nature. (Yahweh, remember, had manifested Himself to Moses out of the desert in the burning bush. The outsider god!)
+
+The "Moses" TV program sees Yahweh pitted against the state, to destroy it & its slavery; also it describes him, incredibly, as "the dancing god," and, "the god of the young"! The parting of the waters of the Sea of Reeds (called Red Sea by mistaken now) is also a nature-god event...I'm convinced; qed. Dionysos, again. Yahweh had delivered the Hebrews, so he had a claim on them, for them to do his will; this was a fealty oath of obedience between a superior (lord) and vassal. A contractual relationship, not slavery. What God gives, then, is love and care; he asks back subordination to fulfilling His will (which is reasonable indeed!). "He was concerned to protect the powerless Hebrews." This His rules enjoins --requires-- us to protect the weak & helpless. "And guarantee justice for them." This is the Covenant. (Plus else.) "To regulate the civil rights of the community." Rule by law -- what we here now need most desperately! This is the essence of worship of Yahweh.
+
+I just can't get over this that I saw (the TV "Moses" program episode dealing with the plagues and then their leaving Egypt):
+
+(one) The situation obtaining was one of slavery. (two) Yahweh, from nature-outside the state, pitted himself against the state in their behalf, to free them. (three) The angel of death came as a plague, and I saw on the screen the moment of terrible silence at night, before it arrived, and then the dog howled, and we saw the dog running. (four) I finally understood about the lamb & the blood of the lamb. (five) I finally learned that the Passover Feast celebrates the Exodus; i.e. the Hebrews getting away from Egypt & slavery. (six) This is not to forget that it is a vernal equinox festival as well; thus springtime equals deliverance from slavery, which we get updated in Xtianity as Redemption.
+```
+**Co-occurrences**: Christianity, Form, Well, Dionysos, Lord, Just, Realm, Again, Being, Moses, Covenant, Himself, Jews, Their, Egypt, Most, Love, Before, Yahweh, Death, Finally, Will, Deity, Angel, Were, Back, Justice, Passover, Remember, Blood, Lamb, Free, Right
+
+---
+### Line 2028-2036 (Match: 'Hebrews')
+**Folder**: part of
+
+```text
+The "Moses" TV program sees Yahweh pitted against the state, to destroy it & its slavery; also it describes him, incredibly, as "the dancing god," and, "the god of the young"! The parting of the waters of the Sea of Reeds (called Red Sea by mistaken now) is also a nature-god event...I'm convinced; qed. Dionysos, again. Yahweh had delivered the Hebrews, so he had a claim on them, for them to do his will; this was a fealty oath of obedience between a superior (lord) and vassal. A contractual relationship, not slavery. What God gives, then, is love and care; he asks back subordination to fulfilling His will (which is reasonable indeed!). "He was concerned to protect the powerless Hebrews." This His rules enjoins --requires-- us to protect the weak & helpless. "And guarantee justice for them." This is the Covenant. (Plus else.) "To regulate the civil rights of the community." Rule by law -- what we here now need most desperately! This is the essence of worship of Yahweh.
+
+I just can't get over this that I saw (the TV "Moses" program episode dealing with the plagues and then their leaving Egypt):
+
+(one) The situation obtaining was one of slavery. (two) Yahweh, from nature-outside the state, pitted himself against the state in their behalf, to free them. (three) The angel of death came as a plague, and I saw on the screen the moment of terrible silence at night, before it arrived, and then the dog howled, and we saw the dog running. (four) I finally understood about the lamb & the blood of the lamb. (five) I finally learned that the Passover Feast celebrates the Exodus; i.e. the Hebrews getting away from Egypt & slavery. (six) This is not to forget that it is a vernal equinox festival as well; thus springtime equals deliverance from slavery, which we get updated in Xtianity as Redemption.
+
+I could list more or what I saw & read tonight that conforms to my 3 74 and 2 75 experiences. The killed lamb, the angel of death, the fight between the outside nature God and the enslaving state, with that God penetrating the state, raising the seige, breaching the iron wall, etc.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christianity, Well, Dionysos, Lord, Iron, Harpax, Could, Just, Again, Moses, Covenant, Himself, Their, More, Egypt, Most, Love, Before, Yahweh, Death, Finally, Will, Angel, Back, Justice, Passover, Blood, Lamb, Free
+
+---
+### Line 2036-2044 (Match: 'Hebrews')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+149
+Needs Review
+149
+The social contract relationship between the Hittites and their vassals was the model in Moses' mind for that between Yahweh and man; and seems to resemble modern social contract models of a just society. God takes care of us and gives us love, and we pass this on to the weak, powerless & helpless to form justice, and also what that justice should consist of: the strong protecting the weak, through love for them, and helping them, and getting back loyalty and obedience. That is the natural workable relationship between strong and weak, greater and lesser, a mutual pact. Now the concept "serving God" isn't vague. It is, herewith, spelled out so I can understand it. God delivered the Hebrews (their situation was desperate), but he asked certain things back. My visions told me that God expects certain things from us: to protect animals and the ecosphere in general. He is/was pitted against the unjust society we were falling into, of master (strong) and victim (weak). As always, God (Yahweh) was on the side of the oppressed; again, he delivered us, but asks certain things back (rightfully so); we must strive for social justice, and also we must go back to true monotheism.
+
+I have a new theory. The "Vinland Smith" material in my visions doesn't imply a coming here, but that He is enjoining us to the realization that we must leave Earth, as the Hebrews left Egypt; a new Exodus is required of us: migration from Earth to other star systems. It is an analog of the Hebrew Exodus.
+
+I know in view of my 3 74 encounter/experience what this "nature god" business means...I saw Him in the trash (specifically the dead bird), and heard Him in the bells (chimes), e.g. in nature, speaking through nature; and "nature" means here less than creation itself, the whole, in its totality: the birds and the bees, the rocks and trees; this is my father's world. Not society, this part. Yet -- He enters society, from this world of nature (Creation), and breaks it down into man related to Him, not to the state. He is not dead-center, at the core of the state; He is outside, coming in. The state is the last bastion against Him, where He is found least. The last to fall; it had not fallen yet, but fell a lot in 74 & 75. Our God speaks to us with us as natural men speaking a natural (non-artificial) language. (This includes lots of graphics, pictures, which are universal; His language, in the wind, in animal signs -- it is always universal. Probably the myth of the Garden represents this natural Creation & our ability to understand it speaking to us, and to speak back: dialog with God. This is precisely what we have lost. I regained it, miraculously, suddenly, in 3 74. Outdoors (outside) God was everywhere; but indoors I think I only saw Him as the small Logos red & gold thread here and there AMONG PRINTED WORDS! What a leap: from the natural world (alley) to the printed page, and nothing inbetween! (God the Creator to God-Logos.) I think the birth of the Logos into our world (celebrated by us as the birth of Jesus Christ) was a new leap, never seen before that, in which He penetrated into society (the state, enemy territory to Him) and has remained ever since, in this non-creator form. He sent His Son in here! As with Moses, the Voice I heard came to me on desert winds (as Pharoah complained; the wind, the "atmosphere" at Cameo Lm. From the desert to the east.) & that same wind blowing up the alley, stirring the trash (v. my "Aolian harp" dream.)
+```
+**Co-occurrences**: Christ, Logos, Jesus, Form, Father, World, Since, Fall, Only, Earth, Harpax, Garden, Mind, Just, Again, Jesus Christ, Moses, Probably, Nothing, Creator, Part, Their, Star, Through, Egypt, Gold, Voice, Love, Before, True, Yahweh, Other, Creation, Page, Were, Back, Have, Things, Justice, Dead, Suddenly, Greater, Dream, Doesn
+
+---
+### Line 2038-2046 (Match: 'Hebrews')
+**Folder**: part of
+
+```text
+Needs Review
+149
+The social contract relationship between the Hittites and their vassals was the model in Moses' mind for that between Yahweh and man; and seems to resemble modern social contract models of a just society. God takes care of us and gives us love, and we pass this on to the weak, powerless & helpless to form justice, and also what that justice should consist of: the strong protecting the weak, through love for them, and helping them, and getting back loyalty and obedience. That is the natural workable relationship between strong and weak, greater and lesser, a mutual pact. Now the concept "serving God" isn't vague. It is, herewith, spelled out so I can understand it. God delivered the Hebrews (their situation was desperate), but he asked certain things back. My visions told me that God expects certain things from us: to protect animals and the ecosphere in general. He is/was pitted against the unjust society we were falling into, of master (strong) and victim (weak). As always, God (Yahweh) was on the side of the oppressed; again, he delivered us, but asks certain things back (rightfully so); we must strive for social justice, and also we must go back to true monotheism.
+
+I have a new theory. The "Vinland Smith" material in my visions doesn't imply a coming here, but that He is enjoining us to the realization that we must leave Earth, as the Hebrews left Egypt; a new Exodus is required of us: migration from Earth to other star systems. It is an analog of the Hebrew Exodus.
+
+I know in view of my 3 74 encounter/experience what this "nature god" business means...I saw Him in the trash (specifically the dead bird), and heard Him in the bells (chimes), e.g. in nature, speaking through nature; and "nature" means here less than creation itself, the whole, in its totality: the birds and the bees, the rocks and trees; this is my father's world. Not society, this part. Yet -- He enters society, from this world of nature (Creation), and breaks it down into man related to Him, not to the state. He is not dead-center, at the core of the state; He is outside, coming in. The state is the last bastion against Him, where He is found least. The last to fall; it had not fallen yet, but fell a lot in 74 & 75. Our God speaks to us with us as natural men speaking a natural (non-artificial) language. (This includes lots of graphics, pictures, which are universal; His language, in the wind, in animal signs -- it is always universal. Probably the myth of the Garden represents this natural Creation & our ability to understand it speaking to us, and to speak back: dialog with God. This is precisely what we have lost. I regained it, miraculously, suddenly, in 3 74. Outdoors (outside) God was everywhere; but indoors I think I only saw Him as the small Logos red & gold thread here and there AMONG PRINTED WORDS! What a leap: from the natural world (alley) to the printed page, and nothing inbetween! (God the Creator to God-Logos.) I think the birth of the Logos into our world (celebrated by us as the birth of Jesus Christ) was a new leap, never seen before that, in which He penetrated into society (the state, enemy territory to Him) and has remained ever since, in this non-creator form. He sent His Son in here! As with Moses, the Voice I heard came to me on desert winds (as Pharoah complained; the wind, the "atmosphere" at Cameo Lm. From the desert to the east.) & that same wind blowing up the alley, stirring the trash (v. my "Aolian harp" dream.)
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Logos, Jesus, Form, Father, World, Since, Fall, Only, Earth, Harpax, Garden, Mind, Just, Again, Jesus Christ, Moses, Probably, Nothing, Creator, Part, Their, Star, Through, Egypt, Gold, Voice, Love, Before, True, Yahweh, Other, Creation, Page, Were, Back, Have, Things, Justice, Dead, Suddenly, Greater, Dream, Doesn
+
+---
+### Line 2046-2054 (Match: 'Hebrews')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+150
+Needs Review
+150
+To learn that Passover celebrates the Exodus --i.e. the Hebrews' release from slavery-- is all I need to know to cinch my experience up. Escape (redemption) from slavery at the vernal equinox: the wind from the desert rustling the trash in the alley, and causing the chimes (bells) to ring: God speaking to me & freeing me. (Repeated later in history as Christ lag in Todesbanden, and then was released; the Paschal lamb.) I had a distinct impression of it being a Jewish or more precisely Hebrew experience with Deity from the start (witness my attempts to tie it, perhaps correctly, to Elijah's epiphany) Certainly I did not know Passover signified (celebrated, as in the corn festival) this: death to life, slavery to freedom; that redemption meant deliverand from earthly slavery first of all (historically). Then later, I guess, the chains & thrall signified death itself. I almost collapsed in watched the "Moses" episode 3 on TV when the angel of death came, and it spared the Hebrews' firstborn and accepted (slew, seized on) the lamb (the blood smeared on each Hebrew door for protection); in my case the angel of death came --the room lit up the same way and in my inner world I saw and heard dogs lift their heads and whimper-- and seized Pinky, our "pink sheep," instead. The blow fell on him as surrogate, which, the "Moses" TV flick showed, was exactly what the lamb was: a surrogate offering in place of the human being (child). But a lamb qua lamb hardly can be said to sacrifice himself voluntarily placing Himself on the cross as a sacrifice to save man, because of his love for man. Thus we have a lamb-god, sentient, knowing what it is doing, which is more accpetable morally to us, that the sacrificed victim does it voluntarily, with knowledge and purpose; that he should actually be our God! We have evolved a long way to reach this point, that God Himself is the innocent being sacrificed; he offers himself for us.
+
+There is no sin without and act creating a victim, the ultimate being murder. If a creature (man or animal) is murdered, then two bad things occur: the victim suffers and dies unjustly; the murderer is destroyed spiritually (in terms of his ontology, his soul). Thus two bad events are perpetuated daily, infinitely. God solves this by this mechanism: He replaces the victim, so that it is He, our God, voluntarily offering himself as the sacrifice; thus the victim is helped by having been infused with an influx of God's spirit, and so rewarded for being a victim, a receiver of sin, by this coming of God to him (as in my case in 3 74); this then saves the murderer from the stain of his crime/sin, since he slew only (sic) God who was there voluntarily to receive the blow for the sake of them both; thus the horrid equation is abolished as it occurs. This is how I see it; it's for the sake of both victim and cruel sinner. It is the only real solution, so long as these bad events take place (and they do). Otherwise, all, everyone, would be lost, victor and victim; nothing would be saved, and it would be overwhelmingly unjust. When on understands this, one knows that whenever he chops off the neck of anyone, it is God whom he kills, and is this not the ultimate deterrent? Thus as I saw in 3 74, our God often takes the form of animals, and we learn from the faces of these animals; that it is our God whom we kill when we kill (them)!!
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Form, These, Perhaps, Elijah, World, Since, Because, Only, Harpax, Does, Pinky, Both, Being, Moses, Himself, Jewish, Without, Nothing, Their, More, Soul, Real, Actually, Certainly, Love, Death, Deity, Would, Angel, Have, Things, Life, Freedom, Instead, Later, Passover, Having, God Himself, Knowledge, Cross, Blood, Otherwise, Human, Lamb
+
+---
+### Line 2055-2063 (Match: 'Hebrews')
+**Folder**: part of
+
+```text
+151
+All we need add to this insight is to realize that we are animals ourselves; to Him there is no distinction, since it is the world (of life) which He loves. Since death is always unjust, then it follows that it must be that only God dies, each time a creature dies; it is always He lying there in the shrubs gasping and glassy eyed His mouth frozen half-open and dumb. Pinky, Ralph -- always, always, always; He is there to receive the blow...the dying creature (especially the wise dumb animal types) probably experience it as a natural flowing or moving toward God as their physical shells decline and perish; so that rather than experiencing God coming into them, or becoming God, they sense themselves approaching God and God's realm (Kingdom). They go. But were we to see unblinded, we would see Him appear. Here. I think the message is: Whenever you kill (or injure, by extension) you kill something blameless.
+
+I even used the term "destroying angel," which is used in Hebrews about that episode before the Exodus at which time Passover was established!
+
+Exodus 12:13: Jehova: "And the blood must serve as your sign upon the houses where you are; and I must see the blood and pass over you, and the plague will not come on you as a ruination, when I strike at the land of Egypt," i.e. when he came as the destroying angel, the angel of death, and slew the first born; and so began Passover; and thus I experienced it that night in the bedroom, that Sunday (sic!) night, when the pale white light which cast no shadow, where there was no plce to hide, came on, and I knew then that the angel of death had come; and I prayed my head off frantically for hours in terror; and that night in sleep I dreamed of a gun being fired and a deer-like animal wounded in a ditch, a woman; and a few days later Pinky (the little pink sheep) died of cancer. The angel passed over (me, us except that he took Pinky, the lamb-sacrifice). 14: "And this day must serve as a memorial for you, and you must celebrate it as a festival to Jahweh throughout your generations." Later we are to say when someone asks the meaning of the festival of Passover: "It is the sacrifice of the passover to Jahweh, who passed over the houses of the sons of Israel in Egypt when he plagued the Egyptians, but he delivered our houses." (27).
+
+12:29 tells us that Jahweh struck every Egyptian house a[nd] killed the firstborn in the middle of the night: midnight. Wow. I rest my testimony; that night was that night. I have been wrong to connect that ultra-extraordinary experience with the Parousia, with Judgment Day; it was a remanifestiation of the first passover by God, which means a sparing of the innocent at the time He was getting the enslavers. The date, for me, was in August 1974. It was the same month Nixon resigned. I might add that the killing of the firstborn was the last of the plagues God afflicted Egypt with. Golly, it wasn't long thereafter that ol' Nixon almost croaked in the hospital at Longbeach... This proves that my whole experience was an experience of the Epiphany at Passover, step by step (the first as with Moses was the epiphany in the desert, for me, from the desert wind; the fire or burning being the phosphene activity), going through the stages which freed Israel, and which freed our people now: I say, knowing this about the derivation and meaning of pass over proves that indeed God was afflicting the establishment here and finally
+```
+**Co-occurrences**: Kingdom, Parousia, Like, World, Since, Only, Time, Nixon, Light, Even, Pinky, Something, Realm, Being, Moses, House, Probably, Their, Through, Egypt, Upon, Before, Death, Finally, Will, Would, Angel, Were, Frozen, Egyptian, Have, Judgment, Life, Wise, Later, Days, Passover, Except, Israel, Blood, Sons, Lamb, Someone, August, White
+
+---
+### Line 2071-2079 (Match: 'Hebrews')
+**Folder**: part of
+
+```text
+But God ordained Passover to be an annual festival of celebration: that one was spared; that one had been made free (Exodus); and I guess lastly if at all that the destroying angel got one's enemies. It is a festival of celebration, thanksgiving and joy: we have been delivered (from slavery & death and the fear of death).
+
+Did I experience a re-enactment of the original pass over by the destroying angel, or an actual reoccurence of it? The latter, since Pinky did die; it was not an anamnesis celebration. This is important, to determine this; if it was only a replay --a memory thing that rolled in my head, or an enternity date outside of time, not an actual current event in our space-time world-- then the tyranny, the modern slavery equal to Egypt's, was untouched. It was only a head trip on my part. Pinky's death proves it wasn't a head trip. I had no idea he was even sick. Maybe he hadn't been. The destroying angel was there that Sunday night in our bedroom. But I suppose I could be wrong; it could have been a re-enactment, playing the role of the Paschal lamb. This, if true, would point to Pinky as already being more than a mere cat/animal, which I was convinced of anyhow; in any case, I had encountered the Deity for sure back in March, and there unfolded for me, supra, as I say, the very steps (or some of them) unfolded for Moses, ending with the final most dreadful plague, the destroying angel at the tyrant's throats, and then - FREIHEIT! As with the Israelites, their deliverance didn't take place easily or over night.
+
+Lord, I will never hear the word "passover" again with the same quietude born of ignorance as to its meaning and origination. But what this "make" on the destroying angel Sunday night event does it show that: (one) I have always been right to identify this with Passover, and I wonder how I got started doing that, since Easter comes simultaneously. Because of Elijah? I guess so. That's all I knew; Elijah comes each Passover. Ach; there was death present at the first pass over, and there was death present at the Crucifixion. (Easter.) This is extraordinary. In Hebrews it talks about the second (new) covenant sealed with blood, replacing the first one (achieved twixt God and Moses). At the first pass over, God spared the innocent and killed the guilty (wicked). At the Crucifixion, the ultimately good and innocent man died, the guilty did him not, as well as being spared. All reversed! Christ equals, then,
+
+Last edit over 5 years ago by Harpax
+153
+Needs Review
+```
+**Co-occurrences**: Christ, Well, Lord, Elijah, Maybe, World, Since, Because, Only, Time, Harpax, Good, Even, Could, Does, Pinky, Anyhow, Again, Suppose, Being, March, Moses, Covenant, Anamnesis, Part, Their, More, Egypt, Most, True, Easter, Death, Will, Deity, Would, Angel, Very, Back, Have, Memory, Passover, Blood, Lamb, Free, Final, Right
+
+---
+### Line 2443-2451 (Match: 'Hebrew')
+**Folder**: part of
+
+```text
+Needs Review
+182
+which is to say, uncaused. I would know, wouldn't I? I heard the voice of my "physician," did I not, both in dreams and while awake? Given that there is a physician, who else could this physician be (Asklepios was an avatar of Him).
+
+. . . I remember: one of the most vivid and hard to understand parts of my 3 74 experience had to do with my craving a certain kind of damp in the air, a fog or moisture, a dew, or a light rain. . .I used to go out onto the patio at night and sit looking up at the stars. It was as if I yearned for a high, wet climate from somewhere else that I had been familiar with. This is something I never had any real theory for, this experience with moisture; I used to take cold showers, letting the cold water go over my face and head, all over me, something I'd never done before (I always had liked warm showers); it was cold water specifically that I craved. Now I read about malqosh, the "latter rain" mentioned in the Bible a number of times. "The rain before the harvest," is also is called. This is the time, the fall of this rain, "when the eyes of the blind shall be opened, and the ears of the deaf unstopped." The Mission says that this rain is Holy Spirit power and not actual rain, that it brings being "born again" which means "the Spirit birth from above." It is connected intimately with the reappearance of the Holy Spirit in the world, and forms (according to the Mission people) part of the Parousia. The earlier rain "former rain," which fell on the Apostles at Pentercost, meant in Hebrew "the teacher of righteousness," and the Mission says about the malqosh, the latter rain: "God is the great teacher, and He sent this knowledge by Holy Spirit Power." They say, too: "It is the rain to begin falling just before the harvest. Christ cannot reap the spiritual harvest of the earth --separating the wheat from the tares and gathering the golden sheaves unto life eternal-- until first His servants" etc.; wait: "This rain will come at the end of the age before Christ returns." There, that is it. The Prophet Elijah brings about the restoration of the Holy Spirit by his return, which means that Elijah will first come, then the malqosh and with it the Holy Spirit and its power, which evidently brings us God as Teacher, similar to the earlier teacher or rightousness; all this to make men changed and acceptable to God (wheat not tares). I wonder if back in 3 & 4 74 I perhaps sensed the presence of this malqosh, this gentle, steady, mist-like rain penetrating everything like a constant dew. It began the process which in 2 75 I saw as Spring: the new vine.
+
+. . . The Mission people say that the tree of life (in the Garden of E.) is a tree of wisdom -- wisdom from God, certainly. It is this wisdom which is "truth" which gives fruit robust spiritual life and finally eternal life. What is this if not the Hebrew for St. Sophia?
+
+. . . It is strange. . .I just realized that TEARS is what's called an apocalyptic novel. And in the narrative the dream of the king enters just where the king enters in "Revelation," the apocalyptic book of the Bible. A Platonic archetype is printing out on us down here, evidently; another conformation of the Platonistic view of reality. These are edola -- form-impressions here on us from above (obviously); then these are the anticipated portents & signs just before the Parousia; certainly they would not occur unless the Parousia were virtually here!
+```
+**Co-occurrences**: Christ, Tears, Spirit, Holy, Holy Spirit, Form, Sophia, King, Bible, Parousia, Golden, Wisdom, These, Perhaps, Elijah, Like, World, Fall, Time, Earth, Garden, Book, Light, Could, Just, Something, Again, Both, Reality, Being, Obviously, Everything, Platonic, Great, Part, Wait, Another, Most, Real, Voice, Certainly, Before, Revelation, Finally, Will, Would, Mission, Were, Back, Tree, Life, Spring, Remember, Unless, Knowledge, Truth, Dream, Evidently, Until
+
+---
+### Line 2445-2453 (Match: 'Hebrew')
+**Folder**: part of
+
+```text
+which is to say, uncaused. I would know, wouldn't I? I heard the voice of my "physician," did I not, both in dreams and while awake? Given that there is a physician, who else could this physician be (Asklepios was an avatar of Him).
+
+. . . I remember: one of the most vivid and hard to understand parts of my 3 74 experience had to do with my craving a certain kind of damp in the air, a fog or moisture, a dew, or a light rain. . .I used to go out onto the patio at night and sit looking up at the stars. It was as if I yearned for a high, wet climate from somewhere else that I had been familiar with. This is something I never had any real theory for, this experience with moisture; I used to take cold showers, letting the cold water go over my face and head, all over me, something I'd never done before (I always had liked warm showers); it was cold water specifically that I craved. Now I read about malqosh, the "latter rain" mentioned in the Bible a number of times. "The rain before the harvest," is also is called. This is the time, the fall of this rain, "when the eyes of the blind shall be opened, and the ears of the deaf unstopped." The Mission says that this rain is Holy Spirit power and not actual rain, that it brings being "born again" which means "the Spirit birth from above." It is connected intimately with the reappearance of the Holy Spirit in the world, and forms (according to the Mission people) part of the Parousia. The earlier rain "former rain," which fell on the Apostles at Pentercost, meant in Hebrew "the teacher of righteousness," and the Mission says about the malqosh, the latter rain: "God is the great teacher, and He sent this knowledge by Holy Spirit Power." They say, too: "It is the rain to begin falling just before the harvest. Christ cannot reap the spiritual harvest of the earth --separating the wheat from the tares and gathering the golden sheaves unto life eternal-- until first His servants" etc.; wait: "This rain will come at the end of the age before Christ returns." There, that is it. The Prophet Elijah brings about the restoration of the Holy Spirit by his return, which means that Elijah will first come, then the malqosh and with it the Holy Spirit and its power, which evidently brings us God as Teacher, similar to the earlier teacher or rightousness; all this to make men changed and acceptable to God (wheat not tares). I wonder if back in 3 & 4 74 I perhaps sensed the presence of this malqosh, this gentle, steady, mist-like rain penetrating everything like a constant dew. It began the process which in 2 75 I saw as Spring: the new vine.
+
+. . . The Mission people say that the tree of life (in the Garden of E.) is a tree of wisdom -- wisdom from God, certainly. It is this wisdom which is "truth" which gives fruit robust spiritual life and finally eternal life. What is this if not the Hebrew for St. Sophia?
+
+. . . It is strange. . .I just realized that TEARS is what's called an apocalyptic novel. And in the narrative the dream of the king enters just where the king enters in "Revelation," the apocalyptic book of the Bible. A Platonic archetype is printing out on us down here, evidently; another conformation of the Platonistic view of reality. These are edola -- form-impressions here on us from above (obviously); then these are the anticipated portents & signs just before the Parousia; certainly they would not occur unless the Parousia were virtually here!
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Tears, Spirit, Holy, Holy Spirit, Form, Sophia, King, Bible, Parousia, Golden, Wisdom, These, Perhaps, Elijah, Like, World, Fall, Time, Earth, Harpax, Garden, Book, Light, Could, Just, Something, Again, Both, Reality, Being, Obviously, Everything, Platonic, Great, Part, Wait, Another, Most, Real, Voice, Certainly, Before, Revelation, Finally, Will, Would, Mission, Were, Back, Tree, Life, Spring, Remember, Unless, Knowledge, Truth, Dream, Evidently, Until
+
+---
+### Line 2645-2653 (Match: 'Hebrew')
+**Folder**: part of
+
+```text
+September 17, 1975
+
+Dear Doris,
+
+When I last saw you I mentioned that I had been reading the apocryphal book, "The Wisdom of Solomon" and was very impressed by it. As you probably know, our church recommends we read these books now. "The Wisdom of Solomon" was written in the first century B.C. and was part of the Septuagint, which was cited in the New Testament as the holy scriptures which the early Christians used; thus, to them, "The Wisdom of Solomon" was as sacred as any book of the Hebrew Scriptures.
+
+These are the parts I wanted to quote to you, taken from here and there. They impressed me very much. You might note that they probably influenced the early Christian concept of immortality, which really is lacking in the Hebrew Scriptures.
+
+". . .For God did not make death, and takes no pleasure in the destruction of any living thing; he created all things that they might have being. The creative forces of the world make for life; there is no deadly poisons in them. Death is not king on earth, for justice is immortal.
+```
+**Co-occurrences**: Christian, Holy, King, Wisdom, These, World, Earth, Book, Being, Probably, Part, Church, Living, Doris, Death, Very, Have, Things, Life, Justice, Testament, Sacred
+
+---
+### Line 2647-2655 (Match: 'Hebrew')
+**Folder**: part of
+
+```text
+Dear Doris,
+
+When I last saw you I mentioned that I had been reading the apocryphal book, "The Wisdom of Solomon" and was very impressed by it. As you probably know, our church recommends we read these books now. "The Wisdom of Solomon" was written in the first century B.C. and was part of the Septuagint, which was cited in the New Testament as the holy scriptures which the early Christians used; thus, to them, "The Wisdom of Solomon" was as sacred as any book of the Hebrew Scriptures.
+
+These are the parts I wanted to quote to you, taken from here and there. They impressed me very much. You might note that they probably influenced the early Christian concept of immortality, which really is lacking in the Hebrew Scriptures.
+
+". . .For God did not make death, and takes no pleasure in the destruction of any living thing; he created all things that they might have being. The creative forces of the world make for life; there is no deadly poisons in them. Death is not king on earth, for justice is immortal.
+
+". . .But the good man, even if he dies an untimely death, will be at rest. For it is not length of life and number of years which bring the honor due to age; if men have understanding, they have grey hairs enough, and an unspotted life is the true ripeness of age. There was once a man who pleased God, and God accepted him and took him while still living from among sinful men. He was snatched away before his mind could be prevented by witchcraft or his soul deceived by falsehood. . .in a short time he came to the perfection of a full span of years. His soul was pleasing to the Lord, who removed him from a wicked world. The mass of men see this and give it no thought; they do not lay to heart this truth, that those whom God has chosen enjoy his grace and mercy, and that He comes to the help of his holy people. Even after his death the just man will shame the godless who are still alive. Men see the wise man's end without understanding: the Lord has purposed for him and why he took him into safekeeping. . .then the just man shall take his stand, full of assurance, to confront those who oppressed him and made light of his sufferings. At the sight of him there will be terror and confusion, and they will be beside themselves to see him unexpectedly safe home. . ."
+```
+**Co-occurrences**: Christian, Holy, King, Wisdom, Lord, These, World, Time, Earth, After, Good, Mind, Book, Light, Even, Could, Just, Once, Being, Probably, Without, Grace, Those, Still, Part, Church, Soul, Living, Before, Doris, True, Death, Will, Very, Have, Things, Life, Justice, Wise, Testament, Truth, Sacred
+
+---
+### Line 2663-2671 (Match: 'Hebrews')
+**Folder**: part of
+
+```text
+". . .But the souls of the just are in God's hand, and torment shall not touch them. In the eyes of foolish men they seemed to be dead; their departure was reckoned as defeat, and their going from us as disaster. But they are at peace, for though in the sight of men they may be punished, they have a sure hope of immortality, and after a little chastisement they will receive great blessings, because God has tested them and found them worthy to be his. Like gold in a crucible he put them to the proof, and found them acceptable. . .the true beginning of wisdom is the desire to learn, and a concern for learning means love towards her; the love of her means the keeping of her laws; to keep her laws is a warrant of immortality; and immortality brings a man near to God. Thus the desire of wisdom leads to kingly stature. . ."
+
+Is was the great victory of the Greek mystery religions that first a person discovered his own personal immortality and then he used it as a means to attain something higher. The pursuit of that "something higher began here on earth, as a pursuit of Haggia Sophia, or Holy Wisdom.
+
+Philo of Alexandria, who lived at exactly the same time as Christ, and was a Greek-educated Jew (he knew no Hebrew) equated Haggia Sophia, Holy Wisdom of the Hebrews, with the Logos of the Greeks. Slightly after that, as you know, the Logos was equated by St. John with Jesus Christ, and thus Hebrew and Greek thought converged, not in an idea, but in a man.
+
+Well, dear, I hope you get some comfort from what I've quoted. I have been reading the "Wisdom of Solomon" again and again, and getting a lot out of it. The Britannica says that it is an unusual book in that it presents wisdom as personified, i.e. as Lady Wisdom. It is obvious, from a reading of the book, that Philo was right to connect her/it/him with the Logos, but how interesting to think that the Logos may have come down to us originially in feminine form: The use of the word "she" is not merely grammatical, but actual. The author of the book says:
+
+". . .For in wisdom there is a spirit intelligent and holy, unique in its kind yet made up of many parts, subtle, free-moving, lucid, spotless, clear, invulnerable, loving what is good, eager, unhindered, beneficent, kindly towards men, steadfast, unerring, untouched by care, all-powerful, all-surveying, and permeating all intelligent, pure and delicate spirits. For wisdom moves more easily than motion itself, she pervades and permeates all things because she is so pure. Like a fine mist she rises from the power of God, a pure effluence from the glory of the Almighty; so nothing defiled can enter her by stealth. She is the brightness that streams from everlasting light, the flawless mirror of the active power of God and the image of his goodness. She is but one, yet can do everything; herself unchanging, she makes all things new; age after age she enters into holy souls, and makes them God's friends and prophets, for nothing is acceptable to God but the man who makes his home with wisdom. . ."
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Form, Sophia, Greek, Well, Wisdom, Like, Because, John, Time, Earth, After, Holy Wisdom, Good, Book, Light, Philo, Just, Something, Again, Jesus Christ, Everything, Great, Nothing, Their, More, Gold, Love, True, Will, Many, Have, Things, Dead, Free, Right
+
+---

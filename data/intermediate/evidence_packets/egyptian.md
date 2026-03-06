@@ -1,0 +1,348 @@
+# Evidence Packet: Egyptian
+
+- **Category**: Top Term
+- **Total Mentions**: 33
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 405-413 (Match: 'Egyptian')
+**Folder**: book A
+
+```text
+shock to us, when abruptly visible. What is disclosed is that the smaller cycle of the year (rotary time) is an analog of a greater "year" which is extensive for our species; i.e., instead of this Greater Year lasting a matter of 365 days, it lasts thousands of years, which is beyond the range of man as individual but well within the purview of man the race. Seen thus, we are confronted by the stark discovery (or rather disclosure to us by the Dreamer) that the time period --of lineal time-- lasting from the Second Century B.C. to date is Winter, with all the attributes we correctly associate with Winter in the small year-cycle familar to the individual.
+
+(five) This landscape of Winter (200 B.C. to 1974 A.D.) has determined the quality or nature of the lives of all living beings within the lineal span which it underlies: like Kan as the trigram in Taoism, its aspects are Slavery, pain, hopelessness, ignorance, limitation, etc., the true darkness by which we have come to sense our past two thousand years as heavy, a burden, a tribulation, a condition of sin and ignorance, of being but off from God, etc.
+
+(six) Now the great orthogonal time axis rotates into the next "trigram" which is that is Spring, the arousing of life. This was signified by the throwing down of the tyranny here and in Greece and in Portugal, plus similar but less visible declines of physical power over men in the Soviet Bloc. The coercive enforcement of mere power, the ability to compel men, to reify them -- this all constitutes qualities of Winter and is passing. I don't really mean this as a metaphor, because orthogonal time is geniune, and although its axis is by definition at right angles to lineal time (the only time we've recognized until now) its direction is retrograde, in terms of stripping off or melting away the accretions built up as layer after layer of progressively less real reality. Within, deep at the heart of Being, lies the final goal of orthogonal time, which is Restoration of Moisture (cf aspects of Dionysos, as God of the philosophical principle of moistness, versus the evil principle of desiccation, as embodied by the Egyptian god of death, Sit or Set).
+
+(seven) The Dreamer who has kept us dreaming until the moment for awakening arrived (expressed as an intrusion into lineal time, a penetration from without the "Final Days" of Christianity and Zoroastrianism) -- this is best expressed by the discovery that the authentic reality of Springtime lies beneath the inauthentic layers of snow, or of barren and sterile "death," and now revives -- as is always the case in Spring. There is only one Spring, not a procession of many of them; it is the same Spring again each cyclical year. Thus, in the Great Orthogonal Year, this Springtime is the Springtime, not merely a springtime, since the orthogonal time-axis is one of ontology. In our koinos kosmos, now, as in our idios kosmos, or more properly, in our idioi kosmoi, we are being intruded on, as Runciter intruded on those in half-life. The symbol of half-life in UBIK must be viewed as an accurate dramatic representation of our true state of Being: we are only half-alive, or slumbering in our icy
+
+Last edit almost 3 years ago by twsullivan
+```
+**Co-occurrences**: Ubik, Christianity, Well, Dionysos, Like, Since, Because, Only, Time, After, Soviet, Taoism, Again, Reality, Kosmos, Being, Runciter, Although, Great, Viewed, Without, Darkness, Those, More, Living, Real, Zoroastrianism, Greece, True, Death, Beyond, Many, Have, Life, Spring, Instead, Days, Evil, Greater, Final, Right, Until
+
+---
+### Line 480-488 (Match: 'Egyptian')
+**Folder**: book about
+
+```text
+Last edit almost 3 years ago by twsullivan
+30
+Complete
+30
+Jane Harrison in her PROLEGOMENA TO THE STUDY OF GREEK RELIGION, discusses the notion that Dionysos was the same as the ancient Greek philosophical principle of moisture, which makes me recall that the Egyptian god of death was in more precise terms the god of desiccation, the god Set or Sit. Here in the one short stanza of Pindar we have flock, we have trees, we have in addition to these two major symbols of Jesus, terms by which all the exoteri recognize him yet, two more inner terms: the root and the star.
+
+Dionysos appeared to the Greeks in vegetable form (root, tree, vine) and animal form (bull). He could influx himself into a human being and be him or her as well, as you and I know. What are names? This is the god of in-toxification, taking in poisons in a quantity small enough not to kill you but large enough for you to be lifted up to see outside space and time, and to come into a relaitonship with those vast powers who run the universe.
+
+And then later, "...He is drunken with music, not with wine." (Jane Harrision.) By stealthy degrees Dionysos became Zagreus and then Orpheus. The trouble with Jesus is that he isn't musical. I guess they could use lipsynch, but the fact is, Jesus is Orpheus, and Christianity is the next mirthful dodge which the Loving Dodger has worked on us, those whom he loves. I have this vision of Him: much like the Hurdy-Gurdy Man: I see Him invisible to us behind us as the flock moves on, and I see small stragglers and old stragglers and stupid stragglers and sick stragglers and stragglers in general who have given up hope or lost energy and have given up to perish as the flock or pack or herd or culture or race marches on, without a look back. And sparkling with light and silently, He emerges and without breaking stride gathers up all the stragglers.
+```
+**Co-occurrences**: Jesus, Complete, Christianity, Form, Greek, Well, Dionysos, These, Like, Time, Light, Could, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Back, Have, Tree, Later, Human
+
+---
+### Line 1256-1264 (Match: 'Egyptian')
+**Folder**: part of
+
+```text
+Needs Review
+88
+Ptah, the creator, has stretched a masterful canvas which can be read in two directions: within time we can read palinthropos, and in terms of orthogonal directions, a static direction, one of completion or outside time, we can see it stretched like the lyre, in palintonos harmonie: the real secret being that Ptah can achieve both, and the real secret being that Ptah can achieve both, and the real secret is not that the opposites are reconciled behind the scenes, but that they are reconciled and not reconciled, that palintropos and palintonos are both real (Hussey keeps trying to decide which of the two Heraclitus must mean; "a thing is either A or not-A." The secret behind the secret is that you think you have to choose, but you can have both as real. It is not truly written that one must be false if the other is true. (if time is real, then it is not an illusion; if time is an illusion then it is not real. These are verbal games.)
+
+Say, I'll try an interpretation of fr 51: if the palintnos h. is alligned (balanced) properly -- you get this correct first, or primarily, then (as a result; it allows you to in sequence) you can go and get a palintropos oscillation; you can play the darn thing if and only if it's strung right first. So the advance up the manifold of time (movement into sequence) indicates that the palintonos h. is okay, and we can move into temporal oscillation, the palintropos. Time is not generated by the -tonos being gotten right, but more allowed to happen; otherwise the ma'at (Egyptian for truth, order, justice) will just all fall down into chaos and there will be no -tropos; it won't work. That makes -tonos the Unbounded; -tropos the kosmos.
+
+Also, -tonos, on a lyre, is orthogonal to -tropos, the direction of force and motion is which it, the strings, are played.
+
+When -tonos is achieved perfectly, it looks like nothing at all so much as nothing at all...we are deceived by the perfection of this equilibrium in the Unbounded, like cats who think cans of Catfood generate themselves...
+```
+**Co-occurrences**: These, Like, Fall, Only, Time, Okay, Just, Both, Kosmos, Heraclitus, Being, Either, Nothing, Creator, More, Real, Secret, True, Will, Other, Have, Justice, Truth, Otherwise, Right
+
+---
+### Line 2059-2067 (Match: 'Egyptian')
+**Folder**: part of
+
+```text
+I even used the term "destroying angel," which is used in Hebrews about that episode before the Exodus at which time Passover was established!
+
+Exodus 12:13: Jehova: "And the blood must serve as your sign upon the houses where you are; and I must see the blood and pass over you, and the plague will not come on you as a ruination, when I strike at the land of Egypt," i.e. when he came as the destroying angel, the angel of death, and slew the first born; and so began Passover; and thus I experienced it that night in the bedroom, that Sunday (sic!) night, when the pale white light which cast no shadow, where there was no plce to hide, came on, and I knew then that the angel of death had come; and I prayed my head off frantically for hours in terror; and that night in sleep I dreamed of a gun being fired and a deer-like animal wounded in a ditch, a woman; and a few days later Pinky (the little pink sheep) died of cancer. The angel passed over (me, us except that he took Pinky, the lamb-sacrifice). 14: "And this day must serve as a memorial for you, and you must celebrate it as a festival to Jahweh throughout your generations." Later we are to say when someone asks the meaning of the festival of Passover: "It is the sacrifice of the passover to Jahweh, who passed over the houses of the sons of Israel in Egypt when he plagued the Egyptians, but he delivered our houses." (27).
+
+12:29 tells us that Jahweh struck every Egyptian house a[nd] killed the firstborn in the middle of the night: midnight. Wow. I rest my testimony; that night was that night. I have been wrong to connect that ultra-extraordinary experience with the Parousia, with Judgment Day; it was a remanifestiation of the first passover by God, which means a sparing of the innocent at the time He was getting the enslavers. The date, for me, was in August 1974. It was the same month Nixon resigned. I might add that the killing of the firstborn was the last of the plagues God afflicted Egypt with. Golly, it wasn't long thereafter that ol' Nixon almost croaked in the hospital at Longbeach... This proves that my whole experience was an experience of the Epiphany at Passover, step by step (the first as with Moses was the epiphany in the desert, for me, from the desert wind; the fire or burning being the phosphene activity), going through the stages which freed Israel, and which freed our people now: I say, knowing this about the derivation and meaning of pass over proves that indeed God was afflicting the establishment here and finally
+
+Last edit over 5 years ago by Harpax
+152
+Needs Review
+```
+**Co-occurrences**: Parousia, Like, Time, Nixon, Harpax, Light, Even, Pinky, Hebrew, Being, Moses, House, Through, Egypt, Upon, Before, Death, Finally, Will, Angel, Have, Judgment, Later, Days, Passover, Except, Israel, Blood, Sons, Lamb, Someone, August, White
+
+---
+### Line 2250-2258 (Match: 'Egyptian')
+**Folder**: BOOK OF
+
+```text
+In fact, since Meister Eckehart beyond all doubt was absolutely ignorant of Greek mystery cults, ignorant of Greek itself, then his description of what and where the Kingdom of God is, constituting as it does an exact description of the Dionysian kind of god-possession, ratifies as a detached observer's analysis that indeed this is what the early Christians sought for and were covertly discussing; that in fact this is what Christianity, like the prior mystery religions, is all about. Meister Eckehart rediscovered what was lost, and at the same time tells us explicitly what was lost, without him probably having realized that there had been a deliberate suppression of this knowledge, and the experience as well.
+
+I've again read the EB article on Mystery Religions; those religions, esp. the Orphics, stressed anamnesis (Plato did, too, and those following him, as did Pythagorias). I ask this, as perhaps the most important question: what is the connection between being possessed by the Deity (which I aver is the same as finding the Kingdom of God), and recollection of ones former but forgotten divinity, as in Orphism and neoplatonism? Is it a becoming for the first time, or a return? Is it new or old? Receiving or restoration? This is important because if it is a restoration then we are or anyhow were divine in nature, and lost it or forgot it, and can retrieve or remember it, get it back. Of course, I again wonder, How, if we are divine, did we come to forget that? This is, of course, the concept of the Fall, this fact, if it is a fact; we fell and forgot, having descended into nonbeing which is the same as forgetfulness. Here now I am back to my early conjectures and ponderings, and there seems no end to this, no solution. I know that I experienced anamnesis, which suggests the recollection (neoplatonist) view. As set over against the Christian view...although for us now, 2000 years later, it would now carry the aspect of restored memory -- of events 2000 years ago; i.e. the Savior, Jesus Christ. This is what confuses me. I remember a Savior who told us it was a new experience. I remember his new message -- observe the paradox. "In a crypt 2000 years old I have discovered new news!"
+
+. . . Egyptian statement: "three gods. As Amon he is hidden for mankind; as Re he is visible in the sun; as Ptath his body is the world," the last meaning he is immanent, as Ptath, here. But it's all One. The hidden god: Deus Absconditus. Hmmmm. "He hides himself for them," i.e. mankind. Absconditus specifically means carefully concealed or hidden or secret, not just happenstance so. For us he is hidden? For our benefit? I read this as: as Re he is transcendent. As Ptath he is immanent. As Amon -- "the workman is concealed in the workshop."
+
+. . . "Tumbled stones," natural laws the same for all living things; would tend to wear them down into similarity. Living things must thrust up against the ubiquitious shaping force to attain diversity.
+
+. . . Magician/Merlin/James-James/Wise Old Man/God/alchemist. I am sure that Jung lists the magician as a permutation of the Wise Old Man. But anyhow, the astrologer-alchemist Erasmus who was laughing at me -- that was a version of God, I think; one of His thousand faces (as filtered through the soul, or the symbolizing process of the unconscious).
+```
+**Co-occurrences**: Christ, Christian, Jesus, Christianity, Plato, Kingdom, Greek, Well, Perhaps, Plotinus, James, Like, World, Since, Fall, Because, Time, Savior, Does, Anyhow, Just, Again, Kingdom of God, Being, Jesus Christ, Although, Orphic, Divine, Himself, Gods, Probably, Deus, Anamnesis, Without, Those, Jung, Through, Soul, Most, Orphism, Living, Secret, Deity, Would, Were, Erasmus, Back, Beyond, Have, Things, Body, Eckehart, Memory, Wise, Later, Having, Remember, Knowledge, Ptath
+
+---
+### Line 2512-2520 (Match: 'Egyptian')
+**Folder**: part of
+
+```text
+in human civilization ahead (first Earth Mother; then masculine Solar Deities; next, as in a pieta, the mother holding the son, them ruling together). A feminine universe which hold us in her arms -- Saint Sophia. The world spirit of wisdom (perhaps ma'at as well?). This is who has been speaking to me (Sadasa Ulna, etc). She is the fourth member of the quarternity (formerly trinity). Present at creation -- maybe is the Logos? Mediatress between God & man. Embraces the Son (who is also the Holy Spirit). I predicted her appearance, her amination of the universe, in my Vancouver speech. Immanent in the universe now. A living universe that's feminine. Co-ruler with God (like Mr. & Mrs. Iknaton.) Also: the New Eve, waiting to be born (or being born now). The Bride of Christ, His equal (not like Mary his mother).
+
+. . . The EB macro article on Christian mysticism says that it differs from all other mysticism in that the person seeks to do the will of the father, not just unify with him, know him, etc. I felt this re the Xerox letter: possession by the Spirit for an actual acted-out job or purpose, God using history, etc.
+
+. . . I want to repeat this: the information to me, which seeming to be the wrap-up, "Santa Sophia" etc., is the essence of the "Good News" of Christianity; it is all contained therein: we have a rightful King, he was "despised and rejected" before (and Crucified), but now he is coming back (i.e. born again on Earth), and it can be assume will rule (i.e. this time it will work out differently); this is nothing more or less than the Second Advent. It sums it all up for us. (This can't really refer to God's Wisdom being born in me again, because it was not ever there before, and certainly it would have been acceptable to me; this refers to human history.) I note that "not acceptable" is the whatever (opposite) of "rejected." Also, "Sophia" stresses which aspect of the Trinity will be stressed: Wisdom rather than power of love, which should I think be appropriate to a judge. In this connection I recall the sibyl (a woman) viewing the activities of evil men and certainly she is judging them as well as observing them; she is going to see that they are punished: she has witnessed their deeds. For her to witness is for her to deal our justice. In this role, again, she, the sibyl, is much like the Egyptian ma'at (recall! One dream of the sibyl showed her in Egyptian form! On the "boxing glove" extension, a little smiling head that peered down the front of the girl's blouse; a very important dream, tying the Sibyl indeed in with ma'at. Egypt to Crete to Greece to Rome.). (This tiny head extended -- how strange it was. Snake-like. And the snake is a wisdom symbol, also known to Delphi. I think now that these sibyl dreams indicate that the Day of Judgment has come or did come back around 3 74; I was seeing judgement by the judge, represented as female for several reasons (e.g. ma'at and Santa Sophia). What I got was a sign from the "Gods" that they had seen ("Surely heaven took note," etc.). Judgment was then executed. We have seen the results (the tyranny fell; the imperial empire has begun to fall).
+
+. . . Hermes Trismegistos (Thrice Great Thoth). "Thoth was the repository of all wisdom." The Hermetic writings: revealed (from Thoth). Part of the pre-Christiam mystery religions; their texts.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Xerox, Rome, Christianity, Holy Spirit, Form, Sophia, King, Well, Empire, Wisdom, These, Perhaps, Advent, Father, Maybe, Like, World, Fall, Because, Time, Earth, Harpax, Good, Hermetic, Just, Again, Being, Girl, Great, Gods, Sibyl, Santa, Nothing, Part, Their, More, Egypt, Living, Heaven, Certainly, Love, Before, Mother, Greece, Santa Sophia, Macro, Universe, Will, Would, Other, Creation, Judge, Very, Back, Surely, Whatever, Have, Judgment, Justice, Information, Trinity, Evil, Hermes, Human, Dream, Crete, Mary
+
+---
+### Line 2520-2528 (Match: 'Egyptian')
+**Folder**: Part of
+
+```text
+Last edit over 5 years ago by Harpax
+189
+Needs Review
+189
+These Hermetic-Thoth texts were used by the alchemists of the Renaissance. The concept of the Trinity may have come our of these Hermatic texts. Here is a direct link from Thoth into Egyptian Christianity! (Perhaps Thoth inspired the New Testament.) Thoth is the earliest form that the God of Wisdom appears in; is "Santa Sophia" the same as Thoth? Thoth is the husband of Ma'at, also scribe of the gods; also healed Horus -- a healer. Also: a magician! All the thousands of written pages I saw suggest Thoth or a permutation thereof. As scribe of the gods, writing is Thoth's natural mode of expression. In this case "She was not acceptable before" suggests that the world suppressed & rejected the inspired writings of Thoth, not that it killed someone in human form. I think, though, it most specifically refers to Christ because of the words "born again." The advantage which Christianity had over the other mystery religions was the presence on Earth of Jesus Himself; instead of just revealed writing they had Him in person to talk to them. And then later after his death he returned in the form of the Holy Spirit and revealed the New Testament for them to transcribe. Maybe He took up where Thoth left off. Carrying the continuity forward, as man evolved. All of them expressing the wisdom of God.
+
+. . . In 3 74, did I see this universe differently -- or did I see another (supernatural, e.g.) universe? What I saw (as the springtime world) in the New Creation of God; the King (dancing) is the Rightful King of that world; i.e. Christ. When you are brought into the Kingdom of God, by Christ, as I was in 3 74, then you can see it visually. The proof (to me anyhow) that this is indeed what I saw in 2 75 Is its intimate connection with Santa Sophia, represented as the post office building, and the words I heard about it being born again (her/him). All this is to say that the invisible (as yet) New Creation (Earth) is filtering down around us and becoming visible to us as we are brought into it. We are dead, born dead; and the voice we hear, as in UBIK, is the voice of the Savior, rousing us to (spiritual) life. As the Bible say, "The dead shall hear his voice." (The reason I don't feel I'm being judged any more, that the "tally" is in, is that as the Bible says (St. Paul), I "am dead to sin," now. Col 2:10: "For in Him ye are complete."
+
+. . . Christ told them that He had to die before the Second Comforter could come to them; perhaps, almost certainly, this is because it was his own spirit he was speaking of. This too is why he told them they'd be better off, not worse off, when he died/left, because then, really, he meant, he could return to them in spirit form (as he did at Pentercost) and enter them, through the third eye and make them both immortal and also part of his corporate body. He undoubtedly had, in his esoteric instructions, told them how to prepare to receive him back into themselves. . .this is what was lost later, when the Romans killed them, although by that time probably thousands had received him back into them in the ever widening circles. But you had to know how to recieve his spirit back in through the third eye, and that knowledge, so carefully guarded, so bad people wouldn't learn to do it -- that knowledge was lost. (In my opinion this is what happened with me in 3 74; I received his spirit through my third eye or pineal gland, and learned all this. To repeat: the Paraclete then is the spirit of life of the Last Adam or Christ, returning after his resurrection.
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Holy, Jesus, Complete, Christianity, Holy Spirit, Form, Sophia, Kingdom, King, Paul, Bible, Roman, Wisdom, These, Perhaps, Maybe, World, Because, Time, Earth, Harpax, After, Paraclete, Savior, Hermetic, Could, Anyhow, Just, Adam, Again, Kingdom of God, Both, Being, Although, Himself, Gods, Probably, Santa, Part, More, Another, Through, Most, Voice, Certainly, Before, Santa Sophia, Death, Universe, Other, Creation, Were, Back, Have, Life, Body, Instead, Later, Testament, Trinity, Knowledge, Dead, Comforter, Human, Someone
+
+---
+### Line 3029-3037 (Match: 'Egyptian')
+**Folder**: Book of
+
+```text
+231
+which is important, and if this is so, one could expect a long period of time for people to accept or reject him, and so be judged.
+
+"...Leads to the empty tomb." (Degrees of sight or understand¬ ing, which culminate in this, or understanding this.) A transmutation of His physical body, not just leaving it. The tomb was empty; the physical body was gone. This is implied by what I heard, that /she will be reborn inasmuch as he/she was not killed on the cross; had he/she been, how could he/she be reborn? The entity departed. This is the greatest mystery of all. Where did it go? Back where it had been before birth: it was pre-existent. The empty tomb points to this; it, the entity, only sojurned here. Was not truly born as we are, but was an epiphany, a manifestation of someone eternal. The judge is feminine, like Ma'at — the girl with the feather. Now I think, How Egyptian was the cut of hair and face of the "Jack Vance's wife" whom I saw! And skirt! And slippers! ("You must put your slippers on/ to walk toward the dawn.")
+
+Mark 4:11 says that the parables were intended to confuse and not inform everyone except the desciples, the latter under¬ standing the esoteric meaning, the outsiders getting only the exoteric meaning which would fail to save them; this was especially true regard¬ ing parables about the approaching Kingdom of God. I keep forgetting this. How much of the real inner meaning has come down to us? The written gospels record probably mostly the exoteric parable meanings, not the inner core. Whether we like it or not, it is there in Mark (if not elsewhere), and this favors the view of an elect within the body of mankind. At least so far as Jesus went. Maybe now there is a Third Covenant which will include all creation or anyhow all men. I am thinking in particular of the grain of wheat sown into the ground to rise again, a mystery theme common to Greek mystery religions; in fact evidently the basic one. What it really means —to know this— enables the hearer to achieve what is achieved: eternal life. The how is contained, as well as the what. I think that in 3-74, at the height of despair and fear and grieving I stumbled into the Kingdom, stumbled around for a while and then stumbled back out, none the wiser as to how I got there, barely aware of where I had been, and no idea as to how I stumbled out, and seeking always to find my way back ever since. Shucks. Drat. If it wasn't the Kingdom I don't know what it could be, with its bells and the lady singing and the void, with the trash in the gutter glowing, and the golden rectangle doorway with the sea and figure beyond, and the moonlight. There were people living there, especially the lady. It was all alive. It had per¬ sonality. It explained everything to me. Now I don't see or under¬ stand anything. At that time I could even remember back to my origins. My real origins: the stars. What am I doing here? I forget, but I knew once. Amnesia has returned; the veil has fallen, back where it was. The divine faculties are occluded as before. Obviously I didn't accomplish it; I was given it, since I don't know how to find it again. "Man is not as wise as some stones, which in the dark, point toward their homes." My soul, sunk down in ignorance again. Blind & deaf. Ensnared by gross matter, limited. The long dark night of the soul is a lousy place to be.
+
+Heraclitus says the Logos can be heard. My goodness.
+```
+**Co-occurrences**: Logos, Jesus, Kingdom, Greek, Well, Golden, Maybe, Like, Since, Only, Time, Even, Gospel, Could, Anyhow, Just, Once, Again, Kingdom of God, Heraclitus, Obviously, Girl, Everything, Divine, Covenant, Probably, Their, Soul, Living, Ground, Real, Before, True, Will, Would, Creation, Judge, Were, Back, Beyond, Under, Life, Body, Dark, Wise, Whether, Remember, Except, Cross, Evidently, Someone
+
+---
+### Line 4074-4082 (Match: 'Egyptian')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+40
+Needs Review
+40
+0 I was so aware at the time of the Xerox letter of the nelf to choose correctly, it was fear-provoking + ominous - I was tense + terrified, as witness my B. P. But also; I knew there was incredible good latent in the situation, if I did manage to choose correctly well, I did so choose, + maya continieed to left, so that finally I could perceive + commune with God - the greatest joy possible: plus the promise that, upon death, I would go to join him + Tony Boucher + the others, who were there with him finally I say: the black Iron Prison world is that deterministic prison which the mechanical cause - + - effect laws of Karma imposes on us: each successive life determined rigorously by what carre (by what we did) before: truly a prison for the soul. + of course the Palm tree park is the place we yearn to return to, but cannot unless or until we are freed from karmic burden (or, if you will, sin). in Egyptian terms, ma'at's feather proved heaver than the heart being weighed In Zoroasterior ters, one has chosen the light, + his met, fought, + triumphed over his drus. I have it: my whole karmic burden expressed itself as ceaseless terror of capture. At 3-74, the Karmic content of This ceaseless torment swam to the surface + revealed its origins in a past life, in Rome, where I was an early Christian who lived in actually, realistic fear of the Ir leg, died to my involvement in illegal Christianity. The past life roots (cause a origing of this fear, rational ther in that previous world were revealed: the fear was of past life of karmic origin, +, once I had dealt with the Xerox letter rightly, I was freed of that ifelong fear of imprisonment + death + this is still so.
+
+Last edit almost 3 years ago by svayambhu108
+
+41
+```
+**Co-occurrences**: Christian, Xerox, Rome, Christianity, Well, World, Iron, Prison, Time, Black, Good, Light, Karma, Could, Once, Maya, Being, Tony, Black Iron Prison, Palm, Still, Soul, Upon, Actually, Before, Death, Finally, Will, Would, Were, Have, Tree, Life, Unless, Karmic, Iron Prison, Until
+
+---
+### Line 4465-4473 (Match: 'Egyptian')
+**Folder**: part of
+
+```text
+Needs Review
+8
+8
+
+So pragmatically I will regard the, as separate, like Vishu + Shiva but engaged in a secret partnership, as Joseph Campbell describes the Egyptian partnership involving wherever it is + Set. Perhaps above the duality, stands Brahman or some [witness] ubiquity such as Brahman. My experience was of a duality. I have to go on what I experienced, the one to turn to is the savior who arranged + not the creator - rather, the re-creator vs the creator.
+
+After all, the recreator needs the raw materials which the creator provides, so perhaps they both are dual aspects (like yin + yang) rather than entities: the first showing power, the second wisdom - + the two united by a 3rd principle (entity or aspect) characterized by love. (Empedocles showed the binding power of Love)
+
+My experience did not show the power creator (James James) delegating anything to the son-savior [wisdom]: rather it showed them in dialectic contest it also showed the creator blind + losing to wisdom. If Jame-James is the author of everything, wisdom recreates it all not in conjunction with the author but despite him + his objections + intentions (if any of the latter exist). If there is not opposition between them I don't know what else you call it. Only a power higher than both/either could reconcile the dualism into monotheism... or else a secret agreement.
+```
+**Co-occurrences**: Brahman, Wisdom, Perhaps, James, Like, Only, After, Savior, Yang, Could, Shiva, Both, Empedocles, Everything, Either, Creator, Such, Secret, Love, Will, Campbell, Have, Joseph, Dialectic, Joseph Campbell
+
+---
+### Line 6559-6567 (Match: 'Egyptian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+61
+85 There is indeed, as Robert Anton Wilson says, a secret group, with a long history, which "controls the world," at least in the sense + to the degree of manipulating historic events secretly to undermine the equally secret prison - conditions which obtain + have always obtained on this planet. +, as he says, the free masons, kosicrucians (+ either hospitalers or templars + Gnostics - as well as Greek + Egyptian cults) have passed an unbroken line of esoteric knowledge + power there of - down through the ages. What he also sees correctly is that the ultimate source of the wisdom + power - + instructions - for this group (inc. the alchemists + Gnostics + Buddhists, etc) has been an ETI "ajna" center located off this planet, probably in another star system - naired by him as Sirius - + that Horus is involved. We are not dealing with merely on age-old secret occult human wisdom paranormal organiza but with that (group) which is possessed by either an ETI or an ultra TI or (as leary believes) ourselves - i - the future. Personally I think it is an ETI which has "outwitted the archans who are our jailers" + has come here - in bioplasmic noncorporial energy form, to assist us. This aspect so far outweighs the importance - or lack of - of the "secret human organi zation" as to make its existence or non existence a matter of no real importance. What the ETI (Zebra) can do is convert anyone it wishes to into a com puter terminal with itself as terminal (it is much like the "theolepsied" Palmer Eldritch) in essence missed by wilson, is the fact that this ETI organism functions as the true "I am he who causes to be" + this makes the secret human ancient organization the true, secret Xtian church
+
+Last edit almost 3 years ago by svayambhu108
+62
+Needs Review
+```
+**Co-occurrences**: Christian, Zebra, Form, Gnostic, Greek, Well, Wisdom, Like, World, Prison, Eldritch, Palmer, Either, Probably, Palmer Eldritch, Church, Another, Star, Through, Real, Secret, True, Have, Knowledge, Wilson, Human, Free
+
+---
+### Line 7731-7739 (Match: 'Egyptian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+50
+Needs Review
+50
+Cernunnos - Dionysos - Shiva - not my opinior but cited in the E.B. My dream revelation showed the word "Jesus" to refer to Zeus-Zagreus. But here is more: Shiva's 3rd eye (ouoting the E.B.) turned inward: "bestowing inward vision but capable of burning destruction when focussed outwark" (EB.) Hereby I can equate him with "St. Sophia," God's wisdom; it is bestowed by the 3rd eye. And - I saw that 3rd eye so function, inward + outward, "He is borh the destroyer + the restorer" The bene‐ volent herdsman of souls + the wrathful avenger: This is exactly how I saw the Sibyl. It all fits together: the research + the revelations. Thus Christ is not excluded, But he is made part of a much older religion, equated with Shiva + Dimnysus + cernunnos - an ur religion, the outlines of which are just now emerging from beneath the orthodox Christianity. Probably also Ma'at, Osiris + Horus + thoth + Ptath are involved. Too, as witness The eye of Horus. I believe Juseph campbell, equales The Egyptian + Hindu religions: "the secret partnership" matter. The life-cycle of the universe falls into 3 parts ➀Brahma, the creator; then ➁ the period of Vishnu, the is sustainer; then ➂ the final part where the universe delivered over to Shiva who destroys all of Brahmas creation which is unworthy, + Acts as herds man for the good (i.e. deservine) souls. We have just now passed from period ➁ to period ➂. Roughly, these divisions are the N Age of the Father; ➁ age of the son + finally (, the final -teleological - cause end-stage of the spirit. Shiva has just now "received" the universe from Vishnu g the son. This certainly, then, is the age or moment of Judgment dies Irae
+
+Last edit almost 3 years ago by svayambhu108
+
+51
+```
+**Co-occurrences**: Christ, Acts, Spirit, Jesus, Christianity, Sophia, Wisdom, Dionysos, These, Father, Good, Just, Shiva, Zagreus, Probably, Sibyl, Creator, Part, More, Zeus, Certainly, Secret, Revelation, Irae, Universe, Finally, Creation, Hindu, Campbell, Have, Judgment, Life, Dream, Ptath, Final
+
+---
+### Line 8435-8443 (Match: 'Egyptian')
+**Folder**: part of
+
+```text
+But if there is a penetration in the microcosmos to the divine substratum, the divine substratum of the macrocosmos will manifest itself to the person. Conversely, if there is no internal penetration to the divine substratum in the person, his exterior reality will remain occluded over by the artifact's spurious projected world. The point of entrance to effect this transformation lies in the person, the microcosm, not the macrocosm. The sanctifying metamorphosis occurs there. The universe cannot be asked to remove its mask if the person will not shed his. All the mystery religions, the Hermetic and alchemical and Christian included, hold the individual human as target by which to transmute the universe. By changing the person the world is changed. Behind the human mind lies God. Behind the counterfeit universe lies God. God is separated from God by the spurious. To abolish the inner and outer spurious layers is to restore God to Himself -- or, as originally stated in this paper, God confronts Himself, sees Himself objectively, comprehends, and understands himself at last. Our process universe is a mechanism by which God meets Himself at last face to face. It is not a man who is estranged from God; it is God who is estranged from God. He evidently willed it this way at the beginning, and has never since sought his way back home. Perhaps it can be said that he has inflicted ignorance, forgetfulness, and suffering -- alienation and homelessness -- on Himself. But this was necessary, in his need to know. He asks nothing of us that he has not asked of Himself. Bohme speaks of the "Divine Agony." We are part of that, but the goal, the resolution, justifies it. "A woman in childbirth suffers. ..." God is yet to be born. A time will come when we will forget the suffering. He no longer knows why he has done all this to himself. He does not remember. He has allowed Himself to become enslaved to his own artifact, deluded by it, coerced by it, finally killed by it. He, the living, is at the mercy of the mechanical. The servant has become the master, and the master the servant. And the master either renounced voluntarily his memory of how this happened and why, or else his memory was eradicated by the servant. Either way, he is the artifact's victim. But the artifact is teaching him, painfully, by degrees, over thousands of years, to remember -- who he is and what he is. The servant-become-master is attempting to restore the master's lost memories and hence his true identity. One might speculate that he constructed the artifact -- not to delude him -- but to restore his memory. However, perhaps the artifact then revolted and did not do its job. It keeps him in ignorance. The artifact must be fought -- i.e. disobeyed. And then memory will return. It is a piece of the Godhead (Urgrund) that has somehow been captured by the artifact (the servant); it now holds that piece -- or pieces -- hostage. How cruel it is to them, these fragments of its legitimate master! When will it change? When the pieces remember and are restored. First they must wake up and then they must return. The Urgrund has dispatched a Champion to assist us. The Advocate. He is here now. When he came here the first time, almost two thousand years ago, the artifact detected him and ejected him. But this time it will not detect him. He is invisible, except for those whom he rescues. The artifact does not know that the Advocate is here again; the rescue is being done in stealth. He is everywhere and nowhere. "The coming of the Son of Man will be like lightning striking in the east and flashing far into the west" (Matthew 24:27). He is in our midst, but in no one place. And as St. Teresa said, "Christ has no body now but yours," i.e. ours. We are being transmuted into him. He looks out of our eyes. The power of delusion wanes. Did the artifact accomplish its task? Perhaps unintentionally. If the Hermetic "reflection of the divine mind behind the universe by a person's own divine mind/memory" can actually take place, then the division between the mundane world (here and now) and the eternal world (the heavenly or afterlife world) is broken down. Suppose that there is, in effect, a polyencephalic or group mind, spanning space and time (i.e. transspacial and transtemporal), in which wise men from all ages have participated in: Christian, Hermetic, alchemical, Gnostic, Orphic, etc. Through their participation in this vast mind, the will of God would be effectively exerted here on Earth, in human history. Many people might agree that such a Godhead mind exists for us after death, but who is aware that -- for some -- it can be joined before a person's death, and, when he does join it, it can become his psyche, determining his actions and doing his thinking for him? Thereby the Mens Dei [mind of God] enters human affairs (and can modulate causal chains as well). This exposes an enormous esoteric secret, known to "magi" down through the ages: The two realms, heaven and Earth, are not totally divided. God's will is, at least now, exercised here. And evidently this has been true for some time, since the Hermetics and other mystery religions go back to antiquity. In Christ, God descended to corporeal manhood -- at that point the division between the two realms was abolished. Those humans selected out to participate in this group mind -- they would be immortal. So here is an even deeper secret than I had uncovered so far. Projected delusional world by a former-servant artifact -- divine substratum beneath -- time travel -- now I posit an augmented Corpus Christi (my model of it) spanning all time and all space: ubiquitous in time and space. It sounds like Xenophanes' noos [absolute mind], with this added: Living men can participate in that noos. And in a certain real sense, this noos is the secret ruler of the world, so that those who are taken into it become "terminals" of it -- which is to say, temporary Christs. This mind reaches over to the Urgrund with no clear line of demarcation. At that level it's all one: man raised to Godhood, in response to God's descending to manhood. In this group mind there seems to be an interpenetration of participating souls. And this mind extends over thousands of years, all of which are now -- and all places are here (that is why I found myself in Rome circa A.D. 70 and in Syria, and saw Aphrodite, etc.). I say of this mind, "It is the secret ruler of the world." This is not its world. . . on the surface. The surface layers are the strata of a spurious projection by the artifact. But beneath that, the Mens Dei, including a number of human constituents (both living and in the afterlife), modulates this reality invisibly, working in opposition to the artifact's intentions. The divine, concealed, authentic substratum is the Mens Dei, beneath the spurious. My experience of 3-74 can be reviewed as an achievement by the Urgrund in reaching its objective of reflecting itself back to itself, using me as a point of reflection. I contend that in doing this, it was able to place its entire self (not just a fragment as I originally said) somehow within me, in image form. The artifact, not knowing the purpose for which it was created, had contributed substantially to this; by inflicting too much pain on me it had, in a certain real sense, awakened me. Put another way, it had managed to destroy the layer of individual personality by a series of afflictions against which my self, my ego, could not survive. Thus the microform of the Urgrund was exposed, and perceived its macroform in the totality of the universe -- or, as the article on Bruno says, the divine behind the universe. My 3-74 experience, then, was not so much my experience as that of the Urgrund. It amounted to a replication of the Urgrund here rather than there. The totality of the Godhead was recapitulated within me through a process of rolling back spurious or temporary layers to expose the permanent within. Thus it can be said that I was really the Urgrund, or at least a faithful mirror image thereof. The entire objective of creating me, of creating the universe as such and the life forms within it, was arrived at. Viewed this way, my life and that of my ancestors could be viewed teleologically: as moving through evolutionary stages toward that moment. My experience did not represent a stage in evolution but the ultimate stage or goal, at least if the premise stated in this paper is correct. It is not a question of degree of reflection; it is a question of reflection of the totality of the Urgrund or none at all. Full reflection was achieved, whereupon, as I say, the Urgrund was born out of the universe, the sequence represented this way:
+
+Urgrund creates artifact which projects universe which gives rise to life forms which evolve to a stage in which the Urgrund is "born" or reflected.
+
+This reflects the sequence of stages envisioned in the Hindu religion. First there is creation by Brahma, then Vishnu sustains the universe; then Shiva destroys it, which should be understood as receiving it back into its origin. A full cycle of birth, life, and then return is enacted. When the universe has reached the evolutionary stage where it can faithfully replicate the Urgrund, it is ready to be absorbed back. Thus I say, the deity that reigns now is Shiva/Dionysos/Cernunnos/Christ, who restores us to our Urgrund or Father: our source of being. That Shiva the destroyer god is now active signals the fact that the cycle of creation has returned to its source, or rather, that the life forms of it are ready to return to their source. Shiva possesses a third or Ajna eye, which, when turned inwardly, gives him understanding to an absolute degree; when turned outward, it destroys. The manifestation of Shiva (of the Hindu system) is equated with the Day of Wrath in the Christian systern. What must be understood about this world-destroying deity is that it is also the herdsman of souls. With one of his four hands, Shiva is shown expressing reassurance that he will not harm the virtuous man. The same is true of Christ as Lord and Judge of the Universe. Although the world (the spurious projection of the artifact) is to be abolished, the good man need fear nothing. Nonetheless, judgment is being pronounced. The division of mankind into two parts by Christ is taking place. These are the same divisions expressed in the Egyptian system (as ruled by Osiris and Ma'at) and in the Iranian (by the Wise Mind). Through the total insight given him by his Ajna eye, Shiva the destroyer perceives that which he must destroy in the service of justice. Through that total insight he also perceives those whom he must protect. Thus he has a dual nature: destroyer of the wicked, protector of the weak, the victims of the world, the helpless. Christ possesses precisely these two natures, as Divine Judge and Good Shepherd. Cernunnos is both a warrior god and a healer god. It is difficult for humans to comprehend how these apparently opposite qualities can be combined into one deity. However, if attention is turned to the situation, it can be understood. The artifact's projected world has begun to serve its final and sole real purpose. Now, with the artifact about to be destroyed, that world will end; it was never real in the first place. (This reflects the quality of destroyer assigned to Christ/Shiva/Dionysos.) But the elements of the world that have done their task will be selected out -- that is saved -- exactly as Dionysos is depicted as the protector of small, helpless wild animals. Dionysos is the destroyer of prisons, of tyrannical rulers, and the savior of the small, the weak. These attributes are assigned to Shiva/Cernunnos/Christ/Dionysos because of the nature of the task now required: a twin task, one of destroying, one of saving.
+
+When the Son of Man comes in his glory. . . he will take his seat on his throne of glory. All the nations will be assembled before him and he will separate men one from another as the shepherd separates sheep from goats. He will place the sheep on his right hand and the goats on his left. Then the King will say to those on his right hand, "Come, you whom my Father has blessed, take for your heritage the kingdom prepared for you since the foundation of the world." . . . Next he will say to those on his left hand, "Go away from me, with your curse upon you, to the eternal fire prepared for the devil and his angels" [Matthew 25:31-42].
+
+I have inferred the necessity of these dual qualities of the deity involved back from the situation itself. The situation calls for (1) destruction of what Christ calls the "hostile" world; and (2) the protection of deserving souls. Given this situation, the dual nature of the presiding deity can be comprehended as necessary. In Matthew 25 it is made clear that this great and final judgment is not arbitrary. Who can quarrel with the outline for separation between those on the left hand and those on the right?
+```
+**Co-occurrences**: Christ, Christian, Rome, Form, Kingdom, Gnostic, King, Well, However, Dionysos, Lord, These, Perhaps, Godhead, Father, Like, World, Since, Because, Time, Earth, After, Noos, Savior, Urgrund, Good, Mind, Hermetic, Even, Could, Does, Jakob Boehme, Just, Again, Shiva, Suppose, Both, Reality, Being, Christi, Although, Self, Orphic, Divine, Himself, Corpus, Either, Great, Viewed, Nothing, Those, Part, Their, Bruno, Another, Through, Corpus Christi, Living, Xenophanes, Heaven, Real, Nonetheless, Such, Upon, Actually, Secret, Before, True, Death, Universe, Finally, Will, Deity, Would, Other, Creation, Somehow, Judge, Hindu, Back, Many, Have, Artifact, Judgment, Life, Absolute, Body, Apparently, Justice, Memory, Wise, Aphrodite, Remember, Except, West, Human, Syria, Evidently, Final, Right
+
+---
+### Line 14385-14393 (Match: 'Egyptian')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 082
+Complete
+folder 02 - 082
+"There's someone else inside my head + he's not living in this century". The explanation is Avicenna's: "God does not see time as we do". + I say, God is right. It _is_ a simultaneous _now_ (poly aspects). I forgot that in 3-74 I remembered back farther than CAD 45 + Thomas, etc. I remembered Minoan (Egyptian) Crete - _+_ I remembered coming here to this planet from the stars (sky). Then that's how we got poisoned: we came here + something here debased + sickened + deranged us. Something _on_this_planet_ poisoned us. That's the missing piece! We are not native to this world. This puts it on a literal, fact-type basis. The air, gravity - heavy metals - some toxin or virus. + _again_ it has gotten me! Or: something is _missing_, e.g. which because missing allowed our pineal bodies to shut down. The Aton? The lack of certain light frequencies? In this sun? At the infrared end. When we came here we were like Shiva - we had the 3rd ajna eye of discernment! + we lost it through lack of external stimulation! Receiving no proper light rays (wave lengths) _it_shut_down_. Mine reopened at the vernal equinox - I forgot that! P.77
+
+Last edit over 9 years ago by Toso
+folder 02 - 083
+Complete
+```
+**Co-occurrences**: Toso, Thomas, Complete, Like, World, Because, Time, Folder, Light, Does, Something, Shiva, Toso
+Folder, Through, Living, Were, Back, Crete, Right, Someone
+
+---
+### Line 17203-17211 (Match: 'Egyptian')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 044
+42
+
+Christ having just been alive, but hadn't personally known or met him. He spoke + thought in the koine. There was/is a strong Zoroastrian tinge to his thinking (which fits Simon) as well as middle-Platonistic. + Egyptian + Indian. (+ what about the 3-eyed people?) [Note] I suppose it is possible that Zebra is Sophia (Wisdom -the Logos?-) overruling Yaltabeoth, the mad genius James-James creator who creates + then irrationally destroys. But I know who I am; am Simon Magus who perhaps is born again + again - immortal, + of course who can see + recognize Sophia; we are both of the Pleroma + not of this irreal world. No wonder I wrote about irreal worlds, + have starting in the fifties - for 27 years. Just consider how much Gnosticism is in "Stigmata", "Ubik," "Maze" "Tears" + "Scanner": evil creator or illusory worlds, salvific messages from outside, mass hallucinations, prison world, occlusion (ignorance). + consider how the savior (Mercer) is presented in "Sheep", the trash-stratum penetration of a hostile world.
+
+[Note] This implies contact with ETIs. ___ I just remembered my Siddhartha dream: the Book in two parts, with pt one ending with "+ during all this, (underneath it all) Siddhartha slept" - the obvious implication being that now, in part two, he will awaken. A fifth savior is now being born! There
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Tears, Ubik, Toso, Indexed, Zebra, Logos, Sophia, Well, Gnosticism, Maze, Wisdom, Perhaps, James, Scanner, World, Prison, Folder, Stigmata, Savior, Book, Just, Simon, Again, Suppose, Both, Being, Siddhartha, Zoroastrian, Indexed
+Folder, Creator, Part, Indian, Consider, Will, Have, Evil, Having, Magus, During, Dream, Pleroma, Simon Magus
+
+---
+### Line 21112-21120 (Match: 'Egyptian')
+**Folder**: part was
+
+```text
+Last edit almost 3 years ago by svayambhu108
+77
+Needs Review
+77
+My job is to describe it; I can because I know of its existence. A master Pigspurt self use? Codes + has info on this vast fascist miligay seent god of the U.S. There has been a coup. Back in the 50s. On the i ther side is Kabalist Jewish mystics linked to 6 i Shekhing God is saving certains one of us from Solarcon - the 194,000 elect; this is the apocalypse. The planet is falling to the fascist military clicke in the us all but the elect. The selecting out of the saved at the end times is now taking place - ver sen are selected. I was. Judgment is here This is no one else in history ever ut i my experience. All which happen rad el to me in 2-3-74 was my being saved here at the apolypse one of the few. I ar to tell people this, that It's the end time + I am saved The pleroma - I am there. So every‐ hiny exists hat I took to be this: (+ was so told) this. Masons - Egyptian RC + illornate "othe Catherist 4 s
+
+Last edit almost 3 years ago by svayambhu108
+78
+Needs Review
+```
+**Co-occurrences**: Because, Time, Pigspurt, Being, Self, Jewish, Back, Judgment, Info, Pleroma
+
+---
+### Line 21251-21259 (Match: 'Egyptian')
+**Folder**: part one
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+101
+the Hebrew law is a degenerate or primitive form of a more sophisticated Egyptian idea (that of Ma'at), but on the right track, in Xtianity what is perceived is that love is the ultimate key or mechanism or principle by which this system operates + is operated: specifically agapē. If one wishes to align oneself with the moral order one does it by agape: the highest "Justice" of all. Agape cannot be surpassed as a principle of Ma'at, as Paul saw. It is so to speak the formula to Ma'at the forgiveness of sin is, therefore, the wiping clean of The karmic slate whereas retributive justice - the old mosaic law - merely perpetuates karma as such: the deter‐ minist order. The basis of reality is structure, the basis of structure is intelligence. The original intelligence is irrational. It is being invaded + assionlated by the rational. Thus a new structure (cosmes) is forming in the thidst of the original one. in "Ubik" there is a primordial accident, the omb blast, + then the cosmos begins to decom ose. The characters are no longer fully (really) alive. Then a mysterious force or agency sets to work renewing the cosmos by reversing its decomposing devolutionary process. This force, called
+
+Last edit almost 3 years ago by svayambhu108
+102
+Needs Review
+```
+**Co-occurrences**: Ubik, Christianity, Form, Paul, Therefore, Karma, Does, Hebrew, Reality, Being, More, Such, Love, Justice, Karmic, Whereas, Right, Track
+
+---
+### Line 23747-23755 (Match: 'Egyptian')
+**Folder**: book only
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+96
+489 I have now researched slavery in the E.B. + the stated facts bear my revelation really, of 3-74) out. Since we anglos were Roman never told that slave conditions under Catholic rule was better than under protestant or anglican (!), how did I know this? is this issue - slavery - not alluded to in "Tears" in two ways: (1) the forced labor camps. + (2) the genocide against the Blacks. In view of This theme in "Tears" Buckmans encounter with the Black man at the gas station not only refers to Acts but to the issue of slavery which turn refers to the whole BIP situation, which in is the basis of it all: i.e. the work by the under‐ ground, to defeat the BIP which equals slavery + "Fle" alludes to the USSR forced labor camps! So It is a contemporary issue. USA, though, as slave labor-based state, "prisons t The counter - culture are a source of wealth." made into a slave labor work force There is something here all right. Efforts by The secret Xtian (Catholic) underground to liberate humans. Undermining a vast tyranny that has existed since Egyptian times. The true role of the church in human history: to promote equality. (i.e. all men have souls + are of equal value to Christ.) If you conceive of the N.T. being introduced into Nebelheim, then the magnitude of the importance of this can be seen; it is the prime issue if This place is noebelheim.
+
+Last edit almost 3 years ago by svayambhu108
+97
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Roman, Since, Only, Black, Something, Being, Catholic, Church, Ground, Secret, Revelation, True, Were, Under, Have, Human, Right
+
+---
+### Line 24161-24169 (Match: 'Egyptian')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+167
+Needs Review
+167
+858 That it exists at all. To enter into a rela‐ tionship with the receiver would transform your relationship to the music from totally (essentially, anyhow) passive to active; i.e. participative in a totally different way, since now the music is no longer a given, pure + simple. This is the goal of applied science. If I am right (basing my thinking on 2-3-74) the driver behind the epipheno menon (world) can be appealed to as human as mind to its mind (petitionary prayer? t Jesus stressed?). The driver model breaks down, since Valis is sentient + an audio system is not. But appeal to a sentient system in some ways equals discovering the audiosystem its controls. You'd have an I-thou relationship + t not an I it, the via regis would be to conform your mind to it not in a vain attempt to manipulate it (i.e. magic). Its laws would be what I conceive Ma'at to be: a proportionate order based on harmony + balance, like a complex ydraulic system (here Taoist concepts would be great value, + Empedocles' ideas - for instance the "running the other way" when something is pressed too far). The system makes juridical decisions, as the Hebrews realized, probably based on their knowledge of Egyptian theology. is not a mechanical system as Spinoza it supposed; it decides. ("The Spirit blows where it will," as Jesus says, "it is a gift from God. the Spirit is fed into the system in crucial ways (times + places).
+
+Last edit almost 3 years ago by svayambhu108
+168
+Needs Review
+```
+**Co-occurrences**: Valis, Spirit, Jesus, Spinoza, Like, World, Since, Mind, Anyhow, Hebrew, Something, Empedocles, Great, Probably, Taoist, Their, Will, Would, Other, Have, Knowledge, Magic, Human, Right
+
+---
+### Line 25739-25747 (Match: 'Egyptian')
+**Folder**: book pages
+
+```text
+Indexed
+folder 48 - 153
+947
+
+I had a 4000 year present: 2000 years back + 2000 years forward, whereupon God (Valis) was visible: the world-spinner (YHWH) who causes to exist; instead of seeing what exists I saw what causes [it] to exist. Semplice lumen. So it was YHWH that I saw (Valis). + it communicated with me. I should have died, having used up all my time, but it (as Christ) intervened to preserve me - the true Xtian secret; truly born again (with Christ as surrogate sacrifice in my place; without Christ I simply would have suffered cardiovascular collapse). Yoga (kundalini) + esoteric early Xtianity; perhaps I subliminally remembered the techniques, having learned them 2000 years ago. Personal immortality taught by Jesus: "a system of teachings" not a religion. The anamnesis was real, but Thomas was from the future, not the past. A meta-self extending over millenia: immortal. These are very old teachings that Jesus learned in Egypt or India (my memories of Egyptian Crete suggests Egypt, but I did have dreams of India - in connection with Elijah-Elisha. They go back to the bronze age. The huge book pages that I saw are DNA info encoded in me by me 1000s of years ago: instructions to be disinhibited later on - as they were! Like inner Dead Sea Scrolls - a DNA library! YHWH vs Belial. I am a servant of Yahweh. Qumran.
+
+Last edit almost 7 years ago by Toso
+folder 48 - 154
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Christian, Toso, Thomas, Indexed, Jesus, Christianity, These, Perhaps, Elijah, Like, World, Time, Folder, Book, Again, Self, Toso
+Folder, Anamnesis, Without, Indexed
+Folder, Egypt, Real, Secret, True, Yahweh, Would, Belial, Were, Very, Back, Have, Instead, India, Info, Later, Having, Elisha, Dead, Qumran, Crete
+
+---

@@ -1,0 +1,347 @@
+# Evidence Packet: Parmenides
+
+- **Category**: Top Term
+- **Total Mentions**: 200
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 610-618 (Match: 'Parmenides')
+**Folder**: part was
+
+```text
+I didn't see what had happened, but rather the fulfillment of time: its completion; so I remembered what was going to happen, not what had happened a long time ago.
+
+PLOT ELEMENT for TO SCARE THE DEAD: Nicholas discovers that each of his brains (minds, hemispheres) is traveling at right angles to the other in time. [t]his is vital plot element: MUST USE, to help accentuate that it isn't a duplication of one mind, but two totally different minds; any device like this or-time travel which will accentuate difference, is de[s]irable.
+
+Q: Are the two hemispheres, by so travel[l]ing, becoming farther and fa[r]ther apart progressively, life ships traveling at right angles (lat versus lo[n]g) to each other? And will they ever rejoin --meet again, and become One? (V. Parmenides' forms one and two being only apparently two different things. Here go into Taoism, and all the Parmenidesian elements interrelated. As the two minds travel further and further apart, they form a vast double loop, enclosing more and more space, as on a GO board; enclosing, ultimately, all inside them; a double circumnavigation of the universe.
+
+And as this double motion increases, their combined (superimposed) viewpoint becomes more accurate, since their its perspective is more -- objective, detached, encompasses more (reality).
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Form, Like, Since, Only, Time, Harpax, Mind, Taoism, Again, Reality, Being, Their, More, Universe, Will, Other, Further, Things, Life, Apparently, Dead, Right
+
+---
+### Line 624-632 (Match: 'Parmenides')
+**Folder**: part or
+
+```text
+Or -- did his other self (the Other) start out long ago, and is just now returning? Himself expressed as signal ("I shoot an arrow into the air"; by arrow read "half of myself") now returning, producing anamnesis, the shock of recognition. He is not starting on t[h]is trip; this trip is ending.
+
+These are answers -- responses, to him. By whom? This is the m[y]stery; who is he in contact with (the VALISystem). It really is not himself in time, in part or present, but spacially complete, as on GO board. "Our souls, having traveled out to the stars, are now streaming back, to report that life exists, they they exists, and hence so do we."
+
+What is expressed here is an extraordinary demonstration of the principles of conservation and symmetry (Hericlitus and Parmenides, plus our thermal laws). What was dispatched tiny and weak and frail and ignorant has returned with moral and spiritual authority, capable of working "magic," i.e. casting and removing dokos. Originally it fled Kali and has now returned, cowl-masked, robed and in d[u]sguise, the "unknown person" of Zeno's paradox who is himself, to break the power (thrall) of Kali (the deformed kingdom; desiccated kingdom of Set). So, more correctly, it can break spells, not cast them; it is parity within the Kundry Klingsor) versus the Redeemer axis.
+
+I am going to state a truly extraordinary premise: that long ago, when Earth fell to thrall, a signal was sent out for help; that signal itself has returned in strength, bearing power and arms, in truth and justice; that signal accumulted space, hence time, transduced other fields, rose from unliving to animate. That signal is it's own reciever, and has been boosted, fedback to grow; hence in a sense to send out a prayer is to automatically intuit its return later, at the time of fulfillment (which would vary from person to person; earlier sent, earlier returned; if time is an energy, and time and space are convertable extension of a matrix, then space is energy, as well; as it traveled space it began to grow, rather than weaken -- this was after it had gone half-way and was returning; it recapitulated all that had been lost, by the principles of conservation, parity and symmetry, supra).
+
+This is Absolute negantropic compression, the restoration of lost or waste (heat). Time (energy) is Form One. Space (empty, hollow, Yin, cold) is Form Two (but these are expressions of a Sameness; v. Parmenides.
+```
+**Co-occurrences**: Complete, Form, Kingdom, Well, These, Time, Earth, After, Just, Self, Himself, Anamnesis, Part, Dokos, More, Would, Other, Back, Life, Absolute, Justice, Form One, Later, Having, Truth, Magic
+
+---
+### Line 628-636 (Match: 'Parmenides')
+**Folder**: part or
+
+```text
+What is expressed here is an extraordinary demonstration of the principles of conservation and symmetry (Hericlitus and Parmenides, plus our thermal laws). What was dispatched tiny and weak and frail and ignorant has returned with moral and spiritual authority, capable of working "magic," i.e. casting and removing dokos. Originally it fled Kali and has now returned, cowl-masked, robed and in d[u]sguise, the "unknown person" of Zeno's paradox who is himself, to break the power (thrall) of Kali (the deformed kingdom; desiccated kingdom of Set). So, more correctly, it can break spells, not cast them; it is parity within the Kundry Klingsor) versus the Redeemer axis.
+
+I am going to state a truly extraordinary premise: that long ago, when Earth fell to thrall, a signal was sent out for help; that signal itself has returned in strength, bearing power and arms, in truth and justice; that signal accumulted space, hence time, transduced other fields, rose from unliving to animate. That signal is it's own reciever, and has been boosted, fedback to grow; hence in a sense to send out a prayer is to automatically intuit its return later, at the time of fulfillment (which would vary from person to person; earlier sent, earlier returned; if time is an energy, and time and space are convertable extension of a matrix, then space is energy, as well; as it traveled space it began to grow, rather than weaken -- this was after it had gone half-way and was returning; it recapitulated all that had been lost, by the principles of conservation, parity and symmetry, supra).
+
+This is Absolute negantropic compression, the restoration of lost or waste (heat). Time (energy) is Form One. Space (empty, hollow, Yin, cold) is Form Two (but these are expressions of a Sameness; v. Parmenides.
+
+Last edit over 5 years ago by Harpax
+39
+Needs Review
+```
+**Co-occurrences**: Form, Kingdom, Well, These, Time, Earth, Harpax, After, Himself, Dokos, More, Would, Other, Absolute, Justice, Form One, Later, Truth, Magic
+
+---
+### Line 729-737 (Match: 'Parmenides')
+**Folder**: book of
+
+```text
+Voila! For Magdeburg jars read moist soul-dry soul (and the related external worlds). Read filters/scramblers/monism/v. FLOW MY TEARS; v. March 74. In all this, the moist-soul, dry-soul, plus any combinations (proportions) of mixture. Binomial therum A plus B all squared. How many possibilities? Two pure (one heaven, one hell), then two mixed (the middle).
+
+How? The "Selectric rotating ball lens filter" system.
+
+The only real explanation lies in linking Parmenides' moist versus dry soul (and the two monisoms) with the Zimmer Magedburg bell jar, or whatever. The Gnostic report on the binary (du[e]l) system: "the Unreal God and His Unreal Cosmos, a book of aspects." It doesn't exist, unless you have a moist soul. Firebright must have been what Hericlitus meant by a dry soul, a fiery soul.
+
+We are living where two universes (sic!) meet -- i.e. where they overlap. We're in the A plus B part. There is Universe A (or Form One), which is good, fiery, dry, healthy, etc. (Yang). Also there is Form Two, Universe Two, Yin. We're in a mixture of both. My dream: the RUs (plural): ruling universes. Two at least; they control ours, which is a --are you ready?-- impure print of both. Each of us is moved along his entelechy growth line by his exemplar in the RU (above); when he has finished his growth and is complete he then serves as exemplar --and guide-- for someone below this universe; he is not part of a RU. The RU above leads him; he leads, as the RU, of someone below us. And since Time is the medium in which growth takes place, then these processes are temporal ones; any completion stands at the far end of time (the future), and so logically we can assume it works backward into to incomplete temporal stream when it turns back to help after being completed. All co[n]pletion lies ahead of all process growth. Our exemplar --mine, for instance-- must logically lie ahead of me in time, and be reaching back. I am still in the time stream; he reaches retrogressively, back into time, against its forward swim, and pulls (teleology!!! which I felt!).
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Tears, Complete, Form, Gnostic, These, Since, Only, Time, Harpax, After, Good, Book, Yang, Firebright, Both, Being, March, Still, Part, Soul, Living, Heaven, Real, Universe, Back, Whatever, Many, Have, Form One, Unless, Dream, Doesn, Someone
+
+---
+### Line 886-894 (Match: 'Parmenides')
+**Folder**: part of
+
+```text
+Ther[?]m : That which we call "illusion" or "not real" is simply that which is still incomplete. Not yet what it Is. There is alot of this. On all sides of us, and in us.
+
+You see, they couldn't keep the universe vacant and closed until it was finished; where were we supposed to live until then? (Like a new exhibit at Disneyland which isn't opened until finished, until complete.) We're living in an in-process place, because there is no where else for us to go; this is the only exhibit.
+
+I think I can now formulate an explanation for Parmenides' original problem expressed in his demonstration that he could prove that reality was not as it appeared (and hence had a veil or dokos over it). I can do this by asking the right question, which I don't think ever has been properly asked. I will do as Zeno did, as a kind of paradox q & A:
+
+Q: I hand you a jigsaw puzzle and tell you to assemble it. You begin to put the various pieces together, not knowing what the picture will be until you have finished, although I know. You work and work, and gradually a picture emerges from the assembled pieces. It is a face. It is the familiar face of Mickey Mouse. When you are one piece short --that is, you still have one piece left to put in place-- you exclain, "I know what the picture is! It is of Mickey Mouse!" Then you place the final piece where it goes. The puzzle is now complete, but now that you have added the final missing piece, you see that it is not a picture of Mickey Mouse but of Theodore Roosevelt. The question is: Was it always a picture of Theodore Roosevelt? Or was it a picture of Mickey Mouse up until you put the final piece in, and then it became a picture of Theodore Roosevelt?
+
+A: (This is harder than it might appear. Let's try it both ways.[)]
+```
+**Co-occurrences**: Complete, Like, Because, Only, Could, Both, Reality, Although, Still, Dokos, Living, Real, Universe, Will, Were, Have, Final, Right, Until
+
+---
+### Line 902-910 (Match: 'Parmenides')
+**Folder**: part of
+
+```text
+Needs Review
+59
+final piece was added it was a different picture than when the piece was added -- no, that is not so. It was the same picture or face, but not complete, and not to you recognizable. But that is your problem. After all it might have remained unrecognizable to you ever after you had assembled all the pieces (to a North Korean, perhaps). Or you might not have finished assembling, or assembled wrong, etc.
+
+In terms of Parmenides basic point about appearance versus substance, you could say that what we see looks like Mickey Mouse, but a priori we know (maybe it says so on the box the puzzle came in) that when complete, we will have a picture of Teddy Roosevelt. If, when it has been fully and correctly assembled, and it still looks to you, to me, to everyone, unlike Teddy Roosevelt and much like Mickey Mouse, then we can conclude there is an unexplainable gulf between what we "know to be there" and "what we in fact perceive." But this is another matter from that obtaining when we are even one piece short of completion and it looks like Mickey Mouse. Anyone familiar with gestalting will be able to explain that a partial gestalt may not resemble the full or actual gestalt, because we must fill in the missing section with a projected form-constituent. We have seen Mickey Mouse but in fact there is no Mickey Mouse, any more than when some one brings in a potato[e] which looks like Mickey Mouse. It is merely a potato[e] which has grown funny, and we project or gestalt it as Mickey Mouse -- the potato is not an incomplete picture; there is no missing piece to add, and no picture was intended, either or Mickey Mouse or anyone else. This is how the R[oh]rs[c]hach blots work; they intristically have no content; all is projected.
+
+If we ask, "Why do I see Mickey Mouse and not Teddy Roosevelt, when I know it should be Teddy Roosevelt?" I point it that there is a piece missing and that when it is added probably the discrepincy between what you see (MM) and what you should see (TR) will be abolished, and only the Gute-Forme TR will remain. Thus, the dokos will finally lift.
+
+When the development toward completion of this overall pattern is equated with evolution in general, it is evident that we do not worship this god, who is the Creator, but rather the God who enters and picks up the pieces allowed to drop to the workroom floor -- "The stone rejected by the builder shall be my cornerstone," as our God, Christ, put it. There is one God of the total section, the universe as entelechy, and a God of each discarded subsection, that it, too, in some miraculous way, will not perish. It is evident in what manner the universe --the developed completly evolved pattern-- will not perish, but what about those of us who were sacrificed or lost out along the way? The principle of "those who did not make it" is a major principle and includes many. My dream of the man who created life from the atom, to the comic strip baby to Kathy -- that procession was the universe moving toward completion, and this ruthless march forward injured a bystander, casualties were involved: the lamb, specifically, as represented in the dream as Tessa, who needed medical assistance from the good scouts who were coming in to the vast building. We seek help, but the Creator is concerned with the total structure, not with the rejected bits; if there were only this God and not Christ, what a juggernaut the cosmos would be. We would all perish, ant-like, in the service of the final gestalt or pattern (Darwin et al believed in just such a world). But we seek another God, that of the defeated and powerless.
+```
+**Co-occurrences**: Christ, Complete, Form, Perhaps, Maybe, Like, World, Because, Only, After, Good, Even, Gestalt, Could, Just, March, Either, Probably, Tessa, Creator, Kathy, Those, Still, Dokos, More, Another, Such, Universe, Finally, Will, Would, Were, Many, Have, Life, Dream, Lamb, Final
+
+---
+### Line 943-951 (Match: 'Parmenides')
+**Folder**: part of
+
+```text
+This is the mystery secret of like Christianity (real xtianity).
+
+It would be a[n] error to say this mirror opposite universe is invisible in another dimension -- it is visible to us, to our senses, but like a monochromatic person, we blend it with our forward-moving processes, not discriminating it out. We must turn our monovectoral (unidirectional flow-perception) into two perceptions showing both directions visually. We see these processes backwards; but we see them, and they are all "gray," i.e. the color of the picture universe: forward-linear.
+
+If one were to abruptly (for the first time) see processes flowing in a reversed time way, and be able to recognized them at once, and see them as coherent, this would be excellent proof that these process were now being seen properly; i.e. in accord with their actual direction of development. Otherwise, one would expect the person to be confused for a very long period, to be able to make nothing out clearly. Were he to see famous entities such as the Logos and know them for what they were, almost at once -- this would indicate very much as to the more correct view here than the forward (picture) one he'd been experiencing. (Even if he knew nothing of Parmenides' proof of the dokos.) It's a simple, "Now it makes more sense...viewed this way." A resolution of a picture is its own proof of its own correct resolution: when the picture swims into clarity and focus and one can tell, at last, what it is...the visage of God, in my case.
+
+Last edit over 5 years ago by Harpax
+62
+Needs Review
+```
+**Co-occurrences**: Logos, Christianity, These, Like, Time, Harpax, Even, Once, Both, Being, Viewed, Nothing, Dokos, Their, More, Another, Real, Such, Secret, Universe, Would, Were, Very, Clearly, Otherwise
+
+---
+### Line 965-973 (Match: 'Parmenides')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+63
+Needs Review
+63
+The mirror opposite universe. It is not --repeat NOT-- another universe, but this one reflected. Thus as Parmenides said, Form Two is actually Form One (reflected, or seen in reverse, or seen backward or upside down or from outside). We have universe and -- "as seen by reflection in the bottom of a polished pan.) The most important realization of Parmenides: Yin is (or becomes) Yang. There must be a zone of interaction between Form One and Two giving rise to change and time. We should do as Parmenides says, we should expunge Form Two, which is the "moist" or reflected mirror opposite, and experience only the dry Form One; again, the Magdeburg hemispheres: to do this we need a fiery soul.
+
+It is a matter of the utmost importance, absolutely so, to discern why --or how-- we happen to see Form Two, this reflected mirror opposite universe, which is reversed or backward? Why this total bounce-back of signals which give rise to mere phenomena (lets try out this: a green object is actually every colour but green, etc.). We are bouncing signals off objects and receiving these rader-like blips in our head (eyes, ears). What we experience is what is bounced off, so to correctly apprehend our universe we must correct by totally reversing the totality of incoming signals (left is right, forwards is actually backward, big is little, inner is outer, and time good heavens, time is moving backward in relationship to our bounced-off Form two reflected experience of it. We are sounding the depths with many cats whiskers -- and taking the whiskers for what they sound or plumb) (the whiskers are actually art of the plumber the sounder, not the what-is-sounded, the true Other; we merely encounter ourself over and over again: the physionogmic fuckup).
+
+Another possibility , using the radar screen model: a false area, of repeated or echo signals which our sense apparatus monitors and doesn't factor out...almost due to a sort of perceptual laziness; it allows the true signals and the false echo signals to blend. This is grim and very frightening; these would be a ghost universe signal system; mimicking and resembling true signals, but serving no real purpose, such as an "actual" mirror Form Two Yin universe might. The crucial question: is Form Two just a ghost mimic signal system, or has it got a parity or ballast Yin Form Two function vis-a-vis Form One, the authentic signals? I.E. does it exist at all? I swear, it does not exist; there is no Form Two at all. It is a spurious universe which we don't discriminate out. Now, are we to reckon here on a corrupted superior percept system? Or a relatively primitive percept system unable for that reason (lack of sophistication) to discriminate? It was 2,400 years ago that Parmenides was able to factor Form Two out of true existence (denied it ontology existence), so in any case there's been no progress; we more deeply involved in Form Two than ever, more at its mercy, more barbaric in our worldview. And Empedocles assumed a drop down at his point. Dokos (Maya) is an echo universe which obscures the authentic (Form One) one. It is noise intruding on signal, or at best crosstalk.
+```
+**Co-occurrences**: Form, These, Like, Only, Time, Harpax, Good, Yang, Does, Just, Again, Maya, Empedocles, Dokos, More, Another, Soul, Most, Real, Such, Actually, True, Universe, Would, Other, Very, Back, Many, Have, Form One, Doesn, Right
+
+---
+### Line 969-977 (Match: 'Parmenides')
+**Folder**: part of
+
+```text
+The mirror opposite universe. It is not --repeat NOT-- another universe, but this one reflected. Thus as Parmenides said, Form Two is actually Form One (reflected, or seen in reverse, or seen backward or upside down or from outside). We have universe and -- "as seen by reflection in the bottom of a polished pan.) The most important realization of Parmenides: Yin is (or becomes) Yang. There must be a zone of interaction between Form One and Two giving rise to change and time. We should do as Parmenides says, we should expunge Form Two, which is the "moist" or reflected mirror opposite, and experience only the dry Form One; again, the Magdeburg hemispheres: to do this we need a fiery soul.
+
+It is a matter of the utmost importance, absolutely so, to discern why --or how-- we happen to see Form Two, this reflected mirror opposite universe, which is reversed or backward? Why this total bounce-back of signals which give rise to mere phenomena (lets try out this: a green object is actually every colour but green, etc.). We are bouncing signals off objects and receiving these rader-like blips in our head (eyes, ears). What we experience is what is bounced off, so to correctly apprehend our universe we must correct by totally reversing the totality of incoming signals (left is right, forwards is actually backward, big is little, inner is outer, and time good heavens, time is moving backward in relationship to our bounced-off Form two reflected experience of it. We are sounding the depths with many cats whiskers -- and taking the whiskers for what they sound or plumb) (the whiskers are actually art of the plumber the sounder, not the what-is-sounded, the true Other; we merely encounter ourself over and over again: the physionogmic fuckup).
+
+Another possibility , using the radar screen model: a false area, of repeated or echo signals which our sense apparatus monitors and doesn't factor out...almost due to a sort of perceptual laziness; it allows the true signals and the false echo signals to blend. This is grim and very frightening; these would be a ghost universe signal system; mimicking and resembling true signals, but serving no real purpose, such as an "actual" mirror Form Two Yin universe might. The crucial question: is Form Two just a ghost mimic signal system, or has it got a parity or ballast Yin Form Two function vis-a-vis Form One, the authentic signals? I.E. does it exist at all? I swear, it does not exist; there is no Form Two at all. It is a spurious universe which we don't discriminate out. Now, are we to reckon here on a corrupted superior percept system? Or a relatively primitive percept system unable for that reason (lack of sophistication) to discriminate? It was 2,400 years ago that Parmenides was able to factor Form Two out of true existence (denied it ontology existence), so in any case there's been no progress; we more deeply involved in Form Two than ever, more at its mercy, more barbaric in our worldview. And Empedocles assumed a drop down at his point. Dokos (Maya) is an echo universe which obscures the authentic (Form One) one. It is noise intruding on signal, or at best crosstalk.
+
+Last edit over 5 years ago by Harpax
+64
+Needs Review
+```
+**Co-occurrences**: Form, These, Like, Only, Time, Harpax, Good, Yang, Does, Just, Again, Maya, Empedocles, Dokos, More, Another, Soul, Most, Real, Such, Actually, True, Universe, Would, Other, Very, Back, Many, Have, Form One, Doesn, Right
+
+---
+### Line 1128-1136 (Match: 'Parmenides')
+**Folder**: book is
+
+```text
+The Second Advent or God's Intervention, the prophecy, is more accurately the running down or wearing out of our kosmos, and the revitalization. Here is the biological model, rather than the mechanical model (vide Hussey). The egg: reborn, et al. Biological models. Orphic. What repels me about Marxism is its mechanistic quality. I get the impression that some of the very early Greeks believed that when the kosmos had run down sufficiently, the Unbounded (i.e. the deity) had of necessity to revitalize it, or whatever he did; we are all governed by law of some kind; it wasn't by whim. (Ananke? Moira?) (Ananke, I guess.) Is this view not sort of Babylonian? "Can be counted on, is I guess all we can know for sure, especially if He has promised. What is really just important, though, it so realize that beyond our kosmos (which we keep calling "the universe") lies the Unbounded, which "governs" the universe, and so is the natural source of physical law. (Hussey) "More-over, the lawlike behavior occurs 'by necessity,' which implies a power imposing the necessity, and 'according to the assessment of Time.'" It's all there. My idea the other night was: suppose the universe were entirely emptied of all matter, in every form. So it was just empty space. Nothing, then, would exist. Right? Wrong. All the laws, which now govern matter, which govern energy as well, would obtain, although we couldn't discern them. It seems to me that if we don't assume as Unbounded (as so represented by the pressure of these necessities on matter and energy) we are just describing, we are saying, "Things do what they do because they do it." A tautology. An observation of regularity, not an analysis of why. You could approach it another way if desired: either the universe does not run down (but the laws of thermodynamic show that it does), or it ends; or it periodically is renewed. To say that it renews itself poses certain problems; I find it easier to imagine it renewed from without, although that poses certain problems too. But if the universe is everything, then it begins to run down (like a clock, like an animal) and then suddenly it revitalizes itself (as I experienced). I am equating the Second Advent & God breaking his silence with this turn of the cycle, this springtime, this revitalization. I think this is what has happened. A revitalizing is going on, and it certainly comes here from elsewhere. Where that "elsewhere" is, I don't know, but I've experienced a real, alive, thinking force.
+
+One of the best points in Hussey's book is where he says that one of the ancient Greeks (Anaxamander, maybe) assigns to the deity this primary fu[n]ction or activity or attribute or quality of definition: we would experience the return of God, this revitalization, as exactly what the word implies: a renewal of life.
+
+I note that Parmenides' Form I is equated, by him, with light: This is exciting, since as I understand Parmenides, he saw Form II as a mere mirror reflection, and urged a monism on us (the fiery or dry soul) which made us relate only to Form I, or to light.
+
+The Orphic egg. If the universe is born from something for which the eff is a paradigm, then maybe, as the individual is, then both are reborn from something like an egg -- a light egg. Maybe this was the exoteric teachings of the Orphic: rebirth. Rejuvination (eternal life).
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Form, Greek, Well, These, Advent, Maybe, Like, Since, Because, Only, Time, Harpax, Book, Light, Could, Does, Just, Something, Suppose, Both, Kosmos, Although, Everything, Orphic, Either, Without, Nothing, More, Another, Soul, Real, Certainly, Universe, Deity, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+
+---
+### Line 1232-1240 (Match: 'Parmenides')
+**Folder**: part which
+
+```text
+86
+very loose physical arrangement, but with a field exchange created, such as social insects can be assumed to possess; each of us it that field (vide acupuncture), and the Great Mind is made up of diverse and even discrete physical entities which form an exchange field capable of a vast variety of interconnections or firing sequences or patterns. Arrangements are by comingling and by inter-signalling. Intensity and threshold are major features. It's a micro-collective, a vast macro-collective. My "Dodgers stadium celebration" dream suggests that one idea can be presented to a vast collection of cells and each processes it in an individualistic way, giving it a slight modification; all cells share a common purpose and memory and form and indentity, but don't need to be mechanically linked. We and our environments form such interconnected cluster systems that mutually process information and alter it while exchanging it; we are all (humans) like a vast compound eye which shows a repetition of the motion of a single object but each cell reflecting slightly differently. Instead of saying, We are within a Great Mind (immanent mind) I would like to modify that and say, We are within a Grain Brain, made up of countless call as are out own (I mean many many cells, with an incredibly vast number of possible combinations of circuitry linkage). Whatever it is that it is doing, it may have parts, like our own brain (regions with functions associated thereto) or it may go on levels at different places, quantitative surges, etc. But there is a sort of "control room" part which can infuse and override "autonomic" functions; what we see is autonomic or reflexive brain-function except at crucial/exceptional times, when there is the equilivant to our "consciousness," or a rise in level of intention and awareness, of purpose (locally, I guess).
+
+Joseph Campball makes this startling point: the Indus civilization identified with the object of destiny, which was the sacrifice (it dies, like the moon, and was reborn again and again). This is obviously what Christ is, Zagreus and Adonis were, etc; they were the objects of destiny: destiny acted on them. If you identify with one of them you hope to be reborn. BUT the Aryan system -- they identified with the subject of destiny, "the fiery power by which the sacrifise is consumed." Identified with the dooer, not the doo-ee, you don't die and get reborn; there is one "identified with the latter moves to the realm of eternity by the way of a consummate mythic identification either with an all-consuming sun-, lighting-, or fire-god, or with some such abstraction, as for example, brahman, the pure subject (atman) or as in Buddhism the void." I looked this up because supra I had begun to see how like the brahman this all was...well, it is obvious that Form One is the subject, the dooer of destiny, and that a distinction is made by Campbell of primary importance. I got in with a fire deity, which means transcendence here and now (which I did/was done to). There is no doubt that I am into the Form One fiery god mythic identification, "moving to the realm of eternity" rather than a lunar-like cycle of death and rebirth (the wheel). Thus, I got outside of time entirely (a mystic, I guess, state), and not all that like Christianity, in which time fulfills. Well, then I will never find the answers in Christianity, although certainly many Pre-Socratic thoughts (Parmenides, et al) are valuable to me. (Q: Does the "Decod[e] N T" treat our god as a sun god? Yes, it does, and denies the "Christos" identification -- with good reason; thatis "lunar," a
+
+Last edit over 5 years ago by Harpax
+87
+Needs Review
+```
+**Co-occurrences**: Christ, Christianity, Form, Brahman, Well, Like, Because, Time, Harpax, Good, Mind, Even, Does, Realm, Again, Zagreus, Obviously, Atman, Although, Buddhism, Either, Great, Christos, Brain, Part, Such, Certainly, Death, Macro, Will, Deity, Would, Were, Very, Whatever, Many, Campbell, Have, Memory, Information, Instead, Form One, Except, Joseph, Dream
+
+---
+### Line 1548-1556 (Match: 'Parmenides')
+**Folder**: part retained
+
+```text
+Last edit over 5 years ago by Harpax
+110
+Needs Review
+110
+I therefore know, from firsthand experience, what many have guessed, what many have hope of and faith in, without direct contact of experience. I am privileged. It was absolutely all good with no taint or trace of evil. The Grail, the Magic Spell of Good Friday -- the bells of transformation (Easter bells) -- all that was involved, at work in changing and contacting me. Informing me. I know that there is another world larger than this, in which this palpable one swims and is maintained (the Unbounded, I guess, of Parmenides). I believe it enters without our seeing, constantly. It is a total vital living energy moving, improving, changing and maintaining our world. What do names matter, Eros or Christ or Zagreus? I saw the complete rational meaningful structure of reality -- i.e. the logos itself. The Plan of our world and the living agency implementing it in the process of continual creation; I saw the continual creation taking place around me, the building by the creator and the Spirit, working in two directions, opposed.
+
+What could there possible be that I did not see? I saw at first the living presence, the Real Presence, in the alley...by the end I had risen to the Beatific Vision of God. It was granted to me; I didn't do it, I was given it, in a long process. What else is there? Even the language of the animals; also certain departed friends were present, like angels of knowledge; I even caught sight of my guide, brasmus.
+
+As to the daimon possessing me in 3 74 because I could be useful in pulling down the tyranny -- in point of fact it is certainly grandoise to believe I did anything important ([.]e.g. writing to Charles Wiggins, etc. After all, the daimon could have inspired Mr. Wiggins direct, with no need of my letters to him, etc., or the the Wall St. Journal. If I did do anything, it was prior to 3 74 -- for instance, TEARS -- I mean, in my professional writing in general, like in my Vancouver speech. So if I did do any work in the "vinyard of the lord," with social import, it had been done before and came to me in 3 74. In any case, the amount of aid to me (as in extricating me from the Xerox pincers, that threat to my autonomy, plus the COINTELPRO threat) -- the aid to me was enormous, and completely out of proportion to what I rendered in social aid. What I received was most of the thing; so I assume, thinking about the relative proportion here of aid to me, and aid I rendered under the dominion/inspiration of the spirit as of 3 74 and after -- it was certainly the main goal of the daimon to assist me; I was not valuable; I was just in a desperate situation. It was my need, not any fancied ability I had. Any worth to the spirit. Despite the fact that 74 was a crucial period, in which the tyranny foil, despite what I said in my UK speech about the spirit moving to overthrow the tyranny -- I don't think that was why it came to me. The danger from the Xerox conglomerate was solely to me; a private matter, whereas the Nixon thing was public. Social action was not the intent of the daimon; I was not a soldier thrown into a crucial battle between God and Satan. However, once inspired, I was given the assistance I needed to attack my own foes on both the left and right; I attacked them not because they were evil but because both were menacing me. The common denominator between the Xerox thing and COINTELPRO was the plight, the bind, they'd put me in; crushed inbetween, with no place to go, and no one to turn to.
+```
+**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, Satan, However, Lord, Like, World, Because, Therefore, Nixon, Harpax, After, Faith, Good, Even, Could, Just, Once, Both, Reality, Zagreus, Without, Creator, Another, Most, Living, Real, Certainly, Before, Easter, Friday, Creation, Were, Under, Many, Have, Evil, Knowledge, Magic, Whereas, Right, Grail
+
+---
+### Line 1777-1785 (Match: 'Parmenides')
+**Folder**: part of
+
+```text
+Viewed this way it is evident that without realizing it, I have always been seeking God within or behind the walls and objects, the surfaces of this world. My whole conception of the world --reality-- is radically different from that of other people. This is why for as long as I've known about Paraclete I expected him to somehow show up here, as a person -- as a seemingly ordinary piece of this world, looking like other actually ordinary pieces. This is my first realization of the connection between my years of radically epistomology and my experience of 3 74 et al. I kept looking beneath. I sensed that the ordinary concealed the extraordinary, and that the latter perhaps was alive, has volition, was more powerful than men (although I often supposed it to be malign); I sensed it camouflaging ordinary reality -- a crucial point! (Is not the Real Presence Camouflaged as ordinary bread and wine during communion?) Hence, I postulated it long before (decades before) I experienced it. The assumptions of other people perhaps preclude this authentic experience. As we know in science, our perconceptions determine the outcome. "God's in his heaven; all's right with the world." So they do not strive to see (as Castenada would put it). It is obvious, too, that for me the entire world and every thing in it had the potentiality for being transubstantiated, had I ever thought of it. Also, I long ago conceived of each person living in his own world or idios kosmos, so I can conceive without difficulty of the Kingdom of God having come for some genuinely, but still being invisible --not yet manifested to them-- to others.
+
+I therefore need never ask, Why did God go away? Or, When will He return? When will the Kingdom come? I have no reason to believe He ever went away. But we did fall away from perception (communication with) of Him, the great dialog, which must be based, for obvious reasons, on a perceptual and cognitive awareness that He is actually present.
+
+So what I've done (supra) is change the question from, How come I could experience God? to the question, How come other people can't? Which new version assumes my experience to be natural (however rare). What blocks or prevents others perhaps in their Worldview or presuppositions? Answer: plenty. As Joseph Campbell says about the Occident: "Only the dead see God." Lem may have noted and meant this when he spoke of me "finding in the gutter among the degenerate molecules a sacerdotal power buried for aoens." (Finding, I mean, in the trash of the gutter.) I trained my telescope (when the change came, via the Holy Spirit) down at the gutter instead of the the stars -- with outstanding results. Still, an extraordinarily important change from the status quo is indicated by the message, "Saint Sophia is going to be reborn again." God may be here, may never have left, but His wisdom, I would guess from this, will mount and prevail in the future. The schism between us and him --the fall-- will be ironed out. Perhaps the awareness, the experience, the dialog which I've had will become common to men. (Will my books have helped?) (UBIK, I guess, especially.) Back to Parmenides and the All behind the many (in St. Thomas, Jesus says, "I am the All."). . . The Logos, spinner of tomorrow, is most active in biological evolution, creating new organs of perception.
+
+. . The pyramid with the eye -- the eye through which the light body re-enters a human body; only one (Christ) was needed to start it.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Ubik, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, However, Wisdom, Perhaps, Like, World, Fall, Therefore, Only, Harpax, Paraclete, Book, Light, Could, Again, Kingdom of God, Reality, Kosmos, Being, Although, Great, Viewed, Without, Still, Their, More, Through, Most, Living, Heaven, Real, Actually, Before, Will, Would, Other, Somehow, Back, Many, Campbell, Have, Body, Instead, Having, Joseph, Dead, During, Human, Joseph Campbell, Right, Answer
+
+---
+### Line 1796-1804 (Match: 'Parmenides')
+**Folder**: part of
+
+```text
+Needs Review
+127
+I had heard about the promise of the Comforter (the Paracletos) and believed it; I always expected it to save me when there was no hope for me. Thus I was able to prepare myself to receive it. It came to the door as I always believed. When I read the religious literature I see that few people have faith that the Paraclete will come to rescue them, let alone that is exists. The Mission people are making a dreadful mistake, not believing in things unseen. How can they believe that God has abandoned man when He promised not to?
+
+I deduce that although the addicents (emperical surface of reality) show no progress, that in actuality, at the ontological level, the Holy Spirit constantly moves things forward in improvements which we cannot see, neither the Spirit nor what it achieves; therefore, below the surface lies constant progression toward perfection and completion, and this goes on right now, invisible to our eyes. The Parousia therefore are the culmination when all is prepared; God breaks through when the world has been made ready for him (which puts a new or different light on it). This is much like Parmenides saying one needs a "fiery soul" only in order to see Form one only. I did not really understand this truly until I read the wrong doctrine, by the Mission, that the Holy Spirit is not here. They go entirely on the surface, according to what seems so, to their eyes; but they should know better: going this way, God doesn't seem to exist at all. This is the essence of faith, not to see but to know anyhow.
+
+. . . The third or intellectual soul, described by Aristotle, one of three, the one which is immortal: engaged in contempation, of knowledge (philosophy) of god, of geometric forms...combined with Plato's notion that you can go to the slave boy and show him some therems of Pythagorias and he will remember; anamnesis -- what he will remember is these forms of contemplation; his third or intellectual soul will come on, with memory. To start this, something must remind him (such as a golden fish necklace and certain words spoken?). Is it possible that the Light Being by entering the third eye stimulates this third soul into coming to life, and thereby conveys immortality? Thus there is something inside (this third intellectual soul) and something outside (the Light Being or Holy Spirit), but it is inaugered from without. The fascinating thing about this view of what happened with me in 3 74 is it combined the Platonistic concept of anamnesis (the inner part) with Christianity, or anyhow the Holy Spirit (the external inciting living entity); certainly my experience involves intellectual matters more along Greek (Platonistic) lines than traditional Christian. The existence of the Spirit (an adventitious entity highly sentient) is indicated by the colloquy, such as that about St. Sophia. But also in 3 74 I served some great useful purpose for which I had been designed, did it and then passed on, really, to a postlude, my work achieved -- a success, without knowing precisely what it was I did; yet everything before that led up to it, and everything after is a falling away. The right moment, the exact spot and time: an endeavor not for me. And now what? A gradual crumbling away, but with a memory of having been successful, for that one thing to which all was aimed. At that instant it was all on the line; for me, my own immortal portion, my soul. Like a mechanism designed to do one job, perhaps one time -- and did it.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christian, Spirit, Holy, Christianity, Holy Spirit, Form, Sophia, Plato, Fish, Greek, Parousia, Golden, These, Perhaps, Like, World, Therefore, Golden Fish, Only, Time, Harpax, After, Paraclete, Faith, Light, Anyhow, Something, Reality, Being, Although, Everything, Aristotle, Great, Anamnesis, Without, Part, Their, More, Through, Soul, Living, Such, Certainly, Before, Will, Mission, Have, Things, Life, Memory, Neither, Form One, Having, Remember, Knowledge, Comforter, Doesn, Right, Until
+
+---
+### Line 1904-1912 (Match: 'Parmenides')
+**Folder**: part left
+
+```text
+How about a 3-dimensional moving color forming messages of construction and comfort?
+
+From a total relaxation (a giving up) of the automization of perception, the "model of the universe" each of us builds -- through weariness or despair or fear; it breaks down to reveal the koinos kosmos beneath, which to our surprise is like the Magic Garden. My contribution to Deikman's study of this is, We like to be able to recognize everything. To know (label) what it is. Our early textbooks teach us to do this (horse, cow, cat, mother). Once we have identified everything, then reality has passed away and we're in a world of the familiar, stuck there because we wanted it that way (it's frightening not to know where you are and what things are around you, when you're little). It's a form of scientific-magic; it depotentiates the menacing and the hostile by abolishing the unknown. The word (category, a sort of ersatz logos) replaces reality, as in TIME OUT OF JOINT; it's perceptual stereotyping. Lazy vision. The trouble is, sitting here for instance, I do know what each object is. I know its name. I know its purpose, what it does, etc. I can't unknow that this is a typewriter, this here my light, this, this over here the air conditioner. How am I going to get back -- regress-- to the Magic Kingdom ("Be as little children."). Well, switch from my left to right hemisphere, maybe. There are close-scrutiny techniques, of the visual mantra type (stare at one object for weeks). This at most, though, might provide methods or techniques for seeing what it there, beyond the semi-verbal model; there is still, upon having seen, the problem of conveying and comprehending it. I think we as a species really have "fallen, in that we are very cut off, from ma'at, from justice and order (and the voice of conscience telling us what is justice, what promotes order, what it truth); as Heraclitus asid, we are stumbling around asleep, unable to see the logos (that which ma'at through Ptah has built).
+
+. . . Parmenides' notion of the All and how it must be, contrasted to what we experience: he described it as radically symetric, which I understand as being the same everywhere. If this is so, then theoretically one could comprehend the structure of the whole upon any authentic
+
+Last edit over 5 years ago by Harpax
+139
+Needs Review
+```
+**Co-occurrences**: Logos, Form, Kingdom, Well, Maybe, Like, World, Because, Time, Harpax, Garden, Light, Could, Joint, Does, Once, Reality, Kosmos, Heraclitus, Being, Everything, Still, Through, Most, Voice, Upon, Mother, Universe, Very, Back, Beyond, Have, Things, Justice, Having, Truth, Magic, Right
+
+---
+### Line 2291-2299 (Match: 'Parmenides')
+**Folder**: part of
+
+```text
+Last night (June 2nd) I had a blissful truly mystical experience, which is probably the first one I've had in the strict sense, inasmuch as it was a state, an ASC, with vast understanding and comprehension as to how everything fitted together, but lacking any and all adventitious percept-system experience, as I had in 3 74 and 2 75. However, had I never had anything else, it alone (last night) would have dignified my life immeasurably. How to record it verbally, though, I don't know. It linked it all up. That's a lot.
+
+At basic realization: my 3 74 experience --the intervention by God in the world-- was not an anomaly, except in terms of my experience of it. That is to say, it was a natural, regular event, which I had just never seen before; however, it always goes on, went on, will go on forever. It is the perpetual re-establishment of equilibrium and harmony, relating to the Tao and to ma'at.
+
+Primarily, I began by realising that along the lines of Parmenides when he denied the testimony of his senses as regards to what is (in actuality, what exists), I realized that:
+
+(1) There is no visual (sense-organ) evidence of God at work anywhere in the world. (2) I must either deny that God, then, is at work in the world, or I must deny the evidence of my senses.
+
+I had been thinking about the Megiddo Mission people denying that the Holy Spirit is with us or had been for the last 1500 years, on the grounds that the world is obviously evil and in the hands of evil. It is true that the world so appears. From the evidence of our senses, God has abandoned us (which is what they really are saying). We are lacking Him and His assistance.
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, However, World, Just, Obviously, Everything, Either, Probably, Before, True, Will, Would, Mission, Have, Life, Evil, Except
+
+---
+### Line 2561-2569 (Match: 'Parmenides')
+**Folder**: book in
+
+```text
+Last edit over 5 years ago by Harpax
+194
+Needs Review
+194
+I describe it (as I wrote in the piece) and then it happens to me. Well, that isn't Jim Pike. UBIK was written before his death. It has a universality, and anyhow the last ad for UBIK tells us what it's about; it makes clear that Ubik is God -- actually Christ (before such was I am). The resemblance to UBIK was so striking and so great that there had to be a reason, which is to say a common root underlying both -- and I knew it without being able to explain it. Certainly Jim Pike didn't explain it. Also, there is another element in UBIK which I noticed in my 3 74 experience: the regression of things, i.e. things moving backward in time. (I don't think until now I noted both these themes as being in UBIK as well as in my 3 74 experience.) Thus the resemblance is even more startling and meaningful than I noted in the piece I sent Ursula. Surely in some fashion the same experience is taking place. Well, in the book, they are dead and experiencing the supernatural or spiritual or next or other universe/world. That I hit on the form-regression implies to me, right now, that the Holy Spirit (which moves backward in time) underwrote the book in some way, to cause me to insert that element. But I possessed no conscious concept or knowledge of Christianity which would have permitted me to depict is so essentially. Furrow, grave, cold-pac. This was a much later copula on my part. This is how it takes place, as in the book with them, stripped of the particularities of time & place. If one extrapolates, one has it -- proof: my 3 74 experience! As I say (supra) someone must call to you, a departed concerned boss or friend after you die; who else could that be but Christ? Only I heard his voice now, which is to say, as the Caris people say, in some fashion we are dead already now (spiritually dead, I guess). We are in cold-pac, I guess. This is why after the Ursula piece I dreamed whole scenes from UBIK. Of course, what I ask is, Is there any possibility that we are in a mutually hallucinated world, like the people in UBIK, a fake world, and that we are dead/have died, like them? After all, I did see this world as somehow cardboard, an illusion (vide Parmenides); is that the implication of what I saw? The womb-like place around us/me, with all the light-color signals, and word-signals being flashed to me? Are they trying to revive me, and for a moment I came to, then sank back?
+
+I think they roused me deliberately temporarily, not with the try to make it permanent at least then; I had work to do; it was a crisis, special situation "the trumpet's loud clamour doth call us to arms!").
+
+What I was inside, like a great living whale, must have been Brahmin.
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Holy, Christianity, Holy Spirit, Form, Well, These, Like, World, Only, Time, Harpax, After, Book, Light, Even, Could, Anyhow, Both, Being, Great, Without, Part, More, Another, Pike, Living, Such, Voice, Actually, Certainly, Before, Jim Pike, Death, Universe, Would, Other, Somehow, Back, Surely, Have, Things, Fake, Later, Knowledge, Dead, Right, Someone, Until
+
+---
+### Line 2807-2815 (Match: 'Parmenides')
+**Folder**: Book of
+
+```text
+Needs Review
+214
+-3-
+
+one ever the other (roughly, yang or life or love or attraction over yin or death or coldness or decay). Form One of Parmenides: the dry or fiery principle. What kind of world would we have, then? Quite different. I saw (3 74) the two contending forces. I think a victory was scored by Form One (Christ), but was it the victory, or only one along a developing (evolving) process? (See intro to Slavanic "Secrets of Enoch.") Balance of contending moral forces struck for one day (or 1000 years, after which (sic) time is abolished). Note: balance, not victory by either side: balance. Or: palintonos harmonie.
+
+That there is another (eternal, i.e. outside of time, unchanging) universe (Plato’s real world) I am certain, by experience, but whether its "will" or nature will superimpose on this world eventually, literally enfolding it, I can’t figure out (Augustine versus the literal millenialists). I ask: do we go there (as Augustine figured, to the City of God) or does it finally come here?
+
+••• The obvious has eluded me. The left hemisphere, processessing and experiencing (perceiving) digitally, experiences linear time. The right hemisphere, working on an analog or pattern basis, experiences either another kind of (non-linear) time or else timelessness itself. I somehow (3 74) extinguished the left-hemisphere self-system (ego), and obtained, not bi-lateral hemispheric parity, but first the annihilation of the left-hemisphere self system, but then the coming into full firing (via the w.s. vitamins?) of the right, which many men have sought but few have found (the Mantra must have helped). And thereupon the universe was seen inside out, and time flowed backward! Viewed inside out specially, and flowing backward temporally, entirely new gestalts (patterns or entities or forces) were visible to me, as if one had suspended trying to read Hebrew from left to right and abruptly read it (properly) from right to left, etc. Since left-h. linear time, as is scientifically known, leads toward entropy, then I saw movement toward the formation of growth, or entelechies. Of the assembling of chaotic parts into wholes. Not only that, I saw saw the assembling force (the Logos) and the counter-force as well (unnamed), these two forming, I think, a dialectic of strife as Empedocles expressed; perhaps the Logos was above both (which twe then could be viewed as yang and yin, etc) and made use of their interaction and contention to build with and on and by means of. But this only visible from right-h. apperception of time flowing backward, and the special properties reversed as well. Left-h time apperception sees flow and change, evolution and process, but not the constructs of the process, since the process (which is real) is viewed in the wrong direction, as a decomposing one (like a tape or film run habitually backward). To the left-h, things pop into being in time and then pop out of being, meaninglessly, going nowhere; but to the right-h sense of the process (reversed), assembling, and toward a goal, is clearly visible. The goal is total assembly of everything into a single entity, probably a totally stable (palintonos harmonie) gestalt or kosmos. But the con¬ structs or gestalts being formed — although the entity at work operated in reverse time, those gestalts lay in our linear future. it was "writ¬ ing backward" to arrive at cur terminal end. 5
+```
+**Co-occurrences**: Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Since, Only, Time, After, Gestalt, Yang, Could, Does, Hebrew, Both, Kosmos, Being, Empedocles, Although, Self, Everything, Either, Augustine, Probably, Viewed, Those, Their, Another, Real, Love, Death, Universe, Finally, Will, Would, Other, Somehow, Were, Many, Have, Clearly, Things, Life, Form One, Whether, Dialectic, Right
+
+---
+### Line 2825-2833 (Match: 'Parmenides')
+**Folder**: Book of
+
+```text
+My Nazi, porno, underground cartoon, homosexuals, etc. dream last night suggests that it is how one views reality which determines which reality (idios or koinos) one experiences.
+
+Would the koinos be a group mind, like the noosphere? Yes it would. This is what we would notice most in entering it: that's what "koinos," the word itself means: shared. Head shared mind instead of shared physical world. And this is what I felt (the noosphere) I entered back in 3 74. In fact I felt the material world cease to be material but pellucid, a glimmering through. The material substantiality which we perceive is a symptom of the idios. But I cannot achieve entry into this but rather God or the Logos through His act of grace must lead me there. Hence the pylon doorway I saw at that time: the narrow way meaning Christ. And few men are saved; the work of salvation for mankind is far from complete. If by "salvation" is meant losing the idios and entering the koinos, where you cease to be the epicenter. This means that Christianity can be viewed in terms of Heraclitus' admonition to leave the idios and wake up to the koinos, the idea of the Logos as Redeemer itself acting to bring man/men in.
+
+The graphics 3 74: I, a station, was signalled to fire (act) in response to a stimulus (the Xerox letter). A station in a vast system or network. I was then aware of being linked or hooked in to a system or mind, and that I had been "disinhibited" as I called it then actually I was as I now put it signalled, but I as a station in a network So of course for a time (3 days) I saw the system itself of which I was one of many stations, and was aware of the "traffic" of signalling going on. The veil was lifted because I had been signalled to fire (act in a very specific and complex way; I was given information-rich signals, for complex activity. This revealed to me the War in progress, which is how I see it; my response was combative to the stimulus (letter). Mostly, this bears out the Zoroastrian Sons of Light vs the Sonys of Darkness and their struggle. Prior to this, for several years, I had either been on hold, or was being moved into proper position in spacetime for this evidently important (to the overall picture) response. Naturally, this exposed for me temporarily the true nature of reality, compared to the merely manifest or evident, bringing me to Parmenides, the true being so radically different. 1 can’t doubt the two-entities in their struggle. But it is veiled under convention struggles, probably cutting across all manifest lines.
+
+Last edit almost 5 years ago by svayambhu108
+
+216
+```
+**Co-occurrences**: Christ, Logos, Complete, Xerox, Christianity, Like, World, Because, Time, Mind, Light, Reality, Heraclitus, Being, Either, Zoroastrian, Probably, Viewed, Grace, Darkness, Their, Through, Most, Actually, True, Would, Very, Back, Under, Many, Information, Instead, Days, Sons, Dream, Salvation, Evidently
+
+---
+### Line 3237-3245 (Match: 'Parmenides')
+**Folder**: book by
+
+```text
+already, in the cats (esp. pinky). So many indices. But this all means: Christ reigns now; the Lord has come back! He didn't topple the tyranny and then leave; his reign begins, now. This is the good news, as of the JWs. The godspell.
+
+I can substantiate this, that Christ is here. The JWs know it by historic and Bible analysis and by faith; I know it by experience. I was your perfect mad fool for Christ, and I did pay for my resistance; i.e. Nov 17, 1971, in which I lost everything I owned, and was subjected to great hassible by the authorities (the ir leg). I was driven from my land, made an exile in fear, made penniless and a wanderer. I keep forgetting this; I not only risked, I actually paid, almost with my life. When you reflect on that (it appeared in the book by my friend Paul in an early visionary dream: "A Marin County writer will have troubles..." etc), you can better see how I came to be picked in 3-74 for a reward; I hope this isn't hubris, but I did pay heavily for my anti-war stand, and that is a fact. That was the well-documented Time of Great Tribulation — cut short in 3-74 by God, to spare me. And then the restoration of all things began. My last act against the regime was when I fired off TEARS and it was published. So from the standpoint of efficient causes the experience can be understood (a reward following what I did and what was done to me), and also in final-cause terms, it gave me wisdom and strength to do what I still had to do; such is the dovetailing of a true cosmos.
+
+In 28 months I've created an enormous exegesis of my 3-74 experience, which is what you are supposed to do: subject the mystical to the rational and see what comes of it. Look where I wind up. Now what can we expect? A return of the early saints, such as St. Luke — I believe this, too, has happened, and that I witnessed it in regard to one of them anyhow. The tribulations occured; the intervention and judging occured; the throwing down of the Prince of This World occured; now the millenial age is with us, but just as secretly as was the rule by Satan (as the JWs point out). I saw that millenial age in the palm tree universe. The Secret Garden, as I have called it: The Kingdom of Christ or God. But to appreciate this age completely we would have to have experienced where we'd be now if God hadn't intervened: probably completely downtrodden by the tyranny, our freedoms gone, and probably at war. It is the contrast which reveals, and we will never experience the contrast. Like me personally, we have been freed from a prison before it was built; God interceded in advance. So we can only guess what the alternative world would have been like. I personally would not be here at all. In DEUS IRAE the vision of the palm land,’the Holy Land, by Dr. Abernathy, signifies that the curse has been lifted; I deduce that my seeing it indicated too for us or for me, too. This is how the world ought to be; or, put another way, this is how we ought to see/experience it (Form One of Parmenides). The tyrant Nixon "died," like Lufteufel in the novel...and the curse was lifted; it is another absolute sign of the end-times.
+
+Last edit almost 5 years ago by svayambhu108
+252
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Holy, Form, Kingdom, Paul, Satan, Well, Bible, Wisdom, Lord, Like, World, Prison, Only, Time, Nixon, Faith, Garden, Good, Book, Pinky, Anyhow, Just, Look, Luke, Everything, Great, Probably, Palm, Deus, Still, Another, Such, Actually, Secret, Before, True, Irae, Universe, Will, Would, Back, Many, Have, Tree, Things, Life, Absolute, Form One, Deus Irae, Dream, Final
+
+---

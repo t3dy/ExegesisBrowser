@@ -1,0 +1,349 @@
+# Evidence Packet: Hagia
+
+- **Category**: Top Term
+- **Total Mentions**: 83
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 8243-8251 (Match: 'Hagia')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+128
+Needs Review
+128
+20 God descending to corporial manhood - the division between the 2 realms abolished (i.e by Christ, who could then work backward in time, to, say, the pre‐ Socratics + incorporate them - such as Empedocles). So those selected for inclusion into this Hagia Sophia - they are immortal! Paracelsus, Erasmus, Asklepios - no wonder I was confused as to who had "entered" my mind." Jim Pike was there, + so was tony Buucher: I guess many people would agree it exists after death, you can join it after death. But who is aware that + (for some) it can be joined before a person dies, +, when it does, it can become his psyche, determining his actions + doing his thinking - becoming the mind in his body? Thereby it enters human affairs (+ can modulate causal chains externally as well). My God - that means that the two realms heaven + Earth are not (any longer] divided! God's will is [now] exercised here. I wonder how long that's been so. Back again to the idea that 2or 3-74 was the Parousia!
+
+Last edit almost 3 years ago by svayambhu108
+129
+Needs Review
+```
+**Co-occurrences**: Christ, Sophia, Well, Parousia, Time, Earth, After, Mind, Could, Does, Again, Empedocles, Tony, Hagia Sophia, Those, Paracelsus, Pike, Heaven, Such, Before, Jim Pike, Death, Will, Would, Erasmus, Back, Many, Body, Human
+
+---
+### Line 9187-9195 (Match: 'Hagia')
+**Folder**: part will
+
+```text
+Last edit over 5 years ago by sekennedy62
+15
+Complete
+15
+My "2 source cosmogony / cosmology" which I just sort of dashed off wasn't based on logic or observation (in the usual sense, as with philosophical systems) but stemmed from revelation by way of theophany + theolepsy. In which case it may never be possible to define my 3-74 to 2-74 experience in any traditional terms, even christian. I have but one name given me: Hagia Sophia. It seems to be female. In my "2 source" system I define it as the psyché of the healthy, clockwise - spinning twin. This is not Xtianity. This is not any known system. For instance, if Sophia is equated with christ, then the slain, deranged twin (II) evil psyche is the brother / sister of christ: i.e. satan + christ are identical or fraternal twins! No one has ever proposed this before - unless this is the true, hidden gnosis never revealed in all history openly.
+
+It's like Seth + Horace. Vishnu + Shiva.
+
+No it's not. It's new. It's either new, or has been a well-kept secret. + what if I'm right that the one (the real creator) slew the deranged psyche of II's. This can't be equated with Taoism - although in some respects it borders on it.
+```
+**Co-occurrences**: Christ, Christian, Complete, Christianity, Sophia, Satan, Well, Like, Gnosis, Even, Just, Taoism, Shiva, Although, Hagia Sophia, Either, Creator, Real, Secret, Before, Revelation, True, Have, Evil, Unless, Right
+
+---
+### Line 9195-9203 (Match: 'Hagia')
+**Folder**: part will
+
+```text
+No it's not. It's new. It's either new, or has been a well-kept secret. + what if I'm right that the one (the real creator) slew the deranged psyche of II's. This can't be equated with Taoism - although in some respects it borders on it.
+
+In some respects it's totally opposite from Gnosticism. The deity is here, + the world is half good. So much for Gnosticism + Mani.
+
+I have a secret conviction that Zebra is Christ, invisibly returned, + not what we've been told about him (her - Hagia Sophia). Aphodite has returned, regaining her rightful power (of love) over the male war gods. It is the "darling creature, the First Created + Most Loved by God" of Prov 8 + "Wisdom of Solomon." Jesus was a disguise he took now she is everywhere. Being a projected hologram - she can take any form she wishes, inc. an animal, + she dies with us, for us, as us - this above all: she as a sacrifice for us at the dread hour (as in 3-74).
+
+Last edit over 5 years ago by sekennedy62
+
+16
+```
+**Co-occurrences**: Christ, Zebra, Jesus, Form, Sophia, Well, Gnosticism, Wisdom, World, Good, Taoism, Being, Although, Hagia Sophia, Either, Gods, Creator, Most, Real, Secret, Love, Deity, Have, Mani, Right
+
+---
+### Line 10256-10264 (Match: 'Hagia')
+**Folder**: part of
+
+```text
+So my 3-74 revelations although related to Xtianity do not fit conventional historical Xtian models. I have 2 reasons to identify it with Xtianity:
+
+1) "Thomas' " memories of Christ + knowledge of Xtian sacraments + fear of the Romans; +
+
+2) the revelation about Hagia Sophia.
+
+If it is Xtian, then the Lord has invisibly returned + is judging. But I think we're at an uniquely, wholly new stage of theophany (epiphany?) in human history [..] can't fit all this into existing categories. This is a vast element of the new. The surprising - we are taken off guard (but this was predicted! These exact new + unexpected aspects were alluded to in the N.T. it may be that the extent of the new, the unexpected, were not appreciated.
+
+Last edit about 5 years ago by sekennedy62
+```
+**Co-occurrences**: Christ, Christian, Thomas, Christianity, Sophia, Roman, Lord, These, Although, Hagia Sophia, Revelation, Were, Have, Knowledge, Human
+
+---
+### Line 10892-10900 (Match: 'Hagia')
+**Folder**: part or
+
+```text
+Last edit almost 3 years ago by svayambhu108
+22
+Needs Review
+22
+27 bulgakou (supra) also believed "that Sophia guides history by a kind of necessity." mediating between the absolute + the cosmos, uniting them both within itself, is a "3rd being - Sophia, the principle of divine reason." + "She is the principle of the divine within the created" - + "she animates the cosmos, which is an organic whole; sk, what is achieved by elevating the concept of Sophia so much? 1) A feminine hypostatication is achieved. 2) Wisdom is placed above power (omnipotence), so that we wind up with a totality guided by what Plato called reason or Noos, etc: mind as thought, not force which compels. The way is opened for a de-materialization of all reality; even God, the absolute, is subsumed by wisdom, + a female principle of wisdom at that. It's a very beautiful picture, Athene + aphrodite combined, demeter, more + dike. This certainly fits my view of the universe expressed in my vancouver speech. the original great mother is reintroduced, finally - it took thousands of years. + the secret which was revealed to me: that The God-side of Christ is female (i.e. Hagia Sophia). I can't help recalling what we reich says about the humane quality of a society which is devoted to a female deity vs the harsh solar masculine deity. The presiding (animating) force of our world is female. It also (she also) mediates between us + the absolute (God). + whatever we find in our world which is divine is Sophia. But there is a chaotic element (ananke) which Divine wisdom must subdue, the blind but powerful antagonist which is persuaded in such a way that it wends up serving the divine plan, the structure of which it cannot predict, fathom or determine
+
+Last edit almost 3 years ago by svayambhu108
+23
+Needs Review
+```
+**Co-occurrences**: Christ, Sophia, Plato, Wisdom, World, Noos, Mind, Even, Both, Reality, Being, Hagia Sophia, Divine, Great, More, Such, Certainly, Secret, Mother, Universe, Finally, Deity, Very, Whatever, Absolute, Aphrodite, Ananke
+
+---
+### Line 10898-10906 (Match: 'Hagia')
+**Folder**: part or
+
+```text
+Last edit almost 3 years ago by svayambhu108
+23
+Needs Review
+23
+23 If St. Sophia 1) animates the universe; + 2) mediates between the cosmos + God. Then our experience of the divine would be of St. Sophia (or through). Perhaps, then, my experience was authentic. Let us say that the sophiologists are correct. What we will experience is Christ, the Logos, but contained within him (so to speak) is the female figure of St. Sophia. The great mother retreated out of sight behind the figure of Christ, + rules the cosmos invisibly. Yet she disclosed herself to me: 1) The Sibyl (visually) 2) the female (or non-male) voice 3) The "St Sophia" prophecy itself. Then a great revelation has been made to me: female hypostasis of God, which is unknown in + to the the whole modern world. It has been thousands of years since she was believed ins There is no doubt that the concepts "Hagia Sophia" + "the Logos" are identical - Philo taught that the Logos acted as intermediary between us + the unknow‐ able God, which role is ascribed to Hagia Sophia - + the Logos is readily equated with Christ I have just read the E of Ph article on evil. 1) evil + suffering both exist. 2) If God is all-knowing, all-good + all - powerful, how can evil + suffering be explained? 3) They can't. Therefore either 1) God is not all powerful. 2) or He is not totally good 3) or He is not omniscient starting with the existence of evil + suffering as premise we must void at least one of the 3 total aspects of God does not in fact apply. It does not prove that no God
+
+Last edit almost 3 years ago by svayambhu108
+24
+Needs Review
+```
+**Co-occurrences**: Christ, Logos, Sophia, Perhaps, World, Since, Therefore, Good, St Sophia, Does, Philo, Just, Both, Hagia Sophia, Divine, Either, Great, Sibyl, Through, Voice, Revelation, Mother, Universe, Will, Would, Have, Evil
+
+---
+### Line 14368-14376 (Match: 'Hagia')
+**Folder**: folder 02
+
+```text
+If the fall consisted of forgetfulness [Note], then it stands to reason that restoration to man's original lost state (when he was in touch - not with #1 - but with #9) consists of anamnesis, the _removal_ of forgetfulness. Memory = life. Lethe = death. If, because of certain things seen + heard, one begins to throw off forgetfulness (+ awaken + recover his original faculties + powers) one would ascend back up the levels of reality, from #1 until at last he again reached #9 + became restored to the Ground of Being. In this schema I have not used the term God except once. It is not necessary, since, I think, it stands for _several_ of the levels + hence is too imprecise to be communicative.
+
+[Note] Perhaps through a poisoning (although only metaphorically so), ailment or warpage
+
+In my opinion, one's ascent back up is initiated by the macro brain + not by man. He cannot on his own find his way home, he must be led back, like a blind man who can't discern the trail he followed down. The key to what is lost is _wisdom_ (Hagia Sophia). What we need is her rebirth. She is identified with Christ as he-who-restores (saves) lost man. (+ Logos #5.) (There is a connection between #5 + #8 + possibly #2.)
+
+Last edit over 9 years ago by Toso
+folder 02 - 080
+Complete
+```
+**Co-occurrences**: Christ, Toso, Logos, Complete, Sophia, Perhaps, Like, Since, Fall, Because, Only, Folder, Once, Again, Reality, Being, Although, Hagia Sophia, Toso
+Folder, Anamnesis, Brain, Through, Ground, Death, Macro, Would, Back, Have, Things, Life, Memory, Except, Until
+
+---
+### Line 16291-16299 (Match: 'Hagia')
+**Folder**: folder 22
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+
+folder 22 - 116
+1) The proof that the plasmate did not crossbond in 2-3-74 but much eartier is is tears" for sure, + also perhaps "Ubik 3-74 it just epiphanized to deal with in the "Paranormal" trap. salespitch the middler eers we recall mechanism Ahance foot So the plasmate is not gone, it didn't come for The 3-74 situation; it was there before 3-74. + is There still: phylogenic (transpersonal) memories - identity. are recapitulated in the plasmate. - Christ (form I) upon slaying the yin form II twin, must (as an androgyny) divide (by Mitosis) into both Form I + Form II. As the replacement Form II he takes a female form, the Fourth hypostasis: St. Sophia! Hagia Sophia (Holy Wisdom) is separate from the Logos as the sophiaists of the Greek orthodox church realized? Christ as the new form II yin replacing the old original one which he slew (it had degenerated t into mere astral determinism: a prison The BIP which I saw the true apostolic Xtians assaulting. It all fits together. Right now the St. Sophia + Logos natures of Christ are
+
+Last edit almost 3 years ago by svayambhu108
+folder 22 - 117
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Holy, Logos, Form, Sophia, Greek, Wisdom, Perhaps, Prison, Folder, Holy Wisdom, Just, Both, Hagia Sophia, Still, Church, Upon, Before, True, Right
+
+---
+### Line 19908-19916 (Match: 'Hagia')
+**Folder**: folder 08
+
+```text
+Last edit about 8 years ago by Toso
+
+1
+How can I doubt it's Christ? the vision of Acts, the Acts material in "Tears" the AI voice which is unique to Xtianity, thomas' theology, + his knowledge of Jesus, & his performing, the sacraments, &, above all, the plasmate: the Blood, which is Living Information i.e. the Logos, the prophecy about St. Sophia, the two secrets: 1) that I am an early Xtian; & 2) Christ's female nature, in a Male Body - i.e. Hagia Sophia, the revelation, pertaining to Elijah & Mt Carmel, the Koine, & the "King Felix" cypher, Visions of the Lamb, the root - but most of all, in a sense, anamnesis re the Fish Sign, which triggered off everything. & the Easter Bells, & vernal equinox.
+
+Regarding Thomas & the world of Acts, I remembered truly, my actual past - not the PKD me derived from this flame & from that Past Life (which had just now happened, not 2,000 years ago) I inherited - not Bad Karma - but Good Karma. Leading to my Enlightenment, via Grace, following the Laws of Ma'at in 3-74. What I did, thought and had as Thomas at the time & place of Acts led to my salvation in 3-74 - just an instant later: directly causally connected: as if Grace itself was determined by my former (prior) thought formations. My past as PKD was a form of maya: inc amnesia regarding my true past (immediate true past).
+
+----------
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Toso, Thomas, Logos, Jesus, Christianity, Form, Sophia, King, Fish, Felix, Elijah, World, Time, Good, Karma, King Felix, Just, Maya, Hagia Sophia, Everything, Anamnesis, Grace, Most, Living, Voice, Revelation, True, Easter, Life, Body, Information, Later, Knowledge, Blood, Salvation, Lamb
+
+---
+### Line 22990-22998 (Match: 'Hagia')
+**Folder**: book of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+176
+374 Thus as Christ substitutes himself for us when each of us dies. The serpent substituted itself for Jesus when he died. Thus Christ lives The Empire is the serpent; i.e. the serpent turned itself into the Empire (iron). God is the serpents (Satan's) father, as he is Christ's father. the serpent climbed onto the cross (tree) only to have God remove himself + disown (forsake) him; So the serpent cried out in anguish. Therefore I say, Christ did not die on the cross the serpent expected God to save him, since he was God's son, but God did not. The entire ostensible Xtian church is the serpents (i.e. it is actually the Black iron prison the spear + Empire) but below those levels is the fish unharmed. Reality is very complex. The Fish is sliced up, surrenders slices of itself to feed the faithful, + suffers pain, but does not die - as Satan did Christ (Thomas) replaced me at the time of my death in 3-74 + again outsmarted Satan by guessing (solving) the riddle (the Xerox missive as to which was -a- + was not - A-) what it was in his female role as Holy Wisdom, the wisdom of God (female). As Pantocrator he adjudicates + has the power to exculpate based on the books which I saw: the Sibylline texts in which all is con‐ tained. He alone has access to the books. + he can enter you in the lambs book of life, as he did me. Upon adjudication + exculpation; "the "- the wise old King court sat + the books opened in the "Tears" dream. God worked it so that the serpent's riddle was mistakenly sent to Hagia Sophia, God's wisdom A postiori knowledge was lacking it aprior if who sol
+
+Last edit almost 3 years ago by svayambhu108
+177
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Thomas, Holy, Jesus, Xerox, Sophia, King, Fish, Satan, Empire, Wisdom, Father, Since, Therefore, Iron, Prison, Only, Time, Black, Holy Wisdom, Book, Does, Again, Reality, Missive, Hagia Sophia, Black Iron Prison, Xerox Missive, Himself, Those, Pantocrator, Church, Upon, Actually, Death, Very, Have, Tree, Life, Wise, Knowledge, Cross, Iron Prison, Dream
+
+---
+### Line 23404-23412 (Match: 'Hagia')
+**Folder**: part was
+
+```text
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+37
+432 show up in my writing. In 1959 when I wrote "Joint" I was already in a world of recirculating memories which explains the material in "MITHC" "Faith" "Ubik" "Maze" "Tears" "Scanner." Hence I not only wrote about the Xerox missive in "MITHC" + "Faith" but knew the exact day it was coming. I was already in a world of recirculated memories this time proof? My epistemological skepticism going back to "Exhibit piece" + "Eye" you know, a clever brain could make use of the fact of this feedback recirculation to exercise a little self-protecting precognition. i Q: Why are so many - very many - of the elements of 2-3-74 found in my corpus of writing: projected A: the "world" that I inhabited in 3-74 was a mind. it was my own unconscious; i.e. it was a mind in me that was not my conscious ego Fine. Granted. But I say, that mind was cosmic + divine + not a merely human mind, much less unconscious. Therefore there is a cosmic divine mind in me, which generated the writing + was the "world" I inhabited in 3-74. therefore the basis of my mind, first experienced by me in 3-74 is deity. I will admit to projection. What I will not admit to is mere subcon‐ scious. This was Hagia Sophia herself - projected as "w i orld. was
+
+Last edit almost 3 years ago by svayambhu108
+38
+Needs Review
+```
+**Co-occurrences**: Tears, Ubik, Xerox, Sophia, Maze, Scanner, World, Therefore, Only, Time, Cosmic, Faith, Mind, Could, Joint, Missive, Self, Hagia Sophia, Divine, Xerox Missive, Corpus, Brain, Will, Deity, Very, Back, Many, Human
+
+---
+### Line 24072-24080 (Match: 'Hagia')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+152
+Needs Review
+152
+93 Gospel's account of the light (Logos - Hagia Sophia) penetrating the darkness ach! There is the dialectic; from iran to Qumran. CK EB on 4th Gospel. "truth vs lie, light us Darkness" - Zoro‐ astrianism to Qumran to St John's Gospel. Valis is Ubik. Ubik specifically says, "I am the word" - i.e. Logos is Valis is the Logos, which is the wisdom of God, entering creation + then becoming the Paraclete while remaining God + the Logos. But it was initially rejected ("the was not acceptable before."). So it makes a second, victorious (i.e. successful This is Valis! (+ Ubik") v. the entry, I dream in "Tears." Then "Valis" (less cryptically than "Tears" but like "Ubik") depicts this 2nd, successful fact accomple entry. 4:30 am thought. vis-a-vis the Xerox missive allowed a us army override or they - the us army - would have kaled me. The dreams about the 3-eyed people were blocked memories coming to the surface of interrogation us ar interrogation, be the Russians. I had info to pass on to the Russians; the army blocked this The Xerox missive wasn't sent by transfer. an intelligence officer in the army; he intecepted it + blocked it - my response to
+
+Last edit almost 3 years ago by svayambhu108
+153
+Needs Review
+```
+**Co-occurrences**: Valis, Tears, Ubik, Logos, Xerox, Sophia, Wisdom, Like, John, Paraclete, Light, Gospel, Missive, Hagia Sophia, Xerox Missive, Darkness, Before, Would, Creation, Were, Have, Info, Dialectic, Truth, Qumran, Dream
+
+---
+### Line 24095-24103 (Match: 'Hagia')
+**Folder**: book with
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+156
+897 upon reflection I think that the supra 5:00 am vision was not OCCP. I was handing a Bible to someone, not technical papers + it was it was a finished to a man not a woman. book with contents that were not new but rather sanctioned scripture was depicted. authoritative. It was like the King James Bible kee. + I gave my mother years ago. what it seems to be saying is that the infor‐ nation in me is religious in nature. That what we are dealing with is further divine revelation, It is to be printed in not classified documents. a public way. It is printed in a public way. The Logos enters (invades) its creation - has already invaded it at an earlier date + assimilates it through transubstantiation. In this process an antithetical dialectic is involved between foresighted Wisdom + hindsighted stupidity, this foresighted wisdom being the creative Logos pitted against creation which has a non-intelligent will; it is reason vs blind striving. Logos (Hagia Sophia) progressively has captured more + more of creation until now it steers commandingly in an invisible, pervasive way. Creation perpetually passes over to its jurisdiction. The Logos is not located in one place; it is a ubique field Waxing: its "tugh grows equally everywhere, as it fits things into + place. (Cosmos. V. Pythagoras. It combats its own dark (yin) side. The dialectic I saw are its own two natures locked in antithetical combat, out of which activity all change is generated. Time itself is created; spare is converted into time. The two aspects are sufficiently separated so that we can align ourselves with the light (form one, yang)
+
+Last edit almost 3 years ago by svayambhu108
+157
+Needs Review
+```
+**Co-occurrences**: Logos, Form, Sophia, King, Bible, Wisdom, James, Like, Time, Pythagoras, Book, Light, Yang, Being, Hagia Sophia, Divine, More, Through, Upon, Revelation, Mother, Will, Creation, Were, Further, Things, Dark, Form One, Dialectic, Someone, Until
+
+---
+### Line 24231-24239 (Match: 'Hagia')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+179
+Needs Review
+179
+He has penetrated into our world of darkness (uns). The universe that I abreacted to was more real than this. Why? If the prime bestowal of wisdom is shrewdness - this implies that reality is not what it seems. is Valis trying things out on us to see if we can discern them as fakes? (Cf Lem's paradigm: could the brain detect The spuriousness of the reality being Fel to it?) In that case the Xerox missive was the supreme test for me in this lifetime, toward which everything moved did so discern: that it was fake I suppose the test had supernatural overtones; + It was the test of my function, my primary ability, which I had developed - or rather which had been developed in me - over decades: the matter of fakes. My salvation (whatever that means) depended on the outcome. It had the quality of ritual, solemn high initiatory ritual. a greater person in me, as me, than I knew existed, was being tested: my macro-self in its entirely. Like a component part, having been made, now receiving its crucial test - will it work or not work? In my case, can I tell this is a fake, given no clues? A perfect fake. so only pure shrewdness would suffice. Then Holy Wisdom would have to live in me for me to pass. Perhaps what was being determined was whether Hagia Sophia did orded viewed as us ta old Sophia live in me unction.
+
+Last edit almost 3 years ago by svayambhu108
+180
+Needs Review
+```
+**Co-occurrences**: Valis, Holy, Xerox, Sophia, Wisdom, Perhaps, Like, World, Only, Holy Wisdom, Could, Suppose, Reality, Being, Missive, Self, Hagia Sophia, Everything, Xerox Missive, Viewed, Brain, Darkness, Part, More, Real, Macro, Universe, Will, Would, Whatever, Have, Things, Fake, Whether, Having, Greater, Salvation
+
+---
+### Line 24237-24245 (Match: 'Hagia')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+180
+Needs Review
+180
+8 not hypostasis: like luck or precognition, etc. Then the epiphany of Hagia Sophia was not the means but the goal; the test was not the goal but the means. Having - being? - Hagia Sophia, then, is regarded as a state or even degree or level of spiritual existence, the ultimate to be sought for. Like a kind of spiritual birth (metamorphosis). s in hypnagogic state I was granted a vision of how the system works. living creatures must have cognitive + percept systems which give them only approxi mate knowledge of the outer world; otherwise kinetic life would cease; viz: if owls knew absolutely were where chipmunks, + chipmunks knew absolutes where owls were, all owls could catch all chip. monks, + all chipmonks could escape from all owls, so neither owls nor chipmonks could exist. It is necessary that some owls catch some chipminks, + some chipmonks escape some owls for both species to survive. (Like a pitcher none of whose pitches can be hit pitching to a batter who can hit any pitch; the situation would seize!) So a given amount of cognitive throughout!) he + perceptual occlusion must exist within t biological realm. However, Hagia Sophia can judiciously introduce that very quality of absolute knowledge (cognitive-percept cojoined) at certain times + places in the total system, whereupon at those times + those places - i.e. those situation - approximation (+ occlusion) gives way to knowledge: i.e. occult absolute shrewdness (in pr the of the meaning s terd is
+
+Last edit almost 3 years ago by svayambhu108
+
+181
+```
+**Co-occurrences**: Sophia, However, Like, World, Only, Even, Could, Realm, Both, Being, Hagia Sophia, Those, Living, Would, Were, Very, Have, Life, Absolute, Neither, Having, Knowledge, Otherwise, Chip
+
+---
+### Line 24399-24407 (Match: 'Hagia')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+208
+Needs Review
+208
+991 6) why I knew the Xerox missive was going o come + to the precise day. a principle is involved, here (as revealed in the details about the Zoroastrian dialectic): apriori knowledge defeater a posteriori (contingent) knowledge wherever the two come into conflict: the former will inexorably drive out the latter. For example, no ecosphere can survive the introduction of an organism capable of knowing reality on an a priori basis: approximate knowledge is essential to inter-species + intra-species competition. Hence occlusion is necessary if creatures are to compete. on the other hand, is pluralist competition necessary as the goal-state of evolution? Teilhard may be right: there is a final convergence to one vast subsuming organism. (Which I see a priori knowledge of the outer world inexorably inducing. I Jesus' description of the Paraclete (+ "the Spirit of truth") in John precisely describes a being possessing this absolute a priori knowledge of all reality, moreover, Jesus says that the Paraclete will make this [kind of] knowledge available to the disciples (here a relationship to Hagia Sophia hence to the Logos is clear). but the revelation wasn't that a priori would vin if they were in conflict, but that they are in conflict. So absolute knowledge is locked in com‐ bat with approximate knowledge + will win. Then the evolution of the universe is away from approximate knowledge ("the lie") to absolute: to a total congruen between what is + what is known - which in the final nalysis is self-awareness since no contingent knowledge remains. Then deity, as in John I, would have to penetrate its own creation + assimilate it. his is exactly what Valis was doing
+
+Last edit almost 3 years ago by svayambhu108
+209
+Needs Review
+```
+**Co-occurrences**: Valis, Spirit, Logos, Jesus, Xerox, Sophia, World, Since, John, Paraclete, Reality, Teilhard, Being, Missive, Self, Hagia Sophia, Xerox Missive, Zoroastrian, Revelation, Universe, Will, Deity, Would, Other, Creation, Were, Have, Absolute, Knowledge, Dialectic, Truth, Final, Right
+
+---
+### Line 25528-25536 (Match: 'Hagia')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 130
+924
+
+experienced; as the Sufis are to Islam. But Bishop Arrius was correct; we should worship YHWH, not Jesus. Jesus was a high priest, "the Son of Man." Jesus is the way, to YHWH, with whom (YHWH) we have the covenant; he is the guarantor of the world, + all power comes from him. Jesus however was Hagia Sophia: God's Wisdom. I reject the Logos doctrine as Hellenistic. This is what my revelations tell me. And Trinitarianism is incorrect. Nonetheless I believe in the Shekhina, which is my AI voice, the spirit of YHWH. All is YHWH. + the essence of YHWH as we experience it is in the form of providence -pronoia- which is based on God's total power over reality + his covenant with man through natura, not despite natura. Therefore unless the Xtian experience is as mine was in 2-3-74 it is not Xtian. (E.g. the larger, older universe). __ 3-74 was not seeing another world, but was another way (v. Parmenides) of seeing the one + only world, i.e. seeing it more completely. What I saw is here all the time, but our senses don't report it. My seeing the Kingdom is proof of Parmenides view that normally
+
+Last edit almost 7 years ago by Toso
+
+folder 48 - 131
+```
+**Co-occurrences**: Christian, Toso, Indexed, Spirit, Logos, Jesus, Form, Sophia, Kingdom, However, Wisdom, World, Parmenides, Therefore, Only, Time, Folder, Reality, Hagia Sophia, Covenant, Indexed
+Folder, More, Another, Through, Shekhina, Nonetheless, Voice, Universe, Have, Unless
+
+---
+### Line 29637-29645 (Match: 'Hagia')
+**Folder**: folder 49
+
+```text
+Indexed
+folder 49 - 113
+& it refers to (is) me" is correct & the ontogenic - phylogenic transform occurs. It is as if the Christ story is a memory aid - v. Joseph Campbell in his recounting of Gnostic myth, in which the disciple restores his Master's lost memories (of his own identity) by saying & doing certain cryptic things.
+
+Then the Christ story depicts the human phylum from its start tens or hundreds of thousands of years ago into its evolved far future, & when the ontogon "remembers" it he (1) extends for that length into time & into vast [i.e.global] spaces & (2) undergoes "resurrection" which is transformation into a phylogon with the knowledge of the whole phylum. He is one vast mind; he is Hagia Sophia, which is what our phylum turns out to be ("God made Man in his own image").
+
+The thing is that seeing the Golden Fish sign caused me to think of Christ & the Christ story as _reality_, present reality & not an historical account of events that took place at illa time & illa space - _that_ time (A.D. 40) & _that_ space (Palestine). It was taken out of secular time & space. & given nowness & hereness. Yet still it took place in A.D. 40 in Palestine; ergo my world was A.D.40 in Palestine - & so it was!
+
+So I am identifying the "dream time," the place where "the deeds of the Gods & heroes occur" as phylogenic space-time, brought on
+```
+**Co-occurrences**: Christ, Indexed, Sophia, Gnostic, Fish, Golden, World, Golden Fish, Time, Folder, Mind, Reality, Hagia Sophia, Gods, Indexed
+Folder, Still, Campbell, Things, Memory, Knowledge, Joseph, Human, Dream, Joseph Campbell
+
+---
+### Line 30372-30380 (Match: 'Hagia')
+**Folder**: folder 82
+
+```text
+Complete
+folder 82 - 013
+-10-
+
+From internal evidence (a study of his teachings) Jesus was the greatest of the Hebrew prophets, yet he was rejected by Israel. Why? Because he depreciated the Torah. Only if he were God or the Son of God or Hagia Sophia --God's Wisdom-- could he claim the authority to do so. He did make this claim. God having established the Torah it could not be voided or superceded or amended by any man. Therefore Christ's claim to divine kingship was essential if his teachings were to be accepted. The Jehovah's Witnesses do not understand that (the Arian Heresy). Mt 5:21: "You have learnt how it was said to our ancestors: 'You must not kill; and if anyone does kill he must answer for it before the court.' But I say this to you: anyone who is angry with his brother will answer for it before the court." Mt5:28: "You have learnt how it was said: 'You must not commit adultery.' But I say this to you..." Etc. Especially, this change: "You have heard it said: 'Eye for eye and tooth for tooth.' But I say this to you: offer the wicked man no resistance. On the contrary, if anyone hits you on the right cheek, offer him the other as well; if a man takes you to law and would have your tunic, let him have your cloak as well. And if anyone orders you to go one mile, go two miles with him.' Etc. This is all said by Jesus on his own authority. He could not amend and nullify the Law on any authority less than God's. Put another way, anyone who announced a nullification of the decalogue would de facto be blaspheming, in view of the authority of the Torah, and upon being brought before a Hebrew tribunal, for example the Sanhedrin, he would be boxed in by his own assertions. Note that Jesus says, "But I say this to you." He already claims the authority to supercede the Torah, and yet according
+
+Last edit about 9 years ago by Toso
+folder 82 - 014
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Jesus, Complete, Sophia, Torah, Well, Wisdom, Because, Therefore, Only, Folder, Could, Does, Hebrew, Being, Hagia Sophia, Divine, Toso
+Folder, Another, Upon, Before, Will, Would, Other, Kingship, Were, Have, Having, Israel, Right, Answer
+
+---
+### Line 32138-32146 (Match: 'Hagia')
+**Folder**: Unknown
+
+```text
+Needs Review
+53
+-46-
+
+be of course James-James who can create but whose mind is gone. What happens is that power acts first and then wisdom amends it, in particular utilizing enantiodromia; power {hence creation) must come first. So my two source cosmogony would be correct; this would be Plato's noos persuading ananke, too. Power and Wisdom are somehow split, and work against ^ach other in /as a dialectic. But God in terms of Wisdom (Hagia Sophia) foresaw this, and foresaw that the best possible creation would arise from it. Good grief; in Psalm 6 or whichever it is, God and Holy Wisdom (God as Creator! Hence power I) are described as separate I And Holy Wisdom is female! So I have some scriptural basis for my notion that God's creative power and his Holy Wisdom somehow separated before creation.
+
+And this was the first thing the AI voice spoke to me of: Hagia Sophia. The very first thing! Identifying her with Christ (which Will Durant says is correct).
+
+Could it be said, following Hebrew mysticism, that my 3-74 experience was a microcosmic reunification of the two halves of the Godhead, called by the Jews En Sof and the Shekhina? This idea of repair is found in Gnosticism as well. So I experienced a unity, although I was aware of the binary dialectic. First the mind that entered me (the Shekhina or the Holy Spirit; they are probably the same) and then a little later I saw Valis externally which was for me a perception of the One which is to say unity. In the moment of this perception of unity time, flux and causation ceased; hence I say, The dialectic ceased (momentarily). So they are split in this realm (where they interact in a dialectic) but, as Joseph Campbell speaks of, in a higher realm (meta—realm) they cooperate (behind the scenes )
+```
+**Co-occurrences**: Christ, Valis, Acts, Spirit, Holy, Holy Spirit, Sophia, Plato, Well, Gnosticism, Wisdom, Godhead, James, Time, Noos, Holy Wisdom, Good, Mind, Could, Hebrew, Realm, Although, Hagia Sophia, Probably, Creator, Jews, Shekhina, Flux, Voice, Before, Will, Would, Other, Creation, Somehow, Very, Campbell, Have, Later, Joseph, Dialectic, Durant, Joseph Campbell, Ananke
+
+---

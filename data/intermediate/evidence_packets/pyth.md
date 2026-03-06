@@ -1,0 +1,310 @@
+# Evidence Packet: Pyth
+
+- **Category**: Top Term
+- **Total Mentions**: 46
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 6666-6674 (Match: 'Pyth')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+79
+Needs Review
+79
+78. always the case in my writing. Arctor is not what he appears to be. Nor is Donna. Nor barris. Nor more westa way. Nor new-path. The sides cannot be clearly drawn as "Good-bad" or "us- them," or even "pro-dope - anti-dope." one further point: the author's note begins with a bold, clear, flat out unequirical statement that. This has been a novel about some people who were punished entirely too much for what they did" - which comes as an abrupt shock because then it jells in your head that, at the new Pyth farm, "which he can never leave" Bob/fred/ Bruce is really in Jail, is being punished (that is what jail is: a punishment for wrong-doing). Jail is always something which the authorities (i.e. government) has as its weapon, as its disposal, + only government - there are no private Vails. in fact, government can be defined as that social entity which judges + deals out punishment for wrong doing. New path is the FLC of "Tears" +, in "Scanner" as in "Tears; we have the girlfriend figure posing as a doper or criminal or street person but who actually works for the authorities undercover - + has a direct relationship to the Ele Also, in both books the police (authorities) seem to be or are the Megrs + source of [the] drugls). when I wrote the author's note to "Scanner" I meant, by that opening sentence about - being punished too much" to refer to the effects of the drug - but, when read at the end, there, it more seems to refer to the lifetime incarceration at the new path work camp. One big clue is that Bob/fred expected a Bonus (in pay) for what had happened to him, but instead his superior, Hank. Fined (i.e. punished instead of rewarded) him, saying, in effect, "you did wrong." This is how the man views things. Bob/fred as wrong-dooes, not as fallen casualty or hero.
+
+Last edit almost 3 years ago by svayambhu108
+80
+Needs Review
+```
+**Co-occurrences**: Tears, Scanner, Because, Only, Good, Book, Even, Something, Both, Being, More, Actually, Were, Further, Have, Clearly, Things, Instead, Government
+
+---
+### Line 6700-6708 (Match: 'Pyth')
+**Folder**: part at
+
+```text
+1
+
+What I am grappling with is OCCP vs Xtianity; the latter in 2-3-74 was seeming, but on scrupulous scrutiny seems an archetypalization of the former. Perhaps the matter can be resolved if the latter (as I have often said!) is regarded (e.g. Acts + the whole Christ story) as a code (stegenographia), + not literal. Rome literally isn't meant; CAD 45 isn't meant; Christ is/was not a person; the synoptics are a way of talking - but what about? Not that time, nor space, nor those people. This is the resolution of the mystery, not just as to the esoteric meaning of Xtianity but to my 2-3-74 experience which 1) is related to historic change. (Not any one time.) 2) overthrow of the BIP (not literally Rome.) 3) secret revolutionary group (not really Xtians.)
+
+OCCP isn't excluded. (4) A dialectic is involved: antithetical forces (represented to me in 3-74 as those of Zoroastrianism, which brings us to Jim Pike and his discovery that the actual essence of Xtianity was Zoroastrianism, and now to Thomas) it isn't Xtianity nor OCCP yet includes both (the basic elements are common to both; thus, Xtianity is a form of OCCP, + OCCP a form of Xtianity; both are equal expressions in history of something underlying both, originally expressed in the Christ story. I have been assuming the Xtian story to be literally true; there was a person Jesus Christ. But no; this is code. The correct symbol is the Fish, not the cross. What does the Fish represent? It includes OCCP, as hinted in "Faith of..." Off the top I'd say, the ultimate revelation granted me was seeing Valis. But Valis is not Christ because Pyth wrote about it 600
+
+Last edit over 5 years ago by Toso
+2
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Acts, Christian, Toso, Thomas, Indexed, Jesus, Rome, Christianity, Form, Fish, Perhaps, Because, Time, Faith, Does, Just, Something, Both, Jesus Christ, Those, Pike, Secret, Zoroastrianism, Revelation, Jim Pike, True, Have, Cross, Dialectic
+
+---
+### Line 6716-6724 (Match: 'Pyth')
+**Folder**: part at
+
+```text
+{illustration: In the middle a cube} BIP (Telos) {surrounded by a circle} Kosmos {surrounded by a circle} Atelos {which are pointed to by an arrow} Xtians OCCP
+
+To shut off the scramble generator at the omphalos? Maya machine. The Fall: man's occluded faculties (v. Calvin + "Scanner"). V. "Maze."
+
+{illustration: A seed} Telos which is alive + grows Valis (kosmos, an organism) {surrounded by a square} Generator (BIP) {surrounded by a circle} Scramble (atelos) {; the seed is pointed to by an arrow} Xtians, Pyth, OCCP: deposit seed (telos) from which kosmos (Valis) grows outward from center of the irrational - from center of its generator (i.e. sabotage)
+
+{illustration: Square} BIP {with a seed at its centre, pointed to by arrow} Xtians / Pyth / OCCP penetrate barrier + deposit explosive seed which when it detonates grows into "fitting together" transubstantiation of irrational irreal scramble atelos. Devours it, from center outward. Grain of wheat planted. Of course: Generator of acosmic scramble is protected by a barrier. Scramble generator wasn't always here (hence the legend of the Fall). Yahweh: Scramble Generator. "Valis" is right: irrational but deliberately so (symbolized by "bichlorides of mercury - aspirin of mercury" : it deranges us. It must be shut off - this is done by planting seed (telos or limiting factor which grows into structuring. Ach! Dialectic is insane (atelos): leads to endless procession of impaired "truths" as in Greek philosophy which winds up saying,
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Valis, Christian, Toso, Greek, Maze, Scanner, Fall, Maya, Kosmos, Yahweh, Calvin, Illustration, Dialectic, Right
+
+---
+### Line 6718-6726 (Match: 'Pyth')
+**Folder**: part at
+
+```text
+To shut off the scramble generator at the omphalos? Maya machine. The Fall: man's occluded faculties (v. Calvin + "Scanner"). V. "Maze."
+
+{illustration: A seed} Telos which is alive + grows Valis (kosmos, an organism) {surrounded by a square} Generator (BIP) {surrounded by a circle} Scramble (atelos) {; the seed is pointed to by an arrow} Xtians, Pyth, OCCP: deposit seed (telos) from which kosmos (Valis) grows outward from center of the irrational - from center of its generator (i.e. sabotage)
+
+{illustration: Square} BIP {with a seed at its centre, pointed to by arrow} Xtians / Pyth / OCCP penetrate barrier + deposit explosive seed which when it detonates grows into "fitting together" transubstantiation of irrational irreal scramble atelos. Devours it, from center outward. Grain of wheat planted. Of course: Generator of acosmic scramble is protected by a barrier. Scramble generator wasn't always here (hence the legend of the Fall). Yahweh: Scramble Generator. "Valis" is right: irrational but deliberately so (symbolized by "bichlorides of mercury - aspirin of mercury" : it deranges us. It must be shut off - this is done by planting seed (telos or limiting factor which grows into structuring. Ach! Dialectic is insane (atelos): leads to endless procession of impaired "truths" as in Greek philosophy which winds up saying,
+
+Last edit over 5 years ago by Toso
+3
+Indexed
+```
+**Co-occurrences**: Valis, Christian, Toso, Indexed, Greek, Maze, Scanner, Fall, Maya, Kosmos, Yahweh, Calvin, Illustration, Dialectic, Right
+
+---
+### Line 6753-6761 (Match: 'Pyth')
+**Folder**: part of
+
+```text
+6
+6
+
+so knows how to mimic. I was right: mimicry, mimesis + camouflage is the basic survival technique of C (Valis or Pyth's Kosmos). It mimics us (A, the prey of B) + mimics B by growing within it. Micro-mimicry of A; plural. Macro-mimic of B, unitary. Mimicry of us (A) is a way by which C gets past B's (its victim's) defenses, just as at some primordial time B got past our defenses. I am a C seed mimicking A, + I successfully fooled B, according to the instruction manual, the N.T. This is why whenever I'm loaded I write, "Ich bin der Retter; ja; ist Wahrheit!" All that the Acts material in "Tears" shows is, 1) I knew the manual (technique) + 2) could re-narrate it for modern readers (Buckman traps Taverner, + Buckman - read procurator - read Rome, read BIP - read scrambler - read parasite on us B is destroyed, not Taverner). The trapper trapped: core of the (NT) manual. This is why I have the (correct) impression that in 3-74 I 1) died + 2) came to a second new life. I was just following our instruction manual (known to my disassociated self "Thomas").
+
+Last edit over 5 years ago by Toso
+7
+Complete
+```
+**Co-occurrences**: Valis, Tears, Acts, Toso, Thomas, Complete, Rome, Time, Buckman, Could, Taverner, Just, Kosmos, Self, Macro, Have, Life, Right
+
+---
+### Line 6791-6799 (Match: 'Pyth')
+**Folder**: part two
+
+```text
+Indexed
+10
+10
+
+Then the Xerox missive is to be understood as the flushing into view of B, its quarry. Buckman, in "Tears," is a portrait, synthetic or real, of that quarry, that "intelligence officer in the army," pitted against me, "Jason Taverner"! "Firebright" is the C seed placed in me, a micro version of telos inserted into atelos to start harmonia + kosmos growing. Like logos spermatika. C is a two-stage life form: seed + plant. __ To boil it down, C (which is rational) hunts its victim B (which is irrational) by mimicing B's victim A, then, when "caught," C enters part two of its seed-plant life cycle, {Note} plant growing within the female irrational infinitude body of B. This rational plant D is Pyth's Kosmos, + what I call Valis. The only thing I see wrong with this is that I have the distinct impression that Valis (D) (kosmos) planted a telos seed C in me ("Firebright") + that's what happened in 3-74, a micro-form of Pyth's telos placed in atelos to form kosmos.
+
+{Note:} Becomes D, kosmos but not in B. But it itself - "Christ resurrected." It's as if being caught + killed by B is a necessary fertilization or outside catalyst which starts its second part of the cycle. Why? B is necessary to transfigure it: the Christ story is instruction manual.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Valis, Tears, Toso, Indexed, Logos, Xerox, Form, Like, Only, Buckman, Firebright, Taverner, Kosmos, Being, Missive, Xerox Missive, Jason, Part, Real, Jason Taverner, Have, Life, Body
+
+---
+### Line 6820-6828 (Match: 'Pyth')
+**Folder**: part cycle
+
+```text
+Indexed
+13
+13
+
+was not a misfiring; Christ's death is to be regarded symbolically in a journey of the soul to the underworld (Orphism and Pyth). Like with Buckman, the Orphics + Pythagoreans had figured out the atelos overstepping, Valis (the Tao or kosmos) + telos. Thomas was implanted in me; he didn't surface! He was born. This is how a new soul is created: ex nihilo. "Behold! I tell you a mystery. We shall not all sleep but we shall be changed, in an instant - " etc. But B ("Rome") is necessary to do the overstepping + so to attract Kosmos into assimilation. So I was right in "Valis"! The mysterious entity Valis (Ubik) is the main element revealed (Pyth's cosmos, also the cosmic Christ), + my "irrational" equals overstepping (atelos), + assimilation into Valis (kosmos or God) is, as I say, permanent (into the Tao). Now it can be seen why hubris was regarded by Paul as the worst "sin" of all - it absolutely prevented being assimilated into the Tao. I was right! Under all else the moral order of ma'at exists. The laws of this mysterious moral (justice) entity must be understood (to the extent possible). Then the "Roman Empire" is a dramatic symbol for that which oversteps. Then it must always exist; it is atelos or what I call the irrational. It is yin. Hence I see it as being cold, hard, dark, moist, rigid, cruel, implacable.
+
+Last edit over 5 years ago by Toso
+14
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Ubik, Toso, Thomas, Indexed, Rome, Paul, Empire, Roman, Like, Cosmic, Buckman, Cosmic Christ, Kosmos, Being, Orphic, Soul, Orphism, Death, Under, Journey, Justice, Dark, Right
+
+---
+### Line 6890-6898 (Match: 'Pyth')
+**Folder**: part of
+
+```text
+21
+I saw us gray-robed Xtians hurrying away in glee after blowing up part of the fortress - it's not the past or the present but the future, as in "Joint." Q: Why does it look like the 20th century? A: A weapon of war in the future. Disformer of reality. A mind-control device by the enemy.
+
+{illustration: A cube} Cube BIP protecting scramble generator. We're trying to reach it {surrounded by concentric rings} Kosmos / Acts / 1974 {entered by an arrow} Secret Xtians searching for the scrambler to blow it up, with explosive seed (telos). It's all set in a technologically hype sophisticated future. Our world is really future slave state Acts. Valis is the seed grown into Pyth kosmos replacing Acts + irreal world. The kingdom of God.
+
+{illustration: Core seed} Xtian seed producing Kosmos which preys on Acts + irreal world {surrounded by circle} Scramble generator {surrounded by square} BIP {surrounded by concentric circles} Kosmos / Acts / Irreal world USA 1974 (scramble world + in each of us)
+
+The ultimate vision is of the Kosmos as the body of Christ, + the plasmate his blood. An organism, alive + divine + eternal. At the time + place of Acts as now. Jesus was the seed (telos) placed at the center of atelos, + started Kosmos growing.
+```
+**Co-occurrences**: Christ, Valis, Acts, Christian, Jesus, Kingdom, Like, World, Time, After, Mind, Joint, Does, Look, Kingdom of God, Reality, Kosmos, Divine, Part, Secret, Illustration, Body, Blood
+
+---
+### Line 28042-28050 (Match: 'Pyth')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+47
+Needs Review
+47
+The essence of Pythagoreanism is not to seek to ("the basic cosmic sub‐ discover what reality is stance") but rather to conceive of reality in terms of structure, by which was meant mathematical form (that is, structure turns out to be number + pro‐ portion + I would add arrangement: how elements are interconnected) interrelated] viewing reality this way, ontology (in my opinion) doesn't enter into con‐ sideration. Reality, ontologically speaking, may not be there at all. This is a middle position between idealism + empiricism. "Harmonia: "Fitting together" of the "Kosmos": "the beautiful order of things" these are precisely what I saw in beholding what I call Valis, a fitting together ("linking") to form a beautiful, ordered structure, which assim ilated parts from the not-it outside which was an antecedent scrapheap not fitted together + not "a beautiful order of things." "Salvation + perhaps ultimate union with the divine cosmos through the study of the cosmic order --" etc is basic. Neo-Pythagoreanism (ist century AD) was led by Apollonius of Tyana. (Said he was a reincarnation of P.) Pythagoras as magician + shaman. + a great involvement in politics: an elite ruling the state. What I am wondering is, could a highly secret Pythagorean brotherhood still exist which exerts political influence covertly. As Empedocles says, the esoteric occult revelations of Pyth. Gave One vast practical (magical) powers including The power to "bring a dead person back from Hades" - i.e. back to life, which is specifically (by?) me in 3-74 along what was done with/for revelations (e.g. of Valis, or Gnosis with vast Pyth
+
+Last edit almost 3 years ago by svayambhu108
+48
+Needs Review
+```
+**Co-occurrences**: Valis, Form, These, Perhaps, Gnosis, Cosmic, Pythagoras, Could, Reality, Kosmos, Empedocles, Divine, Great, Still, Through, Secret, Would, Back, Things, Life, Dead, Salvation, Doesn
+
+---
+### Line 28048-28056 (Match: 'Pyth')
+**Folder**: book in
+
+```text
+Last edit almost 3 years ago by svayambhu108
+48
+Needs Review
+48
+48 Empedocles makes it absolutely clear that my "plasmate" are the intelligent ideas of Pyth, which have a will of their own + decide who to come to (as with St. Sophia). Also, I remembered a former life, which is the cynchpin of Pythagorean sm. What strikes me is that if Pyth - was correct about the transmigration of souls + the possibility of remembering a former life, his doctrines (+ he him‐ self) would be reconstituted + not lost suppose someone wrote a book in which Pyth, ideas showed up, esp. the esoteric ones, + suppose a secret Pyth. Brotherhood still exists; they might shrewdly guess that the person writing the book had once been a member of the brotherhood, + they would seek to trigger off anamnesis in him. Richard pinas found Empedoclean ideas in "Ubik" + could not understand row they go there if I hadn't even heard of Empedocles, in point of fact many of Empedocles' ideas were Pyth. Ideas formerly kept secret by the Pyth. Brother hood. I have a feeling there are more Pyth. Ideas -inc Esoteric (i.e. secret) ones - in "Ubik" than anyone outside the brotherhood would or could realize, knowing" fact I surmise that only someone latently a Pyth could have written "Ubik." I have noted often before how much Valis resembles Ubik, + how much 3-74 resembles scenes + concepts in "Ubik," to an uncanny degree. + Valis, I now believe, is Pyth kosmos, a term he was the first to use. The "Platonis ie." ideas in "Ubik" may really be Pyth. Ubik"everywhere. It is an active intelligent living dea-entity - i.e. the living ideas which Empedocles rites about! Like the plasmate it has invaded uman info/communications media. It is the plas‐ Then the Acts rate which I was later to see. raterial (i.e. first century AD Rome) shows up in Tears"; this pinpoints it (me) as Neo-Pyth of the space-time of Apollonius of Tyana. What do you together, then et if you add "Ubik" + "Tears"
+
+Last edit almost 3 years ago by svayambhu108
+49
+Needs Review
+```
+**Co-occurrences**: Valis, Tears, Acts, Ubik, Rome, Sophia, Like, Only, Time, Book, Even, Could, Once, Suppose, Kosmos, Empedocles, Self, Anamnesis, Still, Their, More, Living, Secret, Before, Will, Would, Were, Many, Have, Life, Info, Later, Someone
+
+---
+### Line 28054-28062 (Match: 'Pyth')
+**Folder**: book in
+
+```text
+Last edit almost 3 years ago by svayambhu108
+49
+Needs Review
+49
+48 a Neo-Pyth. Who doesn't consciously remem‐ ber, + - the brotherhood can see (read) the plasmate cypher "King Felix" - not only see it The way I did as set to ground but probably know what it means + the Orphics used Gold shiny objects to restore divine memory. "Tears" must have confirmed what "Ubik" implied i inc. that the Pyth. knowledge in me was not a modern knowledge acquired in this present to the contrary, at the space-time of life but, Acts, in which case it is an archaic latent transmigrated Pyth. Soul writing through PKD. Otherwise, why the Acts material? + it that it was in the first is significant century AD or that Pythagoreanism had its last in fact, if known manifestation in history Apollonius of Tyana's claim is true, Acts is the last space-time where Pyth is known to have transmigrated; if he continued on later he either didn't experience anamnesis or never revealed it, anyhow not openly that we know of! It was at the time + place of Acts that i.e. anyone last claimed to be Pyth reincarnated this is about 600 years after Pyth himself is born. I just thought of something strange. Ubik strikingly resembles Valis + also the plasmate (i.e. Pyth's living ideas). According to Pyth, the kosmos is a living organism + divine, which we contain spark of + can return to - i.e. return to the divine eternal living kosmos - which I saw + hich I call Valis or Zebra + which seems to be "like returns to like," so by contemplating Bik he kosmos we are not reborn (reincarnated) but + to it instead. Then the plasmate + Valis are me, Ubik is Valis + is the plasmate, too. Now, feel that in 3-74 the plas mate
+
+Last edit almost 3 years ago by svayambhu108
+50
+Needs Review
+```
+**Co-occurrences**: Valis, Tears, Acts, Ubik, Zebra, King, Felix, Like, Only, Time, After, King Felix, Anyhow, Just, Something, Kosmos, Orphic, Divine, Himself, Either, Probably, Anamnesis, Through, Soul, Living, Ground, Gold, True, Have, Life, Memory, Instead, Later, Knowledge, Otherwise, Doesn
+
+---
+### Line 28060-28068 (Match: 'Pyth')
+**Folder**: book in
+
+```text
+Last edit almost 3 years ago by svayambhu108
+50
+Needs Review
+50
+s anyhow the real point that I'm trying to make is that the kosmos being one, alive, eternal + divine + "the beautiful order of things" is what we Xtians know of as God or the Logos or saint Sophia. It is within - the implicate structure of reality in contrast to the multiplicity of the phenomenal world: they are many; it (the kosmos) by its basic attribute of harmonia, saw). So we I fits everything together ( Brahman or have something akin the immanent deity. which for years is what I thought I had seen, but - Valis was not everything but was "camouflaged" in the midst of every thing exactly as Pyth believed: assimilating the atelos outward from the center. So Valis + the plasmate is/are the ultimate divine: Kosmos equals God but defined in precise ways by Pyth which 1) differ enormously from all theistic + deistic conceptions + 2) conforms precisely to what I experienced ("the rational invading the irrational (which preceeded it) + assimilating (+ fitting it together) or "trans‐ substantiating" it." + I saw it, atelos, as clearly as I saw the kosmos (telos), so not only did I see the divine (God) but I saw the not-divine or not God, atelos. If Pyth is right + his kosmos is the ultimate divine rather than the theistic deity this would plain the puzzling fact that I 1) seemed to have seen God, but 2) it wasn't God, + not at least as he's usually conceived of. not only does Pyth's concept of the ultimate time (God) differ enormously from everyone else's (Plato excepted) but Pyth puts forth -o peerfic + precise notions of its nature it is. rather hat w St. i t t s
+
+Last edit almost 3 years ago by svayambhu108
+
+51
+```
+**Co-occurrences**: Valis, Christian, Logos, Sophia, Plato, Brahman, World, Only, Time, Does, Anyhow, Something, Reality, Kosmos, Being, Everything, Divine, Real, Deity, Would, Many, Have, Clearly, Things, Right
+
+---
+### Line 28077-28085 (Match: 'Pyth')
+**Folder**: book in
+
+```text
+Last edit almost 3 years ago by svayambhu108
+53
+Needs Review
+53
+53 + there is mind here, + life. (at least in the resulting kosmos.) So if we synthesize, Pyth + Empedocles vis-a-vis kosmos we get what I saw in 3-74. The ultimate dialectic too, which I saw. Telos assimilating atelos, which, as stated, means that the resulting kosmos grows (but we can't discriminate it from atelos because it is not something but Gestalt - Gestalt which is alive, has a mind (i.e. thinks) + is eternal + divine, + which if we are like it we can see it. This would have to do with feature extraction in our percept system which may be dependent on the proper memory hologram as inner template (analog) - my own theory, which I am confident of. So a kind of correspondence ("like to like") between the percipient's mind + Valis is requires for Valis to be discriminated. Either the divine spark in the person's soul wakes up or the plasmate enters the person (shamanism!) Then to see God (the divine) you must become divine only micro-Valis can discriminate macro-Valis. If the proper memory hologram is necessary this would explain why anamnesis is neces‐ sary in order to discriminate Valis. The specific Hologram may lie within the domain of ultra long term phylogenic memory exclusively If you can comprehend a floating crap game you can comprehend Gods
+
+Last edit almost 3 years ago by svayambhu108
+54
+Needs Review
+```
+**Co-occurrences**: Valis, Like, Because, Only, Mind, Gestalt, Something, Kosmos, Empedocles, Divine, Either, Gods, Anamnesis, Soul, Macro, Would, Have, Life, Memory, Dialectic
+
+---
+### Line 28083-28091 (Match: 'Pyth')
+**Folder**: book in
+
+```text
+Last edit almost 3 years ago by svayambhu108
+54
+Needs Review
+54
+It's important to realize that this "telos" concept goes back to Apollo ("everything in moderation") (as well as to Delph; + the Sibyl), so that Valis - this kosmos which is alive has a mind, is eternal, unitary + divine - is connected to the Harmonia + order + proportion (for example, now I understand the significance of my - seeing the Golden rectangle) which is the core spirit of Apollo. If Valis is any given God it is Apollo ("the head Apollo is about to return; the time you've waited for has come"). + I can see, too where both St. Sophia + the Buddha fit in, so it is logical that all three should be mentione to me in prophecy. I just realized; the plasmate "cooked" te "freighted" or "latent or "stegenograph or messages are an ordering, a linking i.e. a Gestalt (hence the need of a clutch-system to discriminate them), + hence are a perfect example of kosmos as structure. Form in contrast to substance, vis-a-vis informa So reading about Pyth has really made it possible for me to understand Valis + the plasmate. Surely the plasmate messages are not for any humans but are the thoughts of the mind of the living "floating crap game" kosmos! A way to coordinate (i.e. link together into a unity out of plurality) This is a cardinal way bey al itse
+
+Last edit almost 3 years ago by svayambhu108
+55
+Needs Review
+```
+**Co-occurrences**: Valis, Spirit, Form, Sophia, Well, Golden, Time, Buddha, Mind, Gestalt, Just, Both, Kosmos, Everything, Divine, Apollo, Sibyl, Living, Back, Surely
+
+---
+### Line 28089-28097 (Match: 'Pyth')
+**Folder**: book in
+
+```text
+Last edit almost 3 years ago by svayambhu108
+55
+Needs Review
+55
+291-8135 5 which it can have a mind! Without such infra + inter message traffic it couldn't link itself together mentationally, This sheds a whole new light, then, on such as the King - Felix cypher. It is the kosmos -creature thinking. The plasmate Then is not so much blood as neural conduits. it assimilated its environment, + grew fitted things together. 2) It harmonized opposites in this linking 3) It structure to the best possible arrangement. 4) Out of a plurality of mere objects + blinge tself) causal processes it created an entity which was intelligent, which was structurally inter‐ connected + was unitary. This is a description of Valis which I saw camouflaged in the midst (center) of reality. we can't discriminate it from the plural objects + blind causal processes which are not it. Do the 4 points supra describe any God in any known religious system? Not that I know of, not even Brahmanism. What was most amazing was how it assimilated mere lifeless objects (plural) + deterministic causal processes so that its mind made them into its body + the activity of its body growing outward in progressive degrees. this is a precise description of Pythagoral? the active principle effectings + kosmos i 85 Pyth calls it unitary, immort al
+
+Last edit almost 3 years ago by svayambhu108
+
+56
+```
+**Co-occurrences**: Valis, King, Felix, Mind, Light, Even, Reality, Kosmos, Without, Brahmanism, Most, Such, Have, Things, Body, Blood
+
+---
+### Line 28094-28102 (Match: 'Pyth')
+**Folder**: book in
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+56
+58 Their everything outside Valis are of an Well, inferior order + this includes us. Viewed as a life form - which Pyth - says it is, it is an ultra life form, the ultimate life form here on This planet - far advanced over us (there is only one of it). + it does not disclose its presence to us. Since Pyth discriminated it in The 6th century BC Valis is at least 2000 years old. Once some object or process is ssimilated, its behavior is coordinated within a the total system (structure); this is the "per suading" of ananke by Noos that Plato speaks of. How is this accomplished? I offer the sugges that a perturbation of a field is involved: reality must be dehypostatized + conceived of as a sort of hologram, a picture upon which stress is exerted apparently from within. We do not know what plural reality is anyhow, so how can we say how Valis influences it? Suppose it is an unfolding along plural form axes, + Valis stabi lizes this unfolding at specific points: single possi bilities out of infinitudes. Valis chooses (since all is possible; all occurs but without any passage of time). This is what is meant by atelos. There is no completion, no limit, except for felos. The atelos has no self-limiting factor. Limits is imposed on it by an outside force. (Telos.) But Valis is not suilt into this system; it invaded this unstable infinite dialectic system + set up shop, turning that which is inherently irrational into the rational or so it seems to me). As far as I could see, it is still growing + does not govern everything; it is still subsuming (assimilating its environment) in other words its authority perpetually grows. This is I a creator, it is a make use -ou ther. t uses the
+
+Last edit almost 3 years ago by svayambhu108
+57
+Needs Review
+```
+**Co-occurrences**: Valis, Form, Plato, Well, Since, Only, Time, Noos, Could, Does, Anyhow, Once, Suppose, Reality, Self, Everything, Viewed, Without, Creator, Still, Their, Upon, Other, Life, Apparently, Except, Dialectic, Ananke
+
+---
+### Line 28112-28120 (Match: 'Pyth')
+**Folder**: book in
+
+```text
+Last edit almost 3 years ago by svayambhu108
+59
+Needs Review
+59
+I coming; 3) know when it was coming; 4) know exactly what to do? But Valis as posited would know all these things. + - the AI voice which knows what I ould an have no way to know... + why (ie hows alternate human psyche in me (the Bab Fred set-up) know either? The AI voice is exactly what you'd anticipate of you hypothe sized assimilation into an ultra life form which spans vast space, objects, processes + people. Pyth's Kosmos exists + is some kind of ultra or even ultimate life form; actually it is exactly as Pyth describes it + came into existence the way he describes + the way I depict in "Valis." It is so advanced as to constitute a "second thought" in contrast to all previous creation, since it subsumes, assimilates + incorporates all previous creation in terms of structure rather than being an added created thing; it is a way of organizing all reality without exception into one single unitary coherency, expanding from a center. Valis, then, is something (an event!) which befalls creation ultimately as a whole, once introduced (as Pyth tells us) into atelos it takes over everything + everywhere (ubique!) eventually. This event is a salvation for the universe, raising it to a vastly higher level. Pyth was well aware of this. He treated Valis as kosmos perse: "the perfect + harmonious structuring of beauty" i.e. into, perhaps, one of the phosphere graphics which I saw: one in which a mortally wounded innocent God is depicted: so perceived, the Gestalt of the kosmos is precisely talt that e.
+
+Last edit almost 3 years ago by svayambhu108
+60
+Needs Review
+```
+**Co-occurrences**: Valis, Form, Well, These, Perhaps, Since, Even, Gestalt, Something, Once, Reality, Kosmos, Being, Everything, Either, Without, Voice, Actually, Universe, Would, Creation, Have, Things, Life, Human, Salvation
+
+---
+### Line 28123-28131 (Match: 'Pyth')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+61
+t 63 the freighted plasmate messages are from us half-lifers to those outside still alive King Felix: the rescuer is here t A sort of repair construct tih! To maintain our illusory world. It's a cube of water-like parts + fires form axes into the field + dialectic to create world, for us in cold pac. on a space ship the cube is basically projecting beauty then love. So: lave of the beautiful. It's just a light show of beauty to the dead, structered by the Tetraktys! The cube Valis in the center of our world; Pyth knew! I am part of the revolution, + so con‐ trolled by Valis (Christ). He has redeemed me partly frome Satan (+ hence death). So he comforts me with my wife's face. Thomas was Jim Pike. In his life he had been a conscious part of the revolution - that's why they were killed. The authorities of the world know The dream in "Tears" is Roman Catholic code Valis controls me through the Kathy image. Valis is Christ; i.e. God. ah - He is here to revive (resurrect) us dead in cryonic suspension, wachet auf! This whole Kathy image is to lead me to in event that hasn't happened yet - comparab to 2-3-74; there's more to come of that - a permanent resurrection - I came to life briefly in 3-74. I didn't die; I oturned to life + died to this world he this is due to the the Ind Parousia. advent is here; otherwise 2-3-74 couldn't it ha
+
+Last edit almost 3 years ago by svayambhu108
+62
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Tears, Thomas, Form, King, Felix, Satan, Parousia, Roman, Advent, Like, World, Light, King Felix, Just, Catholic, Kathy, Those, Still, Part, More, Through, Pike, Love, Jim Pike, Death, Were, Life, Dialectic, Dead, Otherwise, Dream
+
+---

@@ -1,0 +1,345 @@
+# Evidence Packet: Claudia
+
+- **Category**: Top Term
+- **Total Mentions**: 30
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1-8 (Match: 'Claudia')
+**Folder**: Unknown
+
+```text
+1
+February 27, 1975
+
+Dear Claudia,
+
+I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.
+
+We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.
+```
+**Co-occurrences**: Ubik, Form, Just, Chip
+
+---
+### Line 12-20 (Match: 'Claudia')
+**Folder**: Unknown
+
+```text
+Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '56 Chevy to ionosphere...that for it would be the "film pulled backwards," so to speak. Joe (i.e. I) saw it naturally. So within our linear time, form (edola) develops in the opposite direction to what we in linear time see. "To enter the Kingdom of Heaven you must be as little children," He said, our Savior. We must regain what in regular time is the past; orthogonally it is the future. Then what happend to me in March, I didn't move backward, in linear time; I moved forward, to the completion of time. I saw time completed: the great Iron City which fell to the people hustling their asses for man and for God, for Justice and Truth and Joy and Freedom. I saw the Parousia.
+
+I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
+
+I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
+
+I never noticed this parallel:
+
+What Joe Chip saw: What I saw: FORM REVERSION ROME AGAIN (time reversion)
+```
+**Co-occurrences**: Rome, Form, Kingdom, Parousia, Maybe, Iron, Time, Savior, Could, Again, March, Great, Their, Through, Heaven, True, Finally, Would, Other, Have, Things, Justice, Freedom, Truth, Chip, Final
+
+---
+### Line 86-94 (Match: 'Claudia')
+**Folder**: part of
+
+```text
+If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
+
+I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
+
+I think that in 1974 my entelechy was completed, but I never heard of anyone having his entelechy completed (watch it, Claudia), be-cause this means that the time has ended, not by God intervening, but because the last frames ran through the film ended naturally. Well, see, here is your clue: when the last frames of my film (entelechy) passed faster and faster through the projector, I wasn't perfect; I'm still full of alll
+
+Last edit over 5 years ago by FolkDevil
+
+6
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Maybe, Because, Only, Time, Something, Again, Empedocles, Self, Divine, Philip, House, Without, Still, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Have, Things, Judgment, Instead, Having, Except, During
+
+---
+### Line 93-101 (Match: 'Claudia')
+**Folder**: part of
+
+```text
+6
+sorts of shit (you noticed). Well, then it was an intrusion into time, into ordinary time, before entelechies were complete; like God’s grace which saves you even if you’re worthless, this intruded and saved our world even if we hadn’t completed the test (which was what we were doing: doing it over and over until we got it right, and none of us hardly had gotten it right yet. God did suddenly intrude, without warning… for me it was like a thief in the night; it came at night, and I was amazed. I was caught by surprise. But what filled me was in itself flawless; the Holy Spirit or myself completed, either one – but as I stand I am wicked and think wicked thoughts, same as always (I am right now trying to get Victoria Principl – Principal’s phone number; Erasmus says it can be done). This is wicked. I am motive by a leopard skin rug miles and miles of tawny skin (but she has a funny voice, a Sid Caesar imitation of the miles and miles. Well, we’ll use lipsynch).
+
+I do not see where I am changed, but I was spared the Wrath and I was of use (against the tyranny): “Zeus protects those who defend the Perfect Kingdom against those who would nibble it away.” It is as if that rat might have proved worthy in some way yet still a rat (it was where the rat was, not what, which doomed it; it was away from its natural order, out of its spot in the Scheme of Things). Thus, we may stress changes in our Being too much in terms of being acceptable, and forget that being at the Right Place at the Right Time – after all, God will motivate us if we’re there (I think always of the black dude, the guard who found the door at the Watergate Hotel taped back and reported it to the D.C. fuzz). Maybe my letter (don’t laugh) to the Wall Street Journal… no, that was after. I guess then TEARS was what I had to offer. Think of the touching story of “The Juggler of My Lady.” That always had a lot to say to me. Yes, if I did anything in the Final War Against the Beast it was to write and protect TEARS and bring it out strategically, and also be living in Fullerton where I could write Wiggins. You must put in your thesis about my correspondences back and forth with Mr. Wiggins during the impeachment, Claudia; I am so proud to have argued those issues with him. We both drew on all we had in us. (RS will mention.)
+
+Hey, I figured out (you laughed) Nixon is the best – beast.
+
+IX From nIXon That’s Latin for 9 IC from dICk That’s Latin for 99
+```
+**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Dick, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Suddenly, During, Final, Right, Until
+
+---
+### Line 113-121 (Match: 'Claudia')
+**Folder**: part of
+
+```text
+Forms have a point of completion. Like a novel. They don’t go on and on. That axis isn’t just “process time” like in GODOT. It goes to completion and then stops. It is retrograde to what we see (vide supra hoc libra). Our lineal time then is cyclic in the “spinning ones wheels” sense of going around and around without incorporating true growth; we are declutched, purely in this time; but in reality we partake of movement toward form completion, too.
+
+And yet we experience it backward. It was, as you put it, our childhood. “We see – the universe – as by reflection from the bottom of a burnished metal pan, but now directly for a moment,” said St. Paul. This is all a flashback: our life, a post vitam. Like the squib, the interoffice memo before THREE STIGMATA which is the novel, and what takes place “after” it is really what took place before it, which is there to explain it. I, the little boy like Christopher; that’s me completed.
+
+Oh God, Claudia; the “explosion” is throwing is throwing us backward into lineal time away from the moment of completion/perfection of each of us. What age do you guess? The Savior didn’t say “babies.” I think about 3 or 4 years old, maybe up to 6.
+
+One could say, Before the World took the little child and taught it to see and think only its small way.
+
+Yes, maybe so, Claudia; while the teacher was still the universe. I remember how God, as body-of-God, the universe, taught me, through bugs and bees, the sight of an old blind lady in a great wheel chair. I knew about being bushwacked (by a bee) about old age and death; I knew about the Fish sign, too, the Savior: I called him “Tunny,” from a del Monte billboard for some canned food. We had to travel under the Oakland Estuary in the Alameda Tube, and I saw the tube like a can; at the end we emerged in the sunlight and I saw the billboard with “Tunny” on it. I loved ol’ Tunny, the great fish (like Charley the Tuna now must be to kids). Claudia, I tell you the truth: through (via, not from in, within) such shapes, the true living Archetypes speak to us, especially as children, but now, too, if we liksten. In my kids’ story book the figure of the old king… through him God actually moved toward me, later appearing in a “dream” about my story book,” If you see. I saw this last night, how the drawn figure of the old king is:
+```
+**Co-occurrences**: Form, King, Paul, Fish, Maybe, Like, World, Only, Time, After, Stigmata, Savior, Book, Could, Just, Reality, Being, Great, Without, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Christopher, Under, Have, Life, Body, Later, Remember, Truth, Dream
+
+---
+### Line 117-125 (Match: 'Claudia')
+**Folder**: book the
+
+```text
+Oh God, Claudia; the “explosion” is throwing is throwing us backward into lineal time away from the moment of completion/perfection of each of us. What age do you guess? The Savior didn’t say “babies.” I think about 3 or 4 years old, maybe up to 6.
+
+One could say, Before the World took the little child and taught it to see and think only its small way.
+
+Yes, maybe so, Claudia; while the teacher was still the universe. I remember how God, as body-of-God, the universe, taught me, through bugs and bees, the sight of an old blind lady in a great wheel chair. I knew about being bushwacked (by a bee) about old age and death; I knew about the Fish sign, too, the Savior: I called him “Tunny,” from a del Monte billboard for some canned food. We had to travel under the Oakland Estuary in the Alameda Tube, and I saw the tube like a can; at the end we emerged in the sunlight and I saw the billboard with “Tunny” on it. I loved ol’ Tunny, the great fish (like Charley the Tuna now must be to kids). Claudia, I tell you the truth: through (via, not from in, within) such shapes, the true living Archetypes speak to us, especially as children, but now, too, if we liksten. In my kids’ story book the figure of the old king… through him God actually moved toward me, later appearing in a “dream” about my story book,” If you see. I saw this last night, how the drawn figure of the old king is:
+
+The drawing your parent an archetype
+
+The mind receives so well during young childhood. It was wonderful, enchantment, when things spoke, pictures and bugs. Well, God spoke through them via, by means of, them. Utilized them as conduits of resemblances; there we encountered the Queen, the King – and the pieces of the chessboard. I realized the other night, And now, that Christopher is born, I am the wise old king. I will never find him; I can only become him. Bummer. Sad. But I looked at my great arms (I have great arms) and I thought, One must eventually become ones own parent.
+```
+**Co-occurrences**: King, Fish, Well, Maybe, Like, World, Only, Time, Savior, Mind, Book, Could, Being, Great, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Will, Christopher, Other, Under, Have, Things, Body, Wise, Later, Remember, Truth, During, Dream
+
+---
+### Line 131-139 (Match: 'Claudia')
+**Folder**: book the
+
+```text
+Complete
+8
+THE RED FEATHER by Dorothy Canfield Fisher (I had my copy until 1972 when I was in Canada and they robbed me a final time), that was what they call my Script.
+
+A little girl, Rosemary, was born, but the fairies came and they swept her away in a shower of sparks (this is what I saw when I was aware of Erasmus: magic fairy sparks). They put a changling baby in her place. Later, that changling grew up, a fairy child in the mortal world not knowing why she could not and then do magic which none of the other children could. Later, a wise old lady in a rocking chair showed her the doorway to fairyland, where Rosemary kept wanting and wanting to go, for some reason (oh yes – she felt alienated in the mortal world; unhappy, restless). She crosses to fairyland. There is the palace. The queen puts her to work in the scullery. She drudges and drudges, and the – oh yeah, now I remember. The whole idea was, the fairies stole the mortal baby to use in their fairy scullery because mortals are well-known to be better at housework. So the mortal Rosemary grows up in the PALACE and is unhappy, and not only that, she is lousy at dusting (the Queen is neverysatisfied, but the wise old king is gentle with Rosemary, saying “There are laws for some people to keep and some people to break.” The Queen always nags him and he says, “Coming, my dear.” He is always civil to her. A woman wrote this, so don’t get your feather in a twit, Claudia). Anyhow, the fairy girl in the mortal world (supra) does magic and can’t fathom why; the mortal girl in fairyland at the palace fucks up at scullering. They meet. It turns out that – I forget. Everyone fucked up. The mortal girl finds her way back to the actual world and is happy, but see, I didn’t dig the end; what I dug was the little – fairy – girl here in mortaldom doing magic by accident and wondering how come she was different. The rest is a lot of plot to make it come out.
+
+The moral of the novel was that you can be different and the King will understand but no one else will, and if you show you can do magic they will be vexed in spirit to see this, but wow, is it a trip, to turn for instance a strip of cloth in deepest winter into a garland of poppies which sizzle when they hit the snow (locale: Sweden). Rosemary (no, Rose; the other was Mary; how clever); the fairy child here in mortaldom: she could make Spring come during the deep winter. This is what she did that I remember; the snow man who winked because she made him alive; anyone can cause a golem to come to life. But the sizzling rope of poppies, in winter, which had just been cloth, just pretend – that is a superacid trip, Claudia, and you know it. The heat (thermal units), the life (Dionysos, Kore, Demeter) – she had a boyfriend for me to identify with, in case some body kid read the book, like me. He was a fairy prince named Stephen. He knew (i.e. why she could do magic).
+
+Rose: “Stephen, how come I can do magic and I’m living here in Fullerton like everyone else, eating at McDonald’s and knowing Willis McNelly.”
+```
+**Co-occurrences**: Spirit, Complete, King, Well, Dionysos, Like, World, Because, Only, Time, Book, Could, Does, Anyhow, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+
+---
+### Line 133-141 (Match: 'Claudia')
+**Folder**: book the
+
+```text
+THE RED FEATHER by Dorothy Canfield Fisher (I had my copy until 1972 when I was in Canada and they robbed me a final time), that was what they call my Script.
+
+A little girl, Rosemary, was born, but the fairies came and they swept her away in a shower of sparks (this is what I saw when I was aware of Erasmus: magic fairy sparks). They put a changling baby in her place. Later, that changling grew up, a fairy child in the mortal world not knowing why she could not and then do magic which none of the other children could. Later, a wise old lady in a rocking chair showed her the doorway to fairyland, where Rosemary kept wanting and wanting to go, for some reason (oh yes – she felt alienated in the mortal world; unhappy, restless). She crosses to fairyland. There is the palace. The queen puts her to work in the scullery. She drudges and drudges, and the – oh yeah, now I remember. The whole idea was, the fairies stole the mortal baby to use in their fairy scullery because mortals are well-known to be better at housework. So the mortal Rosemary grows up in the PALACE and is unhappy, and not only that, she is lousy at dusting (the Queen is neverysatisfied, but the wise old king is gentle with Rosemary, saying “There are laws for some people to keep and some people to break.” The Queen always nags him and he says, “Coming, my dear.” He is always civil to her. A woman wrote this, so don’t get your feather in a twit, Claudia). Anyhow, the fairy girl in the mortal world (supra) does magic and can’t fathom why; the mortal girl in fairyland at the palace fucks up at scullering. They meet. It turns out that – I forget. Everyone fucked up. The mortal girl finds her way back to the actual world and is happy, but see, I didn’t dig the end; what I dug was the little – fairy – girl here in mortaldom doing magic by accident and wondering how come she was different. The rest is a lot of plot to make it come out.
+
+The moral of the novel was that you can be different and the King will understand but no one else will, and if you show you can do magic they will be vexed in spirit to see this, but wow, is it a trip, to turn for instance a strip of cloth in deepest winter into a garland of poppies which sizzle when they hit the snow (locale: Sweden). Rosemary (no, Rose; the other was Mary; how clever); the fairy child here in mortaldom: she could make Spring come during the deep winter. This is what she did that I remember; the snow man who winked because she made him alive; anyone can cause a golem to come to life. But the sizzling rope of poppies, in winter, which had just been cloth, just pretend – that is a superacid trip, Claudia, and you know it. The heat (thermal units), the life (Dionysos, Kore, Demeter) – she had a boyfriend for me to identify with, in case some body kid read the book, like me. He was a fairy prince named Stephen. He knew (i.e. why she could do magic).
+
+Rose: “Stephen, how come I can do magic and I’m living here in Fullerton like everyone else, eating at McDonald’s and knowing Willis McNelly.”
+
+Stephen: (MYSTEROUSLY, BUT AMUSED) “I can’t tell you yet, Rose, or Mary, or Rosemary, whaterver.” (EROTIC INTERCHANGE OF GLANCES BETWEENB THEM: SHE FALLS FOR HIM. HE IS A NEAT DUE, SHARP DRESSER, ETC. OLDER)
+```
+**Co-occurrences**: Spirit, King, Well, Dionysos, Like, World, Because, Only, Time, Book, Could, Does, Anyhow, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+
+---
+### Line 157-165 (Match: 'Claudia')
+**Folder**: book of
+
+```text
+Last edit over 5 years ago by Zebrapedia
+10
+Indexed
+10
+They are going to find that orthogonal axis, Claudia, and when they do, they will find it retrograde and exactly what Joe Chip saw, and it is the time-stream I entered. And the effect of that – it looks like our past. But it is not; it is related to our past, since it moves in that direction. The Bible is a book of the future. The New Testament and the oracles of the Old Testament: they are about tomorrow. The setting, the backdrop, will be familiar to us; the events will be played out against that setting… but the events are new. We must separate set and ground, here. The ground is old; set is new. We are participants in the set.
+
+Ground equals WHERE Set equals WHAT
+
+The WHAT is Final Reckoning Time or Out-of-Time, and after accounts are settled, we get to go to the seashore. Okay? But first the poor rat has to die; poor creature; and then we’re released.
+```
+**Co-occurrences**: Indexed, Bible, Like, Since, Time, After, Book, Okay, Zebrapedia, Ground, Will, Testament, Chip, Final
+
+---
+### Line 300-308 (Match: 'Claudia')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Zebrapedia
+19
+Complete
+19
+Dear Claudia,
+
+I've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.
+
+Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected the dead or sleeping man the way the forces of spring/nature revive all sleeping roots, bulbs, trees, etc.; all nature which is not man, and that the cyclic small year is to nature in general as the great year (200 B.C. to 2000 AD) is to the species man. Therefore, in my novel, TO SCARE THE DEAD, if the "Essene" were to awake from his 2000 year slumber, he would bring spring to the character, Nicholas Brady (the name I've chosen for my protagonist), and no separation can be made between this resurrection and the deity Zagreus-Christ and what a bulb esxperiences. So:
+```
+**Co-occurrences**: Christ, Complete, However, Dionysos, Like, Therefore, Book, Zebrapedia, Zagreus, Great, Christos, Essene, More, Deity, Would, Were, Further, Spring, Dead
+
+---
+### Line 316-324 (Match: 'Claudia')
+**Folder**: book as
+
+```text
+Complete
+20
+itself. The entire morphos within the seed is there --the entelechy waiting to unfold-- but it must wait until the signals reach it, the sun/warmth/moisture and the air ion changes which penetrate to it and trigger it off. This is what happened to me, and the place of origin for the plants is the Sun; for me and for us all, I think it is a certair star, which I know only by the code name Albemuth. A star signalled him -- he, the root, is signalled by the star, thus completing the meaning of ”I am the root, and the bright morning star." That which has been hidden below ground -- within our biosphere, not that he literally is underground is activated by signals arriving from Albemuth.
+
+Claudia, you must read THE LATHE OF HEAVEN of Ursula le Guin. It is evident that the dream universe which she speaks of is uncannily like what l have written you about, concerning my experiences. We are, Ursula and I, being "dreamed awake" now; told to wake up. Our books mirror this strange experience; we are only forerunners, she and I: among the first. Ursula wouldn't agree, but a comparison by Ian Watson in SFS shows the similarity between THE LATHE OF HEAVEN and my own experiences which is so obvious as to exlude controversy. Aldemar or whatever her star is, that is Albemuth (Fomalhaut) for me.
+
+That the "dream universe moving to become the actual" is a true process actually taking place -- this concept would be frightening, except that we must realize the intent of the Dreamer Who dreams us: He is waking us, now; it is a voice still within the dream, much like Glen Runciter's, which is saying, "Rouse yourself and be warm; spring is here."
+
+(Claudia, if I don't write much for the next month or so it is because we are moving to our new house. You understand. Did I tell you I wrote Ornstein? Did I tell you my blood pressure is down finally and that the doctor said flat out that he think it's so elevated when I come in for my test because of the pretty little blonde nurse who takes it? When she takes it, the top reading is 220; when he takes it, ten minutes later, it's only 170. I gave the nurse yesterday a little ivory cross. She's moving to Oregon, to get away from the density of population here. To get out of her apartment. The receptionist said to me, with maybe more truth than wit: "Well when Anne takes your blood presit's so high you have to keep coming back in; that's the way we keep our patients coming in." The other side of that is that unconsciously I've had a vested interest in needing to come in for being tested. They all kid me there about my crush on Ann Darling (what a name for a little blonde nurse, right?) When I call in and ask if I can talk to one of Dr. Morrison's nurses, they say, "Oh it's you; yes we'll get ann to the phone." Odd as it sounds, there may be truth in this; Ann was the only person who sent us a congratulation card when Christopher was born, and there is so much mobility in Orange County that she was (alas, was) one of the few people I could count on seeing. Her and Carol, my therapist, who is still injured physically and not at her desk due to showing a patient how to work out ones hostility harmlessly.
+```
+**Co-occurrences**: Complete, Well, Maybe, Like, Because, Only, Book, Could, Being, Runciter, House, Still, Wait, More, Star, Heaven, Ground, Voice, Actually, True, Universe, Finally, Christopher, Would, Other, Back, Whatever, Have, Spring, Later, Except, Cross, Blood, Truth, Dream, Right, Until
+
+---
+### Line 320-328 (Match: 'Claudia')
+**Folder**: book as
+
+```text
+Claudia, you must read THE LATHE OF HEAVEN of Ursula le Guin. It is evident that the dream universe which she speaks of is uncannily like what l have written you about, concerning my experiences. We are, Ursula and I, being "dreamed awake" now; told to wake up. Our books mirror this strange experience; we are only forerunners, she and I: among the first. Ursula wouldn't agree, but a comparison by Ian Watson in SFS shows the similarity between THE LATHE OF HEAVEN and my own experiences which is so obvious as to exlude controversy. Aldemar or whatever her star is, that is Albemuth (Fomalhaut) for me.
+
+That the "dream universe moving to become the actual" is a true process actually taking place -- this concept would be frightening, except that we must realize the intent of the Dreamer Who dreams us: He is waking us, now; it is a voice still within the dream, much like Glen Runciter's, which is saying, "Rouse yourself and be warm; spring is here."
+
+(Claudia, if I don't write much for the next month or so it is because we are moving to our new house. You understand. Did I tell you I wrote Ornstein? Did I tell you my blood pressure is down finally and that the doctor said flat out that he think it's so elevated when I come in for my test because of the pretty little blonde nurse who takes it? When she takes it, the top reading is 220; when he takes it, ten minutes later, it's only 170. I gave the nurse yesterday a little ivory cross. She's moving to Oregon, to get away from the density of population here. To get out of her apartment. The receptionist said to me, with maybe more truth than wit: "Well when Anne takes your blood presit's so high you have to keep coming back in; that's the way we keep our patients coming in." The other side of that is that unconsciously I've had a vested interest in needing to come in for being tested. They all kid me there about my crush on Ann Darling (what a name for a little blonde nurse, right?) When I call in and ask if I can talk to one of Dr. Morrison's nurses, they say, "Oh it's you; yes we'll get ann to the phone." Odd as it sounds, there may be truth in this; Ann was the only person who sent us a congratulation card when Christopher was born, and there is so much mobility in Orange County that she was (alas, was) one of the few people I could count on seeing. Her and Carol, my therapist, who is still injured physically and not at her desk due to showing a patient how to work out ones hostility harmlessly.
+
+The vernal equinox is almost here. Pretty girls are everywhere, and the buds are opening into color; psychedelic color is the life of the world, the language in which the Creator speaks to us.
+
+Last edit over 5 years ago by Siegman
+```
+**Co-occurrences**: Well, Maybe, Like, World, Because, Only, Book, Could, Being, Runciter, House, Creator, Still, More, Star, Heaven, Voice, Actually, True, Universe, Finally, Christopher, Would, Other, Back, Whatever, Have, Life, Spring, Later, Except, Cross, Blood, Truth, Dream, Right
+
+---
+### Line 351-359 (Match: 'Claudia')
+**Folder**: book as
+
+```text
+We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus died as any man dies -- but another Christ, and probably another Paul were born out of and after that. Rebirth does nor mean to return as you were, in a mere cycle; this is where the wheat seed could not have been a wheat seed, because Jesus specifically says that on its own the grain of wheat leads a solitary life, and after it is thrown into the furrow (the grave) it is reborn differently, into a communal life. "Reborn in glory and no longer alone." A single vast plant "the mustard tree in which birds roost" will come about; I think this is what we call the noösphere, and I myself have already entered it.
+
+In March it took me over totally; I was a spectator to my dream in waking life, as it awoke.
+
+If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
+
+Please get the book A GOD WHITHIN by René DuBois (Scribner's). He discusses this.
+
+i must tell you if I didn't already; the Brit 3 says that belief in and research about the Logos surfaced around 1055 in Europe (it had been a long dormant doctrine in both theology and philosophy) when explorers reported that culture after culture, which had had no contact with Christiantity, had obvious analogs of our religion to which they gave credence. The doctrine of the Logos, which imprinted the form of our omnicultural religion on all men caised this revival; it would explain why in all cultures similar ideas exist; the Brit 3 gives a few and I must admit, it is too close to be a coincidence. Even if our religion is "true" there remains the need to explain how each tiny tribe everywhere possesses the essence of it, although names differ. I think the Logos doctrine is the best theoretical explanation for this (take me; I am a very small tribe: I, and Tess and Chris; yet we were imprinted by Something, and at once I noetically knew the formularies of the sacrament of the Feast of Agaboe, and acted it out. Later, reading up on it, I found I had gotten it right, the very minor points even. You see?)
+```
+**Co-occurrences**: Christ, Logos, Jesus, Form, Paul, These, Because, Only, After, Book, Even, Could, Does, Something, Once, Again, Both, Zagreus, March, Runciter, Although, Probably, More, Another, Living, Real, Voice, True, Death, Will, Deity, Would, Were, Very, Have, Tree, Life, Later, Testament, Dream, Right
+
+---
+### Line 547-555 (Match: 'Claudia')
+**Folder**: Unknown
+
+```text
+Needs Review
+34
+is only a beginning; it only shows that the various strata of the past are retained --taped, or engrammed-- in each of us' minds. What are the limits to this knowledge? How far can one go in this process of transformation? Far indeed, a long journey which, as with the two arcs, brings one back to one's starting point (which is why I saw Rome; that was the prior intersection.
+
+Dear Claudia,
+
+Enclosed is 4 pages of notes -- also Xerox of the Kozyrev paper (1967) on his study of the properties and nature of time.
+
+I've briefly glanced over this paper of his, and I am sure that in March 1974 he made a major breakthrough in experimentation, perhaps even downright use, as medium of simultaneous transfer of information, of time as a ubiquitous field throughout the universe.
+```
+**Co-occurrences**: Xerox, Rome, Perhaps, Only, Time, Even, March, Universe, Back, Journey, Information, Knowledge
+
+---
+### Line 598-606 (Match: 'Claudia')
+**Folder**: part was
+
+```text
+Needs Review
+37
+Hypnagogic thoughts: field one and field two somewhat like Form one and Form two of Hericlitus, which is like Yang and Yin. The gnostics believed in only two parts of universe's time cycle: now (drudgery, which would be roughly Form two) and the good spring to follow (or form one, Yang). (Hence: fire will test all; the ushering of the Hericlitus concept of dry soul which sees monistic world. Dried out -- like in dream where very dry cigarette is lit by the God telling me of the leader to come.
+
+The stale, dried-out cigarettes in UBIK: Indication that the Other Field or Form had entered (in the novel, as Claudia pointed out, dried out cigarettes were error; world is becoming cold, decaying, not dried out. I think the stale dried out cigarettes, which are not orthogonal reversions (sic) like to LeSalle car, are a sort of hair-line border line between; sign that decay, going along normal lineal axis, has swallowed itself up, completed itself; and lineal time is fulfilled; Form Two has ended, to be replaced by Form One (springtime, Yang, fire). Very brief flurry at change-over.
+
+Tessa had recently bought pach of cigarettes, disgusted to find them stale. Exactly like Joe Chip in UBIK. Surprise. Also like a joint. Also like wafer; dry, before wine. Ah, smokes was wafer; "Vinland" was the blood. That is correct sequence in Mass: first dry wafer, then moistened by the wine (blood).
+
+Er kommt, er kommt! Der Brautgaum kommt!
+```
+**Co-occurrences**: Ubik, Form, Gnostic, Like, World, Only, Time, Good, Yang, Joint, Tessa, Soul, Before, Universe, Will, Would, Other, Were, Very, Spring, Form One, Blood, Dream, Chip
+
+---
+### Line 640-648 (Match: 'Claudia')
+**Folder**: part or
+
+```text
+The tension view of bow and lyre (fr 51) would be a fine thing for structure-as-a-whole (plague of rats on planet One balanced by superabundance of Warfarin[g] on planet Two), but this treats every subsystem as expendable. The oscillation interpretation would mean that imbalances within each descending level of subsystem would be balanced; re my dream about the 3 lives I might have led, with Tao establishable within each one: not left balanced by right, but balance within left; balance within mid; balance within right. Within each subsystem is that balance or Tao. In each segment, no matter how biasedly cut, or small, that segment (of a former whole) then becomes a whole, and spreads out fan-wise (Rhipidon!) to give a left, middle, right section, space being infinitely divisible. You could compare this to the regenerating by the two parts of the worm when cut in half; soon you have, not two halves, but two wholes. You know, I think of Peter Mann's account of the murdered baby rabbit sending out a microwave signal which the mother, miles away, on a shore, picked up. Meine Schwester, die [gestorben], hatte solch ausgeschicht; weit von uns, sehr weit, irher Himmlicher Vater es gehort hatte, und Hilfe [x] geschenkt [?]at; nun kommt es, die Antwort davon.
+
+No, as mechanical bounce-back or even noos-reinforced (changed to act as deliberate responses) they are more archaic, language and concepts indicate if answers, then to signals sent out circa 400 B.C. By our species, not be me qua me. (Then about 1000 Light years away, twice two.)
+
+In UBIK: the form-reversion which Joe Chip sees would be a negantropic process; as the forms regress (sic) they gather energy, since moving retrograde to the entropic expansion outward motion of the universe. Suggests that Joe Chip saw the parity's counterforce, there to establish symmetry through principle of conservation; this is a balancing agent against the lineal forward toward entropy, and not, repeat, NOT a decay process (as Claudia pointed out re the cigs and cream -- those move forward to decay...that is a forward, not retro process. I had confused decay with "moving backward," contracting
+
+Last edit over 5 years ago by Harpax
+40
+Needs Review
+```
+**Co-occurrences**: Ubik, Form, Since, Harpax, Noos, Light, Even, Could, Being, Those, More, Through, Mother, Universe, Would, Back, Have, Wise, Dream, Chip, Right
+
+---
+### Line 648-656 (Match: 'Claudia')
+**Folder**: part or
+
+```text
+Needs Review
+40
+Thus what UBIK contains as the most important scientific discovery possible is this energy-attracting, retrograde contraction working against the expansion into entropy. This, too, is what hit me in March 74, and it was indeed energy-giving, ot acquiring, not losing or taking; transfer of heat from a warmer body, against the cooling off process of entropy. This certifies as valid the view in the form-reversion is energy-gathering; older prior forms had in them greater latent heat.
+
+Dear Claudia,
+
+Here are some vital new thoughts, esp on UBIK. You'll note that my real insight comes as I realize that your point re the cream souring, and the cigarettes, are contra the form-reversion and are normal but speeded up (lineal to entropy outcome) decay. Thus, you did it, baby; YOU did it.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Ubik, Form, Harpax, March, Most, Real, Body, Greater
+
+---
+### Line 796-804 (Match: 'Claudia')
+**Folder**: part segment
+
+```text
+My original dreams back in 3 and 4 1975 indictated ETI more than anything else (the cyclops and sibyl dreams). Yet, they could have represented Earth's distant past.
+
+Also, I could be pre-coging the Parousia, and they will manifest themselves as ETI, from the "bright, morning star." So both could be true. (But the previous dream about "Vinland" suggests explorers (Norsemen, the first whites to come here to the New World. Albemuth could represent Nova Albion.) In which case, "scouts" are scouting parties from another star, the first to land or to have already landed. They seem most like concerned scientific teams exploring a backward region that lacks medical and other help it needs.
+
+Dear Claudia,
+
+Here are some more notes......are you getting tired of all this? I do think (see the 10 pages supra) that something is at hand -- something good for us which'll help us.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Parousia, Like, World, Earth, Harpax, Good, Could, Something, Both, Sibyl, More, Another, Star, Most, True, Will, Other, Back, Have, Dream
+
+---
+### Line 1357-1365 (Match: 'Claudia')
+**Folder**: book certainly
+
+```text
+There are all three actually one: asleep, seeds buried during winter, half-alive. All one, to be wakened to (full or real) life, which is Spring, the calling by Spring to those in winter. Wachet Auf, once more, but I see the identity of the 3 above. And it's so clear to me, now. And:
+
+(four) What happened to me in 3 74 growing to 3 75.
+
+The identity of all 4 above. I see this from what I wrote to Claudia, and in my [UX?] speech, esp. the Ornstein letter. "Those dead, in their graves, who will not all sleep" is a metaphor about us; we shall not all sleep (in a form of death or half-life), but we --we!-- shall awake[n]. It is a waking up, at being called (born again).
+
+"For that mortal man must put on immortality."
+
+It is conferred on him. Not achieved.
+```
+**Co-occurrences**: Form, Once, Again, Being, Those, Their, More, Real, Actually, Death, Will, Life, Spring, Dead, During
+
+---
+### Line 2108-2116 (Match: 'Claudia')
+**Folder**: book dream
+
+```text
+156
+. . . If I am going to systematically list all the elements in TEARS which are revelation (i.e. from scripture) (and I've tried to do this, supra supra) I think I missed the foremost element: when Felix Buckman hugs the black man it is the "kiss" or hug of the feast of agape, the cardinal moment of the authentic service of rememberance (he who is kissed or hugged, who is Anyman is of course Jesus). Also, it is evident from the text that the unknown (stranger) black man somehow it identified with Taverner, and it must be recalled that Felix Buckman partook earlier in the novel of a meal with Taverner, which was an odd thing for him/them to do. To back up this hug as cardinal moment of the now-suppressed original sacrament, consider the drawing which Buckman made prior to hugging the black man, and passed to him: the heart pierced by the arrow; which beyond doubt is a wordless graphic rendering of the idea of love (agape). It was the embrace of life. As witnessed the sudden sundering of the one-child-to-each-black-couple law.
+
+My very recent book dream, the masterpiece novel gummed into the encyclopedea -- it refers to such as the above novel cum covert message, as well as UBIK, etc. I'm beginning to think this most recent dream did not carry the message: Write such a book. But rather: You did write such books (with the gospel reassembled from trashy bits, as Lem put it). (So as to get past the Soviet Marxist materialist censors.) "There are other sheep whom I must bring in," as Christ said. This dream told me not what to do but explained to me what I have been doing. I, so fashionable to Marxists both in the West & East -- I, unknown even to myself, carrying the gospel to them in a form acceptable to them. I wonder, now that (3 74) it was explained to me, if I could do it, now being self-conscious and deliberate and doing it myself per se; maybe my work is done, successfully. I was finally told what I had done: the sheep in wolf's clothing, so to speak. As my Vancouver dream, in which Kathy and all of them took off their masks and said, "Now we can finally explain it all to you," it was in 3 74 finally all explained to me. Looks to me offhand as if UBIK was freighted the best. Maybe now I can rest. It's interesting -- you can flatout outfront tell a Marxist that my work is theological in nature (as I did Fitting etal, and also Claudia), and it doesn't register, as if I never even said it. "He doesn't comprehend his own work," as one of them said. Not only can't they see it unaided, they can't see it aided. Yet I am positive that on some level (right hem?) they are absorbing it; ah yes: subliminally!! I think this is why so many of my dreams --plus my intuitions themselves about my 3 74 experience-- contained elements pertaining to the USSR. Paranoiacally, I had it backward; they weren't influencing my thoughts, but I theirs (via my stories, novels, speeches, letters, oral discourse!!). Lord -- I think when they see the cross I wear, or read theological elements --find them in my writing, they think I am "one of them," but adding these as a sort of disguise to fit into capitalistic Christian Western society; my golly, they have it backward, but it's layer under layer; the bottom which (spreading the gospel to the Soviets) was unknown even to me. Until it was revealed to me in 3 74. Probably the most severe assault delivered in my work is against materialism as such, in my probing into the illusory nature of apparent reality...but surely this is a prime assault against the Enemy, against Marxism as one form of it.
+
+Last edit over 5 years ago by Harpax
+157
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Jesus, Form, Felix, Well, Lord, These, Maybe, Only, Harpax, Black, Buckman, Book, Even, Gospel, Could, Taverner, Soviet, Both, Reality, Being, Self, Probably, Kathy, Their, Most, Such, Love, Revelation, Consider, Western, Finally, Other, Somehow, Very, Back, Beyond, Surely, Under, Many, Have, Life, Cross, West, Dream, Doesn, Right, Until
+
+---

@@ -1,0 +1,347 @@
+# Evidence Packet: Deity
+
+- **Category**: Top Term
+- **Total Mentions**: 39
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 149-157 (Match: 'Deity')
+**Folder**: book the
+
+```text
+Magic equals life equals warmth equals poppies. Now, poppies are an exotic flower, with intense colors, identified with foreign lands (this I’m sure is why Ms. Fisher chose them).
+
+Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
+
+These are maypole and mayday rite anyhow: the flower garland, winding it around the snowman figure. And the way by which Rosemary made the flowers actual (and hot) was by singing a song. So you can see how much is here – song, the winding of the flower-imprinted garland, the great inert figure of the deity! And then life comes – she wanted the Sprint to come, they all did. In the novel the poppies, alive, were explicitly equated with Spring.
+
+Taking a leaf from Marlo Thomas – the best thing a child’s book can do is teach what the child may be and do. Which he otherwise never would have thought of (the worst is to say, no you can’t do or be that. To limit him). Did THE RED FEATHER teach me something our people have forgotten they can do? I leaned otherwise?
+
+Last edit over 5 years ago by Zebrapedia
+```
+**Co-occurrences**: Thomas, These, Only, Book, Even, Anyhow, Zebrapedia, Something, Being, Great, Those, Still, Would, Were, Have, Life, Spring, Remember, Magic, Otherwise
+
+---
+### Line 304-312 (Match: 'Deity')
+**Folder**: part of
+
+```text
+Dear Claudia,
+
+I've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.
+
+Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected the dead or sleeping man the way the forces of spring/nature revive all sleeping roots, bulbs, trees, etc.; all nature which is not man, and that the cyclic small year is to nature in general as the great year (200 B.C. to 2000 AD) is to the species man. Therefore, in my novel, TO SCARE THE DEAD, if the "Essene" were to awake from his 2000 year slumber, he would bring spring to the character, Nicholas Brady (the name I've chosen for my protagonist), and no separation can be made between this resurrection and the deity Zagreus-Christ and what a bulb esxperiences. So:
+
+In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: his job requires him to fake what he is, to be inauthentic inasmuch as he fronts for the government re the recording artists he deals with. This has produced a schism within him. There can be others, but basically he leads a typically modern inauthentic schismatic existence --note existence, not life. There is no growth, just the constant revolution of the wheel of lineal time which accumulates only dust. So:
+
+When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
+```
+**Co-occurrences**: Christ, Thomas, Form, Well, However, Dionysos, Perhaps, Like, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Would, Other, Page, Were, Further, Life, Body, Claudia, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+
+---
+### Line 351-359 (Match: 'Deity')
+**Folder**: book as
+
+```text
+We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus died as any man dies -- but another Christ, and probably another Paul were born out of and after that. Rebirth does nor mean to return as you were, in a mere cycle; this is where the wheat seed could not have been a wheat seed, because Jesus specifically says that on its own the grain of wheat leads a solitary life, and after it is thrown into the furrow (the grave) it is reborn differently, into a communal life. "Reborn in glory and no longer alone." A single vast plant "the mustard tree in which birds roost" will come about; I think this is what we call the noösphere, and I myself have already entered it.
+
+In March it took me over totally; I was a spectator to my dream in waking life, as it awoke.
+
+If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
+
+Please get the book A GOD WHITHIN by René DuBois (Scribner's). He discusses this.
+
+i must tell you if I didn't already; the Brit 3 says that belief in and research about the Logos surfaced around 1055 in Europe (it had been a long dormant doctrine in both theology and philosophy) when explorers reported that culture after culture, which had had no contact with Christiantity, had obvious analogs of our religion to which they gave credence. The doctrine of the Logos, which imprinted the form of our omnicultural religion on all men caised this revival; it would explain why in all cultures similar ideas exist; the Brit 3 gives a few and I must admit, it is too close to be a coincidence. Even if our religion is "true" there remains the need to explain how each tiny tribe everywhere possesses the essence of it, although names differ. I think the Logos doctrine is the best theoretical explanation for this (take me; I am a very small tribe: I, and Tess and Chris; yet we were imprinted by Something, and at once I noetically knew the formularies of the sacrament of the Feast of Agaboe, and acted it out. Later, reading up on it, I found I had gotten it right, the very minor points even. You see?)
+```
+**Co-occurrences**: Christ, Logos, Jesus, Form, Paul, These, Because, Only, After, Book, Even, Could, Does, Something, Once, Again, Both, Zagreus, March, Runciter, Although, Probably, More, Another, Living, Real, Voice, True, Death, Will, Would, Were, Very, Have, Tree, Life, Claudia, Later, Testament, Dream, Right
+
+---
+### Line 462-470 (Match: 'Deity')
+**Folder**: book about
+
+```text
+February 29, 1975
+
+Dear Henry,
+
+I had worked out beyond any reasonable doubt evidence that the ancient deity Dionysos had infused me and made me his back in March of last year. In an article to be printed in England, in a book, I was going to reveal this.
+
+However, I have discovered that I have been tricked. It is not the ancient Phrygian god of the vinetree, but Erasmus pretending to be Dionysos. My problem now is that I have toiled in vain in order that Erasmus have his little joke.
+
+To his credit, he was delighted when I abruptly guessed that it was him and not Dionysos. Still, after I had enjoyed realization of the clues which Erasmus had left along the way (all of them puns, double puns, and which I always saw solemn and heavy meaning in -- the wrong meaning leading me astray), I discovered that there are in the universe always layers below layers, and that the universe resembles nothing so much as an onion the innermost layer of which is also the outer. For instance, perhaps it filled Dionysos with mirth to pretend to be Erasmus. Would not the god of mirth get off on that? Maybe it is Dionysos pretending to be Erasmus pretending to be Dionysos. Maybe they are the same.
+```
+**Co-occurrences**: However, Dionysos, Perhaps, Maybe, After, Book, March, Nothing, Still, Universe, Would, Erasmus, Back, Beyond, Have
+
+---
+### Line 1059-1067 (Match: 'Deity')
+**Folder**: part of
+
+```text
+between two opposite sequential states; my experience began when I was "listening for very weak signals to transduce," which was meekness (I got it right, picked up paw talk, etc), and then came the chromatic fire. That was when I received God or God's Power or Spirit, the Yang upon me-as-Yin. Possession of me by the God took place, as Ted Sturgeon says in VENUS PLUS X or whatever, this being what was really sought at the Feast of Agape. No wonder they say, as Doris points our, God is love! Wow, He sure is! It is a (ahem) mating (again vide Yeat's poem "Leda and the Swan.") But that was one year ago -- over a year ago. Actual possession lasted days, weeks, slowly drained off; no more than a couple weeks, the electrostatic life form gradually drained off. But Firebright remained; the dreams remain right up to now; contact (Fellowship) with God remains.
+
+Spring is the mating season. As Psy Today says, it's based all the way up to cosmic influences (sidereal). All synchronized.
+
+By following all the admonitions of the Gospels, one literally courted the great masculine Father deity so that he literally possessed the Christian. From this (receiving the Holy Spirit, as they put it euph[e]mistically) they got various powers: healing, prophecy, ability to discern, and were made Righteous, which I experienced as a thirst for Truth and Justice and going the right thing. "Gifts of the Spirit," yes, but those who were possesses were also the "First fruits of the harvest," which meant that they gained something permanent; this would correspond with my being back in Rome; i.e. escaping the thrall producing death -- hence, freedom, release, from the power of death. Certainly, of all the various gifts, this would matter the most. I myself experienced reality on an inner ontological basis (assimilating objects themselves rather than mere phenomena), saw the structure of the universe (Logos or Plan), have and still retain fellowship --contact-- with God, which is to say, knowledge of him. I didn't just get the power to heal; I was healed. I walked with God and communed with him (along the alley that day, also in trances and dreams). I knew the true state of things (the tyranny) and what to do. But to dream of Crete or dream of Rome is a lot difference than that perios when I was there; when for me time was abolished. This is what I mean when I say, The power of the world over me was broken. It got that cardboard fake quality. Now it is clear about the Father-Son (JHWH-Christ) relatinship (Zeus-Zagreus). The Holy Spirit, a form God the Father takes, impregnates (the person receives it) and Christ consciousness is born (in Mary's case, Jesus Christ physically born from her womb, she being made with child by the Holy Spirit). Out of this union comes Christ. The father is God. The impregnating spirit is the Holy Spirit. (Does Christ grow up to be Jehovah? Why hasn't anyone ever asked that before? Or like him? I think he can be like him or even be him.) Where is the Logos in all this? The outcome of possession by the deity is Logos relatedness, in the sense Hericlitus meant. One (the receiving one) is brought into conformity with it, while the Christ within, Firebright, grows. The former mere moral human, full of sin (sickness and insanity) is consumed by the growing Christ, moves toward him, toward the Logos, with it as exemplar and outcome: as perfected form. The Logos is the plan and information which leads to that completion, a process begun by the Holy Spirit initially.
+
+Last edit over 5 years ago by Harpax
+73
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World, Time, Harpax, Cosmic, Even, Gospel, Yang, Firebright, Does, Just, Something, Again, Reality, Zagreus, Being, Jesus Christ, Great, Those, Still, More, Zeus, Most, Upon, Certainly, Love, Before, Doris, True, Death, Universe, Would, Were, Very, Back, Whatever, Have, Things, Life, Justice, Spring, Fake, Information, Freedom, Days, Sturgeon, Knowledge, Truth, Today, Human, Dream, Crete, Right, Mary
+
+---
+### Line 1065-1073 (Match: 'Deity')
+**Folder**: part is
+
+```text
+Last edit over 5 years ago by Harpax
+73
+Needs Review
+73
+This makes of the Trinity a great biological organism in its several stages or phases: father-son is obvious, with the holy spirit bringing about the production of the son, using the human as "mother." (Just as Mary was used; she is the exemplar for that.) God gets from where He is to produce Christ (as many as God wishes, all of which probably share one "body," one "mind," which is transpersonal) via the activity of the Holy Spirit. Certainly the distinctions between God the Father and Christ the Son are clear (Zeur to Zagreus), but then someone asks, "How does the father produce the song? By binary fission? By parthonogenesis, which would make Him a Her?" Answer: as Holy Spirit her very Yanglishly uses one of us, which makes the human race the bride, not of Christ, but of God. (Hence the strange bride and bridegroom imagery in the church --"Wenn kommst du mein Heil? Ich komme dein Teil," etc., which I knew was erotic but which I couldn't understand. It has passed down to us in a typically garbled form. The Som is not the bridegroom; He is the issue. God is the Groom; Man is the Bride. Thus, we mere perishing mortals are brought up to participate in an act of biological or anyhow metabiological reproduction of an immortal and very superior electrostatic deity-race, and gain immesurably from this act; if never involved in this, we mere mortals perish in the most miserable and pointless fashion, just as the Bible says. The odd part is, the text of the New Testament really has got it all there, if you just get the proper slant on it, which we don't get, the sort of biological, reproductive, live-form, springtime, mating thing...it's there, but for some wild weird reason we utterly reject and cast out as unholy and suggestion of the erotic...except in the odd idea of Bride and Bridegroom, Christ and the Church. This is a case of almost being right, but the not-quite bit is a razor's edge bit, separating us absolutely. We get just to the edge of grasping it...but as the "Decoded N T" says, it isn't an intellectual thing anyhow; "grasping it" doesn't do it, any more than reading about the sexual act among cats produces cats. It's the old confusion between banana and the word banana. (Philosophy.) Reading about being seized by the Holy Spirit and believing that the HS exists and that it can do it, and that immortality therefrom is possible, through Christ, doesn't produce it in you. Too bad, but as the "Dec N T" says, no universe ever worked any other way. This is what I've meant by "cargo cult."
+
+(It's interesting how in my novel MAZE OF DEATH I wrote about a society where the communication and I guess by inference reproduction of God to his Son did take place routinely; anyhow there were a lot of Walkers-on-Earth bopping around, which is what this is supposed to achieve.
+
+I guess you could say, the total family is, God (JHWH), his impregnating self which comes to man (the Holy Spirit, sent by God) (as Christ said), and if Christ is the Son, the issue, it's pretty obvious that we humans are the mother; we're all Mary right now, until we receive an inner, Light-body transformation, into what they call Christ Consciousness. Our completion/perfection is not here on this Earth, but after our physical body perishes ("If a grain of wheat remain solitary, not sown then it --" etc. Well, [i] guess [i] got it. Albemuth: the star of Bethlehem, which I kept gazing up, seeking. Point of His (HS) origin?
+```
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Maze, Father, Earth, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Certainly, Mother, Death, Universe, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+
+---
+### Line 1124-1132 (Match: 'Deity')
+**Folder**: Book of
+
+```text
+Last edit over 5 years ago by Harpax
+78
+Needs Review
+78
+The Second Advent or God's Intervention, the prophecy, is more accurately the running down or wearing out of our kosmos, and the revitalization. Here is the biological model, rather than the mechanical model (vide Hussey). The egg: reborn, et al. Biological models. Orphic. What repels me about Marxism is its mechanistic quality. I get the impression that some of the very early Greeks believed that when the kosmos had run down sufficiently, the Unbounded (i.e. the deity) had of necessity to revitalize it, or whatever he did; we are all governed by law of some kind; it wasn't by whim. (Ananke? Moira?) (Ananke, I guess.) Is this view not sort of Babylonian? "Can be counted on, is I guess all we can know for sure, especially if He has promised. What is really just important, though, it so realize that beyond our kosmos (which we keep calling "the universe") lies the Unbounded, which "governs" the universe, and so is the natural source of physical law. (Hussey) "More-over, the lawlike behavior occurs 'by necessity,' which implies a power imposing the necessity, and 'according to the assessment of Time.'" It's all there. My idea the other night was: suppose the universe were entirely emptied of all matter, in every form. So it was just empty space. Nothing, then, would exist. Right? Wrong. All the laws, which now govern matter, which govern energy as well, would obtain, although we couldn't discern them. It seems to me that if we don't assume as Unbounded (as so represented by the pressure of these necessities on matter and energy) we are just describing, we are saying, "Things do what they do because they do it." A tautology. An observation of regularity, not an analysis of why. You could approach it another way if desired: either the universe does not run down (but the laws of thermodynamic show that it does), or it ends; or it periodically is renewed. To say that it renews itself poses certain problems; I find it easier to imagine it renewed from without, although that poses certain problems too. But if the universe is everything, then it begins to run down (like a clock, like an animal) and then suddenly it revitalizes itself (as I experienced). I am equating the Second Advent & God breaking his silence with this turn of the cycle, this springtime, this revitalization. I think this is what has happened. A revitalizing is going on, and it certainly comes here from elsewhere. Where that "elsewhere" is, I don't know, but I've experienced a real, alive, thinking force.
+
+One of the best points in Hussey's book is where he says that one of the ancient Greeks (Anaxamander, maybe) assigns to the deity this primary fu[n]ction or activity or attribute or quality of definition: we would experience the return of God, this revitalization, as exactly what the word implies: a renewal of life.
+
+I note that Parmenides' Form I is equated, by him, with light: This is exciting, since as I understand Parmenides, he saw Form II as a mere mirror reflection, and urged a monism on us (the fiery or dry soul) which made us relate only to Form I, or to light.
+```
+**Co-occurrences**: Form, Greek, Well, These, Advent, Maybe, Like, Parmenides, Since, Because, Only, Time, Harpax, Book, Light, Could, Does, Just, Suppose, Kosmos, Although, Everything, Orphic, Either, Without, Nothing, More, Another, Soul, Real, Certainly, Universe, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+
+---
+### Line 1126-1134 (Match: 'Deity')
+**Folder**: book is
+
+```text
+Needs Review
+78
+The Second Advent or God's Intervention, the prophecy, is more accurately the running down or wearing out of our kosmos, and the revitalization. Here is the biological model, rather than the mechanical model (vide Hussey). The egg: reborn, et al. Biological models. Orphic. What repels me about Marxism is its mechanistic quality. I get the impression that some of the very early Greeks believed that when the kosmos had run down sufficiently, the Unbounded (i.e. the deity) had of necessity to revitalize it, or whatever he did; we are all governed by law of some kind; it wasn't by whim. (Ananke? Moira?) (Ananke, I guess.) Is this view not sort of Babylonian? "Can be counted on, is I guess all we can know for sure, especially if He has promised. What is really just important, though, it so realize that beyond our kosmos (which we keep calling "the universe") lies the Unbounded, which "governs" the universe, and so is the natural source of physical law. (Hussey) "More-over, the lawlike behavior occurs 'by necessity,' which implies a power imposing the necessity, and 'according to the assessment of Time.'" It's all there. My idea the other night was: suppose the universe were entirely emptied of all matter, in every form. So it was just empty space. Nothing, then, would exist. Right? Wrong. All the laws, which now govern matter, which govern energy as well, would obtain, although we couldn't discern them. It seems to me that if we don't assume as Unbounded (as so represented by the pressure of these necessities on matter and energy) we are just describing, we are saying, "Things do what they do because they do it." A tautology. An observation of regularity, not an analysis of why. You could approach it another way if desired: either the universe does not run down (but the laws of thermodynamic show that it does), or it ends; or it periodically is renewed. To say that it renews itself poses certain problems; I find it easier to imagine it renewed from without, although that poses certain problems too. But if the universe is everything, then it begins to run down (like a clock, like an animal) and then suddenly it revitalizes itself (as I experienced). I am equating the Second Advent & God breaking his silence with this turn of the cycle, this springtime, this revitalization. I think this is what has happened. A revitalizing is going on, and it certainly comes here from elsewhere. Where that "elsewhere" is, I don't know, but I've experienced a real, alive, thinking force.
+
+One of the best points in Hussey's book is where he says that one of the ancient Greeks (Anaxamander, maybe) assigns to the deity this primary fu[n]ction or activity or attribute or quality of definition: we would experience the return of God, this revitalization, as exactly what the word implies: a renewal of life.
+
+I note that Parmenides' Form I is equated, by him, with light: This is exciting, since as I understand Parmenides, he saw Form II as a mere mirror reflection, and urged a monism on us (the fiery or dry soul) which made us relate only to Form I, or to light.
+
+The Orphic egg. If the universe is born from something for which the eff is a paradigm, then maybe, as the individual is, then both are reborn from something like an egg -- a light egg. Maybe this was the exoteric teachings of the Orphic: rebirth. Rejuvination (eternal life).
+```
+**Co-occurrences**: Form, Greek, Well, These, Advent, Maybe, Like, Parmenides, Since, Because, Only, Time, Book, Light, Could, Does, Just, Something, Suppose, Both, Kosmos, Although, Everything, Orphic, Either, Without, Nothing, More, Another, Soul, Real, Certainly, Universe, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+
+---
+### Line 1150-1158 (Match: 'Deity')
+**Folder**: book is
+
+```text
+Last edit over 5 years ago by Harpax
+80
+Needs Review
+80
+My sense that Firebright has done on only means that He, a half Light, Half Human creature, is now strong enough to leave the "womb," which is good. Any immortality I have will be through the fact that He is immortal; like all children, he must leave, Son of a Mortal Mother (myself) and Deity (God as Father). Tessa points out it's a corporate body, like yogurt (in the dream, the renewing fish that's sliced forever). Christ as pure Light Being is the Head; we all form the body; we are immortal with Him. It would be dreadful to be immortal alone, separate.
+
+There is no doubt that, what with my right hemisphere experiments, I was trying to achieve something -- and perhaps did. Recieved something; receiving was part of what I was into, the idea that we could, if we listened in a new way (or a forgotten way). Where did the "tight beam" come from? Certainly my dreams suggest the past; anyhow it is all what should be identified as retrieved knowledge. But it may have been triggered (the disinhibiting) by an ET signal. This presumes a link between earth and, ahem, heaven. I think there is.
+
+Two other points: (one) On the aspects designated as those which the "Christ transformation" confers according to the "Decoded N T," all that can be verified now (e.g. higher intelligence, better health, prosperity, etc. whatever) I've obtained; now, there is no intrinsic relationship which link these various "gifts." No one would draw up such a list a priori, since they appear unrelated. They are leaps forward in various areas. Others listed by the "Decoded N T" such as immorality I can't check on, of course, but I will infer that this too was acquired, if the others were. (two) My left eye suddenly resolving better than my right: this may refer to feature extractors in the cerebral cortex, and be brain improvements, allied with the sense of "having been blind but no longer being so." Again, this is linked with the prophecies given in the N T to those who receive the Spirit (i.e. become Christ). Vide my dream of last night: a theraphist named Mary is washed --healing-- my ankles and feet. At first I thought nothing of this dream, but on later refle[x]ion, it certain[ly] seems to me religious in nature; not only am I having "weak legs," as Red Foxx puts it, but recall Mary Magdelane vis-a-vis the desciples. Maybe this dream (following by one in which I escape from prison, am not followed and am free to run and run) are reassurances that my improved state is permanent.
+```
+**Co-occurrences**: Christ, Spirit, Form, Fish, These, Perhaps, Father, Maybe, Like, Since, Prison, Only, Earth, Harpax, Good, Light, Firebright, Could, Anyhow, Something, Again, Being, Tessa, Nothing, Brain, Those, Part, Through, Heaven, Such, Certainly, Mother, Will, Would, Other, Were, Whatever, Have, Body, Later, Having, Knowledge, Suddenly, Human, Dream, Free, Right, Mary
+
+---
+### Line 1211-1219 (Match: 'Deity')
+**Folder**: part of
+
+```text
+In another sense, "being possessed" was being outside oneself, and outside the environment as well, at a third point, the Archimidean standpoint from which one could see both oneself and the environment as an interacting entity...but this does require "being outside." So it may not have been a coming into me, but a me going outside of me.
+
+I got at least as strong an impression that it was a vast body as that it was a vast mind. It certainly seemed to act, if signalling can be considering acting. Thinking is an action, an activity.
+
+I'm not completely away from the Hebrew idea of God, because it assigns total unboundedness to everything; there is no sense of law, which means, of harmonie of any sort. God does what he wishes; JHWH is a tribal god who has moods. The Greek ideas -- look at their insight into palintropos and palintonos; that alone...if JHWH is equal to Zeus, then okay, the Jews had that, they had Zeus. But look what else Greece had; the whole idea of lawful or regulated by the Unbounded; the kosmos within the Unbounded. Why need we obey a tribal deity when we can have all the thinking of the civilization of Greece?
+
+Last edit over 5 years ago by Harpax
+85
+Needs Review
+```
+**Co-occurrences**: Greek, Well, Because, Harpax, Mind, Okay, Could, Does, Hebrew, Look, Both, Kosmos, Being, Everything, Jews, Their, Zeus, Another, Certainly, Greece, Have, Body
+
+---
+### Line 1221-1229 (Match: 'Deity')
+**Folder**: part of
+
+```text
+I have found more in Heraclitus and Permenides than in the whole of the Old Testament.
+
+All the O.T. has in it is monotheism, which they got from Iknaton. I read Iknaton's prayer. I know where Moses got what he got; he got it in Egypt, and those were unfair gods or god. The Greeks began to add moria and anake and justice and balance -- harmonie.
+
+What I experienced was the restitution of balance, and since it was on such a vast order I perceived the ultramundane origins of the forces at work. This was no whim of a deity; it was palantropos harmonie in motion -- the swing of the oscillation, and these forces were a comporate body or entity which was alive and which had intention, as I have; we were isomorphic, and that is that.
+
+In reading THE BACCHAE. The material about Dytherambus, taken by his father Zeus and placed in a "male womb" by Zeus and called by Zeus "Dytherambus," etc.; it is so like Firebright...what am I to think? And it was out of this, from the worship of Dionysos, that the entire Christian religion came. Here is the "male womb" which the solar spermatikos could enter; is not this the same myth, somehow? I mean, the same story or concept? Another kind of birth - a second birth? Dionysos was born of Semele, then taken by Zeus; after leaving the "male womb" on Zeus' thigh, Dytherambus or Dionysos would have experienced a second birth; i.e. be born again! And is even renamed. The resemblance to the story of Zagreus: where Zeus does everything possible to protect him. What is "psychologically" meant by this "male womb"? This second birth with a new name? The second birth is the motherless birth. But also this expresses a maternal quality of the Deity, His being protective, His taking on the entire role associated with the mother (and Hera being cruel and lethal). So that metaphorically (or "psychologically") it is shown that the Deity, God, can and does have all characteristics, that He is in fact not "He" as we understand "he" (i.e. Yang to the exclusion of Yin). He is They or both. The story of Deity as possessing all parental characteristics and escaping the limiting label of gender with the implied limitations; this is more sophisticated, this Dythrambus story, that would first appear. Zeus can do it all. Those Greek thinkers, or the culture as a whole, inspired perhaps by the Logos itself, was trying to get away from gender and sex-characteristics; have we anything in Judiasm or Christianity about Jehovah which is as sophisticated? No. We don't. This is a total being (also a total view). It shows, too, that to[o] take on divine characteristics one must take on the quality of totality.
+
+Dream about Dodger statium and low class Mexican type US celebrations of every sort; abrupt awakening and thought: I think we're (each of us is) a colony, like a colony of bees. A collection of loosely interrelated entities, which light up in patterns; game board style. Also, each of us is isomorphic. We're inside a great colony of bees, any number and combination of which can light up at any one time. Like cell -- in a battery. Any output (both each of us; and It). Clusters: each cell with a slightly different idea of what it'd be like; hence the otherwise inexplicable diversity and variety. We must be function in some
+```
+**Co-occurrences**: Christian, Logos, Christianity, Greek, Dionysos, These, Perhaps, Father, Like, Since, Time, After, Light, Even, Yang, Firebright, Could, Does, Again, Both, Heraclitus, Zagreus, Being, Everything, Divine, Moses, Great, Bacchae, Gods, Those, More, Zeus, Another, Egypt, Such, Mother, Would, Somehow, Were, Have, Body, Justice, Testament, Otherwise, Dream
+
+---
+### Line 1223-1231 (Match: 'Deity')
+**Folder**: part of
+
+```text
+All the O.T. has in it is monotheism, which they got from Iknaton. I read Iknaton's prayer. I know where Moses got what he got; he got it in Egypt, and those were unfair gods or god. The Greeks began to add moria and anake and justice and balance -- harmonie.
+
+What I experienced was the restitution of balance, and since it was on such a vast order I perceived the ultramundane origins of the forces at work. This was no whim of a deity; it was palantropos harmonie in motion -- the swing of the oscillation, and these forces were a comporate body or entity which was alive and which had intention, as I have; we were isomorphic, and that is that.
+
+In reading THE BACCHAE. The material about Dytherambus, taken by his father Zeus and placed in a "male womb" by Zeus and called by Zeus "Dytherambus," etc.; it is so like Firebright...what am I to think? And it was out of this, from the worship of Dionysos, that the entire Christian religion came. Here is the "male womb" which the solar spermatikos could enter; is not this the same myth, somehow? I mean, the same story or concept? Another kind of birth - a second birth? Dionysos was born of Semele, then taken by Zeus; after leaving the "male womb" on Zeus' thigh, Dytherambus or Dionysos would have experienced a second birth; i.e. be born again! And is even renamed. The resemblance to the story of Zagreus: where Zeus does everything possible to protect him. What is "psychologically" meant by this "male womb"? This second birth with a new name? The second birth is the motherless birth. But also this expresses a maternal quality of the Deity, His being protective, His taking on the entire role associated with the mother (and Hera being cruel and lethal). So that metaphorically (or "psychologically") it is shown that the Deity, God, can and does have all characteristics, that He is in fact not "He" as we understand "he" (i.e. Yang to the exclusion of Yin). He is They or both. The story of Deity as possessing all parental characteristics and escaping the limiting label of gender with the implied limitations; this is more sophisticated, this Dythrambus story, that would first appear. Zeus can do it all. Those Greek thinkers, or the culture as a whole, inspired perhaps by the Logos itself, was trying to get away from gender and sex-characteristics; have we anything in Judiasm or Christianity about Jehovah which is as sophisticated? No. We don't. This is a total being (also a total view). It shows, too, that to[o] take on divine characteristics one must take on the quality of totality.
+
+Dream about Dodger statium and low class Mexican type US celebrations of every sort; abrupt awakening and thought: I think we're (each of us is) a colony, like a colony of bees. A collection of loosely interrelated entities, which light up in patterns; game board style. Also, each of us is isomorphic. We're inside a great colony of bees, any number and combination of which can light up at any one time. Like cell -- in a battery. Any output (both each of us; and It). Clusters: each cell with a slightly different idea of what it'd be like; hence the otherwise inexplicable diversity and variety. We must be function in some
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christian, Logos, Christianity, Greek, Dionysos, These, Perhaps, Father, Like, Since, Time, Harpax, After, Light, Even, Yang, Firebright, Could, Does, Again, Both, Zagreus, Being, Everything, Divine, Moses, Great, Bacchae, Gods, Those, More, Zeus, Another, Egypt, Such, Mother, Would, Somehow, Were, Have, Body, Justice, Otherwise, Dream
+
+---
+### Line 1232-1240 (Match: 'Deity')
+**Folder**: part which
+
+```text
+86
+very loose physical arrangement, but with a field exchange created, such as social insects can be assumed to possess; each of us it that field (vide acupuncture), and the Great Mind is made up of diverse and even discrete physical entities which form an exchange field capable of a vast variety of interconnections or firing sequences or patterns. Arrangements are by comingling and by inter-signalling. Intensity and threshold are major features. It's a micro-collective, a vast macro-collective. My "Dodgers stadium celebration" dream suggests that one idea can be presented to a vast collection of cells and each processes it in an individualistic way, giving it a slight modification; all cells share a common purpose and memory and form and indentity, but don't need to be mechanically linked. We and our environments form such interconnected cluster systems that mutually process information and alter it while exchanging it; we are all (humans) like a vast compound eye which shows a repetition of the motion of a single object but each cell reflecting slightly differently. Instead of saying, We are within a Great Mind (immanent mind) I would like to modify that and say, We are within a Grain Brain, made up of countless call as are out own (I mean many many cells, with an incredibly vast number of possible combinations of circuitry linkage). Whatever it is that it is doing, it may have parts, like our own brain (regions with functions associated thereto) or it may go on levels at different places, quantitative surges, etc. But there is a sort of "control room" part which can infuse and override "autonomic" functions; what we see is autonomic or reflexive brain-function except at crucial/exceptional times, when there is the equilivant to our "consciousness," or a rise in level of intention and awareness, of purpose (locally, I guess).
+
+Joseph Campball makes this startling point: the Indus civilization identified with the object of destiny, which was the sacrifice (it dies, like the moon, and was reborn again and again). This is obviously what Christ is, Zagreus and Adonis were, etc; they were the objects of destiny: destiny acted on them. If you identify with one of them you hope to be reborn. BUT the Aryan system -- they identified with the subject of destiny, "the fiery power by which the sacrifise is consumed." Identified with the dooer, not the doo-ee, you don't die and get reborn; there is one "identified with the latter moves to the realm of eternity by the way of a consummate mythic identification either with an all-consuming sun-, lighting-, or fire-god, or with some such abstraction, as for example, brahman, the pure subject (atman) or as in Buddhism the void." I looked this up because supra I had begun to see how like the brahman this all was...well, it is obvious that Form One is the subject, the dooer of destiny, and that a distinction is made by Campbell of primary importance. I got in with a fire deity, which means transcendence here and now (which I did/was done to). There is no doubt that I am into the Form One fiery god mythic identification, "moving to the realm of eternity" rather than a lunar-like cycle of death and rebirth (the wheel). Thus, I got outside of time entirely (a mystic, I guess, state), and not all that like Christianity, in which time fulfills. Well, then I will never find the answers in Christianity, although certainly many Pre-Socratic thoughts (Parmenides, et al) are valuable to me. (Q: Does the "Decod[e] N T" treat our god as a sun god? Yes, it does, and denies the "Christos" identification -- with good reason; thatis "lunar," a
+
+Last edit over 5 years ago by Harpax
+87
+Needs Review
+```
+**Co-occurrences**: Christ, Christianity, Form, Brahman, Well, Like, Parmenides, Because, Time, Harpax, Good, Mind, Even, Does, Realm, Again, Zagreus, Obviously, Atman, Although, Buddhism, Either, Great, Christos, Brain, Part, Such, Certainly, Death, Macro, Will, Would, Were, Very, Whatever, Many, Campbell, Have, Memory, Information, Instead, Form One, Except, Joseph, Dream
+
+---
+### Line 1465-1473 (Match: 'Deity')
+**Folder**: Unknown
+
+```text
+An analysis of TEARS shows the KKK type posse[e] which comes to kill Taverner to be the militant vigilante arm of the police state of which Buckman is the high official, the judge or whatever. Maybe there is some information here: the police state in TEARS, if it equals the police state actually extant c. 1971, probably has truly employed, and hence the real police state probably has employed, such terrorists, even perhaps the klan per se. Or the novel is a revelation about our world, does this tell us who murdered our leaders (Catholics and blacks) (the klan did), and in the service or say or hire of what? Of the police. That is the relationship shown in the novel: the posse agent of the state. Can this total analogy be transferred? Klan used by the COINTELPRO people to[o] kill our leaders one after another, as a vigilante?
+
+Maybe this is the message, the revealed message, in TEARS. There was also a message about the eternal world (outside time and space), but the space-time message is as above.
+
+. . . . Today I read the JW's booklet on the Logos and God. They successfully analyze away the doctrine of the Trinity (by making use exclusively of John) and replace it with a God-Logos, or Father-Son two entity system...which, when I finished, resembled my own experiences and revelations much more than the Trinity Doctrine. What is also amazing is that virtually everything they say about the Father-Logos is right out of the concept of faith in Egypt: the heart (mind) and tongue (word) of the gods, and also the architect of the universe! It is only the names that are changed. In John, the single deity is divided into heart (God the Father who created his First Born, the Logos) and then after that the Logos created everything else. God created his son and gave him the power to give life, same as He (God) had; passed, then, from Jehova to his Son and from his Son to us, to the world. So it is the Logos or Son with whom we deal and whom we encounter; evidently He, the Logos, created our world for God. (Using the plan in God's mind, which I guess is immanent mind.) Christ, the giver of life.
+
+Thought: back 20 pages, where Joseph Campbell says, "You can view God as being every thing or every where." If everywhere, then we have Ubik again, who is everywhere. Must see which I settled on, where or thing. Hope it was where. (Ho on: Greek for I AM, a title of God. The Logos is the agency of creation, but creation is continual, still going on; hence the Logos must still be present, guiding, giving life, informing. Moving it, us, toward the finish: the Kingdom of God, at which point -- well, creation I guess has been completed.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Tears, Ubik, Logos, Kingdom, Greek, Well, Perhaps, Father, Maybe, World, Only, John, Time, Harpax, After, Faith, Mind, Buckman, Even, Taverner, Does, Again, Kingdom of God, Being, Everything, Gods, Probably, Still, More, Another, Egypt, Real, Such, Actually, Revelation, Universe, Creation, Judge, Back, Whatever, Campbell, Have, Life, Information, Trinity, Joseph, Today, Evidently, Joseph Campbell, Right
+
+---
+### Line 1534-1542 (Match: 'Deity')
+**Folder**: part retained
+
+```text
+This is very much a confirmation of Aristotle's idea (mentioned in Dante) of three distinct human souls in each person, two of which are mortal (as I recall the vegetable & animal) and then one which is immortal, which is pure thought that delights in philosophy and contemplative wisdom, etc. Possibly, since what the daimon brought to me in anamnesis was memory of notable ideas and thoughts of Attic Greece, only this soul is retained by the daimon, carried off out of the dying mortal man; just as when we tape record what we hear on the radio we do not tape record everything, we record just what we consider to have an enduring value. Thus, the spirit brought me no trivia of that time period, but its "third soul" sophia-like concepts.
+
+To clarify, then, each of us is not immortal, but partly immortal; parts do die off and wither away with the body, but one part retained by the daimon as it leaves the duplex dialo[n]g fusion goes on into the collective demiurge, forever.
+
+. . . Meaning RM about the Will. It was not that my will was replaced by another or another's, but that my passive, willness, learned-helplessness was replaced by a Will, but not mine; from the unconscious, whatever and wherever that is...also, it not only decisively chose, but it chose and [?] before the danger (which had to be responded to) arrived; which alone disclosed its supernatural quality. That this will was in me but not mem that it came "trailing clouds of glory," that it was as the daimon of the Greeks is described --an indwelling guardian deity or mediator between man and the gods-- shows me my own nature: that although I don't have any true will, there resides in me a very powerful true will and it acts to preserve, guard and protect me; so I am very [?] as possible. Certainly few men know this about themselves, and their condition. I am not alone. This entity, whether as the [?] Greeks believed it is a shade of one who lived during the "Golden Age" (i.e. in my case Brasmus) or actually, Dionysos -- the fact remains that it is armed with total knowledge and total wisdom. It is indeed god-like, even if it was once a mortal (again eg Brasmus). Now it is not mortal; it is bonded to God just as it is bonded, evidently, to me (the mediator, as described). To lose contact with either me or with God would be for it to lose its role as mediator; it must link up at both ends, upper and lower. It is either divine or semi-divine; I certainly knew this about it at once. It partakes of God's vision; I knew this at once, hence I thought it might be Elijah. But Rollo May causes me to examine the fact that it is my will, the only will I have, and it is not me; it is superior to me, for which I rejoice. I think that the pure bubbling joy I felt several times (e.g. when I was loaded, when I heard it laughing, the whole springtime vision) indicates it to be Eros, who brought life, motion and joy to the world; certainly, when not acting as pure will (during the original crisis danger threat situation) it is joyful, even playful. Perhaps more important than it being my will (although that does maintain my life, especially in crisis), (and perhaps underlies all my writing, which is from my unconscious and involves my will, or rather it, its will) is the fact that it is my [G]round of being with whom I can engage in dialog. (Ala Buber.) I have touched my ontological nature, here. Nietzsche is right; the will is the ground of being. And the will is superpersonal or transcendent. I will never be able to view myself as I did before: the weak, puny mortal at the mercy of all the forces of his society & universe. It is
+
+Last edit over 5 years ago by Harpax
+109
+Needs Review
+```
+**Co-occurrences**: Acts, Spirit, Sophia, Greek, Golden, Wisdom, Dionysos, Perhaps, Elijah, Like, World, Since, Only, Time, Harpax, Even, Does, Just, Once, Again, Both, Being, Although, Everything, Dante, Divine, Aristotle, Either, Gods, Anamnesis, Part, Their, More, Another, Soul, Ground, Actually, Certainly, Before, Consider, Greece, True, Universe, Will, Would, Very, Attic, Whatever, Have, Life, Body, Memory, Whether, Knowledge, Upper, During, Human, Lower, Evidently, Right
+
+---
+### Line 1914-1922 (Match: 'Deity')
+**Folder**: part left
+
+```text
+encounter with it (perception of it), no matter how small the segment, sector, in time or space. This recalls to me my "three lives" dream in which I was first in an alternate world where I was famous and flew everywhere, and then very poor in a Mexican ot Italian town, and in the dream the fan-shape triune sections were extended to show that no matter where of how you took a core sample or segment or fragment, from it the extremes on each side could advance out fan-blade like, with a Tao always created in the center. Each partial life was generated into a state of triune completeness (twoo little; just right (balanced); too much). I sensed/watched the slimmest sample expand into what, in terms of universal constants, an entire world; I don't think you could cut it too small to exclude that spontaneous process of total regeneration of World. That means that the All is immediately palpable ("break a stick and there am I; and I am the All"), if viewed at all; I mean, if it is seen it is NOT SEEN PARTIALLY, IN AN IMPAIRED WAY ( as we always see reality). This is the opposite of the blind men with the elephant situation. Now, the implications of this if as I believe God is an immanent God is enormous -- in fact, this might account for what I experienced, because given immanence, then when you encounter Him in the alley you have encountered Him completely, just as much so as if you met Him in heaven, in the cylem. It is not like a portion of God (analogous to a hand or arm of one of us). Like Kozyrev's theory of time, the whole "thing" is projected from a single point. At any point where He is, He is totally and to the extent that He can be known He can be totally known. One does not experience a portion of God. This makes clear how His immanence works. How He can be everywhere but not necessarily everything.
+
+I wonder what's in my other dreams of equal value in exegesis.
+
+Anyhow, regarding this projection-from-every-point-of-the-complete All, then any glimpse of it (as I say) would be an encounter with its totality, and would by definition not be partial and therefore probably more than could be comprehended. No matter how gently filtered or muted, or revealed in progressive degress of emergent clarity, by the time the encounter was over, the mortal creature would be amazed. Later, he would find himself trying to depict an infinitude in ordinary words; which is to say, he would find that which he experienced to be inexhaustible. Probably he would keep trying, and wonder why. (i.e. why even if it lasted only a little while he can't completely describe it or explain it.) He would forever be trying to fully explicate (or explain at all) what he saw along the gutter here and there which shone, saw in a time-period of 3 minutes one day and is greater than the universe. Pute another way, it seems reasonable that if after 14 months of unending exegesis, reading, studying, pondering, etc., one has still failed to even begin to account for what one saw in those 3 minutes --when in fact more remains to explain and understand than ever-- then there is reason to believe the vision authentic. The fact that one can't say (explain or account for) may reveal more than if one could. That it would be the complete deity, even when scaled down to a micropoint, would explain the striking account of Elijah finally encountering God in the "still small voice" and not in larger more spectacular forms. Also, the ancient Hebrew priests declaring that the voice of God is like the cooing of doves.
+
+Last edit over 5 years ago by Harpax
+140
+Needs Review
+```
+**Co-occurrences**: Complete, Form, Elijah, Like, World, Because, Therefore, Only, Time, Harpax, After, Even, Could, Does, Anyhow, Hebrew, Just, Reality, Everything, Himself, Probably, Viewed, Those, Still, More, Another, Heaven, Voice, Universe, Finally, Would, Other, Were, Very, Have, Life, Later, Greater, Dream, Right
+
+---
+### Line 2022-2030 (Match: 'Deity')
+**Folder**: part of
+
+```text
+Needs Review
+148
+I read now that the Passover celebrates the Exodus -- i.e. the Jews leaving Egypt and slavery. Lamb's blood was smeared on their doors to show they were God's children.
+
+I also read that "Yahwen" is the causative form of the Hebrew vern to be and means, "He Who Creates" (brings into being). It tells us the nature of (this) Deity. Knowing that name enabled Moses to understand that this God was sovereign over (one) nature and (two) nations. You know, the damn plagues show Yahweh as a nature god, all right: frogs and bugs, etc. He (Yahweh) assailed Egypt with naturalistic events. Understand this: He assailt Egypt, the State, from outside, from the realm of nature. (Yahweh, remember, had manifested Himself to Moses out of the desert in the burning bush. The outsider god!)
+
+The "Moses" TV program sees Yahweh pitted against the state, to destroy it & its slavery; also it describes him, incredibly, as "the dancing god," and, "the god of the young"! The parting of the waters of the Sea of Reeds (called Red Sea by mistaken now) is also a nature-god event...I'm convinced; qed. Dionysos, again. Yahweh had delivered the Hebrews, so he had a claim on them, for them to do his will; this was a fealty oath of obedience between a superior (lord) and vassal. A contractual relationship, not slavery. What God gives, then, is love and care; he asks back subordination to fulfilling His will (which is reasonable indeed!). "He was concerned to protect the powerless Hebrews." This His rules enjoins --requires-- us to protect the weak & helpless. "And guarantee justice for them." This is the Covenant. (Plus else.) "To regulate the civil rights of the community." Rule by law -- what we here now need most desperately! This is the essence of worship of Yahweh.
+
+I just can't get over this that I saw (the TV "Moses" program episode dealing with the plagues and then their leaving Egypt):
+```
+**Co-occurrences**: Form, Dionysos, Lord, Hebrew, Just, Realm, Again, Being, Moses, Covenant, Himself, Jews, Their, Egypt, Most, Love, Yahweh, Will, Were, Back, Justice, Passover, Remember, Blood, Lamb, Right
+
+---
+### Line 2046-2054 (Match: 'Deity')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+150
+Needs Review
+150
+To learn that Passover celebrates the Exodus --i.e. the Hebrews' release from slavery-- is all I need to know to cinch my experience up. Escape (redemption) from slavery at the vernal equinox: the wind from the desert rustling the trash in the alley, and causing the chimes (bells) to ring: God speaking to me & freeing me. (Repeated later in history as Christ lag in Todesbanden, and then was released; the Paschal lamb.) I had a distinct impression of it being a Jewish or more precisely Hebrew experience with Deity from the start (witness my attempts to tie it, perhaps correctly, to Elijah's epiphany) Certainly I did not know Passover signified (celebrated, as in the corn festival) this: death to life, slavery to freedom; that redemption meant deliverand from earthly slavery first of all (historically). Then later, I guess, the chains & thrall signified death itself. I almost collapsed in watched the "Moses" episode 3 on TV when the angel of death came, and it spared the Hebrews' firstborn and accepted (slew, seized on) the lamb (the blood smeared on each Hebrew door for protection); in my case the angel of death came --the room lit up the same way and in my inner world I saw and heard dogs lift their heads and whimper-- and seized Pinky, our "pink sheep," instead. The blow fell on him as surrogate, which, the "Moses" TV flick showed, was exactly what the lamb was: a surrogate offering in place of the human being (child). But a lamb qua lamb hardly can be said to sacrifice himself voluntarily placing Himself on the cross as a sacrifice to save man, because of his love for man. Thus we have a lamb-god, sentient, knowing what it is doing, which is more accpetable morally to us, that the sacrificed victim does it voluntarily, with knowledge and purpose; that he should actually be our God! We have evolved a long way to reach this point, that God Himself is the innocent being sacrificed; he offers himself for us.
+
+There is no sin without and act creating a victim, the ultimate being murder. If a creature (man or animal) is murdered, then two bad things occur: the victim suffers and dies unjustly; the murderer is destroyed spiritually (in terms of his ontology, his soul). Thus two bad events are perpetuated daily, infinitely. God solves this by this mechanism: He replaces the victim, so that it is He, our God, voluntarily offering himself as the sacrifice; thus the victim is helped by having been infused with an influx of God's spirit, and so rewarded for being a victim, a receiver of sin, by this coming of God to him (as in my case in 3 74); this then saves the murderer from the stain of his crime/sin, since he slew only (sic) God who was there voluntarily to receive the blow for the sake of them both; thus the horrid equation is abolished as it occurs. This is how I see it; it's for the sake of both victim and cruel sinner. It is the only real solution, so long as these bad events take place (and they do). Otherwise, all, everyone, would be lost, victor and victim; nothing would be saved, and it would be overwhelmingly unjust. When on understands this, one knows that whenever he chops off the neck of anyone, it is God whom he kills, and is this not the ultimate deterrent? Thus as I saw in 3 74, our God often takes the form of animals, and we learn from the faces of these animals; that it is our God whom we kill when we kill (them)!!
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Form, These, Perhaps, Elijah, World, Since, Because, Only, Harpax, Does, Pinky, Hebrew, Both, Being, Moses, Himself, Jewish, Without, Nothing, Their, More, Soul, Real, Actually, Certainly, Love, Death, Would, Angel, Have, Things, Life, Freedom, Instead, Later, Passover, Having, God Himself, Knowledge, Cross, Blood, Otherwise, Human, Lamb
+
+---
+### Line 2069-2077 (Match: 'Deity')
+**Folder**: part of
+
+```text
+pulling it down (I would go so far as to point to Nixon's phlebitis as a "plague," also the breast cancers, etc). (Energy crisis, too, et al). I stood as a modern day Israelite in slavery. It seems plausible to me that the slain lamb's blood smeared on the doors of the Israelites' houses meant: "The innocent live here; do not injure them, but spare them." Isn't this reasonable? Yes. (I had put up a nativity scene Xmas card on my front door before this happened, by the way.) My god, he slew Pinky in a sense in a real sense our firstborn...no, Pinky was not our firstborn; Christopher is; so Pinky was, indeed, a surrogate, which is to say, the Paschal lamb. And thus I dreamed the words Cantata 4. Which deals with this.
+
+But God ordained Passover to be an annual festival of celebration: that one was spared; that one had been made free (Exodus); and I guess lastly if at all that the destroying angel got one's enemies. It is a festival of celebration, thanksgiving and joy: we have been delivered (from slavery & death and the fear of death).
+
+Did I experience a re-enactment of the original pass over by the destroying angel, or an actual reoccurence of it? The latter, since Pinky did die; it was not an anamnesis celebration. This is important, to determine this; if it was only a replay --a memory thing that rolled in my head, or an enternity date outside of time, not an actual current event in our space-time world-- then the tyranny, the modern slavery equal to Egypt's, was untouched. It was only a head trip on my part. Pinky's death proves it wasn't a head trip. I had no idea he was even sick. Maybe he hadn't been. The destroying angel was there that Sunday night in our bedroom. But I suppose I could be wrong; it could have been a re-enactment, playing the role of the Paschal lamb. This, if true, would point to Pinky as already being more than a mere cat/animal, which I was convinced of anyhow; in any case, I had encountered the Deity for sure back in March, and there unfolded for me, supra, as I say, the very steps (or some of them) unfolded for Moses, ending with the final most dreadful plague, the destroying angel at the tyrant's throats, and then - FREIHEIT! As with the Israelites, their deliverance didn't take place easily or over night.
+
+Lord, I will never hear the word "passover" again with the same quietude born of ignorance as to its meaning and origination. But what this "make" on the destroying angel Sunday night event does it show that: (one) I have always been right to identify this with Passover, and I wonder how I got started doing that, since Easter comes simultaneously. Because of Elijah? I guess so. That's all I knew; Elijah comes each Passover. Ach; there was death present at the first pass over, and there was death present at the Crucifixion. (Easter.) This is extraordinary. In Hebrews it talks about the second (new) covenant sealed with blood, replacing the first one (achieved twixt God and Moses). At the first pass over, God spared the innocent and killed the guilty (wicked). At the Crucifixion, the ultimately good and innocent man died, the guilty did him not, as well as being spared. All reversed! Christ equals, then,
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Well, Lord, Elijah, Maybe, World, Since, Because, Only, Time, Nixon, Harpax, Good, Even, Could, Does, Pinky, Anyhow, Hebrew, Again, Suppose, Being, March, Moses, Covenant, Anamnesis, Part, Their, More, Egypt, Most, Real, Before, True, Easter, Death, Will, Christopher, Would, Angel, Very, Back, Have, Memory, Passover, Blood, Lamb, Free, Final, Right
+
+---
+### Line 2248-2256 (Match: 'Deity')
+**Folder**: BOOK OF
+
+```text
+Needs Review
+168
+In fact, since Meister Eckehart beyond all doubt was absolutely ignorant of Greek mystery cults, ignorant of Greek itself, then his description of what and where the Kingdom of God is, constituting as it does an exact description of the Dionysian kind of god-possession, ratifies as a detached observer's analysis that indeed this is what the early Christians sought for and were covertly discussing; that in fact this is what Christianity, like the prior mystery religions, is all about. Meister Eckehart rediscovered what was lost, and at the same time tells us explicitly what was lost, without him probably having realized that there had been a deliberate suppression of this knowledge, and the experience as well.
+
+I've again read the EB article on Mystery Religions; those religions, esp. the Orphics, stressed anamnesis (Plato did, too, and those following him, as did Pythagorias). I ask this, as perhaps the most important question: what is the connection between being possessed by the Deity (which I aver is the same as finding the Kingdom of God), and recollection of ones former but forgotten divinity, as in Orphism and neoplatonism? Is it a becoming for the first time, or a return? Is it new or old? Receiving or restoration? This is important because if it is a restoration then we are or anyhow were divine in nature, and lost it or forgot it, and can retrieve or remember it, get it back. Of course, I again wonder, How, if we are divine, did we come to forget that? This is, of course, the concept of the Fall, this fact, if it is a fact; we fell and forgot, having descended into nonbeing which is the same as forgetfulness. Here now I am back to my early conjectures and ponderings, and there seems no end to this, no solution. I know that I experienced anamnesis, which suggests the recollection (neoplatonist) view. As set over against the Christian view...although for us now, 2000 years later, it would now carry the aspect of restored memory -- of events 2000 years ago; i.e. the Savior, Jesus Christ. This is what confuses me. I remember a Savior who told us it was a new experience. I remember his new message -- observe the paradox. "In a crypt 2000 years old I have discovered new news!"
+
+. . . Egyptian statement: "three gods. As Amon he is hidden for mankind; as Re he is visible in the sun; as Ptath his body is the world," the last meaning he is immanent, as Ptath, here. But it's all One. The hidden god: Deus Absconditus. Hmmmm. "He hides himself for them," i.e. mankind. Absconditus specifically means carefully concealed or hidden or secret, not just happenstance so. For us he is hidden? For our benefit? I read this as: as Re he is transcendent. As Ptath he is immanent. As Amon -- "the workman is concealed in the workshop."
+
+. . . "Tumbled stones," natural laws the same for all living things; would tend to wear them down into similarity. Living things must thrust up against the ubiquitious shaping force to attain diversity.
+```
+**Co-occurrences**: Christ, Christian, Jesus, Christianity, Plato, Kingdom, Greek, Well, Perhaps, Plotinus, Like, World, Since, Fall, Because, Time, Savior, Does, Anyhow, Just, Again, Kingdom of God, Being, Jesus Christ, Although, Orphic, Divine, Himself, Gods, Probably, Deus, Anamnesis, Without, Those, Most, Orphism, Living, Secret, Would, Were, Back, Egyptian, Beyond, Have, Things, Body, Eckehart, Memory, Later, Having, Remember, Knowledge, Ptath
+
+---

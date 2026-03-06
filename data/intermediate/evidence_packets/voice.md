@@ -1,0 +1,344 @@
+# Evidence Packet: Voice
+
+- **Category**: Top Term
+- **Total Mentions**: 46
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 91-99 (Match: 'Voice')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by FolkDevil
+
+6
+sorts of shit (you noticed). Well, then it was an intrusion into time, into ordinary time, before entelechies were complete; like God’s grace which saves you even if you’re worthless, this intruded and saved our world even if we hadn’t completed the test (which was what we were doing: doing it over and over until we got it right, and none of us hardly had gotten it right yet. God did suddenly intrude, without warning… for me it was like a thief in the night; it came at night, and I was amazed. I was caught by surprise. But what filled me was in itself flawless; the Holy Spirit or myself completed, either one – but as I stand I am wicked and think wicked thoughts, same as always (I am right now trying to get Victoria Principl – Principal’s phone number; Erasmus says it can be done). This is wicked. I am motive by a leopard skin rug miles and miles of tawny skin (but she has a funny voice, a Sid Caesar imitation of the miles and miles. Well, we’ll use lipsynch).
+
+I do not see where I am changed, but I was spared the Wrath and I was of use (against the tyranny): “Zeus protects those who defend the Perfect Kingdom against those who would nibble it away.” It is as if that rat might have proved worthy in some way yet still a rat (it was where the rat was, not what, which doomed it; it was away from its natural order, out of its spot in the Scheme of Things). Thus, we may stress changes in our Being too much in terms of being acceptable, and forget that being at the Right Place at the Right Time – after all, God will motivate us if we’re there (I think always of the black dude, the guard who found the door at the Watergate Hotel taped back and reported it to the D.C. fuzz). Maybe my letter (don’t laugh) to the Wall Street Journal… no, that was after. I guess then TEARS was what I had to offer. Think of the touching story of “The Juggler of My Lady.” That always had a lot to say to me. Yes, if I did anything in the Final War Against the Beast it was to write and protect TEARS and bring it out strategically, and also be living in Fullerton where I could write Wiggins. You must put in your thesis about my correspondences back and forth with Mr. Wiggins during the impeachment, Claudia; I am so proud to have argued those issues with him. We both drew on all we had in us. (RS will mention.)
+
+Hey, I figured out (you laughed) Nixon is the best – beast.
+```
+**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+
+---
+### Line 318-326 (Match: 'Voice')
+**Folder**: book as
+
+```text
+itself. The entire morphos within the seed is there --the entelechy waiting to unfold-- but it must wait until the signals reach it, the sun/warmth/moisture and the air ion changes which penetrate to it and trigger it off. This is what happened to me, and the place of origin for the plants is the Sun; for me and for us all, I think it is a certair star, which I know only by the code name Albemuth. A star signalled him -- he, the root, is signalled by the star, thus completing the meaning of ”I am the root, and the bright morning star." That which has been hidden below ground -- within our biosphere, not that he literally is underground is activated by signals arriving from Albemuth.
+
+Claudia, you must read THE LATHE OF HEAVEN of Ursula le Guin. It is evident that the dream universe which she speaks of is uncannily like what l have written you about, concerning my experiences. We are, Ursula and I, being "dreamed awake" now; told to wake up. Our books mirror this strange experience; we are only forerunners, she and I: among the first. Ursula wouldn't agree, but a comparison by Ian Watson in SFS shows the similarity between THE LATHE OF HEAVEN and my own experiences which is so obvious as to exlude controversy. Aldemar or whatever her star is, that is Albemuth (Fomalhaut) for me.
+
+That the "dream universe moving to become the actual" is a true process actually taking place -- this concept would be frightening, except that we must realize the intent of the Dreamer Who dreams us: He is waking us, now; it is a voice still within the dream, much like Glen Runciter's, which is saying, "Rouse yourself and be warm; spring is here."
+
+(Claudia, if I don't write much for the next month or so it is because we are moving to our new house. You understand. Did I tell you I wrote Ornstein? Did I tell you my blood pressure is down finally and that the doctor said flat out that he think it's so elevated when I come in for my test because of the pretty little blonde nurse who takes it? When she takes it, the top reading is 220; when he takes it, ten minutes later, it's only 170. I gave the nurse yesterday a little ivory cross. She's moving to Oregon, to get away from the density of population here. To get out of her apartment. The receptionist said to me, with maybe more truth than wit: "Well when Anne takes your blood presit's so high you have to keep coming back in; that's the way we keep our patients coming in." The other side of that is that unconsciously I've had a vested interest in needing to come in for being tested. They all kid me there about my crush on Ann Darling (what a name for a little blonde nurse, right?) When I call in and ask if I can talk to one of Dr. Morrison's nurses, they say, "Oh it's you; yes we'll get ann to the phone." Odd as it sounds, there may be truth in this; Ann was the only person who sent us a congratulation card when Christopher was born, and there is so much mobility in Orange County that she was (alas, was) one of the few people I could count on seeing. Her and Carol, my therapist, who is still injured physically and not at her desk due to showing a patient how to work out ones hostility harmlessly.
+
+The vernal equinox is almost here. Pretty girls are everywhere, and the buds are opening into color; psychedelic color is the life of the world, the language in which the Creator speaks to us.
+```
+**Co-occurrences**: Well, Maybe, Like, World, Because, Only, Book, Could, Being, Runciter, House, Creator, Still, Wait, More, Star, Heaven, Ground, Actually, True, Universe, Finally, Christopher, Would, Other, Back, Whatever, Have, Life, Claudia, Spring, Later, Except, Cross, Blood, Truth, Dream, Right, Until
+
+---
+### Line 333-341 (Match: 'Voice')
+**Folder**: book as
+
+```text
+This is what I saw; what I saw rolled back was the "snow" of that long winter. Back to Spring. These are the dust, too, the dust and snow: dust in summer, snow in winter, but there was the Ggod only sleeping, as if dead .
+
+I saw that it can melt away in an instant, and reveal the original "season" or being or reality.
+
+Look: the seeds, dormant, slumbering in the winter of their species, are helpless and need the protection of concealment. They are pressed down into the snow (the manifold Maya) which camoflauges them, and protects them. They lie unknown even to themselves, mixed with the "tares" sewn there along with them, indistinguishable until all sprout -- wheat and tares together (we must wait, and then divide). Until that day, they cannot be discerned, found, discovered, destroyed; mimicry and concealment, during 2000 year winter of their half-life slumber. Then, in Spring (which has now come) those real wheat seeds here the voice calling them (from the bright morning star) and come to life. Are revealed suddenly (the cuckoo egg in the nest) but, at the moment revealed suddenly, then simultaneously now safe; by virtue of the power remembered (anamnesis). They are Zagreus or can call on him; he will answer his "flock." They know him/ he knows them.
+
+It is now too late to destroy them; their helplessness is past. They are awake!
+
+"They kingdom come" slightly misleading: "They kingship come," but, "come to," that is, kingship enter each temple/body of the flock, those who are his; he suddenly enters his temple and claims/becomes it. This could remain invisible externally; yet some fundamental change, cause unknown, would rock the established order of things.
+```
+**Co-occurrences**: Kingdom, These, Only, Even, Could, Look, Maya, Reality, Zagreus, Being, Anamnesis, Those, Their, Wait, Star, Real, Will, Would, Kingship, Back, Things, Life, Body, Spring, Dead, Suddenly, During, Answer, Until
+
+---
+### Line 351-359 (Match: 'Voice')
+**Folder**: book as
+
+```text
+We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus died as any man dies -- but another Christ, and probably another Paul were born out of and after that. Rebirth does nor mean to return as you were, in a mere cycle; this is where the wheat seed could not have been a wheat seed, because Jesus specifically says that on its own the grain of wheat leads a solitary life, and after it is thrown into the furrow (the grave) it is reborn differently, into a communal life. "Reborn in glory and no longer alone." A single vast plant "the mustard tree in which birds roost" will come about; I think this is what we call the noösphere, and I myself have already entered it.
+
+In March it took me over totally; I was a spectator to my dream in waking life, as it awoke.
+
+If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
+
+Please get the book A GOD WHITHIN by René DuBois (Scribner's). He discusses this.
+
+i must tell you if I didn't already; the Brit 3 says that belief in and research about the Logos surfaced around 1055 in Europe (it had been a long dormant doctrine in both theology and philosophy) when explorers reported that culture after culture, which had had no contact with Christiantity, had obvious analogs of our religion to which they gave credence. The doctrine of the Logos, which imprinted the form of our omnicultural religion on all men caised this revival; it would explain why in all cultures similar ideas exist; the Brit 3 gives a few and I must admit, it is too close to be a coincidence. Even if our religion is "true" there remains the need to explain how each tiny tribe everywhere possesses the essence of it, although names differ. I think the Logos doctrine is the best theoretical explanation for this (take me; I am a very small tribe: I, and Tess and Chris; yet we were imprinted by Something, and at once I noetically knew the formularies of the sacrament of the Feast of Agaboe, and acted it out. Later, reading up on it, I found I had gotten it right, the very minor points even. You see?)
+```
+**Co-occurrences**: Christ, Logos, Jesus, Form, Paul, These, Because, Only, After, Book, Even, Could, Does, Something, Once, Again, Both, Zagreus, March, Runciter, Although, Probably, More, Another, Living, Real, True, Death, Will, Deity, Would, Were, Very, Have, Tree, Life, Claudia, Later, Testament, Dream, Right
+
+---
+### Line 414-422 (Match: 'Voice')
+**Folder**: book A
+
+```text
+26
+coffins, severally, and individually, as shown in the novel.
+
+(eight) Those in half-life are not dead, nor is the root slumbering under the snow (the symbol of both Christ and Dionysos: it looks dead but is only asleep, waiting to be awakened by the voice of spring). We are those slumbering roots. We are dormant. It is difficult intellectually to understand this, that we are neither fully alive nor fully dead (Aristotle taught us that we have to be A or not-A), but in fact these thousands of years for our species, and for our animal friends as well -- these are nothing but a long winter in which half of us (expressed neurologically, perhaps, by the fact that we use only one of our brains, or the left hemisphere) is alive and the other half has not yet come to life. Many of the parables of Christ, familiar to those who knew the cryptic sayings of the mystery religions in general, refer to this (the grain of wheat which must be planted; we are now sorrowing in childbirth, the treasure buried in the pasture, etc.).
+
+That the Final Days should be in fact a springing up into full life, complete life, going from seed (vide the parables and especially the Pauline Texts, plus the Orphics' doctrines and Neo-platonism, etc.) -- going from dormant seed slumbering under the snow of Winter and then hearing/feeling/sensing/knowing the voice of moisture and warmth and Spring, the voice of God saying, "The time has come! Wake up!" These are authentic commands coming to us in dreams, and are no less real and no more real than what the ordinary seed experiences in its own fashion; we are all one in that regard...except that our orthogonal Winter has lasted for one hell of a long lineal period; it seemed as if it would never end. But Winter always feels that way; each seed, each slumbering root and bulb, must in its half-life state, buried in ice and waiting, experience all of this: we share a common reality.
+
+From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
+```
+**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+
+---
+### Line 416-424 (Match: 'Voice')
+**Folder**: book A
+
+```text
+coffins, severally, and individually, as shown in the novel.
+
+(eight) Those in half-life are not dead, nor is the root slumbering under the snow (the symbol of both Christ and Dionysos: it looks dead but is only asleep, waiting to be awakened by the voice of spring). We are those slumbering roots. We are dormant. It is difficult intellectually to understand this, that we are neither fully alive nor fully dead (Aristotle taught us that we have to be A or not-A), but in fact these thousands of years for our species, and for our animal friends as well -- these are nothing but a long winter in which half of us (expressed neurologically, perhaps, by the fact that we use only one of our brains, or the left hemisphere) is alive and the other half has not yet come to life. Many of the parables of Christ, familiar to those who knew the cryptic sayings of the mystery religions in general, refer to this (the grain of wheat which must be planted; we are now sorrowing in childbirth, the treasure buried in the pasture, etc.).
+
+That the Final Days should be in fact a springing up into full life, complete life, going from seed (vide the parables and especially the Pauline Texts, plus the Orphics' doctrines and Neo-platonism, etc.) -- going from dormant seed slumbering under the snow of Winter and then hearing/feeling/sensing/knowing the voice of moisture and warmth and Spring, the voice of God saying, "The time has come! Wake up!" These are authentic commands coming to us in dreams, and are no less real and no more real than what the ordinary seed experiences in its own fashion; we are all one in that regard...except that our orthogonal Winter has lasted for one hell of a long lineal period; it seemed as if it would never end. But Winter always feels that way; each seed, each slumbering root and bulb, must in its half-life state, buried in ice and waiting, experience all of this: we share a common reality.
+
+From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
+
+Sorry to take so much of your time here, Ursula, but in my dreams I saw the words CANTATA 4, and when I had read the text, I began to understand.
+```
+**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+
+---
+### Line 776-784 (Match: 'Voice')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+49
+Needs Review
+49
+ask for (medical) help; I had only the power to notice, to step forth, to voice the need -- i.e. put it in words (my writing? My speeches, etc? Letters? Call attention to human needs?)
+
+It also gives Tessa now as joining Ralph and Pinky, the lamb the deer, as injured and to be treated with love and cherishing care, as being of great worth -- too great to sacrifice. These sacrifices, the dream said, are too great to ask (Jesus sacrificed himself in their/our place; he was/is the lamb). That is the key word: the involuntary sacrifice, which will not be permitted now, since it is too precious (observe the notion that the sacrificial animal was decidedly not of too much worth; that is why it was offered, in the past). First a human became of too much worth; now then animal, too. We must all live or perish; we cannot be serparated into the "strong versus the weak" or whatever any more.
+
+But regarding possible time dysfunctions (due either to experiments at e.g. Pulkovo, or natural, due to overloading of the ontological matrix, or both,) most of my experiences have had to do, not with time, but with space (mostly about Mexico or what resembles Mexico and is taken to be). Future space at some future time? The only for sure time dysfunction I felt was in March 74, and that was, if it existed at all, probably artificially obtained (Pulkovo). The other, spacial ones -- they probably were natural dysfunctions, sudden brief windows into the future of both space and time. What is possible, though, as I've said before, is the notion of "mytosis-like" splittings of the present (due to time dysfunctions, perhaps in our past) that result in alternate worlds (as in MITHC).
+```
+**Co-occurrences**: Jesus, These, Perhaps, Like, Since, Only, Time, Harpax, Pinky, Both, Being, March, Himself, Either, Great, Probably, Tessa, Their, More, Most, Love, Before, Will, Other, Were, Whatever, Have, Human, Dream, Lamb
+
+---
+### Line 957-965 (Match: 'Voice')
+**Folder**: part of
+
+```text
+Messages are arriving in red and green and we are monochromatic; the resulting blur makes little sense.
+
+At this point I would make this guess: that the universe is not running backward and we see it forward; if that were so, we would have recorrected our impressions of it; I think that there are two flows, and we see both as running forward, which is not true. There is perhaps the main flow, or the more powerful flow, which does run forward; but there is a subtle, mild, mirror opposite running inside out and reversed, and it seems to be a sort of intelligence capable of affecting our forward flow, in crucial ways. That is my summation: the mirror opposite universe is a weak, living, intelligent mind which alters the configuration of reality in its backward-moving time flow so as to benefit our total flow, which is to say, the forward one we normally see.
+
+. . [x] A final note: Loren Cavit heard late one night on a DJ talk show and disc program what I heard that I could not believe: a switch from music and chatter to programming, of us. This is true onset of my experience, the true shock: to wake up and hear my radio programming me in a vile way at night. Loren several years ago heard her radio doing that. I think we really heard it. Who it was, or why -- neither of us knows, but there was an obscure tyranny which fell, and this was part of it; it was invading our minds using modern sophisticated electronic subliminal thought control manipulative techniques. Probably it was a satellite over-ride, beamed directly to our sets, our receivers, with the voice of the DJ simulated; probably it was by the Soviets. That a girl so sane and responsible would have heart it, confirms what I have thought all this time. We got help, from outside, to throw all this into ruin.
+
+As in Ray Nelson's story "Eight O'clock in the Morning" we woke up -- "Sleepers Awake!" (And found the springtime had come.)
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Perhaps, Time, Harpax, Mind, Could, Does, Soviet, Both, Reality, Girl, Probably, Part, More, Living, True, Universe, Would, Were, Have, Neither, Final
+
+---
+### Line 1244-1252 (Match: 'Voice')
+**Folder**: part of
+
+```text
+I've just read Joseph Campbell on Patch, and I find what I had been [h]oping to find -- part of the black stone's text, which shows that indeed Ptath is [I]mmanent Mind but also a creative god, which means he gets his hands dirty, an improvement on noos merely thinking (of the Greeks, with their slave culture's haughty attitude toward the crafts). That dream I once had about the doctor in his white jacket and trousers appearing again and again...how much he looked the way Ptath is represented (wrapped in white linen). The whole universe is Ptath's body which Ptath infuses as ka; look at this, though:
+
+"Mighty and great is Ptah, who rendered power to the gods and their kas: through his heart, by which Horus became Ptah; and through his tongue, by which Thot[h] became Ptah."
+
+This is 2,000 years before India. "The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator." Also, Ptah did it by speaking the word (the tongue). This anticipates the Logos doctrine. Heart is creative intent; tongue utters or expresses, gives voice to (I'll bet ka and voice and breath are closely identified).
+
+Joseph Campbell flatour says the the Occident believes in a transcendent god (above creation) and the Orient an immanent god who is here now (name your own subtheory). In that case I parted company with everyone in the West except (one) certain Presocratics and (two) Spinoza, who thinks very early Hebrews thought this, whi[ch] is possible but to me not important. The only reconcilitation I can imagine for me vis-a-vis the West would be to think that God had been above (transcendent) but the linkage is now so repaired that He is immediately accessable, which means that the Kingdom is here. (Maybe this is so.) How can I believe He will descend in/on/under a cloud if I know Him to be here, that in fact He never left?
+
+For palintropos h. to exist, time must exist (since it is in oscillation or sequence form). Insofar as this kind of balance (Yang-Yin alternation) is taken as real, time is real, but as soon as palintonos h. is viewed, we are in another world where time is absolutely not real, but for a certainly an illusion. Joseph Campbell, writing about Egypt, says that the great secret of the pharohs was that they were "Master of the Twin Opposed Gods," Horace and Seth, whose strife in the temporal world is absolutely real, but that "The Secret of the Two Partners," "was a reference to the hidden understanding of the two gods, who, though they appear to be implacable enemies, are of one mind behind the scenes...mythologically representing the inevitable dialectic of temporality, where all things appear in pairs, Horus and Seth are forever in confli[e]ct; whereas in the sphere of eternity, beyond the veil of time and space, where there is no duality, they are at one; death and life are at one; all is peace." (p81.) It looks to me as if
+```
+**Co-occurrences**: Logos, Form, Kingdom, Greek, Well, Spinoza, Maybe, World, Since, Only, Time, Noos, Black, Cosmic, Mind, Yang, Hebrew, Just, Look, Once, Again, Great, Gods, Viewed, Creator, Part, Their, Another, Through, Egypt, Real, Certainly, Secret, Before, Death, Universe, Will, Would, Creation, Were, Very, Beyond, Under, Campbell, Things, Life, Body, India, Except, Joseph, Dialectic, West, Dream, Whereas, Ptath, Joseph Campbell, White
+
+---
+### Line 1451-1459 (Match: 'Voice')
+**Folder**: Unknown
+
+```text
+This task has been assigned with a large number of unknown. We have to figure out what, Why -- everything, even an, Is there a task at all? (And if so, what? And if what, then how?) I go back to my "Steuben cup" vs the mere printer copy, vs the crude but on the right path wooden cup (metaphor for the Grail?). There are different ways to do this; in my story I showed this to be logically the right. When done, the results will shine forth more than any other way; the less we hve to go on, the better w[e]'ll ultimately (!!!) do. The outcome will be good in direct proportion to the unknown-count. (For the reasons I gave and maybe others I don't know.) That's why there is such an abu[n]dence of obvious natural selection factors at work! "Survival of the fit" et al. Ah, so it is, on this multiplex assembly line.
+
+Small short insight: the wise old king on horseback seen in my TEARS dream -- it is he (graphically envisioned) who was later to take me over 3 74. I still don't know who he is, but this is He. This is how he looks.
+
+. . . Today (after reading in the LA Times where a psychic says there is another life form on Earth smarter than we are, but that it lives in the water "and has no hands") I decided to describe, without attempting to name, the entity which telepathically appraoched me in 3 74. Its most salient quality, when I went to enumerate all of them, seemed to be not its thinking (mentation) but its knowing; it knew everything...and I reported, to myself, how it seemed to know things & events & people from inside, out from outside (external facts), but seemed to sweep them out at the very heart. And then I realized that I had given an excellent description of the Paracletos which Jesus in "John" says God will send here as Comforter, Advocate, etc. Also, it finally came to me that the state of agitation and distress and perturbation I was in in 3 74 when it suddenly approached me with aid was exactly the state of agitation, distress and despair and perturbation --at the end of my rope, really-- I was in back in my high school physics class when I took the test that dealth with Archemides' principle. In both cases the need was the same: the acute despair and prayer petition on my part: need of an acture sort. The same small calm inner voice came both times, knowing everything and informing me. Rendering assistance of a particular sort: it knew the answers which I needed in order to survive. It knew and it told me, and then it departed. It was God I called on then, back in the mid[ ]40's. I'm sure it was He Who answered then; evidently now, too.
+
+All the trillions of written pages I've seen in sleep...I'm sure they're equivalent to the spoken answers I heard in my head in my high school physics class (where I was awake and so couldn't dream). This is information of the highest kind, from the ultimate source: the S[p]irit of Truth, as Jesus explained it. "Who sweeps out and knows even the heart of the Father." Mainly it gave me absolutely correct information (and insight) plus the zeal to put into action Handlungstreie based on that knowledge. Also, it seems likely that my preview of Fullerton (dream for 8 hours while awake back in 1971 of "Mexico") plus the TEARS dream, both of which had permanent effects on me, came from this source; there has been one source throughout and I think this is the historic name for it, and historic promise. Here are 4 examples of absolute for sure intervention. Maybe there have been others I never was
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Tears, Jesus, Form, King, Father, Maybe, John, Earth, Harpax, After, Good, Even, Both, Everything, Without, Still, Part, More, Another, Most, Such, Fullerton, Finally, Will, Other, Very, Back, Have, Things, Life, Absolute, Information, Wise, Later, Knowledge, Truth, Suddenly, Today, Comforter, Dream, Evidently, Right, Grail
+
+---
+### Line 1481-1489 (Match: 'Voice')
+**Folder**: book the
+
+```text
+Logos as the two men working a two-man saw: [i]scillation back and forth -- palintropos harmonie.
+
+. . . I didn't enter the Kingdom of God by moving forward in time; I entered it by remembering (anamnesis). This is very important, this return in order to enter: remembering that I am or was in it already, and so hence must be new. Also, in John (I think 14:25 or 26) Jesus says that the Holy Spirit will cause "them to have remembrance of me and what I have said." The Holy Spirit brings us to Christ and hence to His Kingdom, by uniting us with him, evidently either outside of time, but anyhow remembering him. And our relationship to Him. (The Spirit of Truth discerns the future; the Holy Spirit recalls to us, teaches us, about the past.) My whole view is not that someday we will find the Kingdom but that we had it and lost it; maybe it was overthrown and the Rightful King killed, etc. "The overthrown kingdom, to be restored," as the M[M?]ission people say. That is the message. The King has returned. Once more he is here!
+
+. . . Oh, yes; I heard the voice one other time: "And she shall see the sea," which was probably back around 1968/9, no later. As I wrote Phil Parmer, I knew it could not be my own thoughts or voice. I see now that beyond doubt that voice was the "physics test" voice and the one from 3 74 on. Again, it came as a result of agonizing despair on my part, and a need to know something, to understand; it brought relief and help and comfort. But: I do think Elijah came to me back in 3 74. And now I read in the M[M?]ission book the the "Kingdom of God" that indeed a vision or iron is a vision of Rome (of Daniel). But I wasn't back in Rome; on the contrary, Rome was here now. It is the Kingdom of God versus the empire(s) of man. Rome is the last of the 4 empires. We're there now, although the names have changed; Imperial America is the Western Empire; USSR the Eastern. After the disintegration of this comes the Kingdom; I think the first steps began last year. Now we see the US empire collapse in earnest, the distant provinces are falling and becoming small national states. The great image --statue-- in "Daniel" had been smashed with the uncut rock and is collapsing into fragments mingled and scattered. Bits, from earlier strata, such as the gold fish, surface and bring anamnesis. We will be ruled again by the rightful king, our Divine Father. (His son will rule; this will be after the 6th "day" of continual creation has ended; then, on the 7th, Christ rules, God's son, Our King.)
+
+. . . I had an initial complex insight today that it is just as easy to think of the future pushing the present into the past as to think of the past generating the present and moving toward the future;
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron, John, Time, Harpax, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Phil, Gold, Such, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Truth, Today, Evidently
+
+---
+### Line 1491-1499 (Match: 'Voice')
+**Folder**: part pressing
+
+```text
+Needs Review
+105
+since we don't remember the future the way we do the past we don't discern these "heavy" event weighing on the present and forcing the present into an[n]ihilation, into the past. What our minds do is link everything in a sort of string, one after another, in the order in which we encounter them. Thus, if we reach into a fishbowl of numbered slips randomly distributed, we will write down as a linear sequence the numbers we draw. In whatever order or non-order we encounter event (experience them) our memory will arrange them on this linear track, as if they happened that way. Actually, they didn't happen (were not arranged) that way but only encountered that way. But, having lined everything up, we imagine the past in this orderly line, which is readily translated i[nt]o a causal string because so arranged it has that look to it. Eventually in this way we create in our heads an enormous part pressing inexorably against the present to create the events of the future. But suppose we imagine everything in the present like a stage set and actors for the next scene. These latter, dimly discerned, will inexorable push everything on the stage off eventually. It is not the prior act but the next act which exerts the force on the present. Also, if as Dr. NK say, time is energy entering a material system, perhaps it enters from the future -- is the future; i.e., time has more charge, more force in the future, drains out into the spacial reality of the present, and at last disipates down into the drain-esc slot which is the used up past. This is a disturbing new view but oddly enough it coincides with my dream experiences, my precognition of events moving this way from the future; I feel them inexorably approaching, not generated from the present, but somehow already there but not yet visible. If they are somehow "there" already, and we encounter them successfully (the [M?]indkowski block universe; events are all already there, but we have to encounter them successfully) then this view might be a correct view of time and causality. The reason (again) why we feel the past to be real but not the future is simply that we have experienced the past and recall it; memory bits lie in our brain tissue, but this is not true of the future. However, I have never experienced Bombay India and I have San Francisco; but the latter in reality is no more real than the former. (For myself, I would guess that we have, as the Hopis believed, two realities only: that which is manifest, and that which is in the process of manifesting. The former is the present; the latter is our future, sort of rising up from within, from potent to actual. This can be re[s]presented spacially in terms of rings, concentric, of actualization, ala Plotinus.)
+
+. . . Eureka! I've been reading Rollo May's LOVE AND WILL. He describes Eros, the spirit of life, mediator between men and gods, partaking of the human & the divine; it is the elan vital of Bergson, Dionysos, it is especially Socrates daimon -- this is the voice I hear; this is what "possessed" me in 3 74. But an overwhelming intruiging mystery present itself: Socrates was Greek; Eros is a Greek myth; Dionysos was a Greek god; if Eros (as RM says) is not an actual entity, then how come I heard words in Attic Greek and it, the daimon, thought in Attic Greek? This both confirms and yet adds more mystery, pins it down for sure and yet -- the coincidence (Greek speaking) is too great; it must indicate something -- a vital clue beyond all other clues!!!!!!
+
+Last edit over 5 years ago by Harpax
+
+106
+```
+**Co-occurrences**: Spirit, Greek, However, Dionysos, These, Perhaps, Plotinus, Like, Since, Because, Only, Time, Harpax, After, Something, Look, Again, Suppose, Both, Reality, Everything, Divine, Great, Gods, Brain, Part, More, Another, Real, Actually, Love, True, Universe, Will, Would, Other, Somehow, Were, Attic, Beyond, Whatever, Have, Life, Memory, India, Socrates, Having, Remember, Human, Dream, Track
+
+---
+### Line 1496-1504 (Match: 'Voice')
+**Folder**: part pressing
+
+```text
+Last edit over 5 years ago by Harpax
+
+106
+Rollo May can't really sa[y] what Socrates' daimon "is," only that it is real -- esp. for all creative men; warns of something which will take away one's a[u]to[n]o[m]y...leads one into the right relationships -- to cause on to meet certain persons (in my case eg Tessa); knows the future, is renewing, every point in detail; the inner voice which is not mere conscience, with which one can have colloquy. Is the voice of nature; is also the voice of history and historic change (!!!); it caused Socrates to become a gadfly against the state and to defy the court... [???] it, it is real, it is what took me over & which spoke to me in my physics test, etc. But what is it? Why would my daimon speak in Attic Greek same as Socrates'? Same daimon? Same voice, not his versus mine? We all have the same one and it's Attic Greek (it has a local habitation and a name?). The mystery becomes vitally wild, here. Can't be Christ; Socrates lived before Christ; likewise the Paracletos. Who, then? Whoever talked to Socrates inside his head, warned him and inspired him and guided him, it's doing it for me, too, but that doesn't tell me who or what it is "really." "You know the disease you had last year? Well, you have it again." Recognition without identification.
+
+This is 2400 years later; it's still talking -- to me, at least. Also I guess to Goethe (of RM's book). In a way this makes sense (my voice talking attic Greek) since (sic) it's the daimon of Socrates, who was Greek; I mean, it looks like it dovetails; it's logical...but on a deeper level, although it "fits," really, the mystery deepens. "Of course it lapsed into Attic Greek. After all, that's the language it used when it talked to Socrates." As Dr. Bear said, "Why Greek, and not, say, Hebrew?" Well, here is the answer. I guess (chuckle chuckle, very nervously. This is mind-blowing. This must mean something, everything. And validated by today's foremost psychiatrist. But -- but -- Most of all, its fighting for new social forms to come, destroying the social forms which are, in Socrates' case especially, and hence regarded (he being regarded by Athens) as a bad man. Recall I was saying, "I was given the same trial as Socrates: for corrupting the youth. Told to get out of Narin County or die. I chose to leave." Ach Gott, what am I to make of this? Wo bin ich? If Rollo May were here he'd say in alarm, "Oh no, you can talk to a daimon, but not to Socrates' daimon specifically! You don't understand!" RM marvelously describes it[s] relatedness to the future, to final causes -- rather than being pushed causally by the past -- he's got it all down! Also, those creative persons inspired by it are the vanguard of society, building values for the future which will take root later. Eros is the anthesis of Thabatos: death. Eros created all life, motion and joy in the first place; before Eros emerged, "noting strirred or moved or lived" (Hesiod). Also as Angus Taylor shows, my philosophy is thorough-going Platonistic! In all my books and stories! Of Ubik and the first new revision of Plato's forms; look what Patrice said! It fits together. What does it? Who am I? So many parallels. Just how much "data" from Athens never died? Most important and significant of all: in 3 74 when I was taken over, I had a totally new worldview and it was absolutely the sum total of the highest Greek worldview, an absolutely flawless recap of all the Athenian et al philosophers did: I retrieved it utterly!!!! Now, in view of what Rollo May says, well, then is it not the spirit of Athens, then, which is Apollo Himself?
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Form, Plato, Greek, Well, Like, Since, Only, Harpax, After, Mind, Book, Does, Hebrew, Just, Something, Look, Again, Being, Although, Everything, Himself, Apollo, Without, Tessa, Those, Still, Most, Real, Before, Death, Will, Would, Were, Very, Attic, Many, Have, Life, Later, Socrates, Likewise, Today, Doesn, Final, Right, Answer
+
+---
+### Line 1498-1506 (Match: 'Voice')
+**Folder**: part pressing
+
+```text
+106
+Rollo May can't really sa[y] what Socrates' daimon "is," only that it is real -- esp. for all creative men; warns of something which will take away one's a[u]to[n]o[m]y...leads one into the right relationships -- to cause on to meet certain persons (in my case eg Tessa); knows the future, is renewing, every point in detail; the inner voice which is not mere conscience, with which one can have colloquy. Is the voice of nature; is also the voice of history and historic change (!!!); it caused Socrates to become a gadfly against the state and to defy the court... [???] it, it is real, it is what took me over & which spoke to me in my physics test, etc. But what is it? Why would my daimon speak in Attic Greek same as Socrates'? Same daimon? Same voice, not his versus mine? We all have the same one and it's Attic Greek (it has a local habitation and a name?). The mystery becomes vitally wild, here. Can't be Christ; Socrates lived before Christ; likewise the Paracletos. Who, then? Whoever talked to Socrates inside his head, warned him and inspired him and guided him, it's doing it for me, too, but that doesn't tell me who or what it is "really." "You know the disease you had last year? Well, you have it again." Recognition without identification.
+
+This is 2400 years later; it's still talking -- to me, at least. Also I guess to Goethe (of RM's book). In a way this makes sense (my voice talking attic Greek) since (sic) it's the daimon of Socrates, who was Greek; I mean, it looks like it dovetails; it's logical...but on a deeper level, although it "fits," really, the mystery deepens. "Of course it lapsed into Attic Greek. After all, that's the language it used when it talked to Socrates." As Dr. Bear said, "Why Greek, and not, say, Hebrew?" Well, here is the answer. I guess (chuckle chuckle, very nervously. This is mind-blowing. This must mean something, everything. And validated by today's foremost psychiatrist. But -- but -- Most of all, its fighting for new social forms to come, destroying the social forms which are, in Socrates' case especially, and hence regarded (he being regarded by Athens) as a bad man. Recall I was saying, "I was given the same trial as Socrates: for corrupting the youth. Told to get out of Narin County or die. I chose to leave." Ach Gott, what am I to make of this? Wo bin ich? If Rollo May were here he'd say in alarm, "Oh no, you can talk to a daimon, but not to Socrates' daimon specifically! You don't understand!" RM marvelously describes it[s] relatedness to the future, to final causes -- rather than being pushed causally by the past -- he's got it all down! Also, those creative persons inspired by it are the vanguard of society, building values for the future which will take root later. Eros is the anthesis of Thabatos: death. Eros created all life, motion and joy in the first place; before Eros emerged, "noting strirred or moved or lived" (Hesiod). Also as Angus Taylor shows, my philosophy is thorough-going Platonistic! In all my books and stories! Of Ubik and the first new revision of Plato's forms; look what Patrice said! It fits together. What does it? Who am I? So many parallels. Just how much "data" from Athens never died? Most important and significant of all: in 3 74 when I was taken over, I had a totally new worldview and it was absolutely the sum total of the highest Greek worldview, an absolutely flawless recap of all the Athenian et al philosophers did: I retrieved it utterly!!!! Now, in view of what Rollo May says, well, then is it not the spirit of Athens, then, which is Apollo Himself?
+
+Last edit over 5 years ago by Harpax
+107
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Form, Plato, Greek, Well, Like, Since, Only, Harpax, After, Mind, Book, Does, Hebrew, Just, Something, Look, Again, Being, Although, Everything, Himself, Apollo, Without, Tessa, Those, Still, Most, Real, Before, Death, Will, Would, Were, Very, Attic, Many, Have, Life, Later, Socrates, Likewise, Today, Doesn, Final, Right, Answer
+
+---
+### Line 1599-1607 (Match: 'Voice')
+**Folder**: book COSMIC
+
+```text
+Needs Review
+114
+But if this was a true metamorphosis, then I probably did not/have not just dropped back to what I was; a change set in, perhaps permanent (the butterfly doesn't turn back into the worm). Anyhow, it worked well enough & long enough to solve the problem(s) facing it, and if it receded, it did so after the acute need had been solved by it.
+
+...This is all very well, but what of the faint far-off voice, as if at the far other end of a pipe, or at the end of a long tube, at the top of the well, speaking distantly but distinctly, coaching me, informing me, in hypnogogic and hypnopompic states, in dreams, in deep night fatigue while awake, and sometimes in Attic Greek? How does this patient, informing voice fit in? Explain that, Phil.
+
+Is someone of much higher intelligence, of another species, looking down at us from a distance above, like research scientists looking down at creatures in an artificial maze?
+
+It still does not compute; I still don't have it. There is no reason why in leaping up the ladder of evolution one should find himself hearing his thoughts in Attic[k] Greek, or hearing thoughts not his own in any language. There is still this dialog with the Holy Other, and still the mystery, Why Attic Greek?
+```
+**Co-occurrences**: Holy, Greek, Well, Maze, Perhaps, Like, After, Does, Anyhow, Just, Himself, Probably, Still, Another, Phil, True, Other, Very, Attic, Back, Have, Doesn, Someone
+
+---
+### Line 1710-1718 (Match: 'Voice')
+**Folder**: part of
+
+```text
+Now, viewed this way, that a message, the same message, was passed on to me repeatedly, the Attic Greek can be viewed as an essential ingredient; as a constituent in the carrier, it demonstrates that the material was not an autoproduction; it came from somewhere outside my own psyche; this indelibly stamps the material as non-psychotic or not a fantasy. I did not produce it, although my own mind may have shaped it. Therefore the Greek was essential to establish veracity of the message. Attic Greek served perfectly; it was something I did not know, could not have know, but could translate; whereas Hebrew, for instance, might have passed as mere gibberish or scribble.
+
+The linking, too, of even one fragment of the Greek to the Bible, as was done with the "kai hypsilon," to Romans, is of crucial importance, as with the finding of material derived somehow from Paul's "Acts" in TEARS. (I believe it was "Acts," anyhow one of Paul's works.) Yes, it was Acts, a relatively short section from the Bible; and then Romans comes next, also a relatively short section. When one considers the origin of the New Testament --dictated by the Holy Spirit to men-- then this fits together. Also, my ability during that time to see in brief flashes other events and places which I could confirm, plus the pre-cognition in dreams, was probably to bolster my realization, perhaps later, that I was indeed receiving in-coming information and hence the message was authentic, both in content and in origin.
+
+I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sense. In that area, the Levant, they were still part of the Hellenistic World and so wrote & spoke Greek. I had erroneously been supposing that the spoke/written language of that time would of couse be Latin. Then in 2 75 I did see the Levant for sure. In 3 74 I saw the hurrying secret Christians underground, at their work; they of a proven certainty at least wrote in Greek, and I think spoke Greek; yes, I'm sure. So this adds up: what I saw, and then later what in my head I heard. Yes, the fish sign, composed out of Greek letters and into a Greek word, proves it. I was back, auditorily as well as visually, among the apostles and early followers. And such dreams as "my friend Paul" holding up a prophetic galleyproof text: in which I was mentioned! And "Santa Sophia will be reborn, etc." was what they were into; the Savior has been born once already (obviously, since the Christian fish underground, them, existed); but I recall that I knew they were anticipating him returning, which is to say, Santa Sophia. This was what all their activity was in preparation for. This was their hope and their expectation: the Second Advent. So this is all of a piece. But, I believe, the voice I heard was not a voice from them but rather to them (to us?). This is the news I have; this is the news they had. We are linked together, and with us our two time-space periods. Li[n]ked by that anticipation (and that voice). Whoever it speaks to, and delivers that message, is somehow made one with them, outside time and space and all distances. This Christian underground much itself lie outside of time, like that which it awaits.
+
+. . . Re; TO SCARE THE DEAD. A character based on Jim Pike (with quite another name). Based on firsthand knowledge I had of his private life, e.g. with Maren in the Tenderloin, and the kind of man he was. This could be a major, if not the major character; but it would not be he who would have the Experience; that would be had by another, perhaps after
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore, Time, Harpax, After, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Another, Pike, Such, Secret, Jim Pike, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During, Whereas
+
+---
+### Line 1818-1826 (Match: 'Voice')
+**Folder**: part of
+
+```text
+All the Protestant had inately (sp) was his conscience. Innately, I mean. Conscience -- individual and inner, and his own, not derived. But now! Whole categories of human thought innate, inner and individual, in the same way -- conscience elaborated or added to -- multiplex systems instead of the single system of conscience, which told us only what was right, not what was so. To the Catholic, it must have seemed as impossible that a person could have an actual again bite of inwit as it would seem to the Protestant that a person could know Attic Greek innately "Conscience is a social deposit." And surely, "Knowledge of the culture and value-system of Greek times circa 400 BC is a social deposit, learned from outside entirely."
+
+The Catholic could say, "How does this inner knowledge of right-and-wrong come into being?" and would get no answer; this isn't known. Likewise, "How does a knowledge of the Logos, of Neoplatonism, of the Eliatic Schools, come into being?" received no answer, but so it is.
+
+It is just as obvious that conscience is a social deposit as that Attic Greek is a social deposit. It is a mystery. Perhaps it come directly from God (which the Reformers said of conscience). Now one such as I can say that of all values; not just right-and-wrong, but also, truth-versus-false, important-versus-mickeymouse. And, too, like conscience which is a quiet inner voice saying, "Such and such is wrong," this quiet inner voice speaks in Attic Greek and also gives vital information (e.g. about St. Sophia, etc.). (It's a whole audio-video school or tutorial system -- yes, tutorial; tutor to pupil, as with Aristotle and Philip).
+
+. . . It seems to be inside things (inc. men): as the sap to the branch.
+
+The long above discussion regarding historical forces shows the connection between the Holy Spirit and conscience, the latter being a small form of the former in my opinion. Since Rollo May shows that Socrates' daimon is conscience when thought of as more than mere social deposit, then that must be the same, too. Regarding conscience, we are talking about a holy force, divine in origin and absolutely binding, which does not arise from social conditioning but springs spontaneously; it is God teaching us and informing us. If conscience can be regarded as a historical, social force (esp. connected with the Reformers and toleration and freedom) then my 3 74 experience consisted of conscience changing over to the Holy Spirit, and the Holy Spirit advancing out into the realm of social action, in which the right of conscience was rightfully supposed to be; for the Holy Spirit to do that is to throw into the balance of social action against despotic society (identified with "the prince of this world") an ultimate force; conscience is shown then as a forerunner of a force more powerful because as well as moral knowledge it also carries knowledge of what is true (and what is mere lie). Conscience alone might dictate that I act (refuse to kill Vie[t]namese) but in no way does/did it provide me with any assistance of any sort. Not so with its more complete form, the Holy Spirit. The relationship between them reminds me of that between the First Advent (the lamb who is sacrificed) and the Second: the Powerful Judge who overthrows what is evil.
+```
+**Co-occurrences**: Spirit, Holy, Logos, Complete, Holy Spirit, Form, Sophia, Greek, Well, Perhaps, Advent, Plotinus, Like, World, Since, Because, Only, Could, Does, Just, Realm, Again, Being, Catholic, Divine, Philip, Aristotle, More, Such, True, Would, Judge, Attic, Surely, Have, Things, Information, Freedom, Instead, Evil, Socrates, Likewise, Knowledge, Truth, Reformers, Human, Lamb, Right, Answer
+
+---
+### Line 1828-1836 (Match: 'Voice')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Harpax
+130
+Needs Review
+130
+The two instances of Holy Spirit as conscience in my own case which come to mind would be, first: when I was tormenting the beetle as a child and suddenly understood; and second: about the burning up Jap and later the napalm bombing. What I note now that at least these instances are actually cases of an agape awareness, which would be in accord with the loving nature of the Holy Spirit. What a triumph and a joy it would be to establish a relationship between the Holy Spirit and certain clear expressions of inner conscience especially concerned with the suffering of other creatures -- what a terrific triune linkage! Terrific? (sp) The Friends distinguish conscience from the Inward Light, the latter being God in man, evidently addressing him or anyhow illuminating him; probably they distinguish it from mere social deposit. My experience certainly indicates that the basic Protestant idea that God speaks directly to man though the Holy Spirit is correct (in contrast to the handed-down-by-the-priest idea), and in particular the Friends would seem to be correct, as regards their concepts of the Inward Light and the Seed. The evolution of religion from God Above to God With Us to God Within Us is obvious, but what I see too is the social-historical meaning, inasmuch as it certainly is going to basically affect future societies, this internalization of God (as we withdraw our projections, perhaps). Every man will carry a bit of God inside him, like a walkie-talkie (and much much more). He will be conscious of this, both in himself and by empathy and analogy in others. Surely, if all goes well, less will be handed down to the people progressively more and more; and the people will take their destinies in their own hands (but that is only if unobstructed; yet, that should be their fight: if God is within each man, then the enemy of man is any top-heavy system claiming a monopoly on truth and dispensing it downward). Why eventually will laws be necessary at all? I foresee a godly anarchy. No authority here on earth will have to tell any man what to do, or even educate him; the Logos will do that -- link him up. A truly egalitatian society should result. Again I foresee and applaud the arising of the new people I described in my Vancouver speech; this internal radio set will educate and regulate them on an individual basis, and coordinate them, and make possible functionally (the how) what I saw coming ahead. A certain kind of superhuman could result -- what I saw in Kathy: you cannot lie to such a person, or coerce them, etc. This at first will be a frightening (to us) person, as if a sociopath (and may be so in transistional phases). The directness is so inner that it cannot be appealed to; nor are the values derived from society, esp. the establishment. It is always "the sound of distant --deep within-- drummers." Therefore such a person will present to us a deep enigma. Their motivations (why? How derived?). What gives them the verification of ratification they need...they will, like Kathy, have a deaf (to us, to our pleas and complaints) quality. Presumably Kathy represented an incomplete type, because her lying indicated a fundamental lack of authenticity. Still, the potential seemed to me to be there. The beginning, as I described. I think perhaps she was relying on an inner voice (Light) which she could not as yet clearly hear -- she was still experimenting. Most indicative was her rebellion against society and her unwillingness to be hampered. Also, she had fashioned her values sui generis, which is what this is all about.
+
+Last edit over 5 years ago by Harpax
+
+131
+```
+**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Well, These, Perhaps, Like, Because, Therefore, Only, Earth, Harpax, Mind, Light, Even, Could, Anyhow, Again, Both, Being, Himself, Probably, Kathy, Still, Their, More, Most, Such, Actually, Certainly, Will, Would, Other, Surely, Have, Clearly, Later, Truth, Suddenly, Evidently
+
+---
+### Line 1839-1847 (Match: 'Voice')
+**Folder**: Unknown
+
+```text
+A new level of homeostasis, maybe; containing the source of knowledge as well as wisdom. Manufacturing what one knows -- which is to say, manufacturing ones world...but out of koinos bits to that it is linked to the koinos; one invents what is the common heritage of value for all the world (e.g. Attic Greek culture). All ones ideas are a priori instead of empirical; but it is the empirical testing which is a testing of the "accidents," not the ontology or heart. (I.e. knowledge derived through the five senses -- mere phenomenology, worthless.) In a priori fashion one discerns to the heart, pieces to it by some kind of analog computing in the right hemisphere. Ones internal a priori ideas match the outer world, analog style, which is where geometry as envisioned by the Attic Greeks failed, since it sort of didn't. But this does. I sit in a closed room and a priori, not using my five senses, I fashion an analog of the world, based on structural concepts and ideas (the Logos, as RM defines it: the meaningful structure of reality). I can do this because I am isomorphic to the brains of all other men; hence a priori I can fashion Shakespeare's plays and Beethoven's symphonies, if I dig deep and correctly!!! All thought-concepts are common property (the collective unconsciousness becomes conscious!!)
+
+Without proof of this Inward Light there could be no rational justification for anarchy. With proof (as I have) there is no rational excuse to maintain any sort of centralization of power; no state of any sort, as we conceive it. We will be linked anyhow. We cannot not be. The social implications are beyond calculation, for good. Is this perhaps the Kingdom of God prophesized? Behind the scenes, invisible to us, we have continued to move closer to it constantly, throughout 2000 years at least which seemed sterile of forward growth; but -- we did not know (a) in what way it would come; (b) what is would be like! How could we calculate momentum toward it knowing as little as we did about it? Perhaps we are very close now.
+
+Perhaps a sign of its proximity will be a growing difficulty by the authorities throughout the world in governing. And a positive decentralization of power and authority. The causes may be dreadful, intrinsically (breakdowns, etc); but, unrecognized, they would lead to excellent results, someday. . . This would have enormous important for characterization in TO SCARE THE DEAD. . . If I had to account "rationally" for the Inward Voice (Holy Spirit) I could offer Dr. Buck's duplex mind which appears with cosmic consciousness, and link it to the Ornstein two-brain material: the appositional mind. Outside of this, with the addition of the Bergson notion of the brain as transformer (and maybe including the pineal) I would be defenseless in rational argument. But all these are within reason, plus Jung's collective repository. My right h. emerges when my left has painted itself into a desperate corner and its rat-like linear thinking has bogged down, leaving a vacuum.
+
+Last edit over 5 years ago by Harpax
+132
+Needs Review
+```
+**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Kingdom, Greek, Well, Wisdom, These, Perhaps, Maybe, Like, World, Since, Because, Harpax, Cosmic, Good, Mind, Light, Could, Does, Anyhow, Kingdom of God, Reality, Without, Beethoven, Brain, Jung, Through, Will, Would, Other, Very, Attic, Beyond, Have, Instead, Knowledge, Dead, Right
+
+---
+### Line 1845-1853 (Match: 'Voice')
+**Folder**: part remain
+
+```text
+Last edit over 5 years ago by Harpax
+132
+Needs Review
+132
+Every time in my life that I've heard the spirit it's been when my normal (linear) thinking had exasperated & exhausted itself -- reached its end without results, but each time, results were still absolutely necessary. This alone makes a circumstantial case for locating the spirit, the Inward Light, in the right hemisphere (I suppose). Normal habitual cognative processes must be tried fully and fail. This would by why under routine & ordinary conditions I don't hear it and am cut off from it. But this only tells me where it can be localized in terms of brain morphology. As an appositional other brain, not my own, it still -- well, how does it come to think in Attic Greek, and make use of technical terms such as syntonic? My original diagram showed a piece of the macrocosmos within the microcosmos, but that was more a metaphor and poetry. Also, if my right hemisphere can do this, why does it do it only when I am under duress? Why isn't there bilateral parity? What an improvement that would be. Is it a new organ just starting to come on, as Dr. Bucke believed (i.e. the next step upward in human evolution)? Maybe so. In regards to such persons as Kathy, she certainly was deficient in left hemisphere prowess; almost an idiot in terms of language use. The pure intellectual ability was aborted in her habitually, leaving a vacuum into which perhaps her right hemisphere flowed; and also, maybe (and Rick suggested) she fucked up her left h. with dope. "The old Adam, sinful and full of pride, must be destroyed in order that the second birth can take place; the ego must go." Does this perhaps mean the left hemisphere and the self-system in it? It must somehow die -- which is exactly what I felt happening to me, or to mine, back in 3 74, a psychological death (following all the stations of the cross, and ending in rebirth of a totally new and greater kind). How possibly could a lesser, minor, inferior portion (half) of the total mind be habitually turned outward to the world, and a wiser, older part, devoted to truth, in possession of innmeasurable knowledge, holy and calm -- how could that part remain suppressed virtually forever? Just from a functional standpoint it's hard to understand, unless its time is coming, as Dr. Bucke thought. This, in addition to, How did it form? How did it form and why isn't it used? It doesn't seem to be a social product, or limited to this time & this space. I wonder if it is a self-system, an ego, at all. It is not another self, even a better one; it is absolute it all that it knows, does and especially in all that it is (its ontology is perfected). I don't really see it in process, in becoming, and more than I see it making mistakes and learning thereby. It has no infancy and no senility. Also, it is ma'at, I just realized. The absolute judge; I am sure of it; I can tell; mostly by its voice. What it does most of all is weigh. Law (proportion), truth and justice. Joseph Campbell identifies ma'a[t] with dharma and tao, also the will of heaven. It ma'at can speak --be personified and "alive"-- then we have advanced out of the Chinese idea of tao and into something like the Christian concept of God. . . In 3 74; the abolishment of time for me shows that mythic identification (with the god or goddess) did take place; of Joseph Campbell p 54 (?). For me, back to the Last Supper (which identifies the "god" as the Holy Spirit, but also the Will of Heaven when it speaks).
+
+"It is a bold attribution, this of one immortal substance to a sequence of mortal men; but in those days the madness could be overlooked
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christian, Spirit, Holy, Holy Spirit, Form, Greek, Well, Perhaps, Maybe, Like, World, Only, Time, Harpax, Mind, Light, Even, Could, Does, Just, Something, Adam, Suppose, Diagram, Self, Without, Brain, Kathy, Those, Still, Part, More, Another, Most, Heaven, Such, Certainly, Death, Will, Would, Other, Somehow, Judge, Were, Attic, Back, Under, Campbell, Have, Life, Absolute, Justice, Days, Unless, Knowledge, Joseph, Cross, Truth, Greater, Human, Doesn, Joseph Campbell, Right
+
+---

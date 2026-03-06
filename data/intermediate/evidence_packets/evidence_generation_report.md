@@ -1,0 +1,56 @@
+# Evidence Generation Report
+
+- **Total Packets Generated**: 500
+- **Packets with Zero Passages**: 2
+
+## Top Evidence Clusters (Richest Terms)
+- **Christ**: 20 passages
+- **Valis**: 20 passages
+- **Tears**: 20 passages
+- **Acts**: 20 passages
+- **Christian**: 20 passages
+- **Ubik**: 20 passages
+- **Toso**: 20 passages
+- **Thomas**: 20 passages
+- **Indexed**: 20 passages
+- **Spirit**: 20 passages
+- **Holy**: 20 passages
+- **Zebra**: 20 passages
+- **Logos**: 20 passages
+- **Jesus**: 20 passages
+- **Complete**: 20 passages
+- **Xerox**: 20 passages
+- **Rome**: 20 passages
+- **Christianity**: 20 passages
+- **Holy Spirit**: 20 passages
+- **Form**: 20 passages
+- **Sophia**: 20 passages
+- **Plato**: 20 passages
+- **Kingdom**: 20 passages
+- **Gnostic**: 20 passages
+- **King**: 20 passages
+- **Torah**: 20 passages
+- **Brahman**: 20 passages
+- **Paul**: 20 passages
+- **Fish**: 20 passages
+- **Felix**: 20 passages
+- **Greek**: 20 passages
+- **Ditheon**: 20 passages
+- **Satan**: 20 passages
+- **Well**: 20 passages
+- **Empire**: 20 passages
+- **Bible**: 20 passages
+- **Gnosticism**: 20 passages
+- **Parousia**: 20 passages
+- **Golden**: 20 passages
+- **Roman**: 20 passages
+- **However**: 20 passages
+- **Spinoza**: 20 passages
+- **Maze**: 20 passages
+- **Wisdom**: 20 passages
+- **Dionysos**: 20 passages
+- **Lord**: 20 passages
+- **These**: 20 passages
+- **Perhaps**: 20 passages
+- **Advent**: 20 passages
+- **Godhead**: 20 passages

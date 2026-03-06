@@ -1,0 +1,347 @@
+# Evidence Packet: Freedom
+
+- **Category**: Top Term
+- **Total Mentions**: 29
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 8-16 (Match: 'Freedom')
+**Folder**: Unknown
+
+```text
+We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.
+
+This "decay" is the same direction the Holy Spirit (or whatever you wish to deem it) was moving. Backward vis-a-vis our own time. So Joe Chip isn't seeing the anti-eidos. He is seeing the natural process of the other time exposed. Its normal motion under normal conditions leads back from rocketship to Corvette to La Salle to Model T. I mean, isn't this important, to realize this? He has already seen it decay via a different axis (the Platonic forms); but he still calls it decay and imagines that what he sees is a reversal of its normal growth direction.
+
+Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '56 Chevy to ionosphere...that for it would be the "film pulled backwards," so to speak. Joe (i.e. I) saw it naturally. So within our linear time, form (edola) develops in the opposite direction to what we in linear time see. "To enter the Kingdom of Heaven you must be as little children," He said, our Savior. We must regain what in regular time is the past; orthogonally it is the future. Then what happend to me in March, I didn't move backward, in linear time; I moved forward, to the completion of time. I saw time completed: the great Iron City which fell to the people hustling their asses for man and for God, for Justice and Truth and Joy and Freedom. I saw the Parousia.
+
+I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
+
+I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
+```
+**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Iron, Time, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Truth, Chip, Final
+
+---
+### Line 565-573 (Match: 'Freedom')
+**Folder**: Unknown
+
+```text
+The anamnesis phenomenon, especially because triggered off by an external disinhibiting stimulus, suggests not only an entire "second stage" in the human being unsuspected, but held in reserve, but also that the organism as model or paradigm may explain human existence; that the disinhibiting signal was intentional suggests a transpersonal entity at work; and most of all, a heirarchy of functions leading entirely out of the visible (i.e. space-time) universe, ala Plotinus. However accurate the Neoplatonistic and Gnostic might be, our concept of universe as organism (and universe of space-time within larger universe also stages or levels within thinking organism) is a powerful view, here, to account for these events; the human as microbearer of information ala DNA coding: the cell with can replicate the entire organism...it must wonder what all that info in its head is for. Not only, Where does this info come from? And How does it get into ones head, but What is it for? Certainly not to replicate the individual. It's a sort of micro-Logos (Logos here as master blueprint or plan).
+
+The fish symbol didn't perhaps "disinhibit" me, i.e. act as a disinhibiting stimulus to release emgramming; it, more accurately broke the power of this world over me. It deautomatized and released.
+
+It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
+
+Isn't this what the Christian fish sign is supposed to do? Representing Christ, it is Christ; and this is what He does for a person, a very desperate person: He breaks that earthyl thrall. He, through his emblematic sign.
+
+[Itwas] He, no metal sign; no object, but The Savior, expressed in His presence. He came to the door manifest in [a] emblematic form, which was verbally (the Logos?) identified. We grow; we reach a certain point; we stop growing; we decline and die. What did it all up to? Nothing, because we were blocked --limited-- at a certain point. He expressed as emblematic pin broke that hold or limit, and growth resumed in me, at enormous speed, as if to make up for lost time. She, the girl, wore/bore a message to me, from Him (my heavenly father). What I became afterwards were all supposed to be...but something went wrong; error slipped in, for us all.
+```
+**Co-occurrences**: Christ, Christian, Logos, Form, Gnostic, Fish, However, These, Perhaps, Plotinus, Father, World, Because, Therefore, Only, Time, Savior, Does, Something, Reality, Being, Girl, Anamnesis, Nothing, More, Through, Most, Certainly, Universe, Were, Very, Back, Information, Info, Human
+
+---
+### Line 1026-1034 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+However, against this is set my experience of anamnesis, the neoplatonistic recovery of memory of divinity already there. I did not acquire it abruptly; I recalled it.
+
+In reconciling this with Christianity, I was restored. To the former state I had lost (the myth of Adam, the Fall). In the Parousia, there is the Restoration of all things, specifically, man is restored to his intended, divine state. The Second Birth (born again or saved, found after having been lost)
+
+Is it food for a seed already there? A seed which was never germinated? Been fed? ("Your ancestors ate manna in the desert and they are all dead; I give you bread of eternal life." This implies it is more a kind of food in the sunlight, packets of nourishment. But I think the mystery has to do with what I experienced as suddenly being back 2000 years in Rome, being in another space-time. It shows that we do not understand the nature of time. If a new seed, from without, were implanted, why (like Empedocles) would we remember? But we do. Here, we're dealing with the "divine spark," like that which is in us because our ancestors, the Titans, ate the infant Zagreus. The divine spark is the same as the logos spermatika. The spark or seed, being an immortal being, is not subject to time. The kind of transtemporal experience which I had is impossible to a being which is mortal and hence subject to time; as the Brit 3 says, mortality and being in thrall to time are identical. If a spermos logos were implanted from without, and then fed, I think the person would suddenly find himself no longer bounded by time (and also not bounded by space, but this would be a lesser release). It is time which grinds down and brings death. The divine seed being immortal would transcend time, and what I experienced (because of the nature of time, which is not known to me) would be the sort of natural result of the sudden release from thrall to it. I would imagine a time dysfunction; actually, it would more accurately be that I had become an entity not bound by time. I would think, "Something is wrong with time; I am no longer in Fullerton in 1974 but 2000 years back in the past, in Rom[e]." The change, though, was in me. No one else felt anything, anamnesis, recovery of memory, is a projection (in the Jungian sense) outward, upon the person receiving immortality (i.e. freedom from the thrall of time). THIS WOULD EXPLAIN WHY THERE ARE NO INTERVENING MEMORIES, AND WHY I KNEW IT WASN'T A REINCARNATION TYPE MEMORY, OF A FORMER LIFE. THAT I ONCE HAD BEEN IN ROME CIRCA 70 AD AND SUDDENLY REMEMBERED IT. Rome and Fullerton were fused, as if the element of time were withdrawn. I didn't remember; I was there. (At two points, A and B simultaneously; vide Dr NK's "universe projected from a single point," etc. This can't be understood unless time is understood. We are freed -- from what? What is time?
+
+Last edit over 5 years ago by Harpax
+70
+Needs Review
+```
+**Co-occurrences**: Logos, Rome, Christianity, Parousia, However, Like, Fall, Because, Time, Harpax, After, Something, Once, Adam, Again, Zagreus, Being, Empedocles, Divine, Himself, Anamnesis, Without, More, Another, Upon, Actually, Fullerton, Death, Universe, Would, Were, Back, Things, Life, Memory, Jungian, Having, Remember, Unless, Dead, Suddenly
+
+---
+### Line 1032-1040 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+70
+Needs Review
+70
+It may be that Dr. NK is wrong, and that time is a 4th dimensional space imperfectly perceived; I was freed from time, and this shows that indeed I had been Reborn immortal, but I do not understand that which I was freed from (time). What I should do is try to infer the nature of time from what I experienced ("anamnesis") when freed from it. It became unreal (I remembered at least 2000 years back; Restoration took place; there was retrieval of data, etc.). What we experience as lost --things moving into the past-- those things ceased to be lost. Those things which had passed out of sight (moving from the present to the past and hence gone forever, destroyed) were again there, again real, not destroyed. This is intimately bound up with immortality, the rebirth, the freedom back upward from the Fall. The continual perishing (including that of myself) was abolished -- but not only of myself, but of everything. The world-and-I together were retrieved, as if no destroying process had obliterated us ("Death, where is thy sting? Grave, where is thy victory?"). Is this a waking up? ("Look! I tell you a sacred secret: we shall not all sleep," etc.) Here, "sleep" equals a loss of full consciousness in which perception of all-which-was is lost, and we cease to see it and imagine it destroyed & abolished.
+
+The transient quality of things, the loss of them into the past, is a diminution of perception, a visual-perceptive loss; we cease to be able to track or follow their movements to another place (the past is another place which we can't see, being partly blind; in the "Decoded" it says, "He now could --an angel?-- see only things very close to himself, and nothing which was far away." I.e.; he could only see that point which is the immediate present. Those two vast eternities, which contain everything, the past and the future, were no longer visible (the 3rd eye had shut). And this would be why the gift of prophecy (second sight) is so basic to the restitution of ones full faculties, and associated with Men of God. Prophecy: seeing into. The past is within things (as in UBIK). Again, the onion rings universe. Where is the past? Within what we see, at the hearts. All reality is like some great Indian burial garbage mound, like layer or accretions, at Troy, successive. Not being but "below." Contained.
+
+Like in the 3 pages I sent Angus. Palimpset. Well, if the past is within what we see (smaller concentric rings, constricted) perhaps one can reason that the future consists of larger rings that that which makes up our perceptual present; vide Plotinus. The next concentric ring of emanation would be the future...strange. Which we reach toward, and which recoprically reaches down to assist us (as I inferred about the "space people": they're from the past, to give help. Angels. They would come to us in dream-time, with visions of what is ahead, and this is why dreams are prophetic. And less dense, less constricted that the daytime Now ring.
+```
+**Co-occurrences**: Ubik, Well, Perhaps, Plotinus, Like, World, Fall, Only, Time, Harpax, Could, Look, Again, Reality, Being, Everything, Himself, Great, Anamnesis, Nothing, Those, Their, Indian, Another, Real, Secret, Death, Universe, Would, Angel, Were, Very, Back, Things, Dream, Track, Sacred
+
+---
+### Line 1059-1067 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+between two opposite sequential states; my experience began when I was "listening for very weak signals to transduce," which was meekness (I got it right, picked up paw talk, etc), and then came the chromatic fire. That was when I received God or God's Power or Spirit, the Yang upon me-as-Yin. Possession of me by the God took place, as Ted Sturgeon says in VENUS PLUS X or whatever, this being what was really sought at the Feast of Agape. No wonder they say, as Doris points our, God is love! Wow, He sure is! It is a (ahem) mating (again vide Yeat's poem "Leda and the Swan.") But that was one year ago -- over a year ago. Actual possession lasted days, weeks, slowly drained off; no more than a couple weeks, the electrostatic life form gradually drained off. But Firebright remained; the dreams remain right up to now; contact (Fellowship) with God remains.
+
+Spring is the mating season. As Psy Today says, it's based all the way up to cosmic influences (sidereal). All synchronized.
+
+By following all the admonitions of the Gospels, one literally courted the great masculine Father deity so that he literally possessed the Christian. From this (receiving the Holy Spirit, as they put it euph[e]mistically) they got various powers: healing, prophecy, ability to discern, and were made Righteous, which I experienced as a thirst for Truth and Justice and going the right thing. "Gifts of the Spirit," yes, but those who were possesses were also the "First fruits of the harvest," which meant that they gained something permanent; this would correspond with my being back in Rome; i.e. escaping the thrall producing death -- hence, freedom, release, from the power of death. Certainly, of all the various gifts, this would matter the most. I myself experienced reality on an inner ontological basis (assimilating objects themselves rather than mere phenomena), saw the structure of the universe (Logos or Plan), have and still retain fellowship --contact-- with God, which is to say, knowledge of him. I didn't just get the power to heal; I was healed. I walked with God and communed with him (along the alley that day, also in trances and dreams). I knew the true state of things (the tyranny) and what to do. But to dream of Crete or dream of Rome is a lot difference than that perios when I was there; when for me time was abolished. This is what I mean when I say, The power of the world over me was broken. It got that cardboard fake quality. Now it is clear about the Father-Son (JHWH-Christ) relatinship (Zeus-Zagreus). The Holy Spirit, a form God the Father takes, impregnates (the person receives it) and Christ consciousness is born (in Mary's case, Jesus Christ physically born from her womb, she being made with child by the Holy Spirit). Out of this union comes Christ. The father is God. The impregnating spirit is the Holy Spirit. (Does Christ grow up to be Jehovah? Why hasn't anyone ever asked that before? Or like him? I think he can be like him or even be him.) Where is the Logos in all this? The outcome of possession by the deity is Logos relatedness, in the sense Hericlitus meant. One (the receiving one) is brought into conformity with it, while the Christ within, Firebright, grows. The former mere moral human, full of sin (sickness and insanity) is consumed by the growing Christ, moves toward him, toward the Logos, with it as exemplar and outcome: as perfected form. The Logos is the plan and information which leads to that completion, a process begun by the Holy Spirit initially.
+
+Last edit over 5 years ago by Harpax
+73
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World, Time, Harpax, Cosmic, Even, Gospel, Yang, Firebright, Does, Just, Something, Again, Reality, Zagreus, Being, Jesus Christ, Great, Those, Still, More, Zeus, Most, Upon, Certainly, Love, Before, Doris, True, Death, Universe, Deity, Would, Were, Very, Back, Whatever, Have, Things, Life, Justice, Spring, Fake, Information, Days, Sturgeon, Knowledge, Truth, Today, Human, Dream, Crete, Right, Mary
+
+---
+### Line 1171-1179 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+Here is something hard to express, but important. Going back to Plato and Neoplatonists. If the soul remembered each life, and if there is reincarnation, and if the soul acquired wisdom each time around, THEN what I experienced (anamnesis) is exactly the breadth and magnitude of wisdom commensurate with these many live, and of the quality which this and only this wisdom -- acquired this long, laborious way-- could consist of, could have gathered. What I saw (space and time), what I understood (how the universe worked), my total awareness, is exactly understood commensurate with the Platonist and Neoplatonism (and Pythagorian) idea of rising each time, rising but forgetting, and the value of anamnesis, the removal of amnesis. What was remembered was the wisdom and understanding that was the aggerate of all these lives, and proportionate thereto (consider how many...perhaps thousands). Nothing else really was retained (although the dreams show local details sufficiently).
+
+But of all that I understood, a union with God by means of the Logos meant most to me. To rise up, assisted by the Logos. The double action: reaching up/reaching down. The Guide (Erasmus). qed
+
+I think that my seeing the Levant in Feb 1975 is as important, although less striking, as my seeing Rome in March 1974. In both cases, the thrall of time was removed, disclosing the eternal world, in Dante's sense. A transition had been made in that world (it is hard for someone unacquainted with Medieval thought to understand progression in eternity, but the basis would be a progression or procession of Platonic archetypes[.] The archetype in March 1974 was Rome and Iron and Slavery, with a corresponding need to fight for freedom, truth and justice; however, a year
+
+Last edit over 5 years ago by Harpax
+82
+Needs Review
+```
+**Co-occurrences**: Logos, Rome, Plato, However, Wisdom, These, Perhaps, Plotinus, World, Iron, Only, Time, Platonist, Harpax, Could, Something, Both, March, Although, Dante, Platonic, Anamnesis, Nothing, Soul, Most, Consider, Universe, Would, Erasmus, Back, Many, Have, Life, Justice, Truth, Someone
+
+---
+### Line 1406-1414 (Match: 'Freedom')
+**Folder**: book certainly
+
+```text
+Needs Review
+98
+since it could now really be an isolated thing; it pointed to an entire network of which it was representative (an accurate a sampling, although involuntarily so). Thus by revealing itself, evil destroyed itself (it had too much "bulk" to remain camoflaged any longer). Thus we can see the purpose served by the stage, in the Parousia, when evil is no longer restrained but can advance at will; it thereby exposes itself to the light, and those who are against it can discern it, finally. This so stengthens them that its defeat is forthwith assured. (It is identified with the Lie and shuns the light of day.)
+
+This really is a prime discovery, because it vitally assists me in understanding "Why me?" It has to do with my commitment to and involvement with The Game. This was not withdrawn, contemplative or mediative state, which produced this, but myself as homo ludens -- and awareness of myself as homo ludens. Zoroaster was right; we are most in deadly earnest. To be aware of it, to raise above it, is to see how serious it is. I, when aware, was even more --in fact totally-- involved[.] I saw/see the world as battleground, and myself as soldier devoted to truth, justice, freedom, joy.
+
+. . . The Rome which I saw in 3 74 was like the world of FLOW MY TEARS. But that is like GULOG. Did I see Gulog, then, in 3 74? The "Rome" tyranny is soviet and it is here? (How could what I saw be all there things? Roma circa 45 AD, Gulog, TEARS? Somehow they are the same -- in essence, in ontology, not accidentals. Was what I saw not a domestic tyranny, or rather, our domestic tyranny --I mean the Nixon regime-- was it in fact soviet? After all, the immediate threat to me was Soviet...I mean, the immediate threat was Nixon CIA anti-soviet[,] I mean both. I mean I saw them as the same. Another case of "either A or not-A" transcended, a sort of evil version of the "Secret Partnership," in which that which is absolutely opposed here is together as partners in the next level up, and you see the latter suddenly instead of the former. Glak. That certainly makes TEARS a remarkable book: it present a true picture of the essence of the US, a police state, but the paradigm is obviously not anti-soviet but soviet. What are we to make of this? US imperialism and soviet leftest tyranny are twin branches from the same tree, and that tree's name is Imperial Rome. Tweedledum and Tweedledee. (The archetypal from is identical for both.) (Thus in my dream I see Agent Payne as soviet KGB cop.) You have to strip away all the accretions, get it back to Roma c 45 AD to see the ontological identity. Wow, what a realization! No wonder I kicked ass re both groups. No wonder I feel the same way toward both soviet and US fuzz. Well, this always was at work in producing my worldview in 3 74, the fact that TEARS had just been released. I waited for the stealthy enemy to surface; he did: as the US Army (the 232 copies of TEARS they bought) and the Xerox KGB letter. I had to pass retrograde layer after layer to receive an outright vision of this, that I could then understand (i.e. understand what I had written & its meaning). The real meaning: Imperial Rome is back -- back here, back in the USSR. The true enemy is this, and our friend is the same Friend: the Christian underground, which is why I sent that $5. This is the what that I saw; the Who [W]hich showed it to me is God Himself (the Logos) (the Savior). But there was for sure a second vision one year later: positive: "Santa Sophia will be reborn; she was nor acceptable before." And the beautiful Levantime scene of palm trees and open places, and Springtime (ending with the dythramb and Rightful King returning).
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Tears, Christian, Logos, Xerox, Rome, Sophia, King, Well, Parousia, Like, World, Since, Because, Nixon, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Secret, Before, True, Santa Sophia, Finally, Will, Somehow, Back, Have, Tree, Things, Justice, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+
+---
+### Line 1804-1812 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+128
+Needs Review
+128
+I believe something really evil was loose in the world, and we stood up to it here and there and defeated it. I have no idea who or what it was, no clear conception of it or what it wanted. Or why me. Perhaps what I did was shake off a lifetime of contamination and conditioning and preprogramming to this world. That in effect I confuted or renounced it and my allegiance to the forces in it and hence to it. What isn't clear is whether I shook of[f] something primarily in the past which had held me, or else something building ahead, to come. It is, as the Protestant reformers knew, primarily a fight against the great tyrannical system or systems of the past, for the purpose of freeing men's minds, for the future of life. What Art Spiegelman said about SFS shows how right I was, and how right I am still to abominate distrust and fear those people. It occurs to me to connect my experience with that of the Protestant Reformers which broke the monopoly on truth which the Catholic Church had. Their stance vis-a-vis the Church was almost identical to mine vis-a-vis the Marxists. Perhaps the reappearance of this spirit, working for the freedom to know and to think, signals the beginning of another major historical age like that of the Reformation; perhaps it come forth when there is a historical necessity. So we may be seeing the beginning of the breaking down of the bullshit establishments here and in the USSR -- like I said in my Vancouver speech and especially as I saw or discerned in 3 74, the arising of a new ability to tell when you are being snowed; and since big governments etc reign by bullshit, perhaps this is a grand new era for mankind, of which I was/am a part. Endowed with the sudden, new capacity to see through lies -- so equipped by the Spirit himself. And at the same time placing an extraordinary value on truth in oneself; never to lie and never to let anyone lie to you; a new value system with this first. If the Protestant could be said to be a new historical type emerging from an older authoritarian one, then perhaps a[n] equally important new one is emerging now -- not just inner directed (Protestants were that) but -- what I was in 3 and 4 74; there is no name, yet. Not inner-, not outer-, but truly new. My subjective experiences and feelings, in abruptly lifting up to this new type, must be parallel to those of the first Protestants, in form and quality, as their new concepts, that of inner truth rather than handed-down-from-the-top truth flooded over them and they became a new kind of men.
+
+The Protestants refused to be told what to do or think. The new modern type (v. Vancouver speech) cannot be lied to.
+
+. . One's mind is supposed to produce (create) new ideas, not ideas (values, information, concepts, words, cultural artifacts) known to others in the distant past. This enormously expands the automy of the individual; he can spontaneously generate that which was supposed to be entirely in the hands of the limited socio-economic, historic process in which he was born, dependent on his culture for all this, on them to educate him. In a sense, now, he can fashion his own value system, or anyhow obtain it, select it, acquire it in a direct relationship to it, THE SAME WAY THE PROTESTANT REFORMER HAD A DIRECT RELATIONSHIP TO MORAL TRUTH. He now has that to perceptual truths, facts. He has risen above the control of historic determinism; this is a giant new step in the process of human individuation and freedom.
+```
+**Co-occurrences**: Spirit, Form, Perhaps, Like, World, Since, Time, Harpax, Mind, Could, Anyhow, Just, Something, Being, Catholic, Himself, Great, Those, Still, Part, Their, Church, Another, Through, Were, Have, Life, Information, Whether, Evil, Truth, Reformers, Human, Right
+
+---
+### Line 1808-1816 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+I believe something really evil was loose in the world, and we stood up to it here and there and defeated it. I have no idea who or what it was, no clear conception of it or what it wanted. Or why me. Perhaps what I did was shake off a lifetime of contamination and conditioning and preprogramming to this world. That in effect I confuted or renounced it and my allegiance to the forces in it and hence to it. What isn't clear is whether I shook of[f] something primarily in the past which had held me, or else something building ahead, to come. It is, as the Protestant reformers knew, primarily a fight against the great tyrannical system or systems of the past, for the purpose of freeing men's minds, for the future of life. What Art Spiegelman said about SFS shows how right I was, and how right I am still to abominate distrust and fear those people. It occurs to me to connect my experience with that of the Protestant Reformers which broke the monopoly on truth which the Catholic Church had. Their stance vis-a-vis the Church was almost identical to mine vis-a-vis the Marxists. Perhaps the reappearance of this spirit, working for the freedom to know and to think, signals the beginning of another major historical age like that of the Reformation; perhaps it come forth when there is a historical necessity. So we may be seeing the beginning of the breaking down of the bullshit establishments here and in the USSR -- like I said in my Vancouver speech and especially as I saw or discerned in 3 74, the arising of a new ability to tell when you are being snowed; and since big governments etc reign by bullshit, perhaps this is a grand new era for mankind, of which I was/am a part. Endowed with the sudden, new capacity to see through lies -- so equipped by the Spirit himself. And at the same time placing an extraordinary value on truth in oneself; never to lie and never to let anyone lie to you; a new value system with this first. If the Protestant could be said to be a new historical type emerging from an older authoritarian one, then perhaps a[n] equally important new one is emerging now -- not just inner directed (Protestants were that) but -- what I was in 3 and 4 74; there is no name, yet. Not inner-, not outer-, but truly new. My subjective experiences and feelings, in abruptly lifting up to this new type, must be parallel to those of the first Protestants, in form and quality, as their new concepts, that of inner truth rather than handed-down-from-the-top truth flooded over them and they became a new kind of men.
+
+The Protestants refused to be told what to do or think. The new modern type (v. Vancouver speech) cannot be lied to.
+
+. . One's mind is supposed to produce (create) new ideas, not ideas (values, information, concepts, words, cultural artifacts) known to others in the distant past. This enormously expands the automy of the individual; he can spontaneously generate that which was supposed to be entirely in the hands of the limited socio-economic, historic process in which he was born, dependent on his culture for all this, on them to educate him. In a sense, now, he can fashion his own value system, or anyhow obtain it, select it, acquire it in a direct relationship to it, THE SAME WAY THE PROTESTANT REFORMER HAD A DIRECT RELATIONSHIP TO MORAL TRUTH. He now has that to perceptual truths, facts. He has risen above the control of historic determinism; this is a giant new step in the process of human individuation and freedom.
+
+Last edit over 5 years ago by Harpax
+129
+Needs Review
+```
+**Co-occurrences**: Spirit, Form, Perhaps, Like, World, Since, Time, Harpax, Mind, Could, Anyhow, Just, Something, Being, Catholic, Himself, Great, Those, Still, Part, Their, Church, Another, Through, Were, Have, Life, Information, Whether, Evil, Truth, Reformers, Human, Right
+
+---
+### Line 1822-1830 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+It is just as obvious that conscience is a social deposit as that Attic Greek is a social deposit. It is a mystery. Perhaps it come directly from God (which the Reformers said of conscience). Now one such as I can say that of all values; not just right-and-wrong, but also, truth-versus-false, important-versus-mickeymouse. And, too, like conscience which is a quiet inner voice saying, "Such and such is wrong," this quiet inner voice speaks in Attic Greek and also gives vital information (e.g. about St. Sophia, etc.). (It's a whole audio-video school or tutorial system -- yes, tutorial; tutor to pupil, as with Aristotle and Philip).
+
+. . . It seems to be inside things (inc. men): as the sap to the branch.
+
+The long above discussion regarding historical forces shows the connection between the Holy Spirit and conscience, the latter being a small form of the former in my opinion. Since Rollo May shows that Socrates' daimon is conscience when thought of as more than mere social deposit, then that must be the same, too. Regarding conscience, we are talking about a holy force, divine in origin and absolutely binding, which does not arise from social conditioning but springs spontaneously; it is God teaching us and informing us. If conscience can be regarded as a historical, social force (esp. connected with the Reformers and toleration and freedom) then my 3 74 experience consisted of conscience changing over to the Holy Spirit, and the Holy Spirit advancing out into the realm of social action, in which the right of conscience was rightfully supposed to be; for the Holy Spirit to do that is to throw into the balance of social action against despotic society (identified with "the prince of this world") an ultimate force; conscience is shown then as a forerunner of a force more powerful because as well as moral knowledge it also carries knowledge of what is true (and what is mere lie). Conscience alone might dictate that I act (refuse to kill Vie[t]namese) but in no way does/did it provide me with any assistance of any sort. Not so with its more complete form, the Holy Spirit. The relationship between them reminds me of that between the First Advent (the lamb who is sacrificed) and the Second: the Powerful Judge who overthrows what is evil.
+
+Last edit over 5 years ago by Harpax
+130
+Needs Review
+```
+**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Form, Sophia, Greek, Well, Perhaps, Advent, Like, World, Since, Because, Harpax, Does, Just, Realm, Being, Divine, Philip, Aristotle, More, Such, Voice, True, Judge, Attic, Things, Information, Evil, Socrates, Knowledge, Truth, Reformers, Lamb, Right
+
+---
+### Line 1933-1941 (Match: 'Freedom')
+**Folder**: book I
+
+```text
+if He were me; or, put another way, He replaced me; put another way, it wasn't -- what I am saying here is that when I consider the doctrine of vicarious suffering -- well, not that; actually, the doctrine of Christ dying for us, offering Himself as ransome for us: Christ dies in our place to save us. If the Xerox experience in 3 74 was a receiving of the mortal blow by me, then He replaced me (if it was indeed Christ) and this is not an atonement, not actually, but rather Him placing Himself in the spot instead; there is no implied guilt, only implied moral and perhaps even physical death, here, although I must admit that there may be aspect of sin and guilt which I can't discern. Well, this is as diffuse as anything I have ever thought...but I know what I think, here, for the first time; that is, I have always thought it to have been one of the Persons of God who took possession of me and dealt with the situation and thus extricated me, but I never consciously thought until now that Christ is said to so place Himself in our stead in lethal situations that threaten us. Ah; the word is sacrifice. "No greater love hath a man than that he give up his life for his friend," Christ said, speaking of the ultimate in agape. In role taking, so to speak (to cheapen it somewhat). This would be consistent with the most authoritative view of Christ's role as a sacrifice to redeem man, dying in his stead. For instance, I had the strong feeling that when Ralf died, it wasn't Ralf, but that the Savior had replaced Ralf and it was the Savior (the lamb) we saw die, there. Christ took the mortal blow delivered at Ralf; I believe I conjectured about Pinky as well; was it not the Savior we saw perish in Pinky's behalf? Then what about that which possessed me, but rather than dying for me, extricated me since such was possible?
+
+In that case, the gnosis or sophia aspect would predominate; I can see all three: love predominating in Him doing it; wisdom then predominating (the logos or Christ) in determining what to do; and then power finally, in acting (God Himself).
+
+. . . About the only useful test of a vision ever established is, How does it conform (essentially to other visions by other people)? Now having read the "Apostasy" Mission book I now know to the exact extent possible how well my Rome vision conforms to the eschatological view of non-establishment Christianity; it is exact in every detail, and so fits a lesser but real view of other people. (It is not the majority view.) I guess there are few questions left for me to ask. This is the view of the "Kingdom on Earth," not heaven, people, who look forward to the Parousia, as I've been doing. Since I am even more certain now as to the authenticity and authentic source of my vision (which also includes the vision of spring following Rome) then I conclude that the "Parousia people," not the establishment people, are correct, and that as the Mission says, the veil is being removed from the Book now, so that we can readily grasp, via the power of the Spirit, the "fantasy" of Daniel and of Revelation. We have suffered 1500 years of tyranny; but if God is with us, who can stand against us? Die Himmel erzahlen...the glory of God. Like the year of the signing of the Magna Carta, 1974 was a date in the history of man's return to truth, justice and freedom. I did not understand that the throwing down of the remains of Rome is our prime task, inseparable from being an authentic (fish) Christian; this is our task, here, aided by the Spirit, as I saw. It is not a side-
+
+Last edit over 5 years ago by Harpax
+142
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Logos, Xerox, Rome, Christianity, Sophia, Kingdom, Fish, Well, Parousia, Wisdom, Perhaps, Like, Since, Gnosis, Only, Time, Earth, Harpax, Savior, Book, Even, Does, Pinky, Look, Being, Although, Himself, Daniel, More, Another, Most, Heaven, Real, Such, Actually, Love, Revelation, Consider, Death, Finally, Would, Other, Mission, Were, Have, Life, Justice, Spring, Instead, Having, God Himself, Truth, Greater, Lamb, Until
+
+---
+### Line 2046-2054 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+150
+Needs Review
+150
+To learn that Passover celebrates the Exodus --i.e. the Hebrews' release from slavery-- is all I need to know to cinch my experience up. Escape (redemption) from slavery at the vernal equinox: the wind from the desert rustling the trash in the alley, and causing the chimes (bells) to ring: God speaking to me & freeing me. (Repeated later in history as Christ lag in Todesbanden, and then was released; the Paschal lamb.) I had a distinct impression of it being a Jewish or more precisely Hebrew experience with Deity from the start (witness my attempts to tie it, perhaps correctly, to Elijah's epiphany) Certainly I did not know Passover signified (celebrated, as in the corn festival) this: death to life, slavery to freedom; that redemption meant deliverand from earthly slavery first of all (historically). Then later, I guess, the chains & thrall signified death itself. I almost collapsed in watched the "Moses" episode 3 on TV when the angel of death came, and it spared the Hebrews' firstborn and accepted (slew, seized on) the lamb (the blood smeared on each Hebrew door for protection); in my case the angel of death came --the room lit up the same way and in my inner world I saw and heard dogs lift their heads and whimper-- and seized Pinky, our "pink sheep," instead. The blow fell on him as surrogate, which, the "Moses" TV flick showed, was exactly what the lamb was: a surrogate offering in place of the human being (child). But a lamb qua lamb hardly can be said to sacrifice himself voluntarily placing Himself on the cross as a sacrifice to save man, because of his love for man. Thus we have a lamb-god, sentient, knowing what it is doing, which is more accpetable morally to us, that the sacrificed victim does it voluntarily, with knowledge and purpose; that he should actually be our God! We have evolved a long way to reach this point, that God Himself is the innocent being sacrificed; he offers himself for us.
+
+There is no sin without and act creating a victim, the ultimate being murder. If a creature (man or animal) is murdered, then two bad things occur: the victim suffers and dies unjustly; the murderer is destroyed spiritually (in terms of his ontology, his soul). Thus two bad events are perpetuated daily, infinitely. God solves this by this mechanism: He replaces the victim, so that it is He, our God, voluntarily offering himself as the sacrifice; thus the victim is helped by having been infused with an influx of God's spirit, and so rewarded for being a victim, a receiver of sin, by this coming of God to him (as in my case in 3 74); this then saves the murderer from the stain of his crime/sin, since he slew only (sic) God who was there voluntarily to receive the blow for the sake of them both; thus the horrid equation is abolished as it occurs. This is how I see it; it's for the sake of both victim and cruel sinner. It is the only real solution, so long as these bad events take place (and they do). Otherwise, all, everyone, would be lost, victor and victim; nothing would be saved, and it would be overwhelmingly unjust. When on understands this, one knows that whenever he chops off the neck of anyone, it is God whom he kills, and is this not the ultimate deterrent? Thus as I saw in 3 74, our God often takes the form of animals, and we learn from the faces of these animals; that it is our God whom we kill when we kill (them)!!
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Form, These, Perhaps, Elijah, World, Since, Because, Only, Harpax, Does, Pinky, Hebrew, Both, Being, Moses, Himself, Jewish, Without, Nothing, Their, More, Soul, Real, Actually, Certainly, Love, Death, Deity, Would, Angel, Have, Things, Life, Instead, Later, Passover, Having, God Himself, Knowledge, Cross, Blood, Otherwise, Human, Lamb
+
+---
+### Line 2079-2087 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+Needs Review
+153
+- 6 -
+
+those who died at the first pass over, which is the firstborn of the Egyptians. Amazing. What does it mean? He was the sacrifice, and a voluntary one. Now has there been a third passover situation, with Pinky et al as the sacrifice? Has a new colloquy, a third, begun between God and man, hence we can expect a third covenant now? Something to do with the ecosphere and animals? I personally know who sacrificed himself this time and it was my poor cat. My cat, though, already transfigured into a spiritual being (I stick to this). But also, the bells (sic) which I heard are more like Easter bells; perhaps it was a total experience of the first pass over end then, so to speak, the second, Christianity's. I say this: the dying (lunar god); he is the one who died on the cross, but he is not who died at the first pass over. I say this: My experience was very Jewish. Hmmm...and this ratifies it, this I've learned about Moses. However, consider: at the first pass over God delivered man from slavery to freedom; at the second event, the crucifixion, nothing happened of a social sort like this; frankly, from a social action standpoint it was a total failure. And in 1974, we had a destruction of the slave state and emancipation, like the [excised] Israelites obtained via Moses from Jahweh -- from the father, who can accomplish this (to son cannot; he can't even extricat himself). Ah! The the King is here, not the son ([excised] represented in THE BACCHAE as the stranger, which is to say, the high priest of the [excised] god or the messenger who preceeds him). It is the King, it is Yahweh; or else it is the King, it is Christ elevated to the power position he failed to use or have in Biblical times. God's power has breached the state. But this is a definition of the Parousia! Which may by why I mistook the pale light as an indication of the arrival of the Dies Irae! Wrath! Whichever it is, it is majesty and power; and according to Catholic doctrine, where power predominates, it is God, not Christ not the Holy Spirit. This was God. Jesus just mingles and they get him. But he was supposed to return with power. Returning (the Second Advent) he would be older, and changed and resemble the Father. It is interesting that both Yahweh and Christ, for totally different reasons, are "vernal equinox" deities: the former because of the [excised] Exodus deliverance, the latter because of the cycle of the lunar-grain god. So, via Passover/Easter, they are related. (Nisan 14 and on.) Via Passover/ Easter, then, there is made a relationship between the lunar-grain god who is killed (which includes Zagreus & Dionysos etc) and Yahweh, who adds to this impression by being a nature god. But He (Yahweh) is not a nature god who dies & is reborn; he is totally constant. "I am what I am." Perhaps when, for instance, we see Zagreus we fail to see that standing (so to speak) behind him his [is?] a greater figure: his father. The lunar-grain god is a "son"; there is also one such as Yahweh. If Dionysos et al are grain gods, there is also the one who created the grain & sustains it in the first place: the father of it and its god. We see the grain, and its cycle, but we do not see the immanent creatorgod who created it and maintains it; he is invisible. We do not suspect his existence because we take the universe per se for granted; he is so great that truly he is everywhere. This is the ultimate God.
+
+Oh yes; on that Sunday night of the pale white light -- I knew that it (the angel of death) was, specifically and exactly overhead. To it, we were on a plain below, a landscape. It was passing over us.
+
+Last edit over 5 years ago by wtutwiler70
+```
+**Co-occurrences**: Christ, Spirit, Holy, Jesus, Christianity, Holy Spirit, King, Parousia, However, Dionysos, Perhaps, Advent, Father, Like, Because, Time, Light, Even, Does, Pinky, Just, Something, Both, Zagreus, Being, Catholic, Moses, Covenant, Himself, Great, Bacchae, Gods, Jewish, Nothing, Those, More, Such, Consider, Yahweh, Easter, Irae, Messenger, Death, Universe, Would, Angel, Were, Biblical, Very, Have, Passover, Cross, Greater, White
+
+---
+### Line 2089-2097 (Match: 'Freedom')
+**Folder**: Unknown
+
+```text
+Needs Review
+154
+- 7 -
+
+Let us turn now to the dream in TEARS. The wise old king, who obviously is God, leads a posse for the purpose of having the man sealed up inside the shed killed. Was this a vision of the impending death to be delt out by God to the wicked one(s)? I.E.: the man in the shed who shrieked would equal the firstborn of the Egyptians. This would tie in the dream in TEARS with my 3 74 Passover experience, now that I understand passover as when God once dealt out death as a final attack to create freedom. It is God the stern judge; it is Dies Irae. Or is it? The shriek of the man sealed up in darkness, the whine of the dog -- it may be related, two aspects of one prophetic vision. Ah! "The four horsemen of the apocolypse! Mounted warriors serving God, dealing out plague & death!
+
+"Pass over," then, implies that one is part of an elect group, those which God has selected (and hence not afflicted or destroyed). I sense that it could never become a universal celebration, inasmuch as they were passed over by something out to get those not passed over; I mean, something did pass over, going elsewhere. God will get someone, a majority in fact. This is where the realization of being the chosen people comes from. One is changed by this realization. God has delt out death to others, but life to us. Our freedom is more important to him, justice for us is more important to him, than their lives. It must by intrinsic definition be a minority experience and realization. It must. Were a Christian to have it, he would regard himself as among the company of the elect in the sense of the saved, the vital remnant spared by God at the time of the apocalypse. First he would be relieved and joyous, but gradually the fuller implications -- what it pointed to for his future -- would come to his mind and flower. It would tell him indubitably what his destiny would be. It would not be a temporary sparing, a reprieve. After all, I am not a Jew. The only Christian experience I can relate this to is being chosen as part of the saintly or saved elect, and the destroying angel directly to divine judgment on the Dies Irae. I have been delivered as the Israelites were by the God who delivered them, and from much the same thing, and He handled the slave tyranny here in much the same way. I think Pinky died because for me to see the angel of death etc. it was necessary for the angel of death to actually be there, which he was (Pinky did die very soon, in 4 days). I was not told about the destroying angel; I was aware of him. I was not told I was passed over; I was passed over.
+
+In essence it seems to me that everything which happened, plus everything I figured out about what happened in the following months, indicate, more than they indicate anything else, that I was placed under God's protection. This is the core of it. Expressed in purely Christian terms, I was granted an extreme amount of grace during a crisis. Put in a Jewish way, my enemies were destroyed when they had about netted me. I therefore construe myself to ba a servant of God, having received from Him what He extends to His servants; I believe without knowing it I must have served Him faithfully in some way. God kept his part of the covenant which I did not even know existed. What relationship my experience bears to the Parousia can be seen when it is realized that the main event in the Parousia (literally the arrival of the King) is the breaching of time by God, His entering, which is exactly what happened to me down at my
+```
+**Co-occurrences**: Tears, Christian, King, Parousia, Because, Therefore, Only, Time, After, Mind, Even, Could, Pinky, Something, Once, Being, Obviously, Everything, Divine, Covenant, Himself, Jewish, Without, Grace, Darkness, Those, Part, Their, More, Actually, Irae, Death, Will, Would, Angel, Judge, Were, Very, Under, Have, Judgment, Life, Justice, Wise, Days, Passover, Having, During, Dream, Final, Someone
+
+---
+### Line 2091-2099 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+- 7 -
+
+Let us turn now to the dream in TEARS. The wise old king, who obviously is God, leads a posse for the purpose of having the man sealed up inside the shed killed. Was this a vision of the impending death to be delt out by God to the wicked one(s)? I.E.: the man in the shed who shrieked would equal the firstborn of the Egyptians. This would tie in the dream in TEARS with my 3 74 Passover experience, now that I understand passover as when God once dealt out death as a final attack to create freedom. It is God the stern judge; it is Dies Irae. Or is it? The shriek of the man sealed up in darkness, the whine of the dog -- it may be related, two aspects of one prophetic vision. Ah! "The four horsemen of the apocolypse! Mounted warriors serving God, dealing out plague & death!
+
+"Pass over," then, implies that one is part of an elect group, those which God has selected (and hence not afflicted or destroyed). I sense that it could never become a universal celebration, inasmuch as they were passed over by something out to get those not passed over; I mean, something did pass over, going elsewhere. God will get someone, a majority in fact. This is where the realization of being the chosen people comes from. One is changed by this realization. God has delt out death to others, but life to us. Our freedom is more important to him, justice for us is more important to him, than their lives. It must by intrinsic definition be a minority experience and realization. It must. Were a Christian to have it, he would regard himself as among the company of the elect in the sense of the saved, the vital remnant spared by God at the time of the apocalypse. First he would be relieved and joyous, but gradually the fuller implications -- what it pointed to for his future -- would come to his mind and flower. It would tell him indubitably what his destiny would be. It would not be a temporary sparing, a reprieve. After all, I am not a Jew. The only Christian experience I can relate this to is being chosen as part of the saintly or saved elect, and the destroying angel directly to divine judgment on the Dies Irae. I have been delivered as the Israelites were by the God who delivered them, and from much the same thing, and He handled the slave tyranny here in much the same way. I think Pinky died because for me to see the angel of death etc. it was necessary for the angel of death to actually be there, which he was (Pinky did die very soon, in 4 days). I was not told about the destroying angel; I was aware of him. I was not told I was passed over; I was passed over.
+
+In essence it seems to me that everything which happened, plus everything I figured out about what happened in the following months, indicate, more than they indicate anything else, that I was placed under God's protection. This is the core of it. Expressed in purely Christian terms, I was granted an extreme amount of grace during a crisis. Put in a Jewish way, my enemies were destroyed when they had about netted me. I therefore construe myself to ba a servant of God, having received from Him what He extends to His servants; I believe without knowing it I must have served Him faithfully in some way. God kept his part of the covenant which I did not even know existed. What relationship my experience bears to the Parousia can be seen when it is realized that the main event in the Parousia (literally the arrival of the King) is the breaching of time by God, His entering, which is exactly what happened to me down at my
+
+Last edit over 5 years ago by wtutwiler70
+```
+**Co-occurrences**: Tears, Christian, King, Parousia, Because, Therefore, Only, Time, After, Mind, Even, Could, Pinky, Something, Once, Being, Obviously, Everything, Divine, Covenant, Himself, Jewish, Without, Grace, Darkness, Those, Part, Their, More, Actually, Irae, Death, Will, Would, Angel, Judge, Were, Very, Under, Have, Judgment, Life, Justice, Wise, Days, Passover, Having, During, Dream, Final, Someone
+
+---
+### Line 2482-2490 (Match: 'Freedom')
+**Folder**: vol 12
+
+```text
+Last edit over 5 years ago by Harpax
+
+186
+can be relied on, even though they won't let him sit with them (Dionysos et al his other names). The outsider god. If I understand my dream about Ananke correctly, then my Ananke is to decline into depression; so the help the God would give me would be vitality and cheerfulness and vigor, and the capacity to act. (I.e. Freude.) His gift to me: mirth. But in 3 74 I had to and did break actual existential chains. It is obvious at a glance that in this game Sarapis represents teleological purposes versus reason or cause. It also would constitute a planning, living, sentient entity versus a mechanistic system which was totally blind, in which case it would represent wisdom versus force or energy or power. I seems to me that the bipolarities here are more meaningful than any I've come across (e.g. Taoism, Zoroastrianism, etc) ever before, and typically Greek: enslavement to Ananke versus freedom. Also, it is less subjective than good versus evil; it is more real; it can be defined objectively. Something is presupposed which other systems (e.g. Christian) don't presuppose but which is very real: the limitations and enslavement of our mechanistically determined heritage to the past. From this system the Christian concept of God's grace can be viewed in a way which makes it much more meaningful. The Antagonist can be much better viewed. This is surely one of the great moments in this exegesis of mine. It has certainly been a disservice to us to have lost sight of this bipolarity, here. The concept "God's grace" is meaningless to us because the concept "Ananke" has been lost. How can we appreciate God's efforts --and Plan-- to extricate us if we have no concept of what we are being extricated from? It seems odd that this bipolarity has been so forgotten; does society perhaps have a vested interest in obscuring it? Because viewed this way, God is on the side of human freedom and evil is on the side of enslavement -- which has been my own dualism for some time now. Seen thus, God could be viewed as acting in history progressively (in stages or steps) to unfetter us. This fits in exactly with what I saw the fish-Christians doing in 3 74 at the time I could see. The tyranny could be regarded as a blind machine from the past, a form of inherited determinism, without life. So this bipolarity fits several of my percept visions. It links them. Life, growth, freedom versus death, mechanical repetition, enslavement. Also, this somewhat fits my "Human versus the android," the dark-haired girl versus the mantis.
+
+. . . It's obvious that Elijah was a "mystery god," sending 2 fifths of his spirit back to Elisha, and not dying but being "taken up to heaven." Another metamorphosis of the "Dionysos" paradigm. Also it is quite evident that the Paracletos, the Holy Spirit descending on the apostles at Pentercost -- that is like Dionysos' spirit infusing the Bacchoi, his followers (only where the Bacchos gone?). The Holy Spirit is the spirit of the god returning. . .but the god himself (Bacchos) is not reborn (yet) at another place, under another name and somewhat changed (evolved, as from Dionysos to Orpheus to Jesus).
+
+. . . Orphism must have been a revealed religion; the Orphic hymns were thought divinely inspired (like, later, the Bible). This concept for us is completely incomprehensible; we're sure a man or men wrote them. But if the Bible is revealed or semi-revealed, why not the Orphic hymns? I get the impression that from Thoth on (who was all revealed wisdom, sic) the mystery religions hinged around revealed writing, inc. Christianity.
+```
+**Co-occurrences**: Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Fish, Greek, Bible, Wisdom, Dionysos, Perhaps, Elijah, Like, Because, Only, Time, Harpax, Good, Even, Could, Does, Something, Taoism, Being, Girl, Orphic, Himself, Great, Viewed, Without, Grace, More, Another, Orphism, Living, Heaven, Real, Certainly, Before, Zoroastrianism, Death, Would, Other, Were, Very, Back, Surely, Under, Have, Life, Dark, Later, Evil, God Himself, Elisha, Human, Dream, Ananke
+
+---
+### Line 2925-2933 (Match: 'Freedom')
+**Folder**: part our
+
+```text
+Last edit almost 5 years ago by svayambhu108
+222
+Needs Review
+222
+Watching the TV program about Dietrich Bonhoffer, I realized that heaven does not usually step in to physically save someone who is about to be a martyr. But in March 1974 heaven had begun (hr had before that) its war against the tyranny, and the other side of the coin was its assistance to the impending martyrdom of someone who had renounced his comfort, his freedom, his career, his future, fled to a foreign country and then returned... the help given me was offered because the Presence of the Lord had "broken through," as shown in TEARS, with His host. Had my capture not coincided with heaven's Augenblick of intervention into history then there would have been no rescue this side of the grave. The two events —the bringing down of the conspiracy, as I was shown— and the help given me were of one piece. God attacked the powerful and wicked, and He assisted the weak, the victims who had made moral stands. I was lucky. My capture had not come too soon. This is why the Nov 71 attack was not "defended," in the sense that there was a defending by the Helper in March 74.
+
+As I was caught up in the (moral) war, so I was caught up in the victory, rescued by the celestial victors; but this all puts a new light on the scene in TEARS in reference —not only to the attack on the tyranny— but to the help for me. After all, would not the act of intervention to defeat the tyranny include logically the release (as in "Fidelio") the release of its unjustly injured prisoners and victims? CAN THE TWO ASPECTS BE SEPARATED? This puts my experience in perspective, as a portion of one vast fabric that took place at that time.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Tears, Lord, Because, Only, Time, After, Light, Does, March, Through, Heaven, Before, Would, Other, Were, Have, Someone
+
+---
+### Line 2933-2941 (Match: 'Freedom')
+**Folder**: part our
+
+```text
+Last edit almost 5 years ago by svayambhu108
+223
+Needs Review
+223
+Watching the TV program about Dietrich Bonhoffer, I realized that heaven does not usually step in to physically save someone who is about to be a martyr. But in March 1974 heaven had begun (hr had before that) its war against the tyranny, and the other side of the coin was its assistance to the impending martyrdom of someone who had renounced his comfort, his freedom, his career, his future, fled to a foreign country and then returned... the help given me was offered because the Presence of the Lord had "broken through," as shown in TEARS, with His host. Had my capture not coincided with heaven's Augenblick of intervention into history then there would have been no rescue this side of the grave. The two events —the bringing down of the conspiracy, as I was shown— and the help given me were of one piece. God attacked the powerful and wicked, and He assisted the weak, the victims who had made moral stands. I was lucky. My capture had not come too soon. This is why the Nov 71 attack was not "defended," in the sense that there was a defending by the Helper in March 74.
+
+As I was caught up in the (moral) war, so I was caught up in the victory, rescued by the celestial victors; but this all puts a new light on the scene in TEARS in reference —not only to the attack on the tyranny— but to the help for me. After all, would not the act of intervention to defeat the tyranny include logically the release (as in "Fidelio") the release of its unjustly injured prisoners and victims? CAN THE TWO ASPECTS BE SEPARATED? This puts my experience in perspective, as a portion of one vast fabric that took place at that time.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Tears, Lord, Because, Only, Time, After, Light, Does, March, Through, Heaven, Before, Would, Other, Were, Have, Someone
+
+---
+### Line 2945-2953 (Match: 'Freedom')
+**Folder**: Book of
+
+```text
+-1-
+
+There is an implication in "St. Sophia will be reborn; she was not acceptable before” that I haven’t noticed. All other reali zations aside, this single sentence links Wisdom of The Book of Wisdom and Prov. 8 with Christ, as Christian thought has done, although it isn’t explicit —stated— as such in the Scriptures. This shows that this identification is correct. Thus this one single sentence contains even more information that I had thought, and I already got a great deal from it. And it is a further piece of information which I myself could not have known. It is truly an adventitious statement. Well, I done placed it in DEUS IRAE whithout fully comprehending it, which is okay; let someone else do so...of course, put in print like that there is no implication that I didn't consciously know what I was saying, tiahat I hadn’t researched it. I will just look awfully versed in theology, esp. Hellenistic theology.
+
+Aristotle's distinction between the sublunar world and the supralunar world, leading into NeoPlatonism (in the latter it is believed that the supralunar world —the band of fixed stars— can reach down into this world, which would be the same as grace). Determinism rules here; freedom there. This agrees with the mystery religions view of God freeing man (through His intervention, which is to say, grace again; cf the worship of Sarapis et al.). (Christ would be one of these.) Hence I saw in several dreams a viewpoint from above looking down into a stagnant ocean, with us as creatures of that ocean...the sublunar world seen from the supralunar world (above). This agrees with Jesus' "...On earth as it is in heaven," heaven being supralunar, earth being sublunar. This sheds much light on the Christian idea that when you die, if you performed well here, you get to ascend to Heaven: i.e. you rise (or more accurately, you may rise) from the sublunar realm to the supralunar realm. However, you may fall even lower: to hell. All at once the whole Christian worldview no longer seems vague, hopefulmerely or orbitrary; in context it makes sense, and must have made that sense to the whole Hellenistic world. Heaven is the heavens, the realm of fixed stars, or even above ("Ubrem Sternanzelt"),. If, during one's lifetime in this the sublunar realm, one finds favor with God, then upon one's death one ascends. Merit is acquired here; it is decided here if one ascends or descends. A demonstration that one has found God's favor would be an intercession by God here, during one's lifetime, the supralunar entering the sublunar in the form of grace. It all fits together. This is why in 3-74 I sat outside at night watching the sky, the stars. Could it also be said that the mere phenomenological world which I feel is "fake" is the sublunar world? And the real world is the supralunar? But I have never really drawn the bottom line on this: if it was indeed St. Sophia who spoke to me and for me, then it was the Logos, Christ, since she is that same Savior, God's First Begotten, the Light of the World, Wisdom Itself. What my experience has shown is that John is correct in applying the concept of the identity between Wisdom of the O.T. and Christ of the N.T.
+
+Last edit almost 5 years ago by svayambhu108
+225
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Logos, Jesus, Form, Sophia, Well, However, Wisdom, These, Plotinus, Like, World, Since, Fall, John, Earth, Savior, Book, Light, Even, Okay, Could, Just, Look, Once, Realm, Again, Being, Although, Aristotle, Great, Deus, Grace, More, Through, Heaven, Real, Such, Upon, Before, Irae, Death, Will, Would, Other, Further, Have, Fake, Information, Deus Irae, During, Lower, Someone
+
+---
+### Line 2986-2994 (Match: 'Freedom')
+**Folder**: part of
+
+```text
+It is not part of me (within me); I am part of it. (Corpus Christi.) The shepheard with arms extended to farm dimensions of His flock. It takes some time for Him to reach the far off sheep and enter (theophany, theolepsy) them, when they are in distress: His fingers reaching out. The flock as parts of Him, parts of the Good Shepherd.
+
+In 3-74 I saw a rollback (regression) in time like in UBIK, although vaster: back to the first century, rather than just to the
+
+1930s. Prior forms, contained within the forms of the present, then emerge -- both in UBIK and for me in 3-74 (e.g. the Greek words et al). Thus to my statement in UBIK re Plato, about the man containing not the child but the former man (the great exegesis on UBIK about Plato's forms; the new modification). Such an experience as mine provides the possibility of empirically proving that Plato's form idea is correct, which is what Duvic and Fitting and Richard realized. But before I could see these external transformations I had that crucial continuous shift in viewpoint, as if (as I thought at the time) I was bailing back into the real (sic!!!) universe by stages; I think now truly into the real in Plato's sense!!! This "vertical" motion certainly sounds like what Plotinus described, as rising from this, universe into the next (i.e. into Plato's world of forms, etc). What is unexpected and baffling is that lifted (or ascending) to the celestial realm I find it dominated by a feminine entity, which if she is not St. Sophia I do not know who she is, and cannot understand what this signifies. As to the q. if whether it was me ascending or God descending, all my dreams (esp. the dream in TEARS, and the "so many breaches" dream) suggest that it is God descending...with the proof of this (motion downward) being the intervention in history in 3-74, by God; He came here, with the purpose of taking charge of history. The supralunar penetrates the sublunar and assimilates it to his (its) will. Through the agency of the Logos, which is St. Sophia. All this would suggest that the world I left was bounded by the condinates[sic] of space and time, and that I entered another which which was not; so the distant past was --specially-- present to me, not lost, and the future was in another way also distinctly present & real. The Bradbury TV experience also shows that: reacting to things before they occurred, and the eerie sense that the data of reality limits or programs a person (this is related to being freed, by God's grace, from a programming which prior to the experience was my total lifelong reality). The entire space-time world was seen then as a circumscribing of freedom, but this sense could not have taken place unless I had achieved a vantage point, entirely new, above that space-time continuum.
+
+Events fell into a deterministic frame of reference, and I could see how they controlled me and made me their object. All this confirms my later view that God's grace was involved.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Tears, Ubik, Logos, Form, Sophia, Plato, Greek, These, Plotinus, Like, World, Time, Good, Could, Just, Realm, Both, Reality, Being, Christi, Although, Corpus, Great, Grace, Part, Their, Another, Through, Corpus Christi, Real, Such, Certainly, Before, Universe, Will, Would, Back, Many, Have, Things, Later, Whether, Unless, Dream
+
+---

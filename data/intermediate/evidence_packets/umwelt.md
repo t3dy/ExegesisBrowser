@@ -1,0 +1,348 @@
+# Evidence Packet: Umwelt
+
+- **Category**: Top Term
+- **Total Mentions**: 30
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 19858-19866 (Match: 'Umwelt')
+**Folder**: folder 08
+
+```text
+Indexed
+folder 08 - 022
+22
+
+The Valentinean ontological assment of knowledge is not that it (the Gnosis) leads to salvation or is knowledge about salvation, but that in the act (event, revelation, experience) of knowing in itself lies salvation. Because in knowing, there is a restoration of man's lost state, + a reversal of his present state of ignorance. Upon knowing, man is again what he originally was. This view accords with 2-3-74. Upon knowing I became again what I originally was. + this involved me as a now-restored piece of the ground of being itself, from which I, as a piece of it, had fallen + forgotten + lost my nature. My 10th Gnostic belief (v. supra) is that time is a mere counterfeit, of eternity. ___ When hyperuniverses I + II interact (to form our reality) three realms are created: 1 Eigenwelt - totally I (free) 2 Mitwelt - mixture I + II (partially free) 3 Umwelt - totally II (enslaving)
+
+Or: 1 Heaven, the world of the Gods. 2 The world of men. 3 The subhuman world of blind deterministic nature. We can rise to 1 or sink to 3, but normally are in 2, the mixture. The purpose of art is to free us; i.e. lift us toward 1, the Eigenwelt by sharing it via the art with others. However, Parmenides' criticism of the reality of Form II must be taken into account, the possibility that it is congealed - i.e. dynamically dead, + so is a deranged mind (in itself) - the BIP. There is a relationship in it to the schizophrenic who, in treating the Mitwelt covanents as oppressive, tried to soar into the Eigenwelt + fell down to the Umwelt.
+
+Last edit about 8 years ago by Toso
+```
+**Co-occurrences**: Toso, Indexed, Form, Gnostic, However, World, Parmenides, Gnosis, Because, Time, Folder, Mind, Again, Reality, Being, Gods, Indexed
+Folder, Heaven, Ground, Upon, Revelation, Eigenwelt, Knowledge, Dead, Salvation, Free
+
+---
+### Line 19860-19868 (Match: 'Umwelt')
+**Folder**: folder 08
+
+```text
+22
+
+The Valentinean ontological assment of knowledge is not that it (the Gnosis) leads to salvation or is knowledge about salvation, but that in the act (event, revelation, experience) of knowing in itself lies salvation. Because in knowing, there is a restoration of man's lost state, + a reversal of his present state of ignorance. Upon knowing, man is again what he originally was. This view accords with 2-3-74. Upon knowing I became again what I originally was. + this involved me as a now-restored piece of the ground of being itself, from which I, as a piece of it, had fallen + forgotten + lost my nature. My 10th Gnostic belief (v. supra) is that time is a mere counterfeit, of eternity. ___ When hyperuniverses I + II interact (to form our reality) three realms are created: 1 Eigenwelt - totally I (free) 2 Mitwelt - mixture I + II (partially free) 3 Umwelt - totally II (enslaving)
+
+Or: 1 Heaven, the world of the Gods. 2 The world of men. 3 The subhuman world of blind deterministic nature. We can rise to 1 or sink to 3, but normally are in 2, the mixture. The purpose of art is to free us; i.e. lift us toward 1, the Eigenwelt by sharing it via the art with others. However, Parmenides' criticism of the reality of Form II must be taken into account, the possibility that it is congealed - i.e. dynamically dead, + so is a deranged mind (in itself) - the BIP. There is a relationship in it to the schizophrenic who, in treating the Mitwelt covanents as oppressive, tried to soar into the Eigenwelt + fell down to the Umwelt.
+
+Last edit about 8 years ago by Toso
+folder 08 - 023
+Complete
+```
+**Co-occurrences**: Toso, Complete, Form, Gnostic, However, World, Parmenides, Gnosis, Because, Time, Folder, Mind, Again, Reality, Being, Toso
+Folder, Gods, Heaven, Ground, Upon, Revelation, Eigenwelt, Knowledge, Dead, Salvation, Free
+
+---
+### Line 19872-19880 (Match: 'Umwelt')
+**Folder**: folder 08
+
+```text
+The Mitwelt is a mixture of Yang + Yin (as in this hex: {illustration: Hexagrams 12 and 11 of the I Ching, with the comment that the middle two lines being Yang and Yin or vice versa represents Mitwelt}
+
+I myself conceive of the bipolarities as antithetical, not complementary, as in Taoism. In any case the defense against 3 lies in 2; in fact 2 is the route to 1. The whole campaign is to get us out of Nebelheim + into Walhalla; but Nebelheim is still here, underlying all else: forges + anvils working away, + us as the workmen. This takes the prison world out of the theological + places it in the psychological (or also in the psychological), which is an advance. It's interesting that in the pursuit of freedom (the Eigenwelt) you fall back into the pure prison world, once you leave the mixture. Thus the BIP is a trap waiting for us, to which schizophrenia leads. Again, Form II is equated with irrationality + disorder + congealing (the coming to an end of the dialectic) + death (+ entropy). Both the Um- + Eigenworlds are apart from our world which is, properly, the Mitwelt.
+
+{illustration: Three text boxes apparently representing the Eigenwelt (box I), the Umwelt (box II) and the Mitwelt (box III). Boxes I and II are connected by arrows to box III, but not to each other. The boxes have the following texts; box I: "Outside of time in a good sense: eternity. End time (eschatology). Repaired Godhead."; box II: "Stuck; so outside of time in a bad sense: stasis. Brute cause: the primordial Fall or crisis."; box III: "In time, our world". The arrows have the text "The dialectic due to the interaction of I + II".}
+
+It could be said that in I nothing is lost, + in II nothing is ever gained (nothing new ever comes into being), so in a sense, compared to III in which the dialectic takes place, I + II share this feature in common: they lie outside of time process + the dialectic. I is the future (teleology); II is the past (efficient cause).
+
+Last edit about 8 years ago by Toso
+```
+**Co-occurrences**: Toso, Form, Godhead, World, Fall, Prison, Time, Good, Yang, Could, Once, Taoism, Again, Both, Being, Nothing, Still, Death, Other, Ching, Illustration, Eigenwelt, Back, Have, Apparently, Freedom, Dialectic
+
+---
+### Line 19903-19911 (Match: 'Umwelt')
+**Folder**: folder 08
+
+```text
+26
+
+{illustration: Two rising and falling arrows moving from left to right and right to left respectively: "exhalation out away from" and "inhalation in toward"}
+
+This is the dialectic I saw; each entity is moving opposite to the other in terms of direction toward the Godhead; one away, the other toward, they are absolutely antithetical; Form I must overcome Form II, but not just fight it to a standstill: stasis is not the answer but an overpowering by I of II. In terms of signal strength, Form I must grow stronger + stronger in relation to II; its victories are not merely sequential but hierarchical. To fall into the Umwelt is to fall into totally alienated world, total isolation + "privacy," separateness: ego alone with ego in its idios kosmos. So Form II represents idoi kosmoi, + Form I the koinos. The ultimate destruction Augenblick is when the koinos is perceived (experienced) as Fremd, + the idios familiar. This is the essence + epitome of the nature of mental + spiritual illness. In a healthy state, the idios is perceived (experienced) as Leer - barren, sterile + empty / + the koinos as alive + interesting. So in 3-74 the true koinos broke into -invaded- my little rigid idios kosmos, either due to the disintegration of my ego, or causing it - engulfing it, swamping it. However, I perceived (experienced) it as beautiful + wise + alive + helpful, not harmful, +, because it resembled Ubik, familiar. It was the absolute not-me, the "wholly other" + although it overpowered me I felt (correctly) that it was rescuing me, not destroying me: friendly.
+
+Last edit about 8 years ago by Toso
+
+1
+```
+**Co-occurrences**: Ubik, Toso, Form, However, Godhead, World, Fall, Because, Just, Kosmos, Although, Either, True, Other, Illustration, Absolute, Wise, Dialectic, Right, Answer
+
+---
+### Line 22903-22911 (Match: 'Umwelt')
+**Folder**: book really
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+161
+n 35 from that story ("the man who") I will some‐ day understand my experience of 2-3-74, macro union of opposites: the Eigenwelt (the spiritual) + the Umwelt (trash), as depicted in "The man who" - Fox + Rybus! This is quite different from finding spirituality in the trash stratum as such, since two realms are joined it would be equally correct to say that one had found track in the spiritual. This is not a view of the trash realm but a superimposition of two realms - an exter‐ val analog of inner individuation. The melding -amalqum - of the two realms is total; one realm is made from them as in an alchemical trans‐ mutation. Is this not the ultimate transmutation? the two most extreme strata brought into unity? This is nothing less than the repair of the ruptured cosmos. This is the way it should be i I saw the divine in the trash level but did not understand what it signified I just thought I had seen the divine in the trash level, as if it was always there but just not perceived. But more was involved. In a genuine sense I had put it there: me functioning as a lens or condenser or refraction system which unified the two "signals" in myself. The unification was so to speak in me as mirror. Thus there was ontological salvific efficacy in my Gnosis (remember‐ ). (Being changed.) This, then, is why my 2-3-74 experienced imaged my writing. It was indeed my own former thought contents returning to me in
+
+Last edit almost 3 years ago by svayambhu108
+162
+Needs Review
+```
+**Co-occurrences**: Since, Gnosis, Just, Realm, Being, Divine, Nothing, More, Most, Such, Macro, Will, Would, Eigenwelt, Remember, Track
+
+---
+### Line 32775-32783 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+9-7-80;
+
+The 3 realms —-which also agree with Dante's scheme— are the Um-, Mit- and Eigenwelt.
+
+(1) Umwelt. Hell. Immutable yin world of cause and effect. Bad. crawling. Shut in. Prison. Metal. Poisoned. Occluded.
+
+(2) Mitwelt. Human interaction. Good. Walking. Greater space.
+
+(3) Eigenwelt. Ethereal. Divine. Flying. infinite space. I never noticed this before. Gnosticism to Heidegger to Bindswanger. So in 3-74 I entered the Eigenwelt and Saw the world I had been in as the Umwelt (TEARS): hell. The Palm Tree Garden equals the Eigenwelt.
+```
+**Co-occurrences**: Tears, Gnosticism, World, Prison, Garden, Good, Heidegger, Dante, Divine, Palm, Before, Eigenwelt, Tree, Greater, Human
+
+---
+### Line 32779-32787 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+(1) Umwelt. Hell. Immutable yin world of cause and effect. Bad. crawling. Shut in. Prison. Metal. Poisoned. Occluded.
+
+(2) Mitwelt. Human interaction. Good. Walking. Greater space.
+
+(3) Eigenwelt. Ethereal. Divine. Flying. infinite space. I never noticed this before. Gnosticism to Heidegger to Bindswanger. So in 3-74 I entered the Eigenwelt and Saw the world I had been in as the Umwelt (TEARS): hell. The Palm Tree Garden equals the Eigenwelt.
+
+Last edit almost 5 years ago by svayambhu108
+107
+Needs Review
+```
+**Co-occurrences**: Tears, Gnosticism, World, Prison, Garden, Good, Heidegger, Divine, Palm, Before, Eigenwelt, Tree, Greater, Human
+
+---
+### Line 32787-32795 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+Needs Review
+107
+-8-
+
+The scene in TEARS at the gas station is passage from the Umwelt {for Buckrnan) to the Kitwelt. Thus the prison (Umwelt) breaks. Also, Umwelt equals DNA programming (what I call "the android"). Kitwelt equals reasoned cnoice. Eigenwelt equals divine aid (inspiration; enthusiasmos). In 3-74 I entered the Eigenwelt, freed from the Umwelt which I then saw (as the prison it is). Then I have my answer: one matrix world can serve as all three realms: prison (Umwelt); this world (Mitwelt); Palm Tree Garden (Eigenwelt).
+
+(1) Umwelt: alien, Geworfenheit, Angst1.
+
+(2) Mitwelt: familiar, friendly, requires effort (work).
+```
+**Co-occurrences**: Tears, World, Prison, Garden, Divine, Palm, Eigenwelt, Have, Tree, Answer
+
+---
+### Line 32789-32797 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+-8-
+
+The scene in TEARS at the gas station is passage from the Umwelt {for Buckrnan) to the Kitwelt. Thus the prison (Umwelt) breaks. Also, Umwelt equals DNA programming (what I call "the android"). Kitwelt equals reasoned cnoice. Eigenwelt equals divine aid (inspiration; enthusiasmos). In 3-74 I entered the Eigenwelt, freed from the Umwelt which I then saw (as the prison it is). Then I have my answer: one matrix world can serve as all three realms: prison (Umwelt); this world (Mitwelt); Palm Tree Garden (Eigenwelt).
+
+(1) Umwelt: alien, Geworfenheit, Angst1.
+
+(2) Mitwelt: familiar, friendly, requires effort (work).
+
+(3) Eigenwelt: beautiful, loving, play and dance and sing. 1Lowest point: tombworld: proximity to death.
+```
+**Co-occurrences**: Tears, World, Prison, Garden, Divine, Palm, Death, Eigenwelt, Have, Tree, Answer
+
+---
+### Line 32795-32803 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+(2) Mitwelt: familiar, friendly, requires effort (work).
+
+(3) Eigenwelt: beautiful, loving, play and dance and sing. 1Lowest point: tombworld: proximity to death.
+
+Somehow I rose all the way from the lowest level of the Umwelt (i.e. the tombworld) to the highest level of the Eigenwelt (bells, dancing, color, light, gnosis, etc.). How? By solving the Xerox missive riddle. Gnostic solution: found in the "Hymn of the Pearl": I remembered (anamnesis) and Came to myself — awoke (rebirth. Death and rebirth). This ascent is what Gnosticism is all about.
+
+(1) The past. Drudgery. Dead time.
+
+(2) The present. Work. Linear time.
+```
+**Co-occurrences**: Xerox, Gnostic, Gnosticism, Gnosis, Time, Light, Missive, Xerox Missive, Anamnesis, Death, Somehow, Eigenwelt, Dead
+
+---
+### Line 32801-32809 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+(1) The past. Drudgery. Dead time.
+
+(2) The present. Work. Linear time.
+
+(3) The future. Play. The dance. Some kind of timeless¬ ness — fairy time. Like what I experienced in 3-74: illo tempore? Dream Times? The secret Christians in the prison attacking it represent tne Eigenwelt (joy) attacking sorrow — tne Umwelt (i.e.
+
+Last edit almost 5 years ago by svayambhu108
+108
+Needs Review
+```
+**Co-occurrences**: Christian, Like, Prison, Time, Secret, Eigenwelt, Dead, Dream
+
+---
+### Line 32813-32821 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+TEARS). Tears are the catalyst — as Wagner realized (v. the Good Friday Spell, the tears moistening the flowers).
+
+What I'm suggesting is that Bindswanger psychologized the three realms of Gnosticism (assented to them as subjective ways of perceiving the world; no: being in the world, Dasein). Whereas I am reasigning to them their original ontology.
+
+Only hell (Umwelt) has the Gnostic qualities of Fremdheit and Gewarfenheit, wherein there is a prison and warders. The Gnostic picture is of only one of three equally real realms. Christ and the Gnosis has the power of converting it —not just into the familiar Mitwelt— but into the Eigenwelt which is isomorphism: macromind and micromind, an I-Thou relationship. Which is what I saw that I called Valis.
+
+By means of enantiodromia, suddenly and completely; starting with the tomb world (the state of Angst due to perception of one's imminent death). The DMA programming of the Umwelt is induced (disinhibited) into firing its death strip harmlessly into the void, and running out to its end, Causing programming to cease and karma to burn up; in my case the golden fish sign set this into motion.
+
+This is the miracle of Easter (see Wagner's Good Friday Spell). From the tomb world to resurrection in/as a divine non¬ physical body (Eigenwelt). What Christianity does is reperform it for the believer. He is homologized to Christ, the passion and resurrection story. Eureka!
+```
+**Co-occurrences**: Christ, Valis, Tears, Christianity, Gnostic, Fish, Gnosticism, Golden, World, Gnosis, Golden Fish, Prison, Only, Good, Karma, Does, Just, Being, Divine, Their, Dasein, Real, Easter, Death, Friday, Eigenwelt, Body, Suddenly, Whereas
+
+---
+### Line 32815-32823 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+What I'm suggesting is that Bindswanger psychologized the three realms of Gnosticism (assented to them as subjective ways of perceiving the world; no: being in the world, Dasein). Whereas I am reasigning to them their original ontology.
+
+Only hell (Umwelt) has the Gnostic qualities of Fremdheit and Gewarfenheit, wherein there is a prison and warders. The Gnostic picture is of only one of three equally real realms. Christ and the Gnosis has the power of converting it —not just into the familiar Mitwelt— but into the Eigenwelt which is isomorphism: macromind and micromind, an I-Thou relationship. Which is what I saw that I called Valis.
+
+By means of enantiodromia, suddenly and completely; starting with the tomb world (the state of Angst due to perception of one's imminent death). The DMA programming of the Umwelt is induced (disinhibited) into firing its death strip harmlessly into the void, and running out to its end, Causing programming to cease and karma to burn up; in my case the golden fish sign set this into motion.
+
+This is the miracle of Easter (see Wagner's Good Friday Spell). From the tomb world to resurrection in/as a divine non¬ physical body (Eigenwelt). What Christianity does is reperform it for the believer. He is homologized to Christ, the passion and resurrection story. Eureka!
+
+This means that my 9-2-80/9-3-80 paper is correct: I did reperform a sacred rite: the Christian Easter narrative. I was
+```
+**Co-occurrences**: Christ, Valis, Christian, Christianity, Gnostic, Fish, Gnosticism, Golden, World, Gnosis, Golden Fish, Prison, Only, Good, Karma, Does, Just, Being, Divine, Their, Dasein, Real, Easter, Death, Friday, Eigenwelt, Body, Suddenly, Whereas, Sacred
+
+---
+### Line 32827-32835 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+Needs Review
+109
+lying in my --the-- tomb "dead" (i.e, close enough to it for the Good Friday magic to work). The vernal equinox, the corn king,
+
+Horselover Fat, grieving over the dead girl Gloria, has slipped down into the tomb world (i.e. the tomb). Christ does not just restore you into the Mitwelt — which is where you were before you slipped down into the Umwelt/tomb world; no; he raises you to the Eigenwelt where you have never been before but only heard of ("born from above; born again"), where all things are new (the work of time abolished; the past is real: the kosmos of the phylogons).
+
+(1) (Um); you are reified yourself. It - it.
+
+(2) (Mit) A person among things. I - it.
+```
+**Co-occurrences**: Christ, King, World, Only, Time, Good, Does, Just, Again, Kosmos, Girl, Real, Before, Friday, Were, Eigenwelt, Have, Things, Magic, Dead, Horselover
+
+---
+### Line 32835-32843 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+(2) (Mit) A person among things. I - it.
+
+(3) (Eigen) All mind. I - Thou.
+
+TEARS is the Umwelt of this our Mitwelt; but it changes into a —the— Mitwelt due to the dream, and when Buckman embraces the black man. The death of Alys is the sacrifice, and induces the "tears of the repentant sinner" mentioned in PARSIFAL.
+
+From whose moisture new life grows. (Alys' body is seen as a decayed corpse, a skeleton, due to the "dismal alchemy of the tomb," signifying that indeed she is in the tomb world. Then her brother —her male side; they are a syzygy— is resurrected as a result of her death plus God's intervention); death as sacrifice — and his tears of repentance and love. There is a homology between tears and Christ's blood; the repentant's tears recreate His blood.
+
+You see Valis in the Eigenwelt, not the Umwelt (world of TEARS but penetrated by the secret illegal Christians so as to induce enantiodromia). Hell. Earth. Heaven. Niebelheim. Men. Gods. The flowers don’t symbolize new life; they are new life.
+```
+**Co-occurrences**: Christ, Valis, Tears, Christian, World, Earth, Black, Mind, Buckman, Gods, Heaven, Secret, Love, Death, Parsifal, Eigenwelt, Things, Life, Body, Blood, Dream
+
+---
+### Line 32839-32847 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+TEARS is the Umwelt of this our Mitwelt; but it changes into a —the— Mitwelt due to the dream, and when Buckman embraces the black man. The death of Alys is the sacrifice, and induces the "tears of the repentant sinner" mentioned in PARSIFAL.
+
+From whose moisture new life grows. (Alys' body is seen as a decayed corpse, a skeleton, due to the "dismal alchemy of the tomb," signifying that indeed she is in the tomb world. Then her brother —her male side; they are a syzygy— is resurrected as a result of her death plus God's intervention); death as sacrifice — and his tears of repentance and love. There is a homology between tears and Christ's blood; the repentant's tears recreate His blood.
+
+You see Valis in the Eigenwelt, not the Umwelt (world of TEARS but penetrated by the secret illegal Christians so as to induce enantiodromia). Hell. Earth. Heaven. Niebelheim. Men. Gods. The flowers don’t symbolize new life; they are new life.
+
+Last edit almost 5 years ago by svayambhu108
+110
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Tears, Christian, World, Earth, Black, Buckman, Gods, Heaven, Secret, Love, Death, Parsifal, Eigenwelt, Life, Body, Blood, Dream
+
+---
+### Line 32849-32857 (Match: 'Umwelt')
+**Folder**: Unknown
+
+```text
+-11-
+
+I am glad that my 9-2-80 pc-per has merit. I just didn’t at that time know what particular sacred narrative I reenacted; it was the passion, death and resurrection of Christ at Easter (passover; the spring). And for some incredible reason I never saw the three realms of my Metz speech and Dante's three realms as the three realms of Bindswanger...hence Gnostic (via Heidegger).
+
+Someone who is certainly in the tomb world lowest stratum of the DmweIt is Doris. She is trying, like Ellen Weat, to rise all the way to the Eigenwelt (’’spirituality") , but it isn’t working. Her only real relief is the Mitwelt, but she is always dragged back down to the Umwelt, in fact the tomb world* She is a recreation of Ellen West, living in the Umwelt —chained to drudgery and entropy and blind necessity— while dreaming hopelessly of the Eigenwelt. This is exactly what Ellen West did; lived in the Umwelt and dreamed of the Eigenwelt. Cause? An impairment in the Mitwelt; note Doris’ inability to form real relationships with men.
+
+All this —the three realms-— could be viewed in terms of genetic programming, with tne ascent from the Umwelt to the Eigenwelt as the genetic instructions somehow cancelling them¬ selves by firing a meta-stage that burns the programming up, leaving you a free individual. The genetic programming abolishes itself, not you (i.e. the death strip fires for it, not you). Research may someday disclose that there is a higher level of programming blocked (GABA inhibited) until the right time comes along; it still may be genetic programming but of a quantum-leap higher order, a sort of pay-off time by the DMA, the time anticipated by it.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Form, Gnostic, Like, World, Only, Time, Could, Just, Heidegger, Dante, Viewed, Still, Living, Metz, Real, Certainly, Doris, Easter, Death, Somehow, Eigenwelt, Back, Spring, Passover, West, Free, Right, Someone, Until, Sacred
+
+---
+### Line 32851-32859 (Match: 'Umwelt')
+**Folder**: Unknown
+
+```text
+I am glad that my 9-2-80 pc-per has merit. I just didn’t at that time know what particular sacred narrative I reenacted; it was the passion, death and resurrection of Christ at Easter (passover; the spring). And for some incredible reason I never saw the three realms of my Metz speech and Dante's three realms as the three realms of Bindswanger...hence Gnostic (via Heidegger).
+
+Someone who is certainly in the tomb world lowest stratum of the DmweIt is Doris. She is trying, like Ellen Weat, to rise all the way to the Eigenwelt (’’spirituality") , but it isn’t working. Her only real relief is the Mitwelt, but she is always dragged back down to the Umwelt, in fact the tomb world* She is a recreation of Ellen West, living in the Umwelt —chained to drudgery and entropy and blind necessity— while dreaming hopelessly of the Eigenwelt. This is exactly what Ellen West did; lived in the Umwelt and dreamed of the Eigenwelt. Cause? An impairment in the Mitwelt; note Doris’ inability to form real relationships with men.
+
+All this —the three realms-— could be viewed in terms of genetic programming, with tne ascent from the Umwelt to the Eigenwelt as the genetic instructions somehow cancelling them¬ selves by firing a meta-stage that burns the programming up, leaving you a free individual. The genetic programming abolishes itself, not you (i.e. the death strip fires for it, not you). Research may someday disclose that there is a higher level of programming blocked (GABA inhibited) until the right time comes along; it still may be genetic programming but of a quantum-leap higher order, a sort of pay-off time by the DMA, the time anticipated by it.
+
+Last edit almost 5 years ago by svayambhu108
+
+111
+```
+**Co-occurrences**: Christ, Form, Gnostic, Like, World, Only, Time, Could, Just, Heidegger, Dante, Viewed, Still, Living, Metz, Real, Certainly, Doris, Easter, Death, Somehow, Eigenwelt, Back, Spring, Passover, West, Free, Right, Someone, Until, Sacred
+
+---
+### Line 32898-32906 (Match: 'Umwelt')
+**Folder**: book that
+
+```text
+(1) The DNA programmed you to die.
+
+(2) The DNA occludes you so you can't experience the Eigenwelta Instead you experience the Prison, the world of TEARS.
+
+(3) The DNA keeps you a slave in the immutable cause-andeffect realm of the Umwelt.
+
+To sum up, the DNA kills, occludes and enslaves. This is the heimarmene of the Gnostics. The ritual reenactment of Easter, if it includes the disinhibiting stimulus, overrides the DNA and
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Tears, Gnostic, World, Prison, Realm, Easter, Instead
+
+---
+### Line 32933-32941 (Match: 'Umwelt')
+**Folder**: part of
+
+```text
+116
+Yet the very real possibility exists that the plasmate is an occluding agent or the occluding agent, and if it is, and this is truly terrifying, it is probably a life fora. I reason that it is bad enough if our genetic programming enslaves, occludes and kills us, but — a life form that is here camouflaged? How can I tell which it is? Well, Valis fired information to me; it taught me, the opposite of occluding me. It was in fact lifting the oc¬ clusion. But...suppose it normally occludes us but decided to make an exception in my case as a kind of reward?
+
+The research going on now points to DNA engramming as what is called "selfish." There is every reason to believe that for example the DNA fires a death strip. So we are (to use Robert Anton Wilson’s phrase) "DNA robots." In that case the plasmate is not necessary; that is not how the occlusion works; it works inside us. To repeat; I have only the material in TEARS to go on (three elements: (1) The Acts material; (2) The John Taverner material; (3) The two-word cypher) and these are obviously connected with the secret Christian underground that has penetrated the Prison that is the Umwelt, the hell-world. And it was this very same Christian underground that roused me, that disinhibited me and caused my occlusion to lift (as well as saving my life). And it has often seemed to me that what I call "the plasmate" is the living information blood of Christ, tne cosmic Christ. Therefore it would be wisdom per se, the opposite of that which occludes.
+
+Another point. Our legends speak of a primordial fall including an impairment of our faculties (vide Calvin) and Christ
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Valis, Tears, Acts, Christian, Form, Well, Wisdom, These, World, Fall, Therefore, Prison, Only, John, Cosmic, Cosmic Christ, Taverner, Suppose, Obviously, Probably, Another, Living, Real, Secret, Death, Calvin, Would, Very, Have, Life, Information, Wilson, Blood
+
+---

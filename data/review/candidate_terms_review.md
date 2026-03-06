@@ -1,0 +1,75 @@
+# Exegesis Portal Candidate Discovery
+
+## High Confidence Candidates
+- **Christ** (4831) | Top Term | Methods: naming_pattern, word_mining
+- **Valis** (3934) | Top Term | Methods: naming_pattern, word_mining
+- **Tears** (2029) | Top Term | Methods: word_mining
+- **Acts** (1801) | Top Term | Methods: naming_pattern, word_mining
+- **Ubik** (1527) | Top Term | Methods: naming_pattern, word_mining
+- **Toso** (1495) | Top Term | Methods: word_mining
+- **Thomas** (1481) | Top Term | Methods: naming_pattern, word_mining
+- **Indexed** (1140) | Top Term | Methods: word_mining
+- **Spirit** (1097) | Top Term | Methods: word_mining
+- **Holy** (1082) | Top Term | Methods: naming_pattern, word_mining
+- **Zebra** (999) | Top Term | Methods: naming_pattern, word_mining
+- **Logos** (927) | Top Term | Methods: naming_pattern, word_mining
+- **Jesus** (926) | Top Term | Methods: naming_pattern, word_mining
+- **Complete** (851) | Top Term | Methods: word_mining
+- **Xerox** (815) | Top Term | Methods: word_mining
+- **Xtian** (799) | Top Term | Methods: word_mining
+- **Rome** (780) | Top Term | Methods: word_mining
+- **Holy Spirit** (713) | Top Term | Methods: phrase_mining
+- **Sophia** (692) | Top Term | Methods: word_mining
+- **Plato** (661) | Top Term | Methods: word_mining
+- **Kingdom** (581) | Top Term | Methods: word_mining
+- **Form** (542) | Top Term | Methods: naming_pattern, word_mining
+- **King** (502) | Top Term | Methods: word_mining
+- **Xtianity** (487) | Top Term | Methods: word_mining
+- **Torah** (475) | Top Term | Methods: word_mining
+- **Brahman** (408) | Top Term | Methods: word_mining
+- **Paul** (400) | Top Term | Methods: word_mining
+- **Xtians** (400) | Top Term | Methods: word_mining
+- **Christian** (392) | Top Term | Methods: word_mining
+- **Gnostic** (376) | Top Term | Methods: word_mining
+- **Fish** (372) | Top Term | Methods: word_mining
+- **Felix** (355) | Top Term | Methods: word_mining
+- **Satan** (343) | Top Term | Methods: word_mining
+- **Well** (342) | Top Term | Methods: word_mining
+- **Empire** (335) | Top Term | Methods: word_mining
+- **Ditheon** (335) | Top Term | Methods: naming_pattern, word_mining
+- **Bible** (326) | Top Term | Methods: word_mining
+- **Gnosticism** (319) | Top Term | Methods: word_mining
+- **Parousia** (317) | Top Term | Methods: word_mining
+- **Greek** (316) | Top Term | Methods: word_mining
+- **Golden** (303) | Top Term | Methods: word_mining
+- **However** (293) | Top Term | Methods: word_mining
+- **Spinoza** (293) | Top Term | Methods: word_mining
+- **Maze** (279) | Top Term | Methods: word_mining
+- **Wisdom** (274) | Top Term | Methods: word_mining
+- **Dionysos** (273) | Top Term | Methods: word_mining
+- **Lord** (267) | Top Term | Methods: word_mining
+- **These** (263) | Top Term | Methods: word_mining
+- **Christianity** (259) | Top Term | Methods: naming_pattern, word_mining
+- **Perhaps** (259) | Top Term | Methods: word_mining
+
+## New Phrasal Patterns found
+- Kingdom of God (97)
+- King of Tears (17)
+- Lord of Light (16)
+- Ground of Being (11)
+- King of Light (11)
+- Kingdom of Heaven (10)
+- Ancient of Days (9)
+- Sons of Darkness (8)
+- Sons of Light (8)
+- God of Moses (8)
+- Cave of Treasures (8)
+- Day of Judgment (7)
+- Prince of This (7)
+- Spirit of God (7)
+- Day of Wrath (6)
+- City of God (6)
+- Son of God (6)
+- Garden of Eden (6)
+- Spirit of Christ (6)
+- Feast of Agape (5)

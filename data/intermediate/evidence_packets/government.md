@@ -1,0 +1,343 @@
+# Evidence Packet: Government
+
+- **Category**: Top Term
+- **Total Mentions**: 28
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 306-314 (Match: 'Government')
+**Folder**: part of
+
+```text
+I've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.
+
+Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected the dead or sleeping man the way the forces of spring/nature revive all sleeping roots, bulbs, trees, etc.; all nature which is not man, and that the cyclic small year is to nature in general as the great year (200 B.C. to 2000 AD) is to the species man. Therefore, in my novel, TO SCARE THE DEAD, if the "Essene" were to awake from his 2000 year slumber, he would bring spring to the character, Nicholas Brady (the name I've chosen for my protagonist), and no separation can be made between this resurrection and the deity Zagreus-Christ and what a bulb esxperiences. So:
+
+In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: his job requires him to fake what he is, to be inauthentic inasmuch as he fronts for the government re the recording artists he deals with. This has produced a schism within him. There can be others, but basically he leads a typically modern inauthentic schismatic existence --note existence, not life. There is no growth, just the constant revolution of the wheel of lineal time which accumulates only dust. So:
+
+When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
+
+Last edit over 5 years ago by Siegman
+```
+**Co-occurrences**: Christ, Thomas, Form, Well, However, Dionysos, Perhaps, Like, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Dead, Suddenly, During, Dream, Someone
+
+---
+### Line 588-596 (Match: 'Government')
+**Folder**: part was
+
+```text
+He was not a great man.
+
+Hence, I was not in a situational jeopardy, within a limited crisis thrall; my life at stake for an interval; it is Aeon thrall removed; it was always there and would always have been. The immediate situation was only a worsening of an endless thrall.
+
+So the total thrall was burst. (For seige read blight. For blight read seige.) After seeing the sign, "He began to wake up and to understand -- i.e. understand what he saw, so that it made sense to him. By degrees he saw more and more clearly." But I do think it was always certain that I would be rescued, that there was no latter time hasty decision. Thus, he who is saved was always saved. "There is nothing to fear but more true: there never was anything to fear. Didn't you feel the contintual presence of hidden benign powers guiding and watching? The dream in which Kathy and everyone suddenly took off their masks and she said, 'Someday you'll be told what this was all about.' Promise then. Last night, the dream: 'I will send you a leader, named Vinland Smith.' And the dream about the government office, where the boss returns and most employees are found to be idle, and some (even worse) playing venal money games and turning away those in need. Only a few employees truly doing their work while the boss was gone; but now the boss has returned. If the 'Kathy' dream, in Canada in 1972 was fulfilled, then these, also, I am sure. Leader equals:
+
+(our) land(ing will) vin(dicate cordwainer) smith. And vin equals vine equals Zagreus-Christ-Dionysos, Lord of Springtime. I.e. "the leader I am sending comes from the stars."
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Dionysos, Lord, These, Only, Time, Harpax, After, Even, Zagreus, Great, Nothing, Kathy, Those, Their, More, Most, True, Will, Would, Have, Clearly, Life, Suddenly, Dream
+
+---
+### Line 1540-1548 (Match: 'Government')
+**Folder**: part retained
+
+```text
+Last edit over 5 years ago by Harpax
+109
+Needs Review
+109
+evident that a tutulary god lies within, dormant maybe most of the time, but always in touch, always capable of being reached (as in prayer) or arising on his own when a threat to my autonomy lies ahead. He is a world-builder, a city maker. He is creativity. Obviously he is related to the logos, the meaningful structure of reality (as RM defines logos). This discovery (the will, Socrates' daimon) certainly explains both my relentless, almost maniacal drive in writing (daemon-driven) as well as where I get my ideas; i.e., that world which I write about again & again, one single long novel, as Ursula put it -- where does it exist? It is the Weltbild constructed by my daimon, which probably knows what new forms or views, new Weltbilder, lie ahead for us; it had its basis in the future and its view as a future view men will someday hold, as RM points out: it is not I who see what's coming but it. This explains the eerie precog element in my writing, like about Kathy in TEARS, that which Paul Wiliams has pointed out about many, many of my books (I note a lot of this in WE CAN BUILD YOU, for instance). Also, for me, it answers my over[hw]elming need to know how come there is so much of St. Paul in TEARS (names, for instance, events, even ideas). TEARS, for me, is certainly the most extraordinary in all respects -- even unto my long-term conviction that the MS, the publishing, were in jeopardy from invisible evil government forces seeking to repress it due to the ideals and views in it, what it reveals, in other words about this society. The daimon wrote it knowingly; for me unconscious, for him/it very superconscious. Thus, Socrates' daimon, as an explanation, knits everything together, including my very drive to write -- 23 years for openers, receiving back very little pay or rewards.
+
+. . . Each of the times I roused/raised/contacted the daimon in me, I did so through distraught intense prayer. And it answered and gave me this aid I needed, appropriate to each situation. That is the daimon talking to me (e.g. "And she shall see the sea.") This is what Socrates reported. But in 3 74 I entered a state of being which is not reported, except where I trace the words in the Gospels regarding the Kingdom of God. In 3 74 the daimon was not merely with me; it became me and me it. It merged with me. Put another way, I passed from this world into another world (as shown in the photo of me). That is not situational advice, or intervention; that is not even help; that is a becoming and a being, and the dreams I had showed I had indeed attained the most treasured state possible; i.e. the pearl of great price, for which one sells all he has to obtain. It was an absolute & ultimate state, unlike anything I'd ever experienced before. It was total. It did not inform me of one thing but of everything. It healed me. It revealed all to me, including how the universe works. It showed me the Beatific Vision, finally. After that, the daimon spoke to me still (e.g. about Santa Sophia). I can't believe that what I experienced could be anything other than what Jesus taught us to seek. And to desire above all else. Most distinctly, it was a second birth. Our of all this, however interpreted, I know that there is an eternal world, and that it is divine, that it can break through to assist us, that there are forces and entities in it which know everything. They are aware of our existence. What their names are I don't know. I hesitate to call them "supernatural," anyhow in relation to us they are: realms beyond our space-time universe. Of this there is no doubt whatsoever. Are names important
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Tears, Logos, Jesus, Form, Sophia, Kingdom, Paul, Well, However, Maybe, Like, World, Time, Harpax, After, Book, Even, Gospel, Could, Does, Anyhow, Again, Kingdom of God, Both, Reality, Being, Obviously, Everything, Divine, Great, Probably, Santa, Kathy, Still, Their, Another, Through, Most, Certainly, Before, Santa Sophia, Universe, Finally, Will, Other, Were, Very, Back, Beyond, Many, Absolute, Evil, Socrates, Except
+
+---
+### Line 1717-1725 (Match: 'Government')
+**Folder**: part time
+
+```text
+Last edit over 5 years ago by Harpax
+
+121
+this fine bishop person dies (is killed?). Thus, in addition to the whole Essene awakening in the mind theme, we have the theme of the great bishop concerned with civil rights who mysteriously dies suddenly. What occurs to me right off is that the viewpoint character (Nicholas Brady) knows the bishop in the capacity of spying on him for the authorities (due to the bishop's civil rights stands and associations). Later, after the bishop dies, Brady had The Experience, and it seems (or has) something to do with the late bishop. Maybe there is in it information as to foul play "murder most foul!") about the bishop's ostensively accidental death. Despite the fact that he is a government part time agent, the v-p character would be disturbed; this goes too far. Also, we can have it that the bishop's son "came back to him in seances," and there was some talk about maybe the bishop coming back; this is much like the ghost of Hamlet's murdered father, of course. But anyhow it turns [i]t there is no connection with the dead bishop, although that seemed to be a possibility.
+
+Still, this is what it seems to be: saint possession; i.e. psychic possession by a dead saint. However, it turns [i]t that Brady had expereinced that which the bishop had all his life wanted to achieve and failed to. Brady is in contact with the Holy Spirit. (Now, we have to give a reason. The only one that would work would be, the bishop was murdered; the republic is in danger. You can't murder a bishop without God getting angry and telling people; you can't keep it hushed up.) (Psalm 116: "The death of his servant is precious to the Lord God.") (The final denouncement is this: the bishop, messing around with the Qumran scrolls, had planned to receive into the right hemisphere of his brain the mind of a specific Essene of 2000 years ago; this is why the bishop was hanging around the Qumran Wadi. However, his death aborted this plan. So the ancient Essene personage came to life in someone close to the bishop instead. The value of this resurrection to the bishop and to the modern world would be that the lost, secret archane truths about Jesus would be restored. Vide the ICC. I can go into the business about the Qumran men being possessed by Elijah, etc.
+
+I think the "Hamlet's father crying murder most foul" should turn out to be another false lead, since it isn't the bishop back at all. This goes with that false occult idea, namely that it is the bishop's ghost from the "other side," telling him how he was done in. The truth turns out to be much more exciting (in my opinion), but we can get a lot of mileage out of this.
+```
+**Co-occurrences**: Spirit, Holy, Jesus, Holy Spirit, However, Lord, Elijah, Father, Maybe, Like, World, Since, Only, Time, Harpax, After, Mind, Anyhow, Something, Being, Although, Great, Without, Essene, Brain, Still, Part, More, Another, Most, Secret, Death, Would, Other, Hamlet, Back, Have, Life, Information, Instead, Later, Truth, Dead, Suddenly, Qumran, Final, Right, Someone
+
+---
+### Line 1723-1731 (Match: 'Government')
+**Folder**: part time
+
+```text
+Still, this is what it seems to be: saint possession; i.e. psychic possession by a dead saint. However, it turns [i]t that Brady had expereinced that which the bishop had all his life wanted to achieve and failed to. Brady is in contact with the Holy Spirit. (Now, we have to give a reason. The only one that would work would be, the bishop was murdered; the republic is in danger. You can't murder a bishop without God getting angry and telling people; you can't keep it hushed up.) (Psalm 116: "The death of his servant is precious to the Lord God.") (The final denouncement is this: the bishop, messing around with the Qumran scrolls, had planned to receive into the right hemisphere of his brain the mind of a specific Essene of 2000 years ago; this is why the bishop was hanging around the Qumran Wadi. However, his death aborted this plan. So the ancient Essene personage came to life in someone close to the bishop instead. The value of this resurrection to the bishop and to the modern world would be that the lost, secret archane truths about Jesus would be restored. Vide the ICC. I can go into the business about the Qumran men being possessed by Elijah, etc.
+
+I think the "Hamlet's father crying murder most foul" should turn out to be another false lead, since it isn't the bishop back at all. This goes with that false occult idea, namely that it is the bishop's ghost from the "other side," telling him how he was done in. The truth turns out to be much more exciting (in my opinion), but we can get a lot of mileage out of this.
+
+To shore up the plot: Brady inherits (why?) a lot of the Bishop's correspondence...oh sure, in his capacity for the government; he is power over it doing intelligence work (even though the bishop is dead, there may be something useful about the activity of others). Brady has told the widow that he wants the notes "to type them up" or some similar pretext. (This sounds like THE STRANGE CASE OF CHARLES DEXTER WARD, in a way. Anyhow, explanation is more djinn and bottle-like.)
+
+More suspense could be obtained, maybe, if Brady, by the time The Experience comes, has severed all connections with the bishop's circle; he's now operating the recording firm, as depicted. The bishop is a part of his life he's put entirely behind him.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Spirit, Holy, Jesus, Holy Spirit, However, Lord, Elijah, Father, Maybe, Like, World, Since, Only, Time, Harpax, Mind, Even, Could, Anyhow, Something, Being, Without, Essene, Brain, Still, Part, More, Another, Most, Secret, Death, Would, Other, Hamlet, Back, Have, Life, Instead, Truth, Dead, Qumran, Final, Right, Someone
+
+---
+### Line 1967-1975 (Match: 'Government')
+**Folder**: book and
+
+```text
+This would explain the "Is but is not" as follows: the tangible secular evil was defeated, but in metaphysical form it remains in power; invisible because metaphysical, real because still there, and what we took to be the adversary was only its tangible physical embodiment on earth -- the Roman Empire. Now we have the invisible metaphysical counterpart, which is worse, with us. Two Romes, then, must be distinguished: the "secular forces of evil" vs their invisible triumph here.
+
+. . Capt Cook's ship, which I couldn't see until it fired on me (the Xerox letter). A world empire.
+
+. . . Now I know the meaning of my dream of the old encyclopedias, as Kleo's family's house. In them there had been the speeches of General Sherman in which he set forth the (new) Roman totalitarianism. In my dream it was said that "Andrew Jackson," dated 1837, hadn't ever actually dies, was in fact still alive. This meant still alive are the ideas of Sherman; and those ideas are a radical, vicious romanism-centralism. It was then, in 1863 or so, that the rebirth of Rome took place; here, then carried to Germany. This was the same Washington government and same army generals who exterminated the Indians. This can now be seen to dovetail with my dreams of the sibyl and other Roman constructs. There dreams, and my experience, let me in on the (mystical, metaphysical) Secret (about the world; as said regarding Gibbon: "Rome never really did fall. To think it fell is an error."). The Secret: we are in a Roman prison. And help is on the way. This is the meaning behind the idea of the Kingdom of Heaven --the return of the rightful King-- to suddenly come. First, you must understand our desperate situation.
+
+Last edit over 5 years ago by Harpax
+144
+Needs Review
+```
+**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Empire, Roman, World, Fall, Because, Prison, Only, Earth, Harpax, House, Sibyl, Those, Still, Their, Heaven, Real, Actually, Secret, Would, Other, Have, Evil, Suddenly, Dream, Until
+
+---
+### Line 2959-2967 (Match: 'Government')
+**Folder**: Book of
+
+```text
+In 3-74 I was transformed into what I was not, which is a miracle, and I did things I would never do, which follows as an equal miracle; they were good things and absolutely necessary, and if I had not done them I wouldn't have made it (or accomplished what I subsequently accomplished, whatever that was). So, by a laborious path, checking each step thoroughly, I have arrived here. There was never a more rewarding search, nor a finer goal (final understanding and acceptance); I feel an enormous peace. The pain is gone, even though I'm still here (in the sublunar world). The supralunar broke through when it was necessary, and it fully achieved its will (as depicted to me in dreams: the destruction of the tyranny). I was brought into accord with its historic purpose, and so good came out of my damaged life...my aimless life which in itself pointed nowhere but had good moments embedded in it.
+
+Mark 13:5, Luke 21 whatever: (i) "I —Christ— will give you an elloquence and a wisdom that none can contradict you." (ii) "The Holy Spirit will speak for you" (when you are brought up on charges). Christ, returning after his death, his the Holy Spirit, evidently, if both these passages are correct. Before the Incarnation it was Holy Wisdom; then Jesus Christ; then the Holy Spirit. I think they are the same, expressed as prior, during and after. (The Incarnation.) I equals the Holy Spirit, which certainly fits with Christ saying that the Holy Spirit couldn't show up unless and until he himself left: it will be another form of whatever he is, and there was a prior form, too; but the prior and the final form aren't incarnate. "St. Sophia will be reborn" means the second incarnation, beyond any doubt. Also, Christ is said (by Paul) to be the image of the living God, and Holy Wisdom is also the image of God. The early Christians must have been (esp John) fully aware of who it was that had walked among them: the Son of God had once been the first daughter of God, and later would be neutral (the Holy Spirit). It was/is all sexes, so to speak...more accurately, they/it can be humanly apprehended in any of these ways: assimilated by us, as it were.
+
+"At each generation, Holy Wisdom enters the souls of (certain) holy men and turns them into prophets." Da kam sie an mich, Ich denke. The word "prophet" doesn't mean one who sees the future as such, but more someone who calls attention to the deepest ails of his society, esp. in terms of a tyrannical and unjust government. EB: "The prophet is the mouthpiece of the god." Through dreams & Visions, etc. Revelatory experiences, auditionary, signs, etc.
+
+The dream in "TEARS" anticipates exactly what did happen: anticipated it in 70, and it happened (for me anyhow) just after the
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Sophia, Paul, Wisdom, These, World, John, After, Holy Wisdom, Good, Even, Anyhow, Just, Once, Both, Luke, Jesus Christ, Himself, Still, More, Another, Through, Living, Such, Certainly, Before, Death, Will, Would, Were, Beyond, Whatever, Have, Things, Life, Later, Unless, During, Dream, Evidently, Doesn, Final, Someone, Until
+
+---
+### Line 2968-2976 (Match: 'Government')
+**Folder**: book was
+
+```text
+226
+-3-
+
+book was released in 74. Put this way, it is easy to see what the dream in the book meant. Also, a person versed in apocalyptic writing would, in reading the dream, know what it meant (by and large). Therefore it is possible that the message (the dream) did reach some kind of audience, which then knew what to expect, or what was already at that time taking place; prediction or analysis, depending on when they read it. It was virtually synchronized, which strikes me as very very meaningful (i.e. that my experience of the theophany took place almost exactly when the book came out -- one month later was all). Also, my personal experience (theophany) did not occur outside a (the) vast historical process; it could not have occured earlier or later, since the whole process of the removal of the tyrant was involved. My theophany had to take place then or (as in the case of other people) not at all. The book somehow got delayed until then, was scheduled them because, although I had finished it, I could not get it to Doubleday any earlier; I was blocked. But then the block went away, and they scheduled it as soon as possible; and so it came out at the same time as the theophany. Put another way, the nature of my theophany confirmed the message (apocalyptic) of the dream/book. It bore it out. After the dream in the book, the tyranny there begins to crumble; the black man has 3 children; it is already another, more just, world. The grief which the general feels at the death in the dream is a repudiation of the injustice of his world, and is connected with the title. "This is wrong; it can't go on or even be." Hence the title. On an emotional level Buckman cannot support even his own individual unjust acts. The society was thrown down in that instant; Jason was cleared and Buckman retired to write his memoirs (like Nixon). Jason's trial could be compared to the Ellsberg trial or any of the others. Things went wrong for the government prosecutors. It should also be said that this might help explain what for me is the most unusual: the material from "Acts" that appears toward the end of "TEARS." The tutelary spirit of 3-74 was already at work. Anyone reading "TEARS" who had enough apocalyptic insight would probably also discern that. By the time they reached the dream they would be aware of it. However, I think that the presence of this material in "TEARS," the "Acts" material, means only that the tutelary spirit was present while I was writing it, and wasn't intended to be there surrounded by the book qua book. It just leaked across. There is little possibility that the spirit was not present, given the "Acts" material in the book; how else could it have gotten there? It looks to me as if a lot of careful dovetailing and preliminary preparation went into this thing, step by step: a lapidary construction so that there was no way it could misfire; a point came where a true determinism had been put into motion.
+
+As it was an invisible tyrannt, like in THE MARBLE CLIFFS, what was needed was to inform people here and there, mysteriously, opening their eyes and causing them to speak out. To call attention to it was to destroy it.
+
+"During part of its cycle Brahmin sleeps; in part it dances. We think it is dancing now, but actually it is asleep, and therefore what we see isn't real." Maybe in 3-74 Brahmin awoke briefly (the theophany). Certainly I did see us within a great living body.
+```
+**Co-occurrences**: Tears, Acts, Spirit, However, Maybe, Like, World, Since, Because, Therefore, Only, Time, Nixon, After, Black, Buckman, Book, Even, Could, Just, Although, Great, Probably, Jason, Part, Their, More, Another, Most, Living, Real, Actually, Certainly, True, Death, Would, Other, Somehow, Very, Have, Things, Body, Later, During, Dream, Until
+
+---
+### Line 3245-3253 (Match: 'Government')
+**Folder**: book by
+
+```text
+Needs Review
+252
+-11-
+
+I say, then, that there has been a secret take-over of gov¬ ernment by the rightful king, Christ. Probably He will reveal him¬ self by slow stages (most secret coups work this way anyhow). Now I ask, How does Jimmie Carter, our next president I guess, fit into this? I think, He is either very good or very bad, an absolute in one of those two columns for sure. Either he is God's mouthpiece or he is an even worse tyrant. It is obscured now, but time will tell. If he is a greater tyrant, perhaps the ultimate one, God will rise readily to the challenge. God did not depose Nixon to allow an even worse person in; that seems self-evident. "The trumpet's loud clamor" will be heard again, if necessary. I personally am pessimistic. We are going to get the form of virtue, the externals, without the content, I think; I intuit this. The ultimate hoax, which is the anti-Christ wearing a Christ suit; the smile masks death. In Revelation, there is first the 666 beast (which I have identified as Nixon) and after he is thrown down, the Anti-Christ appears who is worse yet, who is Satan himself; but Christ throws him down, too. Hmmm. Nixon, then Carter. (I've been looking through Revelation and I see there are two beasts, but evidently the second beast is the Antichrist. It's very confusing. Also there's a dragon, before the 2 beasts. Beats me.) One very interesting thing said in the Jerusolam Bible: That Rome and its empire is the sole real enemy of Christianity, and is the Antichrist (I recall how Rome figured in my visions, the memory of the spirit of evil Rome, his enemy; also I think, too, that the modern day US is an extension into time of Rome, which never fell but underwent external face-lifts. Anyhow this remark & analysis in the J. Bible corroberates my visionary experiences vis-a-vis Rome; also I've remarked that the government in TEARS is not only like the Soviet government but like Rome, and Moscow has been called the third Rome.) (The J. Bible's remarks about Rome in intro to Revelation nails down my visionary tneoleptic experiences for sure as early Christian; beyond doubt.) (If an authentic early Christian saint were to be resurrection within one, he would feel and convey such sentiments —and preoccupation— re Rome.- (And who else would, pray tell?) (Wow, for my tutelary spirit it was the burning issue, the adversary. Thus my contention about what took me over is strengthened. (I have not ever really grappled with this aspect of my theolepsy, the intense fear & aversion and suspicion it felt regarding Rome; now I think it was a clue of enormous magnitude, offering me a further opportunity to pin down absolutely who and what had usurped my ego. It conceived every secular antagonist as an expression of Rome. "Rome" was the critical opera¬ tional word; it literally saw Rome when it looked around itself here in this world, after it first arrived. "The one authentic enemy which could destroy Christianity"; well, that was his/its view, all right. Jeez; if it was an early Christian resurrected to second life in me, then the Parousia for sure had come! If I said to any learned person, "An early Christian saint fearing and detesting Rome has come to life in my head — what does it mean?" he'd reply, "Good Lord! The Parousia is here!"
+
+Last edit almost 5 years ago by svayambhu108
+253
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Rome, Christianity, Form, King, Satan, Well, Empire, Bible, Parousia, Lord, Perhaps, Like, World, Only, Time, Nixon, After, Good, Even, Could, Does, Anyhow, Soviet, Again, Self, Himself, Either, Probably, Without, Those, Through, Most, Real, Such, Secret, Before, Revelation, Death, Will, Would, Were, Very, Beyond, Further, Have, Life, Absolute, Memory, Evil, Greater, Evidently, Right
+
+---
+### Line 3314-3322 (Match: 'Government')
+**Folder**: file numbers
+
+```text
+Last edit almost 5 years ago by svayambhu108
+259
+Needs Review
+259
+I don't see how this differs from the foretold primal battle between Christ and his adversary, the latter being Rome, which is to say our megastates here and now. So I am back at my old corner once again, claiming that the Parousia, or anyhow certain stages of it, have taken place. The J Bible calls Rome "the great and only real enemy of the new chosen people, the Church." With this in mind I can see why the superimposition was shown me, because I could then identify the protagonists in the situation correctly — without which I really could not. I might point out that things got worse, much worse (under Nixon) before they got better (due to the intervention). This too is in accord with prophecy. In a sense, Nixon was to the U.S. government as Satan was to Rome: the ultimately worst figure. We saw the modern-day Satan growing within the Government, gain¬ ing more and more power, and using it to persecute the anti-war dissidents. It was Rome made worse than ever. "Look," the spirit said, disclosing the paradigm superimposed. "Here is Rome, and THIS is what we do to it, to the conspirators we see," and it did. Now, if the JWs and Fere Teilhard are correct, that Christ has been grow¬ ing stronger constantly, then perhaps (if I may essay this), He was not strong enough before to overthrow it. The JWs say this emphati¬ cally. Then he did it as soon as he could, and not a moment too soon. Maybe he has God's wisdom (omniscience) but not power. But the event anyhow finally happened. The extreme centralization of the modern day megastate proved to be the feet of clay for it, and undid it.
+
+I remember the exact second when I personally felt the oppres¬ sion lift. It was after I turned that Xerox letter over to the Fuller¬ ton fuzz. Ana I heard the lady singing opera as she went down the stairs outside in the night. The universe itself seemed to rejoice. That was March 74; for the nation it lifted in August 74, the very day I went into surgery; when I went in he was still in office, but boxed into a corner; when I woke up he had resigned, or was reading his speech — whatever. It was over. It is with great difficulty that I abandon the theory that this was a residual memory of Rome by someone just now from there; I think rather that, through the superimposition of the paradigm form I was caused to see Rome as the essence outside me. Fullerton 1974 in accident; Rome c. 60 AD in essence. Well, either way I understood; but the fact that even now I agree that Rome c. 60 was the essence (uncovered) then indicates my more recent theory of form superimposition. But perhaps I still mis¬ state it. There was no superimposition; rather, the accidentals melted away, and the Platonic form ROME became visible to me: it was already there, but disguised: veiled, so to speak, by deliberate gingerbread arranged there to conceal it. So it was a revealing & an unveiling, not a superimposition; I was allowed to see what was really there all the time. Like I say, the clock in heaven hadn't advanced since 60 a.D. Put another way, I witnessed the sort of form regression I depickted in UBIK; Fullerton fell away, and the ancient form was disclosed — instead, say, of seeing desert land and pasture and Indians. If this is so, that the accretions melted away as in UBIK, then perhaps the analogous changes in me were the melting away of personality accre¬ tions: back to primary urbs; back to primary homo. We confronted
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Xerox, Rome, Form, Satan, Well, Bible, Parousia, Wisdom, Perhaps, Maybe, Like, Since, Because, Only, Time, Nixon, After, Mind, Even, Could, Anyhow, Just, Look, Once, Again, Teilhard, Being, March, Platonic, Either, Great, Without, Still, More, Church, Another, Through, Heaven, Real, Fullerton, Before, Universe, Finally, Were, Very, Back, Whatever, Under, Have, Things, Memory, Instead, Remember, Someone, August
+
+---
+### Line 3662-3670 (Match: 'Government')
+**Folder**: part of
+
+```text
+It could even be argued that in my s-f writing I shaped apocalyptic visions over & over again (as the EB says about s-f). I was already —for decades— an apocalyptic writer. Also, I was deeply Christian, as critics have frequently pointed out. When I told of my 3-74 vision it was said, "We thought you had that long ago." I was set intellectually and sociologically for what I experienced. However, I did not anticipate divine intervention. It was a complete surprise to me, being ignorant of Daniel and Rev. One might say that if I saw the tyranny it would be logical (or anyhow possible) that I would see the structure of the overthrow. I KNOW WHAT ENTITY OVERTHREW IT; SURELY IT IS REASONABLE TO ASSUME THAT IT WAS THE SAME SPIRIT WHICH CAME TO ME PERSONALLY, AND MADE ME SEE. The question realy is not, Did God intervene? but rather, How many other times has He and does He? Studying this interven¬ tion it is not possible to answer this. For example, He may have intervened for the Protestant cause in the 16th century. He may intervene all the time. Still, no one has ever gone on record with the kind of experience and perception that I have had. Now couple all this with the "St. Sophia" prophecy. It tends to make one think of this intervention as (1) unique; (2) as part of the unfolding process of the Parousia, the "St. Sophia" prophecy being about that, His Presence returned. Also, viewed this way, one could well assume that the Parousia is not far-distant now, being linked with the "stone uncut by human hands" event, the overthrow by God of the western tyranny, it all being of a piece.
+
+I dreamed last night of a MS page of mine in which I had 3 consecutive paragraphs beginning with the word SHE, an obvious reference to the SHE SECRET Christ dream. In this more recent dream I found space on the page to insert a paragraph which did not begin with SHE (I felt it was wrong always to start with SHE), and I added erotic material, about nipples, etc. Now, thinking about this, I remember my first vision, proceeding all the others, which was of Aphrodite, and had to do with her right nipple; I wonder if there was an eliptical allusion to Aphrodite (cf Empedocles) in this recent dream. The dream, engendered from my own mind purely, is still valuable, as it recalls to me what I had forgotten, namely, the vision of the Cyrenaican Aphrodite beyond the golden rectangle door. Does this dream suggest (good lord!) that SHE is related to, or is, none other than the goddess of love known to the Greeks? Empedocles felt that Aphrodite was the steersman of all krasoi. This is all very anxiety-producing to me. I add, If so, indeed it would be marked SECRET, but I appeal to the philosophy of Empedocles to indicate a lofty as well as erotic element to this; He held her to be the ultimate entity drawing things & people together, "the star of love," which is how I ended my speech, meaning Christ. as the EB calls her, "The generative principle of all life." A mother goddess, not sex; doesn't the nipple point to this? Nourishing?
+
+*** Tonight on the NBC network news, Catherine Mamtam Macken told of a U.S. Government declassified document describing a new
+
+Last edit almost 5 years ago by svayambhu108
+
+296
+```
+**Co-occurrences**: Christ, Christian, Spirit, Complete, Sophia, Greek, Well, Parousia, Golden, However, Lord, Time, Good, Mind, Even, Could, Does, Anyhow, Again, Being, Empedocles, Divine, Daniel, Viewed, Still, Part, More, Star, Secret, Love, Mother, Western, Would, Other, Page, Very, Beyond, Surely, Many, Have, Things, Life, Aphrodite, Remember, Human, Dream, Doesn, Right, Answer
+
+---
+### Line 3669-3677 (Match: 'Government')
+**Folder**: part of
+
+```text
+296
+-8-
+
+Soviet weapon: microwaves beamed at persons, causing fatigue, confusion, psychosis and even heart failure. She said, "Those affected by the microwave transmissions have the impression of hearing words in their head." This I think is a payoff for me, to have heard this. This accounts for the origin of my 3-74 experience, at least the period in which I was positive that I was somehow being influenced by the Soviet Union, probably —as I thought at the time— through microwave transmissions. That is why I wrote Madame Pavlova at Leningrad, and Bob Ness in Canada; I was sure of it. Material based on this is found in SCANNER. I think, though, that this does not indict my entire experience; it does not invalidate the religious aspects. I think that the Soviet influence was only at the start, and that my sense —correct sense— of being under duress from the USSR (probably a satellite-activated -based system) caused me to turn to God — I prayed for help, knowing that my individual mind was succumbing, and that was when the Holy Spirit came to me, and the experience of being subjected to external pressure left, and the religious elements of the experience began. I was attacked by the CP-USSR, as I thought at the time; the CP was my enemy, but then God rescued me. The entirety of the experience —one year— cannot be explained by microwave trans¬ missions, although the filth on the radio, the phosphene activity, the Russian words, dreams of Boris Romanov and the electronic gear, initial numbers and subjective sensations of fear and oppression — all those can be traced to the microwave transmission. This was why I called the Fullerton Police and told Sergeant Kelly what I told him; I was correct. But I knew I couldn't give details. What I would like to know (and may yet find out) is, Why words in the head? (one) Do the transmissions contain information? Or (two) Are speech centers in the brain stimulated (which is to say, are they transmitting verbal and graphic material, or does it all arise within the brain due to the radiation pressure? The answer to this is important. From the presence of die messages I would assume information transmitted, but on the other hand, it may disinhibit neural circuits in the brain, causing them to fire for the first and only time. What must be assumed is first an attack on human liberty (as with the conspiracy mentioned in dream sequences) and then a counter attack by God (against the conspiracy of an historic nature and against the one involved in the microwave attack). This is why I felt that both the U.S. Government and the Soviet Government were my enemy — were the enemy. At this point I theorize that the Soviet microwave transmissions overloaded the noössphere and caused it to impinge on me (and others?) as Teilhard de Chardin conjectures will happen eventually; it was one signal too much. This is theory, but it would explain the divine counterattack on at least quasi-scientific grounds. Anyhow, at last something is explained which I have never been able to explain: my initial sense of Soviet pressure on me in 3-74, and my fury & hatred for them all, an otherwise totally mystifying section of the overall experience. Also, Cathy' Macken's announcement on the news proves that my 3-74 experience was real. Initially it was a bummer; but later, it proved to be the greatest blessing in my life. To CP does not know of the Advocate which we have. There is a further point. It always seemed to me that it was a strange coincidence that I received the letter
+
+Last edit almost 5 years ago by svayambhu108
+297
+Needs Review
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Scanner, Like, Only, Time, Mind, Even, Does, Anyhow, Soviet, Something, Both, Teilhard, Being, Although, Divine, Probably, Brain, Those, Their, Through, Real, Fullerton, Will, Would, Other, Somehow, Were, Under, Further, Have, Life, Information, Later, Otherwise, Human, Dream, Chardin, Answer
+
+---
+### Line 4882-4890 (Match: 'Government')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by carolinerose
+
+11
+8 The U.S. it may not have. For the first time it occurs to me that the “conspiritors” may have been after me, + yet still may be the Watergate gang. That there was intervention I remain sure of. That I was helped I am assured of that an alternate present- at least for me- I am sure of that it is a free. Rather than slave one, I am still sure of the extent of it I am not sure of. If they came after me they were not just after me- the 3 eyed [commos?] described all those [other deaths] victims. Something, really murderous + lethal seems to have been involved, a dreadful tyranny across the land, destorying its best thinkers. This was what I used to call “[Solarcon?].” Probably is was connected with the [newer?] government.
+
+This high speed firing (movement) of the inner track is that which is evidently responsible for the enhanced set-ground discrimination. The projected track selectively appeared as -forms. Set is it possible that the slow, synchronized rate at which it cost___ mores is a malfunction? How can it work [better] at the “longer” speed? Maybe the projected track is not supposed to merge. Certainly anything but the best use is a misuse. Suppose that insanity the inner track is dropped down to the pace of the external world, subjected to it so to speak, rather than attaining the intended higher velocity. Has not the connect worn out? Maybe this is the initiated perpetuated failure the “inner eye” winds up- not correctly superimposingbut acquired by the externals. The “parmfine” quality is not that We project, but that once projections get absorbed and hence desired ream It is sort of heel- sleep; “dreaming under the complete control Of the object” luminosity- the phospherus factor- is at there at All; it is a degenerated talent, fasten out of use. It was in Terms of this luminosity (set) that I distinguished Zebra, The luminosity distinguished Zebra, but Zebra was really Out there arranging objects and processes in the objective World; if the luminosity was impacted by me, the eatity was None the less objective. I conclude that the luminosity is probably
+
+Last edit over 4 years ago by carolinerose
+```
+**Co-occurrences**: Zebra, Complete, Form, Maybe, World, Time, After, Just, Something, Once, Suppose, Probably, Those, Still, Ground, Certainly, Other, Were, Under, Have, Evidently, Free, Track
+
+---
+### Line 4988-4996 (Match: 'Government')
+**Folder**: part anyhow
+
+```text
+Last edit almost 3 years ago by svayambhu108
+23
+Needs Review
+23
+- to + saw to it that the Golden Fish + girl showed up when she did, knowing it would stant anam nesis going, knew exacts which Dnon, memory + personality would be retrieved I'm willing to explain Thomas' existence in terms of ortho-nolecularly retrieve on memory, but that is not the complete explanation. At the very least an entity with superior science - knowing all this about DNA memory + how to retrieve it selectively was involved, but (supra) it also had to know the future. + it wasn't just an inner tape (in my head) engrammed, because although I was probably inwardly programmal to respond to the Girl, the Girl had to show up or else she showed up accidentally, + the program ming entity worked backward from that but the Golden Fish is actually connected with the personality it summoned; It wasn't an arbitrary coding. For this reason I say she was sent. A divine entity acting on me from outside was involved in producing the results which took place inside. If I refer to the got in "Faith of our Fathers" to the analogous God there, we find that she repre sented a secret political illegal movement, bent upon revealing the suppressed truth about the Government, which was a dreadful tyranny. Since this story wins probably inspired by nascent programming already in me I will trust my instincts about the Gold Fish God, + see in her the activity of the hidden real church,
+
+Last edit almost 3 years ago by svayambhu108
+24
+Needs Review
+```
+**Co-occurrences**: Thomas, Complete, Fish, Golden, Father, Since, Because, Golden Fish, Faith, Just, Although, Girl, Divine, Probably, Church, Real, Gold, Upon, Actually, Secret, Will, Would, Very, Memory, Truth
+
+---
+### Line 4994-5002 (Match: 'Government')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+24
+Needs Review
+24
+a all the "DNA memory (gene pool" material shows me is how right my guesses were, regarding part of 3-74. They so to speak verify part of 3-74. If that part was right, + is now verified, the rest is probaby right - i.e. my guesses, - but just not verified. Thomas came from the past; he came because he'd faced a pronten similar to the Xeroxtetter one + so knew what to do; so much for that part. But he was summoned in advance by a foreknowing entity which not only knew about hing but also knew the Xerox letter was coming + how vital it was for it to be handled the way it was. My guess: the secret, hidder true church is here, the agents of Christ, human beings; the Xerox letter being difeated as it was indicated not just a wise + benevolut God but: the final battle was in progress + the Xerox letter was somehow a small piece of it I offer as prod of this the suby/ dream about the conspirators, + the entire fall of the gou via watergate + the end of the war. A great historical process was happency. I was programmed from birth to do my part. If I hadn't has such dreams as the Sibyl dream + there had been no pulling down of the government, my intuition would have to stay only that. I belien they - the God - was absolute evil incarnate, + the hidden Xtian underground was/is absolute good - + that my enhanced eyesight - seeing Zebra was my temporarily (for the duration of the crisis) being allowed into seeing, knowing, understanding" I was initiated into the Christian reality. I saw what they see the grace extended to me for elever months had to do with the duratin - + existence - the moment of - the final confrontation- is batter nothing less would justify what I was shown, + what was doe for me. I not only needn't for cast act anyone else - the should ask me: I am the one who knows. I spect with the authority of the divine word itself.
+
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Thomas, Zebra, Xerox, Fall, Because, Only, Good, Just, Reality, Being, Divine, Great, Sibyl, Grace, Nothing, Part, Church, Such, Secret, True, Would, Somehow, Were, Have, Absolute, Memory, Wise, Evil, Human, Dream, Final, Right
+
+---
+### Line 5412-5420 (Match: 'Government')
+**Folder**: part that
+
+```text
+All of the above is true. When I read "North by Northwest" I suddenly could recall the paranoia world I had been "inhabiting" prior to my phonecall to the Bureau on 3/20/74. I used to live in the world of this screenplay. That is why I was constantly afraid (esp. at night): I feared "they" would break in & get me. What I did was incredible: I turned toward the group I believed was persecuting me for help. {{i.e.}} I converted my fear & hate & suspicion into "love," so to speak. I loved them; they ceased to be alien, hostile strangers & became (in my mind) needed, supportive father-figure friends.
+
+Criticism of the above. true paranoid dynamisms are too rigid & {{persevering}} for this about-face (in my attitudes) to occur. My vertigo anxieties continued. I suspected the {{cp}} after that as greatly, & hated them as greatly, as I had the Bureau; i.e. I kept the dynamism but changed only the "names" -- i.e. cognition of their identity. So I got no better. The paranoia dynamism remained intact -- in fact its expectations were fulfilled.
+
+So: corrected theory: I delusionally believed myself persecuted, by the US government: i.e. "conspicuous" to them. But suddenly in 3-74 I got the shock of my psychological life. There was a conspiracy against me -- but not by them! A reality resembling the delusional system – but in certain crucial aspects different -- manifested itself in actuality & replaced (both confirmed & competed/conflicted with) the delusional system. Reality replaced fantasy. I had simultaneously been right – & wrong. This expected/unexpected external manifestation-{{crisis}} caused an enormous
+
+Last edit about 6 years ago by Zebrapedia
+
+Page 6
+```
+**Co-occurrences**: Father, World, Only, After, Mind, Could, Zebrapedia, Both, Reality, Bureau, Their, Love, True, Would, Page, Were, Life, Suddenly, Right
+
+---
+### Line 5878-5886 (Match: 'Government')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+17
+191 There has always been an awareness that a "sheep us goats" situation - of testing or differentiating - is involved. But what is required? That's the test itself right there - you aren't told; you must act in total ignorance of what you are supposed to do - this problem is the problem. If we knew in advance we could fake it we would know, so to speaks the answer in advance to pre-know the nature of the test would be to know how to the pass it. So the great assize is always taking place) books open. The entry is made, the books close. perhaps in a sense there is predestination. The divine sparks will eventually show themselves, it is completely empirical + existential - no essence doctrine. You cannot truly be divine if no divine act surfaces: "By their fruit you shall know them." Now the American people know the truth about the Nixon government + the war, just as, finally the German people knew the truth. But by then the test was over + action meant nothing - in/for this world +/or the next the decision had to be made in a certain kind of ignorance There had to be a sufficient clue + no more, no one to tell you what to do, no promise of reward, ever. The only knowledge was that evil was going on, + one had to chose whether one would comply - hence did - it, or refuse to comply - with no reason to believe this act would help anyone or improve the situation. The pure vanity (being in vain) nature of the act - that was essential; that restricted it to the level, not of result but of nature the nature of the person. This would be all that would be revealed. + to whom? No one, or so it seemed. One would disclose one's nature to the stars + be destroyed in doing so. well thus entered a spark from another realm into This realm, + so the other, sacred realm recognized its own + flew to its rescue. "I will be with you always, yes, even to the end." So he spoke + it is so, but no one believed him, + so they reasoned out expediency + spiritually they ceased to be. In which case (if my theory is correct) they never were. We are descendent of the titans who devoured Zagreus + so swallowed sparks of the divine; + so the divine lived on in us
+
+Last edit almost 3 years ago by svayambhu108
+18
+Needs Review
+```
+**Co-occurrences**: Well, Perhaps, World, Only, Nixon, Book, Even, Could, Just, Realm, Zagreus, Being, Divine, Great, Nothing, Their, More, Another, Finally, Will, Would, Other, Were, German, Fake, Whether, Evil, Knowledge, Truth, Right, Answer, Sacred
+
+---
+### Line 5985-5993 (Match: 'Government')
+**Folder**: book but
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+11
+10 But there is more involved than that. End-time events do not take place in linear time at all, but evidently are located in the supratemporal realm; i.e. the realm of the forms, to be lifted out of time (as I was) is to encounter, in 1974, what Daniel saw, what John of Patmos et al saw. Thee things, inc. "Babylon" (the Black Iron prison) are always there, right up to The Nixon government in 1974. In the supratemporal form world, No time exists between Babylon. Rome, washington De. + what ever manifestation of that very important form may lie ahead that particular form, as the J. Bible says, is the ultimate physical instrument (embodiment, manifestation, extension, tool, arm, etc) of the evil adversary. Likewise, the tyrant; like wise the prisoner or prisoners: "that great Jew Daniel," the apostolic Christians, the Vietnam war resisters. The relationship between the Black iron prison + the Palm tree Garden is not some kind of "progress" evolution in linear time from the first to the second so much as a head-on direct confrontation outside of linear time between them (as expressed by such concepts as the "city of God" vs the city of the world," the two blended together in our continuum (cf Zoroastrianism + the Essene notion of the twin spirits, good vs bad). Linear time will not somehow evolve conditions from a Black Iron prison in the past to the Kingdom in the future; the first actually returned in 1974, as bad as ever; no - the B.I prison will obtain throughout all anear time until there occurs the breaking into linear time by God whereupon the B.I. Prison (Babylon / Rome) is overthrown, paving the way (cf Zoroastrianism) for the pure, unadulturated actualization of the sole surviving form, the good + Godly Kingdom; the dialection which I saw nostically, will cease. Evidently the Fall of the 1974 manifestation of the B.I. Prison edola did not mark its true end or final appearance - the dialectic interaction is to continue. But its overthrow was a prefiguring in linear time of the apocalyptic final overthrow - the "raising of the serge" (the "Afrika corps entering. James-James' building, to which we time for
+
+Last edit almost 3 years ago by svayambhu108
+12
+Needs Review
+```
+**Co-occurrences**: Christian, Rome, Form, Kingdom, Bible, James, Like, World, Fall, Iron, Prison, John, Time, Nixon, Black, Garden, Good, Realm, Black Iron Prison, Great, Daniel, Palm, Essene, More, Babylon, Such, Actually, Zoroastrianism, True, Will, Somehow, Very, Tree, Things, Wise, Evil, Likewise, Dialectic, Iron Prison, Evidently, Form World, Final, Right, Until
+
+---
+### Line 6182-6190 (Match: 'Government')
+**Folder**: part but
+
+```text
+Needs Review
+3
+Star Wars: "All 3 the (imperial) fighters continued to chase the remaining x-wing down the trench. It was only a matter of moments" etc. But a "supple Freighter eclipsed the sun." etc. "To the other side, Darth Vader's fighter began spinning helplessly... Whoever was at the controls of the supply freighter was neither unconscious nor insane - well, perhaps slightly touched. But fully in command nonetheless: it soares high above the trench tucking to run protectively above Luke. "You're all clear now, kid," a familiar voice informed him. "Now blow this thing so we can all go home." ...There was a tickling inside (Luke's) head. "Luke...trust me." the tickle requested, [forming words?] for the third time...with the confidence of a blind man in familiar surroundings, Luke moved a thumb over several controls...He blinked and cleared his eyes. Has he been asleep? Looking back, he saw that he was out of the trench and shooting back into open space... (a control) indicated that he had released his remaining torpedoes, although he didn't (couldn't) remember touching the firing stud. The cockpit [spectators?] were alive with excitement. "You did it!"
+
+Prologue: "Another galaxy, another time. The Old Republic was the Republic of Legend, *greater than distance or time...Once, under the wise [sick?] rule of the Senate and the protection of the Jedi Knights, the Republic [thrived?] and grew. But as often happens when wealth and power pass beyond the [admirable?] and attain the awesome, then appear those evil ones who have greed to match. So it was with the Republic at its [highest?]. Like the greatest of trees, able to withstand any [external?/internal?] attack, the Republic rotted from within though the danger was not visible from outside. Aided and abetted by restless, power-hungry individuals within [sic?] the Government and the massive [organs of commerce?], the ambitious Senator Palpatine careful himself to be elected President of the Republic. Once *securing office he declared himself Emperor, shutting himself away from the *popular. Soon he was controlled by the
+
+Last edit over 4 years ago by Kfischer
+4
+Needs Review
+```
+**Co-occurrences**: Well, Perhaps, Like, Only, Time, Once, Luke, Although, Himself, Those, Another, Star, Nonetheless, Voice, Other, Were, Wars, Back, Beyond, Under, Have, Star Wars, Wise, Neither, Evil, Remember, Greater
+
+---
+### Line 6198-6206 (Match: 'Government')
+**Folder**: part but
+
+```text
+Last edit over 4 years ago by Kfischer
+5
+Needs Review
+5
+Emanating originally from the force (temporarily) defeats the [Empirer?] In my 3-74 vision-of-recall, I saw us wearing the kind of robe Ben Kenobi wears and blowing up the huge iron "citadel". In 3 Stigmata I wrote about Darth Vadar. -- Described him and his mask. It was the force which seized me in 3-74. I was |am| have been but forgot that I am |was| have been a Jedi Knight. "Star Wars" fully and accurately explicates the actual situation underlying [our?] world (or reality, if you will). The voice spoke to me the way the "dead" (defeated and killed) Ben Kenobi spoke Luke, advising him to victory. We call him Christ. "Star wars" Gives an even better account of the situation, in some respects, than does the Bible. But if both books are fused together, one, more complete account emerges. Christ = Ben Kenobi. The fight against Nixon was = to the fight to destroy the Death Star (Vietnam War, US Military, etc. and Government) in which (at least to me) to voice of the ancient "dead" Jedi Knight Ben Kenobi was audible inside my head, and, in addition the force took me over and [directed?] me to personal victory. "Star Wars" is basically not fiction, any more than is the Bible. Names and details only are fictional. Conclusion - the transplanetary forces described in the [N. T.?] and "Star Wars" explain my 3-74 experience. It is not merely [Rome Qua Rome*?] which was involved (I had already discovered Babylon beneath Rome, [cf?] "Daniel") But evidently that is where I last fought.* Darth Vader was not destroyed at the Roman confrontation, nor even deposed in view of the fact that I recall blowing up the iron city I must be remembering a more "Matrix" confrontation - the Roman one was a failure, of which the success in 3-74 was the [extension?] or outcome unto victory (upon seeing the two time-place [Loci?] joined as one).
+
+Last edit over 4 years ago by Kfischer
+
+6
+```
+**Co-occurrences**: Christ, Complete, Rome, Bible, Roman, World, Iron, Only, Time, Nixon, Stigmata, Book, Even, Does, Both, Reality, Luke, Daniel, More, Star, Babylon, Voice, Upon, Death, Will, Wars, Have, Star Wars, Dead, Evidently
+
+---

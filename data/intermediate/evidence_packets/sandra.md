@@ -1,0 +1,278 @@
+# Evidence Packet: Sandra
+
+- **Category**: Top Term
+- **Total Mentions**: 25
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 44549-44557 (Match: 'Sandra')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+112
+Needs Review
+112
+C-196 the tragic is the old way + the Gnostic manichaean (the heroic) the new way: victory replaces defeat. Here history divides into two ages, the age of iron (tragedy) + the age of Gold (the heroic). but, you see, the heroic is so paradoxical + shrewd that it seems to be defeat (the passion, the lamb, the vicarious atonement, the sacrifice - the bait seized on by the "demons" - i.e. the ancient ruling powers, in their greed "Valis" is both the story of that victory (a Gospel of Manichaean Gnosticism) + that victory itself; it is what it describes (which I realized Saturday night after I wrote Sandra). (Upon making my decision.) (In which I chose the heroic path over the tragic path: to seek victory rather than capitulat (to fite]).
+
+Last edit almost 3 years ago by svayambhu108
+113
+Needs Review
+```
+**Co-occurrences**: Valis, Gnostic, Gnosticism, Iron, After, Gospel, Both, Their, Gold, Upon, Saturday, Lamb
+
+---
+### Line 45437-45445 (Match: 'Sandra')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 107
+Needs Review
+folder 55 - 107
+D-94 me his absolute knowledge of the situation so that my actions sprang rationally from the moral nature of reality, a reality that all at once I understood. My horror (Yes, that is the word; not terrm but horror at seeing the true situation + my peril + total what I had done) stemmed from insight; I was anything but a robot: I recoiled in boundless horror at my own sins + at the peril I faced, + what I had done to Tess + Chris - + sought to remedy it, because at that point if I acted swiftly it could be remedied. Now I can say, "free at last!" I was enslaved + was destroying myself + others, exactly like Faust. If the universe were not moral in nature, It would have been okay, but (I see now) God's moral laws are built into the very physical basis of reality itself, inseperable from the actual; hence my sins caused me discomfort + a vague, dim unease that have never been continually grew. I aware of sin before, now it is real to me, sin in myself. + yet, was I not doing to Grea what Honor Jackson did to me? + God condemned him to death. This is the missing part of the moral equation: Sandra is married. This is adultery. the decalogue forbids it. I repented in horror at what I had done, just before there was no drawing back. I guess for a moment I was plunged into hell + discovered what it consists of: one is given absolute moral insight into one's own sinful nature,
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 108
+Needs Review
+```
+**Co-occurrences**: Like, Because, Folder, Okay, Could, Just, Once, Reality, Part, Real, Before, True, Death, Universe, Would, Were, Very, Back, Have, Absolute, Knowledge, Free
+
+---
+### Line 45449-45457 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 109
+Needs Review
+folder 55 - 109
+D-96 I colluded with it + did not say no to it; I said yes to it, although more + more it distressed me. There was no telling where it would have gone had I continued to participate in it. Lives were being + the circle was irrevocably destroyed widening; stability was escalating wildly. Every day brought some new increment in the disorder, + I had lost all control now, looking over it + my own self. back from outside it, I am appalled + can fathom why my anxiety was becoming greater + greater. + the elements of stability + order + foresight + direction + coherent purpose are the primary elements I have at last managed to introduce into my life, after but this was engineered t years of confusion disorder; it was made - not just allowed to occur. "Destruction's our delight, delight guess the motivation our greatest sorrow." I is a need for excitement + the perpetually new. But there was no plan. Sandra did not plan to go anywhere, only to leave This is Southern California + the people here. dangerously close to nihilism. Here mischief becomes malice. The smart player (myself) would want to get out before ruin set in (which I did, due to God's wisdom + power) because ruin is the final stage inevitably since everything is pulled down + trashed - just as anne trashed everything. (This is perhaps allied to revolutionary art: the drive to destroy the old; here, again, is irritable impatience with whatever is) the mode of transit is flying; the mood is restless irritability becoming contemptuous anger with an abrupt 1800 or 90 turn
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 110
+Needs Review
+```
+**Co-occurrences**: Wisdom, Perhaps, Since, Because, Only, After, Folder, Just, Again, Being, Although, Self, Everything, More, Before, Would, Were, Back, Whatever, Have, Life, Greater, Final
+
+---
+### Line 45460-45468 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+folder 55 - 111
+D-98 + the diametric opposite of this is the mosaic dispensation; YHWH + Torah - which set in in me last sunday night: the archetype of stability + a horror of disorder. (This is why she "likes filth." There is a logic here. She is a very bright, daring person who takes risks. But since for me methodical increments of accrual are everything, she represents destruction: of all that I am -+ have been - methodically building up. For her, each new stage breaks + dismisses the previous. But I add on in a cumulative way: For me each new the step subsumes rather than replaces he is am Faustian; s previous steps. I Dionysian. For both of us, however, mental illness is a falling back down, me from the last increment reached, her from whatever high point she had ascended to; there is a difference: I risk what she does not have: long-term ediface. Unlike me, she in her but she a work will never have a coherent opus. mobility I lack, + a freedom of choice, + has a since her moves are revisions, erasures the issue For me experiments, not outcomes is growth; for her it is change. Things + people are always in her way The underlying dynamic operating in anne am a collector; + in Sandra is identical. she is a rejector. From her standpoint there is nothing revolutionary in me at all, + she would regard it as a favor to me completely to disrupt my life, breaking all my habits + ties. Thus the more harm (i.e. disorder) she introduced in my personal + professional affairs the more it would please her (my oos slany is an example). Not knowing where she is going isn't an oversight on her part; it is her desire + intent not to know
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 112
+Needs Review
+```
+**Co-occurrences**: Torah, However, Since, Folder, Does, Both, Everything, Nothing, Part, More, Will, Would, Faustian, Very, Back, Whatever, Have, Things, Life, Freedom
+
+---
+### Line 45466-45474 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 112
+Needs Review
+folder 55 - 112
+D-99 for me the issue is going to; for her, leaving from. Thus for her breaking up a relationship is probably more significant than starting one. You could even say, she forms mease to breaking relationships as a t them breaking them is the goal; forming them is the means to the goal - a necessary first step. There is no bourgeois work-ethic, here for she is an artist-aristocrat. But whereas Doris getting someone else to pay the bills is a goal, for Sandra it's incidental - assumed. where they merge, however, is in taking it for granted that some man will pay for everything one crucial difference between them is that for Doris art + creativity is a fantasy but for Sandra it is real. With Sandra when you pay you're supporting the arts; with Doris a drone. these last few years I have become conscious of - + consciously seek the continuation of - accrual in my life, not only in terms of material possessions but, more so, in terms of my career. Thus my perspective has sharply changed. I cannot allow disorder + destruction to set in to my life, because there is something it menaces that I did not previously possess. I have really long-term goals (my relationship with Hollywood is an example; "BTA" another). since each step in my life is incremental + predecated on all prior steps I must maintain high degree of stability in all areas. a met anne + calculated predicability. When I I had little to lose + much to gain. With Sandra it is reversed. God expresses himself vis-a-vis creation as a valence: an irrestible tug like gravity; it creates the shortest possible distance
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 113
+Needs Review
+```
+**Co-occurrences**: Form, However, These, Like, Since, Because, Only, Folder, Even, Could, Something, Everything, Himself, Probably, More, Another, Real, Doris, Will, Creation, Have, Life, Whereas, Someone
+
+---
+### Line 45472-45480 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 113
+Needs Review
+folder 55 - 113
+D-100 within field. Whereas the two is called "gentle" this is ineluctable. man aware salvation includes making a of what he is doing morally before it is in too late (the key word is "repent"), Damnation it is the same awareness, but after it is too late; the key word, there, is: For me remorse (which changes nothing). sunday night it was - fortunately - the former. Thus he whom God corrects is saved; This fits in with my 3-18-81 Parousia dream + the blocking messages (white the damned are simply allowed to rush over the cliff into the abyss to their doom, unhindered). strange. YHWH filled me with an invincible drive to be not only with Tessa + Christopher + to make primary protestations + committments them but to be physically close to them: to to touch them literally. (As in a family There is another bipolar axis expressed sunday night: salvation from folly con my part) to wisdom - hence, indeed, Holy Wisdom was involved: entered me. + entered me also in this sense: she granted me her great gift of shrewdness ("a guess uncannily close to the a truth" in regard to Sandra's letter - again letter!). Wisdom, then, is not only bipolarized to folly but is equated with shrewdness + with prudence - the opposite - absolute opposite - of rushing over the cliff to one's doom. Hence underlying the moral law is wisdom, predence, shrewdness; morality is absolutely linked to the cognitive act of wisdom, of seeing the situation as it is
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 114
+Complete
+```
+**Co-occurrences**: Holy, Complete, Parousia, Wisdom, Only, After, Folder, Holy Wisdom, Again, Great, Tessa, Nothing, Part, Their, Another, Before, Christopher, Absolute, Truth, Dream, Salvation, Whereas, White
+
+---
+### Line 45501-45509 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 118
+Needs Review
+folder 55 - 118
+D-105 punishment for his sins (selling his soul to the devil; for "devil" read "Dionysus"). (After all, I had been viewing myself as Goethe's Faust, + Sandra as gretchen - + "owl" is a study of this emanating out of "BTA" as the next logical step.) Sunday night without warning I perceived myself as only a heart beat away from hell, doom, psychosis, total enthusiasmos by Dionysus because of my running away with/ involvement with Sandra: this was the fate I had chronically feared would eventually overtake me - as in "BTA" the issue of fate the avoidance thereof is a central theme: + for me, fate as nemesis indubitably is Nietzsche's fate - + this is certainly a correct appraisal on my part!! Moreover. was throwing away the counter-fate gains I (i.e. of an Apollonian nature) that I had of lote begun to systematically erect. Thus I feared (1) death; (2) hell; (3) madness - all in terms of my "adventure" with Sandra. This is a big issue + a big perception; + such an issue + perception would trigger off psychotic anxiety! I view it (now) as having been a valid - i.e. correct - perception. This sandra as lure + threat was the find stage in a lifetime of folly. + (as I saw it sunday night) I had only hours, perhaps only minutes, to pull back from the lip of the abyss. Sandra's psychosis, real or imagined, was tangential to my own madness w hich sai its
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 119
+Needs Review
+```
+**Co-occurrences**: Perhaps, Because, Only, After, Folder, Fate, Without, Dionysus, Part, Soul, Real, Such, Certainly, Death, Would, Back, Having
+
+---
+### Line 45507-45515 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 119
+Needs Review
+folder 55 - 119
+D-106 fulfillment, its perfection, in a further relationship with her (viz: I would not be destroyed by Zelda; I would be Zelda myself. I myself would become internally what I saw externally + was so attracted by. I This accounts for my agitation that first time (a tvesday) when S. + I were together which I expressed to Juan: that so was totally crazy. But, by the next days reversed myself + saw her as okay + myself as "timid + inhibited + ossified, tied up in knot by neurotic hangups" - hence (it follows) mental health lay in my becoming like her; she would "cure" - i.e. assimilate - me to her view + ways + lifestyle. But then came the information from so that Saudra was here thursday at Taom. Clearly mad as a hatter what set in with me, then, was not even enantiodromia but cosmic, oceanic, absolute revelation having to do - not just with the situation + Sandra - but with my own nature + the disaster I faced, imminently faced: the outcome of a lifetime of increasing madness. with all this understood, the nature + magnitude of my anxiety makes sense. The peril was as I saw it. I was not psychotic: I confronted imminent total psychosis; there is a difference. If I acted correctly - rationally + morally, + did it right away there was still a remedy. the work (errors) of a lifetime could be corrected in this precise sense: I a could avoid my ultra-imminent fate (in to
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 120
+Complete
+```
+**Co-occurrences**: Complete, Like, Time, Cosmic, Folder, Even, Okay, Could, Just, Fate, Still, Revelation, Would, Were, Further, Clearly, Absolute, Information, Days, Having, Right
+
+---
+### Line 45513-45521 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 120
+Complete
+folder 55 - 120
+D-107 Faustian sense; viz: if in answer to the question, "Do you repent?" I said, "Yes instead of "No" - as Don giovanni responded - I could still save myself. + this was precisely the issue: Did I repent, in the O.T. sense? The choice was mine, but God through Holy Wisdom urged me to repent (these are the true categories that were involved, + it was existential repentence because it required - not just insight - but an act: I had to call Tess + Christopher + say + do certain real, actual, exact things - which I did do. + thus I saved myself.) but I was minutes away from being annihilated utterly (+ finally) by the archetype (of Dionysus) that got metzsche in the end - the fate I had long known was in store for me, too. Oihme. (Golly - as the Don says, in Mozart's opera, when the statue grips his hands!) owl" was going to be my great Faustian (last) effort - but (a couple month ago) had the sudden + total insight that the project would kill me physically. sunday night my parallel insight that my escape (fugue) from the work-project - involvement with Sandra‐ would kill me spiritually, morally + psycho‐ logically. These are heavy insights. My body would survive but my soul + mind would die. the solution (sic) was worse than the malady! in this, Judaism, the Torah + YHWH
+
+Last edit almost 3 years ago by svayambhu108
+
+folder 55 - 121
+```
+**Co-occurrences**: Holy, Complete, Torah, Wisdom, These, Because, Folder, Holy Wisdom, Mind, Judaism, Could, Just, Being, Great, Fate, Dionysus, Still, Through, Soul, Real, True, Finally, Christopher, Would, Faustian, Were, Things, Body, Instead, Answer
+
+---
+### Line 45611-45619 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 137
+Complete
+folder 55 - 137
+D-65 when in fact it is really two different people; this is the ur- "meta-abstraction" normally performed by all higher life forms routinely misapplied, here a physical resemblance has caused an erronious application of the fundamental "not two mothers but I mother twice" basis abstraction when it is not the case (e.g. what I call "Sandra" is in fact actually two people, + this explains her two faces: one ugly, old, forbidding + austere the other lovely, smiling + accepting; there literally are two "objects" i.e. ideas - notions - confused with each other + abstracted (by this, then, percipient such as 1) into one. is the mirror opposite of the meta‐ abstraction, + explains (as I say) what schizophrenia is; therefore I say, Sandia is schizophrenic because in fact the term "Sandra" refers to two different Valis confounded as being unitary, i.e. almost as of the divine mind one. It logically itself has erred. It is precisely this error that is corrected in - as the thematic basis of - "A scanner Darkly" showing that my mind was grappling as early as 1973 with this particular abstraction, first viewing it when applied wrongly ("scanner") when not applied - also wrongly; + + 2-74 is a cognitive correction of the latter!) e.g. in Sandri's case it is "two mothers once, not one mother twice"!!
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 138
+Complete
+```
+**Co-occurrences**: Valis, Complete, Form, Scanner, Because, Therefore, Folder, Mind, Once, Being, Divine, Such, Actually, Mother, Other, Life
+
+---
+### Line 45733-45741 (Match: 'Sandra')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 158
+Needs Review
+folder 55 - 158
+D-80 He gave me the missing cognitive part of the emotional state I've been in since her call from lax. Plus the anxiety attack on us thurs when she didn't invite me for dinner. She was expecting someone. Then the "not 2 mothers but I mother twice" meta-abstraction was YHWH as Holy Wisdom. the really extraordinary thing that although I was terror-stricken I experienced absolute a lucidity; I saw + understood my total situation perfectly, without degree + without reasoning it out. It was utter knowledge. I was - had been - destroying that which was of must value to me in the world: Tessa + Christopher: they are all I have. However good or bad Sandra is intrinsically; that was secondary + tangential: God summoned me back to what was morally right + what existed: it was right + it was real. I had been occluded + severely jeopardized this most precious element of my life. This was no vague intimation; YHWH summoned me back from the lip of the abyss. What I stood to lose by my wrong actions was that which my very physical life devended on. t was on the brink of literal doom, yet indirectly so: Sandra would destroy me not by what she die but by what I did. There was in this
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 159
+Needs Review
+```
+**Co-occurrences**: Holy, However, Wisdom, World, Since, Folder, Holy Wisdom, Good, Although, Without, Tessa, Part, Most, Real, Mother, Christopher, Would, Very, Back, Have, Life, Absolute, Knowledge, Right, Someone
+
+---
+### Line 45745-45753 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 160
+Needs Review
+folder 55 - 160
+D-88 It was 3-74 all over again but with moral overtones carried beyond the irresistable to the terrifyingly irresistabl in this case I had fallen into mortal sin (this was not the case in 3-74; there I was in peril but not in peril of mortal sin; I could, then, lose my freedom or life, but here I lost my soul; I not only doomed myself - I damned myself. Here, power + wisdom prevailed; in 3-74 knowledge + love prevailed: this yesterday was YHWH, not ABBA. the situation was intricate, unstable. ambiguous. There was a single right choice + it had to be made then + no later. God made it for me, based on his wisdom, power, +, because it involved morality, goodness (as exemplified by the law). Thus, having justified me in 2-3-74, he forebade me from sinning any further; he intervened absolutely. He prevented me from falling from my state of grace by making my moves for me: regarding Tessa + Christopher + regarding Sandra. Also, but think secondarity, he saved my life. It was the moral fall into sin that was the primary issue. He is the Lord + his will is law. as I wrote last night, at the time, I was presented with an indubitable demonstration of the power, the wisdom + the goodness of God. It was more convincing even than 2-3-74, + yet followed it up... there is the common theme of a dangerous lying etter from a woman that required that act -jact immediately - in a certain way
+
+Last edit almost 3 years ago by svayambhu108
+
+folder 55 - 161
+```
+**Co-occurrences**: Wisdom, Lord, Fall, Because, Only, Time, Folder, Even, Could, Again, Grace, Tessa, More, Soul, Love, Will, Christopher, Beyond, Further, Life, Freedom, Later, Having, Knowledge, Right
+
+---
+### Line 45756-45764 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 162
+Needs Review
+folder 55 - 162
+D-90 2) Even more important, the revelation of his wisdom, power + goodness (which of course certifies his existence as active, but God, Lord of creation - not God YHWH, the God of Israel). + this was not just a display it power but of moral power. it is this unity of wisdom, power + morality that invincibly argues for YHWH. Here is the difference between this + 3-74. Any number of divine entities could have extricated me from that trap, but here this time, I experienced the moral force that is unique to Judaism. (In which the nature of God fixes the law as its that is, first necessity regarding man; YHWH discloses himself to man in + as the law.) Now it is possible to add this theophany to 2-3-74 + perceive that it was YHWH then + Hagia Sophia; then it was loving, but here it was angry yet both are YHWH: in 2-3-74 mercy, here justice. Yet This was also for my benefit, to save me (but as I say, from damnation more than from Death; the peril was the peril of sin + death whereas before I was a victim). (Here I was the guilty transgressor.) just realized something. Until my terror last night I actually believed that I should have - + pursue- a relationship with Sandra, over + above the issue of my enjoying it (i.e. wanting to). I had been told should have "an affectionate" relationship, I
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 163
+Complete
+```
+**Co-occurrences**: Complete, Sophia, Wisdom, Lord, Time, Folder, Even, Judaism, Could, Just, Something, Both, Hagia, Hagia Sophia, Divine, Himself, More, Actually, Before, Revelation, Death, Creation, Have, Justice, Israel, Whereas, Until
+
+---
+### Line 45832-45840 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 175
+Complete
+folder 55 - 175
+D-125 This realization is what alchemically trans‐ mutes suffering into ecstasy - i.e. the Xtian miracle (i.e. one proves to one's satisfaction or believes by faith that the good outweighs the evil. I have shown that either view Ho Jonas presents -Greek cosmos vs Gnosticism - leads to the same conclusion, + thes are the only 2 alternatives. socratic logic: view + counterview - A + A lead to the same conclusion the good out weighs the evil. Thus the fact that I am too scared to pursue Sandra (which is willed by absolute necessity, ananke or the force of the past (1971) + made me schizophrenic + afraid to leave my "mother" Tessa) is good. This is the great miracle of a cosmos: what a true cosmos is + does. Again - twice, now, plus pistis - proves God is good + what he wills is good. Anything otherwise (i.e. I could pursue so) is bad even though my motives are fucked + I loved her absolutely As Malebranche shows, I cannot will to do it without God. have found security after years of fear + won't give it up. Is this so awful? but look what I've preferred: security no. rather than so whom I love. But my choice is generated by necessity, isn't my fault, + by logi + faith I know that this is good; otherwhe God would have willed it to be otherwise; this is a cosmos + hence good. Thus the summum bonus reads "His will is my peaw." Here is an instance.
+
+Last edit almost 2 years ago by jhordan
+
+folder 55 - 176
+```
+**Co-occurrences**: Christian, Complete, Greek, Gnosticism, Malebranche, Only, After, Folder, Faith, Good, Even, Could, Does, Look, Again, Either, Great, Without, Tessa, Love, Mother, True, Will, Would, Have, Absolute, Evil, Otherwise, Ananke
+
+---
+### Line 45866-45874 (Match: 'Sandra')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+folder 55 - 181
+D-131 but the horror on the night of 11-1-81 has forced me to abandon (1) Gnosticism; + (2) my Faustian striving in favor of the Greek idea of the cosmos - + even to identifying, as the stoics did - heimarmene with pronoia, I yield to the will of God because I must; but more, I see that through Christ - Felix culpa- his will is good, not just necessary; so I say, "His will is my peace" + am content. I am defeated, but not by evil or blind necessity but, rather, the will of YHWH which is good - for it creates + maintains the cosmic order - i.e. the cosmos itself. physical + moral law combined. I no longer rebel but through Christ am reconcited to God. I see YHWH as omnipotent, omniscient, loving + good. "Not my will but yours. My Faustian strivings - first in my work + then in my personal life - were killing me, literally. YHWH intervened + blocked me implacably. I now give up. Not in faustion victory do I know + find him but, rather, I in exhaustion + defeat (of my striving will by his implacable will). Thus in resignation I win what eluded me in my ceaseless striving. He blocked more than my relationship with Sandra's he blocked my Faustion striving, per se (I had transferred it from my work to Sandra, whereupon YHWH stepped in + said no. No further.) Like lucifer I pitted myself against the cosmos: the divine order, failed, + am reconciled to God at last. Malebranche is right, it is he who acts in + a me
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 182
+Needs Review
+```
+**Co-occurrences**: Christ, Acts, Felix, Greek, Gnosticism, Like, Because, Malebranche, Cosmic, Folder, Good, Even, Just, Divine, More, Through, Will, Faustian, Were, Further, Life, Evil, Right
+
+---
+### Line 46598-46606 (Match: 'Sandra')
+**Folder**: part that
+
+```text
+Indexed
+63-2013
+D-19
+
+What the "I Ching" told me to do regarding Sandra was go ahead: "misfortune, no blame" - "one of the most lofty concepts known to man - a unique line in the oracle. Then, since (as it would appear) Taoism is the case, Firebright did come into existence, due to the hierogamy of Yin + Yang in me: the mysterious embryo or golden flower who will leave me upon my death + ascend to heaven - i.e. to the Ch'ang Tao itself. Internal mutual adjustment to re-establish equilibrium: this was the providentia in 3-74. The Tao restores balance: it acts. What if it is the case that generally (normally) the Tao does not intervene in the order of the world, but, rather, allows the dialectic to work out its own equilibrium; but if the direction veers enough (in either direction?) then the Ch'ang Tao does intervene (to re-establish balance)? + this is the case re 1974 + removing the Nixon regime; hence the prophecies of the Sibyl. Why, this is what Plato describes the demiurge as doing in "Timaeus"! ___ 4:00 a.m. insight: The whole system is based on info (e.g. the messenger vision - the retributive machinery requires + acts on info + info only - , the set-ground plasmate, the "I Ching" the other night), but in 3-74 vis-a-vis the Xerox Missive I was blocked in terms of responding to the info, so that I did not respond.
+
+Last edit over 9 years ago by Toso
+63-2013
+Indexed
+```
+**Co-occurrences**: Acts, Toso, Indexed, Xerox, Plato, Golden, World, Since, Only, Nixon, Yang, Firebright, Does, Taoism, Missive, Xerox Missive, Either, Sibyl, Most, Heaven, Ground, Timaeus, Upon, Messenger, Death, Will, Would, Other, Ching, Info, Dialectic
+
+---

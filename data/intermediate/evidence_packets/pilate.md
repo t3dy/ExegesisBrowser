@@ -1,0 +1,286 @@
+# Evidence Packet: Pilate
+
+- **Category**: Top Term
+- **Total Mentions**: 23
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1272-1280 (Match: 'Pilate')
+**Folder**: part of
+
+```text
+Needs Review
+89
+always but "silent," i.e. camouflaged (so we didn't, couldn't, notice). My linkage had lasted over one full year, which is not typical of a mystical experience, even a good Yoga Eastern one; it has all the hallmarks of being firmly in place. It is somewhat long to be construed as an episode or state (as was my Erasmus state an altered state for sure; this has too much durability, stability; well, this then would, oddly, tend to point very very slightly but genuinely toward a manifestation of a transcendent God, rather than immanent all the time, this durability, because nobody gets a durable communication. They commune for a very brief Augenblick. This appears to be an objectively altered condition or vis-a-vis dialog situation, which is manifestation of the transcendent, not immanence. Has it happened, then, that "The Lord of Hosts shall --has-- suddenly come to His temple"? Maybe so, and is now immanent. (Q: Is He every thing or everywhere? You're supposed to ask that about immanence. I'd say, like the ka body; within or capable of infusing: pouring himself into. Look into Sanskrit root for create: to pour out oneself.
+
+Now I've really got it, a very great clue. In "Acts," Paul says, that at Pentercost when the Holy Spirit descends over the desciples, and they talk in tongues, "everyone supposed them to be drunk." Now, you add this to in Eurypides' THE BACCHAE where it says that when Dionysos possesses you, you talk in prophecy. Prophecy is one of the gifts of the Holy Spirit, and being drunk is what the followers of Dionysos were said to be, or actually were; intoxication -- the Gospel "Acts" itself points to this being one & the same experience: prophecy, madness or drunkenness or high -- but in the Levant, they hadn't heard about Dionysos (or said they hadn't), and the mainland Greeks in 400 BC hadn't heard of the Holy Spirit. It's just a matter of putting together the two pieces of the puzzle. The golden ringletedhaired stranger...whom they bind and put in prison, who offers no resistance...but who can and does call on (the) God, Dionysos. The "womanish" stranger: "Evidently you never wrestled anyone," says King Pentheus, who is obviously Pilate/Herod. (A little like HAMLET, too: the bad old king reigns, but there is this somewhat mad youth who speaks in riddles & prophecies, eliptically, because he knows what the rest don't, which is either the truth about the past (a murder, ill[l]egal reign) or about the future (doom coming for the evil king).
+
+I am lying in bed here and I am musing, "God can simulated the inanimate. Or rather, God can pretend to be anything he wants, any part of His creation. He can replace any part, be it." And then it came to me what you call this; you call it the Miracle of Transubstantiation. This is exactly what is believed to take place in the host, during the Communion. Exactly and precisely. What I saw that day in the alley and everything else I saw, God "immanent," I have for over one full year tried on my own to develop the concept of transsubstantiation. Well, it was not wasted time because what I did was prove the reality of the miracle of the Mass, and finally I pinned this down in terms of nomenclature and description. I just saw it on a wider scale; also, I did see it. I did see it. I saw it; the world as "this is my body and this is my blood. I am here." No wonder my tiny mind has juddered under the weight of trying to understand. This is the holy of holies, the miracle of miracles.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently
+
+---
+### Line 6765-6773 (Match: 'Pilate')
+**Folder**: part of
+
+```text
+B) Buckman: King Pentheus, king who suffers final ruin. A/C) Taverner: the stranger, who effects that ruin The old king = Dionysos, the hidden C side of what appears to be an A.
+
+Maybe the B life form is plural + poses as As to prey on them. The Cs prey on the Bs, + do so successfully by posing as As in order to draw the Bs passing as As into revealing their true B nature. To understand this you must conceive of Cs as predators stalking the Bs who are here preying on As + hence posing as them.
+
+{illustration:} A) Jesus / B) Pilate (Rome) / C) Christ } all parties either A or posing as A
+
+The Cs have started Kosmos into being: Cs are the seed stage of Kosmos (Valis, or the cosmic Christ who/which we could call D. So: A human B predator on A C seed predator on B D mature unitary macro form of C, with the plasmate info interlinking it, its thoughts unavailable to As + Bs alike. So the Cs hatch in the world of B + consume it - the rational consuming the irrational. We're really seeing a war between Bs and Cs. The Bs are always watching for any sign of A C, but in killing it they get D which eats their acosmos.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Valis, Toso, Jesus, Rome, Form, King, Dionysos, Maybe, World, Cosmic, Buckman, Cosmic Christ, Could, Taverner, Kosmos, Being, Either, Their, True, Macro, Illustration, Have, Life, Pentheus, Info, Human, Final
+
+---
+### Line 8465-8473 (Match: 'Pilate')
+**Folder**: part of
+
+```text
+Those who are replications of Christ are replications of the Urgrund, and the Urgrund is beyond the world, although from the first Advent on it has invisibly penetrated the world. Were it the creator of the world it would not (as expressed by Christ) stand in opposition to it; nor would it have to penetrate it by stealth: These statements by Christ confirm the fact that the world is not the product of the Godhead, but somehow antagonistic to it. The establishment churches of the world will stipulate otherwise, they being artifacts and entities of the world; this has to be expected. You cannot ask an organization that evolved out of the system of things to deny the system of things -- as the Catharists found out when they were exterminated. If you disobey the world it will confront you as a hostile stranger, sensing you as a hostile stranger to it. So be it. In the Synoptics Christ clearly set forth the situation. The enemy of my life, justice, truth, and freedom, is the irreal, the delusional. Our world is a deluding projection by an artifact that does not even know that it is an artifact, or what its purpose in projecting our world is. When it departs it will depart very suddenly, without warning.
+
+Think of the love that the Father has lavished on us, by letting us be called God's children; and that is what we are. Because the world refused to acknowledge him, therefore it does not acknowledge us. My dear people, we are already the children of God but what we are to be in the future has not yet been revealed; all we know is that when it is revealed we shall be like him because we shall see him as he really is. [1 John 3:1-2]
+
+The maker (of the world-projecting artifact) is here, in the animate debris of this world, his memories erased, so that he has no knowledge of his own identity. He could be any one of us, or a number of us, scattered here and there. The artifact, unaware of him, unaware that it is an artifact, unaware of its purpose, will eventually subject this memoryless maker located here to too much pain; this final excess of pointless, unmerited pain inflicted on the life form that, unknown to the artifact and itself, the maker, will cause anamnesis to occur abruptly; the maker will "come to himself," recall who and what he is -- whereupon he will not merely rebel against the artifact and its pain-filled world; he will signal the presiding deity Shiva to destroy the artifact, and, with it, its projected world. The artifact does not comprehend what risk it is running in the inflicting of unmerited suffering on living creatures. It imagines them all to be at its mercy and without recourse. In this it is wrong, absolutely wrong. Buried here, mixed in with the bulk, the mass, there exists unsuspected even by itself the Urgrund with all the power and wisdom that implies. The artifact is treading on dangerous ground; it is coming closer and closer to awakening its own maker. The protonarrative of this is found in Euripides' The Bacchae. A stranger enters the kingdom of the "King of Tears," who has him imprisoned for no cause. The stranger turns out to be the high priest of Dionysos, which is equal to being the god himself. The stranger bursts the prison (a symbol of this enslaving world) and then systematically destroys the king by driving him insane, and in a public way that not only abolishes him but [also] turns the king into a laughingstock for the multitude that his reign has oppressed. If the prison represents this world, what does the "King of Tears" represent? Nothing less than the creator of this world: the mecrudiical, ruthless, unheeding artifact itself, which is to say, the king or god of this world. "The King of Tears" does not suspect the existence of the true nature of the stranger whom he has imprisoned. Nor whom the stranger can call on. Echoes of this protonarrative are found in the Synoptics, with Pilate as the "King of Tears" and Christ as the stranger (it is noteworthy that Christ comes from an exterior province). Christ, however, in contrast to the stranger in The Bacchae, does not avail himself of the power that he can call on (i.e. the power of the Heavenly Father); but the next time Christ appears, he will call on this power, which will destroy the entire system of things, the world and the wicked alike. The crucial difference between The Bacchae and the First Advent is that Christ comes first to warn the world and the wicked before he is to return as destroyer. He is thus giving us a chance to repent, which is to say, heed the warning. In the fifties a Hollywood comedy movie was filmed in which the following situation was presented: the king of a medieval sort of land had become too old and feeble to rule, and therefore had turned over his authority to a regent. The regent, being cruel and brutal, was oppressing the population of the kingdom without the elderly king's knowledge. In the film, the elderly king is persuaded by a time traveler from the future to don peasant's garb and walk about in disguise, to observe how his people are being treated. Disguised as a peasant, the old king himself is brutally treated by the regent's troops; in fact, he and the time traveler are imprisoned for no reason. After much difficulty, the king manages to escape from the prison and return to his palace, where he dons his rightful kingly garb and reveals himself to the evil regent as he actually is. The evil regent is deposed, and the tyranny inflicted on the innocent population is abolished. According to the cosmological model presented in this paper, the Urgrund, the ultimate noos and maker, is secretly present in this cruel and spurious world. Being unaware of this, the artifact projecting this counterfeit world will continue heedlessly to inflict the needless suffering engendered by the mindless machinery (i.e. the causal processes) it customarily employs and has always employed. In my opinion the Urgrund has differentiated itself from being the One into plurality. Some fragments or "images" of it are certainly conscious of their identity; others perhaps are not. But as the level of pointless pain continues (and even increases), these separated "images" of the Urgrund will recollect themselves into conscious rebirth -- equal to a sentence of death for the artifact or "regent." This provides us with another application of Paul's statement that the universe "is in birth pangs." Pain is a prelude to birth; birth, in this case, is not a birth of man but a birth of God. Since it is man who undergoes the pain, it can be reasoned that the birth of God (the Urgrund) will occur in man himself. Mankind, then, as a species, is a Mater Dei: a Mother of God -- an extraordinary concept, which would then regard biological evolution on this planet as a means of bringing into existing a host or womb from which God Himself is at last born. Interestingly, there is scriptural support for this: The Holy Spirit is regarded in the N.T. as an impregnating divinity; it was the Holy Spirit that engendered Christ -- and that Christ is transmuted back into, upon his resurrection. The human race assumes a yin nature, or female nature, with the Holy Spirit as the yang, or male principle. Man, then, does not evolve into God; he evolves into a womb or host for God; this is crucially different. Anamnesis is the birth, in essence the offspring of two parents: a human being and the Holy Spirit. Without the entry into the human being of the Holy Spirit, the event cannot occur. The Holy Spirit is, of course, the Pons Dei. It is the link between the two realms. In creatures of all kinds there is a major instinct system that is termed "homing." An example is the return of the humpback salmon from the ocean back up the stream to the exact spot where they were spawned. By analogical reasoning, man can be said possibly to possess -- even unknown to himself -- a homing instinct. This world is not his home. His true home is in the region of the heavens that the ancient world called the pleroma. The term occurs in the N.T. but the meaning is obscure, since the exact meaning is "a patch covering a hole." In the N.T. it is applied to Christ, who is described as the "fullness of God," and to believers who attain that fullness through faith in Christ. In the Gnostic system, however, the term has a more definite meaning: It is the supralunar region in the heavens from which comes the secret knowledge that brings salvation to man. In the cosmology presented here, the pleroma is conceived to be the Urgrund or the location of the Urgrund from which we originally came and to which (if all goes right) we finally return. If the totality of being is regarded as a breathing organism (exhibiting inhalation and exhalation, or palintropos harmonie), then it can be said, metaphorically, that originally we were "exhaled" from the pleroma, pause momentarily in externalized stasis (our lives here), and then are inhaled back into the pleroma once more. This is the normal pulsation of the totality of being: its basic activity or indication of life. Once, under the influence of LSD, I wrote in Latin: "I am the breath of my Creator, and as he exhales and inhales, I live." Residing here in this projected world, we are in an "exhaled" state, exhaled out of the pleroma for a limited period of time. However, return is not automatic; we must experience anamnesis in order to return. But the cruelty of the artifact is such that anamnesis is likely to be more and more brought in. At the extremity of misery lies the essence of release -- I had this revelation, once, and in the revelation "release" equaled joy. What can one say in favor of the suffering of living creatures in this world? Nothing. Nothing, except that it will by its nature trigger off revolt or disobedience -- which in turn will lead to an abolition of this world and a return to the Godhead. It is the very gratuity of the suffering that most of all incites rebellion, incites a comprehension that something in this world is terribly, terribly wrong. That this suffering is purposeless, random, and unmerited leads ultimately to its own destruction -- its and its author's. The more fully we see the pointlessness of it the more inclined we are to revolt against it. Any attempt to discern a redemptive value or purpose in the fact of suffering merely binds us more firmly to a vicious and irreal system of things -- and to a brutal tyrant that is not even alive. "I do not accept this" must be our attitude. "There is no plan in it, no purpose." Scrutinizing it unflinchingly, we repudiate it and aid in the repudiation of all delusion. Anyone who makes a pact with pain has succumbed to the artifact and is its slave. It has done in another victim and obtained his consent. This is the artifact's ultimate victory: The victim colludes in his own suffering, and is willing to collude in a willingness to agree to the naturalness of suffering in general. Seeking to find a purpose in suffering is like seeking to find a purpose in a counterfeit coin. The "purpose" is obvious: It is a trick, designed to deceive. If we are deceived into believing that suffering serves -- must serve -- some good end, then the counterfeit has managed to pass itself off and has achieved its cruel purpose. In one of the gospels (I forget which one) Christ is shown a crippled man and asked, "Is this man crippled because of his own sins, or the sins of his father?," to which Christ replied, "Neither. The only purpose served is in the healing of his condition, which shows the mercy and power of God." The mercy and power of God are pitted against suffering; this is stated explicitly in the N.T. Christ's healing miracles were the substantial indication that the Just Kingdom had arrived; other kinds of miracles meant little or nothing. If the mercy and power of the Urgrund is pitted against suffering (illness, loss, injury) as explicitly stated in the Synoptics, then man, if he is to align himself with the Urgrund, must pit himself against the world, from which the suffering comes. He must never identify suffering as an emanation or device of the Godhead; were he to make that intellectual error he would be aligned with the world and therefore against God. A large portion of the Christian community over the centuries has fallen victim to this intellectual snare; without realizing it, by encouraging or welcoming suffering, they are enslaved even further by the artifact. The fact that Jesus had the miraculous power to heal but did not use it to heal everyone perplexed the people at that time. Luke mentions this (Christ speaking):
+
+There were many widows in Israel, I can assure you, in Elijah's day, when heaven remained shut for three years and six months and a great famine raged throughout the land, but Elijah was not sent to any one of these: He was sent to a widow at Zarephath, a Sidonian town. And in the prophet Elisha's time there were many lepers in Israel, but none of these was cured, except the Syrian Naaman [Luke 4:25-27].
+
+This is a poor answer. It states a what, not a why. We demand a why. More than that, we ask, "Why not? If the Godhead can abolish our condition (of suffering), why doesn't he?" There is implied here an ominous possibility. It has to do with the power of the artifact. The servant has become the master and is, perhaps, very strong. It is a chilling thought. Shiva, whose job it is to destroy it, may be baffled. I don't know. And no one, over all the thousands of years, has given a satisfactory answer. I submit that until there is a satisfactory answer, we must reject all others. If we do not know, let us not say. One possibility occurs to me, based on something I saw in 1974 that other people, by and large, did not see. I became aware that the wisdom and power of the Urgrund were actively at work ameliorating our situation by intervening in the historic process. Extrapolating from this, I reason that other invisible interventions have probably taken place without our awareness. The Urgrund does not advertise to the artifact that it is here. Suppose the Urgrund reasons -- and correctly -- that were the artifact to know that it has returned a second time, the artifact would step up its cruelty to a maximum degree. We are experiencing a subtle invasion, taking place in stealth; I have already mentioned this. Mass amelioration would disclose the Urgrund's presence, just as Christ's miracles made him a target at the time of the First Advent. Healing miracles are the credentials of the Savior and an indication of his presence. Once you have posited a strong adversary to the Urgrund, one so enormous that it is capable of projecting and sustaining an entire counterfeit universe, you have also put forth a possible clue to the need for stealth and concealment by the Urgrund. Its activities in this world resemble the covert advance of a secret, determined revolution against a powerful tyranny. The Urgrund is playing for ultimate stakes. It aims at nothing short of abolishing this world and its author entirely. I really don't know. I can envision its own agony at having to curtail its assistance to those in need, but it must win out against the artifact. It is aiming at the enemy's heart (or where its heart would be if it had one), and, upon success, all the pieces, the polyforms of pain throughout creation, will be spontaneously relieved. Maybe this is so; maybe not. In 1974 I saw it take aim at the center of tyranny in this country, and upon its successful attack there, the lesser evils fell into ruin, one by one. The Urgrund probably sees this counterfeit world as one Gestalt; it sees the polyform evils as stemming from a Quelle, a source. Aiming its arrow at the Source is the method of the warrior, and, beneath his cloak of mildness, our Savior Deity is a warrior. All this is conjecture. Perhaps in a certain real way he has one and only one arrow to release. It must hit or nothing is achieved; any cures, any ameliorations other than this, ultimately would be nullified by the surviving artifact. The Urgrund perceived its adversary clearly and we do not; therefore it sees its task clearly and we do not. An entire multistoried building is on fire and we are asking the firemen to water a dying flower. Should they change the direction of their thrust to water the dying flower? Doesn't one flower count? The Urgrund may be in agony over this: abandoning the flower in favor of the greater picture. Many humans have undergone that pain and so should understand it. Please remember that the Urgrund is here, too: suffering with us. Tat twam asi [Thou art that]. We are he, and he must extricate himself. In a very real sense the pain we feel as living creatures is the pain of waking up. Put this way, the proposition accounts for one of the most distressing aspects of suffering: that we are forced to suffer without knowing why. We do not know why precisely because we, as pluriforms of the Urgrund, are still virtually unconscious. It would be a paradox if an unconscious entity were aware of -- conscious of -- itself and the reasons behind its condition. Discerning the cause of our suffering equals fully waking up. It may be the final thing we learn. At this point the analogy of the artifact to a teaching machine fails. This is not a lesson the teaching machine -- if it is that -- can teach us, because it does not know the answer. But we ourselves, as pluriform images of the Urgrund, will a priori know the reason for our situation when we become adequately conscious; we will remember. Knowledge of this sort lies in our own intrinsic long-term inhibited memory circuits. Viewed as a puzzle we cannot at present answer, the reason for our condition of suffering (which involves all living things) -- this puzzle may well be the final step of retrieved knowledge. If there is an erasure of memory we can only assume that when that crucial erasure is overcome, we will understand this most baffling perplexity. Meanwhile, the pressure of this pain motivates us to seek an answer; which is to say, motivates us toward greater and greater consciousness. This does not mean that the "purpose" of suffering is to engender heightened consciousness; it merely means that a gradually heightened consciousness is the result. When the time arrives that we can explain the ubiquitous suffering of living creatures, we will, I am positive, have fully retrieved our lost memories and lost identities. Did we do it to ourselves? Was it inflicted on us against our will? One of the most intriguing explanations -- by the Gnostics -- is that the original fall of man (and hence creation -- in this model falling under the dominion of the world-projecting artifact) was not due to a moral error, but to the intellectual error of confusing the phenomenal world for the real. This theory dovetails with my proposition that our world is a counterfeit projection; to take it for something ontologically real would indeed constitute a dreadful intellectual error. Maybe this is the explanation. We got entangled in enchantment, a gingerbread cottage that beguiled us into enslavement and ruin. Perhaps a major premise of my cosmogony-cosmology is wrong; the Urgrund did not create the artifact, but somehow allowed itself or parts of itself to fall victim to a snare, an alluring trap. So we are not merely enslaved; we are trapped. The artifact deliberately projected an illusion that would entrance us and lead us in. Sometimes, however, a trap such as a spider's web (to cite only one of many) accidentally traps a deadly entity, capable of killing the trapmaker. This may be the case here. We may not be what we seem even to ourselves. Sometimes, but not often, the existence of evil is traced back to the dual nature of God himself. I have already discussed the dual nature of Shiva and Christ -- Shiva especially, who is often pictured as the god of death. Here are two examples. Jakob Bohme. "God goes through stages of self-development, he taught, and the world is merely the reflection of this process. Bohme anticipated Hegel in claiming that the divine self-development occurs by means of a continuing dialectic, or tension of opposites, and that it is the negative qualities of the dialectic that men experience as the evil of the world. Even though Bohme, for the most part, stressed absoluteness and relativity equally, his view that the world is a mere reflection of the divine -- apparently denying self-development on the part of creatures -- tends toward acosmic pantheism" (Encyclopaedia Britannica, "Pantheism and Panentheism"). During my enormous revelations and anamnesis in March 1974 I perceptually observed God and reality combined, and progressing through stages of evolution by means of a dialectic, but I did not experience what I called "the blind counterplayer," which is to say the dark side as part of God. However, although I perceived this dialectic between good and evil, I could not ascertain anything as to the source of the evil. However, I did see the good side making use of it against its will, since the dark counterplayer was blind and therefore could be made use of for good purposes. Hans Driesch (1867-1941). "My soul and my entelechy are One in the sphere of the Absolute." And it is at the level of the Absolute only that we can speak of "psychophysical interaction." But the Absolute, so understood, transcends all possibilities of our knowing, and it is "an error to take, as did Hegel, the sum of its traces for the Whole." All considerations of normal mental life lead us only to the threshold of the unconscious; it is in dreamlike and certain abnormal cases of mental life that we encounter "the depths of our soul." . . . My sense of duty indicates the general direction of the suprapersonal development. The ultimate goal, however, remains unknown. From this point of view, history took on its particular meaning for Driesch. Throughout his work Driesch's orientation is intended to be essentially empirical. Any argument concerning the nature of the ultimately Real will therefore have to be hypothetical only. It starts with the affirmation of the "given" as consequent of a conjectural "ground." His guiding principle in the realm of metaphysics amounts to this: The Real that I posit must be so constituted that it implicitly posits all our experiences. If we can conceive and posit such a Real, then all laws of nature, and all true principles and formulas of the sciences, will merge into it, and all our experiences will be "explained" by it. And since our experience is a mixture of wholeness (the organic and the mental realms) and nonwholeness (the material world), Reality itself must be such that I can posit a dualistic foundation of the totality of my experience. In fact, to bridge -- aw fuck. In fact, there is nothing -- not even within the ultimately Real -- to bridge the gap between wholeness and nonwholeness. And this means, for Driesch, that ultimately there is either God and "non-God," or a dualism within God himself. To put it differently, either the theism of the Judeo-Christian tradition or a pantheism of a God continually "making himself" and transcending his own earlier stages is ultimately reconcilable with the facts of experience. Driesch himself found it impossible to decide between these alternatives. He was sure, however, that a materialistic-mechanistic monism would not do (Encyclopedia of Philosophy, Vol. 2). It would appear that Bohme and T -- I'm at the end of my rope; I can't even type, let alone think. That Bohme and Driesch are talking about the same thing, and that both are process philosophers (or theologians, like Whitehead). Both stress dialectic quality in God; Driesch sees the dialectic working itself out in history. This is almost certainly the dialectic that I saw during my March 1974 revelations, and I am willing to admit that it is certainly possible that the blind, dark counterplayer against which the vitalistic good element worked could be "God's own earlier stages," as Driesch viewed it. One thing I like about Driesch is the fact that at a certain point he simply said, "I don't know." That's where I'm at and have been at for a long time; I just do not know. God created everything; evil exists as part of the everything; therefore God is the source of evil -- that is the logic, and in monotheism there is no escape from this argument. If you posit two (or more) gods, including an evil god, you have the problem of, Where did it come from? But that problem exists for monotheism, too; if there is only one god, where did he come from? Answer: from the same place the two gods of dualism came from. In other words, I see this problem of origin as equally difficult for monotheism to answer as it is for a dualism. We just don't know. If we regard evil as simply earlier stages of a god in process, which he is working to overcome -- well, that does fit my own personal revelations, and is syntonic to me. I was shown how the whole thing works but I did not comprehend what I was seeing; they were showing it to Mortimer Snerd. I did have the feeling that I was witnessing a cosmic two-person board game, with our world as the board, and that one side (the winning side) was benign, and the other was neither winning nor was it benign; it was just very powerful, but hindered by the fact that it was blind. The good side possessed absolute wisdom, could therefore absolutely foresee the future, and could lay down moves long in advance of payoffs that the evil, blind, dark counterplayer could not anticipate. It was an encouraging vision. In every trick the good won; it beat the dark antagonist unerringly. What more could I ask from an Ultimate Vision of Absolute Total Reality? What more do I need to know? The score reads: Evil zero; Good infinity. Let me stop there, satisfied; the final tally is explicit.
+```
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Kingdom, Gnostic, King, Paul, Well, However, Wisdom, Dionysos, These, Perhaps, Advent, Godhead, Elijah, Father, Maybe, Like, World, Since, Fall, Because, Therefore, Prison, Only, John, Time, After, Noos, Cosmic, Faith, Savior, Urgrund, Good, Even, Gestalt, Gospel, Yang, Could, Does, Jakob Boehme, Just, Something, Once, Realm, Shiva, Suppose, Both, Reality, Luke, Being, March, Hegel, Although, Self, Everything, Divine, Himself, Either, Great, Bacchae, Gods, Probably, Viewed, Anamnesis, Without, Nothing, Creator, Those, Still, Part, Their, More, Another, Through, Soul, Most, Living, Heaven, Ground, Real, Such, Upon, Actually, Certainly, Secret, Love, Before, Revelation, Mother, True, Whitehead, Death, Universe, Finally, Will, Deity, Would, Other, Creation, Somehow, Were, Very, Back, Beyond, Under, Meanwhile, Many, Further, Have, Artifact, Clearly, Things, Life, Absolute, Apparently, Justice, Dark, Memory, Freedom, Neither, Evil, Having, Remember, God Himself, Except, Knowledge, Elisha, Israel, Dialectic, Truth, Suddenly, Greater, During, Otherwise, Human, Salvation, Doesn, Pleroma, Final, Right, Answer, Until
+
+---
+### Line 17144-17152 (Match: 'Pilate')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 037
+35
+
+My 4-pronged deformation of man puts the final indubible stamp of Gnosticism on the entire corpus of not just my writing but my thought, as expressed in this exegesis. It is one of the 3 bases of Gnosticism: 1) ignorance; 2) salvific secret revealed knowledge as the ontological reversal of ignorance; 3) acosmism. + of course 4) this world disclosed as a prison - which we are deliberately occluded to by the creator. Where do my system-revelation + Gnosticism differ? In no respect. They are congruent; I made them so when I saw in "Scanner" the missing ingredient (ontological ignorance, + the purpose -+ cause- thereof). Maybe I was right after all - Thomas is Simon + he is still alive in me but still living in the time + place of Acts. Thomas remembered Christ as having just died, + about to return. Simon was an Xtian, of the time of Acts, which Thomas was. Thomas absolutely isn't Christ, but an Xtian of the time of Acts - vide "Tears," with Felix the procurator, not Pilate. That dates it. + Simon was the founder of Gnosticism - + my writing is absolutely Gnostics, + of the time of Acts; how many Gnostics Xtians were there during Felix's tenure? Felix lost tenure during the time of Acts! __ In 2-3/74 it wasn't just me who remembered + knew; it (I) was God - the Ground of Being itself - coming to its senses, knowing itself, resuming its divine identity, restored to itself after sinking into ignorance (deformation).
+
+Last edit over 5 years ago by Toso
+folder 21 - 038
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Toso, Thomas, Indexed, Gnostic, Felix, Gnosticism, Maybe, Scanner, World, Prison, Time, After, Folder, Just, Simon, Being, Divine, Toso
+Folder, Corpus, Indexed
+Folder, Creator, Still, Living, Ground, Secret, Revelation, Were, Many, Having, Knowledge, During, Final, Right
+
+---
+### Line 19796-19804 (Match: 'Pilate')
+**Folder**: folder 08
+
+```text
+Indexed
+folder 08 - 014
+14
+
+If a world can be reconstructed -reconstituted- from info, then perhaps an index can be to the corpus of info as the info is to the particular world. So a new idea about King Felix comes to me. What does Victim Pilate signify? Victim Pilate can only refer to the Gospels. "Victim" refers to Jesus; "Pilate" of course to Pontius Pilate + by extension Rome. "King," analogously, refers to Christus Victor, + "Felix" to Felix Procurator + hence by extension to Rome. If Victim Pilate refers to the first Advent, King Felix refers to the Holy Spirit who I know to be the resurrected Christ, to Acts, + by extension to the second Advent just as explicitly + precisely as Victim Pilate does to the first. It is an info lock that leads inexorably to Acts, + the content of Acts tells us what I will call "Y." From King Felix Y can be assembled (or summoned or reconstituted). But then Y can serve as an index itself to a larger body of information. An entire post resurrection world, the age of the Spirit (as Victim Pilate leads to "X," the age of Christ). Actually, there is so much more Acts material in "Tears" that there is no matter at issue here. But it could be said that King Felix is an adequate index to Acts - as proved by the rest of the Acts material in "Tears." There may be some sort of key-lock info sorting mechanism (system) in Valis that needs only the two word cypher. But - as the cypher is to Acts, Acts is to a whole world. The cypher is backed up by the collateral material in such a way that all doubt is removed. Suppose King Felix is a revision index key lock. Acts amended or amplified or decoded so that we are told: the King (second Advent) is to Felix as Victim is to Pilate - that the account
+
+Last edit over 5 years ago by Toso
+folder 08 - 015
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Tears, Acts, Toso, Indexed, Spirit, Holy, Jesus, Rome, Holy Spirit, King, Felix, Perhaps, Advent, World, Only, Folder, Gospel, Could, King Felix, Does, Just, Suppose, Toso
+Folder, Corpus, Indexed
+Folder, More, Such, Actually, Will, Body, Information, Info
+
+---
+### Line 19804-19812 (Match: 'Pilate')
+**Folder**: part of
+
+```text
+Indexed
+folder 08 - 015
+15
+
+in Acts is perhaps deliberately misleading or incomplete (stegenographic); Acts does not -in point of fact- state that Christ as King appeared, but that during the reign of Felix Procurator the Holy Spirit was with the apostolic Xtians. So perhaps it isn't King Felix equals Acts, but rather King Felix augments, revises, amplifies Acts, or gives the hidden (crypte or stegenographic) material not written down; i.e. the concealed truth which perhaps was only orally known at apostolic times, + was lost or suppressed. So it is Acts plus King Felix; the Acts material throughout "Tears" identifies Acts in itself by itself beyond error or doubt + then, upon, over + above we have the two-word cypher. Which amounts to a recovery of not just a part of the lost oral Xtian knowledge, but precisely that which is beyond doubt the summa information: news of the second coming - not contained in the Bible, but apparently so. Then perhaps a reconstitution of the true Acts world based on the true, complete information is underway. King Felix agrees with "St. Sophia will be born again; she was not acceptable before," etc. So "Felix" does not modify "King" (e.g. Happy King or Prosperous King, etc.) but is to King as Pilate is to Victim: it is a space-time key-lock. As Victim was to Rome always before, now King is to Rome (Pilate + Felix both standing for Rome, the Empire).
+
+Last edit over 5 years ago by Toso
+
+folder 08 - 016
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Toso, Indexed, Spirit, Holy, Complete, Rome, Holy Spirit, Sophia, King, Felix, Empire, Bible, Perhaps, World, Only, Time, Folder, King Felix, Does, Just, Again, Both, Indexed
+Folder, Part, Upon, Before, True, Will, Beyond, Have, Apparently, Information, Knowledge, Truth, During
+
+---
+### Line 23095-23103 (Match: 'Pilate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+194
+Needs Review
+194
+390 This would certainly account for "Luke's secrecy theme" + the cryptics answers that Jesus gave pilate but perhaps the most important aspect is what I call Valis, which is the deity-above the-stars who adopts the initiate whose eyes are now open + frees him from "astral determinism" - which is a slave or robot status, probably connected to subliminal DNA self-destruct programming; i.e. the "burning up" of "Karma." DNA programming seems to be the key to it all, to both the debased + enslaved state - + the remembering, restored + liberated state. the triggered-off packet when firing, finally, (if at all, + it is rare), masters all other (lesser?) DNA programming it is a meta-packet. Here is The antithetical dialectic + the hoped-for victory of the foreknowing "entity." This is salvation expressly. Then we would have to speak of the true Xtian as a superman. These are hierarchies life-functionings: distinct levels which supercede of each other. I have no idea what Valis is, only what it can do Here enter pronoia + charis. the packet is the psyche or noos of the Kyrios He is capable of multiple existence (Christoi). Is Valis his "father"? + the AI voice his voice as "Holy Spirit"? the linking transmitter. t t Wait! The Gnostic concepts of throwness, of alienation, of this not being our true world, of man + God (Valis) separated by the world (read: alien planet), the of i t f read: home the pleroma for
+
+Last edit almost 3 years ago by svayambhu108
+195
+Needs Review
+```
+**Co-occurrences**: Valis, Christian, Spirit, Holy, Jesus, Holy Spirit, Gnostic, These, Perhaps, Father, World, Only, Noos, Karma, Both, Luke, Being, Self, Probably, Wait, Most, Voice, Certainly, True, Finally, Deity, Would, Other, Have, Life, Kyrios, Dialectic, Salvation, Pleroma
+
+---
+### Line 24190-24198 (Match: 'Pilate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+172
+Needs Review
+172
+86 There is as yet no theory to explain how This might be done. You are working with a patens unknown. Yet you envision its form ow? Well, in my case the para-helper told te, which opened up a whole otherwise invisible universe. ah! When I saw the Golden Fish I shrewdly realized what it indicated, even then (2-74) this faculty was at work; it was a lightering leap a total realization, but it was an instance of this same shrewdness [faculty]. Y would not exist if y did not exist; X implies Y, but why? "Instinct." Like seeing a broken branch on a trail + leaping to an instant realization re the unseen: the "uncomfortably close guess it must have to do with my intuition in the Jungian usage. Taverner is killed (in the dream) all right having come before pilate (Felix), + then is resurrected (exculpated: 2nd advent) in the epilog, Both advents depicted. As the eschto‐ logical judge (wise old white-haired king) he presides over - adjudicates - his own death, so it The single sheek is a voluntary sacrifice the final shries that that Taverner emits is Jesus emitted on the cross. + when I had the dream I heard it. it does not go 2-3-74 (2= Gold Fish). t goes: "Tears" + then 2-74 + 3-74, + "Tears" oints specifically to Christ + the 2nd ad ient [Note} + through "Enalishman's castle" to the ode + the underground + fascist Rome. ➀ Well, so does the Gold Fish + the te Sophia revelation!
+
+Last edit almost 3 years ago by svayambhu108
+173
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Jesus, Rome, Form, Sophia, King, Fish, Felix, Well, Golden, Advent, Like, Golden Fish, Even, Taverner, Does, Both, Through, Gold, Before, Revelation, Death, Universe, Would, Judge, Have, Jungian, Wise, Having, Cross, Otherwise, Dream, Final, Right, White
+
+---
+### Line 25936-25944 (Match: 'Pilate')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 178
+973
+
+In "Tears" in the dream "Jason Taverner" shut up in the house crying out "one single shriek" is Christ on the cross crying out just before he dies; i.e. just before they kill him, by God's command - God as the white haired old king. Christ has taken upon himself the sins of the world; hence he is "shut up in darkness." The dream is of the crucifixion, which took place at God's command. But we know Jason -i.e. Jesus- is innocent, + so he is seen to be later in "Tears." Felix Buckman = Pilate + Felix Jason Taverner = Paul + Jesus The innocent man ("the stranger") condemned to death by the procurator, set in Acts (Roman Syria; Palestine). But in the epilog Jason/Jesus is alive + okay, + the procurator is deposed + dies. + tears refers to king Pentheus, so Dionysus is also alluded to. = Jesus. __ 4:10 AM thought: re 2-74: the Xtians, the true ones, are secretly victors which tells me that Christ (i.e. Valis) is secretly victorious, rather than just being here. His activity re me
+
+Last edit over 5 years ago by Toso
+folder 48 - 179
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Tears, Acts, Christian, Toso, Indexed, Jesus, King, Paul, Felix, Roman, World, Folder, Buckman, Okay, Taverner, Just, Being, Toso
+Folder, Himself, House, Jason, Indexed
+Folder, Darkness, Dionysus, Upon, Before, True, Death, Jason Taverner, Pentheus, Later, Cross, Syria, Dream, White
+
+---
+### Line 27672-27680 (Match: 'Pilate')
+**Folder**: book that
+
+```text
+Last edit almost 3 years ago by svayambhu108
+103
+Needs Review
+103
+89 stress tests on the life forms within. must be supervised + moderated. The grinch nutso who is at the controls of the maze doesn't realize that the girl is the designer of it (+ equal to the builder), with the power + authority to remove him forcibly from the controls if he oversteps too far. He think she is just a sort of guide. In an advisory capacity only correct form in the micromaze is based on a comparison with the Golden rectangle; the compound stresses should always factor out to the Fibinocchis constant a terribly important discovery that our a th world (at least in 1970-4) is buict on informa contained in the Bible; + 2) that Valis turned that info into our world - it can take any book that depicts a world + turn it into that world, but the Bible is the template for our world. 3) The Bible is a life form related to Valis. 4) There is such a thing as living information which can replicate its entire corpus out of its key-lock cypher (e.g. victim-Pilate. King-Felix). 5) a secret group exists which uses Biblical information as living code to transmit reports about this world out + to get instructions back, + all This information is processed by Valis, fed into it 6) as long as the Bible exists our world can be reconstituted out of it. 7) some kind of self monitoring corrective circuit exists which examine Biblical code generated within this world to see if There is any "overstepping." In 1974 there was, + it corrected due to feedback to Valis. got such a thing as living infor There is I
+
+Last edit almost 3 years ago by svayambhu108
+104
+Needs Review
+```
+**Co-occurrences**: Valis, Form, King, Felix, Bible, Golden, Maze, World, Only, Book, Just, Self, Girl, Corpus, Living, Such, Secret, Biblical, Back, Life, Information, Info, Doesn
+
+---
+### Line 32437-32445 (Match: 'Pilate')
+**Folder**: book of
+
+```text
+-9-
+
+in release. This is in a. sense an opposite story from that of the crucifixion where tire prisoner is condemned to death and dies. Hero the prisoner is set free and this means that Sacred time has moved forward from the time of the gospels to a different time. The prisoner slides through the fingers of the- Empire. This story is found in the life of John Taverner the fifteenth century English musician who was arrested on suspicion of possessing heretical books out then released "because he is but a musician," as Cardinal Woolsey put it. The Empire has lost the ability to state its case; it cannot close the trap. The later history of this archetype will be that the Empire will lose even more power; eventually it will not even be able to arrest its victim, let alone crucify him. That time has not yet come.
+
+At this point the Empire, expressing itself through its police system, is puzzled by its victim; it suspects him of wrong¬ doing but does not know what that wrongdoing is. Tne Empire does not know enough; its information is too limited. So for it the victim is an enigma. (The evolution from Pilate's bewilderment in confronting Jesus can be seen; bewilderment w.ms theme already.) The procurator Felix interrogates the suspect but Cannot determine from what he says what precisely he has done. Time passes. The Empire tries again and again to get information, but fails. This is Kafka's THE CASTLE in reverse. In talking to the suspect, the prisoner, the Procurator begins to suspect that the prisoner hamself does not know what he has done; he himself does not know if: he is guilty, and if guilty, of what. The prisoner cannot tell
+
+Last edit almost 5 years ago by svayambhu108
+78
+Needs Review
+```
+**Co-occurrences**: Jesus, Felix, Empire, Because, John, Time, Book, Even, Gospel, Taverner, Does, Again, Himself, More, Through, Death, Will, Life, Information, Later, Free, Sacred
+
+---
+### Line 32447-32455 (Match: 'Pilate')
+**Folder**: book of
+
+```text
+-10-
+
+the procurator what he would like to know, even if the prisoner is willing to- This increases the puzzle. Perhaps the enemy of the Empire is so large and so vague that the prisoner is not the adversary at all, but only a sort of front for it, an extension of it. This, for the Procurator, is a dreadful tnought.
+
+The archetype of this is Euripides' THE BACCHAU, in which the King of Tears arrests the stranger only to find that he has a priest of the god dionysus in his prison; the priest as the god bursts the prison and drives the king into insanity such as to Cause him to lose his identity even as a man. The king — or the procurator — can release the prisoner but he himself will suffer great harm; instead of Christ crucified Pilate suffers unbearable loss. Time, which starts with the gospels, has moved forward to what is almost a complete reversal of the image. The arrested and tried god does not die; the interrogator suffers spiritual death or physical injury, and the prisoner goes free. Everything that the prisoner lost is restored to him. This is referred to in the Bible as the end-times day on which everything is restored. It is a sign of the Parousia. The Empire is not glad to know this because it means that God Himself has taken the field; God is entering the battle.
+
+This is the broadest outline of the plan of history, unfolded in stages. It is not perceptible in the flux of mundane tine, only in the constants of sacred time. Thus in entering sacred time —be reenacting the sacred myth— one sees the stage that Sacred history has reached, and the constituents that make up sacred or salvific history. This is the final revelation.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Tears, Complete, King, Empire, Bible, Parousia, Perhaps, Like, Because, Prison, Only, Time, Even, Gospel, Does, Everything, Himself, Great, Dionysus, Such, Flux, Revelation, Death, Will, Would, Instead, God Himself, Free, Final, Sacred
+
+---
+### Line 44882-44890 (Match: 'Pilate')
+**Folder**: folder 55
+
+```text
+L-18
+
+I have it now:
+
+Buckman Jason Alys Claudius Hamlet Gertrude Pentheus Zagreus Pilate Jesus Tears Joy Old Young Usurper Rightful king Tyrant Liberator
+
+What is being studied? A usurper is on the throne. The rightful king (who is younger) appears as a madman, criminal or fool; he is mysterious; his nature and origins are uncertain. He is arrested and tried. (I should say falsely arrested.) Interrogated by the old king (usurper). He is charged with a crime he did not commit. The resolution varies; sometimes he is acquitted and assumes the throne; sometimes he is killed. The white-haired old king on horseback may be the murdered father of the young man who is the rightful heir to the throne; he returns to seek justice: punishment of the usurper; the son placed on the throne. This story is told and retold. Why? What are we supposed to learn? That the ostensible ruling power of this world is illegitimate? The "King" is not in fact the true king? and the "fool" is not mad or a fool or a criminal but is the rightful king? My analysis: everything we see is a 180° mirror opposite of the truth. The ostensible "king" is not only not the true king, he also has no actual power: despite appearances
+
+Last edit over 7 years ago by Gabriel Mckee
+```
+**Co-occurrences**: Tears, Jesus, King, Father, World, Only, Gabriel, Mckee, Gabriel Mckee, Buckman, Zagreus, Being, Everything, Jason, True, Hamlet, Have, Justice, Pentheus, Truth, White
+
+---
+### Line 45026-45034 (Match: 'Pilate')
+**Folder**: folder 55
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 038
+Needs Review
+folder 55 - 038
+137 (i.e. in each of the two coaxial realms) + his different -if not opposite sign-values in each - + yet remains unitary, as if seen twice (+ differently) + yet is, as I say, yet one just as a given eidos can instantiate repeatedly but remain unitary such concepts as I am dealing with force my mind to such limits as to beggar comparison almost have it - after 7 years + 10 months what I do know is that (1) it - the I almost two coaxial realms - is the case; + (2) a rational I theoretical explanation is possible. Why do this? Because Plato's metaphysics comes so say close that the goal is within grasp. But dio‐ what a task I have cut out for myself; Jesus. when asked by Pilate, did not explain (but presumably he could have); no one (that I know of) has ever given a rational theoretical planation of - given that it is the case - how it could be the case have been struggling all this time not So I just to say what in 2-74 I realized but also how what I realized rationally- theoretically could be. I am now at the point where - over + above the meta-abstraction itself - I conceive of two coherent systems of lawful, regular + orderly behavior that operate in parallel without infringing on each other although they function within one space-time continuum. (Rather than, say, heimarmene vs pronoia, the latter being a so-to-speak arbitrary suspension of the hence had former - Spinoza foiled to solve this + to deny the latter as conceptually unintelligible. to succeed where Spinoza facted? I? i am The key is: Jesus' ethical system versus
+
+Last edit almost 3 years ago by svayambhu108
+folder 55 - 039
+Needs Review
+```
+**Co-occurrences**: Jesus, Plato, Spinoza, Because, Time, After, Folder, Mind, Could, Just, Being, Although, Without, Such, Other, Have
+
+---
+### Line 46362-46370 (Match: 'Pilate')
+**Folder**: folder 57
+
+```text
+folder 57 - 041
+R-2
+
+___ I have figured it out - on the basis of Galina's dream in "DI" - specifically to whom I assigned the dream - i.e. the pisceses fish + the pitcher of water, aquarius, that replaces the cruel misuse of the fish. Galina is the wife of the head of the CP USSR; she is Pilate's wife. I interpret this dream thus: Galina symbolizes the good or idealistic side of the Empire (Rome/CP/USSR). (The dream clearly rejects pisces + ushers in the new age of sharing + brotherhood: the pitcher of water + the pink cube are owned by the settlement in common. It is a group of idealistic Soviet scientists who have developed the psychotronic gun, referred to repeatedly in "DI". The ideals of Share International are the ideals, the goal, of the CP, that is communism ("to each according to his needs"). These idealistic goals can now be achieved. The theosophy is (as the Steinmetz dream showed) only a cover; the reality is technology + communism-socialism. The Soviet scientists work with their counterparts in the Benelux nations. Thus as a group they transcend the East-West bifurcation + polarization, but the discovery was made in the USSR; but it is not -repeat Not!- an instrument of Soviet (USSR, Russian) national policy; were it, the dream would have come to Bulkowsky + not Galina.
+
+Last edit about 9 years ago by Toso
+folder 57 - 042
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Rome, Fish, Empire, These, Only, Folder, Good, Soviet, Reality, Toso
+Folder, Their, Would, Were, Have, Clearly, West, Dream
+
+---
+### Line 47165-47173 (Match: 'Pilate')
+**Folder**: book i
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+31
+E-94 white-bearded old king on horse. back is Christ as eschatological judge! He presides over his own sacrifice. This is the old Christ of revelation + Daniel sacrificing himself - himself as Thus Felix Buckman is Jesus patibilis. quite obviously the Roman procurator of This is Rome Judaech (i.e. pantius Pilate). Hence in versus Christ: it is Luke - Acts. the narrative "Jason Taverner" must be killed for the Biblical (Gospel) narratie to be complete: to tell the full intact story. + due to this ritual murder, Felix Buckman is transformed: he experiences -at agapē for the first time. This scene the all-night gas station - must also be there: it is the spiritual form of the (that is the crucifixion resurrection. the killing of Jason Taverner - does not t end the narrative; the killing is per‐ ultimate: Felix' conversion is ultimate is the Gospel story is told: the life, the arrest the crucifixion, resurrection it is all there: like + Acts blended together along with "the Bacchae." The arrested Jason Taverner is both Jesus + Paul arrested, just as Felix is both Felix Thus there is much more of the o + Pilate. N.T. in "Tears" than I realized; not just acts but also like (the Gospels: the Christ story). The suspicions of Jason by the authorities is a reperformance/retelling of the authorities' suspicions about Jesus. leading at last to arrests to framing him
+
+Last edit almost 3 years ago by svayambhu108
+32
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Jesus, Complete, Rome, Form, King, Paul, Felix, Roman, Like, Time, Buckman, Gospel, Taverner, Does, Just, Both, Luke, Obviously, Himself, Bacchae, Daniel, Jason, More, Revelation, Judge, Biblical, Jason Taverner, Back, Life, White
+
+---

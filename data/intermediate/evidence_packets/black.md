@@ -1,0 +1,343 @@
+# Evidence Packet: Black
+
+- **Category**: Top Term
+- **Total Mentions**: 163
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 93-101 (Match: 'Black')
+**Folder**: part of
+
+```text
+6
+sorts of shit (you noticed). Well, then it was an intrusion into time, into ordinary time, before entelechies were complete; like God’s grace which saves you even if you’re worthless, this intruded and saved our world even if we hadn’t completed the test (which was what we were doing: doing it over and over until we got it right, and none of us hardly had gotten it right yet. God did suddenly intrude, without warning… for me it was like a thief in the night; it came at night, and I was amazed. I was caught by surprise. But what filled me was in itself flawless; the Holy Spirit or myself completed, either one – but as I stand I am wicked and think wicked thoughts, same as always (I am right now trying to get Victoria Principl – Principal’s phone number; Erasmus says it can be done). This is wicked. I am motive by a leopard skin rug miles and miles of tawny skin (but she has a funny voice, a Sid Caesar imitation of the miles and miles. Well, we’ll use lipsynch).
+
+I do not see where I am changed, but I was spared the Wrath and I was of use (against the tyranny): “Zeus protects those who defend the Perfect Kingdom against those who would nibble it away.” It is as if that rat might have proved worthy in some way yet still a rat (it was where the rat was, not what, which doomed it; it was away from its natural order, out of its spot in the Scheme of Things). Thus, we may stress changes in our Being too much in terms of being acceptable, and forget that being at the Right Place at the Right Time – after all, God will motivate us if we’re there (I think always of the black dude, the guard who found the door at the Watergate Hotel taped back and reported it to the D.C. fuzz). Maybe my letter (don’t laugh) to the Wall Street Journal… no, that was after. I guess then TEARS was what I had to offer. Think of the touching story of “The Juggler of My Lady.” That always had a lot to say to me. Yes, if I did anything in the Final War Against the Beast it was to write and protect TEARS and bring it out strategically, and also be living in Fullerton where I could write Wiggins. You must put in your thesis about my correspondences back and forth with Mr. Wiggins during the impeachment, Claudia; I am so proud to have argued those issues with him. We both drew on all we had in us. (RS will mention.)
+
+Hey, I figured out (you laughed) Nixon is the best – beast.
+
+IX From nIXon That’s Latin for 9 IC from dICk That’s Latin for 99
+```
+**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Time, Nixon, After, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Dick, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+
+---
+### Line 843-851 (Match: 'Black')
+**Folder**: Unknown
+
+```text
+Let us consider the miracle involved. When God enters time, when he pierces our world, he pierces the veil and rends it -- where go the usual categories of personal-subjective, then-now etc? Did He come for all men or just me? Will what happened to me in March 1974 still later on happen for others, or did it happen once for everyone? This is the same question about Christ's death on the cross; does he really die again and again for each man, so-to-speak sequentially, or simultaneously, which is to say, once? I think both are true; the usual categories don't apply.
+
+I am a child trying to understand adult concepts.
+
+As in FROLIX 8 -- the change rushes across the world, the way I saw the black band rush across the sky on Good Friday: the band that joined the old universe with the new...and in that instant as I and Laura watched, I understood that we were on film, on a loop. This 3 - hour strip rushing at so high a speed -- it tied the two ends together. And started the sequence anew. Thus, back in 1962, my first mystic (sic) understanding of Easter, and of the Death on Christ, the dead god -- in the bonds of dear "Christ lag in Todesbanded," etc. I saw it then. What I saw then was real and I knew it then to be real; what I experienced in 1974, which was maybe 12 year later -- at the same time of year...it was real, too. We can maybe resolve this when we ask, Then you play your LP of Beethoven's 7th symphony, is it a different performance each time? Does von Karajan repeat it? One hears it again and again, but it is the same: like the archetype, printing out: the die stamping. What we hear is the "print."
+
+Last edit over 5 years ago by Harpax
+55
+Needs Review
+```
+**Co-occurrences**: Christ, Maybe, Like, World, Time, Harpax, Good, Does, Just, Once, Again, Both, March, Frolix, Beethoven, Still, Real, Laura, Consider, True, Easter, Death, Universe, Will, Friday, Were, Back, Later, Cross, Dead
+
+---
+### Line 864-872 (Match: 'Black')
+**Folder**: part of
+
+```text
+If a simple, workable, theoretical model were wanted by which all could be restored, then this might serve:
+
+(one) Reality in concentric rings of greater being (completeness), which the person initially encounters in terms of a ring less real than one he later encounters (best on all, final[l] encounters). Thus, the final ring encountered is the most real and gathers up --accumulates-- all that he ever encountered before.
+
+(two) There would be a "writing backward" system by which the person would be presented, for engramming-on purposes, lesser fragments of forms the larger fragments of which he will encounter later -- that is, later for him. Thus, his encounter-linew would be arranged backward to the direction he himself experiences it, the way a mystery novel is written. What he had had, and possibly lost, which would make the term "restoration" meaningful to him, would so to speak be deliberate clues presented ahead of time (early in his life) with the full knowledge that these were the certain experiential items he would later on come onto. The interesting part of this is that he could be easily almost effortlessly, engrammed in a random fashion, yet have the sense of total meaning. Here is an synthetic example: let us say that at the end of his life-line he winds up in the Lusitania Hotel which is the shape of a boat and has cherrywood furnishings including broom plants (Acacia) as the floral items. Intrinsically neural in value (these are virtually a pattern-less collection of elements) they would, for him, acquire meaning --Bedeutung-- if one were to place early in his life small replicas of these constituents: one would see to it that as a child he grew up for a few months --long enough to create engramming-- in a yard with flowering Acacia, which is really a weed, and that he watched a film on the sinking of the Lusitania on his family's TV set...and so forth, seeing to it that these was a vast wasteland of these items, so to speak, until the glide pattern past his life. Finally he would begin to encounter these dear long long engrammed-on bric-a-brac, and have a deep sense of cosmic completeness. Thus any life, theoretically, could be given a subjective sense of completeness and meaning and purpose and wholeness just by seeing to it that retrograde "clues" of what was in the natural course of events to happen along were stuck here and there at very early strategic points. The economny of these would be beautiful, since one would simply work backward from the "solution," i.e. the end as pure random given. "I am getting all back what I lost," the person would sigh gratefully, and see a Divine Plan, a Godish Hand in all this. Of further interest: he would be right. There is really no way this simple, economic system of enbewing an ordinary life with completeness could be accomplished without the agency of (a) deliberate design and (b) the ability to accomplish it by retrograde motion in time. What is to me of supreme interest is that the person involved --the subject-- would be able to detect the subtle but to him indubitably real hand of the Creator in the final section of his life -- although no one else could, and any one else could argue himself black in the face that no pattern was evident. The subject, all his life, would have carried these key engrammed-on external gestalts, slumbering always in his psyche; he would know, when he began to re-encounter them, what it signified (not that the end was near, but that the whole process was subsumed by intention, design, and a plan or Logos). These would be absolute signs along the trait that there was indeed and trail -- and it was one intended for him; he and it were isomorphic.
+
+Last edit over 5 years ago by Harpax
+57
+Needs Review
+```
+**Co-occurrences**: Logos, Form, These, Since, Time, Harpax, Cosmic, Gestalt, Could, Just, Reality, Being, Although, Divine, Himself, Without, Creator, Part, Most, Real, Before, Finally, Will, Would, Were, Very, Back, Further, Have, Life, Absolute, Later, Knowledge, Greater, Final, Right, Until
+
+---
+### Line 1240-1248 (Match: 'Black')
+**Folder**: part of
+
+```text
+Needs Review
+87
+phase-rebirth deity...they are identifying our deity with brahmanism.
+
+I've just read Joseph Campbell on Patch, and I find what I had been [h]oping to find -- part of the black stone's text, which shows that indeed Ptath is [I]mmanent Mind but also a creative god, which means he gets his hands dirty, an improvement on noos merely thinking (of the Greeks, with their slave culture's haughty attitude toward the crafts). That dream I once had about the doctor in his white jacket and trousers appearing again and again...how much he looked the way Ptath is represented (wrapped in white linen). The whole universe is Ptath's body which Ptath infuses as ka; look at this, though:
+
+"Mighty and great is Ptah, who rendered power to the gods and their kas: through his heart, by which Horus became Ptah; and through his tongue, by which Thot[h] became Ptah."
+
+This is 2,000 years before India. "The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator." Also, Ptah did it by speaking the word (the tongue). This anticipates the Logos doctrine. Heart is creative intent; tongue utters or expresses, gives voice to (I'll bet ka and voice and breath are closely identified).
+```
+**Co-occurrences**: Logos, Greek, Well, World, Noos, Cosmic, Mind, Just, Look, Once, Again, Great, Gods, Creator, Part, Their, Brahmanism, Through, Voice, Before, Universe, Deity, Campbell, Body, India, Joseph, Dream, Ptath, Joseph Campbell, White
+
+---
+### Line 2106-2114 (Match: 'Black')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+
+156
+. . . If I am going to systematically list all the elements in TEARS which are revelation (i.e. from scripture) (and I've tried to do this, supra supra) I think I missed the foremost element: when Felix Buckman hugs the black man it is the "kiss" or hug of the feast of agape, the cardinal moment of the authentic service of rememberance (he who is kissed or hugged, who is Anyman is of course Jesus). Also, it is evident from the text that the unknown (stranger) black man somehow it identified with Taverner, and it must be recalled that Felix Buckman partook earlier in the novel of a meal with Taverner, which was an odd thing for him/them to do. To back up this hug as cardinal moment of the now-suppressed original sacrament, consider the drawing which Buckman made prior to hugging the black man, and passed to him: the heart pierced by the arrow; which beyond doubt is a wordless graphic rendering of the idea of love (agape). It was the embrace of life. As witnessed the sudden sundering of the one-child-to-each-black-couple law.
+
+My very recent book dream, the masterpiece novel gummed into the encyclopedea -- it refers to such as the above novel cum covert message, as well as UBIK, etc. I'm beginning to think this most recent dream did not carry the message: Write such a book. But rather: You did write such books (with the gospel reassembled from trashy bits, as Lem put it). (So as to get past the Soviet Marxist materialist censors.) "There are other sheep whom I must bring in," as Christ said. This dream told me not what to do but explained to me what I have been doing. I, so fashionable to Marxists both in the West & East -- I, unknown even to myself, carrying the gospel to them in a form acceptable to them. I wonder, now that (3 74) it was explained to me, if I could do it, now being self-conscious and deliberate and doing it myself per se; maybe my work is done, successfully. I was finally told what I had done: the sheep in wolf's clothing, so to speak. As my Vancouver dream, in which Kathy and all of them took off their masks and said, "Now we can finally explain it all to you," it was in 3 74 finally all explained to me. Looks to me offhand as if UBIK was freighted the best. Maybe now I can rest. It's interesting -- you can flatout outfront tell a Marxist that my work is theological in nature (as I did Fitting etal, and also Claudia), and it doesn't register, as if I never even said it. "He doesn't comprehend his own work," as one of them said. Not only can't they see it unaided, they can't see it aided. Yet I am positive that on some level (right hem?) they are absorbing it; ah yes: subliminally!! I think this is why so many of my dreams --plus my intuitions themselves about my 3 74 experience-- contained elements pertaining to the USSR. Paranoiacally, I had it backward; they weren't influencing my thoughts, but I theirs (via my stories, novels, speeches, letters, oral discourse!!). Lord -- I think when they see the cross I wear, or read theological elements --find them in my writing, they think I am "one of them," but adding these as a sort of disguise to fit into capitalistic Christian Western society; my golly, they have it backward, but it's layer under layer; the bottom which (spreading the gospel to the Soviets) was unknown even to me. Until it was revealed to me in 3 74. Probably the most severe assault delivered in my work is against materialism as such, in my probing into the illusory nature of apparent reality...but surely this is a prime assault against the Enemy, against Marxism as one form of it.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Jesus, Form, Felix, Well, Lord, These, Maybe, Only, Harpax, Buckman, Book, Even, Gospel, Could, Taverner, Soviet, Both, Reality, Being, Self, Probably, Kathy, Their, Most, Such, Love, Revelation, Consider, Western, Finally, Other, Somehow, Very, Back, Beyond, Surely, Under, Many, Have, Life, Claudia, Cross, West, Dream, Doesn, Right, Until
+
+---
+### Line 2130-2138 (Match: 'Black')
+**Folder**: book but
+
+```text
+Last edit over 5 years ago by Harpax
+158
+Needs Review
+158
+I just crazy-like thought of another significant allusion to "Acts" in TEARS -- if the eunuch in "Acts," the black man whom Philip meets and converts, is the same black man whom Buckman meets at the end of TEARS and embraces, then think of this: in TEARS blacks are sterilized after a couple has one child...so this black man should by law be ster[i]lized by now -- he has more than one child, though; by law he should be like the Ethopian, a eunuch, incapable of reproduction. And this permutation of the eunuch (in accord with the law in TEARS) takes place through Felix or translated (the steganographia revealed), is given the command: be fruitful, reproduce, multiply, which is what "felix" in Latin means. This is all a fantastic consistent code print-out, here, the names becoming command cyphers of a holy sort. It's as if we did a recipe, taking 1 black eunuch, add felix, which gives us the black man with, suddenly, against all law, 3 children! I see in this a closer parallel to "Acts" than I had even before; it comprises a potent, mystifying, highly charged reality, as if the Bible is not a book but alive; the Word is alive.
+
+In other words the black man whom Buckman meets is even more like the black man whom Philip meets than I had realized...or anyhow he ought to be, by law. A black eunuch! But obviously, if one studies the dynamics of the novel, one sees that through his dream Felix Buckman is converted to Christianity, and his koinos kosmos alters along with him, to abruptly produce the black man with 3 children -- a new world! The man is black, he is a eunuch, he is "embraced," he produces something in writing for Philip/Felix to see...it's a living system of some kind, and active.
+
+The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
+```
+**Co-occurrences**: Tears, Acts, Holy, Christianity, Felix, Bible, Like, World, Harpax, After, Buckman, Book, Even, Anyhow, Just, Something, Reality, Kosmos, Obviously, Philip, More, Another, Through, Living, Before, Other, Later, Suddenly, Dream, Right
+
+---
+### Line 2132-2140 (Match: 'Black')
+**Folder**: book but
+
+```text
+Needs Review
+158
+I just crazy-like thought of another significant allusion to "Acts" in TEARS -- if the eunuch in "Acts," the black man whom Philip meets and converts, is the same black man whom Buckman meets at the end of TEARS and embraces, then think of this: in TEARS blacks are sterilized after a couple has one child...so this black man should by law be ster[i]lized by now -- he has more than one child, though; by law he should be like the Ethopian, a eunuch, incapable of reproduction. And this permutation of the eunuch (in accord with the law in TEARS) takes place through Felix or translated (the steganographia revealed), is given the command: be fruitful, reproduce, multiply, which is what "felix" in Latin means. This is all a fantastic consistent code print-out, here, the names becoming command cyphers of a holy sort. It's as if we did a recipe, taking 1 black eunuch, add felix, which gives us the black man with, suddenly, against all law, 3 children! I see in this a closer parallel to "Acts" than I had even before; it comprises a potent, mystifying, highly charged reality, as if the Bible is not a book but alive; the Word is alive.
+
+In other words the black man whom Buckman meets is even more like the black man whom Philip meets than I had realized...or anyhow he ought to be, by law. A black eunuch! But obviously, if one studies the dynamics of the novel, one sees that through his dream Felix Buckman is converted to Christianity, and his koinos kosmos alters along with him, to abruptly produce the black man with 3 children -- a new world! The man is black, he is a eunuch, he is "embraced," he produces something in writing for Philip/Felix to see...it's a living system of some kind, and active.
+
+The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
+
+. . . For TO SCARE THE DEAD: let it turn out to be St. Luke who shaministically possessed him (a bridge thus established between 70 AD and our present), and the protag eventually discovers, though this assimilated inner contact that St. Luke (and probably also the others of the original cadre of Christians, the inner circle of Christ's) is what we call a (are you ready?) a non-terrestrial, of magnificent power and authority and wisdom. I think plotwise the protag eventually learns/decides that originially such men as St. Luke were ordinary humans, "born of woman," etc., but became this -- through such possession of them by the Holy Spirit, which is to say their Master, Christ (who was not an ordinary human being). And the purpose of this elevation comes through now, since our planet has had it (ecology wise, due to our using up and destroying and polluting); this is a system to get some of us, as many as possible "translated" out of here and hence saved; this is the true meaning of "being saved," saved from the holocaust. This too is the meaning of the now-arriving Parousia.
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Spirit, Holy, Christianity, Holy Spirit, Felix, Bible, Parousia, Wisdom, Like, World, Since, After, Buckman, Book, Even, Anyhow, Just, Something, Reality, Luke, Kosmos, Being, Obviously, Philip, Probably, Their, More, Another, Through, Living, Such, Before, True, Other, Were, Many, Wise, Later, Dead, Suddenly, Human, Dream, Right
+
+---
+### Line 2134-2142 (Match: 'Black')
+**Folder**: book but
+
+```text
+I just crazy-like thought of another significant allusion to "Acts" in TEARS -- if the eunuch in "Acts," the black man whom Philip meets and converts, is the same black man whom Buckman meets at the end of TEARS and embraces, then think of this: in TEARS blacks are sterilized after a couple has one child...so this black man should by law be ster[i]lized by now -- he has more than one child, though; by law he should be like the Ethopian, a eunuch, incapable of reproduction. And this permutation of the eunuch (in accord with the law in TEARS) takes place through Felix or translated (the steganographia revealed), is given the command: be fruitful, reproduce, multiply, which is what "felix" in Latin means. This is all a fantastic consistent code print-out, here, the names becoming command cyphers of a holy sort. It's as if we did a recipe, taking 1 black eunuch, add felix, which gives us the black man with, suddenly, against all law, 3 children! I see in this a closer parallel to "Acts" than I had even before; it comprises a potent, mystifying, highly charged reality, as if the Bible is not a book but alive; the Word is alive.
+
+In other words the black man whom Buckman meets is even more like the black man whom Philip meets than I had realized...or anyhow he ought to be, by law. A black eunuch! But obviously, if one studies the dynamics of the novel, one sees that through his dream Felix Buckman is converted to Christianity, and his koinos kosmos alters along with him, to abruptly produce the black man with 3 children -- a new world! The man is black, he is a eunuch, he is "embraced," he produces something in writing for Philip/Felix to see...it's a living system of some kind, and active.
+
+The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
+
+. . . For TO SCARE THE DEAD: let it turn out to be St. Luke who shaministically possessed him (a bridge thus established between 70 AD and our present), and the protag eventually discovers, though this assimilated inner contact that St. Luke (and probably also the others of the original cadre of Christians, the inner circle of Christ's) is what we call a (are you ready?) a non-terrestrial, of magnificent power and authority and wisdom. I think plotwise the protag eventually learns/decides that originially such men as St. Luke were ordinary humans, "born of woman," etc., but became this -- through such possession of them by the Holy Spirit, which is to say their Master, Christ (who was not an ordinary human being). And the purpose of this elevation comes through now, since our planet has had it (ecology wise, due to our using up and destroying and polluting); this is a system to get some of us, as many as possible "translated" out of here and hence saved; this is the true meaning of "being saved," saved from the holocaust. This too is the meaning of the now-arriving Parousia.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Spirit, Holy, Christianity, Holy Spirit, Felix, Bible, Parousia, Wisdom, Like, World, Since, Harpax, After, Buckman, Book, Even, Anyhow, Just, Something, Reality, Luke, Kosmos, Being, Obviously, Philip, Probably, Their, More, Another, Through, Living, Such, Before, True, Other, Were, Many, Wise, Later, Dead, Suddenly, Human, Dream, Right
+
+---
+### Line 2968-2976 (Match: 'Black')
+**Folder**: book was
+
+```text
+226
+-3-
+
+book was released in 74. Put this way, it is easy to see what the dream in the book meant. Also, a person versed in apocalyptic writing would, in reading the dream, know what it meant (by and large). Therefore it is possible that the message (the dream) did reach some kind of audience, which then knew what to expect, or what was already at that time taking place; prediction or analysis, depending on when they read it. It was virtually synchronized, which strikes me as very very meaningful (i.e. that my experience of the theophany took place almost exactly when the book came out -- one month later was all). Also, my personal experience (theophany) did not occur outside a (the) vast historical process; it could not have occured earlier or later, since the whole process of the removal of the tyrant was involved. My theophany had to take place then or (as in the case of other people) not at all. The book somehow got delayed until then, was scheduled them because, although I had finished it, I could not get it to Doubleday any earlier; I was blocked. But then the block went away, and they scheduled it as soon as possible; and so it came out at the same time as the theophany. Put another way, the nature of my theophany confirmed the message (apocalyptic) of the dream/book. It bore it out. After the dream in the book, the tyranny there begins to crumble; the black man has 3 children; it is already another, more just, world. The grief which the general feels at the death in the dream is a repudiation of the injustice of his world, and is connected with the title. "This is wrong; it can't go on or even be." Hence the title. On an emotional level Buckman cannot support even his own individual unjust acts. The society was thrown down in that instant; Jason was cleared and Buckman retired to write his memoirs (like Nixon). Jason's trial could be compared to the Ellsberg trial or any of the others. Things went wrong for the government prosecutors. It should also be said that this might help explain what for me is the most unusual: the material from "Acts" that appears toward the end of "TEARS." The tutelary spirit of 3-74 was already at work. Anyone reading "TEARS" who had enough apocalyptic insight would probably also discern that. By the time they reached the dream they would be aware of it. However, I think that the presence of this material in "TEARS," the "Acts" material, means only that the tutelary spirit was present while I was writing it, and wasn't intended to be there surrounded by the book qua book. It just leaked across. There is little possibility that the spirit was not present, given the "Acts" material in the book; how else could it have gotten there? It looks to me as if a lot of careful dovetailing and preliminary preparation went into this thing, step by step: a lapidary construction so that there was no way it could misfire; a point came where a true determinism had been put into motion.
+
+As it was an invisible tyrannt, like in THE MARBLE CLIFFS, what was needed was to inform people here and there, mysteriously, opening their eyes and causing them to speak out. To call attention to it was to destroy it.
+
+"During part of its cycle Brahmin sleeps; in part it dances. We think it is dancing now, but actually it is asleep, and therefore what we see isn't real." Maybe in 3-74 Brahmin awoke briefly (the theophany). Certainly I did see us within a great living body.
+```
+**Co-occurrences**: Tears, Acts, Spirit, However, Maybe, Like, World, Since, Because, Therefore, Only, Time, Nixon, After, Buckman, Book, Even, Could, Just, Although, Great, Probably, Jason, Part, Their, More, Another, Most, Living, Real, Actually, Certainly, True, Death, Would, Other, Somehow, Very, Have, Things, Body, Later, Government, During, Dream, Until
+
+---
+### Line 3365-3373 (Match: 'Black')
+**Folder**: book when
+
+```text
+Needs Review
+264
+-7-
+
+TEARS this is expressed in the scene at the all-night gas station with the black man; in this world the only moment of that sort I saw was in Senator Weicker’s speech about "enemies are to be loved." But that did take place right after the intervention. It was the initial turn of direction. All this makes the most sense if it is assumed that Nixon’s evil transcended the ordinary, that he, like Hitler, was diabolic: the kingpin of evil. Joel pointed out last night that the U.S. is the pivot point of the world in terms of freedom; if the citadel (Washington DC) falls, the rest of the world will fall automatically, in terms of freedom. As he said, "Will Iceland intervene for us?" This strengthens my case regarding the . intervention, for self-evident reasons; Nixon, at the heart of the citaael, was at least functionally diabolic, if not intentionally so. (Joal, by the way, declared the Xerox letter pro¬ bably a US forgery, when I told him about the two letters; he is probably right; the assistance to me then makes more sense if this is the case. And it fits my two or so dreams later on.)
+
+So I say that TEARS, which was written in 1970, parallels exactly the events of 1974: in depicting the slave state, the reduc¬ tion to total despair followed by abrupt intervention and judgment, the (implied) removal of one man and finally the withering away of the state after the manifestation of love. It is as if the reign of power is followed by the reign of love, the latter entering the world from Heaven, and requiring for its manifestation the removal of one evil man — which is to say Satan at the heart of the citadel.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Tears, Xerox, Satan, Like, World, Fall, Only, Nixon, After, Self, Probably, More, Most, Heaven, Love, Finally, Will, Judgment, Freedom, Later, Evil, Right
+
+---
+### Line 3879-3887 (Match: 'Black')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+11
+11 I may have waked my way toward + to this point through may than this one lifetime. + this whole awakening is intimated tied up with remembering (who I am, where I care from, what I dout do). Remembering that I am Brahman, since originally I was. An interesting conclusion from this is that James-James. creation comes out to be a sort of false, irreal or illusary universe superimposed onto Brahman's manifestations with Brahman like in Ubik breaking through from underneath or behind; perhaps J-J's world is idential to the "wizardng" world of Maya, + perhaps the Roman world c. AD 70 which was revealed is âž€ either what 5-t's world really looks like; or (2) the Roman world is Brahman + its real world; or (3) the Roman world is J-81 actual world, what he has actually constructed + then tried to make Palatable, with the "Palm tree" world the authentic world of Brahman I did have that impression (3, that the black iron Prison world is how this world actually is, in all its evil, but 5-5's keeps it disguised... + I fell the palm tree world to be the Kingdom of God (in this theory, Brahman's world). wizardry-maya. In my dream of 5-I, as I've said to people, he resembled a genius magician doing astonishing I rich, to bedazzle + impress a huge audience In Ubik, as Claudia pointed out, both worlds (32 + 2) are illusory: only runciter + Ubik (+ the characters) are real, + he characters don't know their own actual condition; that they are mutually dreaming the (decaying] world they're in, to be mutually asleep + dream an illuson world: that is ourselves lost in Maya - R. + Ubik are Brahman + its authenti living non-decaying reality breaking through to them th their benefit: as rescuer
+
+Last edit almost 3 years ago by svayambhu108
+12
+Needs Review
+```
+**Co-occurrences**: Ubik, Kingdom, Brahman, Roman, Perhaps, James, Like, World, Since, Iron, Prison, Only, Kingdom of God, Both, Maya, Reality, Runciter, Black Iron Prison, Either, Palm, Their, Through, Living, Real, Actually, Universe, Creation, Have, Tree, Claudia, Evil, Iron Prison, Dream
+
+---
+### Line 3887-3895 (Match: 'Black')
+**Folder**: part of
+
+```text
+Needs Review
+12
+12 The characters in Ubik (+ in maze. Death, + sometimes in Stigmata) are not really here, in this world which itself is an illusion; they are elsewhere + dreaming (or hallucinating) what does this tell us about us? We are "not here really; but "are" really in the pleroma (or anyhow entered this 3-3's (maya) illusory world from there, which we haw forgotter, + our real identity forgotten with it. An exegesis from Ubik (Ubik as model says that not only is the world we see here around us not real but that in sure true sense we ourselves arent here, + the illusory world hides our actual landscape
+
+which is "elsewhere. Meaning unsuspected, different Am I really in Rome C. AD 70? As I saw? At the time of the first Advents of the "wizardry" factor rolled back we'd see black iron doors + walls: a prison. We the prisoner, are dreaming (i.e. being dient, presented with) a better - appearing "Nice" world, which it actually is not (the real worlds for the people in Ubik stigmata + mare were all uniformly awful hence the people were motivated to collectively escape into a dream world - if world we're good (1) we wouldn't be motivated to escape into a collective dream, or (2) James-James wouldn't be motivated to conceal it maybe our collective amnesia is self-generated so that such as I saw. we can escaped from an intelerabler bad world, an Iron Prison the intrusions by R.+ Ubik + the Gnosis given me, are information (wisdom) from the savior deity apprising us of our true situation: "Jump in the urinal + stand on yout head) I am alive, you're all dead." The actual bad, prison world can't be abolished unless we awake to its existence - stop dreaming, ascying of into illusions be awakened (by the Good deity) + fight it, rather than just There is no motive - reason - for anyone to run away from a good world,
+
+Last edit almost 3 years ago by svayambhu108
+13
+Needs Review
+```
+**Co-occurrences**: Ubik, Rome, Maze, Wisdom, Maybe, James, World, Gnosis, Iron, Prison, Only, Time, Stigmata, Savior, Good, Does, Anyhow, Just, Maya, Being, Self, Real, Such, Actually, True, Death, Deity, Were, Back, Information, Unless, Dead, Iron Prison, Dream, Pleroma
+
+---
+### Line 3893-3901 (Match: 'Black')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+13
+Needs Review
+13
+the palm tree world is the real + good world we will be in after the Iron Prison world is destroyed. "To arms? the tutulary spirit was saying - for me to act against this actual black Iron Prison world to over throw it as part of the historic event of grand overthrow: water gate, as predicted by Daniel - the stone uncent. Brahman's real world is the civital see of Augustine, + the intelerable black Iron Prison world is the civity, munde If the Black iron world cant be destroyed, or as long as it still isn't destroyed, our only real refuge is in the Palm tree civitas dee not here: beholder Maya he âž€ reality (bad) âž€ ana oterial patt reality (good) âž€ ther tha or: pate the world here (events) Rising - what we see, mixed sinking /which is mired phenomenal - world we see black iron world) hell (punishment?) e our transmigration through the lives is attempted ascent from the black Iron world; had we been punished + incarcerated? I can assume the black iron realm is real + we are in it; if that wasn't so, thered be nothing for Christ to rescue us from. Intervention by a redeemed wouldn't be needed between us + the Kingdom stones the realm of eve the black Iron prison world. Against its walls knocks the savior from the other side.
+
+Last edit almost 3 years ago by svayambhu108
+14
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Kingdom, Brahman, World, Iron, Prison, Only, After, Savior, Good, Realm, Maya, Reality, Black Iron Prison, Daniel, Augustine, Palm, Nothing, Still, Part, Through, Real, Will, Other, Tree, Iron Prison
+
+---
+### Line 3899-3907 (Match: 'Black')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+14
+Needs Review
+14
+the existence of the Black Iron Prison is a revelation, [not?] visible to the unaided eyes ; But greater than that is the revelation that lying behind a [beymed?] if, Breaking into it. Breaching [it?], lie, God; Kingdom or Brahman, at the deepest level of ([ontological?]) reality. But we do not need to enter the Black Iron Prison to [?] God's Kingdom, we are in it now, & God (Brahman) is nearly reaching to us here in that prism from outside it. We must get out of the prism & enter his Kingdom, But what is first [required?] is to recognize the existence of the Black Inn Kingdom all around us. Evidently this is difficult for people to do. they would rather collute with J-J in the delusional [vil?] of Maya - "this play [was?] nice & I belong here." were we captured & brought here? or did we [rans ness?] & were sent here? I have no knowledge or insight about that. All I do know is that I wasn't always here; originally I lived with my heavenly father, in his mansion, "out there." Maybe, as the [Essones?] teach, we were divine souls who got tangled up with matter (if neoplatmism) & souls down into it, unconscious & forgetful. the solution seems to lie in the act of remembering ; this by itself has high - if not determining - [salvific?] properties. Id say, & we [illegible text?] captured, mere remembering wouldn't free us. But we could have transgressed & been exiled here, & the return of [Kemny?], initiated by God & [restner?] to us through his activity towards us (Grace) could signal that our period of exile here is over. Remembering does not Cause us to return; remembering is a signal that we have served our time & it is now time for us to return. Remembering is the first step in our journey Back; it comes as a reward, perhaps, for something Good that we did even here, without our knowing very much: maybe the men who remember do so after (for what ever reason) finding the [Dhanana in?] way. Revelation does not show us the way; revelation comes because we have already found it & begun in it, maybe by some heroic deed (which could include deeds of self-sacrifice & self-extinction).
+
+Last edit over 4 years ago by dstoerger
+15
+Needs Review
+```
+**Co-occurrences**: Kingdom, Brahman, Perhaps, Father, Maybe, Because, Iron, Prison, Time, After, Good, Even, Could, Does, Something, Maya, Reality, Self, Divine, Black Iron Prison, Without, Grace, Through, Revelation, Would, Were, Very, Back, Have, Journey, Remember, Knowledge, Greater, Iron Prison, Evidently, Free
+
+---
+### Line 3905-3913 (Match: 'Black')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by dstoerger
+15
+Needs Review
+15
+15 t the basic theme in stigmata, Ubik + make - the pleasant llusory skin stretched over a dreadful reality -- stems from my early reaction to the two stories I read, one of the dying fay walk ing around in front of him; the other the hidden underground lity screaming. The cardinal fixes idea of all my writing hastes This plus the theme: I am not (or he is not) what I think (I am) he is - in partic plan my (his) true identity is obscured by fake memories. âž€ Reality is not as it appears to be + (2) I am not who + what I think I am to put them together is to get: both inner + outer reality are not as they appear. The moment I read the two above -mentioned stories I intuitively fell, "this is the way it is: this is so. Already, before I myself ever wrote, I instinctively fell the insight to be correct. So my 3-74 vision of our really being is a black iron prison world, + the nice world we see being an illusion - that vision is tied to my entive intellectual life. Likewise my discovery in 3-74 that I am not who + what I think I am is central to my world-perception, + my corpus of writing an out growth + expresson of it, so for me, in terms of the history of my world-perceptions, the vision of the external black Iron prison + at the sane time an inner transformation of me from my cimited false, ego identity to the immortal visitor (with memories of just having been in the black iron Prison world) is an apotheosis of my own lifelong intimations - + a fruition of theme, turning an intuitive intimation into direct experience + encounter - not to mention a shocking + unexpectal verification of both themes. This for one the vision of the black in prison + the inner meta morphosis + restored memories is the basic fact of 3-74 - not discover but confirmation of what I evidently had known for tears on an unconscious level. It is as if an inconscious personality which always knew all that had at last broken through (in a sort of epiphany) + at last realized itself. The source of my knowledge, because of the stressful situation came forth + revealed its existence In talking to tim I noted that the basic themes in my writing add up to be the secret gnosis virtually entire. If this is the
+
+Last edit almost 3 years ago by svayambhu108
+
+16
+```
+**Co-occurrences**: Tears, Ubik, World, Gnosis, Because, Iron, Prison, Time, Stigmata, Just, Both, Reality, Being, Black Iron Prison, Corpus, Through, Secret, Before, True, Other, Life, Fake, Having, Likewise, Knowledge, Iron Prison, Evidently
+
+---
+### Line 3928-3936 (Match: 'Black')
+**Folder**: book of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+19
+Needs Review
+19
+( So: my enconscious self had put the material into my books (inc. the black iron slave prison of tears, which is the world I saw revealed in 3-74 when the false covering condscape rolled back), knew the material to be true + not fictional, knew the Xerox letter would come + what it signified, + came forth to meet it + deal with it (successfully). The Xerox letter is connected with the material in my books, + the material is true - + not only normally secret but so to speak prohibited (historically). I perceive now the spokesmen of truth coming here, in par ticular Christ, to reveal this the truth at the risk of martyrdom. His secret gospel was passed on to his successors, on doom through the secret real hidden persecuted despised actual Christian church. It was passed on not in writer or oral form but as I received it: theolepsy by Christ of them, during which the entire, vast, secret gnosis was communicated to them. I think it never ended; although few in number (although slaughtered by the Romans wherever found) they did continue on, invisibly, up to today, probably affecting his torical events for the better - as with the Nixon tyranny So a martyred Christion of the Apostolic age was rebom in me not at 3-74 but in 1928 - + this man had had in him the spirit of the master during his own lifetime by theo lepsy - which means he was transformed into a Christ - which is why I felt Christ to be present in 3-74; Christ had assimilated this man to him long ago, into the cosmic corporate body, the Corpus Christi - yes! the Corpus Christ; had been resurrected in one + it passed over from latent (crypte) to active in one + thereby assimilated me, displacing me as ego with it as new self.
+
+Last edit almost 3 years ago by svayambhu108
+20
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Xerox, Form, Roman, World, Gnosis, Iron, Prison, Only, Nixon, Cosmic, Book, Gospel, Christi, Although, Self, Corpus, Probably, Church, Through, Corpus Christi, Real, Secret, True, Would, Back, Body, Truth, Today, During
+
+---
+### Line 3963-3971 (Match: 'Black')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+25
+2 t t if was (for me) as if the Garden (or park - I recall the words "the Buddha is in the park" is this the sane Park? The pastoral Kingdom?) sort of swam into focus. the war we s-f writers describe an alternate world as doing when that track has been tinkered with, maybe in the past; "Jor's world." This world did not become it so much as of it replaced this world: locked in briefly in place of this world, exactly as the Roman one did, except that with the park I did not see it as the way our Earth really is but rather an alternative Earth: instead of what it actually is. t I could be wrong about this, though; both worlds (myster. iously glimpsed as fading alternatively into focus) could be what we s-f writers call "two alternative presents branching off from a critical nexus or previous point in time, + which of them becomes real depends on some act or event back in the past" - as in that Col. moore novelette in astounding about the two alternative futures hinging on which of 2 God's the guy marries in the present. Cone to think of it, the black Iron Roman world + the "Sitting in the sun" palm tree world are almost identical to the two alternative futures in that story conceptually, they are the absolute opposites of each other which is probably why col. moore selected then out of all the possibilities - or: she, like me, was subconsciously prompted Anyhow, these two are absolute epitomes of ( the hell world: âž€ the heaven world. Also, I had the distinct feeling that the Palm tree Garden had won out over the other, perhaps due to the historic intervention. One also could assess the two mysteriously. glimpsed worlds as two opposite mutually contradictory "crypte morphoses" latent in our [present) world: two opposite outcomes hinging on the historical event taking place now (this puts them -maybe correctly so - in the future - but as I say, I had the impresson that the Palm tree one won out (due to the success of the intervention which not only got Nixon out but ended the War). The black iron one was in the process of becoming real
+
+Last edit almost 3 years ago by svayambhu108
+
+26
+```
+**Co-occurrences**: Kingdom, Roman, These, Perhaps, Maybe, Like, World, Iron, Only, Time, Earth, Nixon, Garden, Buddha, Could, Anyhow, Both, Probably, Palm, Heaven, Real, Actually, Other, Back, Tree, Absolute, Instead, Except, Track
+
+---
+### Line 3968-3976 (Match: 'Black')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+26
+26) ontil the intervention. This is why intervention tooh place - to avoid it as the final outcome, + to rearrange a crucial event back in our times that would instead establich the Garden as the end + outcome + goal of the linear becoming process extremely important, ther, is the perception I had of the activity of the Logos working back‐ ward from the end to direct causal events (persuade?) along - not chance lives - but along the one right line at every nexus or junction; this - all which I saw, inc. the historical intervention, would fit perfectly with that: a retroactive mending of the past, which explains my ver first impression: that people from the future were tinking around back here at our time to bring about a better direction of historical events: i.e. time travel (they would be the 3-eyed people + their Bathosphere technology). (Also this would explain why I knew the Xerox letter was coming, down to the very day; the spirit which took me over + controlled me was from the future. This, too, would explain how I got phased ahead in time + started reacting to events slightly before they happened."!! (So herewith we revive the tachyon et al theory.) It is certainly true that I did see the great sentient God - entity traveling backward thro time, + there fore absolutely knowing the future, + certainly it was the decisive force in we determining all outcomes of events; it seemed able to melt into causal chains +, by a sort of trans‐ substantiation become them (as Brahman is said to trans‐ form itself into the universe or take on the appearance of it) So the Black iron Prison was what our world really was, + the palm tree would was what it wasn't but could have been can infinitely more desirable alternative. + by the time "they" were finished, the latter was real + the for mer abolished
+
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+```
+**Co-occurrences**: Spirit, Logos, Xerox, Form, Brahman, World, Iron, Prison, Time, Garden, Could, Black Iron Prison, Great, Palm, Their, More, Real, Certainly, Before, True, Universe, Would, Were, Very, Back, Have, Tree, Instead, Iron Prison, Final, Right
+
+---
+### Line 3974-3982 (Match: 'Black')
+**Folder**: part as
+
+```text
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+27
+( + if this was a reweaving of the present by an entity or entities from the future, the reason I saw the was that Somehow I was involved in the change. Then the personality which took me over did not come from the pass but from the future, + the reason I felt the presence of the past is that our world is the past to him, an archaic world, bleakly tyrannical: as Rome is to us, we (or world is) to him; also maybe to him, to then, our world is viewed as the tail end of the wester Roman empire. Maybe I saw our world as the black Iron prison because that's how he saw it - i.e. one world is his past. So the black man world could be an alternate (bad) forture from which he had just come, + remembered, or it low he his view of our tyranny-dominated world. In both cases the Black Iron world is the is, + the palm tree world is the not real future hoped for + sought for. However, this uncertainly on my part as to whether he remembers the black Iron world from his own time or perceives it as the real nature of our time, is just a paralled versin of the confusion in my "man from the past" schema, in which I am not certain if he remembers Rome c. AD 70 or experiences - reveals - it as being here. In neither case (assum ing either to be true) can I determind which it is. + this confusion is confounded by dies of the ancient world in which There is super-modern technology - e.g. the high-speed up-down transport in the Roman trium, one argument that he came from the future, not the past, was his ability to drid my car. + his knowing the Xerox letter would arrive + when it would arrive the "man from the past" theory ony works when the theological elements (the theophany by God) is added to it, but conversely, the "man from the future" car be made to work in itself without the addition of any divine help or knowledg so the laten is more economical (dechan, razor principle.)
+
+Last edit almost 3 years ago by svayambhu108
+28
+Needs Review
+```
+**Co-occurrences**: Xerox, Rome, Empire, Roman, However, Maybe, World, Because, Iron, Prison, Time, Could, Just, Both, Being, Divine, Black Iron Prison, Either, Palm, Viewed, Without, Part, More, Real, True, Would, Somehow, Tree, Neither, Whether, Iron Prison
+
+---
+### Line 4013-4021 (Match: 'Black')
+**Folder**: part I
+
+```text
+Last edit over 4 years ago by AsaLee
+33
+Needs Review
+33
+33 this is a most attractive theme but also the most disturbing. It certainly seems to fit. It fits everything. I'm a little sorry to say, most of all it certainly would explain Nov 17 '71 - + it certainly would explain 1[circled] such writing as UBIK + Tears + Frolix 8, + 2[circled] My theophany, or rather hierophany, Not theophany[underscored], at 3-74. I mean, if you start[underscored] with this theory, you sure can explain 3-74, Individual + historical. Any entities or group thereof capable of achieving what they did got me in 3-74 + historically would be able easily to dupe someone - a number of someones - IN from Birth on. this fits in with my recent realising that the basic themes in all [underscored] my writing from the start are the "B...[?] elsewhere + avatar in here" idea. Spence Olham came from alpha Centaurus, on a mission of destruction in a way [war?], but didn't remember it until it happened - his memories +[underscored] his identity were unknown to him. He was Disinhibited by a phrase he himself finally said. My true memories remember coming here from "Alpha Centaurus" +, like Olham, it was to half destroy a war effort here. The parallels are extraordinary. Stripped of all incidentals, they are the same story. For instance, if I wrote up my experience in fiction form, it would seem to be an expansion of "impostor". Here is a good way to account for all the knowledge + visions, recorded memories, vast identities + powers [realized?] in 3-74. Of course it is my "unconscious" personality which was formed as ALBEMOTH - not my conscious me, But what at this point am I sure of? Today I see how the BLACK IRON would + the Palm Tree would resemble totally opposite futures (actually opposite worlds, either present or future), the manifesting of the two to visibility suggests that in 3-74 there was a critical juncture in time at which the two Blanched off, + that efforts were being made to insure actualization for the Good one (ie Palm tree).
+
+Last edit 8 months ago by Zebrapedia
+34
+Indexed
+```
+**Co-occurrences**: Tears, Ubik, Indexed, Form, Like, Iron, Time, Good, Zebrapedia, Being, Everything, Himself, Frolix, Either, Palm, Most, Such, Actually, Certainly, True, Finally, Would, Mission, Were, Tree, Remember, Knowledge, Today, Impostor, Someone, Until
+
+---

@@ -1,0 +1,360 @@
+# Evidence Packet: Siddhartha
+
+- **Category**: Top Term
+- **Total Mentions**: 78
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 14107-14115 (Match: 'Siddhartha')
+**Folder**: part I
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 048
+Complete
+folder 02 - 048
+As in my recent dream: in part I of the Great Book, people + events are described, but underneath, Siddhartha sleeps, + now pt II begins + he awakens. This is what I saw in 3-74; he must have somewhat awakened me, which means awakened _in_ me - even _as_ me. The "awakened me" - "awakened _in_ me" perplexity is resolved when it is understood that what happened in 3-74 was that Zebra broke into my _closed_, push-pull, 2-tape-synchronized _simulated_ psyche-world - broke into world "outside" me, + psyche inside me. Reality invaded the dream. At this point I triumphantly again summon my "two source" hologrammatic universe cosmology. II (lower) transmits a totally _static_, rigid, ossified + irreal world or worlds, a simulation. I (upper) consists of a living, sentient plan - or living information - forming a real (in contrast to simulated) brain in the midst of the irreal + static prison. Thus at all time there exists 1) the simulated sameness (form II) 2) the real growth + change (form I) The latter is invading + abolishing the former. It is vital, in understanding all this, to know that the simulated lower realm _does_not_change_. No time has passed in it; it perpetually replicates itself, the BIP, down through history, all newness enters as invading + dismantling form I, which alone is alive + real + growing.
+
+Last edit over 9 years ago by Toso
+folder 02 - 049
+Complete
+```
+**Co-occurrences**: Toso, Zebra, Complete, Form, World, Prison, Time, Folder, Book, Even, Realm, Again, Reality, Toso
+Folder, Great, Brain, Part, Through, Living, Real, Universe, Have, Information, Upper, Lower, Dream
+
+---
+### Line 14121-14129 (Match: 'Siddhartha')
+**Folder**: part two
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 050
+Complete
+folder 02 - 050
+It is plan above all: _arranging_. During the first part (half) of the cycle Siddhartha sleeps - is dormant - + dream or illusion or simulation or form II predominates; but in part two Siddhartha wakes up, + the upper, real realm of sentience predominates. We have reached the end of pt one now.
+
+Part one Part two
+
+Illusion Real Sleep Wakefulness Mechanical Purposeful Blind Sentient Formless (entropic) Beautiful Rule Exception Amoral Moral Sameness Change (growth) Dead Living Declining Negentropic Body Mind Perishing Eternal Monotony Complexity Chaotic Organized Force Love Enslavement Freedom Motionless Dance Noise Signal (information) Silence Song
+```
+**Co-occurrences**: Toso, Complete, Form, Folder, Mind, Realm, Toso
+Folder, Part, Living, Real, Love, Have, Body, Information, Freedom, Upper, Dead, During, Dream
+
+---
+### Line 14144-14152 (Match: 'Siddhartha')
+**Folder**: Part I
+
+```text
+Cold	Warm
+Sad	Happy
+Sinking	Rising
+Passive	Active
+Clock	Pulsation (rhythm)Part I (form II) is laid down first, then form I (part II) combats it from outside + overrules it + its nature - if something that is illusory + merely provisional can be said to have a nature. It is the falsework of the cosmos. Having passed over from the "clock structure" to form I, it (now sentient) loops backward in time + intrudes upon its own antecedent self, cannibalizing it as a stockpile of parts by which to assemble its later (wakeful) self. Thus the dancing Siddhartha awakens the former sleeping Siddhartha: he is his own tutelary spirit from the future.
+Last edit less than 20 seconds ago by Gabriel Mckee
+folder 02 - 052
+Indexed
+folder 02 - 052
+```
+**Co-occurrences**: Indexed, Spirit, Form, Time, Gabriel, Folder, Mckee, Gabriel Mckee, Something, Self, Indexed
+Folder, Part, Upon, Have, Later, Having
+
+---
+### Line 14149-14157 (Match: 'Siddhartha')
+**Folder**: folder 02
+
+```text
+Last edit less than 20 seconds ago by Gabriel Mckee
+folder 02 - 052
+Indexed
+folder 02 - 052
+The logic of this looping-back future tutelary spirit of the awakened Siddhartha to arouse the antecedent dormant - sleeping - Siddhartha points inexorably to me as one of the many Buddhas - for instance, I experienced dibba cakkhu. The tutelary voice which speaks to me is my future ajna self which came into existence in (3-74). (But also, it is timeless, it has always existed.) I must ask if I am supposed to teach, now, but I see at once that I have taught, over a period of 27 years of writing: I have taught the illusion of world (simulated worlds), + the approach of liberation (enlightenment/salvation/gnosis). The ajna self over all that time underwrote the novels + stories operating out of its future time; this explains such "precog" material as I find in "Faith of..." + "Tears" etc. It had looped back, + in 3-74 awakened me, its past self. Then "Thomas" is a future self. But rooted in the absolute time + world of Acts: the master (form I) personality. [Note] What could I write now that I failed to write in "Ubik", "Maze", "Eye" + "Tears"? It - all these writings - are post dibba cakkhu, not pre. Like in existential fascism (Italian) I acted first + then, at my leisure, in this exegesis, now formulate theory - afterward. "In Anfang war die Tat". Too, this shows the retrograde-in-time motion of Zebra. [Note] Thomas speaks for form I as such, since all of form I is a unitary mind; thus he is + is-not me. There is no individual me in form I because the psychoi have all been subsumed as stations in the one vine (brain), + then plural push-pull worlds abolished. He is more not-me than he is me.
+
+In terms of individual push-pull worlds, forms I + II can be contrasted as modes of being, with II an inauthentic mode in which the psyche, itself false, encounters nothing more than an enhanced
+
+Last edit 7 months ago by Zebrapedia
+```
+**Co-occurrences**: Tears, Acts, Ubik, Thomas, Indexed, Spirit, Zebra, Form, Maze, These, Like, World, Since, Gnosis, Because, Time, Gabriel, Folder, Mckee, Gabriel Mckee, Faith, Mind, Could, Zebrapedia, Once, Being, Self, Indexed
+Folder, Nothing, Brain, More, Such, Voice, Back, Many, Have, Absolute, Salvation
+
+---
+### Line 14169-14177 (Match: 'Siddhartha')
+**Folder**: Book of
+
+```text
+IN SUMMARY: The total entity has detected a localized calcification in itself + is melting it by an infusion of flexibility. (Growth or sentience.) [Note] (We know this localized calcification as a clock-like system of simulated push-pull closed worlds deterministically acting out of sub-sentient efficient causality.
+
+[Note] In a sense, the living totality is at war with a section of itself + is invading that section.
+
+(What is pointed to is a crisis in the info traffic processing brain - or Godhead - + the remedy involved, a problem solving _within_ the unitary mind or brain. A section has sunk below the level of consciousness + is asleep. The totality will kick it over into wakefulness (expressed as Siddhartha awaken[...]
+
+Last edit over 9 years ago by carrifaery
+folder 02 - 055
+Complete
+```
+**Co-occurrences**: Complete, Godhead, Like, Folder, Mind, Brain, Living, Will, Info
+
+---
+### Line 14175-14183 (Match: 'Siddhartha')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by carrifaery
+folder 02 - 055
+Complete
+folder 02 - 055
+"Siddhartha" is the sleeping soul sub-section mind of this calcified section. [Note] "St. Sophia" is the soul of the totality: its voice + wisdom. St. Sophia speaks to the sleeping Siddhartha, in order to awaken him + thus lift this calcified section back to growth + flexibility, + of course consciousness. Thus it can be said that at present St. Sophia is outside of (absent from) this section, + will return upon the sleeping Siddhartha's awakening, at which point he will again _know_. (This _section_ will again know.) Since there has never been a period in human history in which this section has not been calcified - asleep - we have no basis by which to imagine the magnitude of the transformation which is coming. "Siddhartha" is merely human, but St. Sophia is equal to the Godhead itself (+ could never be said to be asleep). Enlightenment (e.g. the dibba cakkhu, anamnesis, the ajna chakra etc) is given _to_ Siddhartha _by_ St. Sophia. Siddhartha hears her voice, which is man being called to by God, finally she wakes him. In micro form I experienced this, +, through it, understood the macro situation ("what is below is an analog of what is above" + "tat tvam asi". Some (or much) of the message traffic which I saw might be St. Sophia's calling to "Siddhartha". Disinhibiting stimuli invading our closed simulated clock run push-pull worlds.
+
+[Note] This section died. It became fossilized, + merely repeats itself. This is scary; it is like mental illness. "One day nothing new never entered his mind - + the last thought just recirculated endlessly". Thus death rules here, which explains Paul's "mystery" in 1 Cor. The BIP is the form of this death, its embodiment - of what is wrong, here. To see it is to see the ailment, the complex which warps all other thoughts to it: the imperial levelling
+
+Last edit over 9 years ago by Toso
+```
+**Co-occurrences**: Toso, Complete, Form, Sophia, Paul, Wisdom, Godhead, Like, Since, Folder, Mind, Could, Just, Again, Being, Anamnesis, Nothing, Through, Soul, Voice, Upon, Death, Macro, Finally, Will, Other, Back, Have, Human
+
+---
+### Line 14182-14190 (Match: 'Siddhartha')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+
+folder 02 - 056
+This "Nothing new comes into..." etc might explain the permanent nature of the Acts or Roman (BIP) world. We're stuck, despite the illusion of time + change, + this "mentally ill" idea fits in with my vision of James-James. Also, it fits in with the gnostic notion of Yaltabaoth. Then the "hostile particle" is not from outside the unitary macro entity (how could it be?) but is a subsection that has died, fallen ill, gone mad or levelled - become pathogenic, + so phagocytosis is in progress. The BIP holds imprisoned within it the "forgetful" or "sleeping" Siddhartha, who is the actual soul - _rightful_ruler_ - of this subsection; his lost memories must be restored; he does not know who he is (this equals "being asleep"). Oh wow. + so the lovely AI voice which I heard/hear calls to him, (c.f. my U.K. speech) where ever he is distributed among us, slumbering in unconsciousness within (some of) us [Note]. Seeing the Golden Fish sign + hearing the woman's voice he begins to remember: he was here in 45 AD last, at Pentecost, + then disbursed among us to sleep - as the Essenes depict it: entangled in matter, one falls into unconsciousness + forgetfulness (v. Plato).
+
+[Note] King Happy (Felix): the Happy King. This is the (or a) clue to his whereabouts - one of the avatara. Did it never occur to me that it referred to - identified - me [Note2], + so the disinhibiting sign was sent to awaken me? This is _precisely_ what I must not talk about - I think. The God who was not dead, gone, but sleeping in forgetfulness.
+
+[Note2] Or rather someone thousands of years old asleep in me who expressed his presence by means of me writing + so gave notice to the others, the conscious ones, already awakened. (v. "Ubik" with everyone asleep in cold pac - + roused by Runciter's voice - + Ubik's).
+```
+**Co-occurrences**: Acts, Ubik, Toso, Plato, Gnostic, King, Fish, Felix, Golden, Roman, James, World, Golden Fish, Time, Folder, Could, Does, Being, Runciter, Essene, Nothing, Soul, Voice, Macro, Remember, Dead, Someone, Pentecost
+
+---
+### Line 14217-14225 (Match: 'Siddhartha')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+
+folder 02 - 061
+6) Christ was + is the life of the totality expressed in its true form as sentient information (older term: Wisdom or Logos). His appearance here marked the entry of the anima of the total Noos into this separated-off ossified region. Physically killed here he then disbursed (distributed) himself according to plan as organizing principle (pure knowing) invisibly throughout this region without the hostile particle ("heavy metal speck") being able to trap or contain him: he became a trans-spacial, -temporal, -identity entity discorporate or polycorporate, as the need arose. Through him the _properly_ functioning (living + growing) total brain replicated itself here in micro form (seed-like) thereafter branching out farther + farther like a vine, a viable life form taking up residence within a dead, deranged + rigid one. It is the nature of the rigid region to seek to detect + ensnare him, but his discorporate plasmatic nature insures his escape from the intended emprisoning. Thus he is an elusive wild animal ubiquitous + yet nowhere in this ailing locality - wild not in the sense of feral but in the sense of natural + free: roaming + appearing + disappearing. He manifests himself where least expected: sometimes as information, sometimes incarnated. As information he is as alive as when incarnated. As vox Dei (St.Sophia) he seeks to awaken the unconscious soul of this region, which has sunk into forgetful sleep; we know this entity as Siddhartha, who, when he at last
+
+Last edit over 9 years ago by Toso
+folder 02 - 062
+Complete
+```
+**Co-occurrences**: Christ, Toso, Logos, Complete, Form, Sophia, Wisdom, Like, Noos, Folder, Being, Toso
+Folder, Himself, Without, Brain, Through, Soul, Living, True, Life, Information, Dead, Free
+
+---
+### Line 14223-14231 (Match: 'Siddhartha')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 062
+Complete
+folder 02 - 062
+awakes (is awakened) will assume his rightful rule of this region + restore it + us to conscious functioning. Christ is divine savior (God) + Siddhartha primal man who (in this region) is disjoined from his creator - who searches for him to reawaken him. In a sense Christ (Holy Wisdom) + Siddhartha are brothers. But the one brother (Siddhartha) has forgotten + is unconscious even of himself; the divine syzygy of the isomorphic twins is shattered by this sleep of the one. Thus Christ constantly calls to his human brother, to rouse him to remembrance, of himself + his task. Siddhartha lies underneath the landscape, + Christ roams across (above) the landscape, in ceaseless search. Sometimes Christ as anima (soul) of the totality takes the form of an indescribably beautiful woman, to gain the focus of Siddhartha's attention (but this is a sacred secret not to be told). ("Das ewige Weiblichkeit".) Once entranced by the beautiful woman, Siddhartha will be shown certain signs + hear certain words which will cause his memory - + true identity - to begin to return. Presently he will remember his divine brother the savior + know that the two of them will again be reunited, as they were originally. Meanwhile the deranged usurper demigod Yaltabaoth (the heavy metal speck which poisons + is self-poisoned + hence made insane) raves + rages in his search to find + destroy both brothers, + tyrannize over every life form in this calcified region which has fallen into sub-sentience. He [...]
+
+Last edit over 9 years ago by Toso
+folder 02 - 063
+Complete
+```
+**Co-occurrences**: Christ, Toso, Holy, Complete, Form, Wisdom, Folder, Savior, Holy Wisdom, Even, Once, Again, Both, Self, Divine, Toso
+Folder, Himself, Creator, Soul, Secret, True, Will, Were, Meanwhile, Life, Memory, Remember, Human, Sacred
+
+---
+### Line 14229-14237 (Match: 'Siddhartha')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 063
+Complete
+folder 02 - 063
+the creator, but is only the creator of the disorder (entropy) which obtains locally. He dwells - + to varying degree rules - in each push-pull psyche-world system, so he is in each of us + in the world of each of us; his stridant dinning strives, + serves, to drown out the quiet voice of the savior calling to us; Yaltabaoth is noise overcoming signal - hence he is anti-information (old term: the _Lie_). By his revolting parody of the true God (Noos of the macro brain) Yaltabaoth deliberately seeks to discredit God + abolish or weaken our belief in the actual God, who is loving + kind. The anima of the brain, Christ, has however brought us true knowledge of the real God, + this is contained in the N.T. in contrast to the O.T. 7) Healed by Christ +/or by his transtemporal human agents, our occlusion + debasement gone + Yaltabaoth's power over us temporarily broken, we remember - + recover - our untainted (unpoisoned) primal nature, + awake momentarily as Siddhartha himself. But again we slip back, + will continue to do so until St. Sophia (Christ) _slays_ Yaltabaoth, the poisonous + poisoned heavy metal speck, + liberates us (+ this whole region) forever. We have his/her promise that that day will come: when the vine (the Kingdom) is complete, + the divine warfare [Note] ends in victory.
+
+[Note] Dialectic
+
+Last edit over 9 years ago by Toso
+```
+**Co-occurrences**: Christ, Toso, Complete, Sophia, Kingdom, However, World, Only, Noos, Folder, Savior, Again, Divine, Toso
+Folder, Himself, Brain, Creator, Real, Voice, True, Macro, Will, Back, Have, Information, Remember, Knowledge, Dialectic, Human, Until
+
+---
+### Line 14239-14247 (Match: 'Siddhartha')
+**Folder**: folder 02
+
+```text
+Indexed
+folder 02 - 064
+64.
+
+Then the illusion of space, time, world, causality & individual psyches will be abolished & we as primal man restored will again dwell -- & know we dwell - in the living information / brain of Christ + Noos, where we belong: functioning parts of the whole, thinking as it thinks, living & growing as it lives + grows, + once again experiencing the ecstacy of union with God our macro isomorphic father. These promises have all been made to us, & will be kept. But we do not know when. I speak as a witness who has seen & experienced what it will be like; the savior woke me temporarily, & temporarily I remembered my true identity & task, through the saving Gnosis, but I must be silent, because of the true, secret, transtemporal, early Xtians at work, hidden among us as ordinary humans. I briefly became one of them, Siddhartha himself (the Buddha or Enlightened me), but must never assert nor claim this. The true Buddhas are always silent, those to whom dibba cakkhu has been granted. Yet, buried in my 27 years of writing lies information; in these writings I have told what I know without knowing what I knew. I know now. This is the paradox: when I did not know what I knew (or who & what I am) I could speak, but now I am under the stricture of silence -- because I know.
+
+Last edit over 9 years ago by carrifaery
+folder 02 - 065
+Indexed
+```
+**Co-occurrences**: Christ, Christian, Indexed, These, Father, Like, World, Gnosis, Because, Time, Noos, Folder, Buddha, Savior, Could, Once, Again, Himself, Without, Indexed
+Folder, Brain, Those, Through, Living, Secret, True, Macro, Will, Under, Have, Information
+
+---
+### Line 14266-14274 (Match: 'Siddhartha')
+**Folder**: part one
+
+```text
+Last edit 2 days ago by Gabriel Mckee
+folder 02 - 068
+Complete
+folder 02 - 068
+"astral determinism") at the same instant. This _is_ dibba cakkhu, enlightenment - when I entered the great wasteland, + void + found him, I had attained Nirvana. I knew I would not again be reborn but would return to God upon my death (I heard the magic bells). "The Buddha is in the park" means "the Enlightened one is born" which perhaps referred to _me_. + recently I was shown the Great Book, + it was divided into two parts; in part one, without anyone realizing he is there, Siddhartha sleeps (below); in part two he awakes. I saw that part one had ended, + now part two begins. This, too, may refer to me, + to my enlightenment. + of course I had these dreams of the woman + man with the ajna eye, Shiva's eye of discernment (again, dibba cakkhu). What a moment, when 1) I felt the power (hold) of karma over me break + I was free; 2) Remembered - anamnesis - my early xtian former life as still going on (+ identity), (loss of inner maya) 3) Saw the illusory world - outer maya - dissolve to reveal what I call the information processing brain, + all the message traffic - saw Zebra whom I recognized as immanent (i.e. Brahman); 4) Realized it was also atman in me: heard its voice; 5) Saw the passing away + coming into existence of all things - a 2000 year extended present (dibba cakkhu), my ajna eye opened 6) Knew all things that are + will be.
+
+Last edit over 9 years ago by Toso
+folder 02 - 069
+Indexed
+```
+**Co-occurrences**: Christian, Toso, Indexed, Zebra, Complete, Brahman, These, Perhaps, World, Gabriel, Folder, Mckee, Gabriel Mckee, Buddha, Book, Karma, Again, Shiva, Maya, Atman, Toso
+Folder, Great, Anamnesis, Without, Brain, Still, Part, Voice, Upon, Death, Will, Would, Things, Life, Information, Days, Magic, Free
+
+---
+### Line 14276-14284 (Match: 'Siddhartha')
+**Folder**: part of
+
+```text
+The xerox missive - + my response - involvement in it - with it - was part of my cosmic burden (as shown by dreams of my early childhood + Olive Holt). I had been doomed by karma - antecedent causality - to fall victim to the xerox missive. My self was illusion, so was my world (supra) [Note]. I remembered who I really was + what my task (purpose) was. + I got to see Brahman (in Zebra) + the message traffic replace any + all worlds. I as atman was restored as a bit of Brahman. + I had been _imprisoned_ by karma. It broke - I remember when the "tapes" (inner + outer) got out of synch when my (false, illusory) ego broke down + dissolved. [Note] Model B. Now (model B) I know the truth + have formulated it into a coherent system, which, however, is open-ended. Had I handled the xerox thing under the iron grip of karma my entire remaining life would have been different; a personal alternate future was set up by the removal (breaking) of karma over me + my actions.
+
+Jail Jello Cabrillo (the man) (Alcatraz ave) Code-entrapment
+
+The illusion of _who_ I am, _where_ I am, _when_ I am, _what_ reality consists of - all dissolved + the truth was disclosed - unvelied to me. I was not PKD; I did not live in USA or in 1974, + world itself did not exist, only Zebra - who I have long suspected to be Brahman. Causality was disclosed as merely pretextual, that Brahman (Zebra) alone was the true cause of processes + events, immanent within all. Zebra in macro form outside me, + in micro form inside me: the "AI" voice spoke for both since both were one. "Physical reality is plastic in the face of mind" i.e. Brahman. Well, I finally found someone in history who had my 3-74 experience. But not in the west; it was Siddhartha, the greatest of the Buddhas.
+
+Last edit over 9 years ago by Toso
+folder 02 - 070
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Zebra, Xerox, Form, Brahman, Well, However, World, Since, Fall, Iron, Only, Cosmic, Folder, Mind, Karma, Both, Reality, Atman, Missive, Self, Xerox Missive, Toso
+Folder, Part, Holt, Voice, True, Olive, Olive Holt, Macro, Finally, Would, Were, Under, Have, Life, Remember, Truth, West, Someone
+
+---
+### Line 14289-14297 (Match: 'Siddhartha')
+**Folder**: folder 02
+
+```text
+Last edit 2 days ago by Gabriel Mckee
+
+folder 02 - 071
+What I must avoid in my B model is the tendency to downgrade or ignore the specifics of my prior life as Thomas CAD 45 Rome. In reducing world - all worlds - to simulation (maya) due to selective site-stimulation of the macro brain I conceal from myself the importance of Thomas living at that time + being who + what he is + what he is engaged in doing. I have reason to regard him as a transtemporal constant, which would (if correct) lift him (+ his world, that of Acts) out of the category of illusion, + place it in the absolute, along with the macro brain, Siddhartha, St. Sophia (the Logos) + the Noos of the brain itself (Brahman), as well as the heavy metal particle the BIP + its deranged spirit Yaltabaoth. However, I can't say (as I once said), "it is really CAD 45 Rome the world of Acts + _not_ USA 1974", since I now have the concept of the omnitemporal matrix or receptacle + the push-pull psyche-world closed systems. Again I ponder the syntonic superimposition of the two space-times - more syntonic than our two psychoi. _Aspects_, that is my key term. But aspects of what? If only plural aspects exist, does the plastic matrix, then, have _no_ intrinsic characteristics? Or is Acts (as it would seem in view of the Acts material in "Tears" suggests) a substrate? "Tears" does not just contain Acts material; its world is fashioned out of Acts, as if Acts is the material or substance from which worlds (_all_ worlds?) are made: it is the raw material + its indubitable stamp remains - somewhat latently - crypte morphosis - in the finished product, latent, possible unnoticed, but still very real. The salient thrust of this line of reasoning is that the world called "Acts" is the last moment in
+
+Last edit over 9 years ago by Toso
+folder 02 - 072
+Complete
+```
+**Co-occurrences**: Tears, Acts, Toso, Thomas, Spirit, Logos, Complete, Rome, Sophia, Brahman, Well, However, World, Since, Only, Time, Noos, Gabriel, Folder, Mckee, Gabriel Mckee, Does, Just, Once, Again, Maya, Being, Toso
+Folder, Brain, Still, More, Living, Real, Macro, Would, Very, Have, Life, Absolute, Days
+
+---
+### Line 14309-14317 (Match: 'Siddhartha')
+**Folder**: folder 02
+
+```text
+1 => USA / secular 2 => Acts / religion 3 => Brain / sentience 4 => Zebra plasmatic living info / wisdom 5 => Polychrome geometric ratio 1:.618034 / esthetic form 6 => Aphrodite / beauty + love (soul of the totality) the last level of the is - after this comes 7, the not-is (void) 7 => The void of ecstacy / Non being
+
+Seven layers of reality? These are _external_ realities; in addition there are:
+
+1 => ego 2 => Siddhartha (Thomas) 3 => Christ/St. Sophia (the AI voice calling) (atman)
+
+In the 7 outer stages -sequence each one gives way to the next until the only thing that remains is nothing, the void. But the void is - well, Nirvana is there: ecstacy _+_ union with the not (is-not). Stage 7 is incomparably better than the others; they can be grouped this way:
+
+=> 1 => 2 => 3 => 4 => 5 => 6 => 7
+```
+**Co-occurrences**: Christ, Acts, Thomas, Zebra, Form, Sophia, Well, Wisdom, These, Only, After, Reality, Being, Atman, Nothing, Brain, Soul, Living, Voice, Love, Aphrodite, Info, Until
+
+---
+### Line 14379-14387 (Match: 'Siddhartha')
+**Folder**: part one
+
+```text
+Last edit over 9 years ago by Toso
+
+folder 02 - 081
+from if there is just the sole unitary entity? Was there "a crisis in the Godhead"? Is my yin + yang - two sides of God -view of value? Are we seeing the future cannibalize the past? Interestingly, I know why I remembered, but I don't know why I originally forgot. In part one (of the Book) Siddhartha sleeps. _Why_? Then in part two he wakes up. Are these just facts? First he sleeps (_we_ sleep) - but this implies no fall. No - he maybe had been awake once, + _now_ sleeps. As if a spell had been cast over him. What lulled him to sleep? Our lives are actually a sleep, + our world a dream. But we do + will awake. There must be antithetical forces. Or a cycle: awake, sleep, awake, etc. Oscillation, like day + night. How can we be blighted when we have done nothing? The only doctrine which makes sense is the Buddha; of karma, reincarnation, + maya. I see no other solution, + my 3-74 experience tends to confirm it as so. Esp. over xtian doctrines of "original sin".
+
+Last edit over 9 years ago by Toso
+folder 02 - 082
+Complete
+```
+**Co-occurrences**: Christian, Toso, Complete, These, Godhead, Maybe, Like, World, Fall, Only, Folder, Buddha, Book, Karma, Yang, Just, Once, Maya, Toso
+Folder, Nothing, Part, Actually, Will, Other, Have, Dream
+
+---
+### Line 14711-14719 (Match: 'Siddhartha')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 034
+34
+
+I know now that the brotherhood, which I suspected exists + worked through me, does exist + has been working through. I know they are immortal, transtemporal, + I know why + how, + what they do. But who they currently are I will never know, except that, because of P., I am one (he is one). If indeed they operate out of alternate worlds they may well be able to move retrograde in time, as it seemed to me in 3-74. That ability would allow them to operate into + out of alternate universes. I know they go back directly to Christ, + get their knowledge + powers from him, which no one (e.g. Bob Anton Wilson) seems even remotely to have guessed (nor re their transtemporal immortality + using host persons, etc, to jump back + forth across time). I just realized: they are informed + instructed + coordinated by the macrobrain via its messages -e.g. the bit in "Tears," that was the macrobrain- + it's living info itself! The brotherhood must have the set/ground discrimination, which has to do with an evolved color perception. __ Voice: "The head Apollo is about to return." See previous voice note p 24: "This is the hour you've waited for." Siddhartha is waking up?
+
+Last edit over 5 years ago by Toso
+Folder 03 - 035
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Toso, Indexed, Well, Because, Time, Folder, Even, Does, Just, Toso
+Folder, Apollo, Indexed
+Folder, Their, Through, Living, Ground, Voice, Will, Would, Back, Have, Info, Except, Knowledge, Wilson
+
+---
+### Line 14719-14727 (Match: 'Siddhartha')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 035
+35
+
+It is quite some cosmology which permits the abolition of the phenomenal world of the many, + then encounter with the one, + its traffic of messages: its thinking - + to know we are very literally actually parts of this one. The raft floating toward England - the little boy Philip getting past Scotland Yard - I was just now joking with K.W. about the Apollo sentence, + found myself saying: "A raft pulled by 6 (or 12) sea serpents floating up to England {Note} - Apollo taken off to Whitehall + being interrogated by Scotland Yard, + now there is no England-" + then remembered the dream. It sounds like Orpheus. (Dionysos, too.) Ist die Zeit da? Could the development + publishing widely (retrieval) of my (our) macro-microcosm cosmology be deliberately synchronized (in time) with the long-awaited "return" cited above (i.e. of St Sophia, Buddha-Siddhartha, "the head Apollo")? In other words, my writing is a preparatory step, one among many (e.g. the overthrow of Nixon)?
+
+{Note:} Albion Azoth England Paracelsus Albemuth Azimuth Bismuth White Fish Water (mouth of river or ocean)
+
+Every time I go to sleep now I again see writing. E.g.: "The only living reality we have now is Philip the first." (Like a pope?) This seems to express pessimism, as if the agency, the viaduct, right now is severely limited. To me? A very narrow + small outlet indeed. "Philip the first": perhaps the initial viaduct for the "we" to act through: a meager beginning, but still a beginning. Note
+```
+**Co-occurrences**: Indexed, Sophia, Fish, Dionysos, Perhaps, Like, World, Only, Time, Nixon, Folder, Buddha, St Sophia, Could, Just, Again, Reality, Being, Philip, Apollo, Indexed
+Folder, Still, Paracelsus, Through, Living, Actually, Macro, Other, Very, Many, Have, Dream, Right, White
+
+---
+### Line 14746-14754 (Match: 'Siddhartha')
+**Folder**: Part one
+
+```text
+Complete
+Folder 03 - 038
+38
+
+I have the strong feeling that the savior of us all is about to be smuggled into our midst unnoticed, to mingle with us as an ordinary human, which he is not. But where or when he comes from I do not know. I do know that immortal hidden transtemporal authentic Xtians are the "we" who will do this, but coordinated by the brain, + the living info (messages) of the brain + even by the Noos of the brain - up the hierarchal ladder of levels of reality. "We" may refer to the multipersonal brain; maybe it thinks of itself in the plural form because it is a multiplex system of interconnected (human) stations; or else a secret immortal brotherhood using host humans, + communicating with each other + one another via the message traffic of the brain. I sense that "Albion" or England is the place where they will enter the divine child into our world. Part one of the book -the part in which Siddhartha sleeps- has ended, + we can expect him to awaken. The second half now begins. It is St. Sophia's return: God's wisdom to Earth, born a second time, + this time he or she will be acceptable: will prevail. I am afraid because it is an awesome holy mystery + event, the most important event since the first Advent, abolishing counterfeit time + destroying the prison, freeing us + restoring us to what we once were + are supposed to be. I feel the terrible + vast majesty of the divine close at hand. Tremens factus sum ego et timeo. In die illa, libera me, Domine, qui tollis
+
+Last edit over 7 years ago by Toso
+Folder 03 - 039
+Complete
+```
+**Co-occurrences**: Christian, Toso, Holy, Complete, Form, Sophia, Wisdom, Advent, Maybe, World, Since, Because, Prison, Time, Earth, Noos, Folder, Savior, Book, Even, Once, Reality, Divine, Toso
+Folder, Brain, Part, Another, Most, Living, Secret, Will, Other, Were, Have, Info, Human
+
+---
+### Line 14929-14937 (Match: 'Siddhartha')
+**Folder**: Folder 03
+
+```text
+Folder 03 - 061
+67
+
+This kind of experience + wisdom goes back all the way to Pythagoras, to the Orphics, + to Dionysos himself. It is the great core wisdom of all mankind, including the Dibba Cakkhu enlightenment of Siddhartha the Buddha. I can say I am a Buddhist or even a Buddha, that in Brahmanist terms I have an avatar in me; I am an Orphic, a Neoplatonist, a Christian, a Hermetic - all these statements are true; + also I have to some extent formulated my own system (as Bruno did). I have seen God but it was not God; it was more (+ I have a cybernetics/biological model). I am with Boehme perhaps most of all - + with his teacher, Paracelsus, most of all. + even with Heraclitus in his maxim that "latent form is the master of obvious form" in my inner-outer, upper-lower Christ vs Caesar system, + with Empedocles in his dialectic, + with Xenophanes in his concept of God, or Noos, + esp. with Parmenides in his Forms I + II, of which Form II (lower, outer, obvious) is not really real. Thus, as with the Gnostics, I am acosmic, but with Spinoza in his monism - + a little Taoistic, too. + I know things either not written down or at least not available (esoteric Gnosis: that Christ is with us, + we are him + will return again - + that in the real, latent world it is the space-time of Acts - I know all these things. + I know about the brotherhood's manipulation of history, working
+
+Last edit about 7 years ago by Toso
+Folder 03 - 062
+Indexed
+```
+**Co-occurrences**: Christ, Acts, Christian, Toso, Indexed, Form, Gnostic, Spinoza, Wisdom, Dionysos, These, Perhaps, World, Parmenides, Gnosis, Time, Noos, Folder, Buddha, Pythagoras, Hermetic, Even, Jakob Boehme, Again, Heraclitus, Empedocles, Orphic, Toso
+Folder, Himself, Either, Great, More, Paracelsus, Bruno, Most, Xenophanes, Real, True, Will, Buddhist, Back, Have, Things, Caesar, Dialectic, Upper, Lower
+
+---

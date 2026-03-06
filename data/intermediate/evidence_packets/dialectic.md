@@ -1,0 +1,348 @@
+# Evidence Packet: Dialectic
+
+- **Category**: Top Term
+- **Total Mentions**: 27
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1248-1256 (Match: 'Dialectic')
+**Folder**: part of
+
+```text
+This is 2,000 years before India. "The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator." Also, Ptah did it by speaking the word (the tongue). This anticipates the Logos doctrine. Heart is creative intent; tongue utters or expresses, gives voice to (I'll bet ka and voice and breath are closely identified).
+
+Joseph Campbell flatour says the the Occident believes in a transcendent god (above creation) and the Orient an immanent god who is here now (name your own subtheory). In that case I parted company with everyone in the West except (one) certain Presocratics and (two) Spinoza, who thinks very early Hebrews thought this, whi[ch] is possible but to me not important. The only reconcilitation I can imagine for me vis-a-vis the West would be to think that God had been above (transcendent) but the linkage is now so repaired that He is immediately accessable, which means that the Kingdom is here. (Maybe this is so.) How can I believe He will descend in/on/under a cloud if I know Him to be here, that in fact He never left?
+
+For palintropos h. to exist, time must exist (since it is in oscillation or sequence form). Insofar as this kind of balance (Yang-Yin alternation) is taken as real, time is real, but as soon as palintonos h. is viewed, we are in another world where time is absolutely not real, but for a certainly an illusion. Joseph Campbell, writing about Egypt, says that the great secret of the pharohs was that they were "Master of the Twin Opposed Gods," Horace and Seth, whose strife in the temporal world is absolutely real, but that "The Secret of the Two Partners," "was a reference to the hidden understanding of the two gods, who, though they appear to be implacable enemies, are of one mind behind the scenes...mythologically representing the inevitable dialectic of temporality, where all things appear in pairs, Horus and Seth are forever in confli[e]ct; whereas in the sphere of eternity, beyond the veil of time and space, where there is no duality, they are at one; death and life are at one; all is peace." (p81.) It looks to me as if
+
+Last edit over 5 years ago by Harpax
+88
+Needs Review
+```
+**Co-occurrences**: Logos, Form, Kingdom, Well, Spinoza, Maybe, World, Since, Only, Time, Harpax, Cosmic, Mind, Yang, Hebrew, Great, Gods, Viewed, Creator, Another, Egypt, Real, Voice, Certainly, Secret, Before, Death, Will, Would, Creation, Were, Very, Beyond, Under, Campbell, Things, Life, Body, India, Except, Joseph, West, Whereas, Joseph Campbell
+
+---
+### Line 1475-1483 (Match: 'Dialectic')
+**Folder**: Unknown
+
+```text
+Needs Review
+104
+Either that, or else the Logos, as creator, "set us spinning" and now moves backward in time from the end, arranging the direction so it will end correctly (thus the Logos would be back again, but coming from the completion-end this way, retrograde in time). (Seen as the Holy Spirit as it does that; the Logos split, divided against itself into the two players of the game???
+
+Logos as the dialectic, and as The Secret Partnership.
+
+Logos as the two men working a two-man saw: [i]scillation back and forth -- palintropos harmonie.
+
+. . . I didn't enter the Kingdom of God by moving forward in time; I entered it by remembering (anamnesis). This is very important, this return in order to enter: remembering that I am or was in it already, and so hence must be new. Also, in John (I think 14:25 or 26) Jesus says that the Holy Spirit will cause "them to have remembrance of me and what I have said." The Holy Spirit brings us to Christ and hence to His Kingdom, by uniting us with him, evidently either outside of time, but anyhow remembering him. And our relationship to Him. (The Spirit of Truth discerns the future; the Holy Spirit recalls to us, teaches us, about the past.) My whole view is not that someday we will find the Kingdom but that we had it and lost it; maybe it was overthrown and the Rightful King killed, etc. "The overthrown kingdom, to be restored," as the M[M?]ission people say. That is the message. The King has returned. Once more he is here!
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, King, Maybe, John, Time, Does, Anyhow, Once, Again, Kingdom of God, Either, Anamnesis, Creator, More, Secret, Will, Would, Very, Back, Have, Truth, Evidently
+
+---
+### Line 2799-2807 (Match: 'Dialectic')
+**Folder**: Book of
+
+```text
+Needs Review
+213
+Now, take what Eric was saying about the American Founding Fathers and tneir belief that history exactly repeats itself, and their study of it, esp. of Greece and Rome. Suppose a great 2,000 year cycle has turned so that we are superimposed over the First Century A.D., as I saw (following this idea, Vico-like, about history). Again we are back there, but it is now, too. Rome One and Rome Two superimposed, as in a film montage; but also, the First Advent and the Second, with this time the Christians unseating the Prince of This World (the anti-Christ). So to speak, they, the Christians, learned from history not to repeat their mistake that lead to the cross. The Second Advent could not occur until the great cycle rolled round to a reprise of the First Century A.D., and chat wasn't until the Nixon Administration, with RMN as 666. The Christians mmmm literally couldn't try again until now; there had to be the superimposition, Rome Two. Conditions had to be topologically superimpose-able. They could not defeat the "Great Harlot" (Rome) until Rome literally was restored by the cycle of history. The first time God (Christ) entered history (to use Harnack's phrase) he did nothing to change history or the world system; he just demonstrated His reality, his presence & existence. Then, murdered, he went underground. This second time, He has come as King and has changed history; defeated the anti-Christ who sat in the citadel of power. The key word for what I saw in 3 74 when I literally saw Rome around me was transparencies. Cne over the other, as they congrued. There is just no way to cut it otherwise; at his first advent, Christ did nothing to change man's lot, or history, the course of empires, . their strength, their hold. He was a spectator, powerless. But this time: vide THE BACCHAE. Also vide HAMLET and the strange dallying to seize power, to make his move. Well, the key answer is, The time has to be exactly right. "Remember, Hamlet says, "The times are out of joint." I.e. not right for him to make his move and seize power.) I think for us in 1974 the times ceased to be out of joint and became right, and it happened. Every minority revolutionary knows that, about the exact moment. Eisenhaur knew that about D Day. We may be talking about a relatively weak force! The holy wisdom side or entity has never had much mekkis type power; this made timing super critical. This world is or rather was in the grip of the adversary; it held power. Evil had to centralize and concentrate in a citadel, to be overthrown, at least by such a mild (meek???) force. These are holy men (restored men) with holy powers; they aren't going to take over with tanks and cannon and armies in the physical sense. I could tell back when I knew Kathy and Stephanie that something --a battle-- was shaping up. Vide my "masks off" dream in Vancouver, and also what I wrote in my Vancouver speech. The battle was going on then, in 71.
+
+* * * The manipulation of a single ontological category --time-- mmmm would make possible all the events of the Parousia, and man himself (i.e. Dr. NK) is experimenting with this. Superimpositions, loops, cycles, meldings, montages, etc. Thus the dead return, all is restored, and, of great importance, the battle between the two opposing forces (good and evil or love and hate, whatever) are at last ended, and the opposites reconciled (lion and lamb, etc). The dialectic strife is resolved. This per se would probably abolish time as we comprehend & experience it. For it is this dialectic (cf Empedocles) which probably produces linear time. In Taoism the contending forces (yang and yin) produce all change. If they were to reconcile, or as in Christianity, there is a victory by
+
+Last edit almost 5 years ago by svayambhu108
+214
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Advent, Father, Like, World, Time, Nixon, Holy Wisdom, Good, Yang, Could, Joint, Just, Something, Taoism, Again, Suppose, Reality, Empedocles, Himself, Great, Bacchae, Probably, Nothing, Kathy, Their, Such, Love, Greece, Would, Other, Hamlet, Were, Back, Whatever, Evil, Remember, Cross, Dead, Otherwise, Dream, Lamb, Right, Answer, Until
+
+---
+### Line 2811-2819 (Match: 'Dialectic')
+**Folder**: Book of
+
+```text
+one ever the other (roughly, yang or life or love or attraction over yin or death or coldness or decay). Form One of Parmenides: the dry or fiery principle. What kind of world would we have, then? Quite different. I saw (3 74) the two contending forces. I think a victory was scored by Form One (Christ), but was it the victory, or only one along a developing (evolving) process? (See intro to Slavanic "Secrets of Enoch.") Balance of contending moral forces struck for one day (or 1000 years, after which (sic) time is abolished). Note: balance, not victory by either side: balance. Or: palintonos harmonie.
+
+That there is another (eternal, i.e. outside of time, unchanging) universe (Plato’s real world) I am certain, by experience, but whether its "will" or nature will superimpose on this world eventually, literally enfolding it, I can’t figure out (Augustine versus the literal millenialists). I ask: do we go there (as Augustine figured, to the City of God) or does it finally come here?
+
+••• The obvious has eluded me. The left hemisphere, processessing and experiencing (perceiving) digitally, experiences linear time. The right hemisphere, working on an analog or pattern basis, experiences either another kind of (non-linear) time or else timelessness itself. I somehow (3 74) extinguished the left-hemisphere self-system (ego), and obtained, not bi-lateral hemispheric parity, but first the annihilation of the left-hemisphere self system, but then the coming into full firing (via the w.s. vitamins?) of the right, which many men have sought but few have found (the Mantra must have helped). And thereupon the universe was seen inside out, and time flowed backward! Viewed inside out specially, and flowing backward temporally, entirely new gestalts (patterns or entities or forces) were visible to me, as if one had suspended trying to read Hebrew from left to right and abruptly read it (properly) from right to left, etc. Since left-h. linear time, as is scientifically known, leads toward entropy, then I saw movement toward the formation of growth, or entelechies. Of the assembling of chaotic parts into wholes. Not only that, I saw saw the assembling force (the Logos) and the counter-force as well (unnamed), these two forming, I think, a dialectic of strife as Empedocles expressed; perhaps the Logos was above both (which twe then could be viewed as yang and yin, etc) and made use of their interaction and contention to build with and on and by means of. But this only visible from right-h. apperception of time flowing backward, and the special properties reversed as well. Left-h time apperception sees flow and change, evolution and process, but not the constructs of the process, since the process (which is real) is viewed in the wrong direction, as a decomposing one (like a tape or film run habitually backward). To the left-h, things pop into being in time and then pop out of being, meaninglessly, going nowhere; but to the right-h sense of the process (reversed), assembling, and toward a goal, is clearly visible. The goal is total assembly of everything into a single entity, probably a totally stable (palintonos harmonie) gestalt or kosmos. But the con¬ structs or gestalts being formed — although the entity at work operated in reverse time, those gestalts lay in our linear future. it was "writ¬ ing backward" to arrive at cur terminal end. 5
+
+26 3345 hellane
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Parmenides, Since, Only, Time, After, Gestalt, Yang, Could, Does, Hebrew, Both, Kosmos, Being, Empedocles, Although, Self, Everything, Either, Augustine, Probably, Viewed, Those, Their, Another, Real, Love, Death, Universe, Finally, Will, Would, Other, Somehow, Were, Many, Have, Clearly, Things, Life, Form One, Whether, Right
+
+---
+### Line 3175-3183 (Match: 'Dialectic')
+**Folder**: part was
+
+```text
+That is the end of the fable. As I read it over I think, Could it be, the fear of the Romans I discerned in it, the wariness...could Jesus have been afraid? He did keep running from them, until there was no place left to run. How terrible and how sad, if so; whatever the spirit, whoever the man, he feared and hated the Romans so — it was such a force in him, trying to avoid them. The trauma of the cricifixion still in him? Who has ever thought of that, that after He went through the cricifixion he would be very wary and afraid of them, because of his awful suffering and humiliation — it is almost unbearable to imagine, to think of. But look what they did to him. My god, how He would then have empathized with me as I lay in dread night after night.
+
+I am thinking now about the vision in 2-75 of the land of palm trees where it was warm & peaceful. The palm tree motif shows up three times: (i) In the vision; (ii) coming out of the fish sign; (iii) in the James-James dream, where the Afrika Corps appears as savior carrying the palm tree insignia, and I tell them, "We need medical assistance." It seems to be a person (Christ), a place (the Holy Land) and a condition (salvation). The view of the Holy Land which I saw up in Placentia near the new post office was really the most noble and the most extraordinary thing I saw; that God could take one's perceptions of reality and transform them so that one would see the goal...I am almost tempted to say that He transformed the reality itself, but I think it is technically more accurate to suppose it was a metamorphosis of perception, not reality in itself. I saw it; I smelled the air; I felt it; in all ways I experienced it, totally. The normal reality gave way to an ultimate form lying within or behind it. God uncovered the essence within. It was the last thing of a supernatural order that I saw. It was the final revelation, (in both senses of the word final.)
+
+Plato's Timeus: divine intelligence prevailing (teleologically) over ananke, chance, is exactly the two-player conflict situation that I saw, with the demiurge (steersman) behind intelligence; I first under¬ stood this structure noetically, and then later at the time the infor¬ mation about Chrissy was conveyed to me I experienced the infusion of divine wisdom over chance from an exponential perceptual standpoit — I experienced it actually at work around me, this infusion. Plato uses the term "reason" (versus "necessity"); if I identify his divine reason with St. Sophia, I have bridged across to Christianity. Thus in asking myself what permanently acquired new information I got from the 3-74 experience I can place this high on the scale, this twoparty dialectic which moves the universe of becoming (change) through time. The Christian stamp, which is to say the element of Grace, enters where I saw reason (or Divine Wisdom or Christ) infuse a local section of ananke reality in order to inform & assist one person: me. It does not have a mere abstract, impersonal quality. But what I ex¬ perienced was not just a perception of wisdom at work in and in the world, but also wisdom entered me as a Holy Spirit, bringing this per¬ ception: wisdom within and without. A sanctification & ordination, I think. Wisdom, when she came to me, certainly was not miserly with her secrets.
+
+Last edit almost 5 years ago by svayambhu108
+
+246
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Sophia, Plato, Fish, Roman, Wisdom, James, World, Because, Time, After, Savior, Could, Does, Just, Look, Suppose, Both, Reality, Divine, Palm, Chrissy, Without, Grace, Still, More, Through, Most, Such, Actually, Certainly, Revelation, Universe, Would, Very, Whatever, Under, Have, Tree, Information, Later, Dream, Salvation, Final, Until, Ananke
+
+---
+### Line 3453-3461 (Match: 'Dialectic')
+**Folder**: part of
+
+```text
+Needs Review
+274
+2
+
+"Lambs" are a good symbol because lambs can hear the good shepherd, whereas treasures and pearls and seeds can't; at the very most grain or seeds sprouted can be harvested. They, who are twice born, wind up with him, obviously meaning the Cosmic Christ who I think is closely related to if not identical witn (at least in certain ways) to the Holy Spirit. I say, it is the Holy Spirit having gone through incarnation and being resurrected. * * The manifestation of the Holy Spirit to rescue me (God's Grace) conforms exactly to Plato's concept of Noos "persuading" ananke along the lines of wisdom; i.e. the inter¬ play between efficient causes —which would have led to my doom— and final causes, Holy Wisdom, follow Plato's schema precisely: I felt Wisdom take over control and direction. The dialectic which is described in Timeus. A situation of blind decay was leading into a cul de sac. Yet — I performed the early Xtian sacraments, and experienced the Xtian anamnesis, so it was the Holy Spirit; and I heard the bells. In the parables Jesus taught his disciples how to attain the Kingdom of God; he didn't want outsiders to know. Integral in this is receiving the Holy Spirit — I adjudge this to be the x prime event in it all. So evidently certain things, secret preparatory things, must be done in order that —if I am right— the Holy Spirit will come. I think I am right. This lore, this esoteric knowledge, was passed on by Christian to Christian; through it, spec, the practice of it, their obtained the theolepsy. But the lore was lost, when they were killed by the Romans. Thus people ceased to attain the Kingdom, because, I think, they did not know and perform what was needed. Well, the Holy Spirit came to me, but I think I had to do many things in preparation; I have been certain of it, without relating this to the parables or early Christianity. The votive candle, and I had to be shown the golden fish; there must have been others. The fish, right then and there, caused anamnesis. Doesn't this sound like the Orphic and perhaps other theolepsy mystery religions? I saw Rome and believed in my anamnesis experience before the spirit came; of everything I think the golden-fish-induced anamnesis made the thaiepsy possible. And I think anamnesis wouldn't have occured if I hadn't just been given the sodium penthathol, which probably served to replace some trance¬ like state of the mysteries. Something known to Christianity, a state very altered. There was some ancient equivilent, perhaps even drug induced. It is very significent that someasthing outside of and prior to the theolepsy caused anamnesis, although only for a split second; still it did. * * I just brought something to consciousness about my fear, lasting for a year prior to 74, about Soviet letters. It explains my discomforture about Antibi's "money and film" letter from Austria. I now know consciously what I was expected: a Soviet letter (Soviet in origin) which was a burn or Addressat Unbekannt letter, because of what I'd said to Lem. I was primed for this, due to our quarrel. My assumption was, with each letter, "This is it, what I've been expecting." Neither Party summons/instructions nor US was anticipated. Why did I think this? Well, anyhow I did. Well, I now ask myself, What did I think when I saw the Estonian letter? Did I think that? Yes (which it wasn't) and on the basis of that FALSE assuption about Roogna’s letter I anticipated —correctly]— the Xerox
+
+Last edit almost 5 years ago by svayambhu108
+275
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Xerox, Rome, Christianity, Holy Spirit, Plato, Kingdom, Fish, Well, Golden, Roman, Wisdom, Perhaps, Like, Because, Golden Fish, Only, Noos, Cosmic, Holy Wisdom, Good, Cosmic Christ, Even, Anyhow, Just, Soviet, Something, Kingdom of God, Being, Obviously, Although, Everything, Orphic, Probably, Anamnesis, Without, Grace, Still, Their, Through, Most, Secret, Before, Will, Would, Other, Were, Very, Many, Roogna, Have, Things, Neither, Having, Knowledge, Evidently, Whereas, Doesn, Final, Right, Ananke
+
+---
+### Line 3765-3773 (Match: 'Dialectic')
+**Folder**: Book of
+
+```text
+Needs Review
+308
+-5-
+
+Within the total structure are two opposite motions, which may be the same as the two players which I saw, the total system not moving or gaining-losing or changing, etc. Yes, I think the motions in time in these two directions are indeed the two players, pitted against each other in this twin direction loop assembly (the two rotors). The two opposed systems mutually influence each other beneficially constantly ("The bad refines the good and the good refines the bad," by refines read "improve toward better"). It is a great dialectic (v. Empedocles). There is an energy-accumulating time ana an energy-losing time, but the sum is always the same at any given moment (cross section of both).
+
+* * * Life forms in the reverse strip of the loop bleed across to us, across a barrier into our universe (or section therefore), with ability to inspire us to prophecy because they know our future as their past. They can be of vast assistance to us...viewed by us as gods. In dreams, by telepathy. We could be rapidly approaching the "Time of Reversal." And this Time of Reversal could be the Parousia: when the graves open to issue up their dead...the Hobart Effect, you see. Time reversed. Entropic time turns into accumulative time. No wonder the Parousia are called the Time of Restoration of All Things. I myself already got into enough of that to know it is real. Also, this moment could arrive without warning; no wonder Paul spoke of it as being like the thief in the night. This backtracking, now, in finding the Kingdo or — in individual death, a disollution layer by layer? Like the Bardo Thödol; rewinding...geez. Again I have the "individual versus the collective" problem, as in the coming of the Kingdom. This reversal — maybe it sets in for each of us upon death. In 3 74, then, I penetrated the "mysteries of the grave," die noch keiner kam züruck. Whatever. I went over and then retracked back to here. A parabolic orbit into the beyond: a two way trip. Time, by its ubiquity, becomes a veil. To penetrate the veil is to penetrate time. In UBIK, the desire of Ubik to return is the desire of time to return. At the end of the novel, there is a Great Reversal, a turning insideout...so this is there, too, this element. I'm proud of what is in UBIK; this, too. The portraint incisin on the imam money is from the "other universe," by invisible ghosts: "We are served by organic ghosts," as is said in the novel; this is all there!
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Ubik, Form, Kingdom, Paul, Parousia, These, Maybe, Like, Because, Therefore, Time, Good, Could, Bardo, Again, Both, Being, Empedocles, Great, Gods, Viewed, Without, Their, Real, Upon, Death, Universe, Other, Back, Beyond, Whatever, Have, Things, Life, Cross, Dead
+
+---
+### Line 3796-3804 (Match: 'Dialectic')
+**Folder**: Book of
+
+```text
+- 2 -
+
+Now, take what Eric was saying about the American Founding Fathers and their belief that history exactly repeats itself, and their study of it, esp. of Greece and Rome. Suppose a great 2,000 year cycle has turned so that we are superimposed over the First Century A.D., as I saw (following this idea, Vico-like, about history). Again we are back there, but it is now, too. Rome One and Rome Two superimposed, as in a film montage; but also, the First Advent and the Second, with this time the Christians unseating the Prince of This World (the anti-Christ). So to speak, they, the Christians, learned from history not to repeat their mistake that lead to the cross. The Second Advent could not occur until the great cycle rolled round to a reprise of the First Century A.D., and that wasn't until the Nixon Administration, with RMN as 666. The Christians literally couldn't try again until now; there had to be the superimposition, Rome Two. Conditions had to be topologically superimpose-able. They could not defeat the "Great Harlot" (Rome) until Rome literally was restored by the cycle of history. The first time God (Christ) entered history (to use Harnack's phrase) he did nothing to change history or the world system; he just demonstrated His reality, his presence & existence. Then, murdered, he went underground. This second time, He has come as King and has changed history; defeated the anti-Christ who sat in the citadel of power. The key word for what I saw in 3 74 when I literally saw Rome around me was transparencies. One over the other, as they congrued. There is just no way to cut it otherwise; at his first advent, Christ did nothing to change man's lot, or history, the course of empires, their strength, their hold. He was a spectator, powerless. But this time: vide THE BACCHAE. Also vide HAMLET and the strange dallying to seize power, to make his move. Well, the key answer is, The time has to be exactly right. "Remember, Hamlet says, "The times are out of joint." I.e. not right for him to make his move and seize power.) I think for us in 1974 the times ceased to be out of joint and became right, and it happened. Every minority revolutionary knows that, about the exact moment. Eisenheur knew that about D Day. We may be talking about a relatively weak force 1 The holy wisdom side or entity has never had much mekkis type power; this made timing super critical. This world is or rather was in the grip of the adversary; it held power. Evil had to centralize and concentrate in a citadel, to be overthrown, at least by such a mild (meek???) force. These are holy men (restored men) with holy powers; they aren’t going to take over with tanks and canno and armies in the physical sense. I could tell back when I knew Kathy . and Stephanie that something —a battle— was shaping up. Vide my "masks off" dream in Vancouver, and also what I wrote in my Vancouver speech. The battle was going on then, in 71.
+
+* * * The manipulation of a single ontological category —time— would make possible all the events of the Parousia, and man himself (i.e. Dr. NK) is experimenting with this. Superimpositions, loops, cycles, meldings, montages, etc. Thus the dead return, all is restored, and, of great importance, the battle between the two opposing forces (good and evil or love and hate, whatever) are at last ended, and the oppo¬ sites reconciled (lion and lamb, etc). The dialectic strife is resolved. This per se would probably abolish time as we comprehend & experience it. For it is this dialectic (cf Empedocles) which probably produces linear time. in Taoism the contending forces (yang and yin) produce all change. theY wfii^e to reconcile, or as in Christianity, there is a victory by
+
+Last edit almost 5 years ago by svayambhu108
+312
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Advent, Father, Like, World, Time, Nixon, Holy Wisdom, Good, Yang, Could, Joint, Just, Something, Taoism, Again, Suppose, Reality, Empedocles, Himself, Great, Bacchae, Probably, Nothing, Kathy, Their, Such, Love, Greece, Would, Other, Hamlet, Back, Whatever, Evil, Remember, Cross, Dead, Otherwise, Dream, Lamb, Right, Answer, Until
+
+---
+### Line 3808-3816 (Match: 'Dialectic')
+**Folder**: Book of
+
+```text
+one ever the other (roughly, yang or life or love or attraction over yin or death or coldness or decay). Form One of Parmenides: the dry or fiery principle. What kind of world would we have, then? Quite different. I saw (3 74) the two contending forces. I think a victory was scored by Form One (Christ), but was it the victory, or only one along a developing (evolving) process? (See intro to Slavanic "Secrets of Enoch.") Balance of contending moral forces struck for one day (or 1000 years, after which (sic) time is abolished). Note: balance, not victory by either side: balance. Or: palintonos harmonie.
+
+That there is another (eternal, i.e. outside of time, unchanging) universe (Plato’s real world) I am certain, by experience, but whether its "will" or nature will superimpose on this world eventually, literally enfolding it, I can’t figure out (Augustine versus the literal millenialists). I ask: do we go there (as Augustine figured, to the City of God) or does it finally come here?
+
+••• The obvious has eluded me. The left hemisphere, processessing and experiencing (perceiving) digitally, experiences linear time. The right hemisphere, working on an analog or pattern basis, experiences either another kind of (non-linear) time or else timelessness itself. I somehow (3 74) extinguished the left-hemisphere self-system (ego), and obtained, not bi-lateral hemispheric parity, but first the annihilation of the left-hemisphere self system, but then the coming into full firing (via the w.s. vitamins?) of the right, which many men have sought but few have found (the Mantra must have helped). And thereupon the universe was seen inside out, and time flowed backward! Viewed inside out specially, and flowing backward temporally, entirely new gestalts (patterns or entities or forces) were visible to me, as if one had suspended trying to read Hebrew from left to right and abruptly read it (properly) from right to left, etc. Since left-h. linear time, as is scientifically known, leads toward entropy, then I saw movement toward the formation of growth, or entelechies. Of the assembling of chaotic parts into wholes. Not only that, I saw saw the assembling force (the Logos) and the counter-force as well (unnamed), these two forming, I think, a dialectic of strife as Empedocles expressed; perhaps the Logos was above both (which twe then could be viewed as yang and yin, etc) and made use of their interaction and contention to build with and on and by means of. But this only visible from right-h. apperception of time flowing backward, and the special properties reversed as well. Left-h time apperception sees flow and change, evolution and process, but not the constructs of the process, since the process (which is real) is viewed in the wrong direction, as a decomposing one (like a tape or film run habitually backward). To the left-h, things pop into being in time and then pop out of being, meaninglessly, going nowhere; but to the right-h sense of the process (reversed), assembling, and toward a goal, is clearly visible. The goal is total assembly of everything into a single entity, probably a totally stable (palintonos harmonie) gestalt or kosmos. But the con¬ structs or gestalts being formed — although the entity at work operated in reverse time, those gestalts lay in our linear future. it was "writ¬ ing backward" to arrive at cur terminal end. 5
+
+26 3345 hellane
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Parmenides, Since, Only, Time, After, Gestalt, Yang, Could, Does, Hebrew, Both, Kosmos, Being, Empedocles, Although, Self, Everything, Either, Augustine, Probably, Viewed, Those, Their, Another, Real, Love, Death, Universe, Finally, Will, Would, Other, Somehow, Were, Many, Have, Clearly, Things, Life, Form One, Whether, Right
+
+---
+### Line 4153-4161 (Match: 'Dialectic')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+52
+Needs Review
+52
+2 The Gnostics knew that this world (of lacking interven tion, which is true of the original "track") is absolutes evil + without merit. What merit there is was laid onto the original track perhaps successive layers of reweaving An example is the removal of Nixon, which, as always, goes without recognition. Constant tinkering is necessary; I guess without that it reverts back toward the original track. The Hindus saw the original track but formulated their theo logy before - + in ignorance of - the salvific (for this world) reweaving. It will not be just the final end of creation which will be omega, the Kingdom, but throughout its entire linear-time track length, from start to end. to sum up: God through Christ the Logos (wisdom) is continually improving what was initally a bad world, + we don't really it because as soon as a section is improve our memories conform to the improved versing + via lethe we forget it was any other way. It is a dialectic between him as savior God + the original greator demiurge whose attempt was awful. However, he occasionally permits or causes some people to remember previous, bad conditions + to see reweaving (interventive changes) being made, perhaps in order that the truth not be suppressed aling with the evil. This, the true God, is love + kindness, a gentle gracious deity from whom no death, disease or evil ever comes. Thus our world is (as Augustice saw) a dual composit mixture of what he called "the city of the world," which is 855 original world, + "the city of God, "which are successive layers of his reweaving. Gradually this salvific reweaving dlong the entire linear track is augmenting the good in relation to the evil: the ratio always changes toward great good - at ever time period. This is what I saw (but dis not cinderstand) when I saw the (re) weaver using the huse pile of dissaw puzzle - like pieces where are this world as is to build a structure of his own - a for better, ever perfect one
+
+Last edit almost 3 years ago by svayambhu108
+53
+Needs Review
+```
+**Co-occurrences**: Christ, Logos, Kingdom, Gnostic, However, Wisdom, Perhaps, Like, World, Because, Time, Nixon, Savior, Good, Just, Being, Great, Without, Their, Through, Love, Before, True, Death, Will, Deity, Other, Creation, Back, Evil, Remember, Truth, Final, Track
+
+---
+### Line 4159-4167 (Match: 'Dialectic')
+**Folder**: part way
+
+```text
+Last edit almost 3 years ago by svayambhu108
+53
+Needs Review
+53
+I saw this furiously fast reweaving - + I saw the luminous God-stuff penetrating everything (immanent in it: Brahman); he reweaves J-3's construct from within invisible to us. He is here. He will never desert us or be far off; he has penetrated into the core + heart of J-is creation, +, as Jeramialy says, "it fashioning a new heavers + a new Earth, + the memory of the old things will not enter the mind nor come up into the heart." It is all said in that He contually effaces the pain + grief + troubles, wipes away our tears + It is true that in my case God lifted the veil + showed me 1) The previous, worse track we are already extricate from (+ how buried memorie of it have shaped me + my writing) 2) More intervention at this time to improve this track. 3) The Logos (God) reweaving constantly. 4) The first Advent: the primary intervention, its importance 5) prophecy of the 2nd Advent. 6) visor of the Garden which is the goal of his work 7) vision of the blind genous demiurge who greated the first trank 8) immanent God himself within all creation 10) The dialectic strife between him + the original blind greator 11) The beatific vision: final reunion with him 12) Memory of my coming from him originally 13) restitution of my other personality who lived in the previous track. 84) the voice of St. Sophia, my hearts delight. by showing me the Palm tree world he showed me that the last reweaving is yet to come; we are only part way there at this point. I saw what had been (worse) + what would be (perfect + I witnessed the current reweaving re Nixon, which is not our past but probably is somebody's past (the future from that junction point in time on). why was all this shown to me? Well, the handle is of course my alter ego left over from the previous track, + I know now that he master minded my writing, so had he been effaced there would be no writing, it must (as Father Adams said) be for the writing
+
+Last edit almost 3 years ago by svayambhu108
+54
+Needs Review
+```
+**Co-occurrences**: Tears, Logos, Sophia, Brahman, Well, Advent, Father, World, Only, Time, Earth, Nixon, Garden, Mind, Everything, Himself, Probably, Palm, Part, More, Voice, True, Will, Would, Other, Creation, Have, Tree, Things, Memory, God Himself, Final, Track
+
+---
+### Line 4469-4477 (Match: 'Dialectic')
+**Folder**: part of
+
+```text
+So pragmatically I will regard the, as separate, like Vishu + Shiva but engaged in a secret partnership, as Joseph Campbell describes the Egyptian partnership involving wherever it is + Set. Perhaps above the duality, stands Brahman or some [witness] ubiquity such as Brahman. My experience was of a duality. I have to go on what I experienced, the one to turn to is the savior who arranged + not the creator - rather, the re-creator vs the creator.
+
+After all, the recreator needs the raw materials which the creator provides, so perhaps they both are dual aspects (like yin + yang) rather than entities: the first showing power, the second wisdom - + the two united by a 3rd principle (entity or aspect) characterized by love. (Empedocles showed the binding power of Love)
+
+My experience did not show the power creator (James James) delegating anything to the son-savior [wisdom]: rather it showed them in dialectic contest it also showed the creator blind + losing to wisdom. If Jame-James is the author of everything, wisdom recreates it all not in conjunction with the author but despite him + his objections + intentions (if any of the latter exist). If there is not opposition between them I don't know what else you call it. Only a power higher than both/either could reconcile the dualism into monotheism... or else a secret agreement.
+
+Anyhow, wisdom is winning + will inevitably complete its/his/her final Krasis. There is no way that the blindly striving power can triumph, since the end already existed before the contest began.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Complete, Brahman, Wisdom, Perhaps, James, Like, Since, Only, After, Savior, Yang, Could, Anyhow, Shiva, Both, Empedocles, Everything, Either, Creator, Such, Secret, Love, Before, Will, Egyptian, Campbell, Have, Joseph, Joseph Campbell, Final
+
+---
+### Line 4575-4583 (Match: 'Dialectic')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by mccuelena
+20
+Needs Review
+20
+20 That same purpose necessary is/was serves by this B.I.P. However, I see in the superimposition by invading by Zebra a dialectic opposition to this would, not just improvement.[I]. Functions, my noetic vision shows two game-player as opponments at strife with each other. I think Zebra knows what it knows and when it knows it-and when it doesnt. It never fails, in what is true. To do because it never attempts what it cant do-which certainly doesnt mean it knows it can do everything. it wins but only [trick by trick]; step by step. It is pitted against J-J and they are rather evenly matched. A zero[astrion] dualism (in Gnosticism) seems involved. Since J-J always moves (acts)first he very much resembles the Bad (limited) creator God of Gnosticism, with Zebra the "kind stranger" god who enters in to give assistence to us here. Also the way I learned all this fits with the how learned of the Gnostic revelation. I can readily see a difference between Zebra savior, us and the [revelation] itself to us; it can do the former without doing the latter..but specifically in Gnosticism salvation comes through revelation- that is not only a definition of a fundemental meaning of the term itself, but also the content of my revelation was very much the content. To define Gnosticism is to talk about saving revelation about 1) a B.I.P. [world]; 2) a blind or purposeless evil or [dammed] creation; 3) an external-to-this-world salvitic entity wntering out of kindnessand extending a secret revelation which consists of knowledge about this world not otherwise known. let me outline what was revealed to me not known generally.
+
+1) the world is a Black Iron Prison of determinisn, in which we have the deliberate inspired delusion of individual freedom (free will), whereas in [concealed] fact we are programmed by mercies mecahnical force which use us seamlessly. they control us and cause us to do as they please- we are slaves who work, suffer and die for no good reason; meanwhile we believe there is a point to all this illness and [labor] and misery.
+
+2) the creator of this world doesnt care what happens to us, and kills and maims us recklessly.
+```
+**Co-occurrences**: Acts, Zebra, Gnostic, Gnosticism, However, World, Since, Because, Iron, Prison, Only, Black, Savior, Good, Just, Everything, Black Iron Prison, Without, Creator, Through, Certainly, Secret, Revelation, True, Will, Would, Other, Creation, Very, Meanwhile, Have, Freedom, Evil, Knowledge, Otherwise, Iron Prison, Salvation, Whereas, Free
+
+---
+### Line 4622-4630 (Match: 'Dialectic')
+**Folder**: book and
+
+```text
+Last edit over 3 years ago by etherfire
+24
+Needs Review
+24
+24 I certainly got that, + only Gnosticism + neoplatonism contain that. In fact it was that most of all that I experienced A new schema: the Lord of the universe (Brahman God) saw the crail "dead" (prechanistic) world that YHWH had greated here + sent his son, Zebra, to do battle for us against our own creator + world. That is why although our world has been here much longer, Zebra only appeared C. 600 be + later to heep. The dialectic interaction I saw is Zebra fighting the greator demiurge. But Zebra is not infinite in power or knowledge; he is divine + not God - + K.W. is right; he mimiced being a man while here as Jesus; that's why he was resurrected. Zebra is not just our savior; he is our champion, doing battle on our behalt as advocate champion ("the sign of man) + comforter. The structure is Taoistic: Yang (3-7), yim (Zebra) + Tao (Brahman a God). God's stasis is achieved by the interaction of the 2 adversaries ("the secret partnership it Vishnu + Shiva). But the Gnostics are wrong: no mistake occured. God deliberately get J-J start, since J-) is yang the creat God (fire + ice, maybe), knowing he must after a period of proto creation send the son of man to balance J-5. Thus Christ says, "Before Abraham was, I am." most of what I know came directly by revelation (3-74 on), but I has alread, discerned that the reality of our world was not as it seemed, + that we had blocked of f memories as to our origin + purpose ("Impostor"). However the proof if Zebris success at mimicing is shown by the fact that it wasn't until Ubik that I even guessed his existence it wasn't until tears that I clearly saw the nature of this world (i.e. prison + us as slaves). not only are we prisons here but due to maya (wizardry) we have been deprived of our long term memories + identity.
+
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Ubik, Zebra, Jesus, Gnostic, Brahman, Gnosticism, However, Lord, Plotinus, Maybe, World, Since, Prison, Only, After, Savior, Even, Yang, Just, Shiva, Maya, Reality, Being, Although, Divine, Creator, Most, Certainly, Secret, Before, Revelation, Universe, Creation, Have, Clearly, Later, Knowledge, Dead, Comforter, Impostor, Right, Until
+
+---
+### Line 4686-4694 (Match: 'Dialectic')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+35
+Needs Review
+35
+2 but it also enhances the impression that I now + ther get of (: false memories laid over real ones, on my part, which explains some of my stories + (2) a greater - than -human not be shared with or actual (true) identity which may true of all mankind - which points to an even greater purpose + mission than a merely human one: viz: since Zebra can't err, he must have intended this reversion to actual trans-human trans-time identity from the start; in which case I served as a trap or bait in a trap to ensnare the enemy, the enslavers last night I dreams of a rabbit who had swum too far out into the ocean: "out of his depth," as the dream showed it + whom we were involved in rescuing (by not, interestingly) was that rabbit me - having ventured not only too deep but out of his own environment, but innocently? maybe the N.T. is misunderstood; maybe the 2nd Ad vent + apocalpse is a continual esoteric rescue which has, does + will always happer to the true members of the hurch. His actual servants are always being rescued, but always in an unseen way - for they are to be unseen. A Gnostic interpre tation; the small remnant here in the evil kingdom, or citadel what I can't figure out is, was the intervention aganist his own engramming which is orthodox Christian, but intrinsically unconvincing, or againt another's (J7:) ute. is Zoroashion or Gnostic: intrinsically reasonable, but re quiles the position of 2, not I, deity (well, that fit. with the content of the noetic revelation: the dialectic of near equals, one good. One not.
+
+Last edit almost 3 years ago by svayambhu108
+
+36
+```
+**Co-occurrences**: Christian, Zebra, Kingdom, Gnostic, Well, Maybe, Since, Only, Time, Good, Even, Does, Being, Part, Another, Real, Revelation, True, Will, Deity, Mission, Were, Have, Evil, Having, Greater, Human, Dream
+
+---
+### Line 4947-4955 (Match: 'Dialectic')
+**Folder**: part anyhow
+
+```text
+Last edit over 4 years ago by carolinerose
+18
+Needs Review
+18
+8 for example, in my case a very old personality was originally, in his lifetime 1800 years age, strongly engram mad on the fish sign as a Christian sign. The intervention by Zebra may have world by overriding my working script (which was inadequate to aid me idealing with the Xerox letter) by prefiguring the fish sign to me sever times during my life (with the pretly naked gued bosom I'd of course take interest in) so that, when the pharmacy get lave to th door one script was overwhelmed by another, better one not normally close enough to the surface to work. The gene pool may be the blind harsh genous James-James. He readily consigns individuals to death as he does the male saimon after he spawns upstream. Zebra, not prior to the present in linear time but mosing orthogonally or retrograde + out side us, may seek to offer "medical assistance" to the "stragglers of the flock" in whole 3-3 has no interest. What we are seeing is another vitalistic force in dialectic counterpoint to the gene pool as efficient cause. The efficient-cause gene pool is in itself inadequate to develope us forward; alone, it is not enough, being a blind striving. A sentient, premediated assistance is necessenry as well. J-J will in his blind Zeal drive them (us) over the cliff: NoÃ¶s (Zebra) must arrange what the gene pool greates to perpetuate itself so that there is not the pointless suffering inflicted - but also for another reason: Noos (Logos, Zebra) has a plan; it is assembling an ediface out of everything J-3 produces it is interesting that in overriding my script (if indeed he so did, rather than merely heightening it) Zebra selected an ancient Christian personality out of all those possible - interesting since I identify Zebra with the Logos (Holy wisdom(Christ). Are These buried ancient Christian personalities slumbering + being selectively reawakened on cue for the last battle (times)? This white DNA script/memory business is more a how (what happened in 3-74) that a purposeful why
+
+Last edit almost 3 years ago by svayambhu108
+19
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Holy, Zebra, Logos, Xerox, Fish, Well, Wisdom, These, James, World, Since, Time, After, Noos, Holy Wisdom, Does, Being, Everything, Those, More, Another, Death, Will, Very, Have, Life, Memory, During, White
+
+---
+### Line 5040-5048 (Match: 'Dialectic')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+32
+Needs Review
+32
+29 Thus I say now, upon reading head, if God intervened to save line it was purely for - in live with - gistorical volves (perhaps tears had some historical purpose). I my "wiggens" + "wallst journal" letters, + what I due re Lem etal. But if saved it was me same as an integer of - in - history, + my historic identity + pepose (obviobly as one of writer) This is why beefhibeehive + fidelio have figure so prominently in my exegesis. My tax act was not so much antiwar or political but Pat of the sat of growing beethover type freed which Hegel saw as developing evolution steps in history. Lide me entire lancouversheece, to, as well as teaks I saw the Hegelian dialectic, even but the continual promotion of humor freedom us the black Iron Prison - this promotion, as so well understood i German Romanticism (e.g. Goetle, schiller, beethoven, evolves the higher + higher individual who decides for him self; which is to say, he is more rational, less tradi - timalistic - he has more internalized moral values, et, + listens more to the inward light (voice), + knows on his own what is right (vs the law). He is in a direct relationship with God. History is creating him. Beethover was the Paradigm (cf the EB), the individual as genius (Ubermensch) producing that which is now, I never satisfied with older formulation. The consummation of the spiritual in philosophy, theology + art. (Hegel), moving toward absolute states of being with God (such as 3-74). My failure to understand why me" re 3-74 was my not seeing my self as politically active creative (now forms artist, ala Beethoven. The direct antecedent to 3-74 was my reading + responding to schiller. My fight against both the us + struct authoriter has to do with myself as artist.
+
+Last edit almost 3 years ago by svayambhu108
+33
+Needs Review
+```
+**Co-occurrences**: Tears, Form, Well, Perhaps, Iron, Prison, Black, Light, Even, Both, Being, Hegel, Self, Black Iron Prison, Beethoven, More, Such, Voice, Upon, Hegelian, Have, Absolute, German, Freedom, Iron Prison, Right
+
+---
+### Line 5129-5137 (Match: 'Dialectic')
+**Folder**: part of
+
+```text
+Last edit less than 10 seconds ago by Gabriel Mckee
+47
+Needs Review
+47
+( Again what I saw (i.e. was revealed) agrees with Hegel, + also I saw this progression happening by the very same dialectic process Hegel posits Ath: the final state (supra) would be tat tvam ast realizing the identity of Atman within + Brahman with out I have a strong feeling that the Spirit active in history is the same one that was (+ maybe still is) active in biological evolution. In a very literal sense, evolution has passed ove from the area of biological evolution to the evolution of man within his social context - i.e. human history. (This theory isn't original with me.) Human morphology stays the same but new + different kind of men arise over the milennia of human history. In having seen Zebra I was given a chance to see the teleological entity which directed the evolution up from the uncellilar organism of pre cambrian times to the human of the mustarian age. I have a feeling that a new type equal to the magnitude + importance + novelty of the protestant is right now beginning (cf my vancouver speech). He will be much more inner directed, not susceptible to contral + manipula tion by ideology, official doctrine + view, rhetoric or slogans, etc. just as in the protestant the "inward light" enabled protestants to sense moral right, perhaps now the "inward light" will give each man an inner self-determined intuition as to what is factually true, versus what is false, under these circumstances, not only is the pope, bishop + priest not necessary, but even the last inter mediary between man + God, the sacred texts of the Bible. The Holy Spirit which dictated the Bible will speak directly, inwardly to men. Perhaps even an actual verbal colloquy between ordin just speculating. ary individual (man) men + God will take place. But I am viewed this way, my 3-74 experience was possibly a "mutant like" leap forward : opening the unused eye or some such thing. What I experienced in 3-74 was sentient teleological historic + biological pressine to change (forward). Eventually I fell back, but not until the historic pressure, experienced as absolute necessity + my role in I had passed (with evident successe).
+
+Last edit almost 3 years ago by svayambhu108
+48
+Needs Review
+```
+**Co-occurrences**: Spirit, Holy, Zebra, Holy Spirit, Brahman, Bible, These, Perhaps, Maybe, Like, Only, Gabriel, Mckee, Gabriel Mckee, Light, Even, Just, Again, Hegel, Atman, Self, Viewed, Still, More, Such, True, Will, Would, Very, Back, Under, Have, Absolute, Having, Human, Final, Right, Until, Sacred
+
+---
+### Line 5135-5143 (Match: 'Dialectic')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+48
+Needs Review
+48
+( If indeed the entity I saw (Zebra) has previously been respon sible for the biological evolution of life, + now operates on the historical area, then it can be said to be our creator to have made us, + to still be (re) making us. Perhaps the competition between organisms + species which I have never been able to accept as good is an example of the dialectic interaction which Hegel "the good refines saw in history - thesis + antithesis. The bad, + the bad the good." (cf Empedocles: stride us love). But to see how there was, on me, acted an urgency such as has pressed all life forward from cambrian times a perhaps the condition I was in (in 3-74) is more important than the actual content of any act I performed while in that conditon - it was what I knew, as well as what I did - what I did grew out of what I knew, + what I knew grew out of what I had become. The 3 (what I did, knew, had become, + by "knew" also read "perceived) can't be separateed; they blend into one another. I had to become what I became to know + perceive what I knew + perceived + all these were necessary for me to do what I did, which was the final step : it completed the event/process. This is a wholly different way of looking at it, rather than the purely religious - There is a religious element in it (Zebra, + the awe I felt in perceiving Zebra). But great natural, biological processes are stressed too. This is how life advances. The underpining was divine, but many mundane processes were also involved - only the cause, so to speak, was divine, not the events themselves. Viewed This way (more inclusively) I see that I experienced a greater piece of how the universe works + what it is than I have up to now, limited to a purely religious explanation, realized. 1) how biological evolution works 2) how history works 3) The goal of history 4) how God acts 5) What God is like 6) What in human terms God wishes to achieve ) The organic living nature of the universe
+
+Last edit almost 3 years ago by svayambhu108
+49
+Needs Review
+```
+**Co-occurrences**: Acts, Zebra, Well, These, Perhaps, Like, Only, Good, Empedocles, Hegel, Divine, Great, Viewed, Creator, Still, More, Another, Living, Such, Love, Universe, Were, Many, Have, Life, Greater, Human, Final
+
+---
+### Line 5141-5149 (Match: 'Dialectic')
+**Folder**: part to
+
+```text
+Last edit almost 3 years ago by svayambhu108
+49
+Needs Review
+49
+(8 one question arises, now that I have stopped limiting my inquing into purely theological areas. Does the evolutionary process seize on you + use you + then simply discard you (i.e. the "gene pool" or whatever)? I mean, is the individual sacrificed in this dialectic process (or game board war)? This question always arises when the "life force" as shaw called it comes under scruting (cf James stephens' poem "nature"). I am sure that in my case at least I can show that the "life force" (Zebra outside me + in me) acted for - among other reasons such as biological-evolutionary + historical - evolutionary - to save me as an individual. In fact, it seems evident, + a very inportant point, that my evolutionary leap forward up to a new level of being hence knowing + perceiving hence doing was a response on my part to danger (or at the very least distress + threat) + that what was set offin me (however done, by whatever mechanics achieved) was a superior defense system of which I had previously been unaware. It is like a bird that had never used its wings until one day its nest caught fire. This is a view in which my biological evolutionary achievement is stressed, + external aid is ignored; it views it as intrinsic mechanisms + does not focus on the divine entity (God) who supplied me with that mechanism - in this view I am taking all the credit, as if the bird imagined that by some daring ingenuity he grew the wings. But the wings were given him, + not only that, also the stimulation (suggestion, etc) of how to use them. "You have this mechanism it is now urgently needed, + here is how you use it - here is what Ht's for - here is what you do with it" - so speaks the voice of God. Not only did he originally equip me with this escape (defensive) mechanism, but when the time came to use it he 1) told me it was time; he disinhibited the untried mechanism; 2) he also told me exactly how to exercise this hither to unsuspected mechanism (faculty): 3) He saw to it that it worked successfully (or that I worked it successfully.
+
+Last edit almost 3 years ago by svayambhu108
+50
+Needs Review
+```
+**Co-occurrences**: Zebra, However, James, Like, Only, Time, Does, Being, Divine, Part, Such, Voice, Other, Were, Very, Whatever, Under, Have, Life, Until
+
+---

@@ -1,0 +1,354 @@
+# Evidence Packet: Genesis
+
+- **Category**: Top Term
+- **Total Mentions**: 24
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 2101-2109 (Match: 'Genesis')
+**Folder**: part of
+
+```text
+Needs Review
+155
+individual level, invisible to others. Also, there were calamities and afflictions against society, regarded by others as naturally caused where I think He assailed the establishment with them, as he had done with the Egyptians long ago. This is not the end of the world, though, not the end-time. The events in Egypt at Moses' time were not end-time either; his experience shows that God can converse, there can be an epiphany and assistance, even plagues, but this still isn't end-time. I don't know what to make of it, since what I saw did deal with all society, maybe even the world but is not the Parousia evidently; this isn't predicted?? They were waiting (the Apostles) for Christ to return. This was not that, not at all. As I said in previous pages, though, perhaps the Kingdom which Christ spoke of did come for me ("It, the Kingdom of God, is within you"). In my case I think the specific nature of my situation resembled that of the Israelites, in that I was about to fall into a kind of slavery, a sort of entrapment by God is the best explanation. It was not that I was in trouble, but also the kind of trouble -- why I was in it, who was doing it and why, what it consisted of. However: my limited experience, unshared by others, shows that God can breach time and does do so; the Parousia could take place where he to will for all men what I individually experienced. It is only a q. of degree. Of extensiveness. I received, in my behalf, a demonstration of His power, and also a revelation of His activity in the world, which we can't normally see.
+
+The destroying angel plague in "Exodus" shows that God is perfectly able to deal out death, when necessary, to break a slave state and free the innocent victims. This is precisely what TEARS is about; it is a slave state, and God (the wise old king on horseback) deals out --stipulates-- death; after that, the iron ring is broken and life (identified by Felix, the ukase from God given in "Genesis") returns. My whole structure, due to learning about the origins of the pass over, is immesurably strengthened, and my conviction grows! Rome, Babylon, Egypt: conditions of captivity (jeez: I even have the pornochord [?] item, "Go down, Moses," an actual although unintentionally meaningful --like all the Biblical items in TEARS-- in TEARS. Embarrasing, but in a way interesting; I hope I'm forgiven.) I find that "Go down, Moses, means for Moses to leave the desert and go down into Egypt to free his people. Well, the world of TEARS is Rome, is our world; and the first paradigm we find in the Bible is Egypt, plus the paradigm as to how God goes about freeing a captive people when their enslaving rulers won't be fair. The destroying angel comes at the end of the sequence of God-directed assaults (plagues) on the enslaving rulers. God would/did not use the ultimate weapon, the destroying angel, until the milder, lesser plagues failed; I can therefore assume that in August 1974 when I perceived the presence of the destroying angel that lesser plagues which I hadn't seen (but I had, supra omnia) had assailed the enslaving rulers of our society. I can retroactively validate, then, that my intuitions that God was pulling down the enslavers (I had that right from the start, from 3 74 on) were indeed correct. Also, that as late as August 1974 victory over oppression was not sufficient.
+
+Last edit over 5 years ago by Harpax
+
+156
+```
+**Co-occurrences**: Christ, Tears, Rome, Kingdom, King, Felix, Well, Bible, Parousia, However, Perhaps, Maybe, Like, World, Since, Fall, Therefore, Iron, Only, Time, Harpax, After, Even, Could, Does, Kingdom of God, Although, Moses, Either, Still, Their, Egypt, Babylon, Revelation, Death, Will, Would, Angel, Were, Biblical, Have, Life, Wise, Evidently, Free, Right, Until, August
+
+---
+### Line 2260-2268 (Match: 'Genesis')
+**Folder**: BOOK OF
+
+```text
+Last edit over 5 years ago by Harpax
+169
+Needs Review
+169
+I note that Jung says that the AMORC rose represents Dionysos. Since it is placed on the cross, where the Savior was, I assume that if Jung is correct then the rose placed dead-center on the cross is a symbol telling us that our Savior is Dionysos, or, conversely, that Dionysos died on the cross for us, in which case he is our Savior, both of which come out the same extraordinary thing. Also, I had begun to have dreams/visions suggesting Dionysos or at least Zagreus was in fact Jesus, was in fact our dying and then reborn God whom we worship; this is another basic secret disclosed to me. Then, too, the EB speaks of Dionysos as the "god of fruitfulness," which is "felix" once more, and related to Genesis: "Go forth and be fruitful." He is a harvest or grain god. The furrow is the grave; also it is the sexual act -- the phallus is buried in the ditch, and then later there is a harvest. A mystery is revealed here, enacted at Eleuysius. But the experience of the god --being possess-- that is the communion experience, the central matter, as shown in the BACCHAE. The world has never been ready for the god of fruitfulness, which seems twisted. Is life such a frightening thing? In Rollo May's terms, he is Eros versus Thanatos. Who is for thanatos and not for eros? Many people -- the state, to name one. The state crushes life. (Vide the BACCHAE, in which King Pentheus, sorrow, wishes to destroy the stranger, who brings life. It is an archetypal story, with life always winning eventually, having a wild and unpredictable power. The state always goes on formula. It builds prisons and winds up in them, victim of its own slogans. As in EYE IN THE SKY, the slogans fall on those who use (which is misuse) them. The key quality of our god is spontaneity. You can never tell what he is going to say or do next, or even where he will next appear, or most extraordinary of all, what he will look like. Perhaps the next person you meet will be him.
+
+. . . The Meister Eckehart says is absolutely crucial to me, to the highest extent, because: (1) from the beginning I have felt that my 3 74 experience was possession of me by god; (2) that Christianity was involved; (3) which means that Christianity secretly has had to do, always, with being possessed by god, like other mystery religions (which is what Ted Sturgeon says in his novel about Venus). It is all tied together by what Meister Eckehart says about God being born is your soul which is the actual Kingdom of God. Everything else is secondary to this, and probably subsidiary, such as the anamnesis, etc. Eckehart confirms this.
+
+. . . The Eb's article on "Monotheism" says: "Monotheism presumes two entities: God and the universe. But God's relationship to the universe is not merely that of prime mover. He still approaches it, and the manifestations of his continual activity toward it are expressed in history," I am paraphrasing; I guess it means in historical events and certain trends or directions which the flow of history takes. It doesn't have to be all history, but (1) He does manifest himself to us still and (2) we find that in what we call "history" and (3) certain historical events can be said to be manifestations of God or from God. This does not mean that we can discern which events are from him, or which trends, but if the premises are true, then they do exist. I now recall my vivid discernment in 3 74, when I saw not only Rome around me but the brisk rushing of the Christian underground as they arranged certain things to happen, specifically the fall of the tyranny. I must have seen exactly what
+```
+**Co-occurrences**: Christian, Jesus, Rome, Christianity, Kingdom, King, Felix, Dionysos, Perhaps, Like, World, Since, Fall, Because, Only, Harpax, Savior, Even, Does, Look, Once, Kingdom of God, Both, Zagreus, Being, Everything, Himself, Bacchae, Probably, Anamnesis, Those, Still, More, Jung, Another, Soul, Most, Such, Secret, True, Universe, Will, Other, Many, Have, Things, Life, Eckehart, Pentheus, Later, Having, Sturgeon, Cross, Dead, Doesn
+
+---
+### Line 2732-2740 (Match: 'Genesis')
+**Folder**: book in
+
+```text
+1
+
+In all the months since my 3/74 experience I have still been unable to say "where" the Kingdom of God (which I found myself in) came from; "where" it is now (immanent or transcendent, etc, but I am certain of one thing: how I got there; viz.: I truly ran out of time; that is, I accelerated in time until I passed (evidently) out of linear time in some fashion, which is to say, the Kingdom of God lies ahead of us in time; we are moving toward it. I arrived there in 3/74, ahead of everyone else, for some reason; but this is in accord with Scripture; the Kingdom lies at the end of time: it is the goal, the outcome, when this system ends. All this also suggests that rather than time moving us along (qv the Britannica macro on Time, we move through it. (As we move through space.) It suggests individual prewound clocks, too. The synchronization of the koinos kosmos. Time is not a general stream but a rate at which we individually progress. I progressed suddenly to the end and out beyond. But then, after one year, fell back to the standard agreed-on race. Time (i.e. when) not where is the key to it all; that is in answer to the question, "Where is the Kingdom of God?" to which Jesus gave various cryptic replies. "He ran out of time the way a driver driving too fast runs out of road."
+
+The answer, therefore, to the question, "Where did it come from?" would seem to be, "From the future." Which tends to place the experience in the category of the visionary (apocalyptic). A preview of what is to come (perhaps for the world itself). For me, one kind of time fulfilled itself, with judgement and all passed (the open books, my name written in one of them, the Day of Wrath, etc.) and finally the beatific vision. But it ended (3/75) with a herald angel announcement of the approaching divine birth, thus indicating the chosen (i.e. God chose me, I didn't do it myself) aspect of the entire experience. Also it must be kept-in mind that apocalyptic material had, outside my volition or knowledge, appeared in my wriing (e.g.TEARS). (Esp. the crypteform word "Felix," referring back to God's'original mandate/convenant to man in Genesis. "Go forth ana multiply and be prosperous." Are sucn crypteforms Gnostic?
+
+It has been said that (as in PALMER ELDRITCH) I am a precog, in which case the 3/74 experience is the ultimate precog experience, with me standing, at that point in time, with part of me extended ahead to the ultimate conclusion of things. The "where," then, is here; it is a transformation of, not another place (an afterlife in heaven, the next sphere, etc.). But it hasn't happened yet. Thus the millenialists are correct (e.g. the Witnesses). I didn't have to die and go to an afterlife (Heaven). The very trash of the alley of this world was transformed — in the twinkling of an eye. This refers us back to the question raised in the EB macro article on time: do events pop into being suddenly, as they enter the present, or are they already there "somewhere"? (The Mindkowski block universe.) (But tne magnitude of the parousia might give a spurious sense of its proximity. Any hint would appear vast and hence close at hand.) (The dream in TEARS is of course the primary statement of the Parousia: God breaking through, with his troops/host into history.)
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Tears, Jesus, Kingdom, Gnostic, Felix, Parousia, Perhaps, World, Since, Therefore, Time, After, Mind, Book, Kingdom of God, Kosmos, Being, Eldritch, Divine, Palmer, Palmer Eldritch, Still, Part, Another, Through, Heaven, Macro, Universe, Finally, Would, Angel, Very, Back, Beyond, Have, Things, Knowledge, Suddenly, Dream, Evidently, Answer, Until
+
+---
+### Line 2791-2799 (Match: 'Genesis')
+**Folder**: Book of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+212
+Needs Review
+212
+The dream in TEARS contains the ostensible command, "Die," but under the steganographic covering is the Logos-word "Felix," which means precisely the opposite; it is embedded secretly in the surface picture of damnation. Thus, those not equipped by the Holy Spirit receive a "die" message; the ethers, a "live and prosper and be fruitful and multiply and be joyous and healthy," message, which was God's first command to man. This embedded Logos-word "Felix" absolutely identifies the white-haired old king on horseback as God. There is a exoteric message (die) and an esoteric (live); here, perhaps, the goats-sheep division mentioned by Jesus. This happens to be the entire issue at Judgment Day: death to the evil ones; life to the flock of Christ. Am I to presume that there in fact exists on Earth actual persons who, via the Holy Spirit, receive the "live" message coveredover in this section, and if this is so, there must be countless other written materials presented which carry to them a covered-over message, similar to this at least in method of presentation, that is, steganographic material for them alone, quite possibly absolutely opposite to the exoteric material. Then there must be, logically, a remnant or minority of God here capable of so reading, because it is not reasonable for the Logos to put forth this covered-over esoteric message if no living man can perceive it (i.e. uncover it and blur out the surface "die" message which is directed at the others, the evil ones). I can reach no other conclusion, and this relates back to the girl with the golden fish necklace and my later sense of a small body of secret (sic!) Christians at work. Is there indeed an active secret authentic Christian underground? When I saw all this in TEARS I hadn't read the ICC literature telling about steganographia yet. I must never allow myself to wonder at the real meaning of the dream in TEARS per se, because the real meaning is not in the dream (although there is some kind of meaning to it; it refers to something actual) but in the embedded single Logos-word, "Felix." It points to the Biblical nature of the dream (i.e. from the Book of Daniel and of Revelation). I just read somewhere that all apocalyptic literature (of which only 2 books are retained in the Bible, of many) tell of Christ returning as a king on horseback with other horsemen, other Christian soldiers. I wrote an apocalyptic piece, with the essential covered-over message associated with apocalyptic writing. What is the message in toto? Just a repeat of the first command from God in Genesis? No, because this isn't God, this is Christ returned, the Second Coming. "Felix" versus "die" just points more clearly to the judgment, the separating of men into two groups, associate with, and essential to, the apocalypse. Well, if this be so, thend if DEUS IRAE comes out next, which it may, the message Is continued! It may have begun back in UBIK, then MAZE, FROLIX 8, TEARS and next DEUS IRAE. It is even possible that SCANNER carries some of it, for instance all that about St. Paul; seeing by reflection; why, the title itself, and how it is expressed in the final version, in the text itself! Even COUNTER-CLOCK WORLD could be included...a continual stream of messages, all to point out the approach of the Parousia, which evidently I see more and more clearly. And have seen, in book after book.
+
+Last edit almost 5 years ago by svayambhu108
+213
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Clearly, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Final, White
+
+---
+### Line 3787-3795 (Match: 'Genesis')
+**Folder**: Book of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+310
+Needs Review
+310
+The dream in TEARS contains the ostensible command, "Die," but under the steganographic covering is the Logos-word "Felix," which means precisely the opposite; it is embedded secretly in the surface picture of damnation. Thus, those not equipped by the Holy Spirit receive a "die" message; the others, a "live and prosper and be fruit¬ ful and multiply and be joyous and healthy," message, which was God’s first command to man. This embedded Logos-word "Felix" absolutely identifies the white-haired old king on horseback as God. There is a exoteric message (die) and an esoteric (live); here, perhaps, the goats-sheep division mentioned by Jesus. This happens to be the entire issue at Judgment Day: death to the evil ones; life to the flock of Christ. Am I to presume that there in fact exists on Earth actual persons who, via the Holy Spirit, receive the "live" message coveredover in this section, and if this is so, there must be countless other written materials presented which carry to them a covered-over message, similar to this at least in method of presentation, that is, stegano¬ graphic material for them alone, quite possibly absolutely opposite to the exoteric material. Then there must be, logically, a remnant or minority of God here capable of so reading, because it is not reasonable for the Logos to put forth this covered-over esoteric message if no living man can perceive it (i.e. uncover it and blur out the surface "die" message which is directed at the others, the evil ones). I can reach no other conclusion, and this relates back to the girl with the golden fish necklace and my later sense of a small body of secret (sic!) Christians at work. Is there indeed an active secret authentic Christian underground? When I saw all this in TEARS I hadn't read the ICC literature telling about steganographia yet. I must never allow myself to wonder at the real meaning of the dream in TEARS per se, because the real meaning is not in the dream (although there is some kind of meaning to it; it refers to something actual) but in the embedded single Logos-word, "Felix." It points to the Biblical nature of the dream (i.e. from the Book of Daniel and of Revelation). I just read somewhere that all apocalyptic literature (of which only 2 books are retained in the Bible, of many) tell of Christ returning as a king on horseback with other horsemen, other Christian soldiers. I wrote an apocalyptic piece, with the essential covered-over message associated with apocalyptic writing. What is the message in toto? Just a repeat of the first command from God in Genesis? No, because this isn't God, this is Christ returned, the Second Coming. "Felix" versus "die" just points more clearly to the judgment, the separating of men into two groups, associated with, and essential to, the apocalypse. Well, if this be so, then if DEUS IRAE comes out next, which it may, the message is continued! It may have begun back in UBIK, then MAZE, FROLIX 8, TEARS and next DEUS IRAE. It is even possible that SCANNER carries some of it, for instance all that about St. Paul; seeing by reflection; why, the title itself, and how it is expressed in the final version, in the text itself! Even COUNTER-CLOCK WORLD could be included...a continual stream of messages, all to point out the approach of the Parousia, which evidently I see more and more clearly. And have seen, in book after book.
+
+Last edit almost 5 years ago by svayambhu108
+
+311
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Clearly, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Final, White
+
+---
+### Line 5765-5773 (Match: 'Genesis')
+**Folder**: book was
+
+```text
+Last edit over 5 years ago by Toso
+
+1
+Im not emphasizing the real vocal. My primordial (original) facultus was restored, & I could [once again) see God, as is described in Genesis: when man walked and talked with God. I could hear him, too. Isnt this the most important aspect of the 3-74 transformation? (God, which is to say Zebra, transubstantiation within the-our-world.) I've realized this from the start, but not the magnitude of it. Also, it does fit in with what said about our primordial, original ancestors. In me & with me, that state (as well as the place) was restored, although temporary - I simply dont seem to have realized the significance of this (seeing him, ie Zebra). Mostly I concentrated on seeing him being proof of his existance, but if you postulate his existance, then seeing him ascends in importance, to the level of of being indication of restoration of our original start, which, from reading Calvin, I had conjectured was the case with me in 3-74; this new grasp of the meaning of what I saw seems to confirm it. The palm tree garden is the original garden; is this the same as the kingdom of God? If Milton is right in "Paradise Lost" & "P. Regained" this is exactly what Christ intended to achieve! It (if Calvin) can all be boiled down to a lost [higher] state restored, by the lifting of the curse - or occlusion ... was it a punishment? Yes. I must have served my sentence, over 1000's of years - worked my way back. The cardinal asked if the blindness (visual) is to no longer be about to see God. Hence the cardinal sign of restoration is to see him (once more). & to remember the Lost State.
+
+Last edit over 4 years ago by AirCon21
+2
+Needs Review
+```
+**Co-occurrences**: Christ, Toso, Zebra, Kingdom, Well, World, Garden, Could, Does, Once, Again, Kingdom of God, Being, Although, Palm, More, Most, Real, Calvin, Back, Have, Tree, Remember, Paradise, Right
+
+---
+### Line 6192-6200 (Match: 'Genesis')
+**Folder**: part but
+
+```text
+Very boot-lickers and assistants he had [appointed?] to [higher?] office, and the [cries?] of the people for justice did not reach his ears. Having exterminated through [treachery?] and deception the Jedi Knights, guardians of Justice in the galaxy - etc. "But a small number of systems rebelled at these new outrageous. declaring themselves opposed to the new order they began the Great Battle to return the Old Republic. From the beginning, they were vastly outnumbered
+
+Plot: data showing the loophole weakness of the Empire's Death Star is encoding in a small 'droid to be conveyed to the last remaining half-legendary Jedi Knight, Ben Kenobi *by the princess* This secret knowledge does finally cause the destruction of the Imperial Death Star, but not the death of the Jedi Knight turned evil Darth Vadar who was once Ben Kenobi's pupil and who wears a "hideous mask."
+
+Analysis: The "Old Republic" was man's original natural good state. Darth Vader is Lucifer who fell and took the "Garden Kingdom" with him. Rome is a [printout?] of this; so was the USA with the '60s and '70s, with Nixon the greedy fallen one (Germany under Hitler was another). It is a timeless archetypal situation. The Jedi Knights are angels - guardians - of justice. Ben Kenobi is the sole remaining one. He is the savior [Christian?] terms, Christ, who [whom?] killed is not killed but "grows strength" and returns in a ubiquitous invisible way. Giving counsel which results in victory by the outnumbered rebels through secret cryptic-[gnostic?]) Information/knowledge. The force is - the force, which we might anthropologically call God "but can't be analyzed understood." The purpose of the Jedi Knights is to [preserve?] justice throughout the whole galaxy. They both use the force (for this) and are used by it. Ben Kenobi dies and returns and via him the [Genesis?]
+
+Last edit over 4 years ago by Kfischer
+5
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Rome, Kingdom, Gnostic, Empire, These, Nixon, Garden, Savior, Good, Does, Once, Both, Great, Another, Star, Through, Secret, Death, Finally, Were, Very, Under, Justice, Information, Evil, Having, Knowledge
+
+---
+### Line 7919-7927 (Match: 'Genesis')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+80
+Needs Review
+80
+83 I have reached a dead-end in my exegesis - which by its very nature will not + cannot be surmounted It has to do with the fall, + resulting loss of Memory (+ complete loss of some faculties + a degrading of others (cf calvin]]. The cause of this fall is occluded off by its very nature. It is as if crucial memory tapes (as in "Maze") got erased; once erased, by the defi‐ notion of the problem, their contents can neither be retrieved Nou reconstructed. during my period of anamnesis I remembered back thousands of years - I even remembered coming here to This planet from the stars. But I don't know what caused the Fall - the amnesia + blighting of the pristine nature. I have no insight, no understanding, no clue te All right; we humans are fragments of the very God head that we seek to rejoin. (Salvidor Salvendus.) Did we blight ourselves intentionally? Or is it a punish‐ or a cruetly inflicted on vs ment, as genesis says? to (i.e. on the Godhead, by an adversary)? Did we want come here, or were we exiled here? the The vine (Christ) which was pruned (by God) + severed cuttings placed in a world where God is the Deus absconditus - to judge each of vs individually, to see which of us find a world lacking God to be suffin clent - + which of us, without intellectual ideation, Grieve the for that loss + miss our father + home, + yearn with greatest pain possible to return This is all I know; as KW. says the trail doesn't just peter out; it ends at a brick wall. The elegesis is a failure in terms of answering questions; foreach ansuer derived an even greater mystery is exposed.
+
+Last edit almost 3 years ago by svayambhu108
+
+81
+```
+**Co-occurrences**: Christ, Complete, Maze, Godhead, Father, World, Fall, Even, Just, Once, Deus, Anamnesis, Without, Their, Will, Calvin, Judge, Were, Very, Back, Have, Memory, Neither, Dead, Greater, During, Doesn, Right
+
+---
+### Line 8492-8500 (Match: 'Genesis')
+**Folder**: part of
+
+```text
+2
+
+What to me is most interesting is that this sheds a lot of Light on the enigmatic term or entity "Logos" or "the word" + wisdom of God. Only with the other universe is conceived as Xenophanes (eg Anaxagoras) conceived it as [???] does "word" makes sense as an entity which is not only wisdome itself but is a [???] + could incarnate itself here (in human form). Since the Real universe is mind (electromagenetic flux) it does not [merely] think but is [(lsse??0] thouth or word [word wisdom. Thoughts are ontologically real and not much [???] [u]descriptions] of [nature] reality. They are the [final?] order of reality
+
+Words, bursting through the material world, are in fact the real universe [(???)] penetrating a mere holographic projection. Without the understanding + awareness of the real (ultimate) reality being one of mind, the concept "the word" makes no sense since, as Xenophanes saw, the [???] [weild?] the world by its thinking, the word-wisdom is not a mere aspect of the ultimate, the [urgund???]. But its activity per se; hence in Genesis, when God says "let there be light," there is light; he creates by saying (thinking.) (Cf Bishop Bekeley.)
+
+Also, Xenophanes realized that noos? never moved about. The Tesla Grid would be ubiquitious, too, an analog of the actual Logos in sense, then, using Biblical [????}, the Soviets' tesla mind-control (informing) Grid would be an anti-christ, mimicking the Logos itself
+
+Last edit over 4 years ago by CPsycho
+```
+**Co-occurrences**: Christ, Logos, Form, Wisdom, World, Since, Only, Noos, Mind, Light, Could, Does, Soviet, Reality, Being, Without, Through, Most, Xenophanes, Real, Flux, Universe, Would, Other, Biblical, Human, Final
+
+---
+### Line 12918-12926 (Match: 'Genesis')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+109
+Needs Review
+109
+os Genesis (in which Adam is said to caused the Fall by disobedience - i.e. sin was already writter in a fallen world hence warped -occluded; i.e. wrong. faller (i.e. occluded) men write the so despite its divine inspiration, muc it is warped, like all else in form garbled by the BIPs "noise"). As with Plato's realm of forms. I was supposed to imprint on = : but the lower realm fell away The fall of our realm out of the ple 1) deprived our realm of reality, + 2) points to crisis in the Godhead (Bohme?). Man did no into a lower realm; the realm itself fell. (Altho it may have been the lowest level of the pleroma the first place). relationship par The instability of the = the way for a decomposition in very nature of the structure. This risk was incurred voluntarily wit complete knowledge of what would happen: the yin (Form II) so to speak escaped, + became its own cen was let go, to be reannexed, at a later time. it the moth descending. Noos, if Plato was righ depends on "persuasion" + so allowed it to go. we lost our memories/identities... we lost the Godhe only on its initiative could reannexation occur But the notion of "Adam's fall" ushers i the lie of the BIP warpage. The tale is deliberate yarbled to indite us. There is a purpose in i e
+
+Last edit almost 3 years ago by svayambhu108
+110
+Needs Review
+```
+**Co-occurrences**: Complete, Form, Plato, Godhead, Like, World, Fall, Only, Time, Noos, Could, Jakob Boehme, Adam, Realm, Reality, Divine, Would, Very, Have, Later, Knowledge, Lower, Pleroma
+
+---
+### Line 16422-16430 (Match: 'Genesis')
+**Folder**: Book of
+
+```text
+Indexed
+folder 20 - 012
+11
+
+The info traffic, + Zebra, the macrobrain. + finally the abyss. There is great ambiance to sound. It's like distant bells. In the Book of Adam + Eve, as in Genesis, it is said that God Himself (1) occluded us; + (2) exiled us from the Garden to the prison as punishment for our transgressions. He did it to us + now he undoes it. We are deformed + in exile, cut off from him. But he took me back, through Christ (perhaps as Advocate; viz: "if anyman have sinned, he has an advocate with the Father."). God has dispatched a savior to restore [me]. Is this a selective salvation ("my sheep know my voice.")? It is not based on merit, perhaps, but is predestined (which Will Durant calls "that awful doctrine" - of Augustine's). But it must be so, it can't be based on merit; all of Paul's writing makes this clear. Merit is just another name for fulfilling the [law]. We can't earn our way back. The decision is [...] + the basis is impossible for us to know; that is a fact. There are no known criteria. There is absolutely no evidence that any given act or group of acts leads to it, so pragmatically, effectively, it is predestination de facto. If we can't know what will do it we can't be sure that anything will do it; anyway, if we don't know, it's the same thing. The initiative is God's. There probably is a pattern, a logic; it probably is not capricious - a whim. I know that in 3-74 some kind of "Karmic" determinism over me was broken. That was the power of our enslavement. Salvation = freedom, which I now construe as the burden of punishment: the exile + deformity. The narrowing of the Cave of Treasures. Release from the "inner-outer tape" that I discerned which the system locks us into. Then is is the normal system: the way it works. The way it's supposed to work. There may be no dualistic religion here. Just a hierarchy of levels. We were reduced by the same power that extricates us.
+
+Last edit almost 8 years ago by Toso
+folder 20 - 013
+Complete
+```
+**Co-occurrences**: Christ, Acts, Toso, Indexed, Zebra, Complete, Paul, Perhaps, Father, Like, Prison, Folder, Garden, Savior, Book, Just, Adam, Toso
+Folder, Himself, Great, Augustine, Probably, Indexed
+Folder, Another, Through, Voice, Finally, Will, Were, Back, Have, Freedom, Info, God Himself, Karmic, Salvation, Durant
+
+---
+### Line 16581-16589 (Match: 'Genesis')
+**Folder**: Book of
+
+```text
+28
+
+I have evidence of the reminder-clues; this evidence serves then as evidence of a voluntary coming here, + a foreknowledge of the problems involved, the possibility of getting stuck + needing an automatic way back out. I reason back from the clues to the original situation: inductive reasoning but still convincing to me. Had it been an accidental or involuntary "intellectual error" would those reminder-clues have been set up beforehand? ___
+
+The belief that we are pluriforms of God voluntarily descended to this prison world, voluntarily losing our memory, identity + supernatural powers (faculties), all of which can be regained through anamnesis (or, sometimes, the mystical conjunction) is one of the most radical religious views known in the west. But it is known. It is regarded as the Great Blasphemy: replication of the original sin mentioned in "the First Book of Adam + Eve" + in Genesis. For this pride + aspiration (we are told by orthodoxy) our original fall + exile + punishment, our being taken from our home the Gardenland + put into the prison, was inflicted on us. "They wish to be equal to -like- us," the Elohim say, + toss us down. Yet I have reason to believe that this, "the Great Satanic Blasphemy," is true. First, we are here voluntarily. We did not fall + we were not punished; we elected to descend. Why? To infuse the divine into the lowest strata of creation in order to halt its decomposing + the sinking of its lower realm. This points to a primordial crisis in creation, in the total macro-
+
+Last edit over 8 years ago by Toso
+folder 20 - 030
+Complete
+```
+**Co-occurrences**: Toso, Complete, Like, World, Fall, Prison, Folder, Book, Adam, Realm, Being, Divine, Toso
+Folder, Great, Anamnesis, Those, Still, Through, Most, True, Macro, Would, Creation, Were, Back, Have, Memory, West, Lower
+
+---
+### Line 17736-17744 (Match: 'Genesis')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 107
+105
+
+this planet. The time is close, but it won't be by rocket ship. This is not the mode of travel by a plasmate, + it is plasmates that emerge out of this crossbonding procedure. I think that the separate pluriform plasmates link to Zebra (I know they do) + Zebra is (I intuit) still directly linked to the "upper realm," be that Sirius or whatever; i.e. to its source. So homo to plasmate to macrobrain (Christ) to Noos - God, the ground of being. We humans are brought into these successive levels of interaction, + lose the separation from God depicted in Genesis! I.e. the fall of our ancestors down to this "low" world. This is, after all, the goal of our evolution, + it is a quantum leap - the quantum leap, the real one prefigured over millions of years of evolution. I, for instance, would not have survived 1974 had I not been a homoplasmate, had I not had the beside-helper to take over, + I could not have written what I (or rather we) wrote. I fully accept + rejoice in the fact that I was modulated as a carrier, a booster, of information. I know about the Empire, + I know "the Empire never ended." There is an antagonist ("Yurugu"), + he is being defeated, from which we benefit, from which we are saved. But this is heavy. This is not something to plaudern about. I have solved (with the beside-helper's authority) or deconstructed the situation which peaked in 3-74. But which began decades before. Many times I've felt I'd reached the end of this exegesis. Maybe now I have. It is an ending of solemn moment. What now, human? Little man, what now? To the stars! Ad astra. Sed non per hominum.
+
+Last edit over 8 years ago by Toso
+folder 21 - 108
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Zebra, Empire, These, Maybe, World, Fall, Time, After, Noos, Folder, Could, Something, Realm, Being, Toso
+Folder, Indexed
+Folder, Still, Ground, Real, Before, Would, Whatever, Many, Have, Information, Upper, Human
+
+---
+### Line 30421-30429 (Match: 'Genesis')
+**Folder**: folder 82
+
+```text
+Last edit about 9 years ago by Toso
+folder 82 - 020
+Indexed
+folder 82 - 020
+tittle of it is to damage your sanity. This is not true of Jesus' system. This is why Paul rightly views Jesus' teachings as the spirit, and the Law as the letter. He has it right. He fully understands the difference between the Law and Christian teachings. Paul is a reasonable man. For example, it is not cruelty that causes him to taunt the Jews for caring about oxen; he is saying that the Law is mindless in its distinctions between obsessive ritual and pure substance. It is the Law because it was revealed. What we have here are the characteristics of a mechanical or slave entity, something below the threshold of consciousness. Paul as a Jew knew this very well. His analysis of the Law is flawless, and also blasphemy. We should take the latter into account in appraising him and what he says. Speaking as Paul spoke eventually cost him his life, and it cost the lives of many other people. Jesus foresaw this, and his own payment as well. Therefore no one can say that Jesus preached and Paul followed for practical reasons. They were pitted against Mt. Sinai, which represents absolute divine power, and against the Roman Empire, which is the embodiment of worldly, secular power. Thus Paul could speak of Christianity as a kind of foolishness greater in worth than the highest wisdom of men. --- Out of ignorance I have made a basic error; I assumed that Judaism (although it did not know of original Sin) believed in the Fall; I thought this because Genesis seems very clear on this matter: Adam sins, and man is expelled from the Garden of Eden. Scripture seems clear to me on this point: we were supposed to dwell in Eden
+
+Last edit about 9 years ago by Toso
+
+folder 82 - 021
+```
+**Co-occurrences**: Christian, Toso, Indexed, Spirit, Jesus, Christianity, Paul, Well, Empire, Roman, Wisdom, Fall, Because, Therefore, Folder, Garden, Judaism, Could, Something, Adam, Although, Divine, Toso
+Folder, Indexed
+Folder, Jews, True, Other, Were, Very, Many, Have, Eden, Life, Absolute, Greater, Right
+
+---
+### Line 30428-30436 (Match: 'Genesis')
+**Folder**: folder 82
+
+```text
+folder 82 - 021
+-18-
+
+but we disobeyed God and we were expelled into misery, and we still are expelled; Eden is guarded by cherubim with flaming swords (i.e. by angry angels). I never doubted that the story of the Fall could be explicitly seen in Genesis, but Judaism does not see it. Well, are we in the Garden? No. Were we supposed to be originally? Yes; that was the plan. Did we disobey and were expelled? Scripture clearly says so. I don't see how Judaism can read Genesis any other way. "The Fall" means (1) Rebelling; and (2) Expulsion from Eden. These are not implicit in Genesis; they are explicit. Another matter: the Tree of (eternal) Life, the eating of the fruit of which would make man like "us," like the Elohim. This is precisely the fruit that Jesus offers us. So even if you discard the notion of expulsion from Eden and the possibility of return, through Christ, you have this forbidden tree the fruit of which Christ now offers you ("Your ancestors ate manna in the wilderness and they are all dead. But I offer you the bread of eternal life which is my body; I am that bread," etc). Okay. I will reject the notion of original sin and the Fall; that man now is Fallen; I will go along with Judaism because I have always balked at the notion of original sin and I can see that the notion of original sin cannot be separated from the notion of the Fall, i.e. fallen man. But there is still the Tree of Life which was denied us and which Christ (I am told by the Al voice) stole. Stole to give to us; he got it through --smuggled it past-- the angels guarding Eden. In fact he restores us to Eden. Eden as place. And I will assume that the paranormal faculties conferred on me in 3-74 or disinhibited were not restored but were adventitious (contrary to
+
+Last edit about 9 years ago by Toso
+folder 82 - 022
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Jesus, Well, These, Like, Fall, Because, Folder, Garden, Even, Judaism, Okay, Could, Does, Toso
+Folder, Still, Another, Through, Voice, Will, Would, Other, Were, Have, Eden, Tree, Clearly, Life, Body, Dead
+
+---
+### Line 30444-30452 (Match: 'Genesis')
+**Folder**: part of
+
+```text
+-20-
+
+Then Judaism is even more occluded than Christianity, because by denying or ignoring the Fall Judaism has not realization that man has lost some of his faculties entirely and has had others occluded (impaired). The punishment by YHWH is totally successful, and part of the saving gnosis is contained in the Christian doctrine of the Fall because it permits us to comprehend that we are impaired -- deprived of some of our original faculties. So already, by believing in the Fall, Christianity has rolled back the cloud of enforced ignorance which the demiurge covered us with.
+
+We fell, and the idea is to regain what we lost (1) in the way of faculties; and (2) return to Eden. "The Golden Age of humanity is not in the past but in the future," Rabbi Herz writes in his notes on Genesis. Well, and (3): the fruit of the Tree of (eternal) Life, which Christ specifically offers us.
+
+Then I can see the conventional or orthodox Christianity in itself contains much of the saving gnosis, irrespective of Gnosticism. We fell; we lost Eden; we lost our faculties; Christ restores us (as Milton says; the doctrine of the Second Adam who undoes the work of the first). Judaism knows absolutely nothing of this, of the events (loss of faculties) and aim (restoration). So of course, the revelation at Mt. Sinai is considered adequate. And of course in Christianity it is not, and Christ must tell us, "But I say unto you --" etc, and then so does. If you study Judaism and contrast it to Christianity you can see, for the first time, that Christianity is Faustian, that its real but covert message is, "We were once as gods or as God, and Christ shall restore us," ideas totally absent in Judaism, as is also absent the concept that the
+
+Last edit over 7 years ago by Toso
+```
+**Co-occurrences**: Christ, Christian, Toso, Christianity, Well, Gnosticism, Golden, Gnosis, Fall, Because, Time, Even, Judaism, Does, Once, Adam, Gods, Nothing, Part, More, Real, Revelation, Faustian, Were, Back, Eden, Tree, Life
+
+---
+### Line 31689-31697 (Match: 'Genesis')
+**Folder**: part of
+
+```text
+Needs Review
+24
+-17-
+
+significance. It means that part of the divine machinery, a very high part, detached itself two thousand years ago and came here with healing information for us. Our ecosphere is surrounded by a ring of what we know of as angels, who adminster the inflexible karmic law that the Gnostics knew of as heimarmene; but, worst of all, we are occluded. Christ is, above all else, not a revealer but a physician; he is here not just to teach us —inform us of our condition— but to extricate us from our condition which is cruelly imposed on us. Probably the "secret stolen" is imaged in Genesis by the other tree that we did not eat of: that of eternal life, which explains Jesus' remark, "Your forefathers ate manna in the wilderness and they are all dead. But I... am the bread of eternal life." In other words our death is the result of genetic programming, of the DNA death strip; and this is what Christ over¬ comes by causing it to fire harmlessly.
+
+The secret (stolen and brought to us) is that we are enslaved, in a prison, that we are sick (with the occlusion) and die, that Christ has revolted against the divine machinery and brought the knowledge and skills here to reverse our condition (described by John Calvin) and restore us to what we once were. In other words, t's a secret that it's a secret; I mean, it's been a secret that what Christ brought to us as depicted in the gospels was stolen. This is like Prometheus. He paid for doing this with his life, but he is still alive, not discorporate (the Holy Spirit) but in a risen body, what I call the metasoma; we can't see it but it is here like a great arborizing vine.
+
+Usually when you think of a secret stolen you think of
+```
+**Co-occurrences**: Christ, Spirit, Holy, Jesus, Holy Spirit, Gnostic, Like, Prison, John, Gospel, Just, Once, Divine, Great, Probably, Still, Part, Secret, Death, Calvin, Other, Were, Very, Tree, Life, Body, Information, Knowledge, Dead, Karmic
+
+---
+### Line 37515-37523 (Match: 'Genesis')
+**Folder**: part of
+
+```text
+Last edit about 3 years ago by svayambhu108
+75
+Needs Review
+75
+11 in my apperception of it) the intelligible archetypal ideas outside space, time + causation, which can be known a priori + which serve (not served but serve) as the basis of order hence of creation itself (vide nout vs ananke in "the Timaeus"). it is like seeing Parmenides' unchanging ministic world; flux freezes because the eide are timeless + eternal + do not change; they are like geometrical forms. This is precisely Plato's meta‐ physics of the real (true einai) vs the "semireal" flux world, + it is apperceived by noein, so noein + einai fuse (cf Heidegger); man the percipient has reversed his fallen state + is restored, he now actually sees creation again (the creation described in genesis) rather than disorder. Space, time + causation are fallen categories of ordering, in that they allow reality to slip back into flux which is disorder or non-creation. Perception of true order is perception of natura naturens (instead of natura naturata), whereupon the will of God structuring creation becomes perceptible, what I call is This tug is the invisible non o "The tug." ths in that aligns physical template physical
+
+Last edit about 3 years ago by svayambhu108
+
+76
+```
+**Co-occurrences**: Form, Plato, Like, World, Parmenides, Because, Time, Again, Heidegger, Reality, Real, Flux, Timaeus, Actually, True, Will, Creation, Back, Instead, Ananke
+
+---
+### Line 41441-41449 (Match: 'Genesis')
+**Folder**: book whose
+
+```text
+Last edit almost 3 years ago by svayambhu108
+169
+Needs Review
+169
+9255 conjunction with Russ' letter + my Ditheon dream, a feedback from it to me, me as a person, occurred, + a major conceptual insight arises in me as a result, an insight totally new to me having to do with (1) what Christ is; + (2) how "acheived," that is, what "brings on" or "causes" Christ or Christo genesis. Yes, that is the word: Christogenesis I Christ is seen in evolutionary terms paralleling or expressing the very evolution that (I believe) my work represents (+ which I see in the macrocosm in + as + by Valis). At a certain crucial stage of evolution toward complexification of structure (i.e. negentropy) the mundane passes over - in a quantum leap - into the divine; the man becomes Ditheon, Christ; the macrocosm likewise (ald Teilhard + his point omega). When this occurs, the work is complete because this divinization, this Christogenesis, indicates - + occurs at + is - the perfected structure (in terms of the entropy- negentropy axis. It represents absolute, total order). What does it do then? I guess it reproduces. For me this transformation was (I think) conferred from above, as it were, in, as + by what is called "justification." I looked up the legal meaning of "justify" + "justification," since the theological one is derived from it; it means when an accused person (in court) can show lawful cause - reason - for what he did - did that or which he is called to answer." Not "did he do it?" But did he have a lawful reason for
+
+Last edit almost 3 years ago by svayambhu108
+170
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Complete, Ditheon, Since, Because, Does, Teilhard, Divine, Russ, Were, Very, Have, Absolute, Having, Likewise, Dream, Answer
+
+---
+### Line 41986-41994 (Match: 'Genesis')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+263
+Needs Review
+263
+349 learn + mature + complete itself, in which case the original Gnosis was not lost: everything went according to plan. but what is most compelling is the search by the B psyche for its ancient lost self the A type psyche, a search involving great peril: confronting the 2 ophrenia), finding disorder monster (schased the lost treasure (, Grail) + returning to the present with it -psyche A - which when added to psyche B results in psychological/spiritual wholeness. As guide (psychopomp) there is the mystery voice -giving - what I call the "AI voice gryptic clues + reassurance; this is the voice yet of the future, the completed whole psyche the type a psyche knows the story to come. that has been lost; that is, it possesses the ancestral knowledge unavailable to the B psyche - a story which turns out [Note to be the Christ story, + is applicable to the whole (restored) person. It is his story; it is for t him + about him. (This Ditheon is Christo genesis). The recovery of this story + the recovery of the ancient lost self are one + the same. A cryptic sign has caused the B psyche - who has no history, hence no to roots, hence no place, center, omphalos‐ begin to remember; he is reminded that he has a lost self + forgotten history + knowing this, he must go in search of it to recover it - or he will not regain his lost soul. (For me, angel Archer + Like parsifal or ➀ In my case siegfried I who does not know his names or ho t
+
+Last edit almost 3 years ago by svayambhu108
+264
+Needs Review
+```
+**Co-occurrences**: Christ, Complete, Ditheon, Like, Gnosis, Does, Self, Everything, Great, Soul, Most, Voice, Archer, Will, Parsifal, Angel, Remember, Knowledge, Grail
+
+---

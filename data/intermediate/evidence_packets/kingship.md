@@ -1,0 +1,344 @@
+# Evidence Packet: Kingship
+
+- **Category**: Top Term
+- **Total Mentions**: 36
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 54-62 (Match: 'Kingship')
+**Folder**: part of
+
+```text
+Ruffie Rat; that's what Tessa calls herself, also without realizing how these lives live on from the past.
+
+I think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND IN THE WILLOWS, to God. ("A motorcar???")
+
+God has returned. Resumed his Kingship (the Kingdom of God has been restored, here). I saw it --him-- in the alley, as I walked. I never saw that before because He was gone from her; or rather, our eyes were "dead," i.e. we were blind. He is with us again, as last night revealed; as soon as I got stoned and wint in to pray when I glanced up I saw two huge tree-trunk legs and shoes/feet -- a Great Man standing between me and my shrine. He was there...like I saw Mrs. Donlevy. ("God of the House of Levi".) (Discarded shoes on the beach...tennis shoes -- but huge and filled, but mostly the tree trunk legs. So dense. He remains here.)
+
+I forgot; only after that did I see anything else (e.g. Dionysos). My experience wouldkn't have been possible in our lineal time prior to March 1974. (He wasn't here.) And He remains; hence they can reoccur.
+
+(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.
+```
+**Co-occurrences**: Rome, Kingdom, Well, Dionysos, These, Like, Because, Iron, Only, Time, After, Just, Again, Kingdom of God, March, Great, House, Without, Tessa, Before, Were, Have, Tree, Dead
+
+---
+### Line 337-345 (Match: 'Kingship')
+**Folder**: book as
+
+```text
+Look: the seeds, dormant, slumbering in the winter of their species, are helpless and need the protection of concealment. They are pressed down into the snow (the manifold Maya) which camoflauges them, and protects them. They lie unknown even to themselves, mixed with the "tares" sewn there along with them, indistinguishable until all sprout -- wheat and tares together (we must wait, and then divide). Until that day, they cannot be discerned, found, discovered, destroyed; mimicry and concealment, during 2000 year winter of their half-life slumber. Then, in Spring (which has now come) those real wheat seeds here the voice calling them (from the bright morning star) and come to life. Are revealed suddenly (the cuckoo egg in the nest) but, at the moment revealed suddenly, then simultaneously now safe; by virtue of the power remembered (anamnesis). They are Zagreus or can call on him; he will answer his "flock." They know him/ he knows them.
+
+It is now too late to destroy them; their helplessness is past. They are awake!
+
+"They kingdom come" slightly misleading: "They kingship come," but, "come to," that is, kingship enter each temple/body of the flock, those who are his; he suddenly enters his temple and claims/becomes it. This could remain invisible externally; yet some fundamental change, cause unknown, would rock the established order of things.
+
+Zagreus-Christos stressed that we had to die first before we could be reborn-differently. This suggests a metamorphosis, but also it tells us a fascinating story: these bodies are mere husks which may serve to conceal our identities, those of us who, via anamnesis may know our own divinity. The husk, like the fruit from around the seed, must rot and fall away; these are essential steps in the process of seed opening.
+
+Last edit over 5 years ago by Siegman
+```
+**Co-occurrences**: Kingdom, These, Like, Fall, Even, Could, Look, Maya, Zagreus, Christos, Anamnesis, Those, Their, Wait, Star, Real, Voice, Before, Will, Would, Things, Life, Body, Spring, Suddenly, During, Answer, Until
+
+---
+### Line 736-744 (Match: 'Kingship')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+
+46
+Whether my exemplar is "me" is a merely semantic question; my exemplar is "me complete," and that is not "me in the process." Me exemplar is the Christos; we all are drawn from the future to become Him, and as we reach Him and become Him, then we turn back to help those still in progress or process. I would say that the absolutely overall biggest achievement of this is to dissolve and destroy our mere ego identity and allow us to merge into the Kingdom (Kingship) of Christ: him in me, me in him, as Paul says; we will / do form a Kingdom, where he is Lord.
+
+Dr. NK: "Time enters material systems." Maybe our dreams are time, as energy which bears info to us, entering us; we are the single simultaneous point from which the entire universe is projected from in terms of time (v. Dr. NK's paper).
+
+We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one of the RUs, one of the sources. This is very strange (paradigm is FLOW MY TEARS, in which 3 separate superimposed but somewhat different universes are lived in between first and final page of pt 1 to 3. How is this overlap achieved? How does one exit from one and into another? Who manages all this? Why?
+```
+**Co-occurrences**: Christ, Tears, Complete, Form, Kingdom, Paul, Lord, Maybe, Only, Time, Harpax, Light, Does, Christos, Those, Still, Another, Universe, Will, Would, Page, Very, Back, Info, Whether, Evidently, Whereas, Final
+
+---
+### Line 803-811 (Match: 'Kingship')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+
+51
+Jesus spoke of a coming "Kingship of God" which, He said, "Is among you/ around you/ within you." It could arrive any time. When it arrives, many men, most men, won't know. Since God created this world in the first place, the angle of error may be slight, and the percentage which He must remove and change may be relative, small. Is all this world, every thing and creature and idea and object in it, objectionable to God and a produce of the Adversary? Obviously not. Suppose there were a subtle seizing of power, behind the scenes as it were, by the Rightful King. He would retain the present order by and large, disturb as little of it as possible, act in an economical way to take control. We might only sense that some oppressive power had departed; some burden and fear had lifted.
+
+That this has happened I am positive. That so little has changed shows how slight the angle of error, the element which had to be "burned off like chaff." Death still exists; Jesus and Paul always said that this body would have to live out its natural cycle and die away, for the other body to replace it, which comes later. The main thing is, This world is under control, now, and two main spirits reign: Truth and Justice, although they are of necessity unfolding in time (i.e. it takes time, because sequence is necessary). This world does not operate on its own, independently, and having fallen into the hands of tyrants and liars. Truth and justice lie at the heart, and work out judiciously, where needed; they now, in a distinct and real sense, although subtle, prevail, and nothing can ever change this; any set back, or any retention of the lie, is only apparent. We must not go on what is apparent; that was never a good index. But, in another way of viewing this, we can say that at last that which is apparent, which appeard to be, in actuality is. This was not true before. There are no further real secrets, and no further fake facade cardboard Thought-control hypnotis pseudo-reality managed and manipulated, no invisible empire of police and criminals and dangerous covert power. What meets the eye can be trusted, except that still hidden to most people is the heart, not of darkness, but of light; it is the pulse at the core of things, whereas not so long ago at the core of things rotten darkness stank and conived.
+
+We have a concentric-ring society, and the innermost ring has been burned off by the fire, has now been replaced by light, by God, and this is parallelled by a discernment outside, by those on the rim, that the Lord of Hosts has in fact suddenly come to his temple, announced by the messenger of the covenant whom we delight in...as Malachi put it. There was a swift arrival (mainly by Elijah), a swift victory over the darkness, a tossing down of the tyranny, and then the enormous judging and destroying power was withdrawn and replaced by an assisting and healing power. Advocacy for the weak and oppressed is no longer necessary, now that God rules. Healing (as if after a battle which was won) has been in order, and so done. Finally, the freeing of the many
+```
+**Co-occurrences**: Jesus, King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+
+---
+### Line 823-831 (Match: 'Kingship')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+53
+Needs Review
+53
+carries with him a friends list. The messenger, Elijah, shapes up and squares up each person on the list; this involves making him pious, and directing him to engage in good works; he is good of attitude and good of action. Let's say there is a five to six month period in which the persons are reshaped and refined and reworked. They are born anew, in God, and it's a hard row to hoe. They are acquainted with the true nature of reality, and the true situation confronting them. They become conscious of their forgotten origin and task (anamnesis). Setting to work, they aid in the Great War against the Lie, offering themselves as sacrifices. They sustain mortal injuries in that fight, but accept it, confident in their tasks and their God. While lying bound up, as if in the "Todes Banden," the bonds of death, they see the surprising, sudden awful glare of the Day of Judgment; at this point, Elijah has seen to it that they are in proper shape to escape the Wrath and to please God. Even so, the loving sacrifice, their Savior, is present to absorb both the blow (Pinky the guru) and the sin, the toxin, the guilt (Ralph, as lamb). The person is lovingly accepted by God and goes to join him, although he continues on here, since the Kingship (Kingdom) is now here, rather than "beyond," or "in heaven." Thus, this experience comes without him having actually physically to die. All this, including the restoration which is his reward, the green grass, the pasture, is here.
+
+The whole experience seems to take about one full cycle of the earth: one year, beginning at the vernal equinox. Thus it is identified with the departing of winter and the reappearance of the lost spring.
+
+This whole last year contained a lot of pain and shock and loss for me (I was hospitalized twice, my son once, I lost two cats in very sad ways, and had to get rid of my little dog, and was burned on my first screen play), but it was the best year of my life, because somehow within the illness and loss and pain I gained an inner reality to match the external reality. There is no point in merely establishing an external new real kingdom or kingsom. God must reign in the human heart and body as well. It is the ultimate growth: to turn into a portion of God ("that I might live in Him / Invisible and dim") and continue on, knowing that He is both inside and outside. I can say that although I have not seen God, I saw signs of Him, indubitable signs. And knew Him to be growing within me, as the new life Firebright, from the Sun...the Aton, I guess, which Iknaton spoke of, that good tender trembling frail brave man.
+```
+**Co-occurrences**: Kingdom, Well, Elijah, Since, Because, Earth, Harpax, Savior, Good, Even, Firebright, Pinky, Once, Both, Reality, Although, Great, Anamnesis, Without, Their, Heaven, Real, Actually, True, Messenger, Death, Somehow, Very, Beyond, Have, Judgment, Life, Body, Spring, Having, Human, Lamb
+
+---
+### Line 829-837 (Match: 'Kingship')
+**Folder**: part segment
+
+```text
+The whole experience seems to take about one full cycle of the earth: one year, beginning at the vernal equinox. Thus it is identified with the departing of winter and the reappearance of the lost spring.
+
+This whole last year contained a lot of pain and shock and loss for me (I was hospitalized twice, my son once, I lost two cats in very sad ways, and had to get rid of my little dog, and was burned on my first screen play), but it was the best year of my life, because somehow within the illness and loss and pain I gained an inner reality to match the external reality. There is no point in merely establishing an external new real kingdom or kingsom. God must reign in the human heart and body as well. It is the ultimate growth: to turn into a portion of God ("that I might live in Him / Invisible and dim") and continue on, knowing that He is both inside and outside. I can say that although I have not seen God, I saw signs of Him, indubitable signs. And knew Him to be growing within me, as the new life Firebright, from the Sun...the Aton, I guess, which Iknaton spoke of, that good tender trembling frail brave man.
+
+The criticism that Elijah's coming first and shaping certain folk up so they'd be acceptable was somehow cheating -- this misses the point of it all. God's desire is to save, not to co[n]d[em]n; he wished that as many as possible could be ready for acceptance. The object was not to judge; the object was to save. Thus, before he judged he prompted, so to speak, everyone who needed it or would benefit from it. I certainly wouldn't have passed muster without prior help. The exam per se was not the main purpose of God's coming; He intervened, entered time, and it was necessary to make swift judgment the moment he resumed Kingship. If anyone objects to God's desire to have as many people as possible fir for acceptance when judgement came -- that is an odd objection, and makes the judgment a sort of end in itself, which it is not. It is as if one were to construe the purpose of school to be to give exams and flunk people. The purpose of school is to teach, and to teach in order to prepare the
+
+Last edit over 5 years ago by Harpax
+54
+Needs Review
+```
+**Co-occurrences**: Kingdom, Well, Elijah, Because, Time, Earth, Harpax, Good, Firebright, Could, Once, Both, Reality, Although, Without, Real, Certainly, Before, Would, Somehow, Judge, Were, Very, Many, Have, Judgment, Life, Body, Spring, Human
+
+---
+### Line 983-991 (Match: 'Kingship')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+65
+Needs Review
+65
+could not wake itself up -- like the root or bulb called to by spring (by the healing warming Sun of R[l]ighteousness) it had to be summoned. If new birth or new life refers to a restoring (which it does) then at one time that Healing Sun was present and somehow withdrew, at which time the higher life in us fell asleep, in the darkness (vice the pineal body secreting the hormone melatonia, in darkness, which impedes the expansion, the growth, the coming into activity, of the latent form or entelechy). The very idea of "Wake up" implies winter time and the slumbering during winter time of all life. In some fashion, however, we once were awake and then fell asleep, which is what the Greeks meant by Lethe, by forgetfulness; forgetfulness is equated with falling asleep, and waking up with anamnesis. I guess the nourishing and feeding by the solar spermatika is understandable when one realizes that all life is "fed" by sunlight per se; this is an analog of that. It cannot wake unless fed; the first impulse rouses it from slumber, as when I felt that an Essene or someone holy who had been slumbering in me thousands of years and who possessed Sophia Pistis had awakened; the shock was of such enormity as to be beyond words to express; I can see why. I asked, Did I once live, then, and am reincarnated and now remember? No, I did not, as least not as an individual, the one born in 1928. What is shown here is the grid-like interpersonality of the Christ consciousness, that there is a kingship and a kingdom, each of us being in him and He in us. I awoke to the experience of having been there in a non material sense, beyond material space and time. I recalled no Latin, only Greek, because it is a Greek religion and a Greek spiritual rebirth experience; Rome was totally hostile to it (it came from Orpheus and Zagreus, etc).
+
+I awoke abruptly to find myself with my Savior, and then entered Fellowship with God (the dreams of the delighting void). Can it be said that this is the rebirth, accomplished by penetration of the Child by the solar spermatikos? Yes. Firebright, brought to life and sustained Greater intelligence for me, better health, longer life, even prosperity. A certain facility with life. But most of all I recall what I saw when I awakened: I saw my God, smiling in the sunlight of day. Once, during the years of the Terrible Separation, I saw Palmer Eldritch in the Sun -- I saw God backward, but sure enough, in the daytime sun: at high noon, and know him to be a god. THE THREE STIGMATA, if read properly (i.e. reversed) contains many clues as to the nature of God and to our relationship with him. I was motivated to flee, then, fearing what I saw, so vast was the breach then. It was definitely a true vision of God, but grown (to my blind sight) terrible, still, it was the beginning of my seeing; that I could see God at all, in the sun, showed that I was not entirely blind, but rather deranged. My 3 74 experiences are an outgrowth of my Palmer Eldritch experience of over ten years earlier. "Faith of Our Fathers" shows this, too; I knew Him to be real...but only in UBIK does he begin to appear as benign, especially then in MAZE OF DEATH. We were coming back together, as friends in the light-struck meadow or forest...the summertime to greet.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Ubik, Holy, Rome, Form, Sophia, Kingdom, Greek, However, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+
+---
+### Line 1091-1099 (Match: 'Kingship')
+**Folder**: part one
+
+```text
+I never after that "found" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was actually there and actually experienced during full wakefulness, as present. Yet, it was still now. But now He has returned. I was now and yet superimposed Rome of 2000 years ago: 1974 Fullerton and Rome c 45. I gather that what I experienced were the two advents unified, with time abolished. It made Rome Fullerton and Fullerton Rome; it made 45 AD 1974 AD and 1974 AD 45 AD. This certainly would explain why I knew that neither reincarnation or time-travel per se were involved. It was a time dysfunction but of a crucial sort, that prophecyed in the Bible: the Parousia, an expression (experience) of it, a demonstation of the nature of the Parousia in which it abolishes or ends time, or perhaps, when God enters time from outside time, which is to say, from Eternity; surely that's a time dysfunction, although you might not be able to fathom why it happened. But I guess this is what you experience when God abolishes time; when the Parousia arrives.
+
+In connection with this, I wasn't just back in Rome; I was aware of two portions (not aspects, but divisions): the Roman army/police -- and the hurrying semi-invisible Christian underground, the fish Christian who were illegal and whom the Romans (part one) were after, to destroy. Gosh, if I were merely transported back to Rome via a time dysfunction I might gaze at great buildings and watch crowds, having no awareness of the fish Christians or the Roman ir leg. So this was not only Rome, or Rome as such; it was Rome viewed as the Apostles must have viewed it; it was a very precise and special view, and I was one of those fish Christians. I am happy to say that in this apocolyptic experience, I was indubitably one of those Christians, and our Savior was anticipated momentarily (later in the year I had the "Santa Sophia" dream, bearing this out without the Roman experience, that is, the Second Advent for sure, for us).
+
+The "Dec N T" says that this time Christ won't appear in the form of one single man (as he did as Jesus before), because if he does, then they'll get him again and it'll be a failure again; therefore, as I understand it, this is what all this solar spermatika, the seeds, etc. talk has to do with; there will be many implantations, of persons already alive and walking around "at their regular tasks," and the births will be plural, and inside peoples' heads, and not out of a womb, as with Mary's. Gee, I finally understood it. There will be no one Savior born this time, but a different system. Vide St. Teresa of Avilia. "Now, Christ has no body but yours." Is before (at the First Advent) implantation will be done by the same spirit, the Holy Spirit, supra, and the same issue will occur: the Son, which explains Jesus' cryptic remarks about where the Kingdom would be (not here, not there, and Christ not here, not there). But: in you and among you. Yes indeed! Kingship, then, within given persons; the assumption of rule (this duplex personality) within various persons; this is the Second Advent, and not a mere anticipation, a la Elijah. This is the Second Coming itself, this Firebright implantations. I mean, these, not this. My God -- what happened to me (sic: to me) in 3 74 was the Second Advent, one of them, anyhow. Guess who Firebright is, viewed this way. This now resolves one mystery (mystery to me, anyhow): the relationship between Elijah and the Holy Spirit. What Malachi said would come back was the Spirit of Elijah (if you read about Elisha this is clear). Surely it wasn't the physical man. The Spirit of Elijah is the Old Testament Hebrew concept for the Christian Holy Spirit (remember, the Jews were absolute monotheists).
+
+Last edit over 5 years ago by Harpax
+
+76
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+
+---
+### Line 1138-1146 (Match: 'Kingship')
+**Folder**: book is
+
+```text
+Needs Review
+79
+It occurs to me that "Elijah" and the "Old King" of the dream are the same figure, are both the Father. Firebright, Christ, and the dancing would new King of springtime, who I identify with Zagreus, would be Firebright: "Santa Sophia," He who is born. First came the Father, and then, through me, birth of Firebright took place, and this is the beardless youth whom I now see: the Son. Where is it perfectly clear that it was the Father who as a plasmic life-form filled me up, it is equally clear now that the Son, who is dancing, is another form of God entire: the offspring, who will live here.
+
+In my dreams last night: Nick was jolted to discover that I had discerned patterns "which had died with Herb" and left no trace; there had been a total disjunction and yet I had them. "Herb" would be the Employer, Mr. Runciter (a figure of God the Father). This whole movement through the cycles is expressed by the movement of Father to Son, from Wise Age to Wise Youth. Last year (March, April 1974) I was so aware of, and filled up with Justice and the pursuit of Truth, the grim Fatherly pursuits...this year I am so aware of springtime and the figure of the youth, dancing. It sounds like Firebright is alive and growing; I hadn't realized: the Son. He is not after grim Justice, not like the Old Testament God; he is permissive, I guess. Maybe what happens to those Christians like Calvin is that the Holy Spirit fills them with the aspects of the Father, but birth never takes place, so they never pass on into the Youth Stage. I keep wondering if Firebright is okay...actually a millon times I've envisioned him. He's still a youth, but look at his rate of growth: He is ready to assume kingship. He must be 17 or so, or was, back at Passover. What a rate of growth! But I'm not sure, any more, that Firebright (the Young Spring King) is in me in any way, or merely --i.e. only-- in me; I think He moved from Point A or World A, which was not tangent to our world, into our world via me, which was Point B. I was an entry point or nexu[s].
+
+But I am still in touch with him. He is, however, now in this world. I guess again (after a time dysjunction). (I.E. There was a period when he wasn't.)
+
+The transmission of the Light Creatures was somehow inturrupted (by accident, be martyrdom, design, etc.) around 100 AD, or maybe even earlier (Jesus being the last one), so that a two thousand year breach had to be leaped to restored the Light Creatures to our world once more. This is what the New Testament is talking about, and Orphism. They are in need of us to transmit themselves, and all of us who "contained" any of them were (by the Romans!!) destroyed...hence my fear, my dreadul urgency and secrecy esp re Chrissy. Nobody else was left who knew how to receive (and harbor & shelter & incubate, whatever) a Light Creature.
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Sophia, King, Roman, However, Elijah, Father, Maybe, Like, World, Only, Time, After, Light, Even, Firebright, Okay, Look, Once, Again, Both, Zagreus, Being, March, Runciter, Santa, Chrissy, Those, Still, More, Another, Through, Orphism, Actually, Santa Sophia, Will, Calvin, Would, Somehow, Were, Back, Whatever, Life, Justice, Spring, Wise, Testament, Passover, Truth, Dream
+
+---
+### Line 1144-1152 (Match: 'Kingship')
+**Folder**: book is
+
+```text
+But I am still in touch with him. He is, however, now in this world. I guess again (after a time dysjunction). (I.E. There was a period when he wasn't.)
+
+The transmission of the Light Creatures was somehow inturrupted (by accident, be martyrdom, design, etc.) around 100 AD, or maybe even earlier (Jesus being the last one), so that a two thousand year breach had to be leaped to restored the Light Creatures to our world once more. This is what the New Testament is talking about, and Orphism. They are in need of us to transmit themselves, and all of us who "contained" any of them were (by the Romans!!) destroyed...hence my fear, my dreadul urgency and secrecy esp re Chrissy. Nobody else was left who knew how to receive (and harbor & shelter & incubate, whatever) a Light Creature.
+
+Eyes of newborn babies: mercury drop. Also, dream of grape-colored cube: yogert, fruit, eternal. We must remember: old age is a disease; we are sick, not self-renewing, like yogert (it's a symbol, in dream, of renewal). The bichloride: to restore (i.e. project) new sight. However psychological, though, this is still what Christ taught us; it is still the arrival of God's Kingship (within).
+
+Last edit over 5 years ago by Harpax
+80
+Needs Review
+```
+**Co-occurrences**: Christ, Jesus, Roman, However, Maybe, Like, World, Time, Harpax, After, Light, Even, Once, Again, Being, Self, Chrissy, Still, More, Orphism, Somehow, Were, Whatever, Testament, Remember, Dream
+
+---
+### Line 1325-1333 (Match: 'Kingship')
+**Folder**: book certainly
+
+```text
+Last edit over 5 years ago by Harpax
+93
+Needs Review
+93
+I saw the religious encoding and read it, myself: the Logos term "Felix," the entire ending -- everything, that paragraph illuminated (to me, as I told Sergeant Kelly). I has released the Word, shagged past the brutal oppressors and word-denyers. And if indeed it is The Good News shagged on by, in a least-expected place, it is specifically that in fact the Parousia are beginning: this is Christus Judicator. If the Brit 3 article is correct, though, this is the only way the Kingdom is going to come, the only way any of the events of the Parousia are going to come; that means my experience is not anticipatory, since there is in truth no emperical change going to be visible, which can be subjected to test (it can't be shown to be here or not to be here, is the point the Brit 3 article makes; it is elusive). It is a sort of secret kingdom in which one can live without appearing to live there, although one himself, he would know. And if this Brit 3 view is true, then this has always been the case, and the Kingship may have begun arriving for persons on an individual basis at the time X in the past -- time X being any moment after the Crucifixion. We are waiting for something which does not exist in time as we understand existing in time; it can be both here and not here simultaneously (vide supra about palintropos and -tonos, transcending the dipole thinking). The Parousia partake in -- no wait; no the palin(s) but the Secret Partnership, where Horus and Seth are not absolute antagonists "behind the scenes," Joe Campbell's book. The same with this. Within visible lineal time the Kingship hasn't come, and maybe never will (equal to Horus and Seth being implacable opponents); the Kingship has arrived is equal to "behind the scenes, in eternity: the Secret Partnership.
+
+In rereading the Brit 3 article on "Jesus Christ" I'm reminded that although the Second Advent is of Christ, what Jesus taught was the coming Kingship of God, not of Himself, the His Father would rule here, whereas now, God does not; Satan does (vide esp John). This could mean, Rule inside person-by-person, I guess. But the mystical corporate body which we enter is that of Christ; and Easter is connected with Christ, very specifically; I stand more toward that, a mysterious euch[e]ristic identity with the Real Presence of the Savior: a joining with Christ, esp Christ as Logos, first born son of God. But then the void dreams I had: the beatific vision of God. They are not that separable. If you attain union with Christ you certainly have reached God, and perhaps since Christ is the Path, this is how we do in fact reach God: brought to God, at last, carried there by Christ who rescues us (individually for sure; this is certain: Christ rescues on an individual basis). Christ, then, as the guide (Pinky, e.g.). Leading to the Kingship of God, to where God is. If God is not here, then I am taken there to where God is, led there, assisted and helped, on a journey (yes, I am sure of that; my guru as silent guide; the search as for the Grail).
+
+When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life, I get a single impression, one story underlying all, but not that visible until all 3 are compared. It is the story of a kingdom where reg[n]icide took place; the throne is occupied by a ursurper; now the rightful heir has returned (the stranger, Hamlet, Jesus), and holds no power, but speaks in strange riddle. The brutal ursurpacious ruler has him imprisoned and possibly killed; nonetheless the young stranger
+```
+**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+
+---
+### Line 1327-1335 (Match: 'Kingship')
+**Folder**: book certainly
+
+```text
+Needs Review
+93
+I saw the religious encoding and read it, myself: the Logos term "Felix," the entire ending -- everything, that paragraph illuminated (to me, as I told Sergeant Kelly). I has released the Word, shagged past the brutal oppressors and word-denyers. And if indeed it is The Good News shagged on by, in a least-expected place, it is specifically that in fact the Parousia are beginning: this is Christus Judicator. If the Brit 3 article is correct, though, this is the only way the Kingdom is going to come, the only way any of the events of the Parousia are going to come; that means my experience is not anticipatory, since there is in truth no emperical change going to be visible, which can be subjected to test (it can't be shown to be here or not to be here, is the point the Brit 3 article makes; it is elusive). It is a sort of secret kingdom in which one can live without appearing to live there, although one himself, he would know. And if this Brit 3 view is true, then this has always been the case, and the Kingship may have begun arriving for persons on an individual basis at the time X in the past -- time X being any moment after the Crucifixion. We are waiting for something which does not exist in time as we understand existing in time; it can be both here and not here simultaneously (vide supra about palintropos and -tonos, transcending the dipole thinking). The Parousia partake in -- no wait; no the palin(s) but the Secret Partnership, where Horus and Seth are not absolute antagonists "behind the scenes," Joe Campbell's book. The same with this. Within visible lineal time the Kingship hasn't come, and maybe never will (equal to Horus and Seth being implacable opponents); the Kingship has arrived is equal to "behind the scenes, in eternity: the Secret Partnership.
+
+In rereading the Brit 3 article on "Jesus Christ" I'm reminded that although the Second Advent is of Christ, what Jesus taught was the coming Kingship of God, not of Himself, the His Father would rule here, whereas now, God does not; Satan does (vide esp John). This could mean, Rule inside person-by-person, I guess. But the mystical corporate body which we enter is that of Christ; and Easter is connected with Christ, very specifically; I stand more toward that, a mysterious euch[e]ristic identity with the Real Presence of the Savior: a joining with Christ, esp Christ as Logos, first born son of God. But then the void dreams I had: the beatific vision of God. They are not that separable. If you attain union with Christ you certainly have reached God, and perhaps since Christ is the Path, this is how we do in fact reach God: brought to God, at last, carried there by Christ who rescues us (individually for sure; this is certain: Christ rescues on an individual basis). Christ, then, as the guide (Pinky, e.g.). Leading to the Kingship of God, to where God is. If God is not here, then I am taken there to where God is, led there, assisted and helped, on a journey (yes, I am sure of that; my guru as silent guide; the search as for the Grail).
+
+When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life, I get a single impression, one story underlying all, but not that visible until all 3 are compared. It is the story of a kingdom where reg[n]icide took place; the throne is occupied by a ursurper; now the rightful heir has returned (the stranger, Hamlet, Jesus), and holds no power, but speaks in strange riddle. The brutal ursurpacious ruler has him imprisoned and possibly killed; nonetheless the young stranger
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+
+---
+### Line 1339-1347 (Match: 'Kingship')
+**Folder**: book certainly
+
+```text
+has acquainted us with the true, secret facts: we are not to give out allegiance to the brutal pretender king, that one day the rightful King will return (the right King is the young stranger's "Father"), and that this kingdom will be a divine one because the rightful King is divine. The story cannot be hushed up; what the monarch fears the most is the release of this truth for people to know. Exactly when the rightful divine King will return is uncertain. Perhaps the young stranger will grow up and return himself, no longer a beardless youth, but stern and wise, a true king (like the Ancient of Days). (My dream in TEARS.) The world must fall into two caps: the pretended and his brutal worldly followers, with their tyranny and lies, and, on the other side, those whom the rightful King will free, those who will know him for the rightful King, and await his coming.
+
+In reading Helen Wadell's THE DESERT FATHERS -- from her definition it is sure that I experienced eternity ("the other night," that is, in 3 74 and maybe again in 2 75). (Eternity during an interval very short; thus polarized against mere infinity, as with an extension of a line.)
+
+I have experienced what Jesus predicted: the change from one aeon to the next; and the next is rightful kingship, an improvement, a lifting of thrall by a[n] ursurper, somehow connected with C[h]ronos, Father Time (maybe the game of dr[o]ughts is ending; vide Heraclitus: the old child God, Chronos, playing a game of draughts in defined --regulated-- moves. That is the aeon which is ending; I saw that game, too, the player and counterplayer. This fulfills what Zoroaster foresaw: the end of the two-Person game, finally, in a victory of justice, truth, regulation, for ma'at; for Form One; for Light. This is the period Jesus, Paul and John compared to birthpangs, a laboring of bring forth; the whole universe and each sorrowing man being in such labor and pain...but if he could see the issue ahead! The Christian is he thinks of this world now, with its ursurpacious rule, feels bad; if he thinks of the rightful kingdom coming, he feels good -- thinks I mean of the future. But I say, this future is materializing, rising up as if a second new archetypal aeon "slide" were being projected: springtime. We can thus being to sense it lift now and rejoice now.
+
+(There may be a h[y]steresis lag in our sense perceptions; we don't see what is, but what was X time-length ago.)
+
+Another thing I saw, which I must not forget, is that I saw that I had been seeing the universe backward, esp. in time; which I finally decided meant that I was seeing "the reflection, as in the bottom of a polished metal pan," but had begun to see the Real Universe, which of course is reversed from the mere cave image. Thus, the picture is of winter; the slide itself the reverse: springtime (vide the trigram wheel of opposites). In Dante's schema: if it is winter here, it is springtime there in the Real World.
+```
+**Co-occurrences**: Tears, Christian, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John, Time, Good, Light, Could, Again, Heraclitus, Being, Dante, Divine, Himself, Zoroaster, Those, Their, Another, Most, Real, Such, Secret, True, Universe, Finally, Will, Other, Somehow, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+
+---
+### Line 3468-3476 (Match: 'Kingship')
+**Folder**: part of
+
+```text
+276
+4
+
+I must have somehow "accidentally" (sic) performed the rites; I think the Holy Spirit taught me to do them, set it up, like showing me the golden fish. Maybe this is it: The Holy Spirit fathered Christ. Christ died, and his spirit, as the Paraclete, the Second Comforter, returned to the 12 disciples — it split so to speak into 12 sections; the immortal Christlike conditioh-entity was now 12 in number. They died, and their spirits returned say to 144; each of these 144 entities was a Christlike person, since he partook of the original spirit of Christ; these were Christ persons, a corporate body of which Christ was the head. But then the continuity was broken, due to loss of the oral tradition as to how to prepare to receive this spirit. The paradigm is Elisha receiving 2 parts of Elijah's spirit, which is why I dreamed so much of Elijah; it goes back to him. I guess the only q. I have regards the divisibility of the spirit, whether we can speak of spirit or spirits; so I ask, Did the spirit come to me, or one of the spirits? In any case, even if it started out as Christ, the last person(s) it inhabited were killed by the Romans...well, so was Christ; they all were; hence its fear and hatred of the Romans, and its stealth regarding them. It is accustomed to a theolepsy with people who are in Roman times & who get killed by the Romans, and it is from the Romans that this must be concealed; the spirit went into one or more persons, I guess, following Christ, and certainly the disciples, for openers; they alone would explain its attitude. But I obtain, as usualy, the implications that it hasn’t had theolepsy with anybody since then, in the interem, between Roman times in which Xtianity was illegal and now! The theolepsy experience itself must be an experience with the Kingdom of God, which the receiver again experiences upon death. The spirit has brought it with him when theolepsy occurs. Thus the receiver has the unique experiencing of experiencing the Kingdom during this life¬ time: as I did! He knows what lies beyond the grave, as I learned! For a spirit which has been there has entered him, the spirit of a dead Christian comrade...a holy spirit since it goes back to Christ and from Christ to the Holy Spirit per se. Look how I treasure (sic) my 3-74 to 3-75 experience; they did even more, since they sought it and understood it. Christ could correctly speak of it as "My Kingdom" since it was contained in him, in his Paraclete spirit, found in it by the receiver who received the King (Christ) as well as the "realm." It was not just the afterlife but a Christ-ified sanctified holy afterlife experience of oneness with Christ. This gives me a new insight into what I experienced: not just Christ, not just the after¬ life, but the afterlife Kingdom (Kingship) of Christ, both together. Experienced now, as the migrating spirit arrived. Thus the true Christian has certitude in the resurrected Christ — not for the reasons that seem to be, in the Bible, but as experience of, not mere faith in. It is a partaking of, and now. Hence Christ says, "This is my blood; this is my body; drink, eat of it"; he doesn’t mean the body which hung on the cross, he means the resurrected body. Partake of it — share it. Absorb and imbibe of it. Have it enter you — but, again, it is my physical. The original Holy Spirit took one a piece of mankind in Jesus, and the admixture upon entering the disciples took on further pieces of mankind; this is why when it came to me I recog¬ nized in it, but could not account for, the human qualities and human memories as well as the divine.
+
+Last edit almost 5 years ago by svayambhu108
+277
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Kingdom, King, Fish, Well, Bible, Golden, Roman, These, Elijah, Maybe, Like, Since, Golden Fish, Only, Time, After, Paraclete, Faith, Even, Could, Just, Look, Realm, Again, Kingdom of God, Both, Divine, Their, More, Upon, Certainly, True, Death, Would, Somehow, Were, Back, Beyond, Further, Have, Life, Body, Whether, Elisha, Cross, Blood, Dead, Comforter, During, Human, Doesn
+
+---
+### Line 3484-3492 (Match: 'Kingship')
+**Folder**: part of
+
+```text
+Needs Review
+278
+-6-
+
+All that achieves is to pay me a staggering compliment, considering the nature and extent of that ancient personality. God’s grace is a better explanation, since it covers more facts. The dream of the 3-eyed sibyl and her statement about the conspirators certainly ties the epiphany of the personality to world history, which hardly fits the mere anamnesis theory, the past personality theory. Anyhow, both admit anamnesis of Christ. That is what is cardinal anyhow, that is to me the most cherished part, the bells, etc, the words about St. Sophia "hear what comforting words..."). As memory, strictly, it is along the Orphic lines: along Empedocles' lines: "I once was a god and now am merely this." The Kingdom, then, as memory of a state, but now restored by anamnesis; that isn’t bad: the kingdom or kingship restored by anamnesis!!! I did not just recall having been there; I was once more there, back again, restored as much as ever (we had hard times vis-a-vis the Romans, back in the far past; it wasn’t so wonderful). Let me consider this restoration of the Kingdom; I remember strongly feeling a general restoration, of all things; hence my disappointment in 75 starting in March, when I was back as I had been. I could not understand; yet I had had the dream in which I was old and miserable and sick, and then again I heard the magic bells, summoning me upward, to my delight. I really already had known that the Spirit was going to leave. But it did leave some¬ thing behind (the treasure, egg, pearl, seed, etc). I am more aware now of what it left behind; I still can envision it, via the eye of discernment. Firebright. As clear as ever, waiting for events still ahead. When I break so that I can't repair or be repaired...then, after an interval, the bells again. I guess only then. You can’t blame me for marking the days until that, though. "Those who hate this world," as John quotes Jesus. I have certainly at last renounced some very deep hopes about my life in this world, regarding a family. The hopes I had in 72 when I came here. It has been my 3-74 encounter which has achieved this, a resignation, a finality, but also a looking elsewhere for other things. It isn't defeat, or resignation as such, but an acceptance, and, as I say, turning else¬ where, toward what the 3-74 experience was all about. * * In trying to find some depth or severe degree of evil in the Nixon tyranny which would accouht for divine intervention, and also in my attempts to explain the help given me individually, which is to say, my whole experience (of the which I've read nothing nowhere by anyone subjected to any misery and entrapment) I came up with the Communist agent* theory, but in fact no evil degree can account for it, since greater degrees of evil can be adduced in history, with no evidence of divine intervention, either on a personal or historic scale. I see in 3-74 two interventions, personal and historic, both unexplained by the severity of the situation. Perhaps it is not to relieve a severe evil that accounts for the divine presence; if on takes the "St. Sophia "etc statement as an answer to my question, "Why are you here and what are you doing? then maybe there is the answer; the host was seeking a positive situation, the second incarnation, and merely relieved evil to "make straight in the desert a highway," esp. to pull down enthroned evil so that Christ would not suffer the same fate as before, the modern equal of Herod or Nero having been removed. Oh yes: as to the events
+
+Last edit over 1 year ago by jhordan
+279
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Jesus, Sophia, Kingdom, Roman, Perhaps, Maybe, World, Since, Only, John, Nixon, After, Firebright, Could, Anyhow, Just, Once, Again, Both, March, Empedocles, Orphic, Divine, Either, Fate, Sibyl, Anamnesis, Grace, Nothing, Those, Still, Part, More, Most, Such, Certainly, Before, Consider, Would, Other, Very, Back, Have, Things, Life, Memory, Days, Evil, Having, Remember, Magic, Greater, Dream, Answer, Until
+
+---
+### Line 5436-5444 (Match: 'Kingship')
+**Folder**: book included
+
+```text
+1
+(1)
+
+The bottom line of it all (book included) is: Zebra is the rightful king, + he is already here, invisibly, modulating events to prepare the way for his assumption of the seat (throne) of kingship.
+
+The true landscape revealed when the mists (veil) disappears is that of the battle (as in Zoroastrianism) which has been in progress: the two sides are visible, + also one's own role - + side - in the battle. One remembers being sent here to fight in the battle; one has one's task to perform. Perhaps the battle has "always" been in progress, so the real time revealed is like 70 AD, + the setting antique. The rest is accretions.
+
+My vision was Zoroastrian, the battle, the two sides, myself as warrior sent here (with memories first erased, then restored), then victory by us + also on its own limited scale by me - + my reward - the fields of wheat, the reunion with God. I saw the Earth as a "gameboard" for the two players, + Zebra, our great (invisible) captain, our - THE - rightful - king. '74 was not the start of the battle but victory in that battle, the point at which I + others were brought in finally; our time to join had come, + the masks (v. my dream) were removed, + we could see who we were + who they were, + their black iron prison + our palm tree world, the kingdom of God.
+```
+**Co-occurrences**: Zebra, Kingdom, King, Perhaps, Like, World, Iron, Prison, Time, Earth, Black, Book, Could, Kingdom of God, Being, Black Iron Prison, Great, Zoroastrian, Palm, Their, Real, Zoroastrianism, True, Finally, Were, Tree, Iron Prison, Dream
+
+---
+### Line 5587-5595 (Match: 'Kingship')
+**Folder**: part of
+
+```text
+My suspicions of long standing are correct - were correct: there is a simulating, non-human "mantis" race among us; what I never suspected was: 1) They are super not sub human 2) Good, not bad - +: 3) I am one.
+
+We are "factory representatives" (q.v. "Autofac") of the great mimicking organism - perapatetic extensions: we as individuals mimic as it (Zebra) as a whole mimics.
+
+In 3-74 I was taken off "homeo" + (like [Pellig?] in Solar Lottery) placed on "hetero" - controlled by the master circuit entity. That is what took me over: my source, of which I am an expression, + my autonomy from it a mask, an illusion. "My yoke is easy, my burden light" [Matt 11:30] "The Lord of hosts will suddenly come to his temple - the messenger of the covenant whom ye delight in." [Mal 3:1] "In that day when I shall act." [Mal 3:17] What I forgot is that "Kingdom of God" really means "kingship of God" - it is he whom Christ called "My Father" + of whom he said, "My Father + I are one." [John 10:30] + so it is said, "Christ is the head of the (total) body, of which we are members."
+
+Last edit over 5 years ago by wtutwiler70
+10
+Needs Review
+```
+**Co-occurrences**: Christ, Zebra, Kingdom, Lord, Father, Like, John, Good, Light, Kingdom of God, Covenant, Great, Messenger, Will, Were, Body, Suddenly, Human
+
+---
+### Line 5771-5779 (Match: 'Kingship')
+**Folder**: Book of
+
+```text
+Last edit over 4 years ago by AirCon21
+2
+Needs Review
+2
+Now I see the logic of my anamnesis: the remebering the wonderful high state I (we) fell from - & now I had back (for a while anyhow). (of the "Book of Adam & Eve".) This, then, is what is really meant by being "saved" or "born from above" "or from/by the spirit" and this ushes one into perception of the mysterious Kingdom of God which is both here & not here. By God, I am atleast inclined to see it as a punishment for a moral transgression. Angels mated with the daughters of men - there are evil angels here. We must work our way back up - but the miracle of salvation is extended (or achieved) to/for us by Christ, not by our efforts. We do not even know we are enlightneded - nor do we remember & the eve says, that, more accurately, it is the kingship of God - an assimilation to him. Corpus Christi? Which is the means of reassimilation?Yes; v. Jerusalem bible notes. Metamorphosis - but my big contribution is analysis of the reality we see normally as a sort of projected "hologram" which, when one of us is redeemed, it "disolves" to the garden or to B-I. prismate: le the epistomological asked of the salvific mechanism.I think I finally know what the vision of the B-I Prism is. Unlike the palm tree garden. It is not another world burn. Then our world - where we care now - as it really looks. It is precisely this that we are & must be redeemed from. The element of memory proves it to be a past state restored, & not an evolution from where we are now. Up the ladder to the next stage. It can be said that "the Fall" consisted of us falling downward & becoming enslaved by the closed system deformities "[Dr?] powers," from which salvation
+
+Last edit over 4 years ago by etherfire
+3
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Kingdom, Bible, World, Fall, Garden, Book, Even, Anyhow, Adam, Kingdom of God, Both, Reality, Being, Christi, Corpus, Palm, Anamnesis, More, Another, Corpus Christi, Finally, Back, Tree, Memory, Evil, Remember, Salvation
+
+---
+### Line 7398-7406 (Match: 'Kingship')
+**Folder**: book or
+
+```text
+Last edit almost 3 years ago by svayambhu108
+3
+Needs Review
+3
+3 scripture is stated the point I came to understand: that We + God are isomorphic, + this is a cardinal point - a major revelation. Until this time comes we do not see him as he really is. could that time have now come, in my actually seeing Zebra? In my triune "ham sandwich" cosmology I guessed that ➀ (God) + (3) man were isomorphic - I forget now how I arrived at this. But I did, + it's written down. 1JN 3:2 confirms my surmise. This is very important. We (3) are not isomorphic with (, the world. It would seem from the J. Bible footnote "... more perfect instruction which is to end in a vision of God 'as he really is:" + "it shall be revealed that we will be like him" - my whole exegesis has moved toward this realization that God + man are [secretly] isomorphic but separated from each other (+ so this knowledge hidden thereby), + eventually (, the world, will be abolished. the 'Kingdom of God," more properly (v E.B) "Kingship of God" refers to eternal life as fruit of the vine. Parts which bear fruit + hence are "pruned" in the sense of purified or cleaned, whereas those parts not bearing Fruit are cut off to wither + are "cast into the fire" + "consumed" - i.e the first live, the latter die (perish). Christ, then, is the source (given) of life. His is judgment is as to who will live + who won't - this not this current life span but the lifespan I retrieved memory of. The issue is nothing less than being vs non being; Christ + God ("us") in a human + he in them eternally: built into the evolving cosmic organism (the "moth") Sohn i5/16: the world literally hates, condemns + punishes God. But this is in a sense an illusory reversal of actual reality: the world (as the Gnostics realized) cannot do that, but the equation can be reversed, + suddenly true: it is the world which God disavons - i.e 5
+
+Last edit almost 3 years ago by svayambhu108
+4
+Needs Review
+```
+**Co-occurrences**: Christ, Zebra, Kingdom, Gnostic, Bible, Like, World, Time, Cosmic, Could, Kingdom of God, Reality, Being, Nothing, Those, More, Actually, Revelation, True, Will, Would, Other, Were, Very, Have, Judgment, Life, Memory, Knowledge, Suddenly, Human, Whereas, Until
+
+---
+### Line 7498-7506 (Match: 'Kingship')
+**Folder**: part of
+
+```text
+Needs Review
+15
+i
+
+His salvific mercy is not limiled just to + for us humans but extends to all creation. As Paul says in either Col. or Eoph - I think the latter. neither the so-called ontological proof of the existence of God (St Anselm's) nor the empiricall design - to- designer, etc - none hold op. Only revelation, initiated by God. He is indeed the Deus Absconditus. Gnosticism explains why; He is not found he nature because he is not there, + our reasoning cannot discern him because we are occluded. in God must reach down to us from "beyond" or "ouside" the cosmos. since + inasmuch as Christ died for our sins, he wiped the slate clean; as lther pointed out, when God sees [one of] us he sees his own spitless son. So, even by this orthodox reasoning, we are not [now, anyhow] sinful. From a Gnostic stand point; Christ "took the blow" aimed at us in retributive "Justice" by the Archon or demiurge; Christ intervened between us. Just as in my case in 3-74 when they sprung the trap, it was not me in it but him, + he burst the trap + defied the world, the trappers. I depart from Gnosticism + Mani in this regard: God does not just take the sparks of light out of the cosmos; he is infusing [good] ontology- his rule, i.e. the kingship of (the true] God onto, into this previously unreal cosmos - which is, why I say, he is saving the totality of creation, by transub‐ stantiation + assimilation + thus repairing the breach in the goe‐ head by operating through history, as Hegal saw. Besides rescuir us as individuals he rescues the species; besides the species, all life; besides all life all creation, But: when the cosmos is assimilated it will as such cease to exist (the slice of ham). There will be no world qua world - so in a sense the Gnostics are right. We will be parts of a cosmic living organism, not of dead matter. i.e. Zebra
+
+Last edit almost 3 years ago by svayambhu108
+
+16
+```
+**Co-occurrences**: Christ, Zebra, Gnostic, Paul, Gnosticism, World, Since, Because, Only, Cosmic, Good, Light, Even, Does, Anyhow, Just, Either, Deus, Through, Living, Such, Revelation, True, Will, Creation, Beyond, Mani, Life, Justice, Neither, Dead, Right
+
+---

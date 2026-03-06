@@ -1,0 +1,347 @@
+# Evidence Packet: Luke
+
+- **Category**: Top Term
+- **Total Mentions**: 91
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1743-1751 (Match: 'Luke')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+123
+Needs Review
+123
+"Not acceptable" sounds like "not acceptable to the world" or "not acceptable to those to whom it was offered"; i.e. she, Saint Sophia, the Wisdom of God, was rejected, and so departed from the world; i.e. died. So this second, collateral sentence is very meaningful; we learn why the Logos or Wisdom of God left the world, which has been very puzzling. If we read Holy Spirit, then the Mission is correct; the Holy Spirit left, perhaps fairly early, but we --I mean I-- know why, because men did not accept it in the sense that they did not find it to their liking. Thus the Mission is correct, unless "Saint Sophia" refers strictly to Christ alone. Perhaps it does. Christ is said by John to be the Logos. Anyhow, Rome won; we lost. But another try is going to be made. Or is now being made. I am left with hope, and with faith. Now, if I can only get my love together I'll have it right, finally (vide Luke, pps 1121 -- 1127).
+
+The above problem could be resolved this way: the Holy Spirit came to remind men of, and teach them about, the wisdom of Christ; i.e. as a follow up of His mission. But He and His wisdom were not acceptable and were rejected, despite the Holy Spirit which did not force it on me but left them free to choose. They chose to reject it, and finally either the Holy Spirit departed, or anyhow slid out of s[l]ight and worked (as the Roman Church says) in secret only. When Christ told the desciples of the Helper to come, He meant a Healper to help them spread the good news. The defeat then of the Holy Spirit was a continuation of the defeat He suffered. And for the same reason; the doctrines, through the desciples, failed as they had when He was alive speaking [to] them.
+
+. . . It is evident that the Holy Spirit could induce remembrance where formal knowledge, buy the person, was absent; i.e. to perform the mass one has formal knowledge. But suppose no mass is performed and no formal knowledge (memory of as handed down in traditional ways) remains? The el[l]ipsis can be abolished by the Holy Spirit, who informs inwardly of what has been totally and truly forgotten; the break is healed. Remembrance out of nothing, so to speak; it teaches what is not known. Does, sui generis, the work --efficacy-- of the mass; this could be for other cultures who never knew of or heard of Christ (which explains my original obsession with the realization, my recognition of its overwhelming importance, that a priori I had discovered the forms of a religion, Christianity, which seemed impossible. "As if a native of South America had begun carving crucifixes," I kept saying, "and talking about Galgotha." Without having any way of ever having heard of Galgotha, etc. What a miracle -- how extraordinary, opening up a totally new view of the universe, that these forms and this knowledge could arise a priori in a human mind as a category of thought.
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Sophia, Roman, Wisdom, These, Perhaps, Like, World, Because, Only, John, Harpax, Faith, Good, Mind, Could, Does, Anyhow, Suppose, Being, Either, Without, Nothing, Those, Their, Church, Another, Through, Secret, Love, Universe, Finally, Other, Mission, Were, Very, Have, Memory, America, Having, Unless, Knowledge, Human, Free, Right
+
+---
+### Line 2114-2122 (Match: 'Luke')
+**Folder**: book of
+
+```text
+Last edit over 5 years ago by Harpax
+157
+Needs Review
+157
+I just discovered that for 15 months I've labored in error as to who wrote "Acts." I had the idea it was Paul, undoubtedly because it deals with Paul. However, it was written by Luke, who also may have written "Romans." I am sitting here slowly perceiving the importance of this. First off, the stunning manifestation of theological material in TEARS is virtually all (all except for the dream) from "Acts." But the main point is that Luke was "the beloved physician," as Paul calls him, and a highly literate Greek writer. Also, in one recent dream, my attention was called to a large section of the Bible which when I looked up the page numbers was Luke's Gospel from the Sermon on the Mount to Christ at the Mount of Transfiguration. Also, my vision of the man or saint or angel informing me was of a Greek: he wore a toga and greaves. He carried a huge clasped book, which he held with both arms, affectionately. This wasn't Paul. A Greek physician and evangelist; one of the gospelists. The EB says that Luke was a darn good theologian and that he was into Christian prophecy. He was no mere chronocler of events. I've been looking over "Acts." It certainly is fluent. And he was a close friend of Paul; this fits my early dream in which "my friend Paul" is holding up a book of prophecy, now obviously sections of the Bible (specifically the New Testament.)
+
+If only I'd said plaintively to Father Rasch: "This man is a literate Greek, he's a physician and has something to do with 'Acts.'" On the spot, it'd have been put together then & there. You cannot get any more precise than that. A class with one member: St. Luke.
+
+Luke lived a lot in Syria. A palm tree country, like what I saw in 2 75. His beloved homeland. His concept of springtime.
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Paul, Greek, Bible, Roman, However, Father, Like, Because, Only, Harpax, Good, Book, Gospel, Just, Something, Both, Obviously, Palm, More, Certainly, Angel, Page, Have, Tree, Testament, Except, Syria, Dream
+
+---
+### Line 2116-2124 (Match: 'Luke')
+**Folder**: book of
+
+```text
+Needs Review
+157
+I just discovered that for 15 months I've labored in error as to who wrote "Acts." I had the idea it was Paul, undoubtedly because it deals with Paul. However, it was written by Luke, who also may have written "Romans." I am sitting here slowly perceiving the importance of this. First off, the stunning manifestation of theological material in TEARS is virtually all (all except for the dream) from "Acts." But the main point is that Luke was "the beloved physician," as Paul calls him, and a highly literate Greek writer. Also, in one recent dream, my attention was called to a large section of the Bible which when I looked up the page numbers was Luke's Gospel from the Sermon on the Mount to Christ at the Mount of Transfiguration. Also, my vision of the man or saint or angel informing me was of a Greek: he wore a toga and greaves. He carried a huge clasped book, which he held with both arms, affectionately. This wasn't Paul. A Greek physician and evangelist; one of the gospelists. The EB says that Luke was a darn good theologian and that he was into Christian prophecy. He was no mere chronocler of events. I've been looking over "Acts." It certainly is fluent. And he was a close friend of Paul; this fits my early dream in which "my friend Paul" is holding up a book of prophecy, now obviously sections of the Bible (specifically the New Testament.)
+
+If only I'd said plaintively to Father Rasch: "This man is a literate Greek, he's a physician and has something to do with 'Acts.'" On the spot, it'd have been put together then & there. You cannot get any more precise than that. A class with one member: St. Luke.
+
+Luke lived a lot in Syria. A palm tree country, like what I saw in 2 75. His beloved homeland. His concept of springtime.
+
+I'm certain that no other early great Christian (saint) was a physician; this distinguished St. Luke. Now, to return to contemplation of the personality which took me over 3 74. (The one who detested the aerosol sprays, etc.) That was St. Luke.
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Paul, Greek, Bible, Roman, However, Father, Like, Because, Only, Good, Book, Gospel, Just, Something, Both, Obviously, Great, Palm, More, Certainly, Other, Angel, Page, Have, Tree, Testament, Except, Syria, Dream
+
+---
+### Line 2118-2126 (Match: 'Luke')
+**Folder**: book of
+
+```text
+I just discovered that for 15 months I've labored in error as to who wrote "Acts." I had the idea it was Paul, undoubtedly because it deals with Paul. However, it was written by Luke, who also may have written "Romans." I am sitting here slowly perceiving the importance of this. First off, the stunning manifestation of theological material in TEARS is virtually all (all except for the dream) from "Acts." But the main point is that Luke was "the beloved physician," as Paul calls him, and a highly literate Greek writer. Also, in one recent dream, my attention was called to a large section of the Bible which when I looked up the page numbers was Luke's Gospel from the Sermon on the Mount to Christ at the Mount of Transfiguration. Also, my vision of the man or saint or angel informing me was of a Greek: he wore a toga and greaves. He carried a huge clasped book, which he held with both arms, affectionately. This wasn't Paul. A Greek physician and evangelist; one of the gospelists. The EB says that Luke was a darn good theologian and that he was into Christian prophecy. He was no mere chronocler of events. I've been looking over "Acts." It certainly is fluent. And he was a close friend of Paul; this fits my early dream in which "my friend Paul" is holding up a book of prophecy, now obviously sections of the Bible (specifically the New Testament.)
+
+If only I'd said plaintively to Father Rasch: "This man is a literate Greek, he's a physician and has something to do with 'Acts.'" On the spot, it'd have been put together then & there. You cannot get any more precise than that. A class with one member: St. Luke.
+
+Luke lived a lot in Syria. A palm tree country, like what I saw in 2 75. His beloved homeland. His concept of springtime.
+
+I'm certain that no other early great Christian (saint) was a physician; this distinguished St. Luke. Now, to return to contemplation of the personality which took me over 3 74. (The one who detested the aerosol sprays, etc.) That was St. Luke.
+
+Although I did not know who you were I thank you. "He found in heaven A friend," as Gray says. This was a meeting which I can't convey To anyone, this helping hand. Was it because I worried about Lorraine? Or lit the candles? Why you came I can understand a little; Why you left is another matter. The days are empty now: no friend speaks. The candles all are cold and dead And about the rest --her-- I know nothing. Days pass...will you return?
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Paul, Greek, Bible, Roman, However, Father, Like, Because, Only, Good, Book, Gospel, Just, Something, Both, Obviously, Although, Great, Palm, Nothing, More, Another, Heaven, Certainly, Will, Other, Angel, Page, Were, Have, Tree, Testament, Days, Except, Dead, Syria, Dream
+
+---
+### Line 2120-2128 (Match: 'Luke')
+**Folder**: book of
+
+```text
+If only I'd said plaintively to Father Rasch: "This man is a literate Greek, he's a physician and has something to do with 'Acts.'" On the spot, it'd have been put together then & there. You cannot get any more precise than that. A class with one member: St. Luke.
+
+Luke lived a lot in Syria. A palm tree country, like what I saw in 2 75. His beloved homeland. His concept of springtime.
+
+I'm certain that no other early great Christian (saint) was a physician; this distinguished St. Luke. Now, to return to contemplation of the personality which took me over 3 74. (The one who detested the aerosol sprays, etc.) That was St. Luke.
+
+Although I did not know who you were I thank you. "He found in heaven A friend," as Gray says. This was a meeting which I can't convey To anyone, this helping hand. Was it because I worried about Lorraine? Or lit the candles? Why you came I can understand a little; Why you left is another matter. The days are empty now: no friend speaks. The candles all are cold and dead And about the rest --her-- I know nothing. Days pass...will you return?
+
+I don't know how to write a poem to Saint Luke, but there it is, the best I can do.
+```
+**Co-occurrences**: Acts, Christian, Greek, Father, Like, Because, Only, Something, Although, Great, Palm, Nothing, More, Another, Heaven, Will, Other, Were, Have, Tree, Days, Dead, Syria
+
+---
+### Line 2124-2132 (Match: 'Luke')
+**Folder**: book of
+
+```text
+I'm certain that no other early great Christian (saint) was a physician; this distinguished St. Luke. Now, to return to contemplation of the personality which took me over 3 74. (The one who detested the aerosol sprays, etc.) That was St. Luke.
+
+Although I did not know who you were I thank you. "He found in heaven A friend," as Gray says. This was a meeting which I can't convey To anyone, this helping hand. Was it because I worried about Lorraine? Or lit the candles? Why you came I can understand a little; Why you left is another matter. The days are empty now: no friend speaks. The candles all are cold and dead And about the rest --her-- I know nothing. Days pass...will you return?
+
+I don't know how to write a poem to Saint Luke, but there it is, the best I can do.
+
+Last edit over 5 years ago by Harpax
+158
+Needs Review
+```
+**Co-occurrences**: Christian, Because, Harpax, Although, Great, Nothing, Another, Heaven, Will, Other, Were, Days, Dead
+
+---
+### Line 2136-2144 (Match: 'Luke')
+**Folder**: book but
+
+```text
+In other words the black man whom Buckman meets is even more like the black man whom Philip meets than I had realized...or anyhow he ought to be, by law. A black eunuch! But obviously, if one studies the dynamics of the novel, one sees that through his dream Felix Buckman is converted to Christianity, and his koinos kosmos alters along with him, to abruptly produce the black man with 3 children -- a new world! The man is black, he is a eunuch, he is "embraced," he produces something in writing for Philip/Felix to see...it's a living system of some kind, and active.
+
+The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
+
+. . . For TO SCARE THE DEAD: let it turn out to be St. Luke who shaministically possessed him (a bridge thus established between 70 AD and our present), and the protag eventually discovers, though this assimilated inner contact that St. Luke (and probably also the others of the original cadre of Christians, the inner circle of Christ's) is what we call a (are you ready?) a non-terrestrial, of magnificent power and authority and wisdom. I think plotwise the protag eventually learns/decides that originially such men as St. Luke were ordinary humans, "born of woman," etc., but became this -- through such possession of them by the Holy Spirit, which is to say their Master, Christ (who was not an ordinary human being). And the purpose of this elevation comes through now, since our planet has had it (ecology wise, due to our using up and destroying and polluting); this is a system to get some of us, as many as possible "translated" out of here and hence saved; this is the true meaning of "being saved," saved from the holocaust. This too is the meaning of the now-arriving Parousia.
+
+Last edit over 5 years ago by Harpax
+159
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Christianity, Holy Spirit, Felix, Parousia, Wisdom, Like, World, Since, Harpax, After, Black, Buckman, Even, Anyhow, Something, Kosmos, Being, Obviously, Philip, Probably, Their, More, Through, Living, Such, True, Other, Were, Many, Wise, Later, Dead, Human, Dream, Right
+
+---
+### Line 2142-2150 (Match: 'Luke')
+**Folder**: book but
+
+```text
+Last edit over 5 years ago by Harpax
+159
+Needs Review
+159
+I might add that what gives the non-terrestriality of Luke away to the protag are, e.g., the dreams in which the protag experiences himself --and man in general-- as an animal among other animals, a sort of anthropological-biologist-naturalist viewpoint derived from Luke-within him. He obtains Luke's standpoint, and it is off earth. The other-end-of-the-telescope view. What St. Luke had, as "vibes," is a humorous attitude, a smiling, almost rollicking quality -- except that he has ferocious dedication & drive to the cause of truth and righteousness. Humor and zeal. And because of being a physician he has a tender healing quality.
+
+It's an invasion from the past, contrived in the future (the time-loop structure), from off earth, inside his (and other people's) head. It, the invader, just pops on inside him one day, and from then on it occupies the right hemisphere of his mind, which was just waiting on standby for this. (Peronality of it a little like Lord Running Clam.)
+
+Plot breakdown:
+```
+**Co-occurrences**: Lord, Like, Because, Time, Earth, Harpax, Mind, Just, Being, Himself, Other, Except, Truth, Right
+
+---
+### Line 2907-2915 (Match: 'Luke')
+**Folder**: part our
+
+```text
+221
+-2-
+
+(three) The language I heard turned out to be the Greek of the New Testament, in particular Luke's, and was both religious and healing in nature, which goes with the notion of the Good Friday Spell (let me say at this point that I had been very ill for almost two years, and was bedridden most of the time; this ceased when the experience began).
+
+(four) The specific reference to "Saint Sophia."
+
+(five) In the book "The Wisdom of Solomon" I have discovered an exact account and description of the very inner nature of this entity which entered me or somehow revealed Itself to me both outside and in¬ side. It was indeed Haggia Sophia.
+```
+**Co-occurrences**: Sophia, Greek, Wisdom, Time, Good, Book, Both, Most, Friday, Somehow, Very, Have, Testament
+
+---
+### Line 2957-2965 (Match: 'Luke')
+**Folder**: Book of
+
+```text
+How could I have known (learned somewhere previously) that when I heard the Savior's voice it would resemble (be) (be like) a woman's voice? And I would dream about the "sibyl"? It has now taken me 27 months of work; I arrive now at this point, having tracked down each aspect of this, to delineate it with certainty. There is no real possibility that I've made an error. The "first emanation from God."
+
+In 3-74 I was transformed into what I was not, which is a miracle, and I did things I would never do, which follows as an equal miracle; they were good things and absolutely necessary, and if I had not done them I wouldn't have made it (or accomplished what I subsequently accomplished, whatever that was). So, by a laborious path, checking each step thoroughly, I have arrived here. There was never a more rewarding search, nor a finer goal (final understanding and acceptance); I feel an enormous peace. The pain is gone, even though I'm still here (in the sublunar world). The supralunar broke through when it was necessary, and it fully achieved its will (as depicted to me in dreams: the destruction of the tyranny). I was brought into accord with its historic purpose, and so good came out of my damaged life...my aimless life which in itself pointed nowhere but had good moments embedded in it.
+
+Mark 13:5, Luke 21 whatever: (i) "I —Christ— will give you an elloquence and a wisdom that none can contradict you." (ii) "The Holy Spirit will speak for you" (when you are brought up on charges). Christ, returning after his death, his the Holy Spirit, evidently, if both these passages are correct. Before the Incarnation it was Holy Wisdom; then Jesus Christ; then the Holy Spirit. I think they are the same, expressed as prior, during and after. (The Incarnation.) I equals the Holy Spirit, which certainly fits with Christ saying that the Holy Spirit couldn't show up unless and until he himself left: it will be another form of whatever he is, and there was a prior form, too; but the prior and the final form aren't incarnate. "St. Sophia will be reborn" means the second incarnation, beyond any doubt. Also, Christ is said (by Paul) to be the image of the living God, and Holy Wisdom is also the image of God. The early Christians must have been (esp John) fully aware of who it was that had walked among them: the Son of God had once been the first daughter of God, and later would be neutral (the Holy Spirit). It was/is all sexes, so to speak...more accurately, they/it can be humanly apprehended in any of these ways: assimilated by us, as it were.
+
+"At each generation, Holy Wisdom enters the souls of (certain) holy men and turns them into prophets." Da kam sie an mich, Ich denke. The word "prophet" doesn't mean one who sees the future as such, but more someone who calls attention to the deepest ails of his society, esp. in terms of a tyrannical and unjust government. EB: "The prophet is the mouthpiece of the god." Through dreams & Visions, etc. Revelatory experiences, auditionary, signs, etc.
+
+The dream in "TEARS" anticipates exactly what did happen: anticipated it in 70, and it happened (for me anyhow) just after the
+```
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Sophia, Paul, Wisdom, These, Like, World, John, After, Savior, Holy Wisdom, Good, Even, Could, Anyhow, Just, Once, Both, Jesus Christ, Himself, Sibyl, Still, More, Another, Through, Living, Real, Such, Voice, Certainly, Before, Death, Will, Would, Were, Beyond, Whatever, Have, Things, Life, Later, Having, Unless, Government, During, Dream, Evidently, Doesn, Final, Someone, Until
+
+---
+### Line 3237-3245 (Match: 'Luke')
+**Folder**: book by
+
+```text
+already, in the cats (esp. pinky). So many indices. But this all means: Christ reigns now; the Lord has come back! He didn't topple the tyranny and then leave; his reign begins, now. This is the good news, as of the JWs. The godspell.
+
+I can substantiate this, that Christ is here. The JWs know it by historic and Bible analysis and by faith; I know it by experience. I was your perfect mad fool for Christ, and I did pay for my resistance; i.e. Nov 17, 1971, in which I lost everything I owned, and was subjected to great hassible by the authorities (the ir leg). I was driven from my land, made an exile in fear, made penniless and a wanderer. I keep forgetting this; I not only risked, I actually paid, almost with my life. When you reflect on that (it appeared in the book by my friend Paul in an early visionary dream: "A Marin County writer will have troubles..." etc), you can better see how I came to be picked in 3-74 for a reward; I hope this isn't hubris, but I did pay heavily for my anti-war stand, and that is a fact. That was the well-documented Time of Great Tribulation — cut short in 3-74 by God, to spare me. And then the restoration of all things began. My last act against the regime was when I fired off TEARS and it was published. So from the standpoint of efficient causes the experience can be understood (a reward following what I did and what was done to me), and also in final-cause terms, it gave me wisdom and strength to do what I still had to do; such is the dovetailing of a true cosmos.
+
+In 28 months I've created an enormous exegesis of my 3-74 experience, which is what you are supposed to do: subject the mystical to the rational and see what comes of it. Look where I wind up. Now what can we expect? A return of the early saints, such as St. Luke — I believe this, too, has happened, and that I witnessed it in regard to one of them anyhow. The tribulations occured; the intervention and judging occured; the throwing down of the Prince of This World occured; now the millenial age is with us, but just as secretly as was the rule by Satan (as the JWs point out). I saw that millenial age in the palm tree universe. The Secret Garden, as I have called it: The Kingdom of Christ or God. But to appreciate this age completely we would have to have experienced where we'd be now if God hadn't intervened: probably completely downtrodden by the tyranny, our freedoms gone, and probably at war. It is the contrast which reveals, and we will never experience the contrast. Like me personally, we have been freed from a prison before it was built; God interceded in advance. So we can only guess what the alternative world would have been like. I personally would not be here at all. In DEUS IRAE the vision of the palm land,’the Holy Land, by Dr. Abernathy, signifies that the curse has been lifted; I deduce that my seeing it indicated too for us or for me, too. This is how the world ought to be; or, put another way, this is how we ought to see/experience it (Form One of Parmenides). The tyrant Nixon "died," like Lufteufel in the novel...and the curse was lifted; it is another absolute sign of the end-times.
+
+Last edit almost 5 years ago by svayambhu108
+252
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Holy, Form, Kingdom, Paul, Satan, Well, Bible, Wisdom, Lord, Like, World, Parmenides, Prison, Only, Time, Nixon, Faith, Garden, Good, Book, Pinky, Anyhow, Just, Look, Everything, Great, Probably, Palm, Deus, Still, Another, Such, Actually, Secret, Before, True, Irae, Universe, Will, Would, Back, Many, Have, Tree, Things, Life, Absolute, Form One, Deus Irae, Dream, Final
+
+---
+### Line 4200-4208 (Match: 'Luke')
+**Folder**: book which
+
+```text
+Last edit almost 3 years ago by svayambhu108
+60
+Needs Review
+60
+60 werent changed; the personalities were changed. God did not give me false memories or artificial memories (of some thing I never experienced; he did it so that the new (sic) memories were legitimate. Gover my new personality I die remember the fist ascent. Evidently he attacked another personality with those memories (i.e. someone who actually was there) to my identity, so that I remembered. This is indeed a miracle; I was no longer me (+ all this shows why I had to have a different self, + why me appeared; it was to allow (or give to me) the memorica If you think about it how else could it be handled (achieved) without (merely) faking it (eg. Like you get with hypnosis - i.e. a fraud. + God never lies. There is no doubt that He turned me into an actual historic person a Anamnesis was the goal; the new personality mere was the means. But look: cook how much - no wave of thehant - was needed to accomplish the miracle without fakery. +, while doing this He made use of a personalit which could act in my place + behalf, more effectivity than I ever could, + so held me practically. Probably I will mever know why he did all this for me: out of love + kindness + also maybe having to do with my war protest ("when you are are brought before a magistrate on mo behalf" - the promise in Luke (etal) + with writing I could still do - ah! This is why I was shown the material in "Tears" which I now realy was continuel in deus Irae All this exegesis shows me what a complex + profound miracle it has been, with many facets, it could not have been a small or offhand thing (nor, I guess, common
+
+Last edit almost 3 years ago by svayambhu108
+
+61
+```
+**Co-occurrences**: Tears, Maybe, Like, Could, Look, Self, Probably, Deus, Anamnesis, Without, Those, Still, More, Another, Actually, Love, Before, Irae, Will, Were, Many, Have, Having, Remember, Deus Irae, Evidently, Someone
+
+---
+### Line 5951-5959 (Match: 'Luke')
+**Folder**: part could
+
+```text
+In Zoroastrianism (cf the Essenes) the spirit of truth is not only identified with light but also Justice.
+
+The belief that virtues, such as Justice, wisdom, truth, are persons (supralunar) is Zoroastrian in origin.
+
+"Manual of discipline": The 2 spirits in each man: 1) truth 2) lies. &: made by the God of knowledge. Luke 3:21 Jesus Baptism "& a voice came from heaven, "You are my son, the beloved, my favor rests on you". Note: "var. & You are my son, today I have become your father." Adoptionism
+
+Last edit 1 minute ago by Gabriel Mckee
+
+6
+```
+**Co-occurrences**: Spirit, Jesus, Wisdom, Father, Only, Gabriel, Mckee, Gabriel Mckee, Light, Zoroastrian, Essene, Heaven, Such, Voice, Zoroastrianism, Have, Justice, Knowledge, Truth, Today
+
+---
+### Line 6172-6180 (Match: 'Luke')
+**Folder**: part but
+
+```text
+Last edit over 4 years ago by etherfire
+2
+Needs Review
+2
+(2) Star Wars: Kenobi is killed but is not killed; even his body is not there when the beam cuts him in half. He says, (p. 168): "If my blade finds its mark you will cease to exist. But if you can cut me down. I will [only?] become more powerful. Heed my words." Then: but Ben Kenobi was not in it. There was no sign of the old man. He had vanished as though he had never existed. Then: (p. 169): "No," Luke half shorted, half sobbed: A familiar yet different voice * in his ears - Ben's voice. "Luke...Listen!" was all it said. Bewildered, Luke turned to hunt for the source of the voice. He saw [only?] (etc).
+
+The Force: "Remember." Kenobi said, "the force is omnipresent. It envelopes you as it radiates from you. A Jedi warrior can actually feel the force as a physical thing." "It is an energy Field, then?" Luke inquired "It is an energy Field and something more," Kenobi went* on almost mystically. "An aura that at once controls and obeys. It is a nothingness that can accomplish miracles. No one, not even the Jedi scientists were able to truly define the force. Possibly no one ever will. Sometimes there is as much magic as science in the explanations of the force. P. 121: "I've seen too many (things) to believe there couldn't (could?) be something like this 'force' too many to think [then?] that there could be some such controlling me; actions. I determine my destiny - not some all mystical energy field." p. 211: "Let's go Luke," a voice he had heard before sounded inside his head. Again he tapped his helmet and looked around. It sounded as if the speaker were standing just behind him - but there was nothing.
+
+Last edit over 4 years ago by Kfischer
+```
+**Co-occurrences**: Like, Only, Even, Could, Just, Something, Once, Again, Nothing, More, Star, Such, Voice, Actually, Before, Will, Were, Wars, Many, Things, Body, Star Wars, Remember, Magic
+
+---
+### Line 6174-6182 (Match: 'Luke')
+**Folder**: part but
+
+```text
+Needs Review
+2
+(2) Star Wars: Kenobi is killed but is not killed; even his body is not there when the beam cuts him in half. He says, (p. 168): "If my blade finds its mark you will cease to exist. But if you can cut me down. I will [only?] become more powerful. Heed my words." Then: but Ben Kenobi was not in it. There was no sign of the old man. He had vanished as though he had never existed. Then: (p. 169): "No," Luke half shorted, half sobbed: A familiar yet different voice * in his ears - Ben's voice. "Luke...Listen!" was all it said. Bewildered, Luke turned to hunt for the source of the voice. He saw [only?] (etc).
+
+The Force: "Remember." Kenobi said, "the force is omnipresent. It envelopes you as it radiates from you. A Jedi warrior can actually feel the force as a physical thing." "It is an energy Field, then?" Luke inquired "It is an energy Field and something more," Kenobi went* on almost mystically. "An aura that at once controls and obeys. It is a nothingness that can accomplish miracles. No one, not even the Jedi scientists were able to truly define the force. Possibly no one ever will. Sometimes there is as much magic as science in the explanations of the force. P. 121: "I've seen too many (things) to believe there couldn't (could?) be something like this 'force' too many to think [then?] that there could be some such controlling me; actions. I determine my destiny - not some all mystical energy field." p. 211: "Let's go Luke," a voice he had heard before sounded inside his head. Again he tapped his helmet and looked around. It sounded as if the speaker were standing just behind him - but there was nothing.
+
+Last edit over 4 years ago by Kfischer
+3
+Needs Review
+```
+**Co-occurrences**: Like, Only, Even, Could, Just, Something, Once, Again, Nothing, More, Star, Such, Voice, Actually, Before, Will, Were, Wars, Many, Things, Body, Star Wars, Remember, Magic
+
+---
+### Line 6180-6188 (Match: 'Luke')
+**Folder**: part but
+
+```text
+Last edit over 4 years ago by Kfischer
+3
+Needs Review
+3
+Star Wars: "All 3 the (imperial) fighters continued to chase the remaining x-wing down the trench. It was only a matter of moments" etc. But a "supple Freighter eclipsed the sun." etc. "To the other side, Darth Vader's fighter began spinning helplessly... Whoever was at the controls of the supply freighter was neither unconscious nor insane - well, perhaps slightly touched. But fully in command nonetheless: it soares high above the trench tucking to run protectively above Luke. "You're all clear now, kid," a familiar voice informed him. "Now blow this thing so we can all go home." ...There was a tickling inside (Luke's) head. "Luke...trust me." the tickle requested, [forming words?] for the third time...with the confidence of a blind man in familiar surroundings, Luke moved a thumb over several controls...He blinked and cleared his eyes. Has he been asleep? Looking back, he saw that he was out of the trench and shooting back into open space... (a control) indicated that he had released his remaining torpedoes, although he didn't (couldn't) remember touching the firing stud. The cockpit [spectators?] were alive with excitement. "You did it!"
+
+Prologue: "Another galaxy, another time. The Old Republic was the Republic of Legend, *greater than distance or time...Once, under the wise [sick?] rule of the Senate and the protection of the Jedi Knights, the Republic [thrived?] and grew. But as often happens when wealth and power pass beyond the [admirable?] and attain the awesome, then appear those evil ones who have greed to match. So it was with the Republic at its [highest?]. Like the greatest of trees, able to withstand any [external?/internal?] attack, the Republic rotted from within though the danger was not visible from outside. Aided and abetted by restless, power-hungry individuals within [sic?] the Government and the massive [organs of commerce?], the ambitious Senator Palpatine careful himself to be elected President of the Republic. Once *securing office he declared himself Emperor, shutting himself away from the *popular. Soon he was controlled by the
+
+Last edit over 4 years ago by Kfischer
+```
+**Co-occurrences**: Well, Perhaps, Like, Only, Time, Once, Although, Himself, Those, Another, Star, Nonetheless, Voice, Other, Were, Wars, Back, Beyond, Under, Have, Star Wars, Wise, Neither, Evil, Remember, Government, Greater
+
+---
+### Line 6198-6206 (Match: 'Luke')
+**Folder**: part but
+
+```text
+Last edit over 4 years ago by Kfischer
+5
+Needs Review
+5
+Emanating originally from the force (temporarily) defeats the [Empirer?] In my 3-74 vision-of-recall, I saw us wearing the kind of robe Ben Kenobi wears and blowing up the huge iron "citadel". In 3 Stigmata I wrote about Darth Vadar. -- Described him and his mask. It was the force which seized me in 3-74. I was |am| have been but forgot that I am |was| have been a Jedi Knight. "Star Wars" fully and accurately explicates the actual situation underlying [our?] world (or reality, if you will). The voice spoke to me the way the "dead" (defeated and killed) Ben Kenobi spoke Luke, advising him to victory. We call him Christ. "Star wars" Gives an even better account of the situation, in some respects, than does the Bible. But if both books are fused together, one, more complete account emerges. Christ = Ben Kenobi. The fight against Nixon was = to the fight to destroy the Death Star (Vietnam War, US Military, etc. and Government) in which (at least to me) to voice of the ancient "dead" Jedi Knight Ben Kenobi was audible inside my head, and, in addition the force took me over and [directed?] me to personal victory. "Star Wars" is basically not fiction, any more than is the Bible. Names and details only are fictional. Conclusion - the transplanetary forces described in the [N. T.?] and "Star Wars" explain my 3-74 experience. It is not merely [Rome Qua Rome*?] which was involved (I had already discovered Babylon beneath Rome, [cf?] "Daniel") But evidently that is where I last fought.* Darth Vader was not destroyed at the Roman confrontation, nor even deposed in view of the fact that I recall blowing up the iron city I must be remembering a more "Matrix" confrontation - the Roman one was a failure, of which the success in 3-74 was the [extension?] or outcome unto victory (upon seeing the two time-place [Loci?] joined as one).
+
+Last edit over 4 years ago by Kfischer
+
+6
+```
+**Co-occurrences**: Christ, Complete, Rome, Bible, Roman, World, Iron, Only, Time, Nixon, Stigmata, Book, Even, Does, Both, Reality, Daniel, More, Star, Babylon, Voice, Upon, Death, Will, Wars, Have, Star Wars, Government, Dead, Evidently
+
+---
+### Line 6243-6251 (Match: 'Luke')
+**Folder**: Unknown
+
+```text
+Last edit over 4 years ago by Kfischer
+10
+Needs Review
+10
+Compare this to Spinoza's analysis that Christ was the still small voice which Elijah heard. Christ is the vox* dei*, or the word* (logos). that Ben Kenobi after death in essence speaks for the force (Luke Ptath, the tongue of the gods) gives a clue to the post ma** life of the Knights. THey die but are reborn. In my anamnesis** I remember a previous existence, so I can say, I lived, died (as a "Knight" or rebel Christian), must have later died, but live now, informed by the King's voice, he who was also killed. But, like Ben Kenobi, lives on [unincarnated?].
+
+[breakdown of trip expenses?]
+
+835-3161 11,840.53
+```
+**Co-occurrences**: Christ, Christian, Logos, King, Spinoza, Elijah, Like, After, Gods, Anamnesis, Still, Voice, Death, Have, Life, Later, Remember, Ptath
+
+---
+### Line 6321-6329 (Match: 'Luke')
+**Folder**: book came
+
+```text
+Last edit almost 3 years ago by svayambhu108
+20
+Needs Review
+20
+70 folling my line of reasoning in "3 Stigmata" + "Maze" the delusional world looks better than the true reality underneatly is, I found myself in 3-74 encountering a Black Iron prison under the Dokos, however the transmuting activity of the intercessor was at work, changing it into a park. We lived through those changes (watergate) but did not grasp their supernatural, cosmic ramifications: we saw changes only within our Dokos realm, but in the authentic 70 AD world : the oppression + evil were worse, + (2) the improvement greater. This means that the great change prophecized, which took place in the real or koinos world, affected our Dokos world, too, it had analogous reverberations here, but on a smaller scale. I am sure (v. my metz speech) that we - after the savior's death - with him as our invisible theolepsic King, overthrew the Empire within the orthogonal matrix. He became all of his followers, there - which was duplicated here in my case, for example, But I, through anamnesis, was there, primarily (star Wars + ben Kenobi guiding like sheds light on all this - God! If anyone else had a theoleptic experience such as I had an 3-74 they'll read/see star Wars as I did: as an account of what happened: the old Republic, the Empire, the force. The Jedi Knights, the bicameral voice - I wonder if anyone will see a correction or resemblance between the voice speaking to arctor from his right hemisphered + ben Kenobis voice in Luke's head? + in the same year Julian Jayne's book came out much of the historic story is told in star Wars. what if someone corrolates all this? Esp. someone who experienced what I experienced? The whole story is leaking out or rather being leaked out. "Star Wars" recounts our ur, or racial memories + deal. - not with the true past - but only with the linear past, but the orthogonal present (matrix). Star Wars" accurately + fully depicts the koinos kosmos.
+
+Last edit almost 3 years ago by svayambhu108
+
+21
+```
+**Co-occurrences**: King, Empire, However, Maze, Like, World, Iron, Prison, Only, After, Black, Cosmic, Stigmata, Savior, Book, Light, Realm, Reality, Kosmos, Being, Black Iron Prison, Great, Anamnesis, Those, Dokos, Their, Star, Through, Metz, Real, Such, Voice, True, Death, Will, Were, Wars, Under, Star Wars, Evil, Greater, Iron Prison, Right, Someone
+
+---
+### Line 6368-6376 (Match: 'Luke')
+**Folder**: book came
+
+```text
+Last edit almost 3 years ago by svayambhu108
+28
+Needs Review
+28
+( So I was taken out of the enslaving cause-+-effect spurious linear-strip world + restored to commity with my Lord at the orthogonal matrix I, then returned to the linear world changed, so that I was free of its stimulus - + - response engramming, at which time I could see the savior (Valis, Zebra) mimicking objects + processes of our world + so affecting Their outcome; meanwhile I was saved from the Xerox letter which had, did or should somehow have bound or enslaved me completely. (The Kaballa said it was from the party.) I was new born, like a child, as in wordsworth's "ode" I had reseen, rejoined + regained the eternal unchanging world + my Lord, but I had also seen the Black Iron Prison enslaving us (cf the "ode"). I saw that against which we struggled perpetually - + defeated; I witnessed its defeat. I stick by my speech: we were reliving this period in linear time supported by God so that this time we did not confront the impenetrable B. I prison tyranny which had originally enslaved us (v. "Tears"). The force of God acted directly on the tyranny. Although it made use of us somewhat. But my regained memory of blowing up the Black Iron citadel - cf "Star Wars" - that's what I remembered: the strike at The death Star ‐ The empire (+ "Palmer Eldritch: Vader The Black Iron Prison + we Christians = the rebels. Christ = the last of the Jedi Knights, Ben Kenobi. the moment, in anamnesis, which in "Star Wars" I specifically remember, is just after the successful attack on the death star which blew it up. But we were dressed - not like Luke - but as the Jedi Knights were: in brown or gray robes. So ben Kenobi had died just a while ago - yes, I remembered that, + we knew he would return. We were jubelent - of course we were: we had blown up the citadel of the Empire. Notice in the "Star Wars" prolog the obvious references to Nixon! I had not noted this before, but it is inescapable - + deliberate. Lukas deliberately connects the tale of the overthrow of the old, good republic by evil men to the overthrow of the american republic by the forces of empire. Any discerning ready will note this (in the book).
+
+Last edit almost 3 years ago by svayambhu108
+29
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Tears, Christian, Zebra, Xerox, Empire, Lord, Like, World, Iron, Prison, Time, Nixon, After, Black, Savior, Good, Book, Could, Just, Although, Eldritch, Black Iron Prison, Palmer, Anamnesis, Palmer Eldritch, Their, Star, Before, Death, Will, Would, Somehow, Were, Wars, Meanwhile, Have, Memory, Star Wars, Evil, Remember, Iron Prison, Free
+
+---

@@ -1,0 +1,871 @@
+Term,Count,Aliases,Primary Category,Methods
+Christ,4853,Christs,Top Term,"naming_pattern, word_mining"
+Valis,3934,,Top Term,"naming_pattern, word_mining"
+Tears,2029,,Top Term,word_mining
+Acts,1801,,Top Term,"naming_pattern, word_mining"
+Christian,1745,"Christians, Xtian, Xtians",Top Term,"naming_pattern, word_mining"
+Ubik,1527,,Top Term,"naming_pattern, word_mining"
+Toso,1495,,Top Term,word_mining
+Thomas,1481,,Top Term,"naming_pattern, word_mining"
+Indexed,1140,,Top Term,word_mining
+Spirit,1097,,Top Term,word_mining
+Holy,1082,,Top Term,"naming_pattern, word_mining"
+Zebra,999,,Top Term,"naming_pattern, word_mining"
+Logos,927,,Top Term,"naming_pattern, word_mining"
+Jesus,926,,Top Term,"naming_pattern, word_mining"
+Complete,851,,Top Term,word_mining
+Xerox,815,,Top Term,word_mining
+Rome,780,,Top Term,word_mining
+Christianity,746,Xtianity,Top Term,"naming_pattern, word_mining"
+Holy Spirit,713,,Top Term,phrase_mining
+Form,707,Forms,Top Term,"naming_pattern, word_mining"
+Sophia,692,,Top Term,word_mining
+Plato,661,,Top Term,word_mining
+Kingdom,581,,Top Term,word_mining
+Gnostic,541,Gnostics,Top Term,word_mining
+King,502,,Top Term,word_mining
+Torah,475,,Top Term,word_mining
+Brahman,408,,Top Term,word_mining
+Paul,400,,Top Term,word_mining
+Fish,372,,Top Term,word_mining
+Felix,355,,Top Term,word_mining
+Greek,354,Greeks,Top Term,word_mining
+Ditheon,346,Ditheons,Top Term,"naming_pattern, word_mining"
+Satan,343,,Top Term,word_mining
+Well,342,,Top Term,word_mining
+Empire,335,,Top Term,word_mining
+Bible,326,,Top Term,word_mining
+Gnosticism,319,,Top Term,word_mining
+Parousia,317,,Top Term,word_mining
+Golden,303,,Top Term,word_mining
+Roman,295,Romans,Top Term,word_mining
+However,293,,Top Term,word_mining
+Spinoza,293,,Top Term,word_mining
+Maze,279,,Top Term,word_mining
+Wisdom,274,,Top Term,word_mining
+Dionysos,273,,Top Term,word_mining
+Lord,267,,Top Term,word_mining
+These,263,,Top Term,word_mining
+Perhaps,259,,Top Term,word_mining
+Advent,259,,Top Term,word_mining
+Godhead,257,,Top Term,word_mining
+Plotinus,239,Neoplatonism,Top Term,word_mining
+Elijah,233,,Top Term,"naming_pattern, word_mining"
+Father,229,Fathers,Top Term,word_mining
+Tagore,226,,Top Term,word_mining
+Maybe,225,,Top Term,word_mining
+James,211,,Top Term,word_mining
+Scanner,210,,Top Term,word_mining
+Like,207,,Top Term,word_mining
+World,200,,Top Term,word_mining
+Parmenides,200,,Top Term,word_mining
+Since,197,,Top Term,word_mining
+Gnosis,197,,Top Term,word_mining
+Fall,196,,Top Term,word_mining
+Because,195,,Top Term,word_mining
+Therefore,194,,Top Term,word_mining
+Malebranche,194,,Top Term,word_mining
+Golden Fish,190,,Top Term,phrase_mining
+Iron,190,,Top Term,word_mining
+Prison,183,,Top Term,word_mining
+Only,182,,Top Term,word_mining
+John,180,,Top Term,word_mining
+Time,178,,Top Term,word_mining
+Earth,178,,Top Term,word_mining
+Nixon,170,,Top Term,word_mining
+Platonist,170,,Top Term,word_mining
+Harpax,168,,Top Term,word_mining
+After,163,,Top Term,word_mining
+Noos,163,,Top Term,word_mining
+Black,163,,Top Term,word_mining
+Cosmic,162,,Top Term,word_mining
+Pigspurt,162,,Top Term,word_mining
+Gabriel,159,,Top Term,word_mining
+Folder,159,,Top Term,word_mining
+Paraclete,157,,Top Term,word_mining
+Mckee,155,,Top Term,word_mining
+Gabriel Mckee,154,,Top Term,phrase_mining
+Faith,152,,Top Term,word_mining
+Stigmata,151,,Top Term,word_mining
+Garden,148,,Top Term,word_mining
+Buddha,144,,Top Term,word_mining
+Pythagoras,140,,Top Term,word_mining
+Savior,139,,Top Term,word_mining
+Platonism,138,,Top Term,"naming_pattern, word_mining"
+Holy Wisdom,131,,Top Term,"naming_pattern, phrase_mining"
+Urgrund,131,,Top Term,word_mining
+Good,129,,Top Term,word_mining
+Mind,125,,Top Term,word_mining
+Buckman,124,,Top Term,word_mining
+Book,124,Books,Top Term,word_mining
+Hermetic,124,Hermetics,Top Term,word_mining
+Cosmic Christ,123,,Top Term,phrase_mining
+Light,123,,Top Term,word_mining
+Even,122,,Top Term,word_mining
+Karma,122,,Top Term,"naming_pattern, word_mining"
+Judaism,121,,Top Term,word_mining
+Gestalt,121,Gestalts,Top Term,word_mining
+Gospel,119,Gospels,Top Term,word_mining
+St Sophia,117,,Top Term,phrase_mining
+Yang,117,,Top Term,word_mining
+Firebright,116,,Top Term,"naming_pattern, word_mining"
+Okay,115,,Top Term,word_mining
+Could,115,,Top Term,word_mining
+Joint,115,,Top Term,word_mining
+King Felix,114,,Top Term,phrase_mining
+Taverner,113,,Top Term,word_mining
+Does,112,,Top Term,word_mining
+Bardo,111,,Top Term,word_mining
+Pinky,110,,Top Term,word_mining
+Anyhow,109,,Top Term,word_mining
+Philo,109,,Top Term,word_mining
+Jakob Boehme,109,"Boehme, Bohme",Top Term,word_mining
+Hebrew,109,Hebrews,Top Term,word_mining
+Zebrapedia,108,,Top Term,word_mining
+Just,106,,Top Term,word_mining
+Soviet,106,Soviets,Top Term,word_mining
+Something,105,,Top Term,word_mining
+Thodol,105,,Top Term,word_mining
+Look,102,,Top Term,word_mining
+Once,102,,Top Term,word_mining
+Simon,102,,Top Term,word_mining
+Adam,102,,Top Term,word_mining
+Taoism,100,,Top Term,word_mining
+Kerygma,100,,Top Term,word_mining
+Realm,99,,Top Term,word_mining
+Again,98,,Top Term,word_mining
+Shiva,98,,Top Term,word_mining
+Kingdom of God,97,,Tradition/Theology,syntax_pattern
+Suppose,96,,Top Term,word_mining
+Heidegger,96,,Top Term,word_mining
+Bardo Thodol,95,,Top Term,phrase_mining
+Both,93,,Top Term,word_mining
+Maya,92,,Top Term,word_mining
+Diagram,92,,Top Term,word_mining
+Reality,91,,Top Term,word_mining
+Luke,91,,Top Term,word_mining
+Kosmos,91,,Top Term,word_mining
+Heraclitus,90,,Top Term,word_mining
+Sankara,90,,Top Term,word_mining
+Zagreus,89,,Top Term,word_mining
+Teilhard,89,,Top Term,word_mining
+Being,88,,Top Term,word_mining
+March,87,,Top Term,word_mining
+Diana,87,,Top Term,word_mining
+Catholic,85,,Top Term,word_mining
+Empedocles,84,,Top Term,word_mining
+Obviously,83,,Top Term,word_mining
+Christi,83,,Top Term,word_mining
+Hegel,83,,Top Term,word_mining
+Hagia,83,,Top Term,word_mining
+Tony,82,,Top Term,word_mining
+Nous,81,,Top Term,word_mining
+Runciter,80,,Top Term,word_mining
+Atman,80,,Top Term,word_mining
+Missive,80,,Top Term,word_mining
+Jesus Christ,79,,Top Term,"naming_pattern, phrase_mining"
+Although,79,,Top Term,word_mining
+Self,78,,Top Term,word_mining
+Siddhartha,78,,Top Term,word_mining
+Girl,77,,Top Term,word_mining
+Hagia Sophia,76,,Top Term,phrase_mining
+Everything,76,,Top Term,word_mining
+Dante,74,,Top Term,word_mining
+Eldritch,74,,Top Term,word_mining
+Buddhism,74,,Top Term,word_mining
+Messianic,74,,Top Term,word_mining
+Platonic,73,,Top Term,word_mining
+Orphic,73,Orphics,Top Term,word_mining
+Divine,72,,Top Term,word_mining
+Moses,71,,Top Term,word_mining
+Covenant,71,,Top Term,word_mining
+Black Iron Prison,70,,Top Term,phrase_mining
+Xerox Missive,70,,Top Term,phrase_mining
+"Toso
+Folder",70,,Top Term,phrase_mining
+Philip,69,,Top Term,word_mining
+Aristotle,69,,Top Term,word_mining
+Himself,69,,Top Term,word_mining
+Palmer,69,,Top Term,word_mining
+Corpus,69,,Top Term,word_mining
+Frolix,69,,Top Term,word_mining
+Either,68,,Top Term,word_mining
+Great,67,,Top Term,word_mining
+Bacchae,67,,Top Term,word_mining
+Zoroastrian,67,,Top Term,word_mining
+Daniel,67,,Top Term,word_mining
+Augustine,67,,Top Term,word_mining
+House,66,,Top Term,word_mining
+Christos,66,,Top Term,word_mining
+Apollo,66,,Top Term,word_mining
+Gods,66,,Top Term,word_mining
+Fate,65,,Top Term,word_mining
+Probably,64,,Top Term,word_mining
+Palm,64,,Top Term,word_mining
+Jason,64,,Top Term,"naming_pattern, word_mining"
+Bureau,64,,Top Term,word_mining
+Bill,64,,Top Term,"naming_pattern, word_mining"
+Sibyl,63,,Top Term,word_mining
+Viewed,63,,Top Term,word_mining
+Deus,63,,Top Term,word_mining
+Russ,63,,Top Term,word_mining
+Santa,62,,Top Term,word_mining
+Cartesian,62,Cartesians,Top Term,word_mining
+Anamnesis,61,,Top Term,word_mining
+Chrissy,61,,Top Term,word_mining
+Jewish,61,,Top Term,word_mining
+Without,61,,Top Term,word_mining
+Palmer Eldritch,60,,Top Term,"naming_pattern, phrase_mining"
+"Indexed
+Folder",60,,Top Term,phrase_mining
+Essene,60,Essenes,Top Term,word_mining
+Grace,59,,Top Term,word_mining
+Beethoven,59,,Top Term,word_mining
+Tessa,58,,Top Term,word_mining
+Nothing,58,,Top Term,word_mining
+Taoist,58,,Top Term,word_mining
+Brain,58,,Top Term,word_mining
+Darkness,58,,Top Term,word_mining
+Dionysus,58,,Top Term,word_mining
+Krishna,58,,Top Term,word_mining
+Eucharist,58,,Top Term,word_mining
+Covenant House,57,,Top Term,phrase_mining
+Creator,57,,Top Term,word_mining
+Kathy,57,,Top Term,word_mining
+Zoroaster,57,,Top Term,word_mining
+Eliade,57,,Top Term,word_mining
+Greco,55,,Top Term,word_mining
+Those,55,,Top Term,word_mining
+Still,55,,Top Term,word_mining
+Jews,55,,Top Term,word_mining
+Part,55,,Top Term,word_mining
+Dokos,54,,Top Term,word_mining
+Their,54,,Top Term,word_mining
+Leibnitz,54,,Top Term,word_mining
+Dasein,54,,Top Term,word_mining
+Wait,53,,Top Term,word_mining
+Indian,52,,Top Term,word_mining
+More,52,,Top Term,word_mining
+Pantocrator,52,,Top Term,word_mining
+Paracelsus,52,,Top Term,word_mining
+Bruno,52,,Top Term,word_mining
+Zeus,51,,Top Term,word_mining
+Jung,51,,Top Term,word_mining
+Church,51,,Top Term,word_mining
+Another,51,,Top Term,word_mining
+Star,51,,Top Term,word_mining
+Brahmanism,51,,Top Term,word_mining
+Phil,50,,Top Term,word_mining
+Through,50,,Top Term,word_mining
+Sein,50,,Top Term,word_mining
+Egypt,49,,Top Term,word_mining
+Soul,49,,Top Term,word_mining
+Pike,49,,Top Term,word_mining
+Babylon,49,,Top Term,word_mining
+Shekhina,49,,Top Term,word_mining
+Corpus Christi,48,,Top Term,phrase_mining
+Most,48,,Top Term,word_mining
+Orphism,48,,Top Term,word_mining
+Living,48,,Top Term,word_mining
+Metz,48,,Top Term,word_mining
+Xenophanes,48,,Top Term,word_mining
+Heaven,47,,Top Term,word_mining
+Ground,47,,Top Term,word_mining
+Real,47,,Top Term,word_mining
+Gold,47,,Top Term,word_mining
+Holt,47,,Top Term,word_mining
+Nonetheless,47,,Top Term,word_mining
+Such,47,,Top Term,word_mining
+Flux,47,,Top Term,word_mining
+Voice,46,,Top Term,word_mining
+Timaeus,46,,Top Term,word_mining
+Kant,46,,Top Term,word_mining
+Upon,46,,Top Term,word_mining
+Pyth,46,,Top Term,word_mining
+Archer,46,,Top Term,word_mining
+Actually,45,,Top Term,word_mining
+Dick,45,,Top Term,word_mining
+Fullerton,45,,Top Term,word_mining
+Calif,45,,Top Term,word_mining
+Purgatorio,45,,Top Term,word_mining
+Laura,44,,Top Term,"naming_pattern, word_mining"
+Certainly,44,,Top Term,word_mining
+Secret,44,,Top Term,word_mining
+Love,44,,Top Term,word_mining
+Joachim,44,,Top Term,word_mining
+Before,43,,Top Term,word_mining
+Zoroastrianism,43,,Top Term,word_mining
+Revelation,43,,Top Term,word_mining
+Doris,43,,Top Term,word_mining
+Mother,43,,Top Term,word_mining
+Consider,43,,Top Term,word_mining
+Jim Pike,42,,Top Term,phrase_mining
+Greece,42,,Top Term,word_mining
+True,42,,Top Term,word_mining
+Olive,42,,Top Term,word_mining
+Yahweh,42,,Top Term,"naming_pattern, word_mining"
+Easter,41,,Top Term,word_mining
+Irae,41,,Top Term,word_mining
+Messenger,41,,Top Term,word_mining
+Whitehead,41,,Top Term,word_mining
+Olive Holt,40,,Top Term,phrase_mining
+Santa Sophia,40,,Top Term,phrase_mining
+Death,40,,Top Term,word_mining
+Western,40,,Top Term,word_mining
+Macro,40,,Top Term,word_mining
+Universe,39,,Top Term,word_mining
+Finally,39,,Top Term,word_mining
+Will,39,,Top Term,word_mining
+Friday,39,,Top Term,word_mining
+Calvin,39,,Top Term,word_mining
+Deity,39,,Top Term,word_mining
+Paradiso,39,,Top Term,word_mining
+Christopher,38,,Top Term,word_mining
+Parsifal,38,,Top Term,word_mining
+Would,38,,Top Term,word_mining
+Other,38,,Top Term,word_mining
+Hamlet,38,,Top Term,word_mining
+Angel,38,,Top Term,word_mining
+Belial,38,,Top Term,word_mining
+Faustian,38,,Top Term,word_mining
+Messiah,37,,Top Term,word_mining
+Mission,37,,Top Term,word_mining
+Creation,37,,Top Term,word_mining
+Somehow,37,,Top Term,word_mining
+Ching,37,,Top Term,word_mining
+Page,37,,Top Term,word_mining
+Kingship,36,,Top Term,word_mining
+Judge,36,,Top Term,word_mining
+Were,36,,Top Term,word_mining
+Hindu,36,,Top Term,word_mining
+Biblical,36,,Top Term,word_mining
+Illustration,36,,Top Term,word_mining
+Jason Taverner,35,,Top Term,phrase_mining
+Erasmus,35,,Top Term,word_mining
+Buddhist,35,,Top Term,word_mining
+Wars,35,,Top Term,word_mining
+Eigenwelt,35,,Top Term,word_mining
+Very,34,,Top Term,word_mining
+Hegelian,34,,Top Term,word_mining
+Frozen,34,,Top Term,word_mining
+Schopenhauer,34,,Top Term,word_mining
+Commedia,34,,Top Term,word_mining
+Attic,33,,Top Term,word_mining
+Back,33,,Top Term,word_mining
+Egyptian,33,,Top Term,word_mining
+Beyond,33,,Top Term,word_mining
+Surely,33,,Top Term,word_mining
+Whatever,33,,Top Term,word_mining
+Under,33,,Top Term,word_mining
+Meanwhile,33,,Top Term,word_mining
+Many,32,,Top Term,word_mining
+Campbell,32,,Top Term,word_mining
+Further,32,,Top Term,word_mining
+Roogna,32,,Top Term,word_mining
+Have,32,,Top Term,word_mining
+Eden,32,,Top Term,word_mining
+Tree,32,,Top Term,word_mining
+Artifact,32,,Top Term,word_mining
+Mani,32,,Top Term,word_mining
+Clearly,32,,Top Term,word_mining
+Journey,32,,Top Term,word_mining
+Women,32,,Top Term,word_mining
+Things,31,,Top Term,word_mining
+Judgment,31,,Top Term,word_mining
+Caesar,31,,Top Term,word_mining
+Life,31,,Top Term,word_mining
+Berkeley,31,,Top Term,word_mining
+Absolute,31,,Top Term,word_mining
+Body,31,,Top Term,word_mining
+Eckehart,31,,Top Term,word_mining
+Apparently,31,,Top Term,word_mining
+Claudia,30,,Top Term,word_mining
+Justice,30,,Top Term,word_mining
+Spring,30,,Top Term,word_mining
+Tagomi,30,,Top Term,word_mining
+Dark,30,,Top Term,word_mining
+Pentheus,30,,Top Term,word_mining
+German,30,,Top Term,word_mining
+Fake,30,,Top Term,word_mining
+Memory,30,,Top Term,word_mining
+Information,30,,Top Term,word_mining
+Burroughs,30,,Top Term,word_mining
+Saturday,30,,Top Term,word_mining
+Umwelt,30,,Top Term,word_mining
+Maitreya,30,,Top Term,word_mining
+Star Wars,29,,Top Term,phrase_mining
+Freedom,29,,Top Term,word_mining
+Instead,29,,Top Term,word_mining
+Jungian,29,,Top Term,word_mining
+Wise,29,,Top Term,word_mining
+India,29,,Top Term,word_mining
+Neither,29,,Top Term,word_mining
+Aphrodite,29,,Top Term,word_mining
+Info,29,,Top Term,word_mining
+Form One,28,,Top Term,phrase_mining
+Later,28,,Top Term,word_mining
+Testament,28,,Top Term,word_mining
+Days,28,,Top Term,word_mining
+Luther,28,,Top Term,word_mining
+America,28,,Top Term,word_mining
+Whether,28,,Top Term,word_mining
+Trinity,28,,Top Term,word_mining
+Evil,28,,Top Term,word_mining
+Babylonian,28,,Top Term,word_mining
+Passover,28,,Top Term,word_mining
+Socrates,28,,Top Term,word_mining
+Having,28,,Top Term,word_mining
+Likewise,28,,Top Term,word_mining
+Remember,28,,Top Term,word_mining
+Unless,28,,Top Term,word_mining
+Government,28,,Top Term,word_mining
+Electric,28,,Top Term,word_mining
+Paradise,28,,Top Term,"naming_pattern, word_mining"
+Eckhart,28,,Top Term,word_mining
+God Himself,27,,Top Term,phrase_mining
+Frozen Journey,27,,Top Term,phrase_mining
+Except,27,,Top Term,word_mining
+Sturgeon,27,,Top Term,word_mining
+Knowledge,27,,Top Term,word_mining
+Elisha,27,,Top Term,word_mining
+Joseph,27,,Top Term,word_mining
+Eastern,27,,Top Term,word_mining
+Israel,27,,Top Term,word_mining
+Cross,27,,Top Term,word_mining
+Nancy,27,,Top Term,word_mining
+Kyrios,27,,Top Term,word_mining
+Wilson,27,,Top Term,word_mining
+Dialectic,27,,Top Term,word_mining
+Blood,27,,Top Term,word_mining
+Upper,27,,Top Term,word_mining
+Deus Irae,26,,Top Term,phrase_mining
+Truth,26,,Top Term,word_mining
+Magic,26,,Top Term,word_mining
+Dead,26,,Top Term,word_mining
+Suddenly,26,,Top Term,word_mining
+London,26,,Top Term,word_mining
+Greater,26,,Top Term,word_mining
+Pauline,26,,Top Term,word_mining
+Today,26,,Top Term,word_mining
+West,26,,Top Term,word_mining
+Comforter,26,,Top Term,word_mining
+Magus,26,,Top Term,word_mining
+Impostor,26,,Top Term,word_mining
+Horselover,26,,Top Term,word_mining
+Qumran,25,,Top Term,word_mining
+During,25,,Top Term,word_mining
+Hermes,25,,Top Term,word_mining
+Reformers,25,,Top Term,word_mining
+Otherwise,25,,Top Term,word_mining
+Human,25,,Top Term,word_mining
+Sons,25,,Top Term,word_mining
+Syria,25,,Top Term,word_mining
+Karmic,25,,Top Term,word_mining
+Lower,25,,Top Term,word_mining
+Sandra,25,,Top Term,word_mining
+Iron Prison,24,,Top Term,phrase_mining
+Electric Ant,24,,Top Term,phrase_mining
+Dream,24,,Top Term,word_mining
+Salvation,24,,Top Term,word_mining
+Evidently,24,,Top Term,word_mining
+Whereas,24,,Top Term,word_mining
+Chardin,24,,Top Term,word_mining
+Ptath,24,,Top Term,word_mining
+Lamb,24,,Top Term,word_mining
+Genesis,24,,Top Term,word_mining
+Durant,24,,Top Term,word_mining
+Baptist,24,,Top Term,word_mining
+Doesn,24,,Top Term,word_mining
+Free,24,,Top Term,word_mining
+Pleroma,24,,Top Term,word_mining
+Asher,24,,Top Term,word_mining
+Ruah,24,,Top Term,word_mining
+Phil Dick,23,,Top Term,phrase_mining
+Joseph Campbell,23,,Top Term,phrase_mining
+Form World,23,,Top Term,phrase_mining
+Chip,23,,Top Term,word_mining
+Final,23,,Top Term,word_mining
+Crete,23,,Top Term,word_mining
+Right,23,,Top Term,word_mining
+Someone,23,,Top Term,word_mining
+Answer,23,,Top Term,word_mining
+Pilate,23,,Top Term,word_mining
+Track,23,,Top Term,word_mining
+Judo,23,,Top Term,word_mining
+Simon Magus,22,,Top Term,phrase_mining
+Mary,22,,Top Term,word_mining
+Until,22,,Top Term,word_mining
+Ananke,22,,Top Term,word_mining
+Grail,22,,Top Term,word_mining
+August,22,,Top Term,word_mining
+White,22,,Top Term,word_mining
+Sacred,22,,Top Term,word_mining
+Pentecost,22,,Top Term,word_mining
+Abba,22,,Top Term,word_mining
+Joan,22,,Top Term,word_mining
+Androids,22,,Top Term,word_mining
+Tibetian,22,,Top Term,word_mining
+Attic Greek,21,,Top Term,phrase_mining
+Roman Empire,21,,Top Term,phrase_mining
+Black Iron,21,,Top Term,phrase_mining
+Horselover Fat,21,,Top Term,phrase_mining
+Canada,21,,Top Term,word_mining
+Brady,21,,Top Term,word_mining
+Cosmos,21,,Top Term,word_mining
+While,21,,Top Term,word_mining
+Agape,21,,Top Term,word_mining
+Horus,21,,Top Term,word_mining
+Advocate,21,,Top Term,word_mining
+Eros,21,,Top Term,word_mining
+Yard,21,,Top Term,word_mining
+Protestant,21,,Top Term,word_mining
+Presumably,21,,Top Term,word_mining
+Osiris,21,,Top Term,word_mining
+Germany,21,,Top Term,word_mining
+Plus,21,,Top Term,word_mining
+Given,21,,Top Term,word_mining
+Pythagorean,21,,Top Term,word_mining
+Geworfenheit,21,,Top Term,word_mining
+Kantian,21,,Top Term,word_mining
+Sinai,21,,Top Term,word_mining
+Atomists,21,,Top Term,word_mining
+Form Two,20,,Top Term,phrase_mining
+Boucher,20,,Top Term,word_mining
+Ursula,20,,Top Term,word_mining
+Presence,20,,Top Term,word_mining
+Immanent,20,,Top Term,word_mining
+Neoplatonist,20,,Top Term,word_mining
+Power,20,,Top Term,word_mining
+East,20,,Top Term,word_mining
+Army,20,,Top Term,word_mining
+Platonistic,20,,Top Term,word_mining
+Scotland,20,,Top Term,word_mining
+Based,20,,Top Term,word_mining
+Scripture,20,,Top Term,word_mining
+Elias,20,,Top Term,"naming_pattern, word_mining"
+Specifically,20,,Top Term,word_mining
+Jeter,20,,Top Term,word_mining
+Baptism,20,,Top Term,word_mining
+Knights,20,,Top Term,word_mining
+Rosy,20,,Top Term,word_mining
+Moksa,20,,Top Term,word_mining
+Joe Chip,19,,Top Term,phrase_mining
+Tony Boucher,19,,Top Term,phrase_mining
+Roman Catholic,19,,Top Term,phrase_mining
+Scotland Yard,19,,Top Term,phrase_mining
+Felix Buckman,19,,Top Term,phrase_mining
+Albemuth,19,,Top Term,"naming_pattern, word_mining"
+Within,19,,Top Term,word_mining
+Orpheus,19,,Top Term,word_mining
+Peter,19,,Top Term,word_mining
+Plan,19,,Top Term,word_mining
+Birth,19,,Top Term,word_mining
+Master,19,,Top Term,word_mining
+Vast,19,,Top Term,word_mining
+Carmel,19,,Top Term,word_mining
+Much,19,,Top Term,word_mining
+Vishnu,19,,Top Term,"naming_pattern, word_mining"
+Descartes,19,,Top Term,word_mining
+Pantheism,19,,Top Term,word_mining
+Kenobi,19,,Top Term,word_mining
+Variable,19,,Top Term,word_mining
+Emmanuel,19,,Top Term,word_mining
+Moreover,19,,Top Term,word_mining
+Platt,19,,Top Term,word_mining
+Jonas,19,,Top Term,word_mining
+Anokhi,19,,Top Term,word_mining
+Christogenesis,19,,Top Term,word_mining
+"Toso
+
+Folder",18,,Top Term,phrase_mining
+Dear,18,,Top Term,word_mining
+Seeing,18,,Top Term,word_mining
+Restoration,18,,Top Term,word_mining
+Word,18,,Top Term,word_mining
+Pentercost,18,,Top Term,word_mining
+Medieval,18,,Top Term,word_mining
+Saint,18,,Top Term,word_mining
+Tillich,18,,Top Term,word_mining
+September,18,,Top Term,word_mining
+Mark,18,,Top Term,word_mining
+Omega,18,,Top Term,word_mining
+Bantam,18,,Top Term,word_mining
+Nirvana,18,,Top Term,word_mining
+Krasis,18,,Top Term,word_mining
+Music,18,,Top Term,word_mining
+Satanic,18,,Top Term,word_mining
+Latent,18,,Top Term,word_mining
+Years,18,,Top Term,word_mining
+Nichts,18,,Top Term,word_mining
+Mysteries,18,,Top Term,word_mining
+Kadmon,18,,Top Term,word_mining
+Ted Sturgeon,17,,Top Term,phrase_mining
+Latin,17,,Top Term,word_mining
+Exactly,17,,Top Term,word_mining
+Basically,17,,Top Term,word_mining
+Eventually,17,,Top Term,word_mining
+English,17,,Top Term,word_mining
+Point,17,,Top Term,word_mining
+Hussey,17,,Top Term,word_mining
+Vancouver,17,,Top Term,word_mining
+Despite,17,,Top Term,word_mining
+Regarding,17,,Top Term,word_mining
+Literally,17,,Top Term,word_mining
+Intelligence,17,,Top Term,word_mining
+Koine,17,,Top Term,word_mining
+Normally,17,,Top Term,word_mining
+Thereupon,17,,Top Term,word_mining
+Sign,17,,Top Term,word_mining
+Mens,17,,Top Term,word_mining
+Mitwelt,17,,Top Term,word_mining
+Week,17,,Top Term,word_mining
+King of Tears,17,,Tradition/Theology,syntax_pattern
+Saint Sophia,16,,Top Term,phrase_mining
+Mens Dei,16,,Top Term,phrase_mining
+Upper Realm,16,,Top Term,phrase_mining
+Rosy Cross,16,,Top Term,phrase_mining
+Adam Kadmon,16,,Top Term,"naming_pattern, phrase_mining"
+Holy Week,16,,Top Term,phrase_mining
+Angel Archer,16,,Top Term,phrase_mining
+Rose,16,,Top Term,word_mining
+Orange,16,,Top Term,word_mining
+County,16,,Top Term,word_mining
+Chris,16,,Top Term,word_mining
+Century,16,,Top Term,word_mining
+Future,16,,Top Term,word_mining
+Mickey,16,,Top Term,word_mining
+Linda,16,,Top Term,word_mining
+Game,16,,Top Term,word_mining
+Thoth,16,,Top Term,word_mining
+Bishop,16,,Top Term,word_mining
+Supper,16,,Top Term,word_mining
+Thou,16,,Top Term,word_mining
+Rather,16,,Top Term,word_mining
+Linear,16,,Top Term,word_mining
+Take,16,,Top Term,word_mining
+Interestingly,16,,Top Term,word_mining
+Strange,16,,Top Term,word_mining
+Wednesday,16,,Top Term,word_mining
+Three,16,,Top Term,word_mining
+Astral,16,,Top Term,word_mining
+Jedi,16,,Top Term,word_mining
+Sirius,16,,Top Term,word_mining
+Jakob,16,,Top Term,word_mining
+Grid,16,,Top Term,word_mining
+Natura,16,,Top Term,word_mining
+Yaldabaoth,16,,Top Term,word_mining
+Gestalting,16,,Top Term,word_mining
+Meta,16,,Top Term,word_mining
+Erigena,16,,Top Term,word_mining
+Theon,16,,Top Term,word_mining
+Lord of Light,16,,Tradition/Theology,syntax_pattern
+Mickey Mouse,15,,Top Term,phrase_mining
+Hellenistic,15,,Top Term,word_mining
+Wagner,15,,Top Term,word_mining
+Queen,15,,Top Term,word_mining
+Coming,15,,Top Term,word_mining
+Tess,15,,Top Term,word_mining
+England,15,,Top Term,word_mining
+Redeemer,15,,Top Term,word_mining
+Hypnagogic,15,,Top Term,word_mining
+Space,15,,Top Term,word_mining
+Ideas,15,,Top Term,word_mining
+Mouse,15,,Top Term,word_mining
+Decoded,15,,Top Term,word_mining
+Asklepios,15,,Top Term,word_mining
+Cave,15,,Top Term,word_mining
+Ancient,15,,Top Term,word_mining
+Between,15,,Top Term,word_mining
+Francisco,15,,Top Term,word_mining
+Especially,15,,Top Term,word_mining
+Buber,15,,Top Term,word_mining
+Jack,15,,Top Term,word_mining
+Always,15,,Top Term,word_mining
+Dinge,15,,Top Term,word_mining
+Renaissance,15,,Top Term,word_mining
+Inner,15,,Top Term,word_mining
+Iranian,15,,Top Term,word_mining
+Reason,15,,Top Term,word_mining
+Providence,15,,Top Term,word_mining
+Anything,15,,Top Term,word_mining
+Vietnam,15,,Top Term,word_mining
+Julian,15,,Top Term,word_mining
+Past,15,,Top Term,word_mining
+Pythagoreanism,15,,Top Term,word_mining
+Elmo,15,,Top Term,word_mining
+Happy,15,,Top Term,word_mining
+Hume,15,,Top Term,word_mining
+Sixties,15,,Top Term,word_mining
+Faust,15,,Top Term,word_mining
+Fiore,15,,Top Term,word_mining
+New Testament,14,,Top Term,phrase_mining
+Gold Fish,14,,Top Term,phrase_mining
+Santa Ana,14,,Top Term,phrase_mining
+Wise Mind,14,,Top Term,phrase_mining
+Ho On,14,,Top Term,phrase_mining
+Xtian God,14,,Top Term,phrase_mining
+John Taverner,14,,Top Term,phrase_mining
+February,14,,Top Term,word_mining
+Prince,14,,Top Term,word_mining
+Sunday,14,,Top Term,word_mining
+Winter,14,,Top Term,word_mining
+Handwritten,14,,Top Term,word_mining
+Fred,14,,Top Term,word_mining
+Jane,14,,Top Term,word_mining
+Klingsor,14,,Top Term,word_mining
+Aton,14,,Top Term,word_mining
+Vide,14,,Top Term,word_mining
+Cause,14,,Top Term,word_mining
+Proof,14,,Top Term,word_mining
+Solomon,14,,Top Term,word_mining
+Absconditus,14,,Top Term,word_mining
+Sarapis,14,,Top Term,word_mining
+Eleven,14,,Top Term,word_mining
+Beauty,14,,Top Term,word_mining
+Juliana,14,,Top Term,word_mining
+Unteleported,14,,Top Term,word_mining
+Kabbala,14,,Top Term,word_mining
+Fuck,14,,Top Term,word_mining
+Godhood,14,,Top Term,word_mining
+Conversely,14,,Top Term,word_mining
+Yaltabaoth,14,,Top Term,word_mining
+Brotherhood,14,,Top Term,word_mining
+Newtonian,14,,Top Term,word_mining
+Ikhnaton,14,,Top Term,word_mining
+Einstein,14,,Top Term,word_mining
+Jeannie,14,,Top Term,word_mining
+Immanent Mind,13,,Top Term,phrase_mining
+James James,13,,Top Term,phrase_mining
+Good Lord,13,,Top Term,phrase_mining
+Will Durant,13,,Top Term,phrase_mining
+Free Variable,13,,Top Term,phrase_mining
+Holy Mother,13,,Top Term,phrase_mining
+City,13,,Top Term,word_mining
+Void,13,,Top Term,word_mining
+Think,13,,Top Term,word_mining
+Ornstein,13,,Top Term,word_mining
+Nicholas,13,,Top Term,word_mining
+Seen,13,,Top Term,word_mining
+American,13,,Top Term,word_mining
+Hericlitus,13,,Top Term,word_mining
+States,13,,Top Term,word_mining
+Using,13,,Top Term,word_mining
+Land,13,,Top Term,word_mining
+Dionysian,13,,Top Term,word_mining
+Jehovah,13,,Top Term,word_mining
+Miracle,13,,Top Term,word_mining
+Megiddo,13,,Top Term,word_mining
+Person,13,,Top Term,word_mining
+Imperial,13,,Top Term,word_mining
+Total,13,,Top Term,word_mining
+Born,13,,Top Term,word_mining
+Eureka,13,,Top Term,word_mining
+Outside,13,,Top Term,word_mining
+Chinese,13,,Top Term,word_mining
+Passion,13,,Top Term,word_mining
+Conclusion,13,,Top Term,word_mining
+Exodus,13,,Top Term,word_mining
+Supra,13,,Top Term,word_mining
+Prior,13,,Top Term,word_mining
+Fourth,13,,Top Term,word_mining
+Disch,13,,Top Term,word_mining
+Purpose,13,,Top Term,word_mining
+Theophany,13,,Top Term,word_mining
+Fremd,13,,Top Term,word_mining
+Jerusalem,13,,Top Term,word_mining
+Fields,13,,Top Term,word_mining
+Tanya,13,,Top Term,word_mining
+Hans,13,,Top Term,word_mining
+Eidos,13,,Top Term,word_mining
+Dutch,13,,Top Term,word_mining
+Pearl,13,,Top Term,word_mining
+Color,13,,Top Term,word_mining
+Physical,13,,Top Term,word_mining
+Freud,13,,Top Term,word_mining
+Stoics,13,,Top Term,word_mining
+Treasures,13,,Top Term,word_mining
+Adonay,13,,Top Term,word_mining
+Infinity,13,,Top Term,word_mining
+Alexandrian,13,,Top Term,word_mining
+Wotan,13,,Top Term,word_mining
+Manichaean,13,,Top Term,word_mining
+Good Friday,12,,Top Term,phrase_mining
+King Pentheus,12,,Top Term,phrase_mining
+If God,12,,Top Term,phrase_mining
+Ahura Mazd,12,,Top Term,phrase_mining
+Christian God,12,,Top Term,phrase_mining
+Ben Kenobi,12,,Top Term,phrase_mining
+Bob Wilson,12,,Top Term,phrase_mining
+Lower Realm,12,,Top Term,phrase_mining
+Charles,12,,Top Term,word_mining
+Didn,12,,Top Term,word_mining
+Gott,12,,Top Term,word_mining
+Crucifixion,12,,Top Term,word_mining
+Rightful,12,,Top Term,word_mining
+Unbounded,12,,Top Term,word_mining
+Guide,12,,Top Term,word_mining
+Behind,12,,Top Term,word_mining
+Vision,12,,Top Term,word_mining
+Return,12,,Top Term,word_mining
+Knowing,12,,Top Term,word_mining
+Mystery,12,,Top Term,word_mining
+Really,12,,Top Term,word_mining
+Long,12,,Top Term,word_mining
+Ahura,12,,Top Term,word_mining
+Mazd,12,,Top Term,word_mining
+People,12,,Top Term,word_mining
+Bonuum,12,,Top Term,word_mining
+According,12,,Top Term,word_mining
+Into,12,,Top Term,word_mining
+Premise,12,,Top Term,word_mining
+Jaynes,12,,Top Term,word_mining
+Source,12,,Top Term,word_mining
+Lincoln,12,,Top Term,word_mining
+Victim,12,,Top Term,word_mining
+Enlightenment,12,,Top Term,word_mining
+Perception,12,,Top Term,word_mining
+Sheldon,12,,Top Term,word_mining
+Eleatic,12,,Top Term,word_mining
+Mosaic,12,,Top Term,word_mining
+Theos,12,,Top Term,word_mining
+Causation,12,,Top Term,word_mining
+Share,12,,Top Term,word_mining
+Rightful King,11,,Top Term,phrase_mining
+Tom Disch,11,,Top Term,phrase_mining
+"Indexed
+Page",11,,Top Term,phrase_mining
+"God
+
+Last",11,,Top Term,phrase_mining
+Hans Jonas,11,,Top Term,phrase_mining
+Model,11,,Top Term,word_mining
+Mercy,11,,Top Term,word_mining
+Entropy,11,,Top Term,word_mining
+Mass,11,,Top Term,word_mining
+Middle,11,,Top Term,word_mining
+Nova,11,,Top Term,word_mining
+Thought,11,,Top Term,word_mining
+Malachi,11,,Top Term,word_mining
+Half,11,,Top Term,word_mining
+None,11,,Top Term,word_mining
+Socratics,11,,Top Term,word_mining
+Thinking,11,,Top Term,word_mining
+Horace,11,,Top Term,word_mining
+Imagine,11,,Top Term,word_mining
+Meister,11,,Top Term,word_mining
+Rollo,11,,Top Term,word_mining
+Nature,11,,Top Term,word_mining
+Break,11,,Top Term,word_mining
+Present,11,,Top Term,word_mining
+Russian,11,,Top Term,word_mining
+Nazis,11,,Top Term,word_mining
+Kfischer,11,,Top Term,word_mining
+Thereby,11,,Top Term,word_mining
+Damascus,11,,Top Term,word_mining
+Matter,11,,Top Term,word_mining
+Salvandus,11,,Top Term,word_mining
+Exegesis,11,,Top Term,word_mining
+Warrick,11,,Top Term,word_mining
+Dibba,11,,Top Term,word_mining
+Ground of Being,11,,Tradition/Theology,syntax_pattern
+King of Light,11,,Tradition/Theology,syntax_pattern

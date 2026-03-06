@@ -1,0 +1,348 @@
+# Evidence Packet: Form
+
+- **Category**: Top Term
+- **Total Mentions**: 707
+- **Aliases**: Forms
+
+## Supporting Passages (Context Windows)
+
+### Line 2-10 (Match: 'Forms')
+**Folder**: Unknown
+
+```text
+February 27, 1975
+
+Dear Claudia,
+
+I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.
+
+We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.
+
+This "decay" is the same direction the Holy Spirit (or whatever you wish to deem it) was moving. Backward vis-a-vis our own time. So Joe Chip isn't seeing the anti-eidos. He is seeing the natural process of the other time exposed. Its normal motion under normal conditions leads back from rocketship to Corvette to La Salle to Model T. I mean, isn't this important, to realize this? He has already seen it decay via a different axis (the Platonic forms); but he still calls it decay and imagines that what he sees is a reversal of its normal growth direction.
+```
+**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Time, Just, Platonic, Still, Other, Back, Whatever, Under, Claudia, Chip
+
+---
+### Line 6-14 (Match: 'Forms')
+**Folder**: Unknown
+
+```text
+I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.
+
+We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.
+
+This "decay" is the same direction the Holy Spirit (or whatever you wish to deem it) was moving. Backward vis-a-vis our own time. So Joe Chip isn't seeing the anti-eidos. He is seeing the natural process of the other time exposed. Its normal motion under normal conditions leads back from rocketship to Corvette to La Salle to Model T. I mean, isn't this important, to realize this? He has already seen it decay via a different axis (the Platonic forms); but he still calls it decay and imagines that what he sees is a reversal of its normal growth direction.
+
+Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '56 Chevy to ionosphere...that for it would be the "film pulled backwards," so to speak. Joe (i.e. I) saw it naturally. So within our linear time, form (edola) develops in the opposite direction to what we in linear time see. "To enter the Kingdom of Heaven you must be as little children," He said, our Savior. We must regain what in regular time is the past; orthogonally it is the future. Then what happend to me in March, I didn't move backward, in linear time; I moved forward, to the completion of time. I saw time completed: the great Iron City which fell to the people hustling their asses for man and for God, for Justice and Truth and Joy and Freedom. I saw the Parousia.
+
+I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
+```
+**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Kingdom, Parousia, Maybe, Iron, Time, Savior, Just, March, Platonic, Great, Still, Their, Heaven, Would, Other, Back, Whatever, Under, Have, Things, Justice, Freedom, Truth, Chip, Final
+
+---
+### Line 8-16 (Match: 'Form')
+**Folder**: Unknown
+
+```text
+We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.
+
+This "decay" is the same direction the Holy Spirit (or whatever you wish to deem it) was moving. Backward vis-a-vis our own time. So Joe Chip isn't seeing the anti-eidos. He is seeing the natural process of the other time exposed. Its normal motion under normal conditions leads back from rocketship to Corvette to La Salle to Model T. I mean, isn't this important, to realize this? He has already seen it decay via a different axis (the Platonic forms); but he still calls it decay and imagines that what he sees is a reversal of its normal growth direction.
+
+Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '56 Chevy to ionosphere...that for it would be the "film pulled backwards," so to speak. Joe (i.e. I) saw it naturally. So within our linear time, form (edola) develops in the opposite direction to what we in linear time see. "To enter the Kingdom of Heaven you must be as little children," He said, our Savior. We must regain what in regular time is the past; orthogonally it is the future. Then what happend to me in March, I didn't move backward, in linear time; I moved forward, to the completion of time. I saw time completed: the great Iron City which fell to the people hustling their asses for man and for God, for Justice and Truth and Joy and Freedom. I saw the Parousia.
+
+I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
+
+I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
+```
+**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Kingdom, Parousia, Maybe, Iron, Time, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+
+---
+### Line 10-18 (Match: 'Forms')
+**Folder**: Unknown
+
+```text
+This "decay" is the same direction the Holy Spirit (or whatever you wish to deem it) was moving. Backward vis-a-vis our own time. So Joe Chip isn't seeing the anti-eidos. He is seeing the natural process of the other time exposed. Its normal motion under normal conditions leads back from rocketship to Corvette to La Salle to Model T. I mean, isn't this important, to realize this? He has already seen it decay via a different axis (the Platonic forms); but he still calls it decay and imagines that what he sees is a reversal of its normal growth direction.
+
+Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '56 Chevy to ionosphere...that for it would be the "film pulled backwards," so to speak. Joe (i.e. I) saw it naturally. So within our linear time, form (edola) develops in the opposite direction to what we in linear time see. "To enter the Kingdom of Heaven you must be as little children," He said, our Savior. We must regain what in regular time is the past; orthogonally it is the future. Then what happend to me in March, I didn't move backward, in linear time; I moved forward, to the completion of time. I saw time completed: the great Iron City which fell to the people hustling their asses for man and for God, for Justice and Truth and Joy and Freedom. I saw the Parousia.
+
+I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
+
+I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
+
+I never noticed this parallel:
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Kingdom, Parousia, Maybe, Iron, Time, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+
+---
+### Line 16-24 (Match: 'Form')
+**Folder**: Unknown
+
+```text
+I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
+
+I never noticed this parallel:
+
+What Joe Chip saw: What I saw: FORM REVERSION ROME AGAIN (time reversion)
+
+But this isn't "reversion"; it is completion. Actually I had
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Toso, Rome, Kingdom, Time, Could, Again, Through, Actually, True, Finally, Things, Claudia, Chip, Final
+
+---
+### Line 24-32 (Match: 'Forms')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Toso
+2
+Indexed
+2
+never realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Orthogonal (i.e the Forms) yes; reversion, no. Now, when I saw what I saw, I had "died" in an actual sense; like those in UBIK I came to the end point of my lineal time-line. But I wasn't depleted; this "decay backward" to Rome which I saw wasn't an entropic process, or even decay at all.
+
+I saw the Parousia, and I couldn't have unless they actually took place (I didn't know enough to hallucinate them accurately). Did they take place? Has the Kingdom arrived? I say Yes it has, certainly in the sense that the Brit 3 macro says about Jesus Christ's message about it. Not only is it real, it has arrived; the Day of Wrath -- I think it is not a mere personal trip which I went though but which we all went through (toppling Nixon was not in my head, nor what Nixon had been doing). Which part was on my head? Only the realization of what it meant, these historical events, and I didn't realize.
+
+It has happened, the Prince of this World fell.
+```
+**Co-occurrences**: Christ, Ubik, Toso, Indexed, Jesus, Rome, Kingdom, Parousia, These, Like, World, Only, Time, Nixon, Even, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+
+---
+### Line 68-76 (Match: 'Form')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by jhordan
+4
+Complete
+4
+If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? I was indeed describin the Parousia when I described the "decay" along the orthogonal axis in UBIK which is logical). I myself first hit the Dies Irae when I first dropped acid (about 350 [mices?]). It was cold, it was hell; I used it in later books (e.g. UBIK, [MAZEF?] OF DEATH). Now, how come I in March experienced what you're supposed to only after you're dead? I was judged and so forth, all those things, now. Either this says something about what befell me, or what befell our world in March 1974 (or both). Was it a freak thing for me, a dispensation or accident, lke being allowed to stay up late or all night, etc. as a child?
+
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+```
+**Co-occurrences**: Ubik, Complete, Rome, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+
+---
+### Line 107-115 (Match: 'Forms')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Zebrapedia
+7
+Complete
+7
+You know, if they do discover the orthogonal time axis (along which the Forms move) they will find that it leads to the Parousia.
+
+Forms have a point of completion. Like a novel. They don’t go on and on. That axis isn’t just “process time” like in GODOT. It goes to completion and then stops. It is retrograde to what we see (vide supra hoc libra). Our lineal time then is cyclic in the “spinning ones wheels” sense of going around and around without incorporating true growth; we are declutched, purely in this time; but in reality we partake of movement toward form completion, too.
+
+And yet we experience it backward. It was, as you put it, our childhood. “We see – the universe – as by reflection from the bottom of a burnished metal pan, but now directly for a moment,” said St. Paul. This is all a flashback: our life, a post vitam. Like the squib, the interoffice memo before THREE STIGMATA which is the novel, and what takes place “after” it is really what took place before it, which is there to explain it. I, the little boy like Christopher; that’s me completed.
+```
+**Co-occurrences**: Complete, Paul, Parousia, Like, Time, After, Stigmata, Zebrapedia, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life
+
+---
+### Line 109-117 (Match: 'Forms')
+**Folder**: part of
+
+```text
+Complete
+7
+You know, if they do discover the orthogonal time axis (along which the Forms move) they will find that it leads to the Parousia.
+
+Forms have a point of completion. Like a novel. They don’t go on and on. That axis isn’t just “process time” like in GODOT. It goes to completion and then stops. It is retrograde to what we see (vide supra hoc libra). Our lineal time then is cyclic in the “spinning ones wheels” sense of going around and around without incorporating true growth; we are declutched, purely in this time; but in reality we partake of movement toward form completion, too.
+
+And yet we experience it backward. It was, as you put it, our childhood. “We see – the universe – as by reflection from the bottom of a burnished metal pan, but now directly for a moment,” said St. Paul. This is all a flashback: our life, a post vitam. Like the squib, the interoffice memo before THREE STIGMATA which is the novel, and what takes place “after” it is really what took place before it, which is there to explain it. I, the little boy like Christopher; that’s me completed.
+
+Oh God, Claudia; the “explosion” is throwing is throwing us backward into lineal time away from the moment of completion/perfection of each of us. What age do you guess? The Savior didn’t say “babies.” I think about 3 or 4 years old, maybe up to 6.
+```
+**Co-occurrences**: Complete, Paul, Parousia, Maybe, Like, Time, After, Stigmata, Savior, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life, Claudia
+
+---
+### Line 226-234 (Match: 'Form')
+**Folder**: book of
+
+```text
+I proofed like mad on this, as you’ll see, to cut down on your work. On author to editor grammar query; you’ll note.
+
+Glad you and Paul potlacked eached other into getting tubby. I feel everyone should eat lunch forever and get tubbier and tubbier. Did I really tell you I was a reincarnation of Winnie-there-Pooh? But he’s not dead! So how can that be? I must have made it up I do that, on occasion.
+
+Yes, CONFESSIONS OF A CRAP ARTIST is a fine novel, and I think Paul and David know what they are doing. I shorten the form by which I refer to my novels in business letters, and in conversations (e.g. FLOW MY TEARS, THE POLICEMAN SAID becomes TEARS; and of course DO ANDROIDS DREAM OF ELECTRIC SHEEP? Is referred to back and forth by me and my agent et al as SHEEP or sometimes, in error, ANDROIDS. I know find myself saying, however, caught in a matrix of my own devising:
+
+“I sure think CRAP is wonderful. I’m positive that CRAP will excite the literary market in New York.”
+
+Tessa says in her raspy way,
+```
+**Co-occurrences**: Tears, Paul, However, Like, Tessa, Will, Other, Back, Have, Electric, Dead, Dream
+
+---
+### Line 308-316 (Match: 'Form')
+**Folder**: book as
+
+```text
+Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected the dead or sleeping man the way the forces of spring/nature revive all sleeping roots, bulbs, trees, etc.; all nature which is not man, and that the cyclic small year is to nature in general as the great year (200 B.C. to 2000 AD) is to the species man. Therefore, in my novel, TO SCARE THE DEAD, if the "Essene" were to awake from his 2000 year slumber, he would bring spring to the character, Nicholas Brady (the name I've chosen for my protagonist), and no separation can be made between this resurrection and the deity Zagreus-Christ and what a bulb esxperiences. So:
+
+In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: his job requires him to fake what he is, to be inauthentic inasmuch as he fronts for the government re the recording artists he deals with. This has produced a schism within him. There can be others, but basically he leads a typically modern inauthentic schismatic existence --note existence, not life. There is no growth, just the constant revolution of the wheel of lineal time which accumulates only dust. So:
+
+When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
+
+Last edit over 5 years ago by Siegman
+20
+Complete
+```
+**Co-occurrences**: Christ, Thomas, Complete, Well, However, Dionysos, Perhaps, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+
+---
+### Line 355-363 (Match: 'Form')
+**Folder**: book A
+
+```text
+If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
+
+Please get the book A GOD WHITHIN by René DuBois (Scribner's). He discusses this.
+
+i must tell you if I didn't already; the Brit 3 says that belief in and research about the Logos surfaced around 1055 in Europe (it had been a long dormant doctrine in both theology and philosophy) when explorers reported that culture after culture, which had had no contact with Christiantity, had obvious analogs of our religion to which they gave credence. The doctrine of the Logos, which imprinted the form of our omnicultural religion on all men caised this revival; it would explain why in all cultures similar ideas exist; the Brit 3 gives a few and I must admit, it is too close to be a coincidence. Even if our religion is "true" there remains the need to explain how each tiny tribe everywhere possesses the essence of it, although names differ. I think the Logos doctrine is the best theoretical explanation for this (take me; I am a very small tribe: I, and Tess and Chris; yet we were imprinted by Something, and at once I noetically knew the formularies of the sacrament of the Feast of Agaboe, and acted it out. Later, reading up on it, I found I had gotten it right, the very minor points even. You see?)
+
+Last edit over 5 years ago by Siegman
+23
+Complete
+```
+**Co-occurrences**: Logos, Complete, Because, Only, After, Book, Even, Does, Something, Once, Both, Zagreus, Runciter, Although, Probably, More, Living, Real, Voice, True, Deity, Would, Were, Very, Have, Life, Claudia, Later, Testament, Right
+
+---
+### Line 373-381 (Match: 'Form')
+**Folder**: book A
+
+```text
+Once I read somewhere: "We do not dream; we are dreamed." That is, someone or something which is a Not-I dreams us when we are asleep. A prime mover confronts us, and designs the fabric of our night's events. I say, truly say, in no idle fashion, Ursula, that are we sure, are we really sure, that He Who dreams us at night does not also dream us during the day -- and as He so dreams, or so builds (I personally conceive of him as an artificer, a workman) our koinos, perhaps He changes and erases backwords, and also now and then places us under something much like a spell: a spell of enchantment, so that we imagine --do you see?-- imagine whole areas which are, as an archetect much construct of necessity, what they call false work amid the permanent...
+
+I quote from page 32 in Fred Jameson's article in the same issue of SFS:
+
+"Every reader of Dick is familiar with this nightmarish uncertainty, this reality fluctuation, sometimes accounted for by drugs, by schizophrenia, and sometimes by new SF powers, in which the psychic world as it were goes outside, and reappears in the form of simulacra or of some photographically cunning reproduction of the external."
+
+Now, Ursula, this is the dream-universe cast over us perhaps,
+
+Last edit almost 3 years ago by twsullivan
+```
+**Co-occurrences**: Perhaps, Like, World, Does, Something, Once, Reality, Dick, Universe, Page, Were, Under, During, Dream, Someone
+
+---
+### Line 381-389 (Match: 'Forms')
+**Folder**: book A
+
+```text
+Last edit almost 3 years ago by twsullivan
+24
+Complete
+24
+in the daytime, benign and not to be feared, but still it is the True Dreamer dreaming us along; my work and your work together show an awareness that the dream does not end when we wake up, nor begin when we shut our eyes. In the article by Ian Watson, the work of Charles Tart is mentioned. I know his work (although only recently), also the work of Robert Ornstein (I just now wrote to Ornstein, via some friends of his I met: the New Yorker interviewer and pal who came here to interview me). Aspects of this dreaming of us take these forms:
+
+Our reality can be manipulated retroactively; that is, our past can be rewoven, and without hesitation, as an automatic process, our several memory-systems will fill in the blanks and make smooth the reweaving (i.e. we won't realize that alterations in our lineal-time past took place).
+
+A certain portion of the phenomenal world which we encounter is hologram-like, projected and false, to fill in missing spaces, as in the time extension, missing elements are filling in along similar lines. Therefore we see total continuity in both extensions, time and space, without awareness of dysfunction or rupture. But in truth, there are dysfunctions which (to return to my former term) the Dreamer causes us to gloss over, or allows us to -- perhaps it is less a manipulation that a permission, if you see what I mean.
+```
+**Co-occurrences**: Complete, These, Perhaps, Like, World, Therefore, Only, Time, Does, Just, Both, Reality, Although, Without, Still, True, Will, Memory, Truth, Dream
+
+---
+### Line 432-440 (Match: 'Form')
+**Folder**: book about
+
+```text
+Dear Dr. Ornstein:
+
+Recently I met Mr. Henry Korman and Mr. Tony Hiss (Tony had come by to interview me for the New Yorker). I got into a marvelous discussion with Henry about Sufi and I mentioned my admiration, bordering on fanatic enthusiasm, for your pioneer work with bilateral brain hemispheric parity. Thus, I, having learned that they know you, and am summoning my courage to write you and ask, What has become of me, since experimenting with bringing on my right hemisphere (I did it mainly by the ortho molecular formula vitamins, plus a good deal of concentrated meditation).
+
+By this I mean to say, Dr. Ornstein, ten months ago this took place, and for ten months I have been a different person. But what to me is most extraordinary (I am writing a book about it, but in the form of fiction, a novel called TO SCARE THE DEAD), is that -- well, let me give the premise as I placed it into the novel:
+
+Nicholas Brady, an ordinary American citizen with contemporary worldly values and drives (money and power and prestige) suddenly has inside him a winking into life an entity which has slumbered for two thousand years. This entity is an Essene, who died knowing that he would be given the promised resurrection; he knew it because he and other [Qumran] individuals had in their possession secret formulae and medications and scientific practices to insure it. So suddenly our protagonist, Nicholas Brady, finds that there are two of him: his old self, at his secular job and goals, and this Essene from the [Qumarn] wadi back circa 45 A.D., a holy man with holy values and utter antagonism to the secular physical world, which he sees as the "City of Iron." The [Quamran] mind takes over and directs Brady in a complicated series of acts until it becomes evident that others such as this [Qummran] man are coming back to live here and there in the world.
+
+Studying the Bible, along with this [Quamran] personality, Brady finds that the New Testament is in cypher. The [Quamran] personality can read it. "Jesus" is really Zagreus-Zeus, taking two forms, one mild, the other utterly powerful, on which his followers can draw when in need.
+```
+**Co-occurrences**: Acts, Holy, Jesus, Well, Bible, World, Since, Because, Iron, Good, Mind, Book, Zagreus, Tony, Self, Essene, Brain, Their, Zeus, Most, Such, Secret, Would, Other, Back, Have, Life, Testament, Having, Dead, Suddenly, Qumran, Right, Until
+
+---
+### Line 436-444 (Match: 'Forms')
+**Folder**: book about
+
+```text
+By this I mean to say, Dr. Ornstein, ten months ago this took place, and for ten months I have been a different person. But what to me is most extraordinary (I am writing a book about it, but in the form of fiction, a novel called TO SCARE THE DEAD), is that -- well, let me give the premise as I placed it into the novel:
+
+Nicholas Brady, an ordinary American citizen with contemporary worldly values and drives (money and power and prestige) suddenly has inside him a winking into life an entity which has slumbered for two thousand years. This entity is an Essene, who died knowing that he would be given the promised resurrection; he knew it because he and other [Qumran] individuals had in their possession secret formulae and medications and scientific practices to insure it. So suddenly our protagonist, Nicholas Brady, finds that there are two of him: his old self, at his secular job and goals, and this Essene from the [Qumarn] wadi back circa 45 A.D., a holy man with holy values and utter antagonism to the secular physical world, which he sees as the "City of Iron." The [Quamran] mind takes over and directs Brady in a complicated series of acts until it becomes evident that others such as this [Qummran] man are coming back to live here and there in the world.
+
+Studying the Bible, along with this [Quamran] personality, Brady finds that the New Testament is in cypher. The [Quamran] personality can read it. "Jesus" is really Zagreus-Zeus, taking two forms, one mild, the other utterly powerful, on which his followers can draw when in need.
+
+The [Quamran] personality, who, for fictional purposes, I call Thomas, gradually informs Brady that these are the Parousia, the Final Days. And to be prepared; Thomas will prepare him by reminding him of his own divinity -- anamnesis, Thomas calls it. Thomas develops a special parity relationship with Brady, but evolves as a source of teaching for the incredibly ignorant Brady the entity known as Erasmus, who is in fact a station in the noösphere, which is now so fully charged around Earth that if you are aware of it you can consciously, rather than un-
+
+Last edit almost 3 years ago by twsullivan
+```
+**Co-occurrences**: Acts, Thomas, Holy, Jesus, Well, Bible, Parousia, These, World, Because, Iron, Earth, Mind, Book, Zagreus, Self, Anamnesis, Essene, Their, Zeus, Most, Such, Secret, Will, Would, Other, Erasmus, Back, Have, Life, Testament, Days, Dead, Suddenly, Qumran, Final, Until
+
+---
+### Line 444-452 (Match: 'Form')
+**Folder**: book about
+
+```text
+Last edit almost 3 years ago by twsullivan
+28
+Complete
+28
+consciously draw from it; these are the "Seas of Knowledge" which were known back to the Sumerians, and upon which the Sibyl at Delphi drew. But this is a cover, because Brady realizes that in point of fact, the Quamran men had as their god not the mythical Jesus but the actual Zagreus, and by doing research, Brady soon learns that Zagreus was a form of Dionysos. Christianity is a later form of the worship of Dionysos, refined through the strange and lovely figure of Orpheus. Orpheus, like Jesus, is real only in the sense that Dionysos is become socialized; born here as a child of another race, not a human one but a visiting race. Zagreus has had to learn by degrees to modify his "madness," which is now kept to a low ebb. Basically, he is with us to reconstruct us as expressions of him, and the m.o. of this is our being possessed by him -- which the early Christians sought for, and hid from the hated Romans. Dionysos-Zagreus-Orpheus-Jesus was always pitted against the City of Iron, be it Rome or Washington, D.C.; he is the god of springtime, of new life, of small and helpless creatures, he is the god of mirth and frenzy, and of sitting here day after day working on this novel.
+
+But in this novel, Thomas says, "The Final Days have come. The overthrown of the tyranny is that which, in lurid language, John described in 'Revelation.' Zagreus is seizing his own, now, one after another; he lives again."
+
+During Winter, it was believed that Dionysos, the god of the vine plant, of vegetation, of the crop, slumbered. It was known that no matter how dead he seemed (James Joyce's FINNIGANS WAKE is a wonderful acount of this) he was actually alive, though you'd never know it. And then, --not to the surprise of those who understood him and believed in him-- he was reborn. His followers knew he would be. We are speaking here of the mystery religions, all of them -- including Christianity. Our God has been sleeping, during the long winter of the human culture ([x] not for one year's rotational cycle of seasons, but from 45 A.D. through the centuries of mental winter to now); just when Winter holds all in its grip, the snow of despair and defeat (in our case, political chaos, moral ruin, economic ruin -- the winter of our planet, our world, our civilization) then the vine, which was gnarled and old and seemingly dead, breaks into new life, and our God is reborn -- not outside us as such, but in each of us. Slumbering not under the snow over the ground-surface but within the right hemispheres of our brains. We have been waiting, we didn't know what for. This is it: this is Spring for our planet, in a deeper more fundamental way. The cold chains of iron are being thrown off, but by what a miracle. As with my character, Nicholas Brady -- I've had Zagreus awaken in my right hemisphere, and felt the flooding of renewed life, his vigor, his personality, and his godlike wisdom: he hated the injustice he saw around him, and remembered "the dear lone lands untroubled by men, where amid the shadowy green / The little ones of the forest live unseen." (Eurypides) Dr. Ornstein, thank you for helping bring Winter to an end, and ushering in --not just Spring-- but the living life of Spring alive but [xl] asleep inside us.
+```
+**Co-occurrences**: Christian, Thomas, Jesus, Complete, Rome, Christianity, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+
+---
+### Line 482-490 (Match: 'Form')
+**Folder**: book about
+
+```text
+Complete
+30
+Jane Harrison in her PROLEGOMENA TO THE STUDY OF GREEK RELIGION, discusses the notion that Dionysos was the same as the ancient Greek philosophical principle of moisture, which makes me recall that the Egyptian god of death was in more precise terms the god of desiccation, the god Set or Sit. Here in the one short stanza of Pindar we have flock, we have trees, we have in addition to these two major symbols of Jesus, terms by which all the exoteri recognize him yet, two more inner terms: the root and the star.
+
+Dionysos appeared to the Greeks in vegetable form (root, tree, vine) and animal form (bull). He could influx himself into a human being and be him or her as well, as you and I know. What are names? This is the god of in-toxification, taking in poisons in a quantity small enough not to kill you but large enough for you to be lifted up to see outside space and time, and to come into a relaitonship with those vast powers who run the universe.
+
+And then later, "...He is drunken with music, not with wine." (Jane Harrision.) By stealthy degrees Dionysos became Zagreus and then Orpheus. The trouble with Jesus is that he isn't musical. I guess they could use lipsynch, but the fact is, Jesus is Orpheus, and Christianity is the next mirthful dodge which the Loving Dodger has worked on us, those whom he loves. I have this vision of Him: much like the Hurdy-Gurdy Man: I see Him invisible to us behind us as the flock moves on, and I see small stragglers and old stragglers and stupid stragglers and sick stragglers and stragglers in general who have given up hope or lost energy and have given up to perish as the flock or pack or herd or culture or race marches on, without a look back. And sparkling with light and silently, He emerges and without breaking stride gathers up all the stragglers.
+
+Since the flock never looks back or turns back it never sees Him. This is why Luther accurately called our God the "God of the very desperate." This is why the image of the flock and the lamb which has wandered off appear in our sacred writings, and others which refer to this archtypal rescue in stealth. Because of course if the flock knew, they'd stop trudging along and just stand or go back. They're not to know.
+```
+**Co-occurrences**: Jesus, Complete, Christianity, Greek, Well, Dionysos, These, Like, Since, Because, Time, Light, Could, Just, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Very, Back, Egyptian, Have, Tree, Later, Luther, Human, Lamb, Sacred
+
+---
+### Line 503-511 (Match: 'Forms')
+**Folder**: book about
+
+```text
+The universe is moving toward entropy.
+
+Therefore the universe is moving toward disorder.
+
+Forms are order.
+
+That which is moving toward form, or completion of form, is moving against disorder or against entropy.
+
+Therefore since the [univer] is moving toward disorder (away from form, in lineal time) then that which is moving toward form is moving in an orthogonal or even possible opposite direction from the universe --as such-- and is picking up heat as well as form; i.e. moving toward less disorder, hence more energy.
+```
+**Co-occurrences**: Well, Since, Therefore, Time, Even, More, Such, Universe
+
+---
+### Line 505-513 (Match: 'Form')
+**Folder**: book about
+
+```text
+Therefore the universe is moving toward disorder.
+
+Forms are order.
+
+That which is moving toward form, or completion of form, is moving against disorder or against entropy.
+
+Therefore since the [univer] is moving toward disorder (away from form, in lineal time) then that which is moving toward form is moving in an orthogonal or even possible opposite direction from the universe --as such-- and is picking up heat as well as form; i.e. moving toward less disorder, hence more energy.
+
+It cannot be that to move toward completion of form is to move toward disorder; hence movement toward form means to gain life, or energy. (V. Kozyrev's theory of left spin as life or energy gaining, right as losing, and that our universe is left spin hence must be moving, ala Bergson, toward energy acquiring, not losing, toward form.)
+```
+**Co-occurrences**: Well, Since, Therefore, Time, Even, More, Such, Universe, Life, Right
+
+---

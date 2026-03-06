@@ -1,0 +1,344 @@
+# Evidence Packet: House
+
+- **Category**: Top Term
+- **Total Mentions**: 66
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 54-62 (Match: 'House')
+**Folder**: part of
+
+```text
+Ruffie Rat; that's what Tessa calls herself, also without realizing how these lives live on from the past.
+
+I think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND IN THE WILLOWS, to God. ("A motorcar???")
+
+God has returned. Resumed his Kingship (the Kingdom of God has been restored, here). I saw it --him-- in the alley, as I walked. I never saw that before because He was gone from her; or rather, our eyes were "dead," i.e. we were blind. He is with us again, as last night revealed; as soon as I got stoned and wint in to pray when I glanced up I saw two huge tree-trunk legs and shoes/feet -- a Great Man standing between me and my shrine. He was there...like I saw Mrs. Donlevy. ("God of the House of Levi".) (Discarded shoes on the beach...tennis shoes -- but huge and filled, but mostly the tree trunk legs. So dense. He remains here.)
+
+I forgot; only after that did I see anything else (e.g. Dionysos). My experience wouldkn't have been possible in our lineal time prior to March 1974. (He wasn't here.) And He remains; hence they can reoccur.
+
+(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.
+```
+**Co-occurrences**: Rome, Kingdom, Well, Dionysos, These, Like, Because, Iron, Only, Time, After, Just, Again, Kingdom of God, March, Great, Without, Tessa, Before, Kingship, Were, Have, Tree, Dead
+
+---
+### Line 80-88 (Match: 'House')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by A23
+5
+Complete
+5
+karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done in response to decissions or considerations or needs or directive or to accord with a higher morality which make it binding on one to take life. Therefore I saw the role that death had in the universe: a necessary one (clay pots have to be deliberately thrown back as long as they remain unsatisfactory, and the that rat, honey, was he unsatisfactory.) It showed me that death could not be avoided. But -- I still grieved and I still prayed. Rog Phillips story had a lot to do with my empathy; I had read the story a bit earlier, as I recall. And got the autograph later. The rat came inbetween. This was my baptism into reality, my having to kill this huge gutter-water rat which had gotten into the house and was hiding back in the girls' rooms. As their father I knew what to do. I guess our father (God) knoww what to do, too, when he judges, and now we come to Judgment Day and why it must be so. Exactly as I had to judge and condemn and execute that rat, so must God do this -- judge us all and spare some (accept them) and execute others; he would like to save them all, but the necessity of the structure precludes it.
+
+If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
+
+I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
+```
+**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, Without, Still, Their, Phil, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Instead, Later, Having, Except, During
+
+---
+### Line 82-90 (Match: 'House')
+**Folder**: part of
+
+```text
+Complete
+5
+karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done in response to decissions or considerations or needs or directive or to accord with a higher morality which make it binding on one to take life. Therefore I saw the role that death had in the universe: a necessary one (clay pots have to be deliberately thrown back as long as they remain unsatisfactory, and the that rat, honey, was he unsatisfactory.) It showed me that death could not be avoided. But -- I still grieved and I still prayed. Rog Phillips story had a lot to do with my empathy; I had read the story a bit earlier, as I recall. And got the autograph later. The rat came inbetween. This was my baptism into reality, my having to kill this huge gutter-water rat which had gotten into the house and was hiding back in the girls' rooms. As their father I knew what to do. I guess our father (God) knoww what to do, too, when he judges, and now we come to Judgment Day and why it must be so. Exactly as I had to judge and condemn and execute that rat, so must God do this -- judge us all and spare some (accept them) and execute others; he would like to save them all, but the necessity of the structure precludes it.
+
+If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
+
+I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
+
+I think that in 1974 my entelechy was completed, but I never heard of anyone having his entelechy completed (watch it, Claudia), be-cause this means that the time has ended, not by God intervening, but because the last frames ran through the film ended naturally. Well, see, here is your clue: when the last frames of my film (entelechy) passed faster and faster through the projector, I wasn't perfect; I'm still full of alll
+```
+**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+
+---
+### Line 320-328 (Match: 'House')
+**Folder**: book as
+
+```text
+Claudia, you must read THE LATHE OF HEAVEN of Ursula le Guin. It is evident that the dream universe which she speaks of is uncannily like what l have written you about, concerning my experiences. We are, Ursula and I, being "dreamed awake" now; told to wake up. Our books mirror this strange experience; we are only forerunners, she and I: among the first. Ursula wouldn't agree, but a comparison by Ian Watson in SFS shows the similarity between THE LATHE OF HEAVEN and my own experiences which is so obvious as to exlude controversy. Aldemar or whatever her star is, that is Albemuth (Fomalhaut) for me.
+
+That the "dream universe moving to become the actual" is a true process actually taking place -- this concept would be frightening, except that we must realize the intent of the Dreamer Who dreams us: He is waking us, now; it is a voice still within the dream, much like Glen Runciter's, which is saying, "Rouse yourself and be warm; spring is here."
+
+(Claudia, if I don't write much for the next month or so it is because we are moving to our new house. You understand. Did I tell you I wrote Ornstein? Did I tell you my blood pressure is down finally and that the doctor said flat out that he think it's so elevated when I come in for my test because of the pretty little blonde nurse who takes it? When she takes it, the top reading is 220; when he takes it, ten minutes later, it's only 170. I gave the nurse yesterday a little ivory cross. She's moving to Oregon, to get away from the density of population here. To get out of her apartment. The receptionist said to me, with maybe more truth than wit: "Well when Anne takes your blood presit's so high you have to keep coming back in; that's the way we keep our patients coming in." The other side of that is that unconsciously I've had a vested interest in needing to come in for being tested. They all kid me there about my crush on Ann Darling (what a name for a little blonde nurse, right?) When I call in and ask if I can talk to one of Dr. Morrison's nurses, they say, "Oh it's you; yes we'll get ann to the phone." Odd as it sounds, there may be truth in this; Ann was the only person who sent us a congratulation card when Christopher was born, and there is so much mobility in Orange County that she was (alas, was) one of the few people I could count on seeing. Her and Carol, my therapist, who is still injured physically and not at her desk due to showing a patient how to work out ones hostility harmlessly.
+
+The vernal equinox is almost here. Pretty girls are everywhere, and the buds are opening into color; psychedelic color is the life of the world, the language in which the Creator speaks to us.
+
+Last edit over 5 years ago by Siegman
+```
+**Co-occurrences**: Well, Maybe, Like, World, Because, Only, Book, Could, Being, Runciter, Creator, Still, More, Star, Heaven, Voice, Actually, True, Universe, Finally, Christopher, Would, Other, Back, Whatever, Have, Life, Claudia, Spring, Later, Except, Cross, Blood, Truth, Dream, Right
+
+---
+### Line 815-823 (Match: 'House')
+**Folder**: part segment
+
+```text
+Needs Review
+52
+prisoners, the giving them their first glimpse of the pasture which is their reward. It is as if humane people came across a place where animals were imprisoned under cruel conditions: overworked, starved, animals which were ill and unattended, and, finally, put to death in vicious ways without release or reward, with no recompense. At once, these humane visitors seize the owner of this cruel factory and depose him; then they see to it that the sick animals are given medical attention, food, sanitation -- all their just needs looked after...but most of all, these animals, ill-treated all their lives, are to be made to understand that finally they will go out into this great lush pasture forever, and never never at any time --this is a promise-- returned to the dark servitude which they had suffered under. The original owner of this slave prison, this factory, was deprived of everything he'd built up, his profits, and dealt a stunning blow which nearly destroyed him; most of all, judgment by the intervening humane people was swift, and in favor of the imprisoned, powerless animals, and entirely on their side against their obscure oppressor. Judgment, assistance in a short swift battle, medical help, food, a variety for them to see, now, as soon as possible, so they would know...especially since some would be too ill, too far-gone to be brought back. They deserved to see now, and not have to wait. "Look what lies in store for you," the humane intercessors would be showing them, when they knocked away the always before so evidently impenitrable wall of the prison. "Look beyond," and there would lie vast fields, grass, and the hillsides. Springtime, beyond the broken-open prison wall. First the animals would see the prison which surrounded them which they had mistaken for reality; it was not: reality lay beyond, and the prison would be knocked down entirely eventually, although that would take time. To free so many trapped and ill-used animals would take a while. But the cruel tyrant boss who had rules -- being deposed, he could not keep the prison going, as his father before him had. Although it had existed thousands of years it was decisively gone, now, even though many animals, so enured to their life, so sure that it was the only life, or rather only existence, would not see or understand at first.
+
+Or, more accurately, at one time the plant or organization had been well-run and regulated, in a fair and human way, and then the true owner and ruler had assigned stewardship in his absence, and had gone on a journey, with promise that while he was gone it would be run properly. The time of his return was uncertain. Those left to run it were like kids a whole bunch of kids left by their parents to tend themselves, or perhaps kids to be taken care of by a hired attendant. I think the first model is most accurate. Suddenly the parents return. It is like LORD OF THE FLIES. Horrified, they find that some kids, the shrewder, stronger ones, have enslaved the others; the whole house is a shambles, with fighting and breaking going on, a descent into barbarism...the parents line up all the kids and judged each according to what that child was doing at the moment the parents returned.
+
+Elijah, coming immediately before God, played a multiple role: he refined those whom God wished to save rather than destroy -- i.e. he got them into a fit condition so they would pass muster. I guess it's a form of tipping off those kids you wanted tipped off that you're about to reappear and check out everyone. You send a messenger in advance who
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Form, Well, Lord, These, Perhaps, Elijah, Father, Like, Since, Prison, Only, Time, Harpax, After, Even, Could, Just, Look, Once, Reality, Being, Although, Everything, Great, Without, Those, Their, Wait, More, Most, Before, True, Messenger, Death, Finally, Will, Would, Were, Back, Beyond, Under, Many, Have, Journey, Judgment, Life, Dark, Suddenly, Human, Evidently, Free
+
+---
+### Line 1459-1467 (Match: 'House')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Harpax
+103
+Needs Review
+103
+aware of. Between example 1 (high school) and 3 74 lies 30 years -- a huge gap, most of my life in fact. I ask, What about the horse dream in Canada? Looks: again a horse; the TEARS dream involves a posse of horses. The Vancouver dream --the horse attempting to leap the house, which was the Point Reyes house, where the TEARS dream took place, attempting and failing that told me something obscure but overwhelming. "I have had a dream like no other dream I ever had," I wrote my mother. "The oracle," Hericlitus wrote, "does not answer yes or no; he gives a sign." Also, the in-cage-under-Huston-Astro-Dome dream had flying horses in it...this horse as sign for death. The adversary, maybe? Fate? Destiny?
+
+An analysis of TEARS shows the KKK type posse[e] which comes to kill Taverner to be the militant vigilante arm of the police state of which Buckman is the high official, the judge or whatever. Maybe there is some information here: the police state in TEARS, if it equals the police state actually extant c. 1971, probably has truly employed, and hence the real police state probably has employed, such terrorists, even perhaps the klan per se. Or the novel is a revelation about our world, does this tell us who murdered our leaders (Catholics and blacks) (the klan did), and in the service or say or hire of what? Of the police. That is the relationship shown in the novel: the posse agent of the state. Can this total analogy be transferred? Klan used by the COINTELPRO people to[o] kill our leaders one after another, as a vigilante?
+
+Maybe this is the message, the revealed message, in TEARS. There was also a message about the eternal world (outside time and space), but the space-time message is as above.
+```
+**Co-occurrences**: Tears, Perhaps, Maybe, Like, World, Time, Harpax, After, Buckman, Even, Taverner, Does, Something, Again, Fate, Probably, Another, Most, Real, Such, Actually, Revelation, Mother, Death, Other, Judge, Whatever, Under, Have, Life, Information, Dream, Answer
+
+---
+### Line 1967-1975 (Match: 'House')
+**Folder**: book and
+
+```text
+This would explain the "Is but is not" as follows: the tangible secular evil was defeated, but in metaphysical form it remains in power; invisible because metaphysical, real because still there, and what we took to be the adversary was only its tangible physical embodiment on earth -- the Roman Empire. Now we have the invisible metaphysical counterpart, which is worse, with us. Two Romes, then, must be distinguished: the "secular forces of evil" vs their invisible triumph here.
+
+. . Capt Cook's ship, which I couldn't see until it fired on me (the Xerox letter). A world empire.
+
+. . . Now I know the meaning of my dream of the old encyclopedias, as Kleo's family's house. In them there had been the speeches of General Sherman in which he set forth the (new) Roman totalitarianism. In my dream it was said that "Andrew Jackson," dated 1837, hadn't ever actually dies, was in fact still alive. This meant still alive are the ideas of Sherman; and those ideas are a radical, vicious romanism-centralism. It was then, in 1863 or so, that the rebirth of Rome took place; here, then carried to Germany. This was the same Washington government and same army generals who exterminated the Indians. This can now be seen to dovetail with my dreams of the sibyl and other Roman constructs. There dreams, and my experience, let me in on the (mystical, metaphysical) Secret (about the world; as said regarding Gibbon: "Rome never really did fall. To think it fell is an error."). The Secret: we are in a Roman prison. And help is on the way. This is the meaning behind the idea of the Kingdom of Heaven --the return of the rightful King-- to suddenly come. First, you must understand our desperate situation.
+
+Last edit over 5 years ago by Harpax
+144
+Needs Review
+```
+**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Empire, Roman, World, Fall, Because, Prison, Only, Earth, Harpax, Sibyl, Those, Still, Their, Heaven, Real, Actually, Secret, Would, Other, Have, Evil, Government, Suddenly, Dream, Until
+
+---
+### Line 2059-2067 (Match: 'House')
+**Folder**: part of
+
+```text
+I even used the term "destroying angel," which is used in Hebrews about that episode before the Exodus at which time Passover was established!
+
+Exodus 12:13: Jehova: "And the blood must serve as your sign upon the houses where you are; and I must see the blood and pass over you, and the plague will not come on you as a ruination, when I strike at the land of Egypt," i.e. when he came as the destroying angel, the angel of death, and slew the first born; and so began Passover; and thus I experienced it that night in the bedroom, that Sunday (sic!) night, when the pale white light which cast no shadow, where there was no plce to hide, came on, and I knew then that the angel of death had come; and I prayed my head off frantically for hours in terror; and that night in sleep I dreamed of a gun being fired and a deer-like animal wounded in a ditch, a woman; and a few days later Pinky (the little pink sheep) died of cancer. The angel passed over (me, us except that he took Pinky, the lamb-sacrifice). 14: "And this day must serve as a memorial for you, and you must celebrate it as a festival to Jahweh throughout your generations." Later we are to say when someone asks the meaning of the festival of Passover: "It is the sacrifice of the passover to Jahweh, who passed over the houses of the sons of Israel in Egypt when he plagued the Egyptians, but he delivered our houses." (27).
+
+12:29 tells us that Jahweh struck every Egyptian house a[nd] killed the firstborn in the middle of the night: midnight. Wow. I rest my testimony; that night was that night. I have been wrong to connect that ultra-extraordinary experience with the Parousia, with Judgment Day; it was a remanifestiation of the first passover by God, which means a sparing of the innocent at the time He was getting the enslavers. The date, for me, was in August 1974. It was the same month Nixon resigned. I might add that the killing of the firstborn was the last of the plagues God afflicted Egypt with. Golly, it wasn't long thereafter that ol' Nixon almost croaked in the hospital at Longbeach... This proves that my whole experience was an experience of the Epiphany at Passover, step by step (the first as with Moses was the epiphany in the desert, for me, from the desert wind; the fire or burning being the phosphene activity), going through the stages which freed Israel, and which freed our people now: I say, knowing this about the derivation and meaning of pass over proves that indeed God was afflicting the establishment here and finally
+
+Last edit over 5 years ago by Harpax
+152
+Needs Review
+```
+**Co-occurrences**: Parousia, Like, Time, Nixon, Harpax, Light, Even, Pinky, Hebrew, Being, Moses, Through, Egypt, Upon, Before, Death, Finally, Will, Angel, Egyptian, Have, Judgment, Later, Days, Passover, Except, Israel, Blood, Sons, Lamb, Someone, August, White
+
+---
+### Line 2868-2876 (Match: 'House')
+**Folder**: Book of
+
+```text
+Yes -- monopoly money, i.e. play on Fake money.
+
+I somehow associate "cabrillo" with SF + prison -- like alcatraz. (Intersection of streets?) Like, next street (step) is "alcatraz". Ah - Cabrillo St -- view of the Bay + Alcatraz Island. Apt bldgs -- there -- like on monopoly board. Utilities! The phone company again! also: RailRoaded -- as [? k?] -- to "Brillo" (steel Br wool -- wall(s).
+
+Reason I couldn't figure this out for one whole year is fear. Everything is dream disguised. As was Xerox letter: Disguised. But dream says: Fake, + from the Spanish man -- i.e. "George" -- some some ticket. Belonged in the john -- (cabillaro: men's room) what you do with dope: Flush it; Hence slip also resembles Bastanchury pharmacy slip: i.e. drugs, or dope. Thus it was equal to Hal hiding dope in my house in Marin County.
+
+-- Watch also [meant?]: time of the essence: urgen[cy?] placed in breast pocket, [means?] heart or heart attack or attack or death; anyhow ticking aaway, like bomb.
+
+Last edit almost 3 years ago by twsullivan
+```
+**Co-occurrences**: Xerox, Like, Prison, John, Time, Anyhow, Again, Everything, Death, Somehow, Fake, Dream
+
+---
+### Line 2878-2886 (Match: 'House')
+**Folder**: Book of
+
+```text
+Needs Review
+219
+{circled:3}
+
+Also -- I realize to my wonderment: the red shield is Blut Schuld: Guild, cleaned by the old [Irish washerwoman] [Irish = cops = Sullivan] + all restored to oaken strength: to stout shield rather than schuld. It is a transcendent symbol of purification through Battle (honorable) + Red Cross or mercy (finally, [from?] them). Which I can depend on. It is all glued back together; what was broken. Which means, broken into -- my house. My House was broken into by hired (Rothschild) people for Oakland (George Smith); BUT: all ironed out (image!) now into award or plaque or trophy. Key is ironed out.
+
+Last edit almost 3 years ago by twsullivan
+220
+Needs Review
+```
+**Co-occurrences**: Through, Finally, Back, Cross
+
+---
+### Line 3214-3222 (Match: 'House')
+**Folder**: book was
+
+```text
+Needs Review
+249
+And yet few men see or know that the Parousia has come. But as the JWs point out, they never saw Satan all these years; thus they do not see Christ returned either, nor anything else, except the ex¬ ternals, only the externals. The most powerful tyranny in the history of the world was deposed, and what stood against him in worldly terms? Nothing; yet he resigned. Contrast this with Egypt, where the remnant of Jews merely wascaped through God's power, but the empire remained; Phaoroh remained. This time the empire was crushed, with its head, its sovereign, first pitched down. All the forces of heaven stood matched against all the forces of this world and its soverign. What a mighty battle it was! First the tyrant, and then the empire itself fell the next year. And Greece as well, and Portugal. All gone! All fallen! The Bible records nothing like this, even the fall of Babylon, really, which is doubtful as fact anyhow, being merely an interpretation of natural events I think. Heaven summoned its forces; Earth summoned its; Heaven prevailed. The will of Heaven was at last fully done on Earth, as we have prayed for, these 2,000 years. Heaven conquered Earth and assimilated it; surely this is the Parousia! But such is the secular world that it does not know; I would not know,
+
+I, too, had the spirit not opened my eyes; I realize that. I saw only because it caused/allowed me to see. Many were lost in the battle; Pinky, my guide, died; I was injured and later almost died; I lost much. But God saved my life at the end, and restored me. All this being taken into account, my final vision, that of the Holy or Promised Land, falls into place; it informed me that the war had ended in victory, and this, what I saw, now lay around everywhere, a sanctified world. This is my wrap-up, after 28 months; I say the Parousia came; I know it. Libera me Domine. In dies Ilia. Judgment, then, was made, rendered, on us all, whether we realize it or not. The ultimate judg¬ ment evidently —perhaps, only perhaps— excluded many from the category of lambs; I say this because how many are aware? The books were opened and then closed. Yet time continues, events continue. Perhaps, I say only perhaps, the eschotolmgist writers such as John and Daniel made the Parousia sound too blatant, too lurid. Too conspicuous, which it was not. To me it was a lurid, if that's the word, as they foretold; to others it was only a great political, constitutional contest. But to prove my contention, I offer the dream sequence in TEARS, which is clearly an apocalyptic vision of God the King or Christ the King breaking through into our world, to judge —against— the man shut up inside the house, which is of course the tyrant, that he must be destroyed, as he was eventually. That dream could mean nothing else; the only question was, When? the answer coming a month and a half after the book was released — along with the rest of the material from ACTS which was inserted into it. The dream foretold the events; the events bore out the dream. QED; it is so. Said Nick Bottom, but this time he was right; well, he was right then, too; what he remembered as being a dream was no dream but memory of events which could not have been real (so he thought he had dreamed) but did. May I offer one more item as proof that it was the Parousia? There is no report I know of in recorded history where anyone had the experience I had in 3-74; if I had it, then, unique circumstances were involved, to permit open intervention by heaven, and what other circumstances would qualify?
+
+Last edit almost 5 years ago by svayambhu108
+250
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Spirit, Holy, King, Satan, Well, Empire, Bible, Parousia, These, Perhaps, Like, World, Fall, Because, Only, John, Time, Earth, After, Book, Even, Could, Does, Pinky, Anyhow, Being, Either, Great, Daniel, Nothing, Jews, More, Through, Egypt, Babylon, Most, Heaven, Real, Such, Greece, Will, Would, Other, Judge, Were, Surely, Many, Have, Clearly, Judgment, Life, Memory, Later, Whether, Except, Dream, Evidently, Final, Right, Answer
+
+---
+### Line 4091-4099 (Match: 'House')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+43
+Needs Review
+43
+existence (as if my -our- past had been tinkered with, & our present was altered - hence the inner superimposition of personalities in me & then external superimposition of the two realities. Also my dream when I lived in a [dule?] little old house like the one we looked at in [Placentin?]. Like "commuter." My God - what I'm saying is that the Black Inn Pirson world was an "alternate present," not future : the other ([komin?]) time may have not been in the past but on alternate presents. obvious the one from which the not - I [persmolity came?], where he had just been. Our two presents superimposed for a while. & it is the police - state vs which I described in tears - where, as a reviewer said, evidently all the civil rights movements of the early '60s failed. So in all there were 3 alternate presents : one [ware?] than [overal?] (where the other personality had just been living at the moment he was transferred here, & a better me than ours ; the palm tree world, which is the one that finaly prevailes (due to God ; reweaving, which I was aware of because it included me.
+
+Whenever or wherever the Black Inn world was, did that personality escape from it & come here? A hunted fugitive?
+
+If this unexpected & extraordinary theory (insight) is correct, God did a lot more than overthrow Nixon. By His Chains. He may have Breached through - not in '74 - but some time earlier - & aborted an entire [LaLand?] (cryptic) alternate from ([Mubhosis?], world) from being actualized after (by our time-experience) it had been actualized. thus the event portrayed in the teaks then occured some time ago by our reckoning, although not by God's.
+```
+**Co-occurrences**: Tears, Like, World, Because, Time, Nixon, After, Black, Just, Being, Although, Palm, More, Through, Living, Other, Were, Have, Tree, Dream, Evidently
+
+---
+### Line 4291-4299 (Match: 'House')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+75
+Needs Review
+75
+( So as I see it, although technically maya is ducusion It serves a constructive didactic purpose, for which it was designed! If fog, an obscuring for, it is the stuff of we will divinity interposed between us + black hell. If "like lambs" follow the teachings contained in it. We the astray sheep, will find our way back home earning return by our correct choices. I have the feeling that we will be presented these choice, agains + again, with endless patience, until at last we choose correctly, + then the true situation (e.g. where we are, where we came from + will return to) is revealed to us. We would not be chosing if we knew the truth; the true situation must be kept veiled (which is another necessary function of the veil). I suppose it can be said that the veil is a mercy, mitigatin the Black prison: the latter the absolute curse, the veil hiding + teaching. God (Brahman) spins maya out of his own stuff (body, substance), a protection womb, a way house during which we are trained; ultimately the time comes when the veil can be lifted - when we are strong enough, ready enough for the hing of going into Xtian battle in the black iron P. healm, the true game board, what I fought, then, in 3-74 was not something in the school world of learning. But something from (in) the Black Iron world; as Zoroaster saw we are soldier ogainst an enormous powerful every, oright now we are in training for battle. I was there (as revealed by anamnesis); I guess I got sent back Here - I must have failed that time, but non vis-a-vis the Xerox letter
+
+Last edit almost 3 years ago by svayambhu108
+
+76
+```
+**Co-occurrences**: Christian, Xerox, Brahman, These, Like, World, Iron, Prison, Time, Black, Something, Again, Suppose, Maya, Although, Anamnesis, Zoroaster, Another, True, Will, Would, Back, Have, Absolute, Body, Truth, During, Until
+
+---
+### Line 5147-5155 (Match: 'House')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+50
+Needs Review
+50
+4 In short, nothing was left to chance; he did not slep with (1) providing it; (2) telling me that the great danger was here at last, (2) He brought the mechanism on; he virtually worked it for me - so to speak took hold of my never-used wings + flipped them successfully, in doing all this he made me aware of him as well I was conscious - not just of having evolutionary powers never before suspected because never before needed - but that he was guiding me. + in addition to all this he showed me that my experience was part of a vast historic (which I now see means evolutionary) process + finally he showed me the is goal of that process (human freedom). What there conceivable that was not done fo me beyond any doubt my welfare was it stake, both as an individual + as a participant (member) in an historic human group whose victory was necessary to evolution acted out i history. We (our group) had to win; I as part of it had to win. My trouble (danger) I assess now was the danger besetting us as an historic group: the wave of the future, the "next stage of man; to be grandiose my fight was not merely an individual fight. But I don't think it was the tax thing; I think it was me as "ungeliebte autor," as not-liked author (of the I Ching: "If a person travels with two others there will be suspicion; i.e. fellow traveler - suspicion on the part of the us authorities). As dissident intellectual/political person. I do not take that part, or rather the whole pattern (as they saw it) seriously enough; of Kathy's statement of why the police were suspicious of me, which would cover why they hit my house. I know perfectly well who was after me + (generally speaking) why. I (at this point) see myself as getting in trouble
+
+Last edit almost 3 years ago by svayambhu108
+
+51
+```
+**Co-occurrences**: Well, Because, After, Just, Both, Great, Nothing, Kathy, Part, Before, Finally, Will, Would, Ching, Were, Beyond, Freedom, Having, Human
+
+---
+### Line 5599-5607 (Match: 'House')
+**Folder**: part of
+
+```text
+The book "The Morning of the Magicians" was very right on: 1) The Nazis as evil magicians (theological aspect) 2) The Presence of a hidden, good, spiritual power in their enemies 3) A number of superior "mutants" communicating back + forth in e.g. trashy novels.
+
+Our enemy is known secularly as "fascism," but it is transcendent evil.
+
+I was so close to all thi sin my writing ("Faith of Our Fathers," "3 Stigmata," TMITHC, Flow My Tears, etc.) - it's no wonder my house got hit, + my friendship with Jim Pike, + the contents of Frolix 8 + Maze of Death. + the whole "Impostor" theme, which I never considered as relevant to this before. The mimicking race among us.
+
+I wasn't just extricated from a trap in 3-74; rather, I was taken over [my?] the Mind Central - [analogous?] to the hive of bees + their collective mind: I am not precisely a machine but more insect like (in a good sense). What I must realize (+ I do) [is] that more than kind intervention was involved, although that was, as part of it - but the Mind Central was not desirous to see me sacrificed, inasmuch as it would have aborted my task(s) which, at the time of the xerox letter, had not been fulfilled. + it was it that fulfilled them, not me (or homeo). Extrication was not the goal but a step necessary (so to speak a negative - i.e. protective step - to lead toward the goal, which I now think had more to do with [Lem?] + [Rottens?] [crimes?] + the [CP?] [hacks] + their plan than with fighting the tyranny here. The Nixon tyranny was done for, without my efforts; I was an anti-party "sleeper" or fake party follower who fooled the authorities here + in the east.
+
+Last edit over 5 years ago by wtutwiler70
+```
+**Co-occurrences**: Tears, Xerox, Maze, Father, Like, Time, Nixon, Faith, Stigmata, Good, Mind, Book, Just, Although, Frolix, Without, Part, Their, More, Pike, Before, Jim Pike, Death, Would, Very, Back, Have, Fake, Evil, Impostor, Right
+
+---
+### Line 5707-5715 (Match: 'House')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Toso
+
+6
+In "Time Out of Joint" the world is a fake, + specifically the real world is another time-segment. My initial revelation in 3-74 was that the time was really around 70 AD - not later but earlier, a reversal of "Joint." Yet, the basic information is there, fully, in "Joint"; this is all a cunningly fabricated delusion, the world we see, + the basic delusion has to do with the true temporal locus. Since "Joint" was SF I naturally put the real time in the future, not the past. Damn it, I've overlooked the extraordinary parallels between "Joint" + my "it's really 70 AD!" experience. E.g. the dream I had of the dark, old-fashioned house with the archaic window shades, the cracked mirror - + realizing I couldn't get out of of that world without God's help. My incessantly-recurring dream of the 1126 Francisco St house - that's where I lived when I wrote "Joint" - that was the fake world of the novel, + resembles the miserable old house in Placentia dream. Is there some clue in my 1126 Francisco St dream? It was with Joan that I so recently saw it again, after many years. Maybe I have a soul which leaves my body in sleep + goes back in time (+, as in 3-74, forward). Back in the fifties when I lived at 1126 Francisco St actually, as expressed in "Joint" that world seemed unreal; in actuality, "it was decades later" (in "Joint"). But now that it is decades later, that past time + place seems real (or anyhow the past somehow) + this a fake. +, as I say, it is also astonishing how in '74 I foresaw the Sonoma events of the past 3 months! What is my real relationship to time? I experience the near past, the near future, + the very far past; a lot of my soul or psyche seems to be transtemporal ...maybe this is why any given present space time seems somehow unreal or delusional to me. I span across + hence beyond it; always have - + the transtemporal is the eternal, the divine, the immortal spirit. How long have I been here, + how many times? Who or what am I, + how old? Reality outside confronts me as a mystery, + so does my own inner identity, the two are fused. Who am I? When is it? Where am I? This sounds like madness. But when I read the scriptures I find myself in the world which is to me real, + I understand myself. The Bible is a door (3:5?)
+
+Last edit over 5 years ago by Toso
+7
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Spirit, Bible, Maybe, Like, World, Since, Time, After, Joint, Does, Anyhow, Again, Reality, Divine, Without, Another, Soul, Real, Actually, Revelation, True, Somehow, Very, Back, Beyond, Many, Have, Body, Dark, Fake, Information, Later, Dream
+
+---
+### Line 5752-5760 (Match: 'House')
+**Folder**: book was
+
+```text
+11
+11
+
+In Tears it was Jason Taverner - + he was (after the king + knights dream) found innocent. + the tyrant, represented by Buckman, fell. The whole system fell. Now, with [better] clarity, I can see why, in Tears, the dream had to be there: it marked the intervention by God, signalling the fall of the prison; i.e. the breaching through, the intervention, the change - exactly as was to occur here in our world 3 or 4 years later. Tears is a depictment of all which was very soon actually to occur in our own world, + the book was an accurate analog for our own world. All the archetypal aspects were in the book (Felix Buckman as Roman procuratrator). (This facet of the book linked it to Rome - the dream to Daniel + hence Babylon - thus the book links all the manifestations of the archetype. The Q: 'Why me + not others?' is partially answered by the simple fact that at the moment of intervention I was down there in the dungeon - for most of the others their captivity had come earlier; i.e. before the moment of intervention. (Like Florestan, it was a woman "dressed as a man" - i.e. disguised as a man, who saved me: Santa Sofia. Sophia, i.e. the King in his unincarnated Wisdom (hence female) form. But an ever more accurate (+ precise) depiction of the "Babylon" archetype is found in Frolix 8: the one prisoner, the tyranny, + the sudden (utterly unexpected) intervention from outside. + the prisoner is compared explicitly to Christ. +, as Paul pointed out, the 3 eyed "ETIs" I saw resembled the humanoids on the book club edition of Frolix 8. Obviously, when I wrote it ('69?) I was beginning to see the US in those terms, but did not know of the Babylon-Rome archetype lying underneath - at least I didn't know (remember) consciously. Help came from another civilization. Not terran. Sometimes I think that's what the 3-eyed entities were. Is it possible that in Frolix 8 I guessed the literal truth, that help was on the way from ETIs? + - could the authorities have known, + this was why that after Frolix 8 came out they hit my house? My scenario in Frolix 8 wasn't fiction? They knew this, but I didn't. (But did know later - 4 or 5 years later). + in Frolix 8 there was the [Xtian] underground which I later (in 3-74) saw in a vision.
+
+Last edit over 5 years ago by Toso
+12
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Christian, Toso, Indexed, Rome, Form, Sophia, King, Paul, Felix, Roman, Wisdom, Like, World, Fall, Prison, After, Buckman, Book, Could, Taverner, Obviously, Frolix, Daniel, Jason, Santa, Those, Their, More, Another, Through, Babylon, Most, Actually, Before, Were, Jason Taverner, Very, Have, Later, Remember, Truth, Dream
+
+---
+### Line 6385-6393 (Match: 'House')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+31
+31 in attempting to document the punching through of orthogonal time changes in '74 I have cited the reaching for the air vent of the car where it wasn't, the dog + cat see confusion - but of much more interest was the residual subcortical memory of just having been in a cooler, moister climate at a higher altitude. Originally I assumed I had been elsewhere, but later theory indicates a transformation in the world (also I was aware that topical configurations, now gone, had been present a split second ago). I had not been abruptly whished from one place to another; the place I was at had been rewoven. But I think that the punching through occured at an earlier time, because of the personality change in me I think in the former version I had not come to Fullerton. I may have remained in vancouver. There there would have been the cool moist climate. That would account for the strange dreams I had in Canada. (E.g. everyone removing Their masks.) The tougher, bolden personality of Thomas may have been shaped by Y-Kalay. (There was that awful dream about returning to my house in Santa venetian + finding the cats old - + what may have been a missing week But the overpowering anxiety I had which grew + grew, culminating in 3-74 with the expected appearance of the Xerox letter - I had lived through it once before, + knew what lay ahead (after all, I knew the exact day the Xerox letter The would arrive, + picked it out without even opening it a orthogonal quality enters when the same "symphony" is rewritten rather than a going on [linearely] to the next "symphony": it has to do with reweaving one particular situation that has already occured. But I must never try to view the reweaving as centered around me or involving me exclusively; that part of the reweaving which affected me was part of a general release of the prisoners of the Black Iron Prison (as shown by the Palm tree motorized column entering the building in the James-James dream) There is no doubt in my mind that in 3-74 to 3-74 There was an extrication. But not just of me but of our entire world - the us, Greece, portugal +, later on, spaint the whole evil presence (as I said in my meta speech)
+
+Last edit almost 3 years ago by svayambhu108
+32
+Needs Review
+```
+**Co-occurrences**: Thomas, Xerox, James, World, Because, Iron, Prison, Time, After, Black, Mind, Even, Just, Once, Black Iron Prison, Palm, Santa, Without, Part, Their, More, Another, Through, Fullerton, Before, Greece, Would, Have, Tree, Memory, Later, Evil, Having, Iron Prison, Dream
+
+---
+### Line 7276-7284 (Match: 'House')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by kaebrooke4
+
+11
+But what I infer from this is that Christ invisibly returned. The greatest gnosis of all, the final revelation, is that despite all empirical evidence (i.e. world "B") to the contrary, the second coming has taken place. It must be the case that we are literally blinded to this by a spurious interpolation by the evil power, who maintains an occluding grip over us (over our senses). Reminds me of the star trek Episode where they couldn't blast the door in the rock open - + then it turned out that a deliberate hallucination had deceived them: although they couldn't see it, they had been successful. This reminds me of Runciter trying to get word His mess ages through to his employees re their true state. or come through only in trash, as if at unquarded, unexpected weak (least resisting or defended, i.e. peripheral) points. He must outwit the archon of this world + smuggle his messages into the prison disguised as trash. Which is how the novel "Ubik" Acts as message to/in/into this world: the true state of affairs in the trappings of trash. R's messages to that world in "Ubik"/as "Ubik" the novel itself into this world. Message not on gum wrapper but as gum wrapper However, something went wrong; the "archon" or "Prince" of this world noticed, which is why my house was hit 11/17/71 the real conspiracy goes much deeper than conspiracy buffs (such as Bob Wilson) suspect, although he almost had it in the theory that our universe is a hologram created by the intersection of 2 hyperuniverses. Fact is, our reality is hologram like: a spurious Satanic interpolation by the artifact con stituting a prison which shuts out information that
+
+Last edit almost 3 years ago by svayambhu108
+12
+Complete
+```
+**Co-occurrences**: Christ, Acts, Ubik, Complete, However, Like, World, Gnosis, Prison, Only, Something, Reality, Runciter, Although, Their, Star, Through, Real, Such, Revelation, True, Universe, Artifact, Information, Evil, Wilson, Final
+
+---
+### Line 7638-7646 (Match: 'House')
+**Folder**: book of
+
+```text
+Needs Review
+35
+38 That is precisely how I've treated the word, ever since its cryptic meaning was revealed to me in 3-74, + that its combined with the paragraph of which it was the key part, gave an otherwise invisible message at odds with which It was apparent.
+
+Also, I in real life vis-a-vis Mr Jackson. + Felix Bock man ubs-a-vis the black stranger at the all night gas station, obtained that meaming - as witness his drawing of the heart vierced by the arrow, + his hugging the black man. Somehow, the total message disinhibits t agapē, ever if not literally understood (via the grief I felt, + Buckman felt, about the man shut up in the house shrieking in knowledge that they were Nowe coming to kill him. In fact, now that I think about it, the whole to o ("Tears") was designed to show every kind Love possible, working up to the highest (shown between Buckman + the black man). So Evidentally Zebra which inserted his message of love via the Glossa "Felix, a is more than a description of a type of love. But statement of [his] love [for us]. I think I've got the equation. so sorrow to sympathy to empathy to love (agapē). out of sorrow (grief) comes the kind of love which Christ bade us all to have for one another: "As I have covel you, love one another. This is the highest commandment." The dream in Tears" shows its origin, out of what we deem a painful feeling. At the risk of repeating myself: "Tears" is a study of Every kind of cove, culminating in agape. So of course the Zebra-Ubik-divine - Sophia insertion ("Felix" added to the dream sequence] would be about love - specifically, it is t a (highest possible] love I left out: love by the Dec The deity saw the noble purpose in for us, inc. me My novel, but saw that it -the novel- was incomplete it -the deaty - therefore completed it
+
+Last edit almost 3 years ago by svayambhu108
+
+36
+```
+**Co-occurrences**: Christ, Tears, Ubik, Zebra, Sophia, Felix, Since, Therefore, Black, Buckman, Divine, Part, More, Another, Real, Love, Deity, Would, Somehow, Were, Have, Life, Knowledge, Otherwise, Dream
+
+---

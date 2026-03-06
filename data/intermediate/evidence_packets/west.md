@@ -1,0 +1,355 @@
+# Evidence Packet: West
+
+- **Category**: Top Term
+- **Total Mentions**: 26
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1246-1254 (Match: 'West')
+**Folder**: part of
+
+```text
+"Mighty and great is Ptah, who rendered power to the gods and their kas: through his heart, by which Horus became Ptah; and through his tongue, by which Thot[h] became Ptah."
+
+This is 2,000 years before India. "The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator." Also, Ptah did it by speaking the word (the tongue). This anticipates the Logos doctrine. Heart is creative intent; tongue utters or expresses, gives voice to (I'll bet ka and voice and breath are closely identified).
+
+Joseph Campbell flatour says the the Occident believes in a transcendent god (above creation) and the Orient an immanent god who is here now (name your own subtheory). In that case I parted company with everyone in the West except (one) certain Presocratics and (two) Spinoza, who thinks very early Hebrews thought this, whi[ch] is possible but to me not important. The only reconcilitation I can imagine for me vis-a-vis the West would be to think that God had been above (transcendent) but the linkage is now so repaired that He is immediately accessable, which means that the Kingdom is here. (Maybe this is so.) How can I believe He will descend in/on/under a cloud if I know Him to be here, that in fact He never left?
+
+For palintropos h. to exist, time must exist (since it is in oscillation or sequence form). Insofar as this kind of balance (Yang-Yin alternation) is taken as real, time is real, but as soon as palintonos h. is viewed, we are in another world where time is absolutely not real, but for a certainly an illusion. Joseph Campbell, writing about Egypt, says that the great secret of the pharohs was that they were "Master of the Twin Opposed Gods," Horace and Seth, whose strife in the temporal world is absolutely real, but that "The Secret of the Two Partners," "was a reference to the hidden understanding of the two gods, who, though they appear to be implacable enemies, are of one mind behind the scenes...mythologically representing the inevitable dialectic of temporality, where all things appear in pairs, Horus and Seth are forever in confli[e]ct; whereas in the sphere of eternity, beyond the veil of time and space, where there is no duality, they are at one; death and life are at one; all is peace." (p81.) It looks to me as if
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Logos, Form, Kingdom, Well, Spinoza, Maybe, World, Since, Only, Time, Harpax, Cosmic, Mind, Yang, Hebrew, Great, Gods, Viewed, Creator, Their, Another, Through, Egypt, Real, Voice, Certainly, Secret, Before, Death, Will, Would, Creation, Were, Very, Beyond, Under, Campbell, Things, Life, Body, India, Except, Joseph, Dialectic, Whereas, Joseph Campbell
+
+---
+### Line 1264-1272 (Match: 'West')
+**Folder**: part of
+
+```text
+When -tonos is achieved perfectly, it looks like nothing at all so much as nothing at all...we are deceived by the perfection of this equilibrium in the Unbounded, like cats who think cans of Catfood generate themselves...
+
+Since Heraclitus was aware that opposites are not just contained in an entity but are actually identical, he must have realized that the two "opposite" views of harmonie expression in his fragments were in themselves identical, ultimately. Not just contained in the universe both so to speak two views of the same reality.
+
+Joseph Campbell absolutely divides the Occidental religious view and experience off from what I had and hold: immanent God. Either (if I accept his view as historically correct) either I then admit to an "Oriental" religious experience-view, and detach myself from the West, or I leave it open, saying: as of March 1974 God was immanent, that is, not transcendent over the universe but coming up from within in; prior to that I can say nothing. I must leave the door open for the possibility of an Occidental transcendent God who has now manifested himself; at this point I have no clear technique for distinguishing which it is. From a pragmatic standpoint, maybe it is not important, or not very important; what is important is that He is now in the linkage situation; i.e. as Campbell puts it, "You don't have to be dead to see God." or "see God now" if it is a now. Maybe when God entered time He entered time in all directions and sort of fanned out, as if secretly there
+
+Last edit over 5 years ago by Harpax
+89
+Needs Review
+```
+**Co-occurrences**: Maybe, Like, Since, Time, Harpax, Just, Both, Reality, Heraclitus, March, Himself, Either, Nothing, Actually, Universe, Were, Very, Campbell, Have, Joseph, Dead, Joseph Campbell
+
+---
+### Line 2108-2116 (Match: 'West')
+**Folder**: book dream
+
+```text
+156
+. . . If I am going to systematically list all the elements in TEARS which are revelation (i.e. from scripture) (and I've tried to do this, supra supra) I think I missed the foremost element: when Felix Buckman hugs the black man it is the "kiss" or hug of the feast of agape, the cardinal moment of the authentic service of rememberance (he who is kissed or hugged, who is Anyman is of course Jesus). Also, it is evident from the text that the unknown (stranger) black man somehow it identified with Taverner, and it must be recalled that Felix Buckman partook earlier in the novel of a meal with Taverner, which was an odd thing for him/them to do. To back up this hug as cardinal moment of the now-suppressed original sacrament, consider the drawing which Buckman made prior to hugging the black man, and passed to him: the heart pierced by the arrow; which beyond doubt is a wordless graphic rendering of the idea of love (agape). It was the embrace of life. As witnessed the sudden sundering of the one-child-to-each-black-couple law.
+
+My very recent book dream, the masterpiece novel gummed into the encyclopedea -- it refers to such as the above novel cum covert message, as well as UBIK, etc. I'm beginning to think this most recent dream did not carry the message: Write such a book. But rather: You did write such books (with the gospel reassembled from trashy bits, as Lem put it). (So as to get past the Soviet Marxist materialist censors.) "There are other sheep whom I must bring in," as Christ said. This dream told me not what to do but explained to me what I have been doing. I, so fashionable to Marxists both in the West & East -- I, unknown even to myself, carrying the gospel to them in a form acceptable to them. I wonder, now that (3 74) it was explained to me, if I could do it, now being self-conscious and deliberate and doing it myself per se; maybe my work is done, successfully. I was finally told what I had done: the sheep in wolf's clothing, so to speak. As my Vancouver dream, in which Kathy and all of them took off their masks and said, "Now we can finally explain it all to you," it was in 3 74 finally all explained to me. Looks to me offhand as if UBIK was freighted the best. Maybe now I can rest. It's interesting -- you can flatout outfront tell a Marxist that my work is theological in nature (as I did Fitting etal, and also Claudia), and it doesn't register, as if I never even said it. "He doesn't comprehend his own work," as one of them said. Not only can't they see it unaided, they can't see it aided. Yet I am positive that on some level (right hem?) they are absorbing it; ah yes: subliminally!! I think this is why so many of my dreams --plus my intuitions themselves about my 3 74 experience-- contained elements pertaining to the USSR. Paranoiacally, I had it backward; they weren't influencing my thoughts, but I theirs (via my stories, novels, speeches, letters, oral discourse!!). Lord -- I think when they see the cross I wear, or read theological elements --find them in my writing, they think I am "one of them," but adding these as a sort of disguise to fit into capitalistic Christian Western society; my golly, they have it backward, but it's layer under layer; the bottom which (spreading the gospel to the Soviets) was unknown even to me. Until it was revealed to me in 3 74. Probably the most severe assault delivered in my work is against materialism as such, in my probing into the illusory nature of apparent reality...but surely this is a prime assault against the Enemy, against Marxism as one form of it.
+
+Last edit over 5 years ago by Harpax
+157
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Jesus, Form, Felix, Well, Lord, These, Maybe, Only, Harpax, Black, Buckman, Book, Even, Gospel, Could, Taverner, Soviet, Both, Reality, Being, Self, Probably, Kathy, Their, Most, Such, Love, Revelation, Consider, Western, Finally, Other, Somehow, Very, Back, Beyond, Surely, Under, Many, Have, Life, Claudia, Cross, Dream, Doesn, Right, Until
+
+---
+### Line 2197-2205 (Match: 'West')
+**Folder**: part on
+
+```text
+Last edit over 5 years ago by Harpax
+163
+Needs Review
+163
+magician element is there, a madness-genius blend, as in the cartoon of people watching the magician and one person finally whispers to another, "Personally I think he's just drunk." Probably my dream is based on part on that cartoon. Is this our true Creator, or rather is this maybe someone dazzling us with the evolution (atom to ziggy-baby to Kathy appears to be evolution), but the cost exacted belies his legitimacy. Maybe he is a false Creator, a Klingsor the magician who has [c]rept in a replaced the real Creator. He appears to be God, probably alleges himself to be, but as in the Apostasy, is not. We need help; we must break the spell, break away, stop him! We must call attention to the harm/hurt/injury he is inflicting. Also, in addition to spellbinding us and dazzling us, a magician (at least in the West) produces illusions; and the Garden of Klingsor I associate with illusion, probably correctly: illusion, lies and deceit. As Tessa says, the force working this world may not be the Creator, may not be legitimate. But of course poses as He. We don't have ma'at in our world; we have disorder. This proves that the Law-giver, the true Ruler and Lord and Judge, is not here. The magician holds the whole stage, around which everyone sits; the scouts enter entirely from outside the building.
+
+. . . My 3 74 experience: I was inside the Immanent Mind. As in a womb? Not mere analogy, perhaps. Made to grow. Both within the parent organism and also isomorphic with it, but much smaller and less developed. We are in God; moving toward comphrehension, which requires further growth/development. We are like the nymph or larva stage of mosqu[i]toes. Hence my dreams about the Pond. Again -- Wachet auf.
+
+. . . In glancing over CONFESSIONS again; I am astounded at the similarity between what Claudia Hambro (Connie Wheeler) says and what I would say/have said/intended to say regarding my 3 74 experience. As before I simply cannot account for this, except to note that it tends to indicate that (1) Connie and I are sick in the same way; or (2) this proves she was right after all and what she said was true, as impossible as it sounded to me in 58 or 59; or (3) my 3 74 experience was in some way a surfacing to consciousness in my mind of what Connie has said and what I had written -- and forgotten consciously. To me most interesting of all is Claudia Hambro saying the SEBs (superior evolved beings from outer space) would contact those whom they intended to save directly, but telepathy; which is to say, if there was anything to what Connie said, then some people would eventually get contacted telepathically by SEBs, and perhaps this is precisely what happened to me 16 or so years later (i.e. 3 74). There is even the healing surgery and implanting mentioned. Perhaps Connie, being part of the same culture as me, and having the same metal concepts and I have to interpret her experience, drew the same picture: a fusion of Christian eschatology and saucer people, that being all the concepts available to us.
+```
+**Co-occurrences**: Christian, Lord, Perhaps, Maybe, Like, World, Harpax, After, Garden, Mind, Even, Just, Again, Both, Being, Himself, Probably, Tessa, Creator, Kathy, Those, Part, Another, Most, Real, Before, True, Finally, Would, Judge, Further, Have, Claudia, Later, Having, Except, Dream, Right, Someone
+
+---
+### Line 3582-3590 (Match: 'West')
+**Folder**: part in
+
+```text
+Needs Review
+288
+-2-
+
+entity controlling me performed was to administer to Christopher the sacraments, but (I learned this from the Britannica) in the highly archaic form known only to the early Christian Church. At the same time the entity was wary —even frightened— of Rome and its agents, and seemed to feel Rome's tyranical presence. In a vision, as I mentioned, it showed me that Rome still exists as twin arms, one in the west and the other in the east, and that the western one would soon be brought to ruin for its crimes. This did take place, as we know.
+
+What the lady reporter made me realize was that this extraordinary experience, written up in my new novel VALISYSTEM A, was the answer to all my years of seeking to know what is real, related to a life-long journey, and that now my books would not ask but tell. Perhaps, she suggested, I would write no more. I have seen that the cosmic clock stopped about 70 A.D., that the Second Coming lies directly before us, that each of us is judged and the books on each person closed during his lifetime. Aristotle divided the cosmos into the sublunar realm, our own, and the supralunar realm of the Gods, but he believed the two never came in contact. Plotinus later on taught that the two realms do impinge on each other; roughly, they equal Earth and Heaven, and he taught that man could rise from the sublunar to the supralunar realm, see it and know it, although briefly; and of course the Christians teach that God, througl his initiative (which is what I feel) can bring the supralunar realm down here to impinge on man — which is called God's grace, and which I feel is what happened in my case. That the supralunar realm exists I have no doubt, having experienced it, and having been saved by that grace from certain destruction. That a wise heavenly father watches over us I have no doubt; and that we are judged I have no doubt; also, I believe that the second advent is coming, probably soon — that the first stages, which are the overthrow of wickedness, I have seen, first as prophecy and then as reality; as the Bible says, Elijah is preparing the way of the Lord, and the Lord, the Rightful King, who I have seen, will return soon and claim his peaceful kingdom. I have even witnessed the changes in the animals, in the form of a vision for a short while; I did not, at the time, understand why I saw the animals change, but the changes I saw are the ones predicted by the Bible, so the time cannot be far off. The gospel, which technically is not the godspell or good news, but the news of Christ arisen and to return — I have been shown that, and know that he was Holy Wisdom or the logos incarnate, and that the second incarna¬ tion either lies directly ahead or has already taken place.
+
+I'm sure, in my writing, that I will lose a lot of fans, in particular the Marxist fans in Europe, but I have been given the answer I sought for, and rejoice in it. I admit that when that answer came, that revelation of the absolute reality lying beneath the veil, it was a complete surprise to me, but I can think of no other so joyful, so wonderful. In my mind the picture of the Rightful King is so clear and so beautiful, and I have heard the voices of the host, and I know what a beautiful world lies ahead of us here and for us when we pass over into the supralunar realm, as all of us will. The Lord of the Universe, Jesus Christ, is beginning to assimilate our sublunar world to his father's universe; the end time has begun.
+```
+**Co-occurrences**: Christ, Christian, Holy, Logos, Jesus, Complete, Rome, Form, Kingdom, King, Bible, Wisdom, Lord, Perhaps, Advent, Plotinus, Elijah, Father, World, Only, Time, Earth, Cosmic, Holy Wisdom, Good, Mind, Book, Even, Gospel, Could, Realm, Reality, Jesus Christ, Although, Aristotle, Either, Gods, Probably, Grace, Still, More, Church, Heaven, Real, Before, Revelation, Western, Universe, Will, Christopher, Would, Other, Have, Journey, Life, Absolute, Wise, Later, Having, During, Answer
+
+---
+### Line 3833-3841 (Match: 'West')
+**Folder**: part I
+
+```text
+Last edit almost 3 years ago by svayambhu108
+4
+Needs Review
+4
+Seemed to expand to infinite proportions - this is why I saw the spacial around me expand immensely. I expanded outward into space & Backward into time ; at the same time I was [Flooded?] with universal wisdom (a lot of it consisted of the [heat?] esoteric cosmological knowledge From the past). there is no explanation of this in the west like there is in Buahdaism. An unexpected, divine inner reality & an unexpected [divine?] outer reality ; all that exised was -- Good Lord! -- Brahman again Conscious of itself From this one vantage point. the [Hiachue?] Myth where the creater chases his daughter down into & through the levels of living creation to the ants - Brahman had entered this world as me & I didnt [remember it a know it?] ; this is why [si au?] 3-74 I'm dallied with the idea that I am an [quatan?] of PTah, n of [Astilerois?] - of some immortal divine thing my visitia, here. I am not what I thought I was, & the world was not who I thought it was. Most exciting to me is the navigation that there is no place (in [things?]) where Brahmen is not - nothing too lowly n [ebhemeral?]. & I need not lament the passing away in them which I sensed : stamps, magazines, [kecerd?] albums, cats, friends - it is no disrespect to say that what I found in them & covered si ("just an [inclina?] Girl to the [ndiaa?] eye") was the [Atman?] in them, & it does not perish ; these are forms which Brahman assumes ("we are gloves which God puts on") as I Long ago said - they emanate , are maintained & finally reabsorbed , but at all stages really Brahman
+
+This is how the I [Ching anks?] - can [want?]. I, the coin, & the Boat & the contents & [serfmin?] of the book (the animation entity) are all the same sentient intelligent entity; not the same as "similar" but the same meaning a continuum: the one. There can be no other explanation than that of me intelligent continuum of the 3 of us: [throwmen?], coin, & Book: all three must know Both Questions & answer but also must be able to indicate that answer (by controlling cause & effect, the motion of the 3 [coven?].)
+
+Last edit over 4 years ago by dstoerger
+```
+**Co-occurrences**: Form, Brahman, Wisdom, Lord, These, Like, World, Time, Good, Book, Does, Just, Again, Both, Reality, Atman, Girl, Divine, Nothing, Through, Most, Living, Finally, Other, Creation, Ching, Things, Remember, Knowledge, Answer
+
+---
+### Line 5023-5031 (Match: 'West')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+29
+Needs Review
+29
+(8 I mean, I am faced with the comprehension (reveales) that 1 the Parousia is here + 2) it is not yet here. This Paradox could be resolved if it were assumed that while Elijah is here already. Christ is yet to be (again) incarnated. "The sin of righteousness with healing in his wings" may well have come at the vernal equinox of 1974, Great Christian deeds by invisible spiritual powers were undertaken + accomplished at that time (march through August '74). Let me cite the incredible tension I felt (perhaps as a valid apperception of the reality situation) when / as I sent tears off. All everywhere hung in the great historic balance in those days, leading up to the day I witnessed divinity shining up at me (from the very gutter) that day I walked home - the mid-day of the constitutional crising before it was decided (vis-a-vis the high court). ("The books were opened + the court sat in session + judged" the us supreme court? The transcripts us tapes? + in my tears dream I had seen the ancient of Days I saw the ancient of Days (in the Tears dream) [banvils The iron Empire (Daniel] + alot from "Acts. + the uncut store flung (Danies] whenever I read baniel I am sure that the iron Kingdom I here of the end. saw is the sace that he saw: Rome revived, into (ast + west "in the last days of those Kingdoms when their sin is at its height, a king shall appear, harsh + grim, a master of stratagems. His power shall be great; he shall work havic unfold He shall succeed in whatever he does, . His mind shall be ever active + he shall succeed in his critly designs He shall conjure up great plan + when the least expect it, work have on many He shall challenge even (God) (the prince of princes. + be broken. But not by human hands This vision of Danied fascinates me - it goes with his vision of the
+
+Last edit almost 3 years ago by svayambhu108
+30
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Rome, Kingdom, King, Well, Empire, Parousia, Perhaps, Elijah, Iron, Time, Mind, Book, Even, Could, Does, Again, Reality, March, Great, Daniel, Those, Their, Through, Before, Were, Very, Whatever, Many, Have, Days, Human, Dream, August
+
+---
+### Line 5029-5037 (Match: 'West')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+30
+Needs Review
+30
+420 2 geant with iron less (Rome east + west) with freet of lay mixed with iron, who is struck down by the uncit fone. Here an imperial monarch is similarly described Am I wrong broken not by man but by God as is the giant to think Nixon is meant? The description ("harsh + grim." "understanding dark sayings" i.e. craft - it certainly sounds like him, + Nixon was at the height of his power probably the most powerful man who has ever lived - +, most im portant of all, it was revealed to me in a dream that his evil had been seen, + "all the conspirators would be destroyed," which they were. The court sat - the books were opened tonight on the anx-FM news someone was quited as saying that the USSR "is one great prison." So was the USA until 3-74 when the transformation began (cf Tears). Thus my vision of the black Iron prison as our reality, breached from without (as shown in my James-James dream). (The Palm tree people - i.e. Christ + the heavenly host out of the "Holy land -- entered from outside + we appealed to them "for medical assistance"; i.e. Christ as healers of the injuries done to us in violence: symbolized in the dream by tessa as a lamb (the innocent ones) hurled down by James-James. I never realized this before: medical assistance not for sickness but for violent injurydone to the innocent + not only that: the violent injury was done to some innocent who merely tried to see more clearly what J-5 was doing - i.e. trying to see what was really going on, +, by doing so, got "out line" + conspicuous by standing up ("stand up, stand up, for Jesus sake etc., Just read (2/22/77) the Ebonfich on pauthicind Panentheism, God develops himself toward perfection through history, dialectically, + the goal of history: the growth of human freedom. Thus I learn to my delight that most of what I superienced, saw + learned in 3-74 confirms Hegel + I am Thus a Hegelian - which is
+
+Last edit almost 3 years ago by svayambhu108
+
+31
+```
+**Co-occurrences**: Christ, Tears, Holy, Jesus, Rome, James, Like, Iron, Prison, Only, Nixon, Black, Book, Just, Reality, Hegel, Black Iron Prison, Himself, Great, Probably, Palm, Without, Tessa, More, Through, Most, Certainly, Before, Would, Were, Hegelian, Tree, Clearly, Dark, Freedom, Evil, Human, Iron Prison, Dream, Lamb, Someone, Until
+
+---
+### Line 6253-6261 (Match: 'West')
+**Folder**: Unknown
+
+```text
+Costs Washer dryer: 634 Bed: 349 Chair: 144 Trip: 594 My trip: 194 Final: 1916
+
+trip: 400 800 +194 -594 PKD 594 206 Joan
+
+West LAX VqncBc over 7 days 655 30 183.60
+
+Last edit over 4 years ago by Kfischer
+
+11
+```
+**Co-occurrences**: Days, Final
+
+---
+### Line 7509-7517 (Match: 'West')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+17
+( them in the first place. I go outdoors + no longer need hide from or be afraid of the cops. will I ever know why what I did was important? For several years I had sensed divine forces secretly at work guiding, protecting + helping me. But in 3-74 I saw them. So previously I had been right. My meeting Tessa - Christopher's birth. The secret sacraments I performed, hiding them - him?- from the Romans. Ich west. ny work ist getan. I never need fear again: because the work was brought to soccessful comple‐ There is no need to hide. They were looking for x, but did not find it. X got into print + on synch schedule. Alleluia! Marenatha: really, secretly, I know. The revolution was a success. There was no way they could keep x frm coming into print on schedule. "Nats" "pol" AMORC code words. The Knights Templar on the march against the man hiding in the darkness inside the building. Sentenced to death. The wise old King had passed judgment. I saw the final days. Time fulfilled itself. We are safe now from the world, which has been orr‐ come. I got to see God as he really is, + I saw what We are like. We shall be like him" 1 JN 3:2. Jeter pointed out that Christ did not take on man's sins; He took on the accusation, by the world, of sins - was accused tried, found guilty though he was innocent, sentenced, degraded + crucified - a contemptible death: as an example exhibited + mocked - literally spat on. What did this show? that the world could - would - not recognize God but mocked him. I know because I did it, not recognizing him - until after he died + was resurrected + then taken up to heaven to be with God - I mean Pinky of course.
+
+Last edit almost 3 years ago by svayambhu108
+18
+Indexed
+```
+**Co-occurrences**: Christ, Indexed, King, Roman, Like, World, Because, Time, After, Could, Pinky, Again, March, Divine, Tessa, Darkness, Heaven, Secret, Death, Will, Christopher, Would, Were, Judgment, Wise, Days, Final, Right, Until
+
+---
+### Line 8431-8439 (Match: 'West')
+**Folder**: part of
+
+```text
+Last edit about 6 years ago by Zebrapedia
+Part 2
+Indexed
+Part 2
+But if there is a penetration in the microcosmos to the divine substratum, the divine substratum of the macrocosmos will manifest itself to the person. Conversely, if there is no internal penetration to the divine substratum in the person, his exterior reality will remain occluded over by the artifact's spurious projected world. The point of entrance to effect this transformation lies in the person, the microcosm, not the macrocosm. The sanctifying metamorphosis occurs there. The universe cannot be asked to remove its mask if the person will not shed his. All the mystery religions, the Hermetic and alchemical and Christian included, hold the individual human as target by which to transmute the universe. By changing the person the world is changed. Behind the human mind lies God. Behind the counterfeit universe lies God. God is separated from God by the spurious. To abolish the inner and outer spurious layers is to restore God to Himself -- or, as originally stated in this paper, God confronts Himself, sees Himself objectively, comprehends, and understands himself at last. Our process universe is a mechanism by which God meets Himself at last face to face. It is not a man who is estranged from God; it is God who is estranged from God. He evidently willed it this way at the beginning, and has never since sought his way back home. Perhaps it can be said that he has inflicted ignorance, forgetfulness, and suffering -- alienation and homelessness -- on Himself. But this was necessary, in his need to know. He asks nothing of us that he has not asked of Himself. Bohme speaks of the "Divine Agony." We are part of that, but the goal, the resolution, justifies it. "A woman in childbirth suffers. ..." God is yet to be born. A time will come when we will forget the suffering. He no longer knows why he has done all this to himself. He does not remember. He has allowed Himself to become enslaved to his own artifact, deluded by it, coerced by it, finally killed by it. He, the living, is at the mercy of the mechanical. The servant has become the master, and the master the servant. And the master either renounced voluntarily his memory of how this happened and why, or else his memory was eradicated by the servant. Either way, he is the artifact's victim. But the artifact is teaching him, painfully, by degrees, over thousands of years, to remember -- who he is and what he is. The servant-become-master is attempting to restore the master's lost memories and hence his true identity. One might speculate that he constructed the artifact -- not to delude him -- but to restore his memory. However, perhaps the artifact then revolted and did not do its job. It keeps him in ignorance. The artifact must be fought -- i.e. disobeyed. And then memory will return. It is a piece of the Godhead (Urgrund) that has somehow been captured by the artifact (the servant); it now holds that piece -- or pieces -- hostage. How cruel it is to them, these fragments of its legitimate master! When will it change? When the pieces remember and are restored. First they must wake up and then they must return. The Urgrund has dispatched a Champion to assist us. The Advocate. He is here now. When he came here the first time, almost two thousand years ago, the artifact detected him and ejected him. But this time it will not detect him. He is invisible, except for those whom he rescues. The artifact does not know that the Advocate is here again; the rescue is being done in stealth. He is everywhere and nowhere. "The coming of the Son of Man will be like lightning striking in the east and flashing far into the west" (Matthew 24:27). He is in our midst, but in no one place. And as St. Teresa said, "Christ has no body now but yours," i.e. ours. We are being transmuted into him. He looks out of our eyes. The power of delusion wanes. Did the artifact accomplish its task? Perhaps unintentionally. If the Hermetic "reflection of the divine mind behind the universe by a person's own divine mind/memory" can actually take place, then the division between the mundane world (here and now) and the eternal world (the heavenly or afterlife world) is broken down. Suppose that there is, in effect, a polyencephalic or group mind, spanning space and time (i.e. transspacial and transtemporal), in which wise men from all ages have participated in: Christian, Hermetic, alchemical, Gnostic, Orphic, etc. Through their participation in this vast mind, the will of God would be effectively exerted here on Earth, in human history. Many people might agree that such a Godhead mind exists for us after death, but who is aware that -- for some -- it can be joined before a person's death, and, when he does join it, it can become his psyche, determining his actions and doing his thinking for him? Thereby the Mens Dei [mind of God] enters human affairs (and can modulate causal chains as well). This exposes an enormous esoteric secret, known to "magi" down through the ages: The two realms, heaven and Earth, are not totally divided. God's will is, at least now, exercised here. And evidently this has been true for some time, since the Hermetics and other mystery religions go back to antiquity. In Christ, God descended to corporeal manhood -- at that point the division between the two realms was abolished. Those humans selected out to participate in this group mind -- they would be immortal. So here is an even deeper secret than I had uncovered so far. Projected delusional world by a former-servant artifact -- divine substratum beneath -- time travel -- now I posit an augmented Corpus Christi (my model of it) spanning all time and all space: ubiquitous in time and space. It sounds like Xenophanes' noos [absolute mind], with this added: Living men can participate in that noos. And in a certain real sense, this noos is the secret ruler of the world, so that those who are taken into it become "terminals" of it -- which is to say, temporary Christs. This mind reaches over to the Urgrund with no clear line of demarcation. At that level it's all one: man raised to Godhood, in response to God's descending to manhood. In this group mind there seems to be an interpenetration of participating souls. And this mind extends over thousands of years, all of which are now -- and all places are here (that is why I found myself in Rome circa A.D. 70 and in Syria, and saw Aphrodite, etc.). I say of this mind, "It is the secret ruler of the world." This is not its world. . . on the surface. The surface layers are the strata of a spurious projection by the artifact. But beneath that, the Mens Dei, including a number of human constituents (both living and in the afterlife), modulates this reality invisibly, working in opposition to the artifact's intentions. The divine, concealed, authentic substratum is the Mens Dei, beneath the spurious. My experience of 3-74 can be reviewed as an achievement by the Urgrund in reaching its objective of reflecting itself back to itself, using me as a point of reflection. I contend that in doing this, it was able to place its entire self (not just a fragment as I originally said) somehow within me, in image form. The artifact, not knowing the purpose for which it was created, had contributed substantially to this; by inflicting too much pain on me it had, in a certain real sense, awakened me. Put another way, it had managed to destroy the layer of individual personality by a series of afflictions against which my self, my ego, could not survive. Thus the microform of the Urgrund was exposed, and perceived its macroform in the totality of the universe -- or, as the article on Bruno says, the divine behind the universe. My 3-74 experience, then, was not so much my experience as that of the Urgrund. It amounted to a replication of the Urgrund here rather than there. The totality of the Godhead was recapitulated within me through a process of rolling back spurious or temporary layers to expose the permanent within. Thus it can be said that I was really the Urgrund, or at least a faithful mirror image thereof. The entire objective of creating me, of creating the universe as such and the life forms within it, was arrived at. Viewed this way, my life and that of my ancestors could be viewed teleologically: as moving through evolutionary stages toward that moment. My experience did not represent a stage in evolution but the ultimate stage or goal, at least if the premise stated in this paper is correct. It is not a question of degree of reflection; it is a question of reflection of the totality of the Urgrund or none at all. Full reflection was achieved, whereupon, as I say, the Urgrund was born out of the universe, the sequence represented this way:
+
+Urgrund creates artifact which projects universe which gives rise to life forms which evolve to a stage in which the Urgrund is "born" or reflected.
+
+This reflects the sequence of stages envisioned in the Hindu religion. First there is creation by Brahma, then Vishnu sustains the universe; then Shiva destroys it, which should be understood as receiving it back into its origin. A full cycle of birth, life, and then return is enacted. When the universe has reached the evolutionary stage where it can faithfully replicate the Urgrund, it is ready to be absorbed back. Thus I say, the deity that reigns now is Shiva/Dionysos/Cernunnos/Christ, who restores us to our Urgrund or Father: our source of being. That Shiva the destroyer god is now active signals the fact that the cycle of creation has returned to its source, or rather, that the life forms of it are ready to return to their source. Shiva possesses a third or Ajna eye, which, when turned inwardly, gives him understanding to an absolute degree; when turned outward, it destroys. The manifestation of Shiva (of the Hindu system) is equated with the Day of Wrath in the Christian systern. What must be understood about this world-destroying deity is that it is also the herdsman of souls. With one of his four hands, Shiva is shown expressing reassurance that he will not harm the virtuous man. The same is true of Christ as Lord and Judge of the Universe. Although the world (the spurious projection of the artifact) is to be abolished, the good man need fear nothing. Nonetheless, judgment is being pronounced. The division of mankind into two parts by Christ is taking place. These are the same divisions expressed in the Egyptian system (as ruled by Osiris and Ma'at) and in the Iranian (by the Wise Mind). Through the total insight given him by his Ajna eye, Shiva the destroyer perceives that which he must destroy in the service of justice. Through that total insight he also perceives those whom he must protect. Thus he has a dual nature: destroyer of the wicked, protector of the weak, the victims of the world, the helpless. Christ possesses precisely these two natures, as Divine Judge and Good Shepherd. Cernunnos is both a warrior god and a healer god. It is difficult for humans to comprehend how these apparently opposite qualities can be combined into one deity. However, if attention is turned to the situation, it can be understood. The artifact's projected world has begun to serve its final and sole real purpose. Now, with the artifact about to be destroyed, that world will end; it was never real in the first place. (This reflects the quality of destroyer assigned to Christ/Shiva/Dionysos.) But the elements of the world that have done their task will be selected out -- that is saved -- exactly as Dionysos is depicted as the protector of small, helpless wild animals. Dionysos is the destroyer of prisons, of tyrannical rulers, and the savior of the small, the weak. These attributes are assigned to Shiva/Cernunnos/Christ/Dionysos because of the nature of the task now required: a twin task, one of destroying, one of saving.
+```
+**Co-occurrences**: Christ, Christian, Indexed, Rome, Form, Gnostic, Well, However, Dionysos, Lord, These, Perhaps, Godhead, Father, Like, World, Since, Because, Time, Earth, After, Noos, Savior, Urgrund, Good, Mind, Hermetic, Even, Could, Does, Jakob Boehme, Zebrapedia, Just, Again, Shiva, Suppose, Both, Reality, Being, Christi, Although, Self, Orphic, Divine, Himself, Corpus, Either, Viewed, Nothing, Those, Part, Their, Bruno, Another, Through, Corpus Christi, Living, Xenophanes, Heaven, Real, Nonetheless, Such, Actually, Secret, Before, True, Death, Universe, Finally, Will, Deity, Would, Other, Creation, Somehow, Judge, Hindu, Back, Egyptian, Many, Have, Artifact, Judgment, Life, Absolute, Body, Apparently, Justice, Memory, Wise, Aphrodite, Remember, Except, Human, Syria, Evidently, Final
+
+---
+### Line 10186-10194 (Match: 'West')
+**Folder**: part of
+
+```text
+Last edit about 5 years ago by sekennedy62
+85
+Complete
+85
+terms (balance, harmony, right proportion, etc). The bedrock of this system is a melding of a religion of the west (Christianity; with a philosophical cosmology of the East) Taoism which does not hypostatize a deity but does hold vigorous concepts e.g. "the correct path," to draw from Parmenides, who evidentally hit upon a Taoistic system without any knowledge of Chinese thought.
+
+There is, then, in this system, a kind of "Tao of Taoism" in that it borrows both Eastern + Western cosmogonical + cosmological + religious concepts to account for that which, for example, Christianity alone seems incapable of reasonably explaining.
+
+Will Durant (in "Our Oriental Heritage") declares that explaining undeserved suffering is the cardinal work of religion. If this be so, Orthodox Christianity is a failure (v. the E.B. macro article on Christianity's failure to explain suffering of the innocent, esp children), + Taoism, taken alone, is an elitist worldview which accepts reality as it is because it is as it is (in contradistinction, e.g. with Zoroastrianism), what is most firmly rejected in the Hindu reasoning that somehow suffering is only an illusion.
+```
+**Co-occurrences**: Complete, Christianity, Parmenides, Because, Only, Does, Taoism, Both, Reality, Without, Most, Upon, Zoroastrianism, Western, Macro, Will, Deity, Somehow, Hindu, Knowledge, Eastern, Durant, Right
+
+---
+### Line 14276-14284 (Match: 'West')
+**Folder**: part of
+
+```text
+The xerox missive - + my response - involvement in it - with it - was part of my cosmic burden (as shown by dreams of my early childhood + Olive Holt). I had been doomed by karma - antecedent causality - to fall victim to the xerox missive. My self was illusion, so was my world (supra) [Note]. I remembered who I really was + what my task (purpose) was. + I got to see Brahman (in Zebra) + the message traffic replace any + all worlds. I as atman was restored as a bit of Brahman. + I had been _imprisoned_ by karma. It broke - I remember when the "tapes" (inner + outer) got out of synch when my (false, illusory) ego broke down + dissolved. [Note] Model B. Now (model B) I know the truth + have formulated it into a coherent system, which, however, is open-ended. Had I handled the xerox thing under the iron grip of karma my entire remaining life would have been different; a personal alternate future was set up by the removal (breaking) of karma over me + my actions.
+
+Jail Jello Cabrillo (the man) (Alcatraz ave) Code-entrapment
+
+The illusion of _who_ I am, _where_ I am, _when_ I am, _what_ reality consists of - all dissolved + the truth was disclosed - unvelied to me. I was not PKD; I did not live in USA or in 1974, + world itself did not exist, only Zebra - who I have long suspected to be Brahman. Causality was disclosed as merely pretextual, that Brahman (Zebra) alone was the true cause of processes + events, immanent within all. Zebra in macro form outside me, + in micro form inside me: the "AI" voice spoke for both since both were one. "Physical reality is plastic in the face of mind" i.e. Brahman. Well, I finally found someone in history who had my 3-74 experience. But not in the west; it was Siddhartha, the greatest of the Buddhas.
+
+Last edit over 9 years ago by Toso
+folder 02 - 070
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Zebra, Xerox, Form, Brahman, Well, However, World, Since, Fall, Iron, Only, Cosmic, Folder, Mind, Karma, Both, Reality, Atman, Missive, Self, Siddhartha, Xerox Missive, Toso
+Folder, Part, Holt, Voice, True, Olive, Olive Holt, Macro, Finally, Would, Were, Under, Have, Life, Remember, Truth, Someone
+
+---
+### Line 14374-14382 (Match: 'West')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 080
+Complete
+folder 02 - 080
+If I had not regained this lost wisdom by losing forgetfulness (maya) I would doubt if there were any literal truth to the thing. (When I contemplate my system as such, I say, "it's fanciful".) But I _did_ see the Golden Fish + hear the words - + I _did_ lose forgetfulness. + when that happened, I not only remembered (e.g. a past life) but saw my world as simulated, + then experienced progressively 8 layers of ever greater reality. Really, all I fail to explain is _how_come_ we have fallen into forgetfulness (esp. of this primal wisdom - + lost some faculties entirely, + partially lost others). + my experience - + system - is neither new nor limited to the west. It was known to the ancients all over the world. _Why_ is it as it is? Must we _earn_ wisdom? Why is memory (+ memory of wisdom) not natural? There _was_ a fall. + one aspect of the fall is that we don't know what caused it. What _is_ this BIP which I saw? Where did it come
+
+Last edit over 9 years ago by Toso
+
+folder 02 - 081
+```
+**Co-occurrences**: Toso, Complete, Fish, Golden, Wisdom, World, Fall, Golden Fish, Only, Folder, Maya, Reality, Toso
+Folder, Such, Would, Were, Have, Life, Memory, Neither, Truth, Greater
+
+---
+### Line 14875-14883 (Match: 'West')
+**Folder**: Folder 03
+
+```text
+Complete
+Folder 03 - 054
+60
+
+I would guess that the BIP which I personally penetrated as an unknowing double agent was the CP establishment, which watched me ripen + considered me theirs. But at the exact moment of plucking I lost my husk + became what I always secretly was, much to their consternation + anger + bafflement. + not only was I not in their pocket but I could discern the design of their plan which involved me (taking over US S-F). Thus more than just the loss of me intrisically was involved; the plan was jeopardized. I demonstrated energy + cunning in dismantling their plan - which may have been a purpose central to my existence (in terms of political acts, i.e. acts affecting history). Here again was an ostensible victory situation for Caesar undermined at the critical moment. I don't say the US BIP was not my enemy, but in terms of what I appeared to be + what I did harm to it was the East, not the West, with which I was more importantly involved. The "elevator rise" in social levels shown in the raft dream almost surely signifies the East, not the West. Perhaps the inner latent realm (both as psyche + as world) does not lie in (+ hence do not progress or change in) linear time, but stays constant: is supra- or non-temporal, revealing the constants (which I experienced as Thomas + as Rome CAD 45). It is eternity vs the counterfeit of eternity: linear time... Or it possesses a rotary time which always re{...} of constants.{...}
+
+Last edit about 7 years ago by Toso
+Folder 03 - 055
+Indexed
+```
+**Co-occurrences**: Acts, Toso, Thomas, Indexed, Complete, Rome, Perhaps, World, Only, Time, Folder, Could, Does, Just, Realm, Again, Both, Toso
+Folder, Their, More, Would, Surely, Have, Caesar, Dream
+
+---
+### Line 16561-16569 (Match: 'West')
+**Folder**: folder 20
+
+```text
+would have destroyed him. + he figures out why he/they created this irreal world + then came down into it voluntarily, + voluntarily sans knowledge + memory. (But strategically distributed clues - no fools they.) + he discovers that his outside-of-time self is watching over him + speaks to him, giving him info he needs - i.e. help. Advice - council. __
+
+Those 2 dreams near 3-74. 1) Gold watch + Monopoly money. Represents the capitalists (i.e. the USA). Return to Placentia; this is US intelligence. + now I don't need to fear the police. 2) Necktie (hanging, noose) laundered into clothes (trophy) of respectability: red, white + blue: patriotism. The counter culture person dressed up, acceptable + rewarded covertly (in a way he can't see). Oak, wine bottle = FBI. They hit my house; trash (rubbish) is turned into trophy: cleaned up, made orderly. It's over, the attack on me.
+
+1): What I found unexpectedly (received, the Xerox missive) came from the West, not East. 2): Necktie equals an execution, a hanging, equals "give him enough rope + he'll hang himself": punishment laundered (transformed) into a reward (trophy), due to how I dealt with the Xerox missive. Goes all the way back to the hit on my house when/where they were looking for evidence to hang me. Red, white + blue: obvious meaning: US patriots reward me, a fellow patriot. Specifically an official federal trophy. The red is not for CP but red for heart (it was heart-shaped): trophy for my injuries sustained. (I.e. hit on house, they're making it up to me for that.) Put another way, when they assembled the evidence they found, it was (finally) red, white + blue. These dreams when combined show: the Xerox missive was U.S., returned to U.S., + resulted in me being "cleaned up" into patriotic respectability, out
+
+Last edit about 8 years ago by Toso
+folder 20 - 028
+Complete
+```
+**Co-occurrences**: Toso, Complete, Xerox, These, World, Time, Folder, Being, Missive, Self, Xerox Missive, Toso
+Folder, Himself, House, Those, Another, Gold, Finally, Would, Were, Back, Have, Memory, Info, Knowledge, White
+
+---
+### Line 16581-16589 (Match: 'West')
+**Folder**: Book of
+
+```text
+28
+
+I have evidence of the reminder-clues; this evidence serves then as evidence of a voluntary coming here, + a foreknowledge of the problems involved, the possibility of getting stuck + needing an automatic way back out. I reason back from the clues to the original situation: inductive reasoning but still convincing to me. Had it been an accidental or involuntary "intellectual error" would those reminder-clues have been set up beforehand? ___
+
+The belief that we are pluriforms of God voluntarily descended to this prison world, voluntarily losing our memory, identity + supernatural powers (faculties), all of which can be regained through anamnesis (or, sometimes, the mystical conjunction) is one of the most radical religious views known in the west. But it is known. It is regarded as the Great Blasphemy: replication of the original sin mentioned in "the First Book of Adam + Eve" + in Genesis. For this pride + aspiration (we are told by orthodoxy) our original fall + exile + punishment, our being taken from our home the Gardenland + put into the prison, was inflicted on us. "They wish to be equal to -like- us," the Elohim say, + toss us down. Yet I have reason to believe that this, "the Great Satanic Blasphemy," is true. First, we are here voluntarily. We did not fall + we were not punished; we elected to descend. Why? To infuse the divine into the lowest strata of creation in order to halt its decomposing + the sinking of its lower realm. This points to a primordial crisis in creation, in the total macro-
+
+Last edit over 8 years ago by Toso
+folder 20 - 030
+Complete
+```
+**Co-occurrences**: Toso, Complete, Like, World, Fall, Prison, Folder, Book, Adam, Realm, Being, Divine, Toso
+Folder, Great, Anamnesis, Those, Still, Through, Most, True, Macro, Would, Creation, Were, Back, Have, Memory, Lower, Genesis
+
+---
+### Line 17246-17254 (Match: 'West')
+**Folder**: folder 21
+
+```text
+Complete
+folder 21 - 049
+47
+
+Simon is now in a resurrected + immortal [plasmate] form. I've several times written: "only Zebra can see Zebra"; ergo, since Zebra is Simon, only Simon (in me, having entered me) could see himself outside me. He didn't enter in 3-74 but probably in my childhood; but in 2-74 - well, I've already figured this out. Thus Simon's great Gnostic discoveries were transferred by him to me to be put into my corpus of writing. In 1971 the dark forces assailed me. But it was essential for Simon not to disclose himself to me then, or I would have spoken about it. In 3-74 the situation was different. Simon shares my attitude toward the Empire - + my fears! We are as one mind, there, both of us know the truth. But in 1974 the true God dealt a sharp blow to the Empire in the West; out of this those such as I were extricated. (+, via Simon in 3-74, I was exculpated) Look what was done to us by Innocent III. Will it be Zebra (Simon) who incarnates as the 5th savior? Yes? No? 1) It could be Simon. 2) It could be Christ returned. 3) Or a totally new savior / messenger. 4) The Buddha? 5) Zoroaster 6) Apollo 7) Other. ___ It is obvious to me after reading in the Nag Hammadi codices that Palmer Eldritch is beyond doubt Yaltabaoth - even to the point that Yaltabaoth is described as the "blind" god - v. Eldritch's eyes, + Eldritch is
+
+Last edit about 8 years ago by Toso
+folder 21 - 050
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Zebra, Complete, Form, Gnostic, Well, Empire, Since, Only, After, Folder, Buddha, Savior, Mind, Even, Could, Look, Simon, Both, Eldritch, Toso
+Folder, Himself, Palmer, Corpus, Great, Apollo, Probably, Palmer Eldritch, Zoroaster, Those, Such, True, Messenger, Will, Would, Other, Were, Beyond, Have, Dark, Having, Truth
+
+---
+### Line 19248-19256 (Match: 'West')
+**Folder**: folder 06
+
+```text
+Indexed
+folder 06 - 018
+18
+
+gained the victory? To Q (1) the answer is, they annexed me; but Q (2) is answered by, I gained the victory. They are compelled to annex + utilize something aimed at subverting them, with an ambiguous outcome. In no way is it a clear-cut victory for them; at the very least it is detente. They correctly view me as intractable. They are forced to attempt to assimilate me. But whether pyton python-like they can digest me is open to question. The true name of the game is power (to define + hence control [people's perceptions of] reality), not consumer commodities like big house, Porsche + clothes (as Bill Duke supposes) those are sops - bread + circuses, mere toys marked "success" but still toys. Which is why I can spartanly disdain them in my pursuit to control the definition of reality through my writing etc. + I say that reality is irrational + irreal + subject to manipulation by mind - which is a sort of handbook of ideology of control, to view it thus, + provides the disenfranchized with techniques (inner secrets) of power! Almost shamanesque in nature. Esp: Jason Taverner, even when totally stripped of power + identity, destroyed his police (i.e. authority) foe (pursuer). Lem + the party experts saw correctly that in my writing I was handing over weapons (secrets of power to the disenfranchized of the capitalist West; their appraisal of me is correct. Over + over in my books 1) power is studied; 2) who has it; + 3) how those denied it manage to get it.
+
+Last edit over 6 years ago by Toso
+folder 06 - 019
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Like, Folder, Mind, Book, Even, Taverner, Something, Reality, Toso
+Folder, House, Jason, Bill, Indexed
+Folder, Those, Still, Their, Through, True, Jason Taverner, Very, Whether, Answer
+
+---
+### Line 22648-22656 (Match: 'West')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+117
+Needs Review
+117
+( t p The Golden Fish sign starts a complex series of states of disinhibition: arousal! This long complex disinhibiting can only be understoon in terms of arousal [from sleep). It require these factors to set it off in me 6) sensory depriva , so that 1) intense fear. internal time got 2) intense physical pain. out synch + West faster + 3) disinhibiting stimulus - faster. 4) at time of sodium pentathol. 5) Recognition of events as my own memory contents. only due to all + perhaps more I was successfully aroused; i.e. I woke temporarily up whereupon I saw information processing. They ar using our brains for some kind of information processing - very likely memory. They have severely occluded us as part of the toxic sleep + forget fulness. Our space-time continua are irreal but these are not dreams: they are like a holo‐ gram: technologically projected. Valis is aristotles teleological entity which "stimulates goal seeking" on our parts. It is possible, even likely, that the goal it seeks (it being a camouflaged invader into our c world) is to initiate + carry to completion the long + difficult process of waking us up out of our toxic sleep which otherwise is endless. It is, of course, the epitome of the benign (i.e. Ubik). put another way, if intense pain + fear are necessary to the arousal process, people will dvoid arousal in their attempt to escape intense pain + fear. These could even be barriers preventing -in bo ser ul ite
+
+Last edit almost 3 years ago by svayambhu108
+118
+Needs Review
+```
+**Co-occurrences**: Valis, Ubik, Fish, Golden, These, Perhaps, Like, World, Golden Fish, Only, Time, Even, Could, Being, Part, Their, More, Another, Will, Very, Have, Memory, Information, Otherwise
+
+---

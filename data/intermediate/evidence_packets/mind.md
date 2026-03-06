@@ -1,0 +1,345 @@
+# Evidence Packet: Mind
+
+- **Category**: Top Term
+- **Total Mentions**: 125
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 121-129 (Match: 'Mind')
+**Folder**: book the
+
+```text
+Yes, maybe so, Claudia; while the teacher was still the universe. I remember how God, as body-of-God, the universe, taught me, through bugs and bees, the sight of an old blind lady in a great wheel chair. I knew about being bushwacked (by a bee) about old age and death; I knew about the Fish sign, too, the Savior: I called him “Tunny,” from a del Monte billboard for some canned food. We had to travel under the Oakland Estuary in the Alameda Tube, and I saw the tube like a can; at the end we emerged in the sunlight and I saw the billboard with “Tunny” on it. I loved ol’ Tunny, the great fish (like Charley the Tuna now must be to kids). Claudia, I tell you the truth: through (via, not from in, within) such shapes, the true living Archetypes speak to us, especially as children, but now, too, if we liksten. In my kids’ story book the figure of the old king… through him God actually moved toward me, later appearing in a “dream” about my story book,” If you see. I saw this last night, how the drawn figure of the old king is:
+
+The drawing your parent an archetype
+
+The mind receives so well during young childhood. It was wonderful, enchantment, when things spoke, pictures and bugs. Well, God spoke through them via, by means of, them. Utilized them as conduits of resemblances; there we encountered the Queen, the King – and the pieces of the chessboard. I realized the other night, And now, that Christopher is born, I am the wise old king. I will never find him; I can only become him. Bummer. Sad. But I looked at my great arms (I have great arms) and I thought, One must eventually become ones own parent.
+
+And the beautiful cruel queen is Tessa, of course. That story,
+
+Last edit over 5 years ago by Zebrapedia
+```
+**Co-occurrences**: King, Fish, Well, Maybe, Like, Only, Savior, Book, Zebrapedia, Being, Great, Tessa, Still, Through, Living, Such, Actually, True, Death, Universe, Will, Christopher, Other, Under, Have, Things, Body, Claudia, Wise, Later, Remember, Truth, During, Dream
+
+---
+### Line 387-395 (Match: 'Mind')
+**Folder**: book A
+
+```text
+Our reality can be manipulated retroactively; that is, our past can be rewoven, and without hesitation, as an automatic process, our several memory-systems will fill in the blanks and make smooth the reweaving (i.e. we won't realize that alterations in our lineal-time past took place).
+
+A certain portion of the phenomenal world which we encounter is hologram-like, projected and false, to fill in missing spaces, as in the time extension, missing elements are filling in along similar lines. Therefore we see total continuity in both extensions, time and space, without awareness of dysfunction or rupture. But in truth, there are dysfunctions which (to return to my former term) the Dreamer causes us to gloss over, or allows us to -- perhaps it is less a manipulation that a permission, if you see what I mean.
+
+In a meaningful sense, portions of our reality extensive in time and space are false; other portions are real; we have no way of determining which is which or even if this proposition is true -- but this proposition is true, because I saw in March of last year a roll-back of the artificial portions (the term "the veil of Maya" comes to mind). After ten months of studying and speculating, I have come to these conclusions:
+
+(one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, and wihtout it, there would be nothing but illusion, nothing but Maya, so to speak.
+
+(two) Lineal time is mere process or accumulative time, which conceals orthogonal time from our gaze.
+```
+**Co-occurrences**: These, Perhaps, Like, World, Because, Therefore, Time, After, Even, Both, Maya, Reality, Being, March, Without, Nothing, Real, True, Will, Would, Other, Back, Have, Memory, Truth
+
+---
+### Line 434-442 (Match: 'Mind')
+**Folder**: book about
+
+```text
+Recently I met Mr. Henry Korman and Mr. Tony Hiss (Tony had come by to interview me for the New Yorker). I got into a marvelous discussion with Henry about Sufi and I mentioned my admiration, bordering on fanatic enthusiasm, for your pioneer work with bilateral brain hemispheric parity. Thus, I, having learned that they know you, and am summoning my courage to write you and ask, What has become of me, since experimenting with bringing on my right hemisphere (I did it mainly by the ortho molecular formula vitamins, plus a good deal of concentrated meditation).
+
+By this I mean to say, Dr. Ornstein, ten months ago this took place, and for ten months I have been a different person. But what to me is most extraordinary (I am writing a book about it, but in the form of fiction, a novel called TO SCARE THE DEAD), is that -- well, let me give the premise as I placed it into the novel:
+
+Nicholas Brady, an ordinary American citizen with contemporary worldly values and drives (money and power and prestige) suddenly has inside him a winking into life an entity which has slumbered for two thousand years. This entity is an Essene, who died knowing that he would be given the promised resurrection; he knew it because he and other [Qumran] individuals had in their possession secret formulae and medications and scientific practices to insure it. So suddenly our protagonist, Nicholas Brady, finds that there are two of him: his old self, at his secular job and goals, and this Essene from the [Qumarn] wadi back circa 45 A.D., a holy man with holy values and utter antagonism to the secular physical world, which he sees as the "City of Iron." The [Quamran] mind takes over and directs Brady in a complicated series of acts until it becomes evident that others such as this [Qummran] man are coming back to live here and there in the world.
+
+Studying the Bible, along with this [Quamran] personality, Brady finds that the New Testament is in cypher. The [Quamran] personality can read it. "Jesus" is really Zagreus-Zeus, taking two forms, one mild, the other utterly powerful, on which his followers can draw when in need.
+
+The [Quamran] personality, who, for fictional purposes, I call Thomas, gradually informs Brady that these are the Parousia, the Final Days. And to be prepared; Thomas will prepare him by reminding him of his own divinity -- anamnesis, Thomas calls it. Thomas develops a special parity relationship with Brady, but evolves as a source of teaching for the incredibly ignorant Brady the entity known as Erasmus, who is in fact a station in the noösphere, which is now so fully charged around Earth that if you are aware of it you can consciously, rather than un-
+```
+**Co-occurrences**: Acts, Thomas, Holy, Jesus, Form, Well, Bible, Parousia, These, World, Since, Because, Iron, Earth, Good, Book, Zagreus, Tony, Self, Anamnesis, Essene, Brain, Their, Zeus, Most, Such, Secret, Will, Would, Other, Erasmus, Back, Have, Life, Testament, Days, Having, Dead, Suddenly, Qumran, Final, Right, Until
+
+---
+### Line 535-543 (Match: 'Mind')
+**Folder**: Unknown
+
+```text
+Complete
+33
+Undoubtedly the alchemical meta(crypte)morphosis worked in the human (lead to gold) contains a key to this transformation cycle of all society, of earth itself. After my own transformation, done via gold (the fish wrought in gold) I had a ferocity about --a maniacal antipithy toward-- lead in particular, base metals secondarily, but certainly a sense that lead was a poison, destroyer of life, killer of health (the dream: "The bichlorides are a very poisonous poison" suggests the alchemical symbol or reality of lead as poison was there in my head -- Albert Magnus, Simon Magnus, et al. I saw the world under the vector-aspect of gold, and I saw the former point or filter color presenting me with the departing base metal, the oncoming gold.
+
+It certainly shows that the alchemists were seeking a symbolic transmutation of psyche or maybe noös, not metal qua metal (which Jung and AMORC have pointed out). That something equal to turning lead to gold can happen in the person, in his mind -- this is certainly extraordinary, and makes the upfront alchemist's story (lead to gold) an allegory of man's progress spiritually (again the magic of the mystery religions). So in considering what happened, how it happened, who (if anyone) arranged it and what for, the alchemists and what they actually were up to must be considered. This could have been a spontaneous process in me, in which I obtained that very lead-to-gold transmutation sought for by the alchemists...that they sought this is certain; that they found it is speculation. I am sure many of them did undergo this crypte morphis, invisible to the outside. It is possible that I did it alone (the experimentation with the ortho molecular vitamins and so forth being my "alchemical experiments"), but it is also possible that a Redeemer caused it adventitiously (Gnosticism versus Neoplatonism). The spontaneousness of it would indicate that, like any true chemical reaction, it is not reversable. I think that the first dream being the baby's cereal box with the "the bichlorides are" etc on it indicates an external Grace assistance or intervention; I was and am being told by someone else...which the AI system of Albert Magnus maybe was. (The problem solving question answering head.)
+
+The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
+
+It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese States of America" dream is typical. I dreamed all manner of explicit alchemical symbols (the homonculus, the retorts interwoven...flask of Hermes, the fish, etc.), out of Jung's description of the self in the process of psychic integration experiencing noetically these prior consciously arrived at symbols (prior in terms of centuries -- thus his theory of the Collective Unconscious, that such symbols could arise in a modern man who did not know them, who had no way of knowing them -- like me with the Greek. But this
+```
+**Co-occurrences**: Complete, Fish, Greek, Gnosticism, Wisdom, These, Plotinus, Maybe, Like, World, Earth, After, Could, Something, Simon, Again, Reality, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, America, Magic, Hermes, Human, Dream, Someone
+
+---
+### Line 608-616 (Match: 'Mind')
+**Folder**: part was
+
+```text
+(Is it possible that the anamsesis regards future events, of a retrograde time-line? I am recovering memory not of what did happen but of what will happen?)
+
+I didn't see what had happened, but rather the fulfillment of time: its completion; so I remembered what was going to happen, not what had happened a long time ago.
+
+PLOT ELEMENT for TO SCARE THE DEAD: Nicholas discovers that each of his brains (minds, hemispheres) is traveling at right angles to the other in time. [t]his is vital plot element: MUST USE, to help accentuate that it isn't a duplication of one mind, but two totally different minds; any device like this or-time travel which will accentuate difference, is de[s]irable.
+
+Q: Are the two hemispheres, by so travel[l]ing, becoming farther and fa[r]ther apart progressively, life ships traveling at right angles (lat versus lo[n]g) to each other? And will they ever rejoin --meet again, and become One? (V. Parmenides' forms one and two being only apparently two different things. Here go into Taoism, and all the Parmenidesian elements interrelated. As the two minds travel further and further apart, they form a vast double loop, enclosing more and more space, as on a GO board; enclosing, ultimately, all inside them; a double circumnavigation of the universe.
+
+And as this double motion increases, their combined (superimposed) viewpoint becomes more accurate, since their its perspective is more -- objective, detached, encompasses more (reality).
+```
+**Co-occurrences**: Form, Like, Parmenides, Since, Only, Time, Taoism, Again, Reality, Being, Their, More, Universe, Will, Other, Further, Things, Life, Apparently, Memory, Dead, Right
+
+---
+### Line 711-719 (Match: 'Mind')
+**Folder**: part of
+
+```text
+It could be said that if Dr. NK --i.e. Pulkovo-- was feeding lines to me, the Logos was feeding lines --i.e. prompting-- to him. Beyond and behind the figure of any and all temporal powers, and their intentions, lie the intentions and power of God. Here is an excellent illustration of that: Man proposes/ God disposes. If indeed telepathy is the univeral medium of information-exchange, then the Logos, if it existed, would use it; also, those involved in experimentation with time and its into-transfer uses, would be in more direct connection with the Logos as Plan than most of us.
+
+We still serve our ex-employer, Mr. Runciter; and he still assists and advises us, as before. Nothing has changed; he knows how to get through to us, and what to bring us to restore us, and what advice (info) to lay on us. All of us.
+
+Dr. Kozyrev speaks of Time informing all biological entities simultaneously on an instinctive basis, by telepathy; this is fine, but where does this information originate? Can Time think? It is evident that Immanent Mind is equal to Time, possessing the same qualities, both of them. The Plan, being pressed onto us, is thought of separately (as Logos). This is an inference on the part of Dr. NK; Time informs, but it must know in order to inform (or anyhow be in possession of what it informs with). He is so close to attributing knowing to it that he might as well speak of it as knowing what to inform each species with, and when (as well as where from). I think anybody reading his paper would eventually wonder the same things I am wondering, even without my experience. I point out: that God's thoughts and will and plans are not separate, as they are in us (v. Hericlitus, Avicenna, Isa.). There is mind but no brain, just as He is aware without eyes, etc. Time seems according to Dr. NK to be capable of all these simultaneously -- without lag or distinction, as is found in us.
+
+Ad I found today in Psychology Today: The New Testament De-coded. "Jesus taught a self-realization beyond classical physics." "Knowledge of the code was lost during the persecutions." This is precisely what I have dreamed again and again. Amazing, and I came across the ad because of an article on autistic children in PT; last night I dreamed all night about autistic children, and so knew to go read this discarded issue of PT -- and saw that ad.
+
+The part of Dr. NK's paper which would theoretically account for my writing UBIK (i.e. independently thinking us his revolutionary ideas) is the sentence about "all biological entities are perhaps informed telepathically by and via Time." He might even be willing to say he himself was informed this way. Also, they would transmit more energy (time made dense) than information -- that alone would be helpful to the receiving organism; it would be strengthened with or without any information.
+```
+**Co-occurrences**: Ubik, Logos, Jesus, Well, These, Perhaps, Because, Time, Even, Could, Does, Anyhow, Just, Again, Both, Being, Runciter, Self, Himself, Without, Nothing, Brain, Those, Still, Part, Their, More, Through, Most, Before, Will, Would, Illustration, Beyond, Have, Things, Information, Info, Testament, Knowledge, Today, During
+
+---
+### Line 723-731 (Match: 'Mind')
+**Folder**: part of
+
+```text
+Needs Review
+45
+To transmit even the most unscrupulous lied, designed to destroy and enslave the receiver, would be overtaken by the heightened energy of the receiver; it, he would be able to discern the aspects, and he would be powerful enough (drawing on the newly and perhaps uniquely for him dense time) to throw this off, self indicates, it would be done "instinctively" (like automatic actions, outside conscious awareness).
+
+I think I've shown not just that the Logos (or Immanent Mind) might enter, could enter, but would. Also, the Pulkovo people would know this by now, having discerned this in proir tests; they would by now be making no attempt to transmit deceitful information or for inhumane use, it being recognized as self-cancelling.
+
+Voila! For Magdeburg jars read moist soul-dry soul (and the related external worlds). Read filters/scramblers/monism/v. FLOW MY TEARS; v. March 74. In all this, the moist-soul, dry-soul, plus any combinations (proportions) of mixture. Binomial therum A plus B all squared. How many possibilities? Two pure (one heaven, one hell), then two mixed (the middle).
+
+How? The "Selectric rotating ball lens filter" system.
+```
+**Co-occurrences**: Tears, Logos, Perhaps, Like, Time, Even, Could, Just, Being, March, Self, Soul, Most, Heaven, Would, Many, Information, Having
+
+---
+### Line 872-880 (Match: 'Mind')
+**Folder**: part of
+
+```text
+Needs Review
+57
+Being a novelist I can appreciate how easily this could be done; the ordinary person would suppose that the tinkering to produce a wholeness would be done at the end (i.e. the final elements in time would be placed there to conform with the very early childhood ones), but of course it's the other way; at an early age certain gestalts would be stuck in, and at this point the child's worldview, his sense of reality, in fact his reality, would be so hazy that he would accept anything; there could be no rejection of any item as "out of context" or "not supposed to be there and hence unconvincing or suspicious in nature." God could st[u]ck a sardine can in the middle of the sky, and the 2-year-old would gaze at it with awe (as we would) but with total acceptance (which we would not). God could see to it that these key (and they need be only a few) engrammed-on items could be striking -- would leave a vivid impression, and a lasting (for obvious reasons) effect. The child, as he grew up, would find himself wondering, every so often, why the yellow blossoms of the Acacia plant seemed so significant to him and lingered in his memory tapes, after much else had dimmed...and then finally he would delight in re-encountering the Acacia plant, at the Lusitania Hotel, and marvel that he had someone "found his way home" or better, more accurately, "been led home."
+
+(In my life, this would be why I always remembered the name of my babysitter, Olive Holt, when the names of most teachers afterwards were forgotten. It was because that "name" in divided form would crop up in the Xerox letter, by accident -- it could to a certain vague but real extent be found there; I would see it in the Xerox letter and my mind would work in a retrograde way, which is the direction the retention was impressed at the time, when I was 4 years old, because it would come up later -- because that would clue me in, in 1974.)
+
+This is an example of a process which I saw in 3 74 as a major process in the universe: it plays its hand (so to speak) in such a non-linear was that the pattern is never visible untl the final sections or even section is lowered (or raised) into place -- one can't even tell, for a long time, maybe a lifetime, that there is/are pattern(s) at all. What is given is not given in sequence, anyhow not in causal sequence, or any 1,2,3,4 sequence. The significance, therefore, of any element early in the "game", which is to say, in life, cannot be assessed; one can dream at any time a dream the events and things of which although impressive and vivid admit to no understanding -- until the missing integers show up subsequently . So selective, so intelligent is the method of play, that every guess as to the meaning of a partial pattern is brought to ignominous ruin when the true (completed) pattern is visible, and one must hang on, and hang on, waiting for that last piece. Thus, things seem to turn into their opposites, or anyhow into what they were not, as an additional piece is added; and each gestalt is a subsection of a larger gestalt embracing several gestalts. We therefore can reason that if we watch the universe in its process, its continual creation, we cannot guess what shape it will assume when complete until it is complete -- it could turn from a short fat mean dull dry universe to a thrilling warm green hat-shaped one, with the additional of a single sly piece, and God Himself could show a complete visage which was quite different from the semblance up to then...this might provide a new clue as to "unreality" versus "reality": the latter is anything correct apprehended, which is to say, when it --I repeat it-- is complete; until then, no matter how scrupulously observed, it would be less than real; it would be illusion? A phantom? The not-real, anyhow.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Complete, Xerox, Form, These, Maybe, Because, Therefore, Only, Time, Harpax, After, Even, Gestalt, Could, Anyhow, Suppose, Reality, Being, Although, Himself, Their, More, Most, Real, Holt, Such, True, Olive, Olive Holt, Universe, Finally, Will, Would, Other, Creation, Were, Very, Things, Life, Memory, Later, God Himself, Dream, Final, Someone, Until
+
+---
+### Line 955-963 (Match: 'Mind')
+**Folder**: part of
+
+```text
+We are not stabilizing what we experience correctly; if enlightenment comes as soon as we run it "inside out," which is also automatically in a reversed way, then it is evident that our senses should be striving to do this; or anyhow to pick up the picture of the universe and the mirror opposite as well; and certainly not blending them into one signal.
+
+Messages are arriving in red and green and we are monochromatic; the resulting blur makes little sense.
+
+At this point I would make this guess: that the universe is not running backward and we see it forward; if that were so, we would have recorrected our impressions of it; I think that there are two flows, and we see both as running forward, which is not true. There is perhaps the main flow, or the more powerful flow, which does run forward; but there is a subtle, mild, mirror opposite running inside out and reversed, and it seems to be a sort of intelligence capable of affecting our forward flow, in crucial ways. That is my summation: the mirror opposite universe is a weak, living, intelligent mind which alters the configuration of reality in its backward-moving time flow so as to benefit our total flow, which is to say, the forward one we normally see.
+
+. . [x] A final note: Loren Cavit heard late one night on a DJ talk show and disc program what I heard that I could not believe: a switch from music and chatter to programming, of us. This is true onset of my experience, the true shock: to wake up and hear my radio programming me in a vile way at night. Loren several years ago heard her radio doing that. I think we really heard it. Who it was, or why -- neither of us knows, but there was an obscure tyranny which fell, and this was part of it; it was invading our minds using modern sophisticated electronic subliminal thought control manipulative techniques. Probably it was a satellite over-ride, beamed directly to our sets, our receivers, with the voice of the DJ simulated; probably it was by the Soviets. That a girl so sane and responsible would have heart it, confirms what I have thought all this time. We got help, from outside, to throw all this into ruin.
+
+As in Ray Nelson's story "Eight O'clock in the Morning" we woke up -- "Sleepers Awake!" (And found the springtime had come.)
+```
+**Co-occurrences**: Well, Perhaps, Time, Could, Does, Anyhow, Soviet, Both, Reality, Girl, Probably, Part, More, Living, Voice, Certainly, True, Universe, Would, Were, Have, Neither, Final
+
+---
+### Line 1000-1008 (Match: 'Mind')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+67
+Needs Review
+67
+This news (in Psy Today) about the pineal body being a light-receiving organ or gland is so exciting to me because it means that the chromatic phosphene source I experienced did not merely go to the light-sensitive part of my brain, but also to my pineal gland. Since the pineal gland is the "third eye" actually, scientifically speaking, as the Hindus believed, this is thrilling (and helps explain my dreams of the three-eyed people, also ratifying their significance and ratiofying that indeed the pressure experienced as phosphene activity did in fact travel to my pineal) anyhow, its function, as the Ency Brit says, "its obscure," but it is connected with springtime, with instinctive actions, and with total endocrine encoded metaprogramming. My brain saw the phosphene activity and was dazzled and delighted; however, probably as far as the brain itself went, it ended there. Not so for my pineal body; it responded (which is what it does; see article in Psy Today) to what it received from the optic nerve, accepting it not as entertainment but as signal. (Disinhibiting, no doubt.) Probably all melatonia production (for openers) was halted, it being an inhibiting secretion. I guess I saw the "Other Sun," which shone at nighttime, when the physical sun isn't there. It was a deliberate signal from the Sun of Righteousness, in the night, a dazzling display of its kind of light (a fire-like light, much like chromatic fire), and it tripped the pineal into things buried in our morphology for thousands of years, which the physical daytime sun doesn't trip (more that abolishing the production of melatonia and histomine, etc.). This chromatic Other Sun fire light would cause firing (sic) in the pineal body which constituted the true, absolute, ultimate purpose of that body, and place my total mind-body organism into its true, absolute, ultimate Being state. Here, I am not saying anything new about what happened, only about how it was done. But it emphasizes that the cause was external, and deliberate ("Grace of God"). And again ratifies the "Decoded N T" theory of what Xtianity was all about -- what they were after, and shows there is indeed a "Sun of Righteousness" capable of shining at night, or day if it wished, but not, repeat not, our physical sun and its variety of light.
+
+Nurturing. I am not, rather than merely being nurtured (by the Earth, etc.) but nurturing Firebright within me (a Yinnish matter: hence this is why I got K'un as my trigram, K'un and Tui, both female). This is the normal growth-line of a[n] organism: it is born, and must, as an incomplete, ungrown infant, be nurtured. Gradually, as it grows, it moves toward nurturing rather than being nurtured; final entelechy completion would be for it to nurture, be a parent. This is logically visible in all higher organisms. (We call this "giving" rather than "receiving." What the Gospels stress when they repeat the concept of giving in so many ways is nurturing, which is giving. The parent (mother or female) gives of her own body in this. The reason the Gospels emphasize the female values is not for receptivity alone (which is the first step, before implantation) but after the reception of the seed, then the nurturing. So long as one takes, one is not full grown, and certainly not yet a parent (of the Spiritual, Immortal body within). One becomes the "mother" and God Himself is the Father. And does the protecting, as one sees on the visible plane, in a family.
+
+The "receiving of the Holy Spirit" at Pentercost, in Acts, probably is this reception to the pineal body by this different light. What travels to the brain itself is only a by-product "Aurora" display.
+```
+**Co-occurrences**: Acts, Spirit, Holy, Christianity, Holy Spirit, However, Father, Like, Since, Because, Only, Earth, Harpax, After, Light, Gospel, Firebright, Does, Anyhow, Again, Both, Being, Himself, Probably, Grace, Brain, Part, Their, More, Actually, Certainly, Before, Mother, True, Would, Other, Were, Many, Things, Absolute, Body, God Himself, Today, Doesn, Final
+
+---
+### Line 1065-1073 (Match: 'Mind')
+**Folder**: part is
+
+```text
+Last edit over 5 years ago by Harpax
+73
+Needs Review
+73
+This makes of the Trinity a great biological organism in its several stages or phases: father-son is obvious, with the holy spirit bringing about the production of the son, using the human as "mother." (Just as Mary was used; she is the exemplar for that.) God gets from where He is to produce Christ (as many as God wishes, all of which probably share one "body," one "mind," which is transpersonal) via the activity of the Holy Spirit. Certainly the distinctions between God the Father and Christ the Son are clear (Zeur to Zagreus), but then someone asks, "How does the father produce the song? By binary fission? By parthonogenesis, which would make Him a Her?" Answer: as Holy Spirit her very Yanglishly uses one of us, which makes the human race the bride, not of Christ, but of God. (Hence the strange bride and bridegroom imagery in the church --"Wenn kommst du mein Heil? Ich komme dein Teil," etc., which I knew was erotic but which I couldn't understand. It has passed down to us in a typically garbled form. The Som is not the bridegroom; He is the issue. God is the Groom; Man is the Bride. Thus, we mere perishing mortals are brought up to participate in an act of biological or anyhow metabiological reproduction of an immortal and very superior electrostatic deity-race, and gain immesurably from this act; if never involved in this, we mere mortals perish in the most miserable and pointless fashion, just as the Bible says. The odd part is, the text of the New Testament really has got it all there, if you just get the proper slant on it, which we don't get, the sort of biological, reproductive, live-form, springtime, mating thing...it's there, but for some wild weird reason we utterly reject and cast out as unholy and suggestion of the erotic...except in the odd idea of Bride and Bridegroom, Christ and the Church. This is a case of almost being right, but the not-quite bit is a razor's edge bit, separating us absolutely. We get just to the edge of grasping it...but as the "Decoded N T" says, it isn't an intellectual thing anyhow; "grasping it" doesn't do it, any more than reading about the sexual act among cats produces cats. It's the old confusion between banana and the word banana. (Philosophy.) Reading about being seized by the Holy Spirit and believing that the HS exists and that it can do it, and that immortality therefrom is possible, through Christ, doesn't produce it in you. Too bad, but as the "Dec N T" says, no universe ever worked any other way. This is what I've meant by "cargo cult."
+
+(It's interesting how in my novel MAZE OF DEATH I wrote about a society where the communication and I guess by inference reproduction of God to his Son did take place routinely; anyhow there were a lot of Walkers-on-Earth bopping around, which is what this is supposed to achieve.
+
+I guess you could say, the total family is, God (JHWH), his impregnating self which comes to man (the Holy Spirit, sent by God) (as Christ said), and if Christ is the Son, the issue, it's pretty obvious that we humans are the mother; we're all Mary right now, until we receive an inner, Light-body transformation, into what they call Christ Consciousness. Our completion/perfection is not here on this Earth, but after our physical body perishes ("If a grain of wheat remain solitary, not sown then it --" etc. Well, [i] guess [i] got it. Albemuth: the star of Bethlehem, which I kept gazing up, seeking. Point of His (HS) origin?
+```
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Maze, Father, Earth, Harpax, After, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Certainly, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+
+---
+### Line 1096-1104 (Match: 'Mind')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+
+76
+We then are discussing possession by Elijah and possession by God in the form of the Holy spirit; it is the same thing. Now Malachi talks about God ending Elijah; read, "The Father will send the Holy Spirit," and this refining and purifying process is to make the human temple (body-mind) ready for the implantation. I must reassign dates on the Parousia, then, and the more correct ones probably coincide with that of the Inter. Community of Christ's: in March 1974, when the Holy Spirit (or if you wish to speak of it this way, Elijah) poured itself into me, possessed me, this wasn't the beginning of it all except for me; as Malachi says, the Spirit of Elijah will come first, before Christ, so I was possessed by the Spirit of Elijah, it did come first, but we are talking about microsystems rather than the world as a single totality: a conspicuous event for everyone to witness. What first hits is Elijah. Malachi is of course correct. Out of this event, Christ (or Christ-consciousness, to stress the modern more correct view) comes about as issue. My assault on all the tyrannies, left and right, represent for me a micorvesion of the war; I on a microscale engaged in ferocious war against both left and right, on my own, not as part of a conspicuous army, but I was, and it was real nonetheless. The war took place and the outcome was as prophesyed in the Bible: God's victory, and the Evil One cast down into the dust (dethroned, his power taken away.) Now we see in South East Asia, this year, at precisely the same time of the cycle, in spring, the external imperial empire of the Prince of This World fall. What happened with me in 3 74 also illustrates one of the most astounding predictions: "The dead shall be raised incorruptible." If you study my internal insight, that an Essene (i.e. Christian of the very earliest period), for example as I express it in my novel plot, TO SCARE THE DEAD, you find precisely that. I was convinced that within me a man who had slumbered 2000 years had awakened, and that he was a sophisticated Essene-Christian. Is this not "The dead shall be raised" and evidently incorruptible? I ask, When does this event occur? Paul has told us. This is what we are waiting for: the graves to open.
+
+Of course, their old actual bodies didn't reappear. My experience is that of how indeed it was accomplished (right hemisphere, or whatever). The dead shall join the living...for judgment and, of judged yes, then for everlasting life. (Recall my dream where I saw my name in the great hotel register, thereupon knowing that I could stay there.) Yes, the Book of Life has been opened; the seals are broken. All my early dreams of that! Yet, I appear ordinary; thus Christ (one of Him) is concealed within me. I feared the "Romans," which is to say, a repetition of what happened before...good lord, was that the fear which our dear Savior Jesus felt, his hear, his dread at capture and death? Yes, as Tielhard de Chardin says, our species relives His passion; I felt his fear, experienced his Stations, His suffering. But then was reborn, after that Bardol Thodol death. Anamnesis: re-enactment, with victory! And all of us directed --coordinated-- by the Logos, the Plan. We, as one body, with Christ the head...my question, Why do I be ordinary now if this all be true? is answered by: He must be concealed. He is cryptemorphosis, within me. I have kept supposeing that what happened in me was somehow premature or accidental. No to both. /// I have been made incorruptible, but, like Paul, like all of them, I retain physical affliction and infirmities, and will so, to the end of this physical body.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+
+---
+### Line 1112-1120 (Match: 'Mind')
+**Folder**: Book of
+
+```text
+Just to spell it out: "Santa Sophia" and "Firebright" are one and the same.
+
+My whole God is identified with a vitilizing (or revitalizing) life-giving principle, like the orgone, like springtime...and the adversary (e.g. Marxism) is envisioned as mechanical, hollow-eyed, without life. God is a vitalistic force, like Drietsch's entelechy, etc. This is like my division between the Human and the Android. With God, in the form of Christ, as the exemplar Human. The complete human.
+
+This beats the Greek idea of God as Mind which does nothing but think. Or know. How is it to know, if there is nothing to know? I conceive of it as a builder, an artificer, who creates, in conformity to its Plan: the Logos (I conceive of Logos and blueprint of something to be actualized). The Greek prejudice against the manual arts/the mere crafts prevented them from seeing this quality of God.
+
+He is both building and He is perfecting what He has already built. He animates it, infuses it.
+
+Ursula accuses me of getting away from "Taoistic balance" when I get into Christianity. The Logos and balance (of Fr. 51 of Hericlitus) are intimitely connected, with the Logos implementing balance or harmony everywhere, it being the Plan. It is hard to imagine the Logos out of balance. Also, when conditions on our world were out of balance, it was the Logos which brought what we experienced as relief, but which, on a supraterrestrial scale, was probably a restitution of harmonie. Also, there is my "Rhipidon" fan dream of the left-right-with the center as God's balanced perfection in any situation (and the material in "Decoded" about Satan as the unreal to left and to right.
+```
+**Co-occurrences**: Christ, Logos, Complete, Christianity, Form, Sophia, Greek, Satan, Like, World, Firebright, Does, Just, Something, Both, Being, Probably, Santa, Without, Nothing, Santa Sophia, Were, Life, Human, Dream, Right
+
+---
+### Line 1161-1169 (Match: 'Mind')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+
+81
+I assumed that Santa Sophia reborn meant Christ because the anticipation of His rebirth is so vast in us...but now I think I let an unquestioned thought take over, when the more accurate was available to me already, but buried (this is what the "Dec N T" is into, this rebirth of/by the Logos seeds). (And is related to Christ.) This certainly would be equal to what the "D[e]c N T" calls, "God breaking his long silence." As I understand the Logos, it is both the agency by which God created the universe, the building plan or blueprint thereof, and the word by which the creator, the Unbounded, communicates with Man; it is also within the macrocosm and in each of us as microcosmoi. It does not save us after we fall, as Christ does, but on the other hand, he didn't create the universe. In any case it is the median between God and Man expressed as thought or wisdom ([S]ophia). Perhaps it is what I view as immanent Mind: God purely as that which thinks more accurately is the Logos (if not, then what is the Logos? How do they differ? God also creates, but the Logos does that. The Logos is God active, I guess.)
+
+Anyhow, this has been recast by God. The silence is broken. And I felt it that day when the first light (this year, 1975) up by the palm trees and the post office, the first springtime, must have struck my pineal body deep within me (Kathy: Santa Sophia as woman) alas, in the grass). It began to happen this spring, perhaps.
+
+. .
+```
+**Co-occurrences**: Christ, Logos, Sophia, Wisdom, Perhaps, Fall, Because, Harpax, After, Light, Does, Anyhow, Both, Palm, Santa, Creator, Kathy, More, Certainly, Santa Sophia, Universe, Would, Other, Have, Body, Spring
+
+---
+### Line 1191-1199 (Match: 'Mind')
+**Folder**: part of
+
+```text
+for my survival, defensive in nature; this explains the ferocity I felt, the awareness of combat, of an antagonist. None of that in 75; in springtime when the pineal body was reignited, only the St. Sophia cycle remained, and was pleasurable, as reproduction should be. It is always necessary that an organism survive intrinsically if it is to reproduce. If Firebright was to be born --the young beardless king-- in 75 I had to live on into 75; this required the warrior instincts of 74, which were successful. "The trumpet's loud clamor doth call us to arms," for 74; then for 75 the Purcell "St. Cecelia's Day Ode." I guess combat comes before mating, and the worthy survive and reproduce, and thus the species is strengthened; the dynamics which we see here with, say, deer, are the same for the metaworlds; if I had not proved capable of survival, I would not have had a chance to give birth to Firebright, the young king of springtime: the root and the star.
+
+Certainly during spring 74 I was personally aware of my need to survive, and that the Logos was assisting me to do this. I don't recall any strong sense of the spermatika, except theoretically; that I was achieving, by surviving, not temporary life, but somehow eternal life. But the remaining part of that came this spring...no wonder they wanted to strengthen me physically, "in this world."
+
+Also, what I experienced was ad Adjustment, in terms of the palintonos, and palintropos harmonie systems. The great entity which we call God, Immanent Mind being better a term, adjusted imbalances at that time, and this started up a lot of signalling. Probably I was part of a palintropos change, an oscillation outward (expanding) with what had been in the Taoist sense "too filled up," also the Greek sense (hubris) forced back, made Yinnish, retractile; this contributed to maintaining the total palintonos harmonie of the Universe/Mind. I was made into an active (Yangish) station of that change, and felt it, felt the signals coming to me; this is what appeared to be --or was-- possession by the God or Elijah, also divine intervention (to restore harmonie). Of course this is a constant process, but usually I am not a part of it in that sense, being shifted from retractile (Yinnish) so abruptly on signals; this served the purposes of justice (to aid me) and of justice (to deal out defeat to the haughty, whoever they were). A whole subsystem in the total universe must have started firing abruptly -- just as my brain did when I took the w.s. vitamins. Where this gave me the unique chance to see that the universe is not the sum total of all the objects in it, but the laws governing it (the harmonie systems, etc.) is that: between me and my environment (read establishment) there was a severe imbalance. If no God, Immanent Mind, Unbounded or Logos existed, the restitution of equilibrium between me and this environment would have had to be brought about by one or more of the objects which fill this universe -- me, or other people, etc., or visible forces. One or more of us would have had to act deliberately to bring about equilibrium. No one did; in fact, the imbalance was pushed further and further. What acted was the Immanent Mind which carries within it (the Container of all the objects) me and everyone else including my total environment. That this realm exists is not an object of knowledge to our society; it used to be called The Gods, in the Greek sense, not in the Hebrew sense (vide all studies thereon). Well, our society, inadequately informed on what the pre-Socratics knew, and the mystery religions and other Greek thinkers knew, continues on unaware of the forces which ultimately govern.
+
+Last edit over 5 years ago by Harpax
+84
+Needs Review
+```
+**Co-occurrences**: Logos, Sophia, King, Greek, Well, Elijah, World, Only, Time, Harpax, Firebright, Hebrew, Just, Realm, Being, Divine, Great, Gods, Probably, Taoist, Brain, Part, More, Star, Certainly, Before, Universe, Would, Other, Somehow, Were, Back, Further, Have, Life, Body, Justice, Spring, Except, Knowledge, During
+
+---
+### Line 1209-1217 (Match: 'Mind')
+**Folder**: part of
+
+```text
+What possessed my also equally possessed the world around me, so unless that which was not alive (the universe) can suddenly be alive, which is not likely, then more probably it was a hightening effect both in me and outside me. It already was alive. I know I was. This was for both me and for my environment a threshold effect, or anyhow my perception thresholded. I say, It is all alive, and what we see is not only alive, it is alive through being infused by life as our body is alive through being infused by life. It is psyche to soma in both cases. We are talking about a vitalistic, not a mechanistic, view, and I saw it. I am sure of what I saw. Maybe by "possessed" it should always read, "awareness of being possessed," implying we are (the environment outside, each of us inside) possessed all the time but not aware of it in either direction. QED.
+
+In another sense, "being possessed" was being outside oneself, and outside the environment as well, at a third point, the Archimidean standpoint from which one could see both oneself and the environment as an interacting entity...but this does require "being outside." So it may not have been a coming into me, but a me going outside of me.
+
+I got at least as strong an impression that it was a vast body as that it was a vast mind. It certainly seemed to act, if signalling can be considering acting. Thinking is an action, an activity.
+
+I'm not completely away from the Hebrew idea of God, because it assigns total unboundedness to everything; there is no sense of law, which means, of harmonie of any sort. God does what he wishes; JHWH is a tribal god who has moods. The Greek ideas -- look at their insight into palintropos and palintonos; that alone...if JHWH is equal to Zeus, then okay, the Jews had that, they had Zeus. But look what else Greece had; the whole idea of lawful or regulated by the Unbounded; the kosmos within the Unbounded. Why need we obey a tribal deity when we can have all the thinking of the civilization of Greece?
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Greek, Well, Maybe, World, Because, Only, Time, Harpax, Okay, Could, Does, Anyhow, Hebrew, Look, Both, Kosmos, Being, Everything, Either, Probably, Jews, Their, More, Zeus, Another, Through, Certainly, Greece, Universe, Deity, Have, Life, Body, Unless, Suddenly
+
+---
+### Line 1230-1238 (Match: 'Mind')
+**Folder**: part which
+
+```text
+Last edit over 5 years ago by Harpax
+
+86
+very loose physical arrangement, but with a field exchange created, such as social insects can be assumed to possess; each of us it that field (vide acupuncture), and the Great Mind is made up of diverse and even discrete physical entities which form an exchange field capable of a vast variety of interconnections or firing sequences or patterns. Arrangements are by comingling and by inter-signalling. Intensity and threshold are major features. It's a micro-collective, a vast macro-collective. My "Dodgers stadium celebration" dream suggests that one idea can be presented to a vast collection of cells and each processes it in an individualistic way, giving it a slight modification; all cells share a common purpose and memory and form and indentity, but don't need to be mechanically linked. We and our environments form such interconnected cluster systems that mutually process information and alter it while exchanging it; we are all (humans) like a vast compound eye which shows a repetition of the motion of a single object but each cell reflecting slightly differently. Instead of saying, We are within a Great Mind (immanent mind) I would like to modify that and say, We are within a Grain Brain, made up of countless call as are out own (I mean many many cells, with an incredibly vast number of possible combinations of circuitry linkage). Whatever it is that it is doing, it may have parts, like our own brain (regions with functions associated thereto) or it may go on levels at different places, quantitative surges, etc. But there is a sort of "control room" part which can infuse and override "autonomic" functions; what we see is autonomic or reflexive brain-function except at crucial/exceptional times, when there is the equilivant to our "consciousness," or a rise in level of intention and awareness, of purpose (locally, I guess).
+
+Joseph Campball makes this startling point: the Indus civilization identified with the object of destiny, which was the sacrifice (it dies, like the moon, and was reborn again and again). This is obviously what Christ is, Zagreus and Adonis were, etc; they were the objects of destiny: destiny acted on them. If you identify with one of them you hope to be reborn. BUT the Aryan system -- they identified with the subject of destiny, "the fiery power by which the sacrifise is consumed." Identified with the dooer, not the doo-ee, you don't die and get reborn; there is one "identified with the latter moves to the realm of eternity by the way of a consummate mythic identification either with an all-consuming sun-, lighting-, or fire-god, or with some such abstraction, as for example, brahman, the pure subject (atman) or as in Buddhism the void." I looked this up because supra I had begun to see how like the brahman this all was...well, it is obvious that Form One is the subject, the dooer of destiny, and that a distinction is made by Campbell of primary importance. I got in with a fire deity, which means transcendence here and now (which I did/was done to). There is no doubt that I am into the Form One fiery god mythic identification, "moving to the realm of eternity" rather than a lunar-like cycle of death and rebirth (the wheel). Thus, I got outside of time entirely (a mystic, I guess, state), and not all that like Christianity, in which time fulfills. Well, then I will never find the answers in Christianity, although certainly many Pre-Socratic thoughts (Parmenides, et al) are valuable to me. (Q: Does the "Decod[e] N T" treat our god as a sun god? Yes, it does, and denies the "Christos" identification -- with good reason; thatis "lunar," a
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Christianity, Form, Brahman, Well, Like, Parmenides, Because, Time, Harpax, Good, Even, Does, Realm, Again, Zagreus, Obviously, Atman, Although, Buddhism, Either, Great, Christos, Brain, Part, Such, Certainly, Death, Macro, Will, Deity, Would, Were, Very, Whatever, Many, Campbell, Have, Memory, Information, Instead, Form One, Except, Joseph, Dream
+
+---
+### Line 1240-1248 (Match: 'Mind')
+**Folder**: part of
+
+```text
+Needs Review
+87
+phase-rebirth deity...they are identifying our deity with brahmanism.
+
+I've just read Joseph Campbell on Patch, and I find what I had been [h]oping to find -- part of the black stone's text, which shows that indeed Ptath is [I]mmanent Mind but also a creative god, which means he gets his hands dirty, an improvement on noos merely thinking (of the Greeks, with their slave culture's haughty attitude toward the crafts). That dream I once had about the doctor in his white jacket and trousers appearing again and again...how much he looked the way Ptath is represented (wrapped in white linen). The whole universe is Ptath's body which Ptath infuses as ka; look at this, though:
+
+"Mighty and great is Ptah, who rendered power to the gods and their kas: through his heart, by which Horus became Ptah; and through his tongue, by which Thot[h] became Ptah."
+
+This is 2,000 years before India. "The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator." Also, Ptah did it by speaking the word (the tongue). This anticipates the Logos doctrine. Heart is creative intent; tongue utters or expresses, gives voice to (I'll bet ka and voice and breath are closely identified).
+```
+**Co-occurrences**: Logos, Greek, Well, World, Noos, Black, Cosmic, Just, Look, Once, Again, Great, Gods, Creator, Part, Their, Brahmanism, Through, Voice, Before, Universe, Deity, Campbell, Body, India, Joseph, Dream, Ptath, Joseph Campbell, White
+
+---
+### Line 1248-1256 (Match: 'Mind')
+**Folder**: part of
+
+```text
+This is 2,000 years before India. "The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator." Also, Ptah did it by speaking the word (the tongue). This anticipates the Logos doctrine. Heart is creative intent; tongue utters or expresses, gives voice to (I'll bet ka and voice and breath are closely identified).
+
+Joseph Campbell flatour says the the Occident believes in a transcendent god (above creation) and the Orient an immanent god who is here now (name your own subtheory). In that case I parted company with everyone in the West except (one) certain Presocratics and (two) Spinoza, who thinks very early Hebrews thought this, whi[ch] is possible but to me not important. The only reconcilitation I can imagine for me vis-a-vis the West would be to think that God had been above (transcendent) but the linkage is now so repaired that He is immediately accessable, which means that the Kingdom is here. (Maybe this is so.) How can I believe He will descend in/on/under a cloud if I know Him to be here, that in fact He never left?
+
+For palintropos h. to exist, time must exist (since it is in oscillation or sequence form). Insofar as this kind of balance (Yang-Yin alternation) is taken as real, time is real, but as soon as palintonos h. is viewed, we are in another world where time is absolutely not real, but for a certainly an illusion. Joseph Campbell, writing about Egypt, says that the great secret of the pharohs was that they were "Master of the Twin Opposed Gods," Horace and Seth, whose strife in the temporal world is absolutely real, but that "The Secret of the Two Partners," "was a reference to the hidden understanding of the two gods, who, though they appear to be implacable enemies, are of one mind behind the scenes...mythologically representing the inevitable dialectic of temporality, where all things appear in pairs, Horus and Seth are forever in confli[e]ct; whereas in the sphere of eternity, beyond the veil of time and space, where there is no duality, they are at one; death and life are at one; all is peace." (p81.) It looks to me as if
+
+Last edit over 5 years ago by Harpax
+88
+Needs Review
+```
+**Co-occurrences**: Logos, Form, Kingdom, Well, Spinoza, Maybe, World, Since, Only, Time, Harpax, Cosmic, Yang, Hebrew, Great, Gods, Viewed, Creator, Another, Egypt, Real, Voice, Certainly, Secret, Before, Death, Will, Would, Creation, Were, Very, Beyond, Under, Campbell, Things, Life, Body, India, Except, Joseph, Dialectic, West, Whereas, Joseph Campbell
+
+---
+### Line 1274-1282 (Match: 'Mind')
+**Folder**: part of
+
+```text
+always but "silent," i.e. camouflaged (so we didn't, couldn't, notice). My linkage had lasted over one full year, which is not typical of a mystical experience, even a good Yoga Eastern one; it has all the hallmarks of being firmly in place. It is somewhat long to be construed as an episode or state (as was my Erasmus state an altered state for sure; this has too much durability, stability; well, this then would, oddly, tend to point very very slightly but genuinely toward a manifestation of a transcendent God, rather than immanent all the time, this durability, because nobody gets a durable communication. They commune for a very brief Augenblick. This appears to be an objectively altered condition or vis-a-vis dialog situation, which is manifestation of the transcendent, not immanence. Has it happened, then, that "The Lord of Hosts shall --has-- suddenly come to His temple"? Maybe so, and is now immanent. (Q: Is He every thing or everywhere? You're supposed to ask that about immanence. I'd say, like the ka body; within or capable of infusing: pouring himself into. Look into Sanskrit root for create: to pour out oneself.
+
+Now I've really got it, a very great clue. In "Acts," Paul says, that at Pentercost when the Holy Spirit descends over the desciples, and they talk in tongues, "everyone supposed them to be drunk." Now, you add this to in Eurypides' THE BACCHAE where it says that when Dionysos possesses you, you talk in prophecy. Prophecy is one of the gifts of the Holy Spirit, and being drunk is what the followers of Dionysos were said to be, or actually were; intoxication -- the Gospel "Acts" itself points to this being one & the same experience: prophecy, madness or drunkenness or high -- but in the Levant, they hadn't heard about Dionysos (or said they hadn't), and the mainland Greeks in 400 BC hadn't heard of the Holy Spirit. It's just a matter of putting together the two pieces of the puzzle. The golden ringletedhaired stranger...whom they bind and put in prison, who offers no resistance...but who can and does call on (the) God, Dionysos. The "womanish" stranger: "Evidently you never wrestled anyone," says King Pentheus, who is obviously Pilate/Herod. (A little like HAMLET, too: the bad old king reigns, but there is this somewhat mad youth who speaks in riddles & prophecies, eliptically, because he knows what the rest don't, which is either the truth about the past (a murder, ill[l]egal reign) or about the future (doom coming for the evil king).
+
+I am lying in bed here and I am musing, "God can simulated the inanimate. Or rather, God can pretend to be anything he wants, any part of His creation. He can replace any part, be it." And then it came to me what you call this; you call it the Miracle of Transubstantiation. This is exactly what is believed to take place in the host, during the Communion. Exactly and precisely. What I saw that day in the alley and everything else I saw, God "immanent," I have for over one full year tried on my own to develop the concept of transsubstantiation. Well, it was not wasted time because what I did was prove the reality of the miracle of the Mass, and finally I pinned this down in terms of nomenclature and description. I just saw it on a wider scale; also, I did see it. I did see it. I saw it; the world as "this is my body and this is my blood. I am here." No wonder my tiny mind has juddered under the weight of trying to understand. This is the holy of holies, the miracle of miracles.
+
+Last edit over 5 years ago by Harpax
+90
+Needs Review
+```
+**Co-occurrences**: Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+
+---

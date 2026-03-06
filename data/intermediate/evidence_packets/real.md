@@ -1,0 +1,348 @@
+# Evidence Packet: Real
+
+- **Category**: Top Term
+- **Total Mentions**: 47
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 26-34 (Match: 'Real')
+**Folder**: part was
+
+```text
+Indexed
+2
+never realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Orthogonal (i.e the Forms) yes; reversion, no. Now, when I saw what I saw, I had "died" in an actual sense; like those in UBIK I came to the end point of my lineal time-line. But I wasn't depleted; this "decay backward" to Rome which I saw wasn't an entropic process, or even decay at all.
+
+I saw the Parousia, and I couldn't have unless they actually took place (I didn't know enough to hallucinate them accurately). Did they take place? Has the Kingdom arrived? I say Yes it has, certainly in the sense that the Brit 3 macro says about Jesus Christ's message about it. Not only is it real, it has arrived; the Day of Wrath -- I think it is not a mere personal trip which I went though but which we all went through (toppling Nixon was not in my head, nor what Nixon had been doing). Which part was on my head? Only the realization of what it meant, these historical events, and I didn't realize.
+
+It has happened, the Prince of this World fell.
+
+This all has been an unfolding process. A revealing or disclosing of Being.
+```
+**Co-occurrences**: Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Time, Nixon, Even, Being, Jesus Christ, Those, Part, Through, Actually, Certainly, Macro, Have, Unless, Crete
+
+---
+### Line 62-70 (Match: 'Real')
+**Folder**: part of
+
+```text
+(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.
+
+Yes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh.
+
+First, the "Artist" (logos) is drawing you (or universe is fashioning you) more and more like Christ. These are first kinds of changes: you're made to look i.e. be like him. But the real thing is when you can see the likeness. First, see him seated there, being drawn, then see that you the 1.5 minute sketch resemble Him; its when you see that affinity, that's the last transformation, in you. That follows in linear time what the artist (continual creation) is doing: upon completion, of the entelechy; when time stops, being "filled up" or rrealized.
+
+Last edit almost 3 years ago by jhordan
+4
+Complete
+```
+**Co-occurrences**: Christ, Logos, Complete, Rome, Well, These, Elijah, Like, Iron, Time, Just, Look, Being, March, More, Upon, Universe, Creation
+
+---
+### Line 70-78 (Match: 'Real')
+**Folder**: part of
+
+```text
+Complete
+4
+If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? I was indeed describin the Parousia when I described the "decay" along the orthogonal axis in UBIK which is logical). I myself first hit the Dies Irae when I first dropped acid (about 350 [mices?]). It was cold, it was hell; I used it in later books (e.g. UBIK, [MAZEF?] OF DEATH). Now, how come I in March experienced what you're supposed to only after you're dead? I was judged and so forth, all those things, now. Either this says something about what befell me, or what befell our world in March 1974 (or both). Was it a freak thing for me, a dispensation or accident, lke being allowed to stay up late or all night, etc. as a child?
+
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+
+The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat I tossed the St. Christopher's medal into his grave with him, poor rat who only wanted to live. But you see how I had been educated by that dreadful morning: the rat had to be killed because of my little girls. It was a lesson for me, uniquely my lesson: that death was unavoidable in more than the descriptive way: that creatures do die. I saw that day that sometimes they should die; that it was of a moral necessity that I literally kill that rat. I never had that rat's
+```
+**Co-occurrences**: Ubik, Spirit, Complete, Rome, Form, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Before, Irae, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+
+---
+### Line 143-151 (Match: 'Real')
+**Folder**: book the
+
+```text
+Last edit over 5 years ago by Zebrapedia
+9
+Indexed
+9
+It’s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the vestment of my saint statue – that was like it: the bursting forth into life of Spring, in the midst of stark winter. Now, this is obviously a mescaline type of experience. We know that. And I was loaded. And yet, perhaps Ms. Fisher who wrote THE RED FEATHER based that episode on something she experienced once, and in those days no one in the U.S. took mescaline; no one got loaded. The reproach, “Phil, you experienced that because you wanted to; i.e. the swirling vines of new life” is no better an argument than, “You experienced selling UBIK to Doubleday because you wanted to.” Also, “You experienced it because you read about something like that years ago in a child’s book” – of what real meaning is this argument, since we don’t know how the passage got into Ms. Fisher’s novel in the first place? It doesn’t explain why I recall that section, which was minor, which in the novel just showed the child that her difference from the other children included having strange powers; it was exciting, but not good. She didn’t want to be different. (We knew, because of the scene of the baby exchanging.) Obviously, in that scene, Ms. Fisher intentionally or otherwise incorporated something of the Fruhlingszauber: the magic of springtime, as it really would be: those poppies would have sizzled in the snow, being hot. They were hot with life; the fact that Ms. Fisher saw the equation death/winter/cold versus life/Spring/heat isn’t an invention of her head; it is an actual truth. She did, however, equate magic with springtime; fairy power used to turn the winter to spring, to bring life, and therein she touched on something very deep, at the heart of her small readers, like me, who were astonished and touched, but didn’t know why (we knew nothing of the mystery or fertility religions of Greece et al, did we?).
+
+Magic equals life equals warmth equals poppies. Now, poppies are an exotic flower, with intense colors, identified with foreign lands (this I’m sure is why Ms. Fisher chose them).
+
+Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
+```
+**Co-occurrences**: Ubik, Indexed, However, Perhaps, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+
+---
+### Line 198-206 (Match: 'Real')
+**Folder**: book of
+
+```text
+Mrs. Phyllis Boucher 2643 Dana St. Berkeley, Calif.
+
+Dear Phyllis,
+
+I have long thought about you, wondering how you are, and my having just now written the short enclosed piece, which is about Tony, gives me pretext to write you as well as the opportunity to extend this copy of the piece so that you might read it. My love and memory of Tony are combined in this, although I must admit in a rather odd way; the reason is that this was commissioned by the Sufi Magazine The Real World, which is a very good magazine (it is put out by Tony Hiss, you writes the “Talk of the Town” in the New Yorker, and boasts such people as Robert Ornstein in its staff; it is what they call (ouch) a class magazine. The paper is high quality, too.
+
+I hope that you like this piece (they may not). They just accepted a poem by my wife Tessa, and then told me that they’d like to be able to get both of us together in an issue. So the heat is on me to Come Through (I’ve been working since seven-thirty a.m.).
+
+You’ll note that I’m living in Southern California now, “north of Disneyland,” as Tony Hiss put it when he interviewed me for the New Yorker. I’m still writing s-f. I’ve got a lovely little 1.5 year-old son named Christopher, my wife Tessa is incredibly beautiful and very young (the pressure is on me, always, in all ways, to keep going, to not fall behind… alas, we all do eventually, I guess, but then, I have developed strongly religious convictions that Our Good Friend is watching to reach out and scoop us up, when we fall behind).
+```
+**Co-occurrences**: Well, Like, World, Since, Fall, Good, Just, Both, Tony, Although, Tessa, Still, Through, Living, Such, Calif, Love, Christopher, Very, Have, Berkeley, Memory, Having
+
+---
+### Line 216-224 (Match: 'Real')
+**Folder**: book of
+
+```text
+Indexed
+13
+Dear Tony,
+
+Enclosed is the piece I’ve been working my ass off for The Real World. I’m glad you liked Tessa’s poem, and that as you say you’re going to publish it in the next issue, but that sort of puts pressure on me to come through – I’ve been on this piece like as of today 7:30 a.m. at the typewriter. You asked for “short.” What is short? I kept it short, I hope short enough. I offer you two possibilities if you wish to cut it:
+
+(one) Just make cuts where you can or wish. I trust you, but I’ll week genuine tears because I kept it terse anyhow as it is.
+
+(two) Okay – on my MS page 6: you could end the piece after line 10. (Final printed sentence: “That was my friend.”) But it’s a different piece this way, with the Day of Wrath scene missing; much limiteder, more milder.
+```
+**Co-occurrences**: Tears, Indexed, Like, World, Because, After, Okay, Could, Anyhow, Just, Tony, Tessa, More, Through, Page, Today, Final
+
+---
+### Line 244-252 (Match: 'Real')
+**Folder**: book of
+
+```text
+Last edit over 5 years ago by Toso
+14
+Indexed
+14
+Handwritten notes in PKD’s hand: A Light struck meadow for Tony Hiss & the Real World. Hark! Each tree its silence breaks – Nicholas Brody 1692
+
+When I met Theodore Surgeon, who wrote MORE THAN HUMAN, this good man said to me right off, “What sort of universe is it that causes a man like Tony Boucher to die of cancer?” I had been wondering the same thing ever since Tony Boucher died. So had Ted Sturgeon, although he didn’t expect me to give an answer. He just wanted to show me what he – Ted Sturgeon – was like. I’ve found I can do that, too; let people know about me by asking that. It shows that I cared a lot about one of the warmest people who ever lived. Tony was warm and at the same time when he stood in the midst of a group of people, seat came out of his forehead from fear. Nobody ever wrote that about him but it’s true. He was terrified all the time. He told me so once, not in so many words. He loved people, but one time I met him on the electric train going to be opera and he was scared. He was music critic and he did reviewing for the New York Times and edited a magazine and wrote novels and stories. But he was scared to take a drive across town.
+
+Tony loved the universe and the universe frightened him, and I think I know where his head was at. A lot of people who are timid are that way because they love too much. They’re afraid it’ll all fall through. Naturally, it did with Tony. He died in middle-age. Now, I ask you, what good did it do him to be scared? He used to carry his rare old 78 records to radio station KPFA every week wrapping them up in a towel so they wouldn’t get broken. One time I decided to give Tony all my rare opera and vocal records, just plain give plain give them to him as a gift of my loving him. I phoned him up. “got Tisne Lemnitz records and Gerhard Husch,” I told him. Tony replied shyly, “They are my idols.” We was a Roman Catholic – the only one we knew – and that was a strong statement. Before I could get the records to him he was dead. “I feel tired half the day,” he had added. “I can’t work as much as I used to. I think I’m sick.” I explained I had the same thing. That was eight or so years ago. The doctor told him he had a bruised rib and taped it up. Someday I will meet that doctor on the street. Tony got bad advice from everyone who could talk.
+```
+**Co-occurrences**: Toso, Indexed, Roman, Like, World, Since, Fall, Because, Only, Time, Good, Light, Could, Just, Once, Catholic, Tony, Although, More, Through, Love, Before, True, Universe, Will, Many, Tree, Electric, Sturgeon, Dead, Human, Right, Answer
+
+---
+### Line 308-316 (Match: 'Real')
+**Folder**: book as
+
+```text
+Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected the dead or sleeping man the way the forces of spring/nature revive all sleeping roots, bulbs, trees, etc.; all nature which is not man, and that the cyclic small year is to nature in general as the great year (200 B.C. to 2000 AD) is to the species man. Therefore, in my novel, TO SCARE THE DEAD, if the "Essene" were to awake from his 2000 year slumber, he would bring spring to the character, Nicholas Brady (the name I've chosen for my protagonist), and no separation can be made between this resurrection and the deity Zagreus-Christ and what a bulb esxperiences. So:
+
+In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: his job requires him to fake what he is, to be inauthentic inasmuch as he fronts for the government re the recording artists he deals with. This has produced a schism within him. There can be others, but basically he leads a typically modern inauthentic schismatic existence --note existence, not life. There is no growth, just the constant revolution of the wheel of lineal time which accumulates only dust. So:
+
+When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
+
+Last edit over 5 years ago by Siegman
+20
+Complete
+```
+**Co-occurrences**: Christ, Thomas, Complete, Form, Well, However, Dionysos, Perhaps, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+
+---
+### Line 333-341 (Match: 'Real')
+**Folder**: book as
+
+```text
+This is what I saw; what I saw rolled back was the "snow" of that long winter. Back to Spring. These are the dust, too, the dust and snow: dust in summer, snow in winter, but there was the Ggod only sleeping, as if dead .
+
+I saw that it can melt away in an instant, and reveal the original "season" or being or reality.
+
+Look: the seeds, dormant, slumbering in the winter of their species, are helpless and need the protection of concealment. They are pressed down into the snow (the manifold Maya) which camoflauges them, and protects them. They lie unknown even to themselves, mixed with the "tares" sewn there along with them, indistinguishable until all sprout -- wheat and tares together (we must wait, and then divide). Until that day, they cannot be discerned, found, discovered, destroyed; mimicry and concealment, during 2000 year winter of their half-life slumber. Then, in Spring (which has now come) those real wheat seeds here the voice calling them (from the bright morning star) and come to life. Are revealed suddenly (the cuckoo egg in the nest) but, at the moment revealed suddenly, then simultaneously now safe; by virtue of the power remembered (anamnesis). They are Zagreus or can call on him; he will answer his "flock." They know him/ he knows them.
+
+It is now too late to destroy them; their helplessness is past. They are awake!
+
+"They kingdom come" slightly misleading: "They kingship come," but, "come to," that is, kingship enter each temple/body of the flock, those who are his; he suddenly enters his temple and claims/becomes it. This could remain invisible externally; yet some fundamental change, cause unknown, would rock the established order of things.
+```
+**Co-occurrences**: Kingdom, These, Only, Even, Could, Look, Maya, Reality, Zagreus, Being, Anamnesis, Those, Their, Wait, Star, Voice, Will, Would, Kingship, Back, Things, Life, Body, Spring, Dead, Suddenly, During, Answer, Until
+
+---
+### Line 351-359 (Match: 'Real')
+**Folder**: book as
+
+```text
+We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus died as any man dies -- but another Christ, and probably another Paul were born out of and after that. Rebirth does nor mean to return as you were, in a mere cycle; this is where the wheat seed could not have been a wheat seed, because Jesus specifically says that on its own the grain of wheat leads a solitary life, and after it is thrown into the furrow (the grave) it is reborn differently, into a communal life. "Reborn in glory and no longer alone." A single vast plant "the mustard tree in which birds roost" will come about; I think this is what we call the noösphere, and I myself have already entered it.
+
+In March it took me over totally; I was a spectator to my dream in waking life, as it awoke.
+
+If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
+
+Please get the book A GOD WHITHIN by René DuBois (Scribner's). He discusses this.
+
+i must tell you if I didn't already; the Brit 3 says that belief in and research about the Logos surfaced around 1055 in Europe (it had been a long dormant doctrine in both theology and philosophy) when explorers reported that culture after culture, which had had no contact with Christiantity, had obvious analogs of our religion to which they gave credence. The doctrine of the Logos, which imprinted the form of our omnicultural religion on all men caised this revival; it would explain why in all cultures similar ideas exist; the Brit 3 gives a few and I must admit, it is too close to be a coincidence. Even if our religion is "true" there remains the need to explain how each tiny tribe everywhere possesses the essence of it, although names differ. I think the Logos doctrine is the best theoretical explanation for this (take me; I am a very small tribe: I, and Tess and Chris; yet we were imprinted by Something, and at once I noetically knew the formularies of the sacrament of the Feast of Agaboe, and acted it out. Later, reading up on it, I found I had gotten it right, the very minor points even. You see?)
+```
+**Co-occurrences**: Christ, Logos, Jesus, Form, Paul, These, Because, Only, After, Book, Even, Could, Does, Something, Once, Again, Both, Zagreus, March, Runciter, Although, Probably, More, Another, Living, Voice, True, Death, Will, Deity, Would, Were, Very, Have, Tree, Life, Claudia, Later, Testament, Dream, Right
+
+---
+### Line 387-395 (Match: 'Real')
+**Folder**: book A
+
+```text
+Our reality can be manipulated retroactively; that is, our past can be rewoven, and without hesitation, as an automatic process, our several memory-systems will fill in the blanks and make smooth the reweaving (i.e. we won't realize that alterations in our lineal-time past took place).
+
+A certain portion of the phenomenal world which we encounter is hologram-like, projected and false, to fill in missing spaces, as in the time extension, missing elements are filling in along similar lines. Therefore we see total continuity in both extensions, time and space, without awareness of dysfunction or rupture. But in truth, there are dysfunctions which (to return to my former term) the Dreamer causes us to gloss over, or allows us to -- perhaps it is less a manipulation that a permission, if you see what I mean.
+
+In a meaningful sense, portions of our reality extensive in time and space are false; other portions are real; we have no way of determining which is which or even if this proposition is true -- but this proposition is true, because I saw in March of last year a roll-back of the artificial portions (the term "the veil of Maya" comes to mind). After ten months of studying and speculating, I have come to these conclusions:
+
+(one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, and wihtout it, there would be nothing but illusion, nothing but Maya, so to speak.
+
+(two) Lineal time is mere process or accumulative time, which conceals orthogonal time from our gaze.
+```
+**Co-occurrences**: These, Perhaps, Like, World, Because, Therefore, Time, After, Mind, Even, Both, Maya, Reality, Being, March, Without, Nothing, True, Will, Would, Other, Back, Have, Memory, Truth
+
+---
+### Line 389-397 (Match: 'Real')
+**Folder**: book A
+
+```text
+A certain portion of the phenomenal world which we encounter is hologram-like, projected and false, to fill in missing spaces, as in the time extension, missing elements are filling in along similar lines. Therefore we see total continuity in both extensions, time and space, without awareness of dysfunction or rupture. But in truth, there are dysfunctions which (to return to my former term) the Dreamer causes us to gloss over, or allows us to -- perhaps it is less a manipulation that a permission, if you see what I mean.
+
+In a meaningful sense, portions of our reality extensive in time and space are false; other portions are real; we have no way of determining which is which or even if this proposition is true -- but this proposition is true, because I saw in March of last year a roll-back of the artificial portions (the term "the veil of Maya" comes to mind). After ten months of studying and speculating, I have come to these conclusions:
+
+(one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, and wihtout it, there would be nothing but illusion, nothing but Maya, so to speak.
+
+(two) Lineal time is mere process or accumulative time, which conceals orthogonal time from our gaze.
+
+(three) The Dreamer who determines both our sleeping dreams and our waking dreams (vide Tart) wishes us to suppose the reality of the phenomena extensive in lineal time. But, upon the command, "Wachet auf!" these accretions within lineal time roll back to expose the ground of being. The Dreamer (i.e. He who dreams us) can perform this absolute act at any time He wishes (called by the Christians God's Grace or God's Mercy).
+```
+**Co-occurrences**: Christian, These, Perhaps, Like, World, Because, Therefore, Time, After, Mind, Even, Suppose, Both, Maya, Reality, Being, March, Without, Grace, Nothing, Ground, Upon, True, Would, Other, Back, Have, Absolute, Truth
+
+---
+### Line 405-413 (Match: 'Real')
+**Folder**: book A
+
+```text
+shock to us, when abruptly visible. What is disclosed is that the smaller cycle of the year (rotary time) is an analog of a greater "year" which is extensive for our species; i.e., instead of this Greater Year lasting a matter of 365 days, it lasts thousands of years, which is beyond the range of man as individual but well within the purview of man the race. Seen thus, we are confronted by the stark discovery (or rather disclosure to us by the Dreamer) that the time period --of lineal time-- lasting from the Second Century B.C. to date is Winter, with all the attributes we correctly associate with Winter in the small year-cycle familar to the individual.
+
+(five) This landscape of Winter (200 B.C. to 1974 A.D.) has determined the quality or nature of the lives of all living beings within the lineal span which it underlies: like Kan as the trigram in Taoism, its aspects are Slavery, pain, hopelessness, ignorance, limitation, etc., the true darkness by which we have come to sense our past two thousand years as heavy, a burden, a tribulation, a condition of sin and ignorance, of being but off from God, etc.
+
+(six) Now the great orthogonal time axis rotates into the next "trigram" which is that is Spring, the arousing of life. This was signified by the throwing down of the tyranny here and in Greece and in Portugal, plus similar but less visible declines of physical power over men in the Soviet Bloc. The coercive enforcement of mere power, the ability to compel men, to reify them -- this all constitutes qualities of Winter and is passing. I don't really mean this as a metaphor, because orthogonal time is geniune, and although its axis is by definition at right angles to lineal time (the only time we've recognized until now) its direction is retrograde, in terms of stripping off or melting away the accretions built up as layer after layer of progressively less real reality. Within, deep at the heart of Being, lies the final goal of orthogonal time, which is Restoration of Moisture (cf aspects of Dionysos, as God of the philosophical principle of moistness, versus the evil principle of desiccation, as embodied by the Egyptian god of death, Sit or Set).
+
+(seven) The Dreamer who has kept us dreaming until the moment for awakening arrived (expressed as an intrusion into lineal time, a penetration from without the "Final Days" of Christianity and Zoroastrianism) -- this is best expressed by the discovery that the authentic reality of Springtime lies beneath the inauthentic layers of snow, or of barren and sterile "death," and now revives -- as is always the case in Spring. There is only one Spring, not a procession of many of them; it is the same Spring again each cyclical year. Thus, in the Great Orthogonal Year, this Springtime is the Springtime, not merely a springtime, since the orthogonal time-axis is one of ontology. In our koinos kosmos, now, as in our idios kosmos, or more properly, in our idioi kosmoi, we are being intruded on, as Runciter intruded on those in half-life. The symbol of half-life in UBIK must be viewed as an accurate dramatic representation of our true state of Being: we are only half-alive, or slumbering in our icy
+
+Last edit almost 3 years ago by twsullivan
+```
+**Co-occurrences**: Ubik, Christianity, Well, Dionysos, Like, Since, Because, Only, Time, After, Soviet, Taoism, Again, Reality, Kosmos, Being, Runciter, Although, Great, Viewed, Without, Darkness, Those, More, Living, Zoroastrianism, Greece, True, Death, Egyptian, Beyond, Many, Have, Life, Spring, Instead, Days, Evil, Greater, Final, Right, Until
+
+---
+### Line 416-424 (Match: 'Real')
+**Folder**: book A
+
+```text
+coffins, severally, and individually, as shown in the novel.
+
+(eight) Those in half-life are not dead, nor is the root slumbering under the snow (the symbol of both Christ and Dionysos: it looks dead but is only asleep, waiting to be awakened by the voice of spring). We are those slumbering roots. We are dormant. It is difficult intellectually to understand this, that we are neither fully alive nor fully dead (Aristotle taught us that we have to be A or not-A), but in fact these thousands of years for our species, and for our animal friends as well -- these are nothing but a long winter in which half of us (expressed neurologically, perhaps, by the fact that we use only one of our brains, or the left hemisphere) is alive and the other half has not yet come to life. Many of the parables of Christ, familiar to those who knew the cryptic sayings of the mystery religions in general, refer to this (the grain of wheat which must be planted; we are now sorrowing in childbirth, the treasure buried in the pasture, etc.).
+
+That the Final Days should be in fact a springing up into full life, complete life, going from seed (vide the parables and especially the Pauline Texts, plus the Orphics' doctrines and Neo-platonism, etc.) -- going from dormant seed slumbering under the snow of Winter and then hearing/feeling/sensing/knowing the voice of moisture and warmth and Spring, the voice of God saying, "The time has come! Wake up!" These are authentic commands coming to us in dreams, and are no less real and no more real than what the ordinary seed experiences in its own fashion; we are all one in that regard...except that our orthogonal Winter has lasted for one hell of a long lineal period; it seemed as if it would never end. But Winter always feels that way; each seed, each slumbering root and bulb, must in its half-life state, buried in ice and waiting, experience all of this: we share a common reality.
+
+From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
+
+Sorry to take so much of your time here, Ursula, but in my dreams I saw the words CANTATA 4, and when I had read the text, I began to understand.
+```
+**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+
+---
+### Line 444-452 (Match: 'Real')
+**Folder**: book about
+
+```text
+Last edit almost 3 years ago by twsullivan
+28
+Complete
+28
+consciously draw from it; these are the "Seas of Knowledge" which were known back to the Sumerians, and upon which the Sibyl at Delphi drew. But this is a cover, because Brady realizes that in point of fact, the Quamran men had as their god not the mythical Jesus but the actual Zagreus, and by doing research, Brady soon learns that Zagreus was a form of Dionysos. Christianity is a later form of the worship of Dionysos, refined through the strange and lovely figure of Orpheus. Orpheus, like Jesus, is real only in the sense that Dionysos is become socialized; born here as a child of another race, not a human one but a visiting race. Zagreus has had to learn by degrees to modify his "madness," which is now kept to a low ebb. Basically, he is with us to reconstruct us as expressions of him, and the m.o. of this is our being possessed by him -- which the early Christians sought for, and hid from the hated Romans. Dionysos-Zagreus-Orpheus-Jesus was always pitted against the City of Iron, be it Rome or Washington, D.C.; he is the god of springtime, of new life, of small and helpless creatures, he is the god of mirth and frenzy, and of sitting here day after day working on this novel.
+
+But in this novel, Thomas says, "The Final Days have come. The overthrown of the tyranny is that which, in lurid language, John described in 'Revelation.' Zagreus is seizing his own, now, one after another; he lives again."
+
+During Winter, it was believed that Dionysos, the god of the vine plant, of vegetation, of the crop, slumbered. It was known that no matter how dead he seemed (James Joyce's FINNIGANS WAKE is a wonderful acount of this) he was actually alive, though you'd never know it. And then, --not to the surprise of those who understood him and believed in him-- he was reborn. His followers knew he would be. We are speaking here of the mystery religions, all of them -- including Christianity. Our God has been sleeping, during the long winter of the human culture ([x] not for one year's rotational cycle of seasons, but from 45 A.D. through the centuries of mental winter to now); just when Winter holds all in its grip, the snow of despair and defeat (in our case, political chaos, moral ruin, economic ruin -- the winter of our planet, our world, our civilization) then the vine, which was gnarled and old and seemingly dead, breaks into new life, and our God is reborn -- not outside us as such, but in each of us. Slumbering not under the snow over the ground-surface but within the right hemispheres of our brains. We have been waiting, we didn't know what for. This is it: this is Spring for our planet, in a deeper more fundamental way. The cold chains of iron are being thrown off, but by what a miracle. As with my character, Nicholas Brady -- I've had Zagreus awaken in my right hemisphere, and felt the flooding of renewed life, his vigor, his personality, and his godlike wisdom: he hated the injustice he saw around him, and remembered "the dear lone lands untroubled by men, where amid the shadowy green / The little ones of the forest live unseen." (Eurypides) Dr. Ornstein, thank you for helping bring Winter to an end, and ushering in --not just Spring-- but the living life of Spring alive but [xl] asleep inside us.
+```
+**Co-occurrences**: Christian, Thomas, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+
+---
+### Line 634-642 (Match: 'Real')
+**Folder**: part or
+
+```text
+Last edit over 5 years ago by Harpax
+39
+Needs Review
+39
+That signal was/is also the Not-I, all that was lost inwardly, too; when it returns it will fulfill the law of Karma; whatever we lost expresses in miliamps will return a thousandfold, but in kind; i.e. ach Gott, for those who are "now filled," v. Taoism; what is the not-I for the agrandizing person? Amazing, how many of the Gospels express these concepts of symmetry and parity; the bread cast upon the water, etc. Well, this does link my experience not only with the New Testament but with the scientific discoveries by Heri and Parmeni. Conservation, nothing can be created nor destroyed...I am experiencing the return or "reversal" effect, which expresses conservation and symmetry ("Tao abases the hightly and lifts high the humble"). (Contraction expansion, oscillation, the palintropos harmonie. My experience (and the current movement toward entropy) indicates that the oscillation view of the Strung Bow of Heri is correct, rather that the tension system of equilib, which is a simultaneousity. It goes out now (toward entropy) is restored later (which means sequential oscillation; this doesn't mean that time is real but that sequence is.)
+
+The tension view of bow and lyre (fr 51) would be a fine thing for structure-as-a-whole (plague of rats on planet One balanced by superabundance of Warfarin[g] on planet Two), but this treats every subsystem as expendable. The oscillation interpretation would mean that imbalances within each descending level of subsystem would be balanced; re my dream about the 3 lives I might have led, with Tao establishable within each one: not left balanced by right, but balance within left; balance within mid; balance within right. Within each subsystem is that balance or Tao. In each segment, no matter how biasedly cut, or small, that segment (of a former whole) then becomes a whole, and spreads out fan-wise (Rhipidon!) to give a left, middle, right section, space being infinitely divisible. You could compare this to the regenerating by the two parts of the worm when cut in half; soon you have, not two halves, but two wholes. You know, I think of Peter Mann's account of the murdered baby rabbit sending out a microwave signal which the mother, miles away, on a shore, picked up. Meine Schwester, die [gestorben], hatte solch ausgeschicht; weit von uns, sehr weit, irher Himmlicher Vater es gehort hatte, und Hilfe [x] geschenkt [?]at; nun kommt es, die Antwort davon.
+
+No, as mechanical bounce-back or even noos-reinforced (changed to act as deliberate responses) they are more archaic, language and concepts indicate if answers, then to signals sent out circa 400 B.C. By our species, not be me qua me. (Then about 1000 Light years away, twice two.)
+```
+**Co-occurrences**: Well, These, Only, Time, Harpax, Noos, Light, Even, Karma, Gospel, Could, Does, Taoism, Being, Nothing, Those, More, Upon, Mother, Will, Would, Back, Whatever, Many, Have, Wise, Later, Testament, Dream, Doesn, Right
+
+---
+### Line 650-658 (Match: 'Real')
+**Folder**: part or
+
+```text
+Thus what UBIK contains as the most important scientific discovery possible is this energy-attracting, retrograde contraction working against the expansion into entropy. This, too, is what hit me in March 74, and it was indeed energy-giving, ot acquiring, not losing or taking; transfer of heat from a warmer body, against the cooling off process of entropy. This certifies as valid the view in the form-reversion is energy-gathering; older prior forms had in them greater latent heat.
+
+Dear Claudia,
+
+Here are some vital new thoughts, esp on UBIK. You'll note that my real insight comes as I realize that your point re the cream souring, and the cigarettes, are contra the form-reversion and are normal but speeded up (lineal to entropy outcome) decay. Thus, you did it, baby; YOU did it.
+
+Last edit over 5 years ago by Harpax
+
+41
+```
+**Co-occurrences**: Ubik, Form, Harpax, March, Most, Body, Claudia, Greater
+
+---
+### Line 729-737 (Match: 'Real')
+**Folder**: book of
+
+```text
+Voila! For Magdeburg jars read moist soul-dry soul (and the related external worlds). Read filters/scramblers/monism/v. FLOW MY TEARS; v. March 74. In all this, the moist-soul, dry-soul, plus any combinations (proportions) of mixture. Binomial therum A plus B all squared. How many possibilities? Two pure (one heaven, one hell), then two mixed (the middle).
+
+How? The "Selectric rotating ball lens filter" system.
+
+The only real explanation lies in linking Parmenides' moist versus dry soul (and the two monisoms) with the Zimmer Magedburg bell jar, or whatever. The Gnostic report on the binary (du[e]l) system: "the Unreal God and His Unreal Cosmos, a book of aspects." It doesn't exist, unless you have a moist soul. Firebright must have been what Hericlitus meant by a dry soul, a fiery soul.
+
+We are living where two universes (sic!) meet -- i.e. where they overlap. We're in the A plus B part. There is Universe A (or Form One), which is good, fiery, dry, healthy, etc. (Yang). Also there is Form Two, Universe Two, Yin. We're in a mixture of both. My dream: the RUs (plural): ruling universes. Two at least; they control ours, which is a --are you ready?-- impure print of both. Each of us is moved along his entelechy growth line by his exemplar in the RU (above); when he has finished his growth and is complete he then serves as exemplar --and guide-- for someone below this universe; he is not part of a RU. The RU above leads him; he leads, as the RU, of someone below us. And since Time is the medium in which growth takes place, then these processes are temporal ones; any completion stands at the far end of time (the future), and so logically we can assume it works backward into to incomplete temporal stream when it turns back to help after being completed. All co[n]pletion lies ahead of all process growth. Our exemplar --mine, for instance-- must logically lie ahead of me in time, and be reaching back. I am still in the time stream; he reaches retrogressively, back into time, against its forward swim, and pulls (teleology!!! which I felt!).
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Tears, Complete, Form, Gnostic, These, Parmenides, Since, Only, Time, Harpax, After, Good, Book, Yang, Firebright, Both, Being, March, Still, Part, Soul, Living, Heaven, Universe, Back, Whatever, Many, Have, Form One, Unless, Dream, Doesn, Someone
+
+---
+### Line 756-764 (Match: 'Real')
+**Folder**: part segment
+
+```text
+We could put Her[e]clitus against Empedocles this way: He would maintain that, "Are you sure two light sources are needed? Dark is only the absence of light; changes could be induced merely b[y] decreasing the amount of light, volume or intensity, anyhow, lowering it in terms of its intrinsic quantity. As when a battery loses its charge gradually." Empedocles would posit "dark" as an actual Yin force. What I myself saw were two players, in the Empedoclean sense, but above them, the Logos of Plan -- I think. Also, I saw one player playing in lineal time, the other retrogressively -- this was the main difference, although it was an antagonist two-person game all right. Maybe: "Nothing can exist without creating its own opposite." But why?
+
+You get enough darkness and it turns spontaneously to light. You get enough light, etc.
+
+For all purposes which are ours, we should contrue our universe as under the dominion of two distinct RUs, if not more, and a compound of both -- so in a sense, not as real as both or either of them. But maybe ours it the desired product, and also more stable. Again, the two light sources pouring through frames of film...
+
+The dream about James James certainly expressed what I saw in 3 74: with the Creator producing first solar flares (or the atom and its moving parts), then from it the baby, and then evolving from the baby Kathy. But that he had to injure Tessa (because she stood up to see his "act" better) -- this was what I saw as objection to linear forward moving time and continual creation anyhow: that in the powerful huge surging-forward drive of life, so many creatures are wounded and crippled, left to die, behind the flock. And in my dream I asked for help, and none of the thousands sitting around to form an attentive audience for James James would lift a finger, despite my appeals. But then the wide glass doors opened, and the first scouts entered the great building. "We need medical assistance," I said to them, and they came toward me; small as they were, and only the first vanguard, they did represent another force, one which heard and responded. Surely this is a dream-drama expression of the retrograde force which is the other game-player and which I construe as either the Logos or Christos or the Holy Spirit -- and which to me is the "good" although so far weaker of the two players. Certainly
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Form, Maybe, James, Because, Only, Time, Harpax, Good, Light, Could, Anyhow, Again, Both, Empedocles, Although, Either, Great, Christos, Without, Tessa, Nothing, Darkness, Creator, Kathy, More, Another, Through, Certainly, Universe, Would, Other, Creation, Were, Surely, Under, Many, Life, Dark, Dream, Right
+
+---
+### Line 782-790 (Match: 'Real')
+**Folder**: part segment
+
+```text
+It also gives Tessa now as joining Ralph and Pinky, the lamb the deer, as injured and to be treated with love and cherishing care, as being of great worth -- too great to sacrifice. These sacrifices, the dream said, are too great to ask (Jesus sacrificed himself in their/our place; he was/is the lamb). That is the key word: the involuntary sacrifice, which will not be permitted now, since it is too precious (observe the notion that the sacrificial animal was decidedly not of too much worth; that is why it was offered, in the past). First a human became of too much worth; now then animal, too. We must all live or perish; we cannot be serparated into the "strong versus the weak" or whatever any more.
+
+But regarding possible time dysfunctions (due either to experiments at e.g. Pulkovo, or natural, due to overloading of the ontological matrix, or both,) most of my experiences have had to do, not with time, but with space (mostly about Mexico or what resembles Mexico and is taken to be). Future space at some future time? The only for sure time dysfunction I felt was in March 74, and that was, if it existed at all, probably artificially obtained (Pulkovo). The other, spacial ones -- they probably were natural dysfunctions, sudden brief windows into the future of both space and time. What is possible, though, as I've said before, is the notion of "mytosis-like" splittings of the present (due to time dysfunctions, perhaps in our past) that result in alternate worlds (as in MITHC).
+
+It's as if the merely potential (i.e. discarded at one or more critical junctions along the linear time-line) has come into a periodic shimmering realization, along side what is actual (vide William James on the sea of potential facts around each actualized fact -- each that, so to speak, makes it). Like in my story "The Commuter." Also, there is to me the real thought that adjustments (ala "Adjustment Team") are being made in our past, which are to an ever increasing degree making a certain "alternate present" (or time line) actual -- in place of the one we have, not along side it. I sense a series of minute tinkerings going on (vide Peter Mann's conversation with me recently on that idea). They are realigning our reality so it will conform to what the Plan (Logos) called for, thus losing the error fact, finally, which crept in. I suppose they could be making be making this critical correction back as far as 100 A.D. Just for story purposes, let us suppose a time-traveling team from our future has gone back to 45 A.D. to see to it that Jesus is not crucified. When the Parousia are finished with, the time line we have will not even be remembered; our memories will be retaped to fit our newly made past, as well as present, and, as in "Commuter," we will be relieved that "nothing has changed after all" (sic). I guess the realigned-correctly world will have California still the property of Spain-Mexico. Portugal will retain its States of America. The Catholi[c] Church will not have been re[?]nt asunder by the Reformers; this world will have only one huge Christian church/body, for all...
+
+Last edit over 5 years ago by Harpax
+50
+Needs Review
+```
+**Co-occurrences**: Christian, Logos, Jesus, Well, Parousia, These, Perhaps, James, Like, World, Since, Only, Time, Harpax, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Nothing, Still, Their, More, Church, Most, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+
+---

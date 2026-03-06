@@ -1,0 +1,350 @@
+# Evidence Packet: Electric Ant
+
+- **Category**: Top Term
+- **Total Mentions**: 24
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 4798-4806 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by carolinerose
+2
+Needs Review
+2
+2 I now go out further on the limb of daring speculation; [Viz.?]: in some real sense each of us projects his reality outward. My inner [neural] to [firing?] + subjective time (none precisely rate of change- change of time is real); the external (sic) changed came faster + faster as the [firing?] within came faster + faster. I ran my inner take faster + faster- here the phosphene “flash cut” [permutation?] in those 8 hours the projector ran against a literally black (null authenticity external reality) screen; but subsequently the projected take of changes was projectile onto-incised onto- matter [untruly?] objective reality. In some very real “Electric Ant” sense the changes I saw were Really occurring in my head, but seemed [apheand?] external. Thus I deduce that the inner function of memory and meaning alone (some kind of [perserving?], retention of past images) permits a perception of change. No memory, no perception (although objectively it still goes on). This (Eureka!) why we see motion, real motion, when a movie film is projected. There is no motion; close [seruting?] reveals a strip of changing stills (ie different stills). The progession of slightly differing impacts to our senses, Because the preceding stills linger in our perceptual Memory (+ my because of this) so we see motion. Zebra was [onto?] this- brilliantly.
+
+Am I using the word “change” when (visupra) I mean “Motion”! Anyhow, it has to do with perceptual memory. At high-speed permutation, only constants are visible (“Flash Cut” permutation): the eye (sic?) forgets-fails to record/seewhat is temporary. The ephemonal, under those circumstances, fails to register-isnt remembered. A selecting out into visibility of constants only is achieved. Long term [stationary?] elements are separate from the rest-it is as
+
+Last edit over 4 years ago by carolinerose
+```
+**Co-occurrences**: Zebra, Because, Only, Time, Black, Anyhow, Reality, Although, Those, Still, Real, Were, Very, Under, Further, Memory, Electric
+
+---
+### Line 4808-4816 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+Needs Review
+3
+3 If we have deliberately built a machina (device) to [weed?] out Plato’s forms (ie the unvarying, eternal elements).
+
+That part of “objective” reality which my brain (all “The Electric Ant”) was projecting + only that part, was projected faster + faster (like take moving faster + faster). Must be the major part. So, out of this projected part, only the constants could be perceived by my eyes, etc. They, the constants, alone were superimposed on passive truly objective matter. Well, finally my third eye (the projecting + the projected) got so out of [clock?] synch with the truly external that I saw my luminous (phosphene) geometric forms-total abstraction out of the Flash cut multiplication of [shades?].
+
+Gee- the truly objective must be no more than a dull gray motionless cardboard like set. Leibing is right’s we are pre-set, pre-wound monads. Well, I began to now fast, as a monad.
+
+This is why that night I spoke to sergeant Kelly I explained things ahead of time- I was projecting Out of synch with the external-ahead of it! Of the Zebra [started?] mentioned. We are pre-synchronized Into a totally [eagrammive?] deterministic realityIt's in our entelechy! (to react-programmed at our birth!
+```
+**Co-occurrences**: Zebra, Form, Plato, Well, Like, Only, Time, Could, Reality, Brain, Part, More, Finally, Were, Have, Things, Electric, Right
+
+---
+### Line 5795-5803 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+I will go on to say: the Xerox letter has come before. We do reincarnation: this life over and over again. Thus I know can certainly say what the deterministic "astral" power condems us to (until God's grace breaks it forever): Living over and over again the same life, making the same errors, suffering the same afflictions; only "Sarapis" can break this, as he did with on 3-74. This also explains my calling Ginger "Georgie," and how I knew I would been Tessa. Plus precog stuff in my writting.
+
+Yes, the xerox letter had come at least once before, & I had fallen victim to it. But it was part of the prison (Delusional) world, in a sense unreal; the only realy world is c. AD 70, & we the faithful joyfully await his return.
+
+It exactly resembles the situation in "Maze" with our world being Delmak-O: computer printed - out for us again and again. Viewed this way, no wonder my anticipatory anxiety out out of hand in the 2 or 3 months before 3-74. However, we don't printout this delusional world; a sort of Palmer Eldritch does. If you tho take the 1) information breaking through in Ubik, 2) Palmer Eldritch creating false worlds in 3 Stigmata, 3) & the computer repeat printout in Maze - You know it all, with "Tempunauts" & "Electric Ant" thrown in for good measure (& "Impostor," etc). But in the 3 Bantam books it's all there.
+
+I have already revealed the Gnosis (facts of the matter - i.e. truth) in my writing: & then in Tears God breaks through & abolishes it by changing history.
+
+This circular time, as it sp sweeps out again & again, must differ in details, & this, these accum[ulative] bits of change, give rise to the idea of [...]
+```
+**Co-occurrences**: Tears, Ubik, Xerox, However, Maze, These, World, Gnosis, Prison, Only, Time, Stigmata, Good, Book, Does, Once, Again, Being, Eldritch, Palmer, Viewed, Palmer Eldritch, Grace, Tessa, Part, Through, Living, Certainly, Before, Will, Would, Have, Life, Information, Electric, Truth, Impostor, Until
+
+---
+### Line 6043-6051 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+21
+dream: opening huge ( ) carter + taking out large Logos Artifact + nature electionie artifact, below (religious (wall of it is as solid wall, a information) electronic) bey rectanger, of beef. Under it is every king of religious (Christian) writing imaginable, even sentences covered (stegenograbia) by a glued-on paper strip with a replacement sentence. I the to interest everyone in the theological material, but they are like the harness bull who preceeded sergent Kelly: totally uninterested. It is as if the religious material is crazy. There is no reconciliation between the world (of nature) represented by the huge rectangle Wall) of beef + the layer of religious information under it; the impli cation is that if you believe in the reality of the wall of flesh Sarx?) you can't see any sense in the religious info below, ( + the wall of belf is certainly real - you have to beliem in it. But on the other hand, what is the relationship between the wall of belf + the creat electronic artifact? As between the religious writing + the wall of beef, there is no reconcillation between the wall of been + the artifact. I am sure that the religious writing equals the computer punched tape in "Electric Ant" + in the computer of the persus 9 in maze, which can't be read intrinsically but which gives rise to the world of flesh or nature which again in turn gives rise to the artificial world of mechanical/electronic constructs. 3 levels or layers are represented. No one wishes to take seriously the deepest one (except mey). The Logos, the word, is represented; that which is written gives rise to the living world (creatures, nature) which in turn give ise to our artificial environment. If we place ourselves in the top world (artificial construct) we are totally walled off - have no knowledge of or contact with - the Logos substratum, not. if it is called to our attention can we see any merit in it: ➁ is real + rational. ➀ is not. It is even hard if not impossible, to comprehend (2) (when one starts with (3) which is given in the dream as the starting point of view. (I itself is difficult to explain: how does it relate to (3? But at least It isn't "crazy: the way ( looks. But put another way, ➀ gives rise to ( via (2), a fascinating thought. So the origins of i i
+
+Last edit almost 3 years ago by svayambhu108
+22
+Needs Review
+```
+**Co-occurrences**: Christian, Logos, King, Maze, Like, World, Even, Does, Again, Reality, Another, Living, Real, Certainly, Other, Under, Have, Artifact, Information, Info, Electric, Except, Knowledge, Dream
+
+---
+### Line 6672-6680 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+80
+Needs Review
+80
+70 The issue of freedom vs enslavement, although clear as the issue, has a mysterious element in regard to (1) that which enslaves; + (2) how it does it; + (2) in what way; + (4) why. that a dialectic antagonistic bipolarity exists is evident. That the bipolarities were involved in me in 3-74 + that freedom won, + that this decisive victory was the salvific work (action) of God or Christ - that is evident - but victory over precisely + specifically what? I had the distinct impression of a sort of "punched" computer tape within - intrinsic - to me, which functioning in tandem, synchronized (as Leibnitz discusses) with outer events. This total system by virtue of the (a-causal inner-outer synchronization gave the appearance - illusion - of a cause + effect relationship between me + my environment. that things happened + I decided how to react, but that in fact I was in some mysterious sense reacting in a vacuum that is, what took place externally was not the actual cause of my response, but that my inner tape was the true cause of my reactions or rather actions. If all this be so, then the entere outer reality is relegated to the merely spurious insofar as we anyhow, are concearned - however intrinsically real it might be for us it is causually fraudulent - as in "the Electric Ant" in which he finds he's an automaton self-programming himself via an inner tape - but he did not punch the instructions on the tape + thus, despite all appearances to the contrary, is enslaved by it. to solve this mystery I turn to two areas ) Animal instinct-systems, which are known to involve DNA programming (e.g. what salmon do - there even being a strip of "tape" being a "now die" instruction code) - + the 2) the view of the human as a giant robot (construct, artifact means) which the genepool (DNA) creates in order to perpetuate itself, not the "giant robot" which does exactly what his DNA programming compels him to do, without him ever being aware that these command do not constitute his volition but are adventitious to him, despite all subjective impressions to the contrary: i.e. that
+
+Last edit almost 3 years ago by svayambhu108
+
+81
+```
+**Co-occurrences**: Christ, However, These, Even, Does, Anyhow, Reality, Being, Although, Self, Himself, Without, Leibnitz, Real, True, Were, Artifact, Things, Freedom, Electric, Dialectic, Human
+
+---
+### Line 8890-8898 (Match: 'Electric Ant')
+**Folder**: book is
+
+```text
+Last edit almost 3 years ago by svayambhu108
+35
+Needs Review
+35
+3) two elements distinguish "Ubik": 1) It is original (as a cosmology) 2) it perhaps is correct (or more correct than any previous cosmology. the Q. arises: how did it come into being? On what source did I draw? I don't know - except that by the info mation-projecting entity described in the novel itself the arising in my mind of this knowledge (gnosis. Sophias can be accounted for. In other words, the explanation i as to the source of the concepts in "Ubik" is presented nowhere else but in "Ubik" itself. Would this, then, the existence of "Ubik," not constitute an indirect proof of its truthful ness? Were the cosmological concepts in it false, "Ubik" could/would not have come into being - at least not in i the way it did - by automatic writing, so to speak s in other words, Ubik wrote "Ubik," which makes the novel a form of scripture (which may be also somewhat true for "Maze" + certainly, as I well know, "Tears"). Again, the 3 Bantam novels assume a puzzling t perhaps unique importance as vehicles of revelation. the interesting point that strikes me is that the total message extends (+ requires the inclusion of) a fairly large number of my novels + stories (e.g. "Clans," "Joint" "Eye "time Slip" + the 3 Bantam ones, + "TMITHC" + "Tears"). Reality (the phenomenal world) + our memories are irreal, but a gene ine divine assisting + informing power or entity is pressing through the irreal to us, as if to wake us to our actual state (time place + condition) which is quite different from what we per ceive + remember. Even our identities are irreal (e.g. "imposters "Electric Ant" "wholesale." "Maze" etc). There are incursions t irreal worlds into the real (simulating the real), + the real into the irreal. The private, too into the shared, + alternate worlds into each other. My 2/74 to 2/75 experience is quite in keeping i to my writing. Again: if I ask, "what is the entity which is using me as a scribe?" I need only look to "Ubik.
+
+Last edit almost 3 years ago by svayambhu108
+
+36
+```
+**Co-occurrences**: Tears, Ubik, Form, Well, Maze, Perhaps, World, Gnosis, Only, Time, Mind, Even, Could, Joint, Look, Again, Reality, Being, Divine, More, Through, Real, Certainly, Revelation, True, Would, Other, Were, Have, Info, Remember, Electric, Except, Knowledge
+
+---
+### Line 10435-10443 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+----------
+
+There is a vast significance in my responding to external stimuli in advance (e.g the Ray Bradbury TV program). I cannot fathom however, how this Leibnitz-like "pre-wound" harmony is achievement. By who or what, there is an internal "tape" upon which all our reactions are programmed. Whatever or whoever punched it ([or] engrammed it) knew what external situations were coming, the result is absolute enslavement with a subjective spurious sense of freedom. What the Fuck is going on? This all is completely equatable with the mystery religions' ideas of "astral determinism" + the "God above the stars" freeing you. I think of my concept of the yin world, + the yin-yang dichotomy of [tantra].
+
+What is important here is the "Electric Ant" syndrome: the self-generation of plural quasi-isomorphic realities which only [grow] to be one shared reality. What really is there? The great [..] machine; a vast thing. A construct upon which we project our world. It's all managed. In the midst of this, time seems not to be real. They project "slides" - space - time BGs. The projectors seem to be at least partially in our own plural heads.
+
+I'm close to cracking all this - how we are managed, in slavery. But also led to freedom (salvation) by a sentient savior.
+
+Last edit about 5 years ago by sekennedy62
+```
+**Co-occurrences**: However, Like, World, Only, Time, Savior, Yang, Reality, Self, Great, Leibnitz, Real, Upon, Were, Whatever, Absolute, Freedom, Electric, Salvation
+
+---
+### Line 10478-10486 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+What we are talking about is the enlarging [..] mind (noös) or St. Sophia, with the ultimate destination of being ALL, with necessity (ananke) totally ➀ [..] + ➁ transmuted into mind. It is the [(amen) sanctification] of the cosmos. + with the demise of blind causal trains will expire injustice, injury + death.
+
+So in a certain real sense Zebra will use the user; the yang part of the Godhead will treat (does treat) the brittle, rigid yin world as plastic material onto which to impose its own "brain" (intellect) in a sense, yang will use all of it at once, as one single gestalt (i.e. brain) which it will animate - i.e. bring to life, a mental life. Outside of linear time this has already been accomplished, + as each of us is extricated from linear time, to the extent that we are extricated we will see this sentience + purposefulness in the physcial world. Thus, when I see a [bit] of reality "deferring" I will know I am in an enlightened state (momentarily). The ultimate vision (PTG) is of the world as brain - to - mind: physical world brain with mind controlling it. + of course the proof of this is the hearing of the divine "still small voice" of this brain or mind. Thus, just as yin makes creature into object noös (Zebra) makes object (causal train of object) into creature: the two are antitheses of each other: [..] opposites.
+
+It is quite a moment when Zebra cuts that "Electric Ant" inner programmed tape.
+
+Last edit about 5 years ago by sekennedy62
+112
+Complete
+```
+**Co-occurrences**: Zebra, Complete, Sophia, Godhead, World, Time, Mind, Gestalt, Yang, Does, Just, Once, Reality, Being, Divine, Brain, Still, Part, Real, Voice, Death, Will, Other, Life, Electric, Ananke
+
+---
+### Line 10719-10727 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+"Brains yoked in tandem." Maybe it's the explanation, across vast stretches of linear linear time. Tracing simultaneously.
+
+----------
+
+A very strange idea has come to me re this "brain yoked in tandem." If the manifestation of the (inner personality Thomas + the analog CE 70 Syria world are the result of the firing of up-to-then inhibited brain circuits the locus of Thomas is in my brain + so is his world, which brings us to an "Electric Ant" situation, but with two reality tapes, not [one] the irreality of our given space-time continuum is totally affirmed. A previously sealed off + merely latent part of my mind (brain) is "Magdabourg Hemisphered" to another space-time continuum. This would imply - wait.. it does not
+
+Last edit about 5 years ago by sekennedy62
+128
+Complete
+```
+**Co-occurrences**: Thomas, Complete, Maybe, World, Time, Mind, Does, Reality, Brain, Part, Wait, Another, Would, Very, Electric, Syria
+
+---
+### Line 11142-11150 (Match: 'Electric Ant')
+**Folder**: Part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+65
+Needs Review
+65
+t i I note that back a few pages where I list the novels of mind which give the messa, I assign to "Tears" the concept that "several competing worlds exist. I would add to that: to per‐ ceive , the Black Iron Prison, is in itself not a salvific discovery, but on more road (norrow Path) to (3), the real (absolute) world. (1) is a way of obscuring (2) + (2) is a way of obscuring (3). belong together; (2), the slice of ham, must be expunged So in a sense in such novels as "Joint" + "Stigmata" I was dealing only with the evil power; but by "Ubik" + "Maze" + "Tears" the benign power was intruding. + in "Deus Irae" the curse by the presence of the evil power is lifted - was lifteufel's death the death of the bad man hidden inside the house in the dream section of "Tears"? If so, we are talking about Satan, slain by God + "Deus Irae" carries us back to "Dr blood money" fake worlds, fake humans, "Penultimate truth" must not be disregarded in all this. All these books (inc. "Do androids dream..." + "we can build you' urge us to penetrate below the surface to see what we are (e.g. "Electric Ant," "impostor") what the world is - yet not until "Tears" did I penerate to the living, loving heart both of man + of reality. No wonder I had to do eleven drafts of it to get it right, look at the magnitude of what I was trying to do. showing things to be irreal was no longer enough. The irreal I could sense instinctively; I had to labor to descern what was authentic
+
+Last edit almost 3 years ago by svayambhu108
+
+66
+```
+**Co-occurrences**: Tears, Ubik, Satan, Maze, These, World, Iron, Prison, Only, Black, Stigmata, Mind, Book, Could, Joint, Look, Both, Reality, Black Iron Prison, House, Deus, More, Living, Real, Such, Irae, Death, Would, Back, Things, Absolute, Fake, Evil, Electric, Blood, Deus Irae, Truth, Impostor, Iron Prison, Dream, Right, Until
+
+---
+### Line 11501-11509 (Match: 'Electric Ant')
+**Folder**: part is
+
+```text
+Last edit almost 5 years ago by sekennedy62
+10
+Complete
+10
+expose it, + reveal the authentic world (there must be an authentic world in contrast). The USA 1974 world is unmasked as the product of inner tape, outergeneration-in-synch programming (ȃlá "Electric Ant"), a deft feedback loop constantly reinforcing itself due to the inner-outer correspondence. Break the programming suddenly + after a short period the world dissolves out of the way + another one. Quite different, as well as a different inner self, appear. This makes no sense unless the USA 1974 world - + self - are viewed as simulations, the result of programming (a reality - simulating device or entity). The question emerges - once the simulated quality is unmasked - is, "where + when are we really? What is the real world?" Before the simulated world re-establishes itself, can we get a sufficient glimpse to say positively? Are there any hard clues? Well, the koine + the early - church sacraments, + memory of the recently - departed Jesus, fear of Romans, + palm trees. i.e. 1st century AD Syria.
+
+K.W. spoke of sabotage vs malfunction, an issue which I dismissed. But then the voice called the USA 1974 world "an alibi world" which is "expendable." Sabotage - not by an evil party - but by a friend, since this is a thrall situation - I misunderstood K.W. sabotage of the prism machinery. An induced malfunction; which by the way answers the epistemological questions I've chewed over in 27 years of writing having to do with simulated worlds (hence Lem's question).
+
+e.g. "Delmak-O" = USA 1974
+```
+**Co-occurrences**: Jesus, Complete, Well, Roman, World, Since, After, Once, Reality, Self, Palm, Viewed, Church, Another, Real, Voice, Before, Memory, Evil, Having, Unless, Electric, Suddenly, Syria
+
+---
+### Line 11623-11631 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+[Diagram ➀ upper/lower ← wrong. It should be regared like this:]
+
+[Diagram ➁ source I → world ← source II]
+
+Our world is a composite yet I bet the feeling that we're primarily in Form II. Certainly all that we object to, + which inner - + - outer tape programs us is lower world (Form II). The lower world has a decisive grip on us (moribund though it be) to such an extent that God himself is needed to break it. Normally, the upper realm is regarded as heaven + a separate world from our world. I wonder if this is so, we may be in both realms as one world. But the programmed hold of the lower is pitiless. A specific breaking process is essential if we are to lose Form II (the immutable cause - + - effect yin world). The dread grip of the irreal - is it not not-being, against which God is the bulwork? Delusion the programmed evil lower counterfeit prison - delusion (maya) has us. That the irreal could be more powerful than the real) But in the final analysis it is not. Its power resides in the innertape programming, fucking damn electric ant tape. The mechanics of the system is the power, the lever. We are enslaved. Thus the supernatural value of what Beethoven did for us - decisively burst our programming.
+
+Last edit almost 5 years ago by sekennedy62
+19
+Complete
+```
+**Co-occurrences**: Complete, Form, Like, World, Prison, Could, Realm, Both, Maya, Diagram, Being, Himself, Beethoven, More, Heaven, Real, Such, Certainly, Evil, Electric, God Himself, Upper, Lower, Final
+
+---
+### Line 12020-12028 (Match: 'Electric Ant')
+**Folder**: Unknown
+
+```text
+Is it all just foolishness? My writing has to be dismissed (inc the Acts + NT material in "Tears" + the "exculpation" cypher, i.e. Good News) + my 2-74/2-75 experience has to be dismissed as a psychotic break. + God didn't aid in pulling down the tyranny; there was no in-breaking, as depicted in the "Tears" dream.
+
+Everything has to be dismissed - my life's work means nothing, my most treasured experience - + I am + have been for years just crazy.
+
+Because everything is interwoven, it either all stands or it falls. Such stories as "Precious Artifact" + "Electric Ant" + "Retreat Syndrome" tell us nothing - not to mention the novels.
+
+"Ubik" tells us nothing?
+
++ 4 years + 4 months of exegete - wasted.
+```
+**Co-occurrences**: Tears, Acts, Ubik, Because, Good, Just, Everything, Either, Nothing, Most, Such, Have, Artifact, Life, Electric, Dream
+
+---
+### Line 13029-13037 (Match: 'Electric Ant')
+**Folder**: part of
+
+```text
+Indexed
+8
+8
+
++ in addition, its reality-generating power extends into the person in terms of his memory + identity; it can be perfectly synchronized with the projected outer reality, producing what I call a push-pull feedback loop. So nothing discordant is experienced by the person. Wow. I'd guess a deliberate "dysfunction" would have to be created, for the person to get de-occluded. Then am I to infer that [true, actual] salvation means being broken free of this push-pull inner/outer "taped" reality? Wow, is that ever some salvation! That is pretty heavy. A rigid inner-outer synched programming: 1) world outside; 2) identity + memories inside - + both irreal. I guess this is realm II ... but - wow. To have this "cut" or withdrawn ... shades of "The Electric Ant." Machine intelligence: android - not free. + the Xtian secret: we're really "in" Acts, as I show in "Tears." The computer or brain, fed a spurious reality, was able, in "Tears" to trace the contours of the actual reality. Yes, it was able to tell. Whatever + whenever world it feeds us will seem absolutely natural, since our memories + identities are cinched up. Then what happened to me in 3-74 in which
+
+Last edit over 5 years ago by Toso
+9
+Complete
+```
+**Co-occurrences**: Tears, Acts, Christian, Toso, Indexed, Complete, World, Since, Realm, Both, Reality, Being, Nothing, Brain, Secret, True, Will, Would, Whatever, Have, Memory, Electric, Salvation, Free
+
+---
+### Line 13900-13908 (Match: 'Electric Ant')
+**Folder**: folder 02
+
+```text
+Last edit over 8 years ago by Toso
+folder 02 - 015
+Indexed
+folder 02 - 015
+selective brain sites (centers, tissue). Is there any way it can tell? Lem sees this as the paradigm my writing (e.g. "Ubik") presents, this is his formulation of my paradigm. Lem asserts, "the brain could only detect the simulatedness if the technology fucked up" - i.e. if there was the kind of incongruity that "Ubik" narrates, which I feel is better expressed in "Electric Ant" by the flock of ducks sort of anomaly. In connection with this I cite bishop Berkeley's view that world isn't substantial or there really, but that God (whatever that means) stimulates our percept-system directly. In my case the phosphene activity of 3-74 suggests the disinhibition + first-firing of up-to-then blocked neural circuits. Open this firing (probably triggered off by seeing the Golden Fish in 2-74) I saw Rome CAD 45 + became Thomas. Actually, I did not see a different world in the sense of world Y replacing world X; what I saw was world X as Y. A different aspect appeared to me, but it was a massively different aspect. + Thomas parallelled it inside me. Does this constitute evidence pointing to Lem's paradigm (really mine) as the actual situation we are in? Or bishop Berkeley's, which is a variation of it but basically the same?
+
+folder 02 - 016
+To me the key clue is that this someone else who is not living in this century is in my head. Lots of people once lived in other centuries, +, later on, more will again - but in my head, in this century? As I pointed out supra, Thomas + I are somewhat but not entirely partitioned off from each other. + he is totally aware of me, my world, problems + situation (whereas until 3-74 I was not aware of him or his). I have designated him as the master personality + his world as the master (absolute) world. I claim his world (or aspect of world) is the real one + mine merely relative (myself as well). Let us reason contrarily, re Lem's + Berkeley's paradigm. I am stimulated to see USA 1974 + I am located in part X of my total brain. Thomas, located in part Y (probably the right hemisphere) is stimulated to experience world Y. This binary stimulation is simultaneous + constant, but got fused into one superimposed world + one personality temporarily in 3-74. What does this tell us, this explanation which views both me + Thomas - + our two discrete worlds - as equally real? (But emanating from or located in one head + brain). (+ syntonic with each other). It tells us that our world is simulated a la Lem's / Berkeley's paradigm. Mine is + Thomas' is: viz: one part of this brain is stimulated to experience as real world - or aspect - space-time - of world X, + another part Y. But X + Y are totally separate in both space + time. But, if the
+```
+**Co-occurrences**: Ubik, Toso, Thomas, Indexed, Rome, Fish, Well, Golden, World, Golden Fish, Only, Time, Folder, Could, Does, Once, Again, Both, Toso
+Folder, Probably, Indexed
+Folder, Brain, Part, More, Another, Living, Real, Actually, Will, Other, Whatever, Have, Berkeley, Absolute, Later, Electric, Whereas, Right, Someone, Until
+
+---
+### Line 15054-15062 (Match: 'Electric Ant')
+**Folder**: part by
+
+```text
+Indexed
+Folder 03 - 077
+83
+
+ur personality, speaking a protolanguage (based on my experience with the koine!) He had a grandfather (or granduncle?) who spoke German: an ancestor! The info conveyed chronologically in the sequence of books is interesting: 1) "Eye" plural + subjective worlds. 2) "Joint" world as simulated deliberately 3) "Stigmata" plural hallucinated worlds concocted by an evil magician-like deity 4) "Ubik" messages of assistance penetrating the simulated world(s) "from the other side" by/from a salvific true deity 5) "Maze" simulated world fabricated in part by us, to escape an intolerable actuality 6) "Tears" the nature specifically of that actuality (an intolerable one - the BIP, Acts) 7) "Scanner" buried memories connected with lost identity; + protospeech breaking through, not into world as in "Ubik" but inside a person's head. Two psychoi one in each hemisphere, each with its own name + characteristics. Plus such stories as "Impostor," "Retreat Syndrome," "Electric Ant," "Faith of...", "Human Is" {Note} + related themes in "Time-Slip," "MITHC," "Penultimate Truth," "Game-players."
+
+{Note:} + "Precious Artifact," a very good one. Also even "Unteleported Man." ("Androids/Dream" treats memory-identity theme.
+
+It is one story slowly unfolding, a vast tapestry, as Le Guin pointed out.
+```
+**Co-occurrences**: Tears, Acts, Ubik, Indexed, Maze, Scanner, Like, World, Time, Folder, Faith, Stigmata, Good, Book, Even, Joint, Indexed
+Folder, Part, Through, Such, True, Deity, Other, Very, Artifact, German, Memory, Info, Evil, Electric, Truth, Impostor, Human, Dream
+
+---
+### Line 15066-15074 (Match: 'Electric Ant')
+**Folder**: book or
+
+```text
+Indexed
+Folder 03 - 078
+84
+
+No one book or story is correct + the others incorrect, + no one book or story tells it all. Many of them must be read - + this is the first time I see how "Scanner" is an essential part of the Great Narrative - picking up where "2nd Variety", "Androids Dream" + "Electric Ant" left off. Even in "Japed" there is a 2nd dissociated personality, a pilot for "Scanner". This vast over theme could be extracted from the novels + stories, but that alone would not prove it to be true. But 2-3/74 did prove it (both the themes of "inner" + of "outer") to be true, + if proved true in one case, for me, it must be objectively -intrinsically- true. In "Scanner" he (Fred) has forgotten who he really is (Bob, who equals Thomas vis-a-vis me, PKD). The Ursprache, breaking in/through, signals this forgetting, + is an analog of the in-breaking messages in "Ubik," pointing to another -+ real- world or true protoreality now forgotten, but which can't be entirely denied. Thus I depict in "Scanner" what may happen to those who read the earlier writing.
+
+Bob = Fred Thomas = PKD } I never saw it before.
+
+"Maze" + "Tears" tend to vindicate the view that some element of voluntary forgetting (self deception on our parts) is involved.
+```
+**Co-occurrences**: Tears, Ubik, Thomas, Indexed, Maze, Scanner, World, Time, Folder, Book, Even, Could, Both, Self, Great, Indexed
+Folder, Those, Part, Another, Through, Real, Before, True, Would, Many, Electric, Dream
+
+---
+### Line 17005-17013 (Match: 'Electric Ant')
+**Folder**: folder 21
+
+```text
+21
+
+is the bottom line as far as we humans are concerned: the "information virus" Zebra destroys the 4-pronged deformation which I have delineated (supra-previous set of pages):
+
+1) It shows us the real world "Tears" (abolishes the counterfeit world) "Maze" 2) It abolishes the inner occlusion "Scanner" (restores our faculties as they are supposed to be) 3) It breaks the "astral determinism" (it frees us) "Electric Ant" 4) It removes amnesia "Impostor" (restores true memory + hence true identity)
+
+In short, it turns us into the "second Adam," the restored Xtian superman, a Christ. It abolishes the four aspects of our fallen nature. This is why the Gnostics believed in the salvific Gnosis; they confused the information with the information entity; i.e. they thought the former saved us, whereas it is the latter: living information, not the content of the information. However, the content is the pattern, so in a sense they were right. + it was an evil world ("Tears") + evil demiurge (Eldritch) that they believed in.
+
+Real world: "Tears" "Retreat Syndrome" "Precious Artifact" Real deity: "Stigmata" Salvific entity: "Ubik" Real situation: "Maze" "Eye" "Joint" Our condition: "Scanner" "Sheep" "We Can Build You" '' identity: "Impostor" '' enslavement: "Electric Ant" "Penultimate Truth" Memory retrieval method: "MITHC"
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Zebra, Gnostic, However, Maze, Scanner, World, Gnosis, Stigmata, Joint, Adam, Eldritch, Living, Real, True, Deity, Were, Have, Artifact, Memory, Information, Evil, Electric, Truth, Impostor, Whereas, Right
+
+---
+### Line 17009-17017 (Match: 'Electric Ant')
+**Folder**: folder 21
+
+```text
+1) It shows us the real world "Tears" (abolishes the counterfeit world) "Maze" 2) It abolishes the inner occlusion "Scanner" (restores our faculties as they are supposed to be) 3) It breaks the "astral determinism" (it frees us) "Electric Ant" 4) It removes amnesia "Impostor" (restores true memory + hence true identity)
+
+In short, it turns us into the "second Adam," the restored Xtian superman, a Christ. It abolishes the four aspects of our fallen nature. This is why the Gnostics believed in the salvific Gnosis; they confused the information with the information entity; i.e. they thought the former saved us, whereas it is the latter: living information, not the content of the information. However, the content is the pattern, so in a sense they were right. + it was an evil world ("Tears") + evil demiurge (Eldritch) that they believed in.
+
+Real world: "Tears" "Retreat Syndrome" "Precious Artifact" Real deity: "Stigmata" Salvific entity: "Ubik" Real situation: "Maze" "Eye" "Joint" Our condition: "Scanner" "Sheep" "We Can Build You" '' identity: "Impostor" '' enslavement: "Electric Ant" "Penultimate Truth" Memory retrieval method: "MITHC"
+
+Eleven novels, four stories (for openers)
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Toso, Gnostic, However, Maze, Scanner, World, Gnosis, Stigmata, Joint, Adam, Eldritch, Living, Real, True, Deity, Were, Artifact, Memory, Information, Evil, Electric, Truth, Impostor, Whereas, Right
+
+---
+### Line 17467-17475 (Match: 'Electric Ant')
+**Folder**: folder 21
+
+```text
+Last edit over 8 years ago by Toso
+
+74
+
+determinism refers to a spurious mode of being regarding world and self - what the Hindu religion calls Maya: delusion. We are so-to-speak manufactured by this structure: the product of it, generated + controlled inside out. Only in such novels as "Ubik," "Maze," "Stigmata," is this situation dealt with. Throw in "Tears" + "Scanner" + "Eye" as well as "Impostor," "Electric Ant," + "Faith of -" + you have it all. Ego R.I.P. Worse, we are cut off from our authentic self (state) + world. This is what I must put forth in "Valis," + the Salvidor Salvandus. The impaired Godhead extricating its own fallen parts, + re-assimilating them. This broad view of astral determinism + its overcoming is fine - but in my case, the firing of the "death strip" DNA signal was aborted, + my life saved - i.e. the destiny aspect. ___ I am told, the 5th savior will take my burden off me -
+
+Ich unglucklich Atlas Eine Welt, die ganze Welt erschmertzen Muss ich tragen... Stolzes Herz - Und brechen will mir das Herz in Leib -
+
+I do not have to carry the burden any longer, nor pave the way ("Make a highway for our Lord"), I will be released - the savior will carry it for me.
+```
+**Co-occurrences**: Valis, Tears, Ubik, Toso, Well, Maze, Lord, Godhead, Scanner, World, Only, Faith, Stigmata, Savior, Maya, Being, Self, Such, Death, Will, Hindu, Have, Life, Electric, Impostor
+
+---

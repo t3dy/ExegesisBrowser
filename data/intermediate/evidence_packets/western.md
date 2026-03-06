@@ -1,0 +1,346 @@
+# Evidence Packet: Western
+
+- **Category**: Top Term
+- **Total Mentions**: 40
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1481-1489 (Match: 'Western')
+**Folder**: book the
+
+```text
+Logos as the two men working a two-man saw: [i]scillation back and forth -- palintropos harmonie.
+
+. . . I didn't enter the Kingdom of God by moving forward in time; I entered it by remembering (anamnesis). This is very important, this return in order to enter: remembering that I am or was in it already, and so hence must be new. Also, in John (I think 14:25 or 26) Jesus says that the Holy Spirit will cause "them to have remembrance of me and what I have said." The Holy Spirit brings us to Christ and hence to His Kingdom, by uniting us with him, evidently either outside of time, but anyhow remembering him. And our relationship to Him. (The Spirit of Truth discerns the future; the Holy Spirit recalls to us, teaches us, about the past.) My whole view is not that someday we will find the Kingdom but that we had it and lost it; maybe it was overthrown and the Rightful King killed, etc. "The overthrown kingdom, to be restored," as the M[M?]ission people say. That is the message. The King has returned. Once more he is here!
+
+. . . Oh, yes; I heard the voice one other time: "And she shall see the sea," which was probably back around 1968/9, no later. As I wrote Phil Parmer, I knew it could not be my own thoughts or voice. I see now that beyond doubt that voice was the "physics test" voice and the one from 3 74 on. Again, it came as a result of agonizing despair on my part, and a need to know something, to understand; it brought relief and help and comfort. But: I do think Elijah came to me back in 3 74. And now I read in the M[M?]ission book the the "Kingdom of God" that indeed a vision or iron is a vision of Rome (of Daniel). But I wasn't back in Rome; on the contrary, Rome was here now. It is the Kingdom of God versus the empire(s) of man. Rome is the last of the 4 empires. We're there now, although the names have changed; Imperial America is the Western Empire; USSR the Eastern. After the disintegration of this comes the Kingdom; I think the first steps began last year. Now we see the US empire collapse in earnest, the distant provinces are falling and becoming small national states. The great image --statue-- in "Daniel" had been smashed with the uncut rock and is collapsing into fragments mingled and scattered. Bits, from earlier strata, such as the gold fish, surface and bring anamnesis. We will be ruled again by the rightful king, our Divine Father. (His son will rule; this will be after the 6th "day" of continual creation has ended; then, on the 7th, Christ rules, God's son, Our King.)
+
+. . . I had an initial complex insight today that it is just as easy to think of the future pushing the present into the past as to think of the past generating the present and moving toward the future;
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron, John, Time, Harpax, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Phil, Gold, Such, Voice, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Truth, Today, Evidently
+
+---
+### Line 2108-2116 (Match: 'Western')
+**Folder**: book dream
+
+```text
+156
+. . . If I am going to systematically list all the elements in TEARS which are revelation (i.e. from scripture) (and I've tried to do this, supra supra) I think I missed the foremost element: when Felix Buckman hugs the black man it is the "kiss" or hug of the feast of agape, the cardinal moment of the authentic service of rememberance (he who is kissed or hugged, who is Anyman is of course Jesus). Also, it is evident from the text that the unknown (stranger) black man somehow it identified with Taverner, and it must be recalled that Felix Buckman partook earlier in the novel of a meal with Taverner, which was an odd thing for him/them to do. To back up this hug as cardinal moment of the now-suppressed original sacrament, consider the drawing which Buckman made prior to hugging the black man, and passed to him: the heart pierced by the arrow; which beyond doubt is a wordless graphic rendering of the idea of love (agape). It was the embrace of life. As witnessed the sudden sundering of the one-child-to-each-black-couple law.
+
+My very recent book dream, the masterpiece novel gummed into the encyclopedea -- it refers to such as the above novel cum covert message, as well as UBIK, etc. I'm beginning to think this most recent dream did not carry the message: Write such a book. But rather: You did write such books (with the gospel reassembled from trashy bits, as Lem put it). (So as to get past the Soviet Marxist materialist censors.) "There are other sheep whom I must bring in," as Christ said. This dream told me not what to do but explained to me what I have been doing. I, so fashionable to Marxists both in the West & East -- I, unknown even to myself, carrying the gospel to them in a form acceptable to them. I wonder, now that (3 74) it was explained to me, if I could do it, now being self-conscious and deliberate and doing it myself per se; maybe my work is done, successfully. I was finally told what I had done: the sheep in wolf's clothing, so to speak. As my Vancouver dream, in which Kathy and all of them took off their masks and said, "Now we can finally explain it all to you," it was in 3 74 finally all explained to me. Looks to me offhand as if UBIK was freighted the best. Maybe now I can rest. It's interesting -- you can flatout outfront tell a Marxist that my work is theological in nature (as I did Fitting etal, and also Claudia), and it doesn't register, as if I never even said it. "He doesn't comprehend his own work," as one of them said. Not only can't they see it unaided, they can't see it aided. Yet I am positive that on some level (right hem?) they are absorbing it; ah yes: subliminally!! I think this is why so many of my dreams --plus my intuitions themselves about my 3 74 experience-- contained elements pertaining to the USSR. Paranoiacally, I had it backward; they weren't influencing my thoughts, but I theirs (via my stories, novels, speeches, letters, oral discourse!!). Lord -- I think when they see the cross I wear, or read theological elements --find them in my writing, they think I am "one of them," but adding these as a sort of disguise to fit into capitalistic Christian Western society; my golly, they have it backward, but it's layer under layer; the bottom which (spreading the gospel to the Soviets) was unknown even to me. Until it was revealed to me in 3 74. Probably the most severe assault delivered in my work is against materialism as such, in my probing into the illusory nature of apparent reality...but surely this is a prime assault against the Enemy, against Marxism as one form of it.
+
+Last edit over 5 years ago by Harpax
+157
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Jesus, Form, Felix, Well, Lord, These, Maybe, Only, Harpax, Black, Buckman, Book, Even, Gospel, Could, Taverner, Soviet, Both, Reality, Being, Self, Probably, Kathy, Their, Most, Such, Love, Revelation, Consider, Finally, Other, Somehow, Very, Back, Beyond, Surely, Under, Many, Have, Life, Claudia, Cross, West, Dream, Doesn, Right, Until
+
+---
+### Line 3267-3275 (Match: 'Western')
+**Folder**: book by
+
+```text
+few days later demonstrated the reliability of my supernatural percep-system and by extension validated my other perceptions, but I doubt if I would see it now, I having lost those perceptions and returning to the deformed norm. But then, too, it wasn't Pinky but the Savior himself in there, as He was in me too. Pinky or Christ passed through the stations of the cross (we mocked him, etc), and returned once more to his origin: Heaven. It was all very real. Pinky returned because He returned; He led Pinky back home, and stayed with us from March through August, until after my surgery & mending. Thus I saw (correctly) in Pinky what was also in me.
+
+PAY-OFF TIME! Last night I had a mystical insight about my 3-74 mystical insight; viz:
+
+As to the contents of my 3-74 experience I am right (supra), but as to how I acquired the knowledge & experience, wrong. What took place actually stamps my experience as Neoplatonistic, inasmuch as what encised on me was the form of forms, the Summum Bonuum, whose contents were (1) the form and balance of Apollonian philosophy, and (2) primary Christianity, as a further development along the lines of Christ as Platonic-archetypal-form exemplar. In a nutshell, that is it. There was no one from 2,000 years ago who came here; the S.B. exemplar form in itself (which is what I saw as phosphene activity) incised from outside of time, and is always encising to some degree on every person within Western Civilization; it is perpetually printing out, very much like my "teaching satelliteVALISYSTEM A idea". My attainment was philosophical, not theo¬ logical, to be technically accurate; primary Christianity is now a category —in fact the ultimate category— of a priori knowledge in Plato's sense. Every "theolepsic" change in me was due to the S.B. exemplar archetypal form of forms encising balance and proportion, ratio, harmony, on me; I became, for reasons I don't know, the receptible of being, which is to say passive matter. I achieved the goal of the Platonists...also, my politcal activism at that time was the actions of a "philosopher king," in Plato's sense. God is not involved in this, nor Christ qua Christ, but all were exemplars and a priori knowledge of the ultimately highest order. The key word here is contemplation — and the received (incised) contents of the hignest form; I know that primary Christianity is within the contents of the Sumuum Bonuum and thus true, but my experience is Platonistic, i.e. with the forms as containers of ultimate knowledge & the experience (reception) of that knowledge. The universe works exactly as Plato says; in a way the structure of Platonistic cosmology subsumes Christianity, which is unknowable except as received information from the Sumuum Bonuum, the ultimate form of forms, with Christ as exemplar within that form. This is the how. Apolonnian philosophical balance and primary Chris¬ tianity are the what. The why is due to a lifetime search, as is demonstrated by the contents of UBIK, also acquired this same way. Thus, the Platonistic philosophical material in UBIK and the material in TEARS from Acts came as the result of Platonic forms encising on me and informing me, a priori categories of knowledge given direct, not through any living person or agency, but directly by the forms themselves.
+
+Last edit almost 5 years ago by svayambhu108
+255
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Ubik, Christianity, Form, Plato, King, Like, Because, Time, After, Savior, Pinky, Once, Being, March, Platonic, Himself, Those, More, Through, Living, Heaven, Real, Actually, True, Universe, Would, Other, Were, Very, Back, Further, Information, Later, Days, Having, Except, Knowledge, Cross, Right, Until, August
+
+---
+### Line 3582-3590 (Match: 'Western')
+**Folder**: part in
+
+```text
+Needs Review
+288
+-2-
+
+entity controlling me performed was to administer to Christopher the sacraments, but (I learned this from the Britannica) in the highly archaic form known only to the early Christian Church. At the same time the entity was wary —even frightened— of Rome and its agents, and seemed to feel Rome's tyranical presence. In a vision, as I mentioned, it showed me that Rome still exists as twin arms, one in the west and the other in the east, and that the western one would soon be brought to ruin for its crimes. This did take place, as we know.
+
+What the lady reporter made me realize was that this extraordinary experience, written up in my new novel VALISYSTEM A, was the answer to all my years of seeking to know what is real, related to a life-long journey, and that now my books would not ask but tell. Perhaps, she suggested, I would write no more. I have seen that the cosmic clock stopped about 70 A.D., that the Second Coming lies directly before us, that each of us is judged and the books on each person closed during his lifetime. Aristotle divided the cosmos into the sublunar realm, our own, and the supralunar realm of the Gods, but he believed the two never came in contact. Plotinus later on taught that the two realms do impinge on each other; roughly, they equal Earth and Heaven, and he taught that man could rise from the sublunar to the supralunar realm, see it and know it, although briefly; and of course the Christians teach that God, througl his initiative (which is what I feel) can bring the supralunar realm down here to impinge on man — which is called God's grace, and which I feel is what happened in my case. That the supralunar realm exists I have no doubt, having experienced it, and having been saved by that grace from certain destruction. That a wise heavenly father watches over us I have no doubt; and that we are judged I have no doubt; also, I believe that the second advent is coming, probably soon — that the first stages, which are the overthrow of wickedness, I have seen, first as prophecy and then as reality; as the Bible says, Elijah is preparing the way of the Lord, and the Lord, the Rightful King, who I have seen, will return soon and claim his peaceful kingdom. I have even witnessed the changes in the animals, in the form of a vision for a short while; I did not, at the time, understand why I saw the animals change, but the changes I saw are the ones predicted by the Bible, so the time cannot be far off. The gospel, which technically is not the godspell or good news, but the news of Christ arisen and to return — I have been shown that, and know that he was Holy Wisdom or the logos incarnate, and that the second incarna¬ tion either lies directly ahead or has already taken place.
+
+I'm sure, in my writing, that I will lose a lot of fans, in particular the Marxist fans in Europe, but I have been given the answer I sought for, and rejoice in it. I admit that when that answer came, that revelation of the absolute reality lying beneath the veil, it was a complete surprise to me, but I can think of no other so joyful, so wonderful. In my mind the picture of the Rightful King is so clear and so beautiful, and I have heard the voices of the host, and I know what a beautiful world lies ahead of us here and for us when we pass over into the supralunar realm, as all of us will. The Lord of the Universe, Jesus Christ, is beginning to assimilate our sublunar world to his father's universe; the end time has begun.
+```
+**Co-occurrences**: Christ, Christian, Holy, Logos, Jesus, Complete, Rome, Form, Kingdom, King, Bible, Wisdom, Lord, Perhaps, Advent, Plotinus, Elijah, Father, World, Only, Time, Earth, Cosmic, Holy Wisdom, Good, Mind, Book, Even, Gospel, Could, Realm, Reality, Jesus Christ, Although, Aristotle, Either, Gods, Probably, Grace, Still, More, Church, Heaven, Real, Before, Revelation, Universe, Will, Christopher, Would, Other, Have, Journey, Life, Absolute, Wise, Later, Having, West, During, Answer
+
+---
+### Line 3650-3658 (Match: 'Western')
+**Folder**: part will
+
+```text
+-6-
+
+If one had been informed that St. Sophia would be born again, then the next most important revelation would be an analysis and presentation of the nature of Christ, since it is Christ who is to return. This is what I just received. Dispute over His nature has been a prime source of trouble in the Christian churches since the beginning. I received a geneological table. I know what constituted Him and will constitute Him again. He has two natures, one of them divine, one human. The divine predominates. That divine portion is Holy Wisdom, the first emanation of God who created, along with God, the universe itself (v. Wisdom of Solomon). He was/is more deity than human, although he appears to be a man qua man. This syzygy appeared only once before, at 4 A.D., in the man known as Jesus. it will appear again: not as another man or entity but that very same man or entity, that very same Jesus who was here before. Orthodoxy is correct, except that the deity animating the entity is female; that is never said, but can be deduced once it is seen that Holy Wisdom of Proberbs 8 is the same as Christ. She is called she until incarnated, whereupon (as I was shown) she becomes actually masculine, a human man. She does not merely appear as a man but is transformed into a man: three yang lines express it. This is what is meant by John when he says, "The Word (Logos) became flesh." We are to believe this, as it is correct. My revelation is not contrary to scripture. It is there, but the implications have never been adduced, as they were for me. The Creative Logos, God's Wisdom, is she, not he.
+
+The EB in its macro article on milennialism says that "the violent intervention by God into history to alter the outcome of natural forces working for evil" is the hallmark of apocalyptic expectation. I say this event came already, in 1974, so from this I infer that the Final Days have begun. The "immediate direct aid of God" "reversing natural forces, and bringing a good outcome completely opposite to what all natural forces moved toward." This is precisely what I saw happen in 74. How does what I saw differ from this? The prophecy was given me before the reversal occurred. "It (the conspiracy) has been seen and we —I— will act to punish them." Thus ic came to be, finally. I was made a witness to the supernaturalness, the intervention; I saw it coming down from above, whereas other humans did not. Tyranny had sewn up the western world. And I had visions in the images used by Daniel and in Rev. These, I think, came by way of corroboration. Since it was evidently St. Sophia who led the attack, it can be said that Christ was the captain, since St. Sophia equals Christ. If the dream in TEARS is added, then all major themes in Daniel and Rev. are included in my experience. The EB mentions that the prosperous and successful would see no reason why God ought to intervene; only an alienated person would adjudge the system as evil and yearn for intervention. I fit this latter class. Look at my letters published before 1974. I cite this as a reason why I would be picked to see what happened, whereas other persons might not; it would make sense to me. Yet subsequent disclosures showed that my view in 72 and 73 was the correct one.
+
+Last edit almost 5 years ago by svayambhu108
+295
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Holy, Logos, Jesus, Sophia, Wisdom, These, World, Since, Only, John, Holy Wisdom, Good, Yang, Does, Just, Look, Once, Again, Although, Divine, Daniel, More, Another, Most, Actually, Before, Revelation, Macro, Universe, Finally, Will, Deity, Would, Other, Were, Very, Have, Days, Evil, Except, Human, Dream, Evidently, Whereas, Final, Until
+
+---
+### Line 3658-3666 (Match: 'Western')
+**Folder**: part of
+
+```text
+Needs Review
+295
+-7-
+
+It could even be argued that in my s-f writing I shaped apocalyptic visions over & over again (as the EB says about s-f). I was already —for decades— an apocalyptic writer. Also, I was deeply Christian, as critics have frequently pointed out. When I told of my 3-74 vision it was said, "We thought you had that long ago." I was set intellectually and sociologically for what I experienced. However, I did not anticipate divine intervention. It was a complete surprise to me, being ignorant of Daniel and Rev. One might say that if I saw the tyranny it would be logical (or anyhow possible) that I would see the structure of the overthrow. I KNOW WHAT ENTITY OVERTHREW IT; SURELY IT IS REASONABLE TO ASSUME THAT IT WAS THE SAME SPIRIT WHICH CAME TO ME PERSONALLY, AND MADE ME SEE. The question realy is not, Did God intervene? but rather, How many other times has He and does He? Studying this interven¬ tion it is not possible to answer this. For example, He may have intervened for the Protestant cause in the 16th century. He may intervene all the time. Still, no one has ever gone on record with the kind of experience and perception that I have had. Now couple all this with the "St. Sophia" prophecy. It tends to make one think of this intervention as (1) unique; (2) as part of the unfolding process of the Parousia, the "St. Sophia" prophecy being about that, His Presence returned. Also, viewed this way, one could well assume that the Parousia is not far-distant now, being linked with the "stone uncut by human hands" event, the overthrow by God of the western tyranny, it all being of a piece.
+
+I dreamed last night of a MS page of mine in which I had 3 consecutive paragraphs beginning with the word SHE, an obvious reference to the SHE SECRET Christ dream. In this more recent dream I found space on the page to insert a paragraph which did not begin with SHE (I felt it was wrong always to start with SHE), and I added erotic material, about nipples, etc. Now, thinking about this, I remember my first vision, proceeding all the others, which was of Aphrodite, and had to do with her right nipple; I wonder if there was an eliptical allusion to Aphrodite (cf Empedocles) in this recent dream. The dream, engendered from my own mind purely, is still valuable, as it recalls to me what I had forgotten, namely, the vision of the Cyrenaican Aphrodite beyond the golden rectangle door. Does this dream suggest (good lord!) that SHE is related to, or is, none other than the goddess of love known to the Greeks? Empedocles felt that Aphrodite was the steersman of all krasoi. This is all very anxiety-producing to me. I add, If so, indeed it would be marked SECRET, but I appeal to the philosophy of Empedocles to indicate a lofty as well as erotic element to this; He held her to be the ultimate entity drawing things & people together, "the star of love," which is how I ended my speech, meaning Christ. as the EB calls her, "The generative principle of all life." A mother goddess, not sex; doesn't the nipple point to this? Nourishing?
+
+*** Tonight on the NBC network news, Catherine Mamtam Macken told of a U.S. Government declassified document describing a new
+```
+**Co-occurrences**: Christ, Christian, Spirit, Complete, Sophia, Greek, Well, Parousia, Golden, However, Lord, Time, Good, Mind, Even, Could, Does, Anyhow, Again, Being, Empedocles, Divine, Daniel, Viewed, Still, Part, More, Star, Secret, Love, Mother, Would, Other, Page, Very, Beyond, Surely, Many, Have, Things, Life, Aphrodite, Remember, Government, Human, Dream, Doesn, Right, Answer
+
+---
+### Line 3821-3829 (Match: 'Western')
+**Folder**: Book of
+
+```text
+Last edit almost 5 years ago by etherfire
+2
+Needs Review
+2
+2 nowhere, except in Brahmanism, do I fires a descrip tit of the immanent all prevading disure stuff which I saw as the living force of causality, shining on the faces of the animals in the trash of the gutter in the stars - always in + behind, + subjectively experienced internally inside myself as an instructing tutular voice of that which was aware + seeing the divine without which (ay behind the phenomenological world; viz: "Brahman transforms itself into the universe or assumes its appearance?" Because of maya we are fooled into seen the phenomenological world as real, but, as I saw in 3-74, there is nothing there but Brahman "who assumes (the various) appearances. Here + here only do I find an explanation for what I saw: in 3-74 I stopped hypostatizing, + there lay the divine stuff in place of why thing. The they were gone; the it shone throughs from what had been high, low, me, not me small carge, important trivial. Liberation, not theoretical but actual. This is the universe organism which I perceived to be the macrocosm alive + unitary. Also it is belicued in Hinduism that all this is personified - by vishws. If by he who is called Vishnu then we com call this Christ - the personification to the western world, in terms of our linear-time cultural oneels + v.P. All I can say at this point is that I saw this because the Atman in me is identical with the external world: the (my) projection machiner turned off dering my descent + integration - it (maya) was involved in the mainterance of the phenomenological world, so that departes, briefly, but for long enough. So I encountered: 1) The Atman (inner divine possessing personality + guiding voice) 2) Maya - I knew it when it left 3) Brahman - which the Atman saw ubiquitously outside 4) + my Roman life memories point to transmigration + 5) my deed vis-a-vis the Xerox letter points to Karma. All the major elements of Brahmanism! I
+
+Last edit almost 3 years ago by svayambhu108
+3
+Needs Review
+```
+**Co-occurrences**: Christ, Xerox, Brahman, Roman, World, Because, Only, Time, Karma, Maya, Atman, Divine, Without, Nothing, Brahmanism, Living, Real, Voice, Universe, Were, Life, Except
+
+---
+### Line 3848-3856 (Match: 'Western')
+**Folder**: part I
+
+```text
+Last edit over 4 years ago by dstoerger
+
+6
+(6) - A major point I've missed is that although the 3-74 changes in me where emotions & unexpected & almost beyond belief, I knew that the vast self disclosed was my real state, identity, essence, & the reality I saw (equally [Dr?]- [Dr?]) was the way reality really is - without any explanation in them to account for it. How, offhand, are you going to account for remembering you are a God - & discover that the only reality outside you is God? In that there is nothing but God anywhere, inside n out - you & all the objects in the phenomenal world are illusion - & all is alive. To realize this is to realize that no western theology fits; only the realization of Brahman fits.
+
+Maybe this is why I don't feel lonely - perhaps knowing I am part of the Living Brahman (even though I can't see it any longer) helps. How can my world be empty & lonely now that I know - & have experienced - this? One part which appeals to me enormously is to know that, as with Ubik, Brahman is as present in trash, nearby & small, temporary things as it is present everywhere. I do not have to seek my God or savior only in sacred or lofty, distant (or next life) places. I am very comfortable with this idea, as witness Ubik. Probably it was Brahman in me who liked this idea & which wrote Ubik through me. Ubik (the novel) could be said to be Brahman's view of itself, its awareness of itself, the Ātman in me experiencing the world composed of itself. Runcites of Ubik (the entity?) break through in the oddest places - like Brahman revealing itself in the trash of the gutter, to me. What else could Ubik be - ubiquitous - {carat: "but"} Brahman? The finit quality in both of them is that each of them is everywhere.
+
+Last edit over 4 years ago by sarcee
+```
+**Co-occurrences**: Ubik, Brahman, Perhaps, Maybe, Like, World, Only, Savior, Even, Could, Both, Reality, Although, Self, Probably, Without, Nothing, Part, Through, Living, Real, Very, Beyond, Have, Things, Life, Sacred
+
+---
+### Line 5980-5988 (Match: 'Western')
+**Folder**: book but
+
+```text
+Last edit almost 3 years ago by svayambhu108
+10
+Needs Review
+10
+o the errors in Ubik are: to regard this rollback + exposure of the past via the form axis as a decay. Claudia pointed out that decay = entropy, + the entropic process lies forward along the [linear time axis, not back. I had already speculated that the entelechy-developing axis might lie retrograde to linear time, which leads toward entropy, + entelech development is negentropic. Another error is to assume that the entity "Ubik" has failed to act as a successful "reality support" - that a failure in general, of cosmological forces involved. These errors are due to my unconscious acceptance of the Western view of forward - linear time as a progress phen‐ omenon, the whole western notion of continual progress forward as the years roll by: if this is unconsciously accepted as so, then any roll back along any axis has to be viewed as loss + decay one thing it certainly is not is loss. Comes now the EB article on salvation, which equates [forward linear] time with decay + death. Salvation means salvation from - victory over - decay + death, + for this to occur, forward moving linear time would have to be abolished, rolled back or somehow nullified (achieving "mort stugebit et natura"). The final determinutic tyranny which makes This place a prison is time, which equals fate or [astrological] destiny which equals linear forward time. True freedom from this "prison" would involve at its ultimate stage a release from linear time. I experienced this in 3-74 in two ways: the rollback along the form axis to Rome to Babylon + the eerie awareness of programming vis-a vis external "signals" (+ also possibly a forward motion along the form axis to the Palm tree Garden, the Kingdom yet to be realized in linear time) (in which case if the Palm tree Garden is the Kingdom of God, I was released from the tyranny - prison - of time + allowed to go forwars instead of back: if this is so, the solution to the Q of where is the Kingdom + how do we get to it?" is answered by "by being lifted out of the realm of [linear] time." This would explain how I (but only I) could experience all the sequences of the end-times; those end time events hadn't occurred [yer] in linear time. But I was no longer in linear time, but had gone to the endi
+
+Last edit almost 3 years ago by svayambhu108
+
+11
+```
+**Co-occurrences**: Ubik, Rome, Form, Kingdom, These, Prison, Only, Time, Garden, Could, Realm, Kingdom of God, Reality, Being, Fate, Palm, Viewed, Those, Another, Babylon, Certainly, True, Death, Would, Somehow, Back, Have, Tree, Claudia, Freedom, Instead, Salvation, Final
+
+---
+### Line 10188-10196 (Match: 'Western')
+**Folder**: part of
+
+```text
+Complete
+85
+terms (balance, harmony, right proportion, etc). The bedrock of this system is a melding of a religion of the west (Christianity; with a philosophical cosmology of the East) Taoism which does not hypostatize a deity but does hold vigorous concepts e.g. "the correct path," to draw from Parmenides, who evidentally hit upon a Taoistic system without any knowledge of Chinese thought.
+
+There is, then, in this system, a kind of "Tao of Taoism" in that it borrows both Eastern + Western cosmogonical + cosmological + religious concepts to account for that which, for example, Christianity alone seems incapable of reasonably explaining.
+
+Will Durant (in "Our Oriental Heritage") declares that explaining undeserved suffering is the cardinal work of religion. If this be so, Orthodox Christianity is a failure (v. the E.B. macro article on Christianity's failure to explain suffering of the innocent, esp children), + Taoism, taken alone, is an elitist worldview which accepts reality as it is because it is as it is (in contradistinction, e.g. with Zoroastrianism), what is most firmly rejected in the Hindu reasoning that somehow suffering is only an illusion.
+
+My system states, "the Godhead is in difficulty. Evil is not the manifestation of an evil deity nor a sign of God's vengence, etc. But an [..] the lower or microcosm of the difficulty in the macrocosm or pleroma. The yin aspect has exceeded its proper limits. perhaps as an oscillation of a great supratemporal cycle, + rectification is apparently in progress."
+```
+**Co-occurrences**: Complete, Christianity, Perhaps, Godhead, Parmenides, Because, Only, Does, Taoism, Both, Reality, Great, Without, Most, Upon, Zoroastrianism, Macro, Will, Deity, Somehow, Hindu, Apparently, Evil, Knowledge, Eastern, West, Lower, Durant, Pleroma, Right
+
+---
+### Line 12122-12130 (Match: 'Western')
+**Folder**: book has
+
+```text
+Last edit almost 5 years ago by sekennedy62
+
+51
+Negative hallucination, which I lost temporarily in 3-74 but regained (inc analog memories). The truth identical to the coded message - news - in "Tears." Christ returned + we can't see him. But what the hell is the BIP? The source of the negative hallucination? (+ more - the whole evil power or being or entity. It's a prison. Are we in it, or just near it? K.W. talks about the gravity of a black hole which warps all to it. It's a construct made out of metal. Rome epitomized. But not just secular Rome - Rome, rather, as the expression of the dark power, which took over the Xtian church in that juridical structure (v. E.B.). The whole penance, sins ledger, which the E.B. says became the basic relationship between man + God in the western church (cf Paul's "Romans" letter - barf). The lie that man is sinful (culpa). Aha - again the exculpatory news, here involving man: "he was found innocent because in fact no crime had been committed." Mankind in toto exonerated, which perhaps implies the great assize. Yes - did the old king judge, + exculpate us all? So in truth we are freed but can't see it. The whole motif is one of emancipation. i.e. successful salvation.
+
+Q: Why should the good news have to be encoded? It must not only from the ostensible message of "Tears" but from what we are told generally - i.e. the exoteric theological narrative of our civilization. What immediately occurs to me is the BIP motif, + the need for secrecy of the true church. The BIP, its enemy, holds power, + the secret church is committed to demolishing it. There is a dialectic bipolarization between them. What is the BIP in term of what we see? And of what we see - or
+
+Last edit almost 5 years ago by sekennedy62
+```
+**Co-occurrences**: Christ, Tears, Christian, Rome, King, Paul, Roman, Perhaps, Because, Prison, Only, Black, Good, Just, Again, Being, Great, More, Church, Secret, True, Judge, Have, Dark, Evil, Dialectic, Truth, Salvation
+
+---
+### Line 12960-12968 (Match: 'Western')
+**Folder**: book of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+116
+So with me there is input + output; I act boosting component, + a broadcasting circuit the total system. Strangely, "Deus Irae" is enor successful on the market. It's gone everywhere great quantity, here + abroad. Critically condemn universally, but still widely circulated. By now must be a very large number of copies floating ar the western world. Is it possible that the space operating in me subliminally, worked its was through e.g. "Ubik" + "Maze" + "Tears" in order overtly state the good news in "Deus Irae"? seems to be its M.O. it worked backward, i.e. teleolog via my 3-74 experience + "Tears" I acknowledged consciously - it had begun to function in me on i conscious level at last. This might involve an intrine e prolonged evolution of its relationship with me, to at this point; it couldn't abruptly start. by 3-74 its physical protection of me was also oper extended (i.e. Zebra's "melting"). Thus I survived to o plete "Deus Irae" + get the essential kerygma into it t to complete "Scanner," which studies enslavement + ment, vs joy: completing the theme of "Tears." Jerusalem bible notes. "Felix was avaricious, co + dissolute (sic!). "By detaining Paul, Felix whi t breaking the law." All this conforms to Felix "Tears". In glancing through Acts I am t again amazed at the overlap with "Tears. Paul brought before felix the character (supra) of Felix scene with the black man. Paul's conversion on the p to Damascus. Even the mention of "3 Taverns"! course Jason is mentioned. a tly +
+
+Last edit almost 3 years ago by svayambhu108
+```
+**Co-occurrences**: Tears, Acts, Ubik, Zebra, Complete, Paul, Felix, Bible, Maze, Scanner, World, Black, Good, Even, Kerygma, Again, Great, Jason, Deus, Still, Through, Before, Irae, Very, Deus Irae
+
+---
+### Line 17390-17398 (Match: 'Western')
+**Folder**: book which
+
+```text
+Indexed
+folder 21 - 067
+65
+
+at the time - I was sure of it. I knew it. And the Elisha & "Alto Carmel" dreams. The way I figured it, he had returned as John the Baptist + hence was so afraid of the Romans, despite his fiery vigor. + I put out the cup for him - + I bought that book which told how he enthused people at Easter time. + the dream about Elias! (Bowed in sorrow at the Xerox letter not being returned to those who sent it.) I still have the drawing of Elijah up on my bedroom wall. Then Elijah scourged this land (re the Empire: i.e. Nixon) to pave the way for the 5th savior who, uniquely, will be Lord and Judge. Thus, almost 5 years later, I return to my original, initial view about who took me over - but this time on scriptural grounds; viz.: because I know it prepared the way for the 5th savior who is soon to come, or has been born already. I long have forgot the ferocity of "Thomas" - he was anything but meek. He was like a whirlwind. He was like the ira itself. After all, he hurled down the Western Empire, pitting himself against the modern King Ahab. He made the land acceptable to God. "A record was written before [the Lord] of those who feared him + kept him name in mind. They shall be mine... + I shall spare them as a man spares the son who serves him... the day comes, glowing like a furnace; all the arrogant + the evil-doers shall be chaff... but for you who fear my name, the sun of righteousness shall rise with healing in his wings, + you shall break loose like calves released from the stall. On the day that I act you shall trample down the wicked
+
+Last edit over 8 years ago by Toso
+folder 21 - 068
+Indexed
+```
+**Co-occurrences**: Toso, Thomas, Indexed, Xerox, King, Empire, Roman, Lord, Elijah, Like, Because, John, Time, Nixon, After, Folder, Savior, Mind, Book, Being, Toso
+Folder, Himself, Indexed
+Folder, Those, Still, Before, Easter, Will, Judge, Have, Later, Evil, Elisha, Dream, Baptist
+
+---
+### Line 24879-24887 (Match: 'Western')
+**Folder**: Part of
+
+```text
+Indexed
+folder 48 - 053
+853
+
+But it can kill, if misapplied. __ God causes whatever exists to exist, but this is not artificer to artifact, the latter idea having thrown me off. Because he can utilize reality as a direct expression of his will - which the artifactual model does not explain, or provide us a clue to. He can be his "artifact" so that division between artificer + artifact is abolished (as if a cause need not proceed its effect). This is not evident from western doctrines of divine transcendence. However, if you suppose him to think reality [into existence] rather than fashion reality, you can understand this. The reality is there only insofar as he thinks it, + borrows its being from him, having none of its own. He is neither within reality nor above. It is a matter of levels of ontology, as Plotinus realized. I find it incredible that anyone could conceive of his relationship in spacial terms, as Spinoza realized. He is transcendent in that he is superior to it, + not just its psyche. He is immanent in that he is where it is + not not where it is. He can cause something to follow which only seems to follow causally, since he is the true cause, in the sense of causal trains, + not just efficient cause. (He doesn't just start it off.) So he is within (during) the contuing process. Well, then by + large Spinoza is correct. So the universe is not an object. It is not a thing. Part of the reason it seems substantial to us is due to an occlusion of our senses that blinds us to its insubstantiality. If we could see it better we'd see it as a "you," not an "it." Thus the universe as universe would disappear + he would not have caused to exist
+
+Last edit almost 7 years ago by Toso
+folder 48 - 054
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Well, However, Spinoza, Plotinus, Since, Because, Only, Folder, Could, Does, Just, Something, Suppose, Reality, Being, Divine, Toso
+Folder, Indexed
+Folder, Part, True, Universe, Will, Would, Whatever, Have, Artifact, Neither, Having, During, Doesn
+
+---
+### Line 25512-25520 (Match: 'Western')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 128
+922
+
+Spinoza was a crucial help to me. This view ("Deus sive substantia sive natura") does not lead to the Platonic body-soul dualism but leads back to world-affirmation. To immediate deity. God + nature are inexorably inter-involved. The problem is that a mock creation has filtered in, which must be transubstantiated into the real, by YHWH. My God - I seem to have become profoundly anti-Platonist! (Cf. "Beyond the Tragic Vision" re Plato). As if correcting the error Plato made vis-a-vis Parmenides (i.e., when I wrote: "Parmenides" did not say there were 2 realms, a priori + empirical; he said there were 2 ways of viewing one realm, one right way -a priori- + one false - empirical. Plato misunderstood this + assigned some reality to the empirical as if it were a partial realm, rather than a way of knowing, a partial way, not realm."). + the other basic error in Western philosophy (held by, e.g. Pythagoras and the Orphics), corrected by Plotinus, was the error that the journey of the soul was spacial: first down from the cylum past the planets + then back up again (an error held, again, by Plato!). In this ontological view of the journey, rather than spacial, Plotinus anticipates Heidegger. The upper realm is spacially here, not there. I should know; I entered it, in 3-74. + if here, it can be entered in this life, not just after death!
+
+Last edit almost 7 years ago by Toso
+folder 48 - 129
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Plato, Spinoza, Plotinus, World, Parmenides, Platonist, After, Folder, Pythagoras, Does, Just, Realm, Again, Heidegger, Reality, Platonic, Orphic, Toso
+Folder, Deus, Indexed
+Folder, Soul, Real, Death, Deity, Other, Creation, Were, Back, Beyond, Have, Journey, Life, Body, Upper, Right
+
+---
+### Line 30207-30215 (Match: 'Western')
+**Folder**: folder 49
+
+```text
+& the Golden Fish sign.
+
+& my revelation about Freedom vs the B.I.P., & the 30 Years War, & Rome.
+
+What I am dealing with is the inbreaking of God - v. the dream in "Tears" - into history. cf Joseph Campbell's analysis of the passivity of Oriental religions vs. the dramatic good vs evil war of western religions.
+
+Last edit almost 9 years ago by erica snowlake
+folder 49 - 162
+Complete
+```
+**Co-occurrences**: Tears, Complete, Rome, Fish, Golden, Golden Fish, Folder, Good, Revelation, Campbell, Freedom, Evil, Joseph, Dream, Joseph Campbell
+
+---
+### Line 32593-32601 (Match: 'Western')
+**Folder**: part of
+
+```text
+Needs Review
+90
+comes into existence and alters due to what happens on this plane. which is to say , all the events in the short-term ontogenic realm add up to the long-range phylogenic realm, as if Plato's world of Forms was dependent on the phenomenal world for its existence. It is Plato turned around, in a sense.
+
+So events here affect the phylogenic realm, but events here cannot be understood except in their phylogenic mode. One could say that the events happen here but their meaning is there (in the phylogenic realm); this is a Hegelian sort of view of history. That means that those who know —and those groups who Know— the phylogenic realm and its meanings and constants are going to try — do try and art successful— in controlling events in our ontogenic realm, where we do not see the phylogenic significances...which is to say we do not know the meaning of our own actions. Those who know of the phylogenic realm and can enter it at will are in a position to influence it by means of actions here in our ontogenic realm. They then are the real masters of reality. Who these people are I have no idea but they must exist, since entry into the phylogenic realm is possible, as I know from my own experience. This, then, is the secret history of the western world. It is very possible that the- war in the phylogenic realm is currently being fought between, progressive Communism and reactionary capital¬ istic imperialism. According to my assessment a victory or the part of progressive Communism would advance the clock of the phylogenic realm, and may already have done so.
+
+Last edit almost 5 years ago by svayambhu108
+
+91
+```
+**Co-occurrences**: Form, Plato, These, World, Since, Could, Realm, Reality, Being, Those, Part, Their, Real, Secret, Will, Would, Very, Hegelian, Have, Except
+
+---
+### Line 33478-33486 (Match: 'Western')
+**Folder**: part of
+
+```text
+1This is what happened in 3-74 and why I didn't die; why I feel that my karma got burned up or dissipated harmlessly. I was given new and additional life, and experienced a vast surge of psychic energy.
+
+2I experienced enantiodromia of my waning energies; I was "born again" or "born from the spirit" or "born from above."
+
+3The opposites in my total psyche which had contended and worn me down became suddenly united in the mysterium coniunctionis, the Western alchemical term for the Chemical Wedding (of psychic opposites); this is the true goal of both Western and Chinese alchemy.
+
+4This is what I called Firebright. I could feel him there,
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Spirit, Karma, Firebright, Could, Again, Both, True, Life, Suddenly
+
+---
+### Line 33722-33730 (Match: 'Western')
+**Folder**: Unknown
+
+```text
+-24-
+
+the strong (Yang) and enantiodromia of estrangement of the opposites, total bipolarization, into reconciliation, the hierogamy. This would be quite some transformation: weak into strong (Yin into Yang, or Form Two into Form One) and total estrangement into total reconcilia¬ tion and equilibrium (this would also be Empedocles' strife turning into love thus producing a total krasis in me). (And based on the micro- macrocosmic principle of correspondence, like to like, I would then perceive the macrocosm as one vast krasis.) (X.e. Valis, which I now think is the Ch'ang Tao.) Enantiodromia along two axes simultaneouslyI Weak to strong; strife to union. And all focussed around the golden fish sign...the shock of moksa upon seeing it initiated the double enantiodromia. Mysterium coniunctionis.
+
+My revelation is clearly a cumulative Western Taoism, in which the dialectic functions to provide new components for the building —assembling— of a kosmos that will replace the original creation, which to the new kosmos is a mere chaotic stockpile; this kosmos is a latent structure pervading our universe; it is one level higher hierarchically: we see only the plural components at our level, rather than the unity at the next higher level. This kosmos is self-assembling, sentient and alive; it is totally homeostatic, having brought itself into existence. There is a micro- macrocosmic correspondence; for example, it willed itself into existence in me as a microform of its macroself. The kosmos exists through a secret reconciliation or marriage of the contending opposite forces of the dialectic that are responsible for the strife and flux at our lower outer level.
+
+It is possible that the reconciled realm of the phylogons
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Valis, Form, Fish, Golden, Like, Golden Fish, Only, Yang, Taoism, Realm, Kosmos, Empedocles, Self, Through, Flux, Upon, Secret, Love, Revelation, Universe, Will, Would, Creation, Clearly, Form One, Having, Dialectic, Lower
+
+---
+### Line 34050-34058 (Match: 'Western')
+**Folder**: folder 01
+
+```text
+here ubiquitously in the spatiotemporal world but we can't discriminate it normally.
+
+In no way does Gnosticism account for my experience.
+
+The E.B. Macro article on "The History of Western Philosophy" says of Plato's theory of the realm of Ideas: "Without such shapes, which are copies of Ideas, there would be complete chaos, in which nothing would be recognizable. Furthermore, it is impossible to build up any system of knowledge without constantly preferring what is formed +, thus, recognizable to what is not, what is true to what is false, a sound logical conclusion to a logical fallacy, even an elegant scientific demonstration to a clumsy one; i.e., without considering the former as Good + the latter as Bad. In this sense at least, there is no such thing as value-free science."
+
+This well-states the necessity of abstracting + the enormous consequences of ultra abstracting - its relationship to flux, multiplicity, chaos vs the ability of the percipient to distinguish in this a latent or meta order. This strikes at the roots of our experience with + encounter with reality as a whole, whether reality will "be" (i.e. be experienced as) chaos entirely, partly chaos + partly order, greater order + less chaos, more unity + less multiplicity - quantum leaps, vast ones, in which whole multitudes of pluralities become Gestalted as structure; or, as in 2-74, space-time continua seemingly separated by 1000s of years + 1000s of miles are suddenly seen as identical (the same, one - not merely similar or tangent), by the utilizing of an otherwise (formerly) unsuspected [form]axis, based on the above-stated Platonist notion of a real realm of Ideas (cf "Ubik").
+```
+**Co-occurrences**: Ubik, Complete, Form, Plato, Well, Gnosticism, World, Time, Platonist, Good, Even, Does, Realm, Reality, Without, Nothing, More, Real, Such, Flux, True, Macro, Will, Would, Whether, Knowledge, Suddenly, Greater, Otherwise, Free
+
+---

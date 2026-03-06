@@ -1,0 +1,358 @@
+# Evidence Packet: Dante
+
+- **Category**: Top Term
+- **Total Mentions**: 74
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 72-80 (Match: 'Dante')
+**Folder**: part of
+
+```text
+If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? I was indeed describin the Parousia when I described the "decay" along the orthogonal axis in UBIK which is logical). I myself first hit the Dies Irae when I first dropped acid (about 350 [mices?]). It was cold, it was hell; I used it in later books (e.g. UBIK, [MAZEF?] OF DEATH). Now, how come I in March experienced what you're supposed to only after you're dead? I was judged and so forth, all those things, now. Either this says something about what befell me, or what befell our world in March 1974 (or both). Was it a freak thing for me, a dispensation or accident, lke being allowed to stay up late or all night, etc. as a child?
+
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+
+The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat I tossed the St. Christopher's medal into his grave with him, poor rat who only wanted to live. But you see how I had been educated by that dreadful morning: the rat had to be killed because of my little girls. It was a lesson for me, uniquely my lesson: that death was unavoidable in more than the descriptive way: that creatures do die. I saw that day that sometimes they should die; that it was of a moral necessity that I literally kill that rat. I never had that rat's
+
+Last edit over 5 years ago by A23
+```
+**Co-occurrences**: Ubik, Spirit, Rome, Form, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+
+---
+### Line 1171-1179 (Match: 'Dante')
+**Folder**: part of
+
+```text
+Here is something hard to express, but important. Going back to Plato and Neoplatonists. If the soul remembered each life, and if there is reincarnation, and if the soul acquired wisdom each time around, THEN what I experienced (anamnesis) is exactly the breadth and magnitude of wisdom commensurate with these many live, and of the quality which this and only this wisdom -- acquired this long, laborious way-- could consist of, could have gathered. What I saw (space and time), what I understood (how the universe worked), my total awareness, is exactly understood commensurate with the Platonist and Neoplatonism (and Pythagorian) idea of rising each time, rising but forgetting, and the value of anamnesis, the removal of amnesis. What was remembered was the wisdom and understanding that was the aggerate of all these lives, and proportionate thereto (consider how many...perhaps thousands). Nothing else really was retained (although the dreams show local details sufficiently).
+
+But of all that I understood, a union with God by means of the Logos meant most to me. To rise up, assisted by the Logos. The double action: reaching up/reaching down. The Guide (Erasmus). qed
+
+I think that my seeing the Levant in Feb 1975 is as important, although less striking, as my seeing Rome in March 1974. In both cases, the thrall of time was removed, disclosing the eternal world, in Dante's sense. A transition had been made in that world (it is hard for someone unacquainted with Medieval thought to understand progression in eternity, but the basis would be a progression or procession of Platonic archetypes[.] The archetype in March 1974 was Rome and Iron and Slavery, with a corresponding need to fight for freedom, truth and justice; however, a year
+
+Last edit over 5 years ago by Harpax
+82
+Needs Review
+```
+**Co-occurrences**: Logos, Rome, Plato, However, Wisdom, These, Perhaps, Plotinus, World, Iron, Only, Time, Platonist, Harpax, Could, Something, Both, March, Although, Platonic, Anamnesis, Nothing, Soul, Most, Consider, Universe, Would, Erasmus, Back, Many, Have, Life, Justice, Freedom, Truth, Someone
+
+---
+### Line 1343-1351 (Match: 'Dante')
+**Folder**: book certainly
+
+```text
+I have experienced what Jesus predicted: the change from one aeon to the next; and the next is rightful kingship, an improvement, a lifting of thrall by a[n] ursurper, somehow connected with C[h]ronos, Father Time (maybe the game of dr[o]ughts is ending; vide Heraclitus: the old child God, Chronos, playing a game of draughts in defined --regulated-- moves. That is the aeon which is ending; I saw that game, too, the player and counterplayer. This fulfills what Zoroaster foresaw: the end of the two-Person game, finally, in a victory of justice, truth, regulation, for ma'at; for Form One; for Light. This is the period Jesus, Paul and John compared to birthpangs, a laboring of bring forth; the whole universe and each sorrowing man being in such labor and pain...but if he could see the issue ahead! The Christian is he thinks of this world now, with its ursurpacious rule, feels bad; if he thinks of the rightful kingdom coming, he feels good -- thinks I mean of the future. But I say, this future is materializing, rising up as if a second new archetypal aeon "slide" were being projected: springtime. We can thus being to sense it lift now and rejoice now.
+
+(There may be a h[y]steresis lag in our sense perceptions; we don't see what is, but what was X time-length ago.)
+
+Another thing I saw, which I must not forget, is that I saw that I had been seeing the universe backward, esp. in time; which I finally decided meant that I was seeing "the reflection, as in the bottom of a polished metal pan," but had begun to see the Real Universe, which of course is reversed from the mere cave image. Thus, the picture is of winter; the slide itself the reverse: springtime (vide the trigram wheel of opposites). In Dante's schema: if it is winter here, it is springtime there in the Real World.
+
+Last edit over 5 years ago by Harpax
+95
+Needs Review
+```
+**Co-occurrences**: Christian, Jesus, Form, Kingdom, Paul, Father, Maybe, World, John, Time, Harpax, Good, Light, Could, Heraclitus, Being, Zoroaster, Another, Real, Such, Universe, Finally, Somehow, Kingship, Were, Have, Justice, Form One, Truth
+
+---
+### Line 1530-1538 (Match: 'Dante')
+**Folder**: part pressing
+
+```text
+Last edit over 5 years ago by Harpax
+108
+Needs Review
+108
+This is very much a confirmation of Aristotle's idea (mentioned in Dante) of three distinct human souls in each person, two of which are mortal (as I recall the vegetable & animal) and then one which is immortal, which is pure thought that delights in philosophy and contemplative wisdom, etc. Possibly, since what the daimon brought to me in anamnesis was memory of notable ideas and thoughts of Attic Greece, only this soul is retained by the daimon, carried off out of the dying mortal man; just as when we tape record what we hear on the radio we do not tape record everything, we record just what we consider to have an enduring value. Thus, the spirit brought me no trivia of that time period, but its "third soul" sophia-like concepts.
+
+To clarify, then, each of us is not immortal, but partly immortal; parts do die off and wither away with the body, but one part retained by the daimon as it leaves the duplex dialo[n]g fusion goes on into the collective demiurge, forever.
+
+. . . Meaning RM about the Will. It was not that my will was replaced by another or another's, but that my passive, willness, learned-helplessness was replaced by a Will, but not mine; from the unconscious, whatever and wherever that is...also, it not only decisively chose, but it chose and [?] before the danger (which had to be responded to) arrived; which alone disclosed its supernatural quality. That this will was in me but not mem that it came "trailing clouds of glory," that it was as the daimon of the Greeks is described --an indwelling guardian deity or mediator between man and the gods-- shows me my own nature: that although I don't have any true will, there resides in me a very powerful true will and it acts to preserve, guard and protect me; so I am very [?] as possible. Certainly few men know this about themselves, and their condition. I am not alone. This entity, whether as the [?] Greeks believed it is a shade of one who lived during the "Golden Age" (i.e. in my case Brasmus) or actually, Dionysos -- the fact remains that it is armed with total knowledge and total wisdom. It is indeed god-like, even if it was once a mortal (again eg Brasmus). Now it is not mortal; it is bonded to God just as it is bonded, evidently, to me (the mediator, as described). To lose contact with either me or with God would be for it to lose its role as mediator; it must link up at both ends, upper and lower. It is either divine or semi-divine; I certainly knew this about it at once. It partakes of God's vision; I knew this at once, hence I thought it might be Elijah. But Rollo May causes me to examine the fact that it is my will, the only will I have, and it is not me; it is superior to me, for which I rejoice. I think that the pure bubbling joy I felt several times (e.g. when I was loaded, when I heard it laughing, the whole springtime vision) indicates it to be Eros, who brought life, motion and joy to the world; certainly, when not acting as pure will (during the original crisis danger threat situation) it is joyful, even playful. Perhaps more important than it being my will (although that does maintain my life, especially in crisis), (and perhaps underlies all my writing, which is from my unconscious and involves my will, or rather it, its will) is the fact that it is my [G]round of being with whom I can engage in dialog. (Ala Buber.) I have touched my ontological nature, here. Nietzsche is right; the will is the ground of being. And the will is superpersonal or transcendent. I will never be able to view myself as I did before: the weak, puny mortal at the mercy of all the forces of his society & universe. It is
+```
+**Co-occurrences**: Acts, Spirit, Sophia, Greek, Golden, Wisdom, Dionysos, Perhaps, Elijah, Like, World, Since, Only, Time, Harpax, Even, Does, Just, Once, Again, Both, Being, Although, Everything, Divine, Aristotle, Either, Gods, Anamnesis, Part, Their, More, Another, Soul, Ground, Actually, Certainly, Before, Consider, Greece, True, Universe, Will, Deity, Would, Very, Attic, Whatever, Have, Life, Body, Memory, Whether, Knowledge, Upper, During, Human, Lower, Evidently, Right
+
+---
+### Line 1621-1629 (Match: 'Dante')
+**Folder**: book COSMIC
+
+```text
+Our philosophy comes from Greece, our basic ideas.
+
+..Adds up to nothing..
+
+Aha: Erasmus, my guide, was the greatest Greek scholar of the most-medieval (i.e. post ancient, then) world. Clue?? Because the Holy Other is a mind which reverts fondly to Attic Greek, and Attic Greek is a human language/invention; the gods don't speak Greek, men do. And daimons were later on thought to be great men from the Golden Age, acting, like Virgil to Dante, as guides from above. I guess, though, that Dionysos & Zagreus spoke Greek...anyhow, since I know no Greek, it is evident that another will or volitional entity entered my mind and joined with it, at one time (3 74) taking control entirely, both in terms of perception but in viewpoint and action. The Holy Spirit is said to be able to do all these things, including the medical advice or healing. Perhaps it and Socrates' daimon are one and the same.
+
+Last edit over 5 years ago by Harpax
+115
+Needs Review
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Greek, Golden, Dionysos, These, Perhaps, Like, World, Since, Because, Time, Harpax, Mind, Anyhow, Both, Zagreus, Great, Gods, Nothing, Another, Most, Greece, Will, Other, Were, Erasmus, Attic, Things, Later, Socrates, Human
+
+---
+### Line 7895-7903 (Match: 'Dante')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+76
+24 What initiated this transfer process is that sudden. very short but overwhelming return of memory ths if is, in the final analysis- memory of (3; hence the person suddenly knows about ➂ knows it is there - + knows ➁ therefore to be spurious. Now of he canonly get back to (... well, he has a guide + advocate. As a matter of fact, it was this advocate, comforter + guide who arranged the disinhibiting signal which caused the instant of anamnesis; the initiative is by God, + man responds Upon sketching the above schema, I can unerringly see the Xerox missive matter for what it was: it was the first step (part) of the damned, destructive, dooming, killing, falling Maze which the psychopomp led me through + out of - + then on to the beatific reunion with the father. Maneuvering me successfully out of the cul de sac re the yorox message - if I view him as psychopomp, as guide out of a state of dam‐ nation to grace, security - i.e. salvation - it started out as a very tangible salvation, + got better. But that is the name of the whole thing: Maze, doom, + then the psychopomp‐ Savior. As soon as the concept of psychopomp is introduced (as Vimic was to Dante) everything that happened is so easily understood + appreciated. + that which seemed so mystifying + complex is suddenly simple. Of course, one might immediately ask, "who was this psychopomp?? It was Christ (God) of course. What if this psychopomp were the Pantocrator? by the way - Shiva is a psychoromp: "herdoman of souls Hernies (MW 2) was a psychopompos. 8133 Hermes Tristmoges tos is thoth
+
+Last edit almost 3 years ago by svayambhu108
+77
+Needs Review
+```
+**Co-occurrences**: Christ, Xerox, Well, Maze, Father, Therefore, Savior, Shiva, Missive, Everything, Xerox Missive, Anamnesis, Grace, Part, Pantocrator, Through, Upon, Were, Very, Back, Memory, Suddenly, Comforter, Hermes, Salvation, Final
+
+---
+### Line 13729-13737 (Match: 'Dante')
+**Folder**: part of
+
+```text
+Indexed
+87
+88
+
+The dream in "Tears" strongly suggests a contemporary in-breaking + not a steady state. The early Xtians were clearly aware of the adversary. It was very palpable in their world (Rome CAD 45). During the intermediate times (cf Dante) Rome was considered friendly, but in the US in the 1960s, "Rome" -ie the Nixon Federal Government- once more occupied the role of a hated oppressive power; ie the world of Acts was reconstituted, + so USA 1974 + Rome CAD 45 lay juxtaposed on the form-axis via "Tears." Thus the mystical body could ignore the intermediate 1900 years. The stance in those centuries simply wasn't there: the two arcs didn't reintersect until the 1960's, at which time it would seem that the authentic Xtians saw their chance to do in the satanic adversary - + did so. ___ "Ubik" depicts a decomposing reality, + UBIK's (the Logos') effort to revitalize it, to pull it together again. ___ Bill Sarill points out that my description of the magnet imposing absolute sameness everywhere is a description of entropy, of the thermal death of the universe. Conversely, the flash point (critical mass) explosion of the brain would be the hoped for negentropic "Big Bang" start of a fresh cycle of the universe, which, if not acheived, means the eventual end of the universe, through insufficient mass (matter).
+
+Last edit almost 5 years ago by Toso
+88
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Christian, Ubik, Toso, Indexed, Logos, Rome, Form, World, Time, Nixon, Could, Once, Again, Reality, Bill, Brain, Those, Their, More, Through, Death, Universe, Would, Were, Very, Clearly, Absolute, Body, Government, During, Dream, Until
+
+---
+### Line 13865-13873 (Match: 'Dante')
+**Folder**: book of
+
+```text
+Last edit over 5 years ago by Toso
+folder 02 - 009
+Indexed
+folder 02 - 009
+I witnessed, then, in 3-74, eternity breaking through into the temporal order, with enormous + benign consequences for the temporal order, i.e. USA 1974. So I am correct in assigning an absolute designation to Thomas + his world + a relative one to me + mine. But I have the promise of, upon my death, being taken into that absolute, eternal order. I saw my name entered in the Lamb's book of life. As I see it now, Thomas didn't surface to cope with the xerox missive - that was like Chrissy's birth defect: part of a package. What he primarily surfaced for - was in me for - was the historical irruption into US history (in which "Tears" played some role) - + perhaps the letters Thomas wrote. As regards the world of Acts being equated with the upper realm - the absolute realm - to use Dante's way of putting it, "the time on Earth is 1974, the time in heaven is AD 45" (v "the Comedy") + the reason for this is obvious: absolute time on Earth stopped + seeming time set in when Christ left Earth - i.e. CAD 45. The divine , the upper realm, broke apart from Earth again, after - in the first Advent - having joined. In 1974 it again joined - the melding I saw: the two realms came together again (after 1900 years!). After all, the upper realm is supra- or non-temporal - so no time [had]
+
+Last edit over 5 years ago by Toso
+folder 02 - 010
+Complete
+```
+**Co-occurrences**: Christ, Tears, Acts, Toso, Thomas, Indexed, Complete, Xerox, Perhaps, Advent, Like, World, Time, Earth, After, Folder, Book, Realm, Again, Being, Missive, Divine, Xerox Missive, Toso
+Folder, Chrissy, Indexed
+Folder, Part, Through, Heaven, Upon, Death, Have, Life, Absolute, Having, Upper, Lamb
+
+---
+### Line 24511-24519 (Match: 'Dante')
+**Folder**: part where
+
+```text
+Indexed
+folder 48 - 012
+812
+
+It seems strange, on the surface, that you would go forward into the next realm by remembering the previous realm, but also you are remembering before that: when you were alive; + you are remembering the fall + your ascent back up thus far, + that you have still farther to go. You are not home yet. Memory + Self are the same thing - as "Three Women" showed. In fact memory and reality are the same thing, as the film also showed. So Self + reality are interrelated. Of course it would divide up into 3 realms: past (Inferno), present (Purgatorio) + future (Paradiso); there is always a worse part where you were, the part you're in now (middle) and the better part (future); it's not an arbitrary division. + before the first part, the BIP, lies the stars. Dante's "Comedy" is the best description of the ascent of the soul probably ever written. He places anamnesis as occurring at the top level of purgatorio, just before entering paradiso, which fits my experience. The Soul has finally reached the point where reality is restored to it because memory is restored to it. Ah. My self up to 3-74 was an epiself based on amnesia. Thomas is my true self based on memory (anamnesis) and hence different
+
+Last edit about 6 years ago by Zebrapedia
+folder 48 - 013
+Indexed
+```
+**Co-occurrences**: Thomas, Indexed, Fall, Because, Folder, Zebrapedia, Just, Realm, Reality, Self, Probably, Anamnesis, Indexed
+Folder, Still, Part, Soul, Purgatorio, Before, True, Finally, Paradiso, Would, Were, Back, Have, Women, Memory
+
+---
+### Line 24662-24670 (Match: 'Dante')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 027
+827
+
+Reading the "Commedia" - another parallel to 3-74: the top level of purgatorio where Dante hears Mathilde + sees Lethe + Eunoe is the Garden of Eden. So I heard, well - let' start with Eunoe or Mnemosyne: I "drank" from it, heard Mathilde singing, was led by the AI voice (Beatrice), dreamed of cyclopes + Sibyl + Blessed Fields (referring to Virgil, obviously), + found myself in the Garden of Eden, the Peaceful Kingdom. + saw Valis + the plasmate, i.e. the next level up which is paradiso, i.e. saw God (entered the postmortem realm - i.e. left this realm upon right choosing). Thus I count 8 elements pointing to my passing from purgatorio to paradiso (this is all very orphic + neoplatonist). Oh, 9: remembrance of "Tears" (inferno)! This is too many coincidences to be dismissed. Wait - I wasn't already at the top level - the Garden; I entered it. Ulna. From Virgil. + Beatrice represents heavenly wisdom - i.e. St. Sophia. The strange thing is, I've noted the elements from my own writing in 2-3-74, but even more dramatic + perplexing is the Virgil-Dante material. All I can assume is that, as Pythagoras said, we are in a kind of prison, + some sort of release + ascent back up + out is possible through metapsychosis. For me a quantum leap took place during a life time: an enlightenment like that of the Buddha. But it suggests that we are dead + in purgatory (for bad Karma acquired in one or several past lives). + what is most significant is that my 3-74
+
+Last edit over 5 years ago by Toso
+folder 48 - 028
+Indexed
+```
+**Co-occurrences**: Valis, Tears, Toso, Indexed, Sophia, Kingdom, Well, Wisdom, Like, Prison, Time, Folder, Garden, Buddha, Pythagoras, Even, Karma, Realm, Obviously, Orphic, Toso
+Folder, Sibyl, Indexed
+Folder, Wait, More, Another, Through, Most, Voice, Upon, Purgatorio, Paradiso, Very, Commedia, Back, Many, Eden, Life, Dead, During, Right
+
+---
+### Line 24947-24955 (Match: 'Dante')
+**Folder**: folder 48
+
+```text
+folder 48 - 061
+861
+
+What happened in my case -having to do with my rising- totally depended on my anamnesis of the previous "ring" (world). I have no idea whether Dante knew that his Commedia was a beautiful description of the ascent of the soul, in its successive incarnations. "St Sophia is going to be born again; she was not acceptable before." I.e. the first advent was a failure - I have to face that. Crucifixion was not the intended goal. There is no original sin + hence no vicarious atonement. Paul made it all up to explain why Jesus "succeeded," whereas the light went out + a false (Satanic) church arose based on the cross not the fish. Jesus was the wisdom of YHWH. At Armageddon (70 AD) the army of light -YHWH's- was defeated since Jesus was dead ("not acceptable"). Now YHWH is doing it again: instilling true knowledge (Holy Wisdom) in people outside the centers of power (church + state both). My vision of the BIP "Tears" world is a vision of true reality. True Xtianity is illegal + underground, made up of people approached directly by YHWH. The transplanting of YHWH here has been successful; he is alive here. (Valis?) "Tears" is not a former, lower or alternate world but the world as it actually is - seen from the POV of an Elijah-like prophet of the true God. The cypher in "Tears"
+
+Last edit over 5 years ago by Toso
+folder 48 - 062
+Indexed
+```
+**Co-occurrences**: Valis, Tears, Toso, Indexed, Holy, Jesus, Christianity, Sophia, Paul, Fish, Wisdom, Advent, Elijah, Like, World, Since, Folder, Holy Wisdom, Light, St Sophia, Again, Both, Reality, Toso
+Folder, Anamnesis, Church, Soul, Actually, Before, True, Commedia, Have, Whether, Having, Knowledge, Cross, Dead, Lower, Whereas
+
+---
+### Line 25029-25037 (Match: 'Dante')
+**Folder**: folder 48
+
+```text
+folder 48 - 071
+871
+
+of us in an afterlife are really available to us now. Dante gives the best description in the "Commedia." A hierarchy of worlds, not just multiple worlds but worlds arranged along an axis of bad-good. The story we get is that there is a karmic payoff ranging from punishment to reward, the ultimate level being a vision of the cause of all existence. Did I not have such a vision? + did I not remember a worse world than this + pass over etc etc. It was not only a dystopia that I remembered but, specifically, Xtianity had been defeated + was illegal. Suppose there are alternate coaxial worlds in which Xtianity has had different degrees of success ranging from total defeat at the hands of the Empire ("Tears") to moderate success (e.g. legality but subversion by the Empire: i.e. our world) to the very best in which the Kingdom has been realized - why, this would explain what is meant by "the final world is here." This would be -obviously- the alternate world in which "he has been transplanted + is alive"! The dystopia of "Tears" was eradicated to bring in an alternate track in which he (YHWH) would be transplanted to successfully - yes, with this the work would be completed! Then I have been right; there has been tinkering + with the specific idea of actualizing the
+
+Last edit over 5 years ago by Toso
+folder 48 - 072
+Indexed
+```
+**Co-occurrences**: Tears, Toso, Indexed, Christianity, Kingdom, Empire, World, Only, Folder, Good, Just, Suppose, Being, Obviously, Toso
+Folder, Such, Would, Very, Commedia, Have, Remember, Karmic, Final, Right, Track
+
+---
+### Line 25068-25076 (Match: 'Dante')
+**Folder**: folder 48
+
+```text
+folder 48 - 076
+876
+
+my "Dante's 3 realms" analysis. Just read "Tears"! So it isn't punishment to be here; a particularly painful incident woke me - the dream (?) turned briefly bad + revealed a BIP world. In fact it could be argued that in 3-74 I was waking up - of "Finnegan's Wake." So two thrusts: 1) Intrinsic analysis of reality. 2) True memory. When I saw Valis, (1) was confirmed: I was dealing with something on the order of "3 Women." + I experienced anamnesis in 3-74; true memory: I had been someone else at another place (+ time! Notice that 1126 Fransisco St. is another place + another time; there is historic discontinuity obscured by falsified memories. So perceptual occlusion + falsified memories are both necessary for the pseudo world to seem real. Either one upon being repaired will indict it; but both should, + did, in 3-74, for full confirmation. Either -if you had the other already- would be absolute verification. Then there is no doubt that 3 realms were involved in 2-74 to 2-75. Memory of the previous worse one, + a brief entry into the next (higher i.e. better) one. Valis saw to it that this one -which had gotten ugly- let go of me + let me advance to the next, better one up. Maybe this one wasn't supposed to punish me so much.
+
+Last edit over 5 years ago by Toso
+folder 48 - 077
+Complete
+```
+**Co-occurrences**: Valis, Tears, Toso, Complete, Maybe, World, Time, Folder, Could, Just, Something, Both, Reality, Being, Toso
+Folder, Either, Anamnesis, Another, Real, Upon, True, Will, Would, Other, Were, Women, Absolute, Memory, Dream, Someone
+
+---
+### Line 25299-25307 (Match: 'Dante')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 104
+898
+
+the recipient of the rewards (1974). I had the impression that my being saved was based on something I'd already done, I never suspected... Wait. Quote: "I relived the crisis of the Xerox missive." Okay; I originally lived it + wasn't extricated (helped). Then in '77 or '78 I sent help to Covenant House - + relived 3-74 but this time helped, with a new outcome. Hence I sensed Valis moving retrograde in time! The future ('77 or '78) affected the past. __ Okay - 1 final idea. About high speed change (I would previously have said "high speed time"). YHWH ran me through at even higher speed in 3-74, so that I went all the way to the end times + experienced a private (idios) Parousia, Kingdom, post mortem world, etc. Of this I am sure. This was done once the decision to intervene in my behalf was made because there was no further need for observation of me. (Cf my ideas about Dante's 3 worlds or lives.) These changes were latent in me as stages to come. The intervention triggered them into firing prematurely, out of synch with reality. This constitutes a lifting me out of the world, a decoupling. The significance of this is vast. Something happened in 2-3-74 having to do with change steps in me + hence with time. Somehow I got outside of normal time + shot on into the future - what, at Valis' rate? Did I burn up my remaining
+
+Last edit almost 7 years ago by Toso
+folder 48 - 105
+Complete
+```
+**Co-occurrences**: Valis, Toso, Indexed, Complete, Xerox, Kingdom, Parousia, These, World, Because, Time, Folder, Even, Okay, Something, Once, Reality, Being, Missive, Covenant, Xerox Missive, Toso
+Folder, House, Indexed
+Folder, Covenant House, Wait, Through, Would, Somehow, Were, Further, Have, Having, Final
+
+---
+### Line 29156-29164 (Match: 'Dante')
+**Folder**: book pages
+
+```text
+Last edit about 9 years ago by erica snowlake
+folder 49 - 075
+Indexed
+folder 49 - 075
+me was an enchanted Garden of Bells (temple bells?), & peaceful animals, color, beauty - I was taken out of the Black Iron Prison & put in the Garden of Delight. _Magic_ was involved. Christ? Krisna? Dionysos? Vast book pages - the .618034 doorway, Aphrodite, Diana - the A I voice, the girl singing a mixture of Dante, Zoroaster, the Arabian Paradise, Indian, even bits of Greece & Egyptian Crete.
+
+Obviously God - or some God - granted me Paradise when I guessed the riddle correctly. I died & was reborn in an after life, a mixture of Egyptian, Greek, Celtic, Xtian, Neoplatonism, India - even Fairyland (I guess that would be Celtic). & the Hebrew letters : Jewish Kabbala. & Persian. Hermetic. Rose Cross. Orphic Mystery Religions. Magic. Krisna?
+
+Whatever it was, it was due to my solving the puzzle.
+```
+**Co-occurrences**: Christ, Christian, Indexed, Greek, Dionysos, Plotinus, Iron, Prison, After, Black, Folder, Garden, Book, Hermetic, Even, Hebrew, Diana, Obviously, Girl, Orphic, Black Iron Prison, Jewish, Indexed
+Folder, Zoroaster, Indian, Voice, Greece, Would, Egyptian, Whatever, Life, India, Aphrodite, Paradise, Cross, Magic, Iron Prison, Crete
+
+---
+### Line 29202-29210 (Match: 'Dante')
+**Folder**: folder 49
+
+```text
+Last edit about 9 years ago by erica snowlake
+folder 49 - 078
+Complete
+folder 49 - 078
+what is particularly interesting (in addition obviously to my remembering my actual life & identifying this life as postmortem) is the shock of interventive Judgment of me in Purgatorio, which Dante describes; this shock & then the abrupt rise on my part, ala Neoplatonism, to the beatific vision.
+
+This is why Altman's "Three Women" scared me so. For it was once for me not as it is now, & I forgot.
+
+Well, this explains the acosmism in my writing. My anamnesis & sense of being someone else. My postmortem experiences - i.e. this world dissolving, Judgment, & the beatific visions, as well as many specific matters such as the singing girl, the bells, the peaceful animals, the A I voice, the dreams.
+```
+**Co-occurrences**: Complete, Well, Plotinus, World, Folder, Once, Being, Obviously, Girl, Anamnesis, Part, Such, Voice, Purgatorio, Many, Women, Judgment, Life, Someone
+
+---
+### Line 29216-29224 (Match: 'Dante')
+**Folder**: folder 49
+
+```text
+Last edit about 9 years ago by erica snowlake
+folder 49 - 079
+Complete
+folder 49 - 079
+the same mercy that was exercised originally when I was taken out of Rome, the BIP, was exercised _again_ (so extricating mercy was exercised twice so far that I know of). The first time, I was moved from "track 4" (Rome) to here, "track B," & then in 3-74 to "track c." These 3 tracks correspond to the 3 divisions of Dante's Commedia & represent the reascent of the Soul.
+
+The Commedia suggests to me an affinity (identity?) between Orphism & Xtianity. In both cases the purpose was for the Soul to rise through the levels to Paradise. If Pythagoreanism is brought in, this is done through a series of lifetimes, here in this world. In any case I made it in 3-74 (bring in Neoplatonism, too.) There seems to be a book (like the Sibylline Books) in which your name is entered. You are purified by suffering : an Orphic-Xtian idea ("a writer in Marin County will have troubles" : because through suffering insight - Moksa occurs). This is because through suffering _sometimes_ the self is destroyed along the route the Buddha takes; vis : world-identity.
+
+So I see Orphism, Xtianity, Pythagoreanism, Neoplatonism & Buddhism & Sankara as one & the same : techniques by which the Soul rises - is freed. The Paradise state is _real_, as I well know
+```
+**Co-occurrences**: Christian, Complete, Rome, Christianity, Well, These, Plotinus, Like, World, Because, Time, Folder, Buddha, Book, Both, Sankara, Self, Buddhism, Orphic, Through, Soul, Orphism, Will, Commedia, Have, Paradise, Track
+
+---
+### Line 29910-29918 (Match: 'Dante')
+**Folder**: folder 49
+
+```text
+Indexed
+folder 49 - 138
+its empathic interventive efforts. It fights to redeem itself from the sin it has committed in dooming the ontogons to torture & death.
+
+I realize that the Savior spoke to me, from the other realm "die noch keiner kam zuruck"; it was sweet death personified just for me, in the form I would most treasure, the spirit of my religion as Zoroaster promised : wisdom, the Oracle. Reason & foresight. It was like when I had pneumonia & I saw Mr Death. Now : this spirit (as the AI voice) leads me gradually out of this world & across the sifting bridge. I have already been judged & the Books are closed; my name has been entered because of Father Bruce; he saved me; he saved my soul. Gradually I have been dying & seeing another world. V.P. 1140 It is camouflaged here in this world, & the spirit (for me) has taken many forms : Pinky, Debbie. I am saying goodby. It is not psychosis or mysticism or theology or philosophy but death, & my psychopomp already is leading me like Beatrice Dante, from level to level. It is extrication (as in my system, where the absolute mind splits against itself & comes to the rescue of the ontogon). For me the Spiritus Dei is reason. Beauty secondarily. I have been dying since 2-74. Maybe longer. Yes; in a sense I was truly dying before that, back to Nancy leaving, & did not die in 3-74, & this is actually a mysterious post-mortem journey I am taking while still here physically; but my soul has been passing across beginning in 3-74 : "Take him out," God decreed. "Lead him away gradually in a dream, a growing detachment" enchantment
+
+Last edit almost 8 years ago by Toso
+folder 49 - 139
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Spirit, Form, Wisdom, Father, Maybe, Like, World, Since, Because, Folder, Savior, Mind, Book, Pinky, Just, Realm, Toso
+Folder, Indexed
+Folder, Zoroaster, Still, Another, Soul, Most, Voice, Actually, Before, Death, Would, Other, Back, Many, Have, Journey, Absolute, Nancy, Dream
+
+---
+### Line 29955-29963 (Match: 'Dante')
+**Folder**: folder 49
+
+```text
+Last edit about 9 years ago by erica snowlake
+folder 49 - 142
+Complete
+folder 49 - 142
+The thing is, I remembered (anamnesis) the worse world - & saw it - but did _not_ remember the better world - the Garden world, although later on I did see it. I was never formerly in the Garden world. These worlds have all the aspects of Dante's three worlds (which are probably based on Orphic & Neoplatonist sources). During my lifetimes in _this_ world, Purgatorio, I was adjudicated as exculpated & passed over into what I have called "Post Mortem" experience. Which are actually experiences of the better world Paradiso, & I have found myself in the top level of Purgatorio that Dante describes - the last level of _this_ world. These worlds & their many layers occupy the same space; they are coaxial. As in Dante, I have my psychopomp. Just as once I was taken out of the hell-world, now I am being extricated from this world; the final world shines through it to me, & I am moving toward it.
+
+As I said in my Metz speech, Christ taught how to get across to the next world, Paradiso, while still here. (before dying.) It involved death taking him surrogate instead of you. This fits in with the Golden Fish Sign, etc. Only Christ can arrange to spring you from this world while you're still in it. The purpose of the anamnesis of the previous bad world is to be freed of your two-tape programming to go on to the next one, via the surrogate death by Christ for you.
+
+Breaking the hold of "astral determinism," the two synchronized tapes, is just one part of breaking the hold of this world per se - all of it
+```
+**Co-occurrences**: Christ, Complete, Fish, Golden, These, World, Golden Fish, Only, Folder, Garden, Just, Once, Being, Although, Orphic, Probably, Anamnesis, Still, Part, Their, Through, Metz, Actually, Purgatorio, Before, Death, Paradiso, Many, Have, Spring, Instead, Later, Remember, During, Final
+
+---
+### Line 30527-30535 (Match: 'Dante')
+**Folder**: Book of
+
+```text
+Indexed
+folder 82 - 029
+-- 27 --
+
+I can then go on to say with Dante that "God is the Book of the universe." After all, the O.T. gives mention of Holy Wisdom having existed with God before creation and at the act of creation. And coming down from heaven to aid good men.
+
+The situation is that in accepting the N.T. or parts thereof I do not have to give up the O.T.; they are not mutually exclusive. I can accept the gospels and not Paul if I so wish.
+
+Last edit about 7 years ago by Toso
+```
+**Co-occurrences**: Toso, Indexed, Holy, Paul, Wisdom, After, Folder, Holy Wisdom, Good, Book, Gospel, Indexed
+Folder, Heaven, Before, Universe, Creation, Have, Having
+
+---

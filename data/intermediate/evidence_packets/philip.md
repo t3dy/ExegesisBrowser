@@ -1,0 +1,346 @@
+# Evidence Packet: Philip
+
+- **Category**: Top Term
+- **Total Mentions**: 69
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 84-92 (Match: 'Philip')
+**Folder**: part of
+
+```text
+karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done in response to decissions or considerations or needs or directive or to accord with a higher morality which make it binding on one to take life. Therefore I saw the role that death had in the universe: a necessary one (clay pots have to be deliberately thrown back as long as they remain unsatisfactory, and the that rat, honey, was he unsatisfactory.) It showed me that death could not be avoided. But -- I still grieved and I still prayed. Rog Phillips story had a lot to do with my empathy; I had read the story a bit earlier, as I recall. And got the autograph later. The rat came inbetween. This was my baptism into reality, my having to kill this huge gutter-water rat which had gotten into the house and was hiding back in the girls' rooms. As their father I knew what to do. I guess our father (God) knoww what to do, too, when he judges, and now we come to Judgment Day and why it must be so. Exactly as I had to judge and condemn and execute that rat, so must God do this -- judge us all and spare some (accept them) and execute others; he would like to save them all, but the necessity of the structure precludes it.
+
+If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
+
+I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
+
+I think that in 1974 my entelechy was completed, but I never heard of anyone having his entelechy completed (watch it, Claudia), be-cause this means that the time has ended, not by God intervening, but because the last frames ran through the film ended naturally. Well, see, here is your clue: when the last frames of my film (entelechy) passed faster and faster through the projector, I wasn't perfect; I'm still full of alll
+
+Last edit over 5 years ago by FolkDevil
+```
+**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, House, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+
+---
+### Line 208-216 (Match: 'Philip')
+**Folder**: book of
+
+```text
+I’ve enclosed two or three pictures of us… I do hope all goes well with you, and I would so much enjoy hearing from you, and knowing about you these days. I’m into screenplay writing now… also Rolling Stone is doing a long article/interview with me, and, at long last, an experimental S-F novel of mine is coming out. But I will not go Vonnegut’s route and deny s-f if I make it literarily-experimentally; even my experimental novel, CONFESSIONS OF A CRAP ARTIST, is in the broadest sense, science-fiction. Dear Phyllis. How are you?
+
+With deep personal regards,
+
+Philip K. Dick 1405 Cameo Lane #4 Fullerton, Calif 92631, USA
+
+Last edit over 5 years ago by Zebrapedia
+13
+Indexed
+```
+**Co-occurrences**: Indexed, Well, These, Even, Zebrapedia, Dick, Fullerton, Calif, Will, Would, Days
+
+---
+### Line 238-246 (Match: 'Philip')
+**Folder**: book of
+
+```text
+But that’s too long. Let me know if you are going to use this piece I wrote; if you don’t, I will get you.
+
+With warm personal regards.
+
+Philip K. Dick 1405 Cameo Lane #4 Fullerton, Calif 92631, USA
+
+Last edit over 5 years ago by Toso
+14
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Dick, Fullerton, Calif, Will
+
+---
+### Line 452-460 (Match: 'Philip')
+**Folder**: book about
+
+```text
+During Winter, it was believed that Dionysos, the god of the vine plant, of vegetation, of the crop, slumbered. It was known that no matter how dead he seemed (James Joyce's FINNIGANS WAKE is a wonderful acount of this) he was actually alive, though you'd never know it. And then, --not to the surprise of those who understood him and believed in him-- he was reborn. His followers knew he would be. We are speaking here of the mystery religions, all of them -- including Christianity. Our God has been sleeping, during the long winter of the human culture ([x] not for one year's rotational cycle of seasons, but from 45 A.D. through the centuries of mental winter to now); just when Winter holds all in its grip, the snow of despair and defeat (in our case, political chaos, moral ruin, economic ruin -- the winter of our planet, our world, our civilization) then the vine, which was gnarled and old and seemingly dead, breaks into new life, and our God is reborn -- not outside us as such, but in each of us. Slumbering not under the snow over the ground-surface but within the right hemispheres of our brains. We have been waiting, we didn't know what for. This is it: this is Spring for our planet, in a deeper more fundamental way. The cold chains of iron are being thrown off, but by what a miracle. As with my character, Nicholas Brady -- I've had Zagreus awaken in my right hemisphere, and felt the flooding of renewed life, his vigor, his personality, and his godlike wisdom: he hated the injustice he saw around him, and remembered "the dear lone lands untroubled by men, where amid the shadowy green / The little ones of the forest live unseen." (Eurypides) Dr. Ornstein, thank you for helping bring Winter to an end, and ushering in --not just Spring-- but the living life of Spring alive but [xl] asleep inside us.
+
+Cordially,
+
+Philip K. Dick 1405 Cameo Lane 4 Fullerton Calif 92631
+
+Last edit almost 3 years ago by twsullivan
+29
+Complete
+```
+**Co-occurrences**: Complete, Christianity, Wisdom, Dionysos, James, World, Iron, Just, Zagreus, Being, Those, More, Through, Living, Ground, Such, Actually, Dick, Fullerton, Calif, Would, Under, Have, Life, Spring, Dead, During, Human, Right
+
+---
+### Line 1818-1826 (Match: 'Philip')
+**Folder**: part of
+
+```text
+All the Protestant had inately (sp) was his conscience. Innately, I mean. Conscience -- individual and inner, and his own, not derived. But now! Whole categories of human thought innate, inner and individual, in the same way -- conscience elaborated or added to -- multiplex systems instead of the single system of conscience, which told us only what was right, not what was so. To the Catholic, it must have seemed as impossible that a person could have an actual again bite of inwit as it would seem to the Protestant that a person could know Attic Greek innately "Conscience is a social deposit." And surely, "Knowledge of the culture and value-system of Greek times circa 400 BC is a social deposit, learned from outside entirely."
+
+The Catholic could say, "How does this inner knowledge of right-and-wrong come into being?" and would get no answer; this isn't known. Likewise, "How does a knowledge of the Logos, of Neoplatonism, of the Eliatic Schools, come into being?" received no answer, but so it is.
+
+It is just as obvious that conscience is a social deposit as that Attic Greek is a social deposit. It is a mystery. Perhaps it come directly from God (which the Reformers said of conscience). Now one such as I can say that of all values; not just right-and-wrong, but also, truth-versus-false, important-versus-mickeymouse. And, too, like conscience which is a quiet inner voice saying, "Such and such is wrong," this quiet inner voice speaks in Attic Greek and also gives vital information (e.g. about St. Sophia, etc.). (It's a whole audio-video school or tutorial system -- yes, tutorial; tutor to pupil, as with Aristotle and Philip).
+
+. . . It seems to be inside things (inc. men): as the sap to the branch.
+
+The long above discussion regarding historical forces shows the connection between the Holy Spirit and conscience, the latter being a small form of the former in my opinion. Since Rollo May shows that Socrates' daimon is conscience when thought of as more than mere social deposit, then that must be the same, too. Regarding conscience, we are talking about a holy force, divine in origin and absolutely binding, which does not arise from social conditioning but springs spontaneously; it is God teaching us and informing us. If conscience can be regarded as a historical, social force (esp. connected with the Reformers and toleration and freedom) then my 3 74 experience consisted of conscience changing over to the Holy Spirit, and the Holy Spirit advancing out into the realm of social action, in which the right of conscience was rightfully supposed to be; for the Holy Spirit to do that is to throw into the balance of social action against despotic society (identified with "the prince of this world") an ultimate force; conscience is shown then as a forerunner of a force more powerful because as well as moral knowledge it also carries knowledge of what is true (and what is mere lie). Conscience alone might dictate that I act (refuse to kill Vie[t]namese) but in no way does/did it provide me with any assistance of any sort. Not so with its more complete form, the Holy Spirit. The relationship between them reminds me of that between the First Advent (the lamb who is sacrificed) and the Second: the Powerful Judge who overthrows what is evil.
+```
+**Co-occurrences**: Spirit, Holy, Logos, Complete, Holy Spirit, Form, Sophia, Greek, Well, Perhaps, Advent, Plotinus, Like, World, Since, Because, Only, Could, Does, Just, Realm, Again, Being, Catholic, Divine, Aristotle, More, Such, Voice, True, Would, Judge, Attic, Surely, Have, Things, Information, Freedom, Instead, Evil, Socrates, Likewise, Knowledge, Truth, Reformers, Human, Lamb, Right, Answer
+
+---
+### Line 2130-2138 (Match: 'Philip')
+**Folder**: book but
+
+```text
+Last edit over 5 years ago by Harpax
+158
+Needs Review
+158
+I just crazy-like thought of another significant allusion to "Acts" in TEARS -- if the eunuch in "Acts," the black man whom Philip meets and converts, is the same black man whom Buckman meets at the end of TEARS and embraces, then think of this: in TEARS blacks are sterilized after a couple has one child...so this black man should by law be ster[i]lized by now -- he has more than one child, though; by law he should be like the Ethopian, a eunuch, incapable of reproduction. And this permutation of the eunuch (in accord with the law in TEARS) takes place through Felix or translated (the steganographia revealed), is given the command: be fruitful, reproduce, multiply, which is what "felix" in Latin means. This is all a fantastic consistent code print-out, here, the names becoming command cyphers of a holy sort. It's as if we did a recipe, taking 1 black eunuch, add felix, which gives us the black man with, suddenly, against all law, 3 children! I see in this a closer parallel to "Acts" than I had even before; it comprises a potent, mystifying, highly charged reality, as if the Bible is not a book but alive; the Word is alive.
+
+In other words the black man whom Buckman meets is even more like the black man whom Philip meets than I had realized...or anyhow he ought to be, by law. A black eunuch! But obviously, if one studies the dynamics of the novel, one sees that through his dream Felix Buckman is converted to Christianity, and his koinos kosmos alters along with him, to abruptly produce the black man with 3 children -- a new world! The man is black, he is a eunuch, he is "embraced," he produces something in writing for Philip/Felix to see...it's a living system of some kind, and active.
+
+The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
+```
+**Co-occurrences**: Tears, Acts, Holy, Christianity, Felix, Bible, Like, World, Harpax, After, Black, Buckman, Book, Even, Anyhow, Just, Something, Reality, Kosmos, Obviously, More, Another, Through, Living, Before, Other, Later, Suddenly, Dream, Right
+
+---
+### Line 2132-2140 (Match: 'Philip')
+**Folder**: book but
+
+```text
+Needs Review
+158
+I just crazy-like thought of another significant allusion to "Acts" in TEARS -- if the eunuch in "Acts," the black man whom Philip meets and converts, is the same black man whom Buckman meets at the end of TEARS and embraces, then think of this: in TEARS blacks are sterilized after a couple has one child...so this black man should by law be ster[i]lized by now -- he has more than one child, though; by law he should be like the Ethopian, a eunuch, incapable of reproduction. And this permutation of the eunuch (in accord with the law in TEARS) takes place through Felix or translated (the steganographia revealed), is given the command: be fruitful, reproduce, multiply, which is what "felix" in Latin means. This is all a fantastic consistent code print-out, here, the names becoming command cyphers of a holy sort. It's as if we did a recipe, taking 1 black eunuch, add felix, which gives us the black man with, suddenly, against all law, 3 children! I see in this a closer parallel to "Acts" than I had even before; it comprises a potent, mystifying, highly charged reality, as if the Bible is not a book but alive; the Word is alive.
+
+In other words the black man whom Buckman meets is even more like the black man whom Philip meets than I had realized...or anyhow he ought to be, by law. A black eunuch! But obviously, if one studies the dynamics of the novel, one sees that through his dream Felix Buckman is converted to Christianity, and his koinos kosmos alters along with him, to abruptly produce the black man with 3 children -- a new world! The man is black, he is a eunuch, he is "embraced," he produces something in writing for Philip/Felix to see...it's a living system of some kind, and active.
+
+The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
+
+. . . For TO SCARE THE DEAD: let it turn out to be St. Luke who shaministically possessed him (a bridge thus established between 70 AD and our present), and the protag eventually discovers, though this assimilated inner contact that St. Luke (and probably also the others of the original cadre of Christians, the inner circle of Christ's) is what we call a (are you ready?) a non-terrestrial, of magnificent power and authority and wisdom. I think plotwise the protag eventually learns/decides that originially such men as St. Luke were ordinary humans, "born of woman," etc., but became this -- through such possession of them by the Holy Spirit, which is to say their Master, Christ (who was not an ordinary human being). And the purpose of this elevation comes through now, since our planet has had it (ecology wise, due to our using up and destroying and polluting); this is a system to get some of us, as many as possible "translated" out of here and hence saved; this is the true meaning of "being saved," saved from the holocaust. This too is the meaning of the now-arriving Parousia.
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Spirit, Holy, Christianity, Holy Spirit, Felix, Bible, Parousia, Wisdom, Like, World, Since, After, Black, Buckman, Book, Even, Anyhow, Just, Something, Reality, Luke, Kosmos, Being, Obviously, Probably, Their, More, Another, Through, Living, Such, Before, True, Other, Were, Many, Wise, Later, Dead, Suddenly, Human, Dream, Right
+
+---
+### Line 2709-2717 (Match: 'Philip')
+**Folder**: book in
+
+```text
+Today I recieved a letter from Dallas Mayr (dated September 10) which states that I have earned $216.90 from DAW Books, which you have put toward my advance, bringing said advance down to a balance of $283.10. What you must do is after putting a stop payment on the original $500 uncashed loan of September 3, then send me this $216.10, inasmuch as no unpaid loan exists. Naturally, there was no way for you to know that the September 3 $500 loan check and letter never arrived. But that is the situation. Thank you very much, and I wonder what ever happened to it.
+
+Cordially,
+
+Philip K. Dick 2461 Santa Ysabel Ave Fullerton, Calif 92631
+
+Last edit over 5 years ago by Harpax
+
+206
+```
+**Co-occurrences**: Harpax, After, Book, Santa, Dick, Fullerton, Calif, Very, Have, Today
+
+---
+### Line 2919-2927 (Match: 'Philip')
+**Folder**: part our
+
+```text
+What I have finally come to think, after making my 200,000 words of notes of research and thoughts, is that a true mystical body of the Pantocrator exists, and that the Holy Spirit coming on the original followers of Christ was to cause them to fully experience themselves as parts of this corpus, which was alive, which was completing the universe, the Holy Spirit being the agent which brought the "second birth" to the person, used him as a receiving entity, and tnen this "second birth" within him, which was a newly made creature of light (I called it within me "firebright," supposing it to be of fire and of light and to have come from the stars, somehow) would grow until it had consumed what Paul called sarx with such distaste. That I was, for four days, within a living universe or entity, which spoke to me and healed me, in the most loving terms — there is no doubt, since it also compelled me to get some medical help for my year-old-son who had a birth defect which the doctor told us "wasn't really there." It required an operation, in fact, and my son's life had beeen in peril from the time of his birth. Saint Sophia through me absolutely accurately diagnosed Christopher's birth defect and told my wife, "You must take him to the doctor now; don't wait; phone the doctor." Surgery was scheduled as soon as possible.
+
+Anyhow, enough of this. There is, as "Colossians 1:13" says, a mystical invisible corporate body of which we are the members, but the sacred knowledge of entry into this has been lost probably for fifteen hundred years. Yes indeed, I would like to take study from the ICC. And thank you so for writing me. I had my head buried in research.
+
+Cordially, Philip K. Dick 2461 Santa Ysabel Ave Fullerton Calif 92631
+
+Last edit almost 5 years ago by svayambhu108
+222
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Sophia, Paul, Like, Since, Time, After, Light, Firebright, Anyhow, Being, Corpus, Probably, Santa, Wait, Pantocrator, Through, Most, Living, Such, Dick, Fullerton, Calif, True, Universe, Finally, Christopher, Would, Somehow, Have, Life, Body, Days, Knowledge, Until, Sacred
+
+---
+### Line 3127-3135 (Match: 'Philip')
+**Folder**: Book of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+
+241
+I remembered how it was before the Fall.. a racial memory? In 3-74 my exile ended, not by my returning up there, but by Him coming down here (as into the stagnant ocean). Recall my dream about.the little boy Philip, on the raft, approaching England (San Francisco, it looked like), a sort of changling who got past Scotland Yard, which is to say the authorities... and then rose up stage by stage but then revealed himself as he was: the coocoo egg. They could not tell until it hatched...and there is the egg motif again.
+
+The dream in which on your Zenith TV set a circuit detects when Christ in his invislbe form returns; it causes three lights to come on. You then remove the spindle and base and take from it a dark green cylophane strip and replace it in the TV set, where presumably the 3 lights come on even more or anyhow some further development occurs, in line with the event. I ask myself, Why 3 lights? And it occurs to me that 3 lights equal three eyes, the coming on of the 3rd eye, which means the restoration of the original faculty, taken away at the Fall, of sight. Unless the 3 lights simply refers to the trinity and nothing more, this is most likely what it signifies; also, the removal of the strip of very dark green cylophane suggests the removal, at the right time, of an occluding membrane which filters out most of the light, allowing only a token amount to filter through. Just enough, in fact, to give a register (on the 3 lights) at all. The veil must be torn aside for the light, which has returned, to shine. In the dream I was extremely surprised to find I had such a circuit in my TV set; I called the multitude that I might show them, but none was interested. At last I buttonholed my old friend Pat Flannery, because he was a Catholic, but even he wasn't interested. It seems as if the dream is saying, Without our knowing it, we will see a sign; 3 eyes will come on (inside us) at his return, and then we must respond and cast off the veil of ignorance or delusion, whatever — anyhow remove some¬ thing inside us (i.e. down in the assembly & circuits). It is a barrier to the passage of the light, and is made to be torn off, removed, at the proper time. We don't just sit passive when the signal comes. The dream says, We will know when he returns. If it is said, "He has returned but is invisible; no one can see him"; that isn't true; the 3 lights will light — there will be evidence, a registering of his presence. Note it was my (ahem) set; no one else had one. Did I in 3-74 register (like the Zenith TV set's unsuspected registering circuit) his return, by my experience L restored sight? Ah — the green cellophane was a strip, which probably refers back to Calvin's statement that our original faculties were stripped from us. It is a pun. The dark green cello¬ phane was much like the color and appearance of very dark sunglasses. Zhe darkness shades (!!) possible. I remember thinking in the dream, What about if the owner of the set doesn't look in the manual, and oneday the 3 lights come on, and he wonders, What does that mean? and looks it up in the manual then — wow, will he be surprised at what it indicates!" The manual almost certainly equals the Bible. One sees the 3 lights come on and of course consults the Manual for an explanation; I reversed the order by discovering the circuit before the 3 lights came on; in the dream they had not lit up yet. They were dorment (crypte). The change of color of the lights (from dark green to uncolored) reminds me of the light symbolism of the Bardol Thdol.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Form, Bible, Like, Fall, Because, Only, Time, Light, Even, Could, Does, Anyhow, Just, Look, Again, Catholic, Himself, Probably, Without, Nothing, Darkness, More, Through, Most, Such, Certainly, Before, True, Will, Calvin, Were, Very, Back, Whatever, Further, Dark, Memory, Trinity, Remember, Unless, Dream, Doesn, Right, Until
+
+---
+### Line 4003-4011 (Match: 'Philip')
+**Folder**: part I
+
+```text
+Last edit almost 3 years ago by svayambhu108
+32
+Needs Review
+32
+the dream sequence in years. But -also or what am I? We are now dreaming with a new + rather different possibility about me, about the "theopany" in me, my entering an almost avatar-like state in 3-74, due to the magnitude + immediacy of the threat. Take my dream of the Little Boy Philip in the raft floating [secrets?] across the Bay toward London (San Francisco, + managing to infiltrate past "Scotland Yard" ie, the resident Police authority + riding up level by level, at last to reveal my true self, to the horror + dismay of "Diane Cleaver" (resident authority again, ones who expected something Quite else from me.). My avatar [underscored] anamnesis, my other personality + maybe my memories are coming from the stars wasn't thousands of years old! Maybe they just seemed that way (ie. my oldest, my totally [sub?] ... blocked - memories - + identity). The memories disclose that I originated on another planet (of "imposters"). Either I am thousands of years old, or, if I am not as extraordinary as the first is (thousands of years old), look what the second possibility implies!!
+
+1) I came here - was sent here - to write what is in my writing + the material in it is from my real (unblocked) personality who knows the whole truth, which i don't. 2) under [?]... stress my true nature was disinhibited + came out, as it was supposed to when necessary. For one thing {possibly "in me + him"}, I consciously linked back up to the web. 3)Anamnesis + identity: Begins in the stars. Communicating with 3-eyed people. Communicating print out [?] 4) loss of 3+4. Forgetfulness when stress ended + 5 ended (below) 5) the historic intervention scene, arranged by them[underscored], in which I seem to have played a role. 6) Amnesia. 7) the [Razzia?] nov 17 '71. 8) Multiple personalities
+
+themy[?]: A superior science of the mind taught me + then set up the inhibition block so that i passed [fit?] all these years, knowing + guessing nothing, until the time came. Hence my growing fears in early '74. I knew the time was coming (for which I had been trained + prepared). 9) the disinhibition Gold Fish sign.
+```
+**Co-occurrences**: Fish, These, Maybe, Like, Time, Mind, Just, Something, Look, Again, Self, Either, Anamnesis, Nothing, Another, Real, Gold, True, Other, Back, Under, Have, Truth, London, Dream, Until
+
+---
+### Line 4751-4759 (Match: 'Philip')
+**Folder**: part of
+
+```text
+Last edit 1 minute ago by Gabriel Mckee
+
+46
+46 If indeed I am an emissary to this world, there it is by Adoption (cf the adoptionalist theory about Jesus, us the virgin birth qua Christ view) Now to take up a point long forgotten: the revelation that Jesus is really Zeus-Zagreus. I did dream about crete, the hime of Zagreus, + he (i.e. Dionysos) is the God of metamorphosis, of transforming change... + when I could discern the actual world (a Zebra) it was in swift + great flux. Dionysos as evolved through the historical figure of Orpheus, look at the resemblance between high 1) Dionysos priest "the stranger" in the Bacchal 2) Orpheus (whose head, singing, floated across the water 3) Jesus. Easter clocken t 4) Gnostic concepts of our savior-God who is the "kind stranger. 5) My dream of "little philip, riding across the water toward London, + getting by the watchful police (Scotland Yard) 6) The beautiful singing + bells I heard. perhaps the telling argument that it was Dionysos was my theolepsy - i.e. the fact that my entire 3-74 oxperience + knowledge was based on a theolepsy: Dionysos, mut always be suspected when a theolepsy occurs. But Dionysos it leased to be mas when he metamorphosed into orpheus + after is possible the the Paraclete was a transformation of Dionysos, since it induces - achieves - theolepsy? A whole new view could be this: that jesis was an ordinay man until the Holy Spirit came to Him + lifted him up to sonhood; this would exploin his "my God, why have you for sater me?" utterance on the cross. The Holy. Spirit had left him. With others the spirit came only temporaries; with him it remained - it "incarned" itself in him. E.g. with me it only came for a few days. But it's going to + it someone again on a permanent basis.
+
+Last edit almost 3 years ago by svayambhu108
+47
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Zebra, Jesus, Holy Spirit, Gnostic, Dionysos, Perhaps, World, Since, Only, After, Gabriel, Paraclete, Mckee, Gabriel Mckee, Savior, Could, Look, Again, Zagreus, Great, Zeus, Through, Flux, Revelation, Easter, Would, Have, Days, Knowledge, Cross, London, Dream, Crete, Someone, Until
+
+---
+### Line 4922-4930 (Match: 'Philip')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by carolinerose
+15
+Needs Review
+15
+12 This is probably a key point. In most situations my own (moral] judgment was/is probably sufficient, but in the case of the Xerox letter, my own judgment, moral or otherwise, could not come into play, since I was cognatively puzzled. As a test it was unfair; I would have striven to do the right thing, but I knew too little about the damn thing to exercise that judg ment one angement that it is God who programs (aids + teaches) is found in the example of the (aha! the whole prefiguring - v. supra - which must certainly come from him + no one else) prefiguring of the pharmacy girl, her words + hen Golden fish necklace. I would not have engrammed on her that day without the teleological previous prefigur ings. This shows he was with me for as least years, working toward that day she came (+ the still-future reason why it was necessay she come then, no sooner a later). (His design shows throughout.) It was back in the fifures that I saw that toland man plato of the nude girl with the necklace. At that time my task lay 70 years in the future. Viewed this - correct - way there seems colle doubt that my entire life culminated to its point that March day in '74 when the Xerox letter came. For at least 20 years God had been preparing that intervention (into the merely secular historical forces). that there is an adversary, though, is shown by the Xerox letter as such - God didn't send it (+ the miraculously receive it); the evil one seelt it This (supra) is the most profitable view of all for decades God has been teaching me, preparing me for 3/20/74 - there was periodic [disguised intervention preceding that eate, God lays dorm his plans from the start. I recall now the dreams I had of early chilshort: the little boy Philip on the raft floating toward condon, + how he get past Scotland Yard the imple cate here is that more than a purely defensive move
+
+Last edit almost 3 years ago by svayambhu108
+
+16
+```
+**Co-occurrences**: Xerox, Plato, Fish, Golden, Since, Golden Fish, Time, Could, March, Girl, Probably, Viewed, Without, Still, More, Most, Such, Certainly, Would, Back, Have, Judgment, Life, Later, Evil, Otherwise, Right
+
+---
+### Line 6026-6034 (Match: 'Philip')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+18
+Needs Review
+18
+8 I in a sense the true reality is timeless, but the degree of victory by the Christians grows. From our standpoint there is a linear progesion, a sequence, of battles, but to both contending forces it is a battle (armageddon). I recall my inner vision of "stations" on a grid board (another proof that my utilization began long ago + not just in 3-74 is my anamnesis; those were not spurious grafted-on memories but rather my real, previously inhibited long term memories. They led all the way back to my origin in the stars (take for instance the dream of the little boy Philip floating on the raft toward condon, evading the notice - awareness of "Scotland Yard" - i.e. the defensive authorities intelligence apparatus. In reality it was not an ocean I crossed, but an immense distance between stars. "London" symbolized the city of Earth, "Scotland Yard" all defensive shields. The shields were penetrated, + then I rose up higher + higher (in the Elevator) until at last I broke the eggshell cup: which symbolized my hatching - not as a child but while an adult However, there is a more fundamental imprisonment than that of mere human authority; it has to do with the original intellectual error of supposing this phenomenal world to be real - + hence subjegating ourselves to its "planetary" determinism ("DNA"). More fundamental than breaking the power if the authorities is the breaking of the power of the phenomenal world itself, its immutable cause - + - effect; Thus the struggle is transcendent + involves a gnosis of vast proportion, far beyond any social or political knowledge. They must be a withdrawal of assent to the empirical world as such. In regard to this, in view of this, my corpus of writing assumes in itself actual salvific importance. It paves the way for the work of the redeemer who brings the message of the Kingdom by preparing disciples via the "birth from the Spirit" which, upon possessing the disciples, in forms them of the true nature of things so that they can spread the word. He tells then the hidden truth. There is another better world which will be establ lished as (when) this order is overthrown + linear time as abolished, linear time being a delusional power over us, the force of Mayan
+
+Last edit almost 3 years ago by svayambhu108
+19
+Needs Review
+```
+**Co-occurrences**: Christian, Spirit, Form, Kingdom, However, World, Gnosis, Time, Earth, Just, Both, Reality, Being, Corpus, Anamnesis, Those, More, Another, Real, Such, Upon, True, Will, Were, Back, Beyond, Things, Knowledge, Truth, London, Human, Dream, Until
+
+---
+### Line 6980-6988 (Match: 'Philip')
+**Folder**: part of
+
+```text
+Oh JHWH credo. Timeo atque credo
+
+Father, ermarme mich in diesen höllige Zeiten - Tagen, Tag. Erbarme mich, Gott. Bitte. Tremens factus sum. Credo. Lass mich gröster Herr. Mach mich furchtlos. + he did, instantly, for ein Augenblick, aber er war so. Wären Sie mich zu lass, wurde ich in ihnnen durch Ewigkeit glauben + sie erzählen. Ich verspreche, könn ich leben.
+
+Du wer dies lest: YHWH hat mir ein Leids getan. In Dei crede. - Seine letzte Wörter 3/25/79 Philip K. Dick
+
+Last edit over 5 years ago by Toso
+32
+Indexed
+```
+**Co-occurrences**: Toso, Indexed, Father, Dick
+
+---
+### Line 7235-7243 (Match: 'Philip')
+**Folder**: part of
+
+```text
+8
+
+It seems to me that the import (thrust) of my actual "all night gas station scene encounter with the black stranger" 9 years after writing the cene in "Tears" is exactly the same as this attempted quality of the [other] Acts material. These exemplar scenes- this [Dr?] or [Dr?]- is perpetually repeated: it lies in a time other than linear; it lies in sacred time. The encounter 9 years later confirms that Acts or "A" is indeed the [sole] real template underlying the mere Maya of "B." My encounter this Feb is merely another surfacing. We can then say: Acts depicts our current history. The true church is small (yes, let's analyze the contents of Acts): The E.B.: first spread of the church to gentiles
+
+"Philip, A Greek-speaking Missionary, is commanded by the spirit to Baptize an Ethiopian eunuch."
+
+"Paul is imprisoned and sent to Rome where Acts leaves him witnessing openly and unhindered in the capital of Ethiopia." There has been a move from Jerusalem to Rome. Then after AD49 Payl become the spokesperson for the whole [Dr?] mission.
+
+"After Peter healed a lame man, he made a speech (ch 3) in which Jesus is proclaimed as the one appointed but who is now in heaven and who will come as the Christ at the Parousia (2nd coming). In his Pentecost speech (ch 2) Peter preached that God made Jesus Lord and Christ in his ressurection.
+```
+**Co-occurrences**: Christ, Tears, Acts, Spirit, Jesus, Rome, Paul, Greek, Parousia, Lord, These, Time, After, Black, Maya, Church, Another, Heaven, Real, True, Will, Other, Mission, Later, Sacred, Pentecost
+
+---
+### Line 7717-7725 (Match: 'Philip')
+**Folder**: Part This
+
+```text
+Last edit almost 3 years ago by svayambhu108
+48
+Needs Review
+48
+- Here's an idea I've never persued. h righe 1) Suppose Jon Danikan is correct the ETI intelligences came here sometime between Egyptianized Grete + the Essenes. 1a) My anamnesis deals with that period 2) Suppose c. 100 AD they left - after placing in i our species (via DNA code-programming) blocked neural brain) circuits held in suspension to be disinhibited i.e. Upon their return. 29) I was thusly disinhibited in '74. 3) (very tentative) in '74 they began to resure benign covert rule of this planet. 3a) In conjunction with this I (+ certainly other humans) were deliberately disinhibited: producing anamnesis, awareness of true identity, + purpose (i.e. facks to perform re their historic intervention whch th t in fact constitutes a benign take over). 4) Between the time of their leaving c.AD100 + now, an underground human "order" has consciously kept the Gnosis + rituals alive Ha) It was one of them, acting on instructions from Zebra who is "them" who disinhibited me in 2-74. The aztecs believed that the Gods in shining armor" would someday returnn our blocked neural circuits imbedded deliberately in DNA - to fire in synchronization with their return + not until then, then we would not only remember, but We would also know what to do. They would take us (or some of us) over, as "Thomas" did me. In that case, who was Thomas? One of them. They come from a parallel reality (cf "Tears"). That would accon the the "vitile boy Philip on the raft floating touard ondon + exading Scatland Yard -then ar asied
+
+Last edit almost 3 years ago by svayambhu108
+49
+Needs Review
+```
+**Co-occurrences**: Tears, Thomas, Zebra, Gnosis, Only, Time, After, Suppose, Reality, Gods, Anamnesis, Essene, Brain, Their, Upon, Certainly, True, Would, Other, Were, Very, Remember, Human, Until
+
+---
+### Line 10384-10392 (Match: 'Philip')
+**Folder**: part of
+
+```text
+To write this final affront the author (me) must have penetrated to the core of "our" (the police) mind + figured out how we think at the ultimate level (which we correctly keep secret). That the scene was accidental, insofar as I was concerned - they'd never guess that. In truth, it was divinely inspired. But they'd not guess that either. I imagine this morally objectionable stuff being circulated! The fuzz mind revealed for all to see -naked, helpless, exposed to this absolute shame.
+
+We are talking about a sudden total reversal of things: the Black Boy has become a man, + the Man has become a helpless child.
+
+What more thorough a revolution can be imagined? This is not merely a political, class or ideological revolution - it goes deeper. It is nameless, from a sociological standpoint. + what can be done to counter [..] is unspeakable, really: it is the unsaid + unsayably said. It is an archetype of archetypes, it is the final confrontation + subsequent metamorphosis. Perhaps in Christian terms it can be explained - + thus, again we are brought back to the scene in "Acts" between Philip + the Black Man: the real [Bechwek], outside of time. But ah! What I know now, as of 2-74 / 75: how explicated the mystery has become! Perhaps I really know enough: the main sense of it.
+
+Last edit about 5 years ago by sekennedy62
+103
+Complete
+```
+**Co-occurrences**: Acts, Christian, Complete, Perhaps, Time, Black, Mind, Again, Being, Either, More, Real, Secret, Back, Have, Things, Absolute, Truth, Final
+
+---
+### Line 11982-11990 (Match: 'Philip')
+**Folder**: Unknown
+
+```text
+The linear time date of the disclosed world which I saw is the exact historical period in which the resurrected Christ was last reported - at the start of Acts. I forgot that - I was thinking that just (sic) the Holy Spirit was reported present in Acts. He appeared in his resurrected body, + was taken up in a cloud. Was there a bridge across the two worlds, which he traversed? AMORC says he lived on to an old age, at "alto" Carmel.
+
+----------
+
+The EB cites the conversion of Queen Candace's treasurer in Acts, by Philip, i.e. the Blackman, as the model of conversion per se interesting - the EB considers this narrative a major one.
+
+Last edit almost 5 years ago by sekennedy62
+43
+Complete
+```
+**Co-occurrences**: Christ, Acts, Spirit, Holy, Complete, Holy Spirit, World, Time, Just, Body
+
+---
+### Line 12033-12041 (Match: 'Philip')
+**Folder**: Unknown
+
+```text
+Note ➁ p.44:
+
+After 4 years + 4 months of analyzing "Tears" I finally crack the code + retrieve the stegenographic message - + it is precisely in mood, content + detail what I knew (experienced) in 2-74/3-74 in anamnesis! Set in Rome c AD45 (Acts), mood of joyous anticipation - + I can even point to the objective key codeword "Felix." In a very real sense there is topological congruity between "Tears" at all its levels (overt + covered over + encoded) + what I knew in 2-74/3-74 -
+
+One could poetically say, "in 2-74 I fell into my own book "Tears." But in 2-74 I did not know about the Acts, Gospel, + secret exculpatory narrative / message in "Tears." That is a simple, plain fact. e.g. Father Rasch pointed out the 'Philip + the black man' scene to me much later - my first clue to biblical material in the book. + I had never read Acts, etc.
+
++ the "he's alive" exculpatory story - I just cracked that 3 weeks ago (June 1978), 8 years after I wrote the book.
+
++ the anamnesis occurred the very month perhaps the very week, the novel was published!
+```
+**Co-occurrences**: Tears, Acts, Rome, Felix, Perhaps, Father, After, Black, Book, Even, Gospel, Could, Just, Anamnesis, Real, Secret, Finally, Biblical, Very, Later
+
+---

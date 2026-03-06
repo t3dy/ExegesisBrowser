@@ -1,0 +1,345 @@
+# Evidence Packet: Eckehart
+
+- **Category**: Top Term
+- **Total Mentions**: 31
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 2246-2254 (Match: 'Eckehart')
+**Folder**: BOOK OF
+
+```text
+Last edit over 5 years ago by Harpax
+168
+Needs Review
+168
+In fact, since Meister Eckehart beyond all doubt was absolutely ignorant of Greek mystery cults, ignorant of Greek itself, then his description of what and where the Kingdom of God is, constituting as it does an exact description of the Dionysian kind of god-possession, ratifies as a detached observer's analysis that indeed this is what the early Christians sought for and were covertly discussing; that in fact this is what Christianity, like the prior mystery religions, is all about. Meister Eckehart rediscovered what was lost, and at the same time tells us explicitly what was lost, without him probably having realized that there had been a deliberate suppression of this knowledge, and the experience as well.
+
+I've again read the EB article on Mystery Religions; those religions, esp. the Orphics, stressed anamnesis (Plato did, too, and those following him, as did Pythagorias). I ask this, as perhaps the most important question: what is the connection between being possessed by the Deity (which I aver is the same as finding the Kingdom of God), and recollection of ones former but forgotten divinity, as in Orphism and neoplatonism? Is it a becoming for the first time, or a return? Is it new or old? Receiving or restoration? This is important because if it is a restoration then we are or anyhow were divine in nature, and lost it or forgot it, and can retrieve or remember it, get it back. Of course, I again wonder, How, if we are divine, did we come to forget that? This is, of course, the concept of the Fall, this fact, if it is a fact; we fell and forgot, having descended into nonbeing which is the same as forgetfulness. Here now I am back to my early conjectures and ponderings, and there seems no end to this, no solution. I know that I experienced anamnesis, which suggests the recollection (neoplatonist) view. As set over against the Christian view...although for us now, 2000 years later, it would now carry the aspect of restored memory -- of events 2000 years ago; i.e. the Savior, Jesus Christ. This is what confuses me. I remember a Savior who told us it was a new experience. I remember his new message -- observe the paradox. "In a crypt 2000 years old I have discovered new news!"
+
+. . . Egyptian statement: "three gods. As Amon he is hidden for mankind; as Re he is visible in the sun; as Ptath his body is the world," the last meaning he is immanent, as Ptath, here. But it's all One. The hidden god: Deus Absconditus. Hmmmm. "He hides himself for them," i.e. mankind. Absconditus specifically means carefully concealed or hidden or secret, not just happenstance so. For us he is hidden? For our benefit? I read this as: as Re he is transcendent. As Ptath he is immanent. As Amon -- "the workman is concealed in the workshop."
+```
+**Co-occurrences**: Christ, Christian, Jesus, Christianity, Plato, Kingdom, Greek, Well, Perhaps, Plotinus, Like, World, Since, Fall, Because, Time, Harpax, Savior, Does, Anyhow, Just, Again, Kingdom of God, Being, Jesus Christ, Although, Orphic, Divine, Himself, Gods, Probably, Deus, Anamnesis, Without, Those, Most, Orphism, Secret, Deity, Would, Were, Back, Egyptian, Beyond, Have, Body, Memory, Later, Having, Remember, Knowledge, Ptath
+
+---
+### Line 2262-2270 (Match: 'Eckehart')
+**Folder**: BOOK OF
+
+```text
+Needs Review
+169
+I note that Jung says that the AMORC rose represents Dionysos. Since it is placed on the cross, where the Savior was, I assume that if Jung is correct then the rose placed dead-center on the cross is a symbol telling us that our Savior is Dionysos, or, conversely, that Dionysos died on the cross for us, in which case he is our Savior, both of which come out the same extraordinary thing. Also, I had begun to have dreams/visions suggesting Dionysos or at least Zagreus was in fact Jesus, was in fact our dying and then reborn God whom we worship; this is another basic secret disclosed to me. Then, too, the EB speaks of Dionysos as the "god of fruitfulness," which is "felix" once more, and related to Genesis: "Go forth and be fruitful." He is a harvest or grain god. The furrow is the grave; also it is the sexual act -- the phallus is buried in the ditch, and then later there is a harvest. A mystery is revealed here, enacted at Eleuysius. But the experience of the god --being possess-- that is the communion experience, the central matter, as shown in the BACCHAE. The world has never been ready for the god of fruitfulness, which seems twisted. Is life such a frightening thing? In Rollo May's terms, he is Eros versus Thanatos. Who is for thanatos and not for eros? Many people -- the state, to name one. The state crushes life. (Vide the BACCHAE, in which King Pentheus, sorrow, wishes to destroy the stranger, who brings life. It is an archetypal story, with life always winning eventually, having a wild and unpredictable power. The state always goes on formula. It builds prisons and winds up in them, victim of its own slogans. As in EYE IN THE SKY, the slogans fall on those who use (which is misuse) them. The key quality of our god is spontaneity. You can never tell what he is going to say or do next, or even where he will next appear, or most extraordinary of all, what he will look like. Perhaps the next person you meet will be him.
+
+. . . The Meister Eckehart says is absolutely crucial to me, to the highest extent, because: (1) from the beginning I have felt that my 3 74 experience was possession of me by god; (2) that Christianity was involved; (3) which means that Christianity secretly has had to do, always, with being possessed by god, like other mystery religions (which is what Ted Sturgeon says in his novel about Venus). It is all tied together by what Meister Eckehart says about God being born is your soul which is the actual Kingdom of God. Everything else is secondary to this, and probably subsidiary, such as the anamnesis, etc. Eckehart confirms this.
+
+. . . The Eb's article on "Monotheism" says: "Monotheism presumes two entities: God and the universe. But God's relationship to the universe is not merely that of prime mover. He still approaches it, and the manifestations of his continual activity toward it are expressed in history," I am paraphrasing; I guess it means in historical events and certain trends or directions which the flow of history takes. It doesn't have to be all history, but (1) He does manifest himself to us still and (2) we find that in what we call "history" and (3) certain historical events can be said to be manifestations of God or from God. This does not mean that we can discern which events are from him, or which trends, but if the premises are true, then they do exist. I now recall my vivid discernment in 3 74, when I saw not only Rome around me but the brisk rushing of the Christian underground as they arranged certain things to happen, specifically the fall of the tyranny. I must have seen exactly what
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christian, Jesus, Rome, Christianity, Kingdom, King, Felix, Dionysos, Perhaps, Like, World, Since, Fall, Because, Only, Harpax, Savior, Even, Does, Look, Once, Kingdom of God, Both, Zagreus, Being, Everything, Himself, Bacchae, Probably, Anamnesis, Those, Still, More, Jung, Another, Soul, Most, Such, Secret, True, Universe, Will, Other, Many, Have, Things, Life, Pentheus, Later, Having, Sturgeon, Cross, Dead, Genesis, Doesn
+
+---
+### Line 2321-2329 (Match: 'Eckehart')
+**Folder**: part piece
+
+```text
+Last edit over 5 years ago by Harpax
+174
+Needs Review
+174
+sense; but surely for me, as an individual, the entire sequence of depicted events came -- and in the order described. Which causes me to ask, If as Meister Eckehart says, the Kingdom of God is within the Soul of each person (i.e. an entirely individual, inner event) then is not the entire realm of the Parousia, all of it, within the inner individual soul of one person-at-a-time? But if so, then why do not other people report my experience as theirs? Over 2000 years there is no individual report like mine, except perhaps Eckehart? Well, no matter how I cut it I will have trouble explaining some parts.
+
+It is possible that in some way, or for some reason, I somehow (this is heavy) died but did not die. Vide the photo of me. I passed by degrees across to the other side, and then returned, reborn.
+
+Let me assert as a possibility this: that as Teilhard de Chardim says --mankind following Christ as a species along through the stations of the cross-- I went through the vicarious experience of the Passion... or was it vicarious? It was real. That all took place, had to take place, to usher in 3 74, the rebirth. As Hoyt Axton says, "Most people want to fly to heaven, they're not willing to climb."
+```
+**Co-occurrences**: Christ, Kingdom, Well, Parousia, Perhaps, Like, Time, Harpax, Realm, Kingdom of God, Teilhard, Through, Soul, Most, Heaven, Real, Will, Other, Somehow, Surely, Have, Except, Cross
+
+---
+### Line 2435-2443 (Match: 'Eckehart')
+**Folder**: part alone
+
+```text
+if not certainly, my perceptions of the outside universe cleared up and became lucid and total because my inner world, my psyche, cleared up and became lucid and a total unity: like outer, inner; like inner, outer. In Jungian terms I abruptly integrated the contents of my mind, with spectacular results (hence all the dreams about alchemy and the Greek period). (I got down to archetypes of the collective unconsciousness, to the very bottom.) This is the road; this is how you do it, total integration. This is the road to God, withdrawing all projections, reconciling the opposites, release of all libido. Transformation from ego to true self. BUT -- How did I accomplish that, while lying in my room listening to bubblegum rock, with no outside help (sic: none?)? Spontaneous psychic integration, the goal of analytical psychology. I went on the journey into the unconscious, which Jung and John Wier Perry describe (period before the graphics). (Resembling the Bardo Thodol.) Perhaps it could be properly said, as I sometimes think, that my psychotic journey began in 1970 in earnest that day I kept playing the Paul McCartney record over & over, when Nancy & Isa left. I had been "neurotic" until that day, but starting that day I suffered a collapse mentally, and descended into the world of dreams and nightmare and half-sleep, through which I moved only partically conscious...yes, this indeed is so, is so, and must never be forgotten in understanding this: I was on this journey from mid-1970 up until 3 74, when I returned from out of the depths, into bright day light, integrated and whole, for the first time in my life, carrying back up with me the pearl of great price -- thus showing John Perry to have been right. During those years I lived among huge archetypical projections of a collective sort; yet, it is so. What a world of daemons and so forth that was -- the --
+
+Four years in that strange underwater world...from shock and grief, wandering like a shade over the landscape, among shadows.
+
+Also, it must be realized that the journey part (1970/74) was characterized by acute primitivism of outlook on my part, the mystique thing Levy-Broul talks about (I think I'M talking about schizophrenia, here, not manic depression). But this indicates that the 3 74 experience, which was re-entry, is non-psychotic, a healed experience, and the withdrawn projections indicate a sophisticated non-primitive viewpoint or functioning. As Jung says re Meister Eckehart, by withdrawing my projections I experienced God psychologically, as an inner event not entangled with external objects, but purely so: authentically. Put another way, starting with the chromatic graphics, I evolved up through 2000 years of human history-evolution-psychological-growth. Thus a very archaic personality came awake in me, suddenly, which is to say, the adult I had never been in all my life. Buried deep in my collective unconscious all these years, it possessed spiritual and practical wisdom acquired from the archetypes. Therefore I say this new personality or person was created from the deepest levels of my psyche, a child or rather new man from the collective experience and wisdom of the race, and has an incontestable superiority over my original ego self. This fits the description of "born again" as certainly as could be. From madness to sanity and a new, better self. I think I should feel free to attribute the blind man to see: it shows God's love. Certainly I did not heal myself, and it is hard to rationalize that it somehow was spontaneous,
+
+Last edit over 5 years ago by Harpax
+182
+Needs Review
+```
+**Co-occurrences**: Paul, Greek, Wisdom, These, Perhaps, Like, World, Because, Therefore, Only, John, Time, Harpax, Mind, Light, Could, Bardo, Thodol, Again, Bardo Thodol, Self, Great, Those, Part, Jung, Another, Through, Certainly, Love, Before, True, Universe, Somehow, Very, Back, Have, Journey, Life, Jungian, Nancy, Suddenly, During, Human, Free, Right, Until
+
+---
+### Line 17936-17944 (Match: 'Eckehart')
+**Folder**: folder 21
+
+```text
+Last edit 5 months ago by Zebrapedia
+Page 7
+Indexed
+Page 7
+In 3-74 that which was in me was that which was outside me. {1} This is not the Holy Spirit; the only theology which describes this is the Eckehart-Sankara Atman-Brahman or Spark-Godhead - the division between me as microcosm (inner) and the macrocosm (outer) was abolished. This is not "theolepsy" - this is the Eckehart-Sankara concept of Moksa. God born in the person and the Godhead outside. Only my ignorance of theology has prevented me from realizing that only the Eckehart-Sankara concept can explain this experience.
+
+{1} and that which was outside me was not localized (i.e. a part of reality but was the totality, viz.: cf. Xenophanes).
+
+I have confused "theolepsy" with this inner-outer identity (unity) of the divine. Its holiness was indubitable.
+```
+**Co-occurrences**: Indexed, Spirit, Holy, Holy Spirit, Brahman, Godhead, Only, Zebrapedia, Reality, Sankara, Atman, Divine, Part, Xenophanes, Page, Have
+
+---
+### Line 17942-17950 (Match: 'Eckehart')
+**Folder**: part of
+
+```text
+{1} and that which was outside me was not localized (i.e. a part of reality but was the totality, viz.: cf. Xenophanes).
+
+I have confused "theolepsy" with this inner-outer identity (unity) of the divine. Its holiness was indubitable.
+
+Via the Eckehart-Sankara route can I see how my experience could be xtian and Brahmansitic. As I correctly explained it in "Valis" what "Zebra" invades (in theophany) is maya - inner and outer maya.
+
+Last edit about 6 years ago by Zebrapedia
+Page 8
+Indexed
+```
+**Co-occurrences**: Valis, Christian, Indexed, Zebra, Could, Zebrapedia, Maya, Reality, Sankara, Divine, Part, Xenophanes, Page, Have
+
+---
+### Line 17948-17956 (Match: 'Eckehart')
+**Folder**: part of
+
+```text
+Last edit about 6 years ago by Zebrapedia
+Page 8
+Indexed
+Page 8
+And I entered the "timeless total present" which Eckehart describes as the way God experiences time: all is now.
+
+It's interesting that my coming across this Eckehart-Sankara explanation was held back until after I finished "Valis" - in which (without being able to identify what happened) I depict this Moksa.
+
+The fact that in the writing of "Valis" I suddenly picked "The Friends of God" - which is correct - shows divine inspiration for the book for sure.
+```
+**Co-occurrences**: Valis, Indexed, Time, After, Book, Zebrapedia, Sankara, Being, Divine, Without, Page, Back, Suddenly, Until
+
+---
+### Line 17950-17958 (Match: 'Eckehart')
+**Folder**: part of
+
+```text
+Indexed
+Page 8
+And I entered the "timeless total present" which Eckehart describes as the way God experiences time: all is now.
+
+It's interesting that my coming across this Eckehart-Sankara explanation was held back until after I finished "Valis" - in which (without being able to identify what happened) I depict this Moksa.
+
+The fact that in the writing of "Valis" I suddenly picked "The Friends of God" - which is correct - shows divine inspiration for the book for sure.
+
+Although this (my experience) is above any given religious system (as Sankara) pointed out, my acosmism (maya) points to Sankara - for me, a Sankaran xtianity, which may be the real explanation: a melding of xtianity and Sankarism.
+```
+**Co-occurrences**: Valis, Indexed, Christianity, Time, After, Book, Maya, Sankara, Being, Although, Divine, Without, Real, Page, Back, Suddenly, Until
+
+---
+### Line 17968-17976 (Match: 'Eckehart')
+**Folder**: book for
+
+```text
+Indexed
+Page 9
+This resembles "Timaeus." Thus I state, as I do in "Valis," an irrational (and irreal) cosmos, into which God (the rational) breaks. This isn't ordinary pantheism or the usual concept of immanent deity.
+
+The only way we could see that our universe - and us - are irrational is when God the rational bursts in and we have something rational to compare the irrational with. This is my contribution to Gnosticism, Eckehart, etc.
+
+And I express this original - with me, from me - cosmological/theological idea fully in "Valis"! I've gotten away from the mere acosmism I express in earlier novels, to something worse. But I am right! I had the rational to compare it with. So "Valis" carries the idea of "Scanner" (occlusion from man to the universe). If the universe were rational, God (Zebra) would not have to invade it.
+
+The clearest way the universe reveals its irrationality is that it continually contradicts itself. The irrational thus becomes the interior bulk, data including info [1] within it. [1] true _____see MS
+```
+**Co-occurrences**: Valis, Indexed, Zebra, Gnosticism, Scanner, Only, Could, Something, Timaeus, True, Universe, Deity, Would, Page, Were, Have, Info, Right
+
+---
+### Line 21646-21654 (Match: 'Eckehart')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+169
+Needs Review
+169
+61 It is rather striking to realize that you're no conger [fully] alive but this is precisely the situation presented in "Ubik" + 3-74 is so like "Ubik" that I've never been able to ignore it Ubik/Valis is the macro-entity which coordinates all the idios tapes into a koinos or kosmos synchronizes them, harmonizes them, links them into objective reality, so that one reality emerges, rather than an infinitude of idioi kosmos. all the individual tapes are fed into it by all the dying selves. Unless you can trace your reality back from Ubik/Valis to your own self you will properly regard Ubik/Valis as God the creator, but there is this one further step of enlightenment: 2) t et at this (self real (Valis is a B i i a e as in "Maze," they program the computer into which they are plugged in their polyencephalic tusion - so "Maze" is in some ways more accurate than "Ubik." Clearly, I am searching for the irreducable source of reality, + I find it n the minds of the receivers (percipients). But through a very intricate process. Here is where at tvam asi + Karma both come in. in diagram (2), A + C can replace each other uddenly, but not so in (1). So (2) conforms to "ankara + Eckehart, but (1) does not. (1) is just sort of Platonism + not all that sophisticated 2) also shows why we can't simply modify reality by thinking about it; between self + eality stands c: the macro-generator which maintains kosmos. This is why magic fails For one thing there is a lag; C is utilizing vior contents of A, not current ones. studying
+
+Last edit almost 3 years ago by svayambhu108
+170
+Needs Review
+```
+**Co-occurrences**: Valis, Ubik, Maze, Like, Platonism, Karma, Does, Just, Both, Diagram, Reality, Kosmos, Self, Creator, Their, More, Through, Real, Macro, Will, Other, Very, Back, Further, Clearly, Unless, Magic
+
+---
+### Line 22119-22127 (Match: 'Eckehart')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+35
+Needs Review
+35
+235 i Well, then it enters its own creation camouflaged by simulating parts of that creation. This is not panpsychism or immanent deity. No, it is a form of immanent deity. Isn't this the Christ story? God enters his own creation at the bottom level, as a despised + humiliated man (Jesus). That must be it. He is here disguised; he simulates pieces This is the of reality - can even pose as a human. simulation which shows up in "Joint" at the soft drink stand. It is basically information. Eckehart is right intellegere is its basis, not esse is it reabsorbing its own exhaled creation? is it reinforcing or breaking down its creation? is it using its creation as a facia? Cf the theophanies of the O.T. If it is God it is not remote; the certainly not the deistic or even theistic God. EB says of Eckhart that his 4 stages re-enact Christ his stages of the passion. It seems to me that in + This lies everything - as explanation to 3-74. I found my way along the route, + fiel ready at this point to abandon my burden + accept the true factly. I think of the Xerox missive + the "flipped peany" logic problem (Holmes + moriarty on the train). The trap which to be opened must first it be opened + then you get in; after you are in, cannot be opened (but the rules require you to get in; so you solve first - you go 1) answer; + then 2) puzzle - which is what happened re the You have to Xerox missive as proved by "Faith of. start with the solution. + then proceed to the problem. otherwise you have no method but the flipped coin which yields 50/50, but if they can freight one horn they rule out the flipped coin because you will not see it as the "Holmes + moriarty on the train" situation + so will not solve by randomization (minsmax).
+
+Last edit almost 3 years ago by svayambhu108
+
+36
+```
+**Co-occurrences**: Christ, Jesus, Xerox, Form, Well, Because, After, Faith, Even, Joint, Reality, Missive, Everything, Xerox Missive, Certainly, True, Will, Deity, Creation, Have, Information, Eckhart, Otherwise, Human, Right, Answer
+
+---
+### Line 22124-22132 (Match: 'Eckehart')
+**Folder**: Unknown
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+36
+236 The only way I saw the conscious volitional unitary entity behind (?) the plura phenomenal (empirical) world was because my ego died, + that outer conscious entity invaded me + became (replaced?) me. It was as much in me as outside me; I was integrated into it (its structure of relationships). This is very close to Sankara. My ego was as counterfeit as the phenomenal world. Speaking theologically, the Lord was everywhere outside me + in me as me. I honestly cannot make a clear distinction between the perception that it was already in me but dormant hence was somehow born - in contrast - + to it invading me. The integration was that perfect. This, too, supports eckehart + san‐ kara. I had given birth to God in my soul, or God had invaded me + replaced me + now posed as me, just as he posed as the world - posed as me. Freemantle objects to this, but the question is not, is this monism The empirical world good but is it true? causality + plurality is a pose it takes. of had been I a pose it took, voluntarily for + getting. In 2-74 it remembered + what is more I have evidence ("MITHC" + "Faith of") that the providential Lord laid down clues in advance to remind him, when the crisis came, of his identity, so he could solve the problem of the crisis + not ctim to untimely death vi t tal
+
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+```
+**Co-occurrences**: Lord, World, Because, Only, Faith, Good, Could, Just, Sankara, More, Soul, True, Death, Somehow, Very, Have
+
+---
+### Line 22153-22161 (Match: 'Eckehart')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+41
+241 not only disorder but irreal, +, penetrating it, is Ubik which is not the same as it but none‐ theless is everywhere. The relationship between The world + Ubik is precisely that of the debris of the former cosmos to the cosmic Christ - + the nature of the world in "Ubik" is that of the world here, + Ubik's that of the cosmic Christ or Logos. So in "Ubik" I have pictured our actual condition. Thus we are essentially in the situation of half-lifers, experiencing a counterfeit reality composed of boosted memory or former thought formations of our own minds; if it should happen that we recognize an event as an exteriorization of a former thought content of our own mind we - that mind - is at once converted, as Eckehart taught, into - not Jesus - but the Father the creator himself, author of world who has literally thought it into existence + now must undergo c endure) it immediately the role between self + world reverses instead of world impinging as macrocosm on self as microcoum, the self - as Father - is holder of all creative power + melts the causal train events of world which has now assumed the aspect of mere thought-projection, like a hologram, under the father's control Ubik is the projected present total mind I The Father underlying + governing world. it is mirror to the center, the Father who has recovered his lost identity + brought his remory forward in time by going backward in time to the sacred mythic beginnings
+
+Last edit almost 3 years ago by svayambhu108
+42
+Needs Review
+```
+**Co-occurrences**: Christ, Ubik, Logos, Jesus, Father, Like, World, Only, Time, Cosmic, Mind, Cosmic Christ, Once, Reality, Self, Himself, Creator, Under, Have, Memory, Instead, Sacred
+
+---
+### Line 22233-22241 (Match: 'Eckehart')
+**Folder**: Book of
+
+```text
+Last edit over 4 years ago by Ernieglz
+53
+Complete
+53
+Without Valis the info would be merely the plasmate [info]. Yes - the plasmate is the info [Qua] info in its pre-world [fed] state [or] else the plasmate is instructions as to what to do; ie how to respond. [No], I think by means of Valis immanent in [ui??] (of Eckehart & Boehme) we worldify the plasmate, which explains how I could synthesize Acts Qua world in "tears." The Bible must be like a basic info manual. The manual which as info comprises the eternal substructure of our world: always true. It's so to speak the Book of which out world is the movie of. So the reason 3-74 resembled "UBIK" & Valis UBIK is that our situation is that depicted in "UBIK" almost literally. I was right when I wrote the authoities that "UBIK" probably contained actual & true scientific information. The presocratics were right. Despite appearances the universe is [unitary], alive, & change is an illusion. Ie it is Valis . "One God there is..." Of course: 3-74 (the Xerox Missive & tax situation) was the point at which I originally died. That's why Valis as "thomas" had to take over to prevent a [slave-tape? take?] reprise. & I saw it coming; hence my extreme anxiety in the months preceding 3-74 & at the time, this was the real nature of my recognition! This fits my insight about the sefiroth as the 10 hypostases or stases of the dying soul! Suppose our memories are fed back to us in a feedback loop &we are either free to react differently than we did originally, or even this = Valis prompts us to react in improved
+
+Last edit over 4 years ago by Ernieglz
+54
+Complete
+```
+**Co-occurrences**: Valis, Tears, Acts, Ubik, Thomas, Complete, Xerox, Bible, Like, World, Time, Book, Even, Could, Jakob Boehme, Suppose, Missive, Xerox Missive, Either, Probably, Without, Soul, Real, True, Universe, Would, Were, Back, Information, Info, Free, Right
+
+---
+### Line 22262-22270 (Match: 'Eckehart')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+58
+Needs Review
+58
+25 exists at all it must exist in this world, + so, upon writing about it, I could reason that it is possible that I wrote about it be cause it exists; however, this could only be verified by later empirical experience. Well, it later was; ergo, I wrote about a ubiquitous entity because it exists. One could argue that I experienced Valis in 3-74 because I could conceive of it in the sixties. This seems to argue that we experience what we preconceive, which is strong case for the subjective plasticity of a reality. But this argues that I self-programmed myself to experience all of 2-3-74, which means that I somehow created Valis, the pharmacy girl me + the 2 CP letters - which makes God the Father cf Eckehart). I am back to the "stages of the Journey of the soul" with Valis as world made out of - not [former] contents of my mind - but my mind itself. In which case I gained control over my own karma, but this argues for a "Ubik" or Bardo Thodol counterfeit reality, + we are back where we started. The solution to "how did the contents of -3-74 arise years earlier in my writing?" lies in the nature of these contexts; viz: Valis + Ubik, The condition / world of "Ubik." No matter how you cut the deck, the same results obtain; Ubik" is true + Ubik exists. + Lem is right bout world as prior forgotten memories. + some kind of feedback loop exists which causes reality to more + more approximate kosmos (a given model, y or as the Logos). It is a self-correcting system due to this feed back loop, + this is omeostasis, + "homeostasis is the basis of Valis as I've og realized is
+
+Last edit almost 3 years ago by svayambhu108
+59
+Needs Review
+```
+**Co-occurrences**: Valis, Ubik, Logos, Well, However, These, Father, World, Because, Only, Mind, Karma, Could, Bardo, Thodol, Bardo Thodol, Reality, Kosmos, Self, Girl, More, Soul, Upon, True, Somehow, Back, Journey, Later, Right
+
+---
+### Line 22497-22505 (Match: 'Eckehart')
+**Folder**: book comes
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+91
+28 Oh yes - + the Acts material in "Tears." it now becomes explicit + precise. Acts is the time place where the resurrected Christ appeared, + is the "Gospel of the Holy Spirit" The blood (plasmate) is living info + the body (Valis) is living structure of reality based on the info. 2-3-74: the way of the cross (Eckehart). the info in all its forms, point: to the presence of a great thinking mind which is everywhere + which uses reality as a braing So that the info is physical. Thomas performing the early secret sacra o ments. + the fear specifically of Romans Passover: the angel of death. The paschal lambs blood as sign caused the angel to pass over the home involved (i.e. not kill those within). My experience with the cold white light illing the room, the angel of death, + then pinky as sheep dying on my plain wasn't this re-enactment of passover per se? + I connected pinky + the whole 2-3-74 experience with passover. then indeed my actual physical life was at take. He as the Lord died for me. If a number of discrete objects + processes set" ("Fire") (synchronize) in such an evident way as to indicate a design arranging them, then they are worked from within by a harmonized motivation. Now the way you could bring this bout through normal causality would be to arrange each vertical shaft independently of all the others, but if you had absolute power + absolute knowledge you could arrange a
+
+Last edit almost 3 years ago by svayambhu108
+92
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Tears, Acts, Thomas, Spirit, Holy, Holy Spirit, Form, Roman, Lord, Time, Mind, Light, Gospel, Could, Pinky, Reality, Great, Those, Through, Living, Such, Secret, Death, Would, Angel, Life, Absolute, Body, Info, Passover, Knowledge, Cross, Blood, White
+
+---
+### Line 22909-22917 (Match: 'Eckehart')
+**Folder**: book really
+
+```text
+Last edit almost 3 years ago by svayambhu108
+162
+Needs Review
+162
+388 externalized, magnified form; this is why Valis resembled Ubik - in fact why it "existed" at all. I do not quite understand this, but I had generated a world (idios kosmos), or found world isomorphic with my own mind, a 2-mirror mutual reflection I did not merely see back + forth: the divine in the trash; by an act of will put it there. This was a divine trans‐ t cendence of world as material + inanimate. it was an act of divine creation re-enact (+ hence being) the creator's original Thus I act of creating the intact kosmos. was no longer son (v. Eckehart) but Father What must be realized is that The normal bipolarization of the divine + the trash is a partial madness. to reintegrate them is actual sanity. When reintegrated the two realms turn out to form a language: hieroglyphs of God," which is a surprise. The divine element arranges, + the trash element is that which is arranged. Which is a capsule description of the relation of the deity t to creation in toto, viewed this way it can be understood why the two realms should not be bipolarized but integrated: how can the arranger exist without something to arrange, + how can the arrange exist coherently without the arranger? Eash is to the other + together they form a vital
+
+Last edit almost 3 years ago by svayambhu108
+163
+Needs Review
+```
+**Co-occurrences**: Valis, Ubik, Form, Father, World, Mind, Something, Kosmos, Being, Divine, Viewed, Without, Creator, Will, Deity, Other, Creation, Back
+
+---
+### Line 22927-22935 (Match: 'Eckehart')
+**Folder**: part fell
+
+```text
+Last edit almost 3 years ago by svayambhu108
+165
+Needs Review
+165
+86 This is the secret of secrets + is known in [zen] Buddhism as well as Xtianity (+ also in Cabala.) (+ sufi.) Gnosticism particularly understands the ontological repair value of it, The Hermetics are able to explain how the repair in the microcosm (person) Acts to repair the macrocosm; so does cabala. Thus when God (Valis, Ubik) breaks out in the world or into the world (epiphany or invasion) it takes this form: penetration of the absolute lowest stratum or not at all. God is no longer transcendent, or, put another way, world is no longer fallen. God does not descend but erupts. So I would perceive The divine as an acutely ingenious camouflaged entity within world, mimicking it, blending with it + yet "tugging" it away from plumb (as supra put it: a valence). + the fact that I This superimposition would show up as contour enhancement points to an antecedent unity of the then sundered realms - a truly aston ishing realization, + one that lets us in on the primal secret These last few pages (based on a rereading of "the man who knew") are the most important that I have written, simple though they be. I am especially delighted by the realization taken from Eckehart, that I briefly became the father generating cosmos - intact cosmos, re capitulating the original act of creation so that time was overcome, the time in which the cosmos ruptured + part fell. What I experienced, then, in 3-74, was cosmos i restored to its intact origin al tate
+
+Last edit almost 3 years ago by svayambhu108
+
+166
+```
+**Co-occurrences**: Valis, Acts, Ubik, Christianity, Form, Well, Gnosticism, These, Father, World, Time, Hermetic, Does, Buddhism, Divine, Part, Another, Most, Secret, Would, Creation, Have, Absolute
+
+---
+### Line 24003-24011 (Match: 'Eckehart')
+**Folder**: Unknown
+
+```text
+Last edit almost 3 years ago by svayambhu108
+140
+Needs Review
+140
+such a massive conversion of space into time would narrow my choices down to null choice; I'd be made into a "machine," as I put it. Not only would I have no choice but I'd do a lot of things very rapidly. Like a film speeded up. This explains my sense of having been programmed. Kozyrev is correct to view time as energy (poured into a material system. The universe). trick the magician by suddenly amping the percept-cognitive system of the up percipient (audience). Valis: wakes you. God. You can see the conjurer's tricks. Not a snake but a piece of rope. The dialectic. Stratesy; building on, turning evil (deception) into Wisdom (Good). Sankara - Eckehart. God. Valis. Wakes you. woke me up in 2-3-74. Saw conjurer's tricks. Fakes. Delusions not hallucinations. (Maja. Wake up: you are atman Valis = Brahman = God, the thous Delusion - intoxication - bichlorides. Not awakes dialectic: Zoroastrianism, revealed to me. Spinoza's monism is wrong - leaves out the conjurer. Fake - conjurer - asleep - Palmer Eldritch. lies drugged. Mask. + naturata realm one of delusion; only is rea (Valist Naturans
+
+Last edit almost 3 years ago by svayambhu108
+
+141
+```
+**Co-occurrences**: Valis, Brahman, Spinoza, Wisdom, Like, Only, Time, Good, Realm, Sankara, Atman, Eldritch, Palmer, Palmer Eldritch, Such, Zoroastrianism, Universe, Would, Very, Have, Things, Fake, Evil, Having, Dialectic, Suddenly
+
+---
+### Line 24026-24034 (Match: 'Eckehart')
+**Folder**: part informed
+
+```text
+Last edit almost 3 years ago by svayambhu108
+144
+Needs Review
+144
+535 What I specifically can't do is pin it (2-3-74) down to any given religion + any given sect or creed of any given religion. For example, God seems to be immanent (suggesting pantheism. Spinoza, Brahmanism, the pre-socratics) but he could be invading the cosmos or as the EB says of the Logos entering it anew." There is a distinct impression of a unity, not plural reality, a dialectic suggesting Zoroastrianism t So I really have God, God close by, God intelligent, powerful, foresighted + willing the fulfilling of a pattern, structure, artifact s organism (entelechy) or plan, + probably pronoia + certainly a working through + as, not despite, natural law. About all I can reject is theism (transcendent deity) +, most of all, deism. Xenophanes gives most of the characteristics I'm sure of; so does Plato; so does Pythagoras; so does Plotinus. As do Boehme, Eckehart + Buber. + certainly Spinoza. Not to mention Empedocles + Mani + the N.T. but isn't this - that I am sure of - that hich means most to me? Certainly, think my mistake all along has been I try to match 2-3-74 up to verify one erticular sect, creed, religion (e.g. Gnosticism eoplatonism Roman Catholicism). It doesn't ork that way. As Xenophanes pointed out, very specific religion (sect, cult, etc) is rade by men in the image of themselves, which to say given humans within a given culture t 2-3-74 experience was directly with God, of that I am now sure it was a not specifically Eastern or wester.
+
+Last edit almost 3 years ago by svayambhu108
+145
+Needs Review
+```
+**Co-occurrences**: Logos, Plato, Gnosticism, Roman, Spinoza, Plotinus, Pythagoras, Could, Does, Jakob Boehme, Reality, Empedocles, Probably, Brahmanism, Through, Most, Xenophanes, Certainly, Zoroastrianism, Deity, Very, Have, Artifact, Mani, Eastern, Dialectic, Doesn
+
+---

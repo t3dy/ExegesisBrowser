@@ -1,0 +1,346 @@
+# Evidence Packet: March
+
+- **Category**: Top Term
+- **Total Mentions**: 87
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 8-16 (Match: 'March')
+**Folder**: Unknown
+
+```text
+We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.
+
+This "decay" is the same direction the Holy Spirit (or whatever you wish to deem it) was moving. Backward vis-a-vis our own time. So Joe Chip isn't seeing the anti-eidos. He is seeing the natural process of the other time exposed. Its normal motion under normal conditions leads back from rocketship to Corvette to La Salle to Model T. I mean, isn't this important, to realize this? He has already seen it decay via a different axis (the Platonic forms); but he still calls it decay and imagines that what he sees is a reversal of its normal growth direction.
+
+Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '56 Chevy to ionosphere...that for it would be the "film pulled backwards," so to speak. Joe (i.e. I) saw it naturally. So within our linear time, form (edola) develops in the opposite direction to what we in linear time see. "To enter the Kingdom of Heaven you must be as little children," He said, our Savior. We must regain what in regular time is the past; orthogonally it is the future. Then what happend to me in March, I didn't move backward, in linear time; I moved forward, to the completion of time. I saw time completed: the great Iron City which fell to the people hustling their asses for man and for God, for Justice and Truth and Joy and Freedom. I saw the Parousia.
+
+I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
+
+I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
+```
+**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Iron, Time, Savior, Could, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+
+---
+### Line 32-40 (Match: 'March')
+**Folder**: part was
+
+```text
+It has happened, the Prince of this World fell.
+
+This all has been an unfolding process. A revealing or disclosing of Being.
+
+The Final Things (Parousia) is this: when God and his forces break through, penetrate into, linear time, and intervene for us. This took place. (March 1974.) This did happen. And the sign of its approach, and symbol, was the dream in FLOW MY TEARS; the old white haired king on horseback -- imminent approach of Our King to assist us.
+
+Time didn't reach its completion as an entelechy does; it was pierced -- breached. I'm a pre-cog and I saw this, in my dream, in 1970, which I put in TEARS. It was published in Feb 1974. The rat which died died here in this apartment in March 74, as prefigured in the dream; but in the dream, I was amid the posse, on horseback; thus, some part of me, the "equal" part, survived. The rat was the part of myself which had to perish, and is based on an event in the '50s when I had the murder a poor rat which had gotten in among my sleeping little girls. It shrieked so when it heard me approaching, but I had to kill it. I buried it with my St. Christopher's medal. It is now raised up as Christopher...my son's name, born in 1973. Rog Phillips (who autographed this story of his "Rat in the Skull, 'To Phillip K. Dick, a name under which I frequently write' and who now is dead--) in that great story of his he has the rat pray with its foot, by moving its foot, as the boys destroy it; I cried over that (in the 50s) and when I met Rog just before his death, in 1964, got him to autograph it.
+
+Yes, I see -- that rat was the instrument of saving me; I died with it, and I prayed for it when I killed it; and it's been transformed...in Rog's story, the rat operated a humanoid robot, an android; it could manage to say, "Mama" and "papa" and could recognize the two people who were testing it, the android. It worked pedals. When the boys removed it, it was trying to work the pedals, now gone, and Rog said, It was as if it were praying. I'm sorry, poor rat; Rog is dead; the rat is dead, and I must stop typing or Tessa will get me.
+```
+**Co-occurrences**: Tears, King, Parousia, World, Time, Could, Does, Just, Being, Great, Tessa, Part, Through, Dick, Before, Death, Will, Christopher, Were, Under, Things, Dead, Dream, Final, White
+
+---
+### Line 34-42 (Match: 'March')
+**Folder**: part of
+
+```text
+This all has been an unfolding process. A revealing or disclosing of Being.
+
+The Final Things (Parousia) is this: when God and his forces break through, penetrate into, linear time, and intervene for us. This took place. (March 1974.) This did happen. And the sign of its approach, and symbol, was the dream in FLOW MY TEARS; the old white haired king on horseback -- imminent approach of Our King to assist us.
+
+Time didn't reach its completion as an entelechy does; it was pierced -- breached. I'm a pre-cog and I saw this, in my dream, in 1970, which I put in TEARS. It was published in Feb 1974. The rat which died died here in this apartment in March 74, as prefigured in the dream; but in the dream, I was amid the posse, on horseback; thus, some part of me, the "equal" part, survived. The rat was the part of myself which had to perish, and is based on an event in the '50s when I had the murder a poor rat which had gotten in among my sleeping little girls. It shrieked so when it heard me approaching, but I had to kill it. I buried it with my St. Christopher's medal. It is now raised up as Christopher...my son's name, born in 1973. Rog Phillips (who autographed this story of his "Rat in the Skull, 'To Phillip K. Dick, a name under which I frequently write' and who now is dead--) in that great story of his he has the rat pray with its foot, by moving its foot, as the boys destroy it; I cried over that (in the 50s) and when I met Rog just before his death, in 1964, got him to autograph it.
+
+Yes, I see -- that rat was the instrument of saving me; I died with it, and I prayed for it when I killed it; and it's been transformed...in Rog's story, the rat operated a humanoid robot, an android; it could manage to say, "Mama" and "papa" and could recognize the two people who were testing it, the android. It worked pedals. When the boys removed it, it was trying to work the pedals, now gone, and Rog said, It was as if it were praying. I'm sorry, poor rat; Rog is dead; the rat is dead, and I must stop typing or Tessa will get me.
+
+Last edit over 5 years ago by Toso
+```
+**Co-occurrences**: Tears, Toso, King, Parousia, Time, Could, Does, Just, Being, Great, Tessa, Part, Through, Dick, Before, Death, Will, Christopher, Were, Under, Things, Dead, Dream, Final, White
+
+---
+### Line 56-64 (Match: 'March')
+**Folder**: part of
+
+```text
+I think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND IN THE WILLOWS, to God. ("A motorcar???")
+
+God has returned. Resumed his Kingship (the Kingdom of God has been restored, here). I saw it --him-- in the alley, as I walked. I never saw that before because He was gone from her; or rather, our eyes were "dead," i.e. we were blind. He is with us again, as last night revealed; as soon as I got stoned and wint in to pray when I glanced up I saw two huge tree-trunk legs and shoes/feet -- a Great Man standing between me and my shrine. He was there...like I saw Mrs. Donlevy. ("God of the House of Levi".) (Discarded shoes on the beach...tennis shoes -- but huge and filled, but mostly the tree trunk legs. So dense. He remains here.)
+
+I forgot; only after that did I see anything else (e.g. Dionysos). My experience wouldkn't have been possible in our lineal time prior to March 1974. (He wasn't here.) And He remains; hence they can reoccur.
+
+(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.
+
+Yes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh.
+```
+**Co-occurrences**: Rome, Kingdom, Well, Dionysos, Elijah, Like, Because, Iron, Only, Time, After, Just, Again, Kingdom of God, Great, House, Before, Kingship, Were, Have, Tree, Dead
+
+---
+### Line 60-68 (Match: 'March')
+**Folder**: part of
+
+```text
+I forgot; only after that did I see anything else (e.g. Dionysos). My experience wouldkn't have been possible in our lineal time prior to March 1974. (He wasn't here.) And He remains; hence they can reoccur.
+
+(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.
+
+Yes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh.
+
+First, the "Artist" (logos) is drawing you (or universe is fashioning you) more and more like Christ. These are first kinds of changes: you're made to look i.e. be like him. But the real thing is when you can see the likeness. First, see him seated there, being drawn, then see that you the 1.5 minute sketch resemble Him; its when you see that affinity, that's the last transformation, in you. That follows in linear time what the artist (continual creation) is doing: upon completion, of the entelechy; when time stops, being "filled up" or rrealized.
+
+Last edit almost 3 years ago by jhordan
+```
+**Co-occurrences**: Christ, Logos, Rome, Well, Dionysos, These, Elijah, Like, Iron, Only, Time, After, Just, Look, Being, More, Real, Upon, Universe, Creation, Have
+
+---
+### Line 68-76 (Match: 'March')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by jhordan
+4
+Complete
+4
+If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? I was indeed describin the Parousia when I described the "decay" along the orthogonal axis in UBIK which is logical). I myself first hit the Dies Irae when I first dropped acid (about 350 [mices?]). It was cold, it was hell; I used it in later books (e.g. UBIK, [MAZEF?] OF DEATH). Now, how come I in March experienced what you're supposed to only after you're dead? I was judged and so forth, all those things, now. Either this says something about what befell me, or what befell our world in March 1974 (or both). Was it a freak thing for me, a dispensation or accident, lke being allowed to stay up late or all night, etc. as a child?
+
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+```
+**Co-occurrences**: Ubik, Complete, Rome, Form, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+
+---
+### Line 70-78 (Match: 'March')
+**Folder**: part of
+
+```text
+Complete
+4
+If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? I was indeed describin the Parousia when I described the "decay" along the orthogonal axis in UBIK which is logical). I myself first hit the Dies Irae when I first dropped acid (about 350 [mices?]). It was cold, it was hell; I used it in later books (e.g. UBIK, [MAZEF?] OF DEATH). Now, how come I in March experienced what you're supposed to only after you're dead? I was judged and so forth, all those things, now. Either this says something about what befell me, or what befell our world in March 1974 (or both). Was it a freak thing for me, a dispensation or accident, lke being allowed to stay up late or all night, etc. as a child?
+
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+
+The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat I tossed the St. Christopher's medal into his grave with him, poor rat who only wanted to live. But you see how I had been educated by that dreadful morning: the rat had to be killed because of my little girls. It was a lesson for me, uniquely my lesson: that death was unavoidable in more than the descriptive way: that creatures do die. I saw that day that sometimes they should die; that it was of a moral necessity that I literally kill that rat. I never had that rat's
+```
+**Co-occurrences**: Ubik, Spirit, Complete, Rome, Form, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+
+---
+### Line 72-80 (Match: 'March')
+**Folder**: part of
+
+```text
+If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? I was indeed describin the Parousia when I described the "decay" along the orthogonal axis in UBIK which is logical). I myself first hit the Dies Irae when I first dropped acid (about 350 [mices?]). It was cold, it was hell; I used it in later books (e.g. UBIK, [MAZEF?] OF DEATH). Now, how come I in March experienced what you're supposed to only after you're dead? I was judged and so forth, all those things, now. Either this says something about what befell me, or what befell our world in March 1974 (or both). Was it a freak thing for me, a dispensation or accident, lke being allowed to stay up late or all night, etc. as a child?
+
+This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
+
+Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
+
+The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat I tossed the St. Christopher's medal into his grave with him, poor rat who only wanted to live. But you see how I had been educated by that dreadful morning: the rat had to be killed because of my little girls. It was a lesson for me, uniquely my lesson: that death was unavoidable in more than the descriptive way: that creatures do die. I saw that day that sometimes they should die; that it was of a moral necessity that I literally kill that rat. I never had that rat's
+
+Last edit over 5 years ago by A23
+```
+**Co-occurrences**: Ubik, Spirit, Rome, Form, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+
+---
+### Line 166-174 (Match: 'March')
+**Folder**: book of
+
+```text
+Last edit over 5 years ago by Zebrapedia
+
+11
+Life- Spring - Zagreus March-June
+
+Dead Winter Nov-March
+
+Rebirth: Zagreus was not deadbut asleep, under the snow: spring March-June
+```
+**Co-occurrences**: Zebrapedia, Zagreus, Under, Life, Spring, Dead
+
+---
+### Line 168-176 (Match: 'March')
+**Folder**: book of
+
+```text
+11
+Life- Spring - Zagreus March-June
+
+Dead Winter Nov-March
+
+Rebirth: Zagreus was not deadbut asleep, under the snow: spring March-June
+
+One year's cycle, or: The Cycle
+```
+**Co-occurrences**: Zagreus, Under, Life, Spring, Dead
+
+---
+### Line 170-178 (Match: 'March')
+**Folder**: book of
+
+```text
+Life- Spring - Zagreus March-June
+
+Dead Winter Nov-March
+
+Rebirth: Zagreus was not deadbut asleep, under the snow: spring March-June
+
+One year's cycle, or: The Cycle
+
+locale: the Earth
+```
+**Co-occurrences**: Earth, Zagreus, Under, Life, Spring, Dead
+
+---
+### Line 192-200 (Match: 'March')
+**Folder**: book of
+
+```text
+Last edit less than 20 seconds ago by Gabriel Mckee
+12
+Indexed
+12
+March 2, 1975
+
+Mrs. Phyllis Boucher 2643 Dana St. Berkeley, Calif.
+
+Dear Phyllis,
+```
+**Co-occurrences**: Indexed, Gabriel, Mckee, Gabriel Mckee, Calif, Berkeley
+
+---
+### Line 349-357 (Match: 'March')
+**Folder**: book as
+
+```text
+After all, not all seeds are planted as wheat grains are... there are those concealed whithin ripening fruit: the seeds of the various shrubs and trees. The fruit around them is to entice and to hide.
+
+We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus died as any man dies -- but another Christ, and probably another Paul were born out of and after that. Rebirth does nor mean to return as you were, in a mere cycle; this is where the wheat seed could not have been a wheat seed, because Jesus specifically says that on its own the grain of wheat leads a solitary life, and after it is thrown into the furrow (the grave) it is reborn differently, into a communal life. "Reborn in glory and no longer alone." A single vast plant "the mustard tree in which birds roost" will come about; I think this is what we call the noösphere, and I myself have already entered it.
+
+In March it took me over totally; I was a spectator to my dream in waking life, as it awoke.
+
+If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
+
+Please get the book A GOD WHITHIN by René DuBois (Scribner's). He discusses this.
+```
+**Co-occurrences**: Christ, Logos, Jesus, Paul, These, Because, Only, After, Book, Could, Does, Again, Zagreus, Runciter, Probably, Those, More, Another, Living, Real, Voice, Death, Will, Deity, Would, Were, Have, Tree, Life, Claudia, Testament, Dream
+
+---
+### Line 361-369 (Match: 'March')
+**Folder**: book A
+
+```text
+Last edit over 5 years ago by Siegman
+23
+Complete
+23
+March 5, 1975
+
+Dear Ursula,
+
+Did I thank you for what you said about Mr. Tagomi in your London speech? I forget. Anyhow I have word of that, and so thank you. It is only one of many thanks which I give and which I owe you. The lovely lady of s-f; that is how I think of you.
+```
+**Co-occurrences**: Complete, Only, Anyhow, Many, Have, Tagomi, London
+
+---
+### Line 367-375 (Match: 'March')
+**Folder**: book A
+
+```text
+Dear Ursula,
+
+Did I thank you for what you said about Mr. Tagomi in your London speech? I forget. Anyhow I have word of that, and so thank you. It is only one of many thanks which I give and which I owe you. The lovely lady of s-f; that is how I think of you.
+
+Ursula, I suppose that by now you've seen SFS which deals with my writing (March '75), and which has in it one article, by Ian Watson: "Le Guin's LATHE OF HEAVEN and the Role of Dick: The False Reality as Mediator." You and I must sit down one day and talk, to see what is going on. From Ian Watson's analysis, I can readily discern that much of the underlying experiences from which my own work have come somehow underlie your work and perhaps you, if you see what I mean. It strikes me that whether you are conscious of it or not, whatever is influencing my work --I mean, making use of me, really, to put forth this work-- that entity or drive is making use of you, too. It is not that I affect you or you me; it is that we are twin outcomes of a single underlying experience. What that experience is of -- that we must discuss, for I know by now that it is a most important experience, having to do with the nature of the substance of reality (in contradistincion to the manifold appearances of reality).
+
+Once I read somewhere: "We do not dream; we are dreamed." That is, someone or something which is a Not-I dreams us when we are asleep. A prime mover confronts us, and designs the fabric of our night's events. I say, truly say, in no idle fashion, Ursula, that are we sure, are we really sure, that He Who dreams us at night does not also dream us during the day -- and as He so dreams, or so builds (I personally conceive of him as an artificer, a workman) our koinos, perhaps He changes and erases backwords, and also now and then places us under something much like a spell: a spell of enchantment, so that we imagine --do you see?-- imagine whole areas which are, as an archetect much construct of necessity, what they call false work amid the permanent...
+
+I quote from page 32 in Fred Jameson's article in the same issue of SFS:
+```
+**Co-occurrences**: Perhaps, Like, Only, Does, Anyhow, Something, Once, Suppose, Reality, Most, Heaven, Dick, Somehow, Page, Whatever, Under, Many, Have, Tagomi, Whether, Having, London, During, Dream, Someone
+
+---
+### Line 387-395 (Match: 'March')
+**Folder**: book A
+
+```text
+Our reality can be manipulated retroactively; that is, our past can be rewoven, and without hesitation, as an automatic process, our several memory-systems will fill in the blanks and make smooth the reweaving (i.e. we won't realize that alterations in our lineal-time past took place).
+
+A certain portion of the phenomenal world which we encounter is hologram-like, projected and false, to fill in missing spaces, as in the time extension, missing elements are filling in along similar lines. Therefore we see total continuity in both extensions, time and space, without awareness of dysfunction or rupture. But in truth, there are dysfunctions which (to return to my former term) the Dreamer causes us to gloss over, or allows us to -- perhaps it is less a manipulation that a permission, if you see what I mean.
+
+In a meaningful sense, portions of our reality extensive in time and space are false; other portions are real; we have no way of determining which is which or even if this proposition is true -- but this proposition is true, because I saw in March of last year a roll-back of the artificial portions (the term "the veil of Maya" comes to mind). After ten months of studying and speculating, I have come to these conclusions:
+
+(one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, and wihtout it, there would be nothing but illusion, nothing but Maya, so to speak.
+
+(two) Lineal time is mere process or accumulative time, which conceals orthogonal time from our gaze.
+```
+**Co-occurrences**: These, Perhaps, Like, World, Because, Therefore, Time, After, Mind, Even, Both, Maya, Reality, Being, Without, Nothing, Real, True, Will, Would, Other, Back, Have, Memory, Truth
+
+---
+### Line 426-434 (Match: 'March')
+**Folder**: book A
+
+```text
+Last edit almost 3 years ago by twsullivan
+27
+Complete
+27
+March 4, 1975
+
+Dear Dr. Ornstein:
+
+Recently I met Mr. Henry Korman and Mr. Tony Hiss (Tony had come by to interview me for the New Yorker). I got into a marvelous discussion with Henry about Sufi and I mentioned my admiration, bordering on fanatic enthusiasm, for your pioneer work with bilateral brain hemispheric parity. Thus, I, having learned that they know you, and am summoning my courage to write you and ask, What has become of me, since experimenting with bringing on my right hemisphere (I did it mainly by the ortho molecular formula vitamins, plus a good deal of concentrated meditation).
+```
+**Co-occurrences**: Complete, Since, Good, Tony, Brain, Having, Right
+
+---
+### Line 462-470 (Match: 'March')
+**Folder**: book about
+
+```text
+February 29, 1975
+
+Dear Henry,
+
+I had worked out beyond any reasonable doubt evidence that the ancient deity Dionysos had infused me and made me his back in March of last year. In an article to be printed in England, in a book, I was going to reveal this.
+
+However, I have discovered that I have been tricked. It is not the ancient Phrygian god of the vinetree, but Erasmus pretending to be Dionysos. My problem now is that I have toiled in vain in order that Erasmus have his little joke.
+
+To his credit, he was delighted when I abruptly guessed that it was him and not Dionysos. Still, after I had enjoyed realization of the clues which Erasmus had left along the way (all of them puns, double puns, and which I always saw solemn and heavy meaning in -- the wrong meaning leading me astray), I discovered that there are in the universe always layers below layers, and that the universe resembles nothing so much as an onion the innermost layer of which is also the outer. For instance, perhaps it filled Dionysos with mirth to pretend to be Erasmus. Would not the god of mirth get off on that? Maybe it is Dionysos pretending to be Erasmus pretending to be Dionysos. Maybe they are the same.
+```
+**Co-occurrences**: However, Dionysos, Perhaps, Maybe, After, Book, Nothing, Still, Universe, Deity, Would, Erasmus, Back, Beyond, Have
+
+---
+### Line 551-559 (Match: 'March')
+**Folder**: Unknown
+
+```text
+Dear Claudia,
+
+Enclosed is 4 pages of notes -- also Xerox of the Kozyrev paper (1967) on his study of the properties and nature of time.
+
+I've briefly glanced over this paper of his, and I am sure that in March 1974 he made a major breakthrough in experimentation, perhaps even downright use, as medium of simultaneous transfer of information, of time as a ubiquitous field throughout the universe.
+
+If this is so, then we must consider that for a moment Dr. Kozyrev [libereted] us from the tyranny which time exerts over us (experienced by us an unending causality). I am more convinced that ever that behind my own experiences in March 1974 lay this man's work near [lei] - aw fuck it. Near Leningrad.
+
+See what you think: as you read his paper consider what I've told you about my experiences, and see if you don't agree that here-with may exist a theoretical possibility to account as to why I had these experiences (I am what might be [x] called "a sensitive" re time fields). Well, jeez; I am so excited. In his paper he says just about what would fit my theory (except that I think either there is a retrograde time, which he expressly denies, or temporarily he allowed a retrograde time to take place, a sort of backlash, due to his experiments; maybe he so to speak created retrograde time.
+```
+**Co-occurrences**: Xerox, Well, These, Perhaps, Maybe, Time, Even, Just, Either, More, Consider, Universe, Would, Claudia, Information, Except
+
+---
+### Line 553-561 (Match: 'March')
+**Folder**: Unknown
+
+```text
+Enclosed is 4 pages of notes -- also Xerox of the Kozyrev paper (1967) on his study of the properties and nature of time.
+
+I've briefly glanced over this paper of his, and I am sure that in March 1974 he made a major breakthrough in experimentation, perhaps even downright use, as medium of simultaneous transfer of information, of time as a ubiquitous field throughout the universe.
+
+If this is so, then we must consider that for a moment Dr. Kozyrev [libereted] us from the tyranny which time exerts over us (experienced by us an unending causality). I am more convinced that ever that behind my own experiences in March 1974 lay this man's work near [lei] - aw fuck it. Near Leningrad.
+
+See what you think: as you read his paper consider what I've told you about my experiences, and see if you don't agree that here-with may exist a theoretical possibility to account as to why I had these experiences (I am what might be [x] called "a sensitive" re time fields). Well, jeez; I am so excited. In his paper he says just about what would fit my theory (except that I think either there is a retrograde time, which he expressly denies, or temporarily he allowed a retrograde time to take place, a sort of backlash, due to his experiments; maybe he so to speak created retrograde time.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Xerox, Well, These, Perhaps, Maybe, Time, Harpax, Even, Just, Either, More, Consider, Universe, Would, Information, Except
+
+---

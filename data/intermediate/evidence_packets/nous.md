@@ -1,0 +1,348 @@
+# Evidence Packet: Nous
+
+- **Category**: Top Term
+- **Total Mentions**: 81
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1435-1443 (Match: 'Nous')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by svayambhu108
+
+101
+The Neoplatonist structure of Plotinus goes: The One, who sends his first emanatino Nous (Intellect) to construct the universe. We can rise up into the eternal world or reality, of forms, to apprehend Nous. The forms are alive; collectively, they comprise Nous. Below them is Soul.
+
+We could perhaps equate the One with God; Nous with Christ as Pantocrator, but Soul would have to go. In any case, to so equate God with the One, Christ with Nous, would be to abolish their equality in the Trinity, and to turn toward the JWs beliefs. However, Christ is said to be the Mediator between God and man, and that view does seem to coincide with the structure of Plotinus; also, I read in "Wisdom" that wisdom is the first emanation of or from God, and if Wisdom equals Christ, then we do have the same general structure as Plotinus gives. I'm going to wing it and say that the Cosmic Christ, St. Sophia (Holy Wisdom) are identical with Plotinus' Nous: i.e. Lord of the Universe. Whom we can reach via the forms. But I just don't understand Soul at all; Soul acts in time, whereas Nous is eternal. I guess Soul is sort of like instinct, a Bergsonian elan vital.
+
+One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
+```
+**Co-occurrences**: Christ, Acts, Holy, Form, Sophia, Plato, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Time, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Reality, Their, More, Pantocrator, Soul, Nonetheless, Universe, Would, Have, Trinity, Evidently, Whereas, Answer
+
+---
+### Line 1437-1445 (Match: 'Nous')
+**Folder**: Unknown
+
+```text
+101
+The Neoplatonist structure of Plotinus goes: The One, who sends his first emanatino Nous (Intellect) to construct the universe. We can rise up into the eternal world or reality, of forms, to apprehend Nous. The forms are alive; collectively, they comprise Nous. Below them is Soul.
+
+We could perhaps equate the One with God; Nous with Christ as Pantocrator, but Soul would have to go. In any case, to so equate God with the One, Christ with Nous, would be to abolish their equality in the Trinity, and to turn toward the JWs beliefs. However, Christ is said to be the Mediator between God and man, and that view does seem to coincide with the structure of Plotinus; also, I read in "Wisdom" that wisdom is the first emanation of or from God, and if Wisdom equals Christ, then we do have the same general structure as Plotinus gives. I'm going to wing it and say that the Cosmic Christ, St. Sophia (Holy Wisdom) are identical with Plotinus' Nous: i.e. Lord of the Universe. Whom we can reach via the forms. But I just don't understand Soul at all; Soul acts in time, whereas Nous is eternal. I guess Soul is sort of like instinct, a Bergsonian elan vital.
+
+One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
+
+Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+
+---
+### Line 1439-1447 (Match: 'Nous')
+**Folder**: Unknown
+
+```text
+The Neoplatonist structure of Plotinus goes: The One, who sends his first emanatino Nous (Intellect) to construct the universe. We can rise up into the eternal world or reality, of forms, to apprehend Nous. The forms are alive; collectively, they comprise Nous. Below them is Soul.
+
+We could perhaps equate the One with God; Nous with Christ as Pantocrator, but Soul would have to go. In any case, to so equate God with the One, Christ with Nous, would be to abolish their equality in the Trinity, and to turn toward the JWs beliefs. However, Christ is said to be the Mediator between God and man, and that view does seem to coincide with the structure of Plotinus; also, I read in "Wisdom" that wisdom is the first emanation of or from God, and if Wisdom equals Christ, then we do have the same general structure as Plotinus gives. I'm going to wing it and say that the Cosmic Christ, St. Sophia (Holy Wisdom) are identical with Plotinus' Nous: i.e. Lord of the Universe. Whom we can reach via the forms. But I just don't understand Soul at all; Soul acts in time, whereas Nous is eternal. I guess Soul is sort of like instinct, a Bergsonian elan vital.
+
+One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
+
+Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, Harpax, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+
+---
+### Line 3335-3343 (Match: 'Nous')
+**Folder**: file numbers
+
+```text
+-4-
+
+The real enemy was there, and the real Cause to which I was committed, and my real identity, as if I had suddenly remembered (anamnesis!), remembered who I was (an early Christian), who I fought & fought me (Rome) and what I had to do (help topple the tyrant or beast). It all came back to me: the real purpose of my life. Everything made sense in those archetypal terms. But the extreme interruption of the normal landscape —and normal personality & identity— could not be explained except in terms of the Platonic forms. It was in a sense a reconstruction of me and the landscape rather than merely rolling back the accidents to expose what was already there, since after all Fullerton was only really Rome in the Platonic archetypal form sense, and I was only an early Christian in that sense, too, as shown in UBIK. It's amazing what you can accom¬ plish by control over the forms. They are the mechanism without which what I experienced inwardly & outwardly is inexplicable. Certainly the view of reality I've expressed in all my books and recent stories was born out when I saw Rome about me — the illusory quality of reality I'd long ago intuited. The soap bubble effect. The "idea in the mind of God" silly putty universe, where things are as you imagine, or anyhow as Someone imagines. If I wasn't already right about physical reality this couldn't have happened; it is a kind of dream, but I was not the dreamer. It was dremt for me. Of course I could go the route which religious mystics usually go and say, "I was taken out of mundane space & time and transported back to ancient Rome" or "...shown ancient Rome, and then I later was shown a vision of the Promised Land," without going into the mechanics of it. This, then, presumes that the two visions were a form of language, to com¬ municate something to me.
+
+Most of all: I saw Nous obscuring its plays with dokos, so the Adversary could not fathom its moves; I saw continuous creation as Nous joined two weak, imperfect or bad sections to become a good one; the veil (dokos) is necessary because of the Game & Nous' ad¬ versary .. .who seems to be either in this world or actually this world, which is the stockpile for Nous' building. Nous is invisibly building a new heavens and earth, using this earth for raw material, despite the adversary's efforts. Concealment of this is necessary, even from us, who seem portions of this world. (We're on the wrong side?) In summation: one of the greatest (and most vital) weapons the spirit has is her invisibility, which extends to the pattern of her plays. Thus I deduce that it was a great privilege that she gave me a glimpse of herself & her activity; also I deduce that I am not with the Adversary, or she wouldn't have let me see what I saw. One must be taken over by the spirit to see her & her activity, evi¬ dently. In which case I might say that the ultimate secret of the universe, the major undisclosed thing, is the spirit & her activity. She works within the world, unseen. This is the ultimate entity, as far as we and our world are concerned. What is her name? I guess St. Sophia, or Nous. I saw more than I realized; I saw all. This is the logos, the ultimate active agency in our universe; our salvation depends on her & her alone. I loved her smile. Teilhard was right: she is also the ultimate goal, Omega, of the universe: the teleological principle and agent and force and outcome.
+
+Last edit almost 5 years ago by svayambhu108
+262
+Needs Review
+```
+**Co-occurrences**: Christian, Ubik, Spirit, Logos, Rome, Form, Sophia, World, Since, Because, Only, Time, Earth, After, Good, Mind, Book, Even, Could, Anyhow, Something, Reality, Teilhard, Everything, Platonic, Either, Great, Anamnesis, Without, Those, Dokos, More, Most, Real, Actually, Fullerton, Certainly, Secret, Universe, Creation, Were, Back, Have, Things, Life, Later, Except, Suddenly, Dream, Salvation, Right, Someone
+
+---
+### Line 5106-5114 (Match: 'Nous')
+**Folder**: vol is
+
+```text
+Last edit almost 3 years ago by svayambhu108
+43
+Needs Review
+43
+4 tracing out of intelligible patterns in experiences" which precisely describes what I saw Zebra doing. all this philosophizing about God (Zebra) is truly wonderful + accurate, but I must never forget two aspects I experienced not covered by philosophy: 1) Zebra (St Sophia) spoke to one 2) A divine personality overcame one 3) Zebra (God) deliberately brought me into use in accord with his historic plan (in flegell sense of history, + whitehead's sense of arranging + process) + so t I actually experienced him internally (+ externally) as motivating me, wo says God does not greate actual entities. which I'm willing to agree with (J-I does that), but we says "He provides entities with initial impetus, in the form of their subjective aim to self-creation," which I call "realization or perfection or fulfillment of the entelechy" - but in my case in 3-74 he took me over - not for any initial impetus, but a latter-time later impetus whose goal seemed not to be any sat of entelechy fulfillment, as I understand the term, meaning an intrinsic fulfillment, but rather a fulfillment of purpose, even a divine adventitious purpose vis-a-vis the historic, general process - recalling to me the vision I had of the totality as an organic entity with each of us as a "cell, subsystem or monad within it the being drawn into the historical process certainly fits with Hegel - boy, does it ever. âž€ Also - the divine taking me over to achieve that. But us to : it implies the personality (if God) being there in a non-philosophical sense - but certainly it fits with the Christian view of God possessing person ality. That this 3-74 experience was revelation initiated by God, puts it in the class of religion, too, rather than cosmological metaphysical philosophy - i.e. how the know reage I have was attained. If indeed the universe is an organism, then the mind (Nous) of that totality-organism selected me, accupied me, directed me (or rather acted out
+
+Last edit almost 3 years ago by svayambhu108
+44
+Needs Review
+```
+**Co-occurrences**: Christian, Zebra, Form, Sophia, Time, Mind, Even, St Sophia, Does, Being, Hegel, Self, Divine, Their, Actually, Certainly, Revelation, Whitehead, Universe, Creation, Have, Later
+
+---
+### Line 8971-8979 (Match: 'Nous')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+49
+Needs Review
+49
+48 Zeba's activity was just such an overruling of lower level decisions as Plato in "Timaeus" believed in + anana goras did not. But there are two realms, as both apprec lated: the lower level one is that of causal law, of mechani cal determinism (precisely as Anaxagoras saw nous setting into motion at the beginning). The higher - level over rule how frequent is that? Can I generalize from what I saw in 3-74 + say it often happers, or sometimes, or rarely or uniquely? I don't know, but, happily, the two realms are clearly distinguished + described by anaxagoras, which in turn makes clear for me what I saw get interfered with + by what Perhaps Zebra is a hologram-like projection (treating wen the world of inanimate, the somewhat animate - a cat - + the the - + animate - me - as a single continuum) onto our world actual source or substance of this projection is a thought process by the ubiquitous noos. It melted a section of a reality, including objects, cats, me. We were made into i plastic receiver by it + reshaped (by form - new form mental the imposition in my case another me was impressed in place of original me - a miracle - likewise on Pinky + on objects their causal processes, producing new outcomes. Newness + is the key word. I didn't just observe newness outside me I also experienced it inwardly The thrust of all this is that causal law normally operates, but there is someone to appeal to, + for what amounts to a revision of those "immutable" processes. Noos, merely by thinking change, executes change. He set the structure lif as artifact, + to him it is totally mutable (although to us it is immutable). So Zebra was the imposition of fw thought or will exerted upon physical reality + its revealing the absolute unsubstantiality of physical reality
+
+Last edit almost 3 years ago by svayambhu108
+50
+Needs Review
+```
+**Co-occurrences**: Zebra, Form, Plato, Perhaps, Like, World, Noos, Pinky, Just, Both, Reality, Although, Those, Their, Another, Such, Timaeus, Upon, Will, Were, Artifact, Clearly, Absolute, Likewise, Lower, Someone
+
+---
+### Line 14405-14413 (Match: 'Nous')
+**Folder**: folder 02
+
+```text
+Last edit over 9 years ago by Toso
+folder 02 - 085
+Complete
+folder 02 - 085
+Or, put another way, my 3-74 (actually 2-74 to 2-75) experience _confirms_ the macro-micro analog system, with the macro's ontogeny _+_ phylogeny retrievable within a man's (mind). Thomas is my micro phylogeny contained within my ontogeny, but also I retrieved in the form of info the macro's phylogeny + ontogeny since they are micro-replicated in _my_ phylogeny which is contained in _my_ ontogeny. The ancients - + renaissance thinkers such as Bruno + Theophrastus - viewed the universe as an animal (hylozoism) with _one_ soul - like a man has. + the idea was to get in touch with that macro soul analog of the man's, thus the micro + macro souls would colloquize, + in this exchange the micro soul would receive total wisdom, the wisdom of Nous itself. Freud: "Thus we might say that man's instincts are a microcosm of his evolution. Among the known 'enforced alterations in the course of life ... stored for repetition -'" etc _stored_for_repetition_. + a major instinct system in me, blocked by GABA fluid, was disinhibited in 2-74 by the Golden Fish sign - an instinct system we do _not_ (generally or widely) know of, in addition to the knowns. I wonder what _it_ is a stored repetition of? My guess: the post Bardo Thodol postmortem life - i.e. _celestial_wholeness_, _supposed_ to fire upon physical death - but got fired prematurely in me (due
+
+Last edit over 9 years ago by Toso
+
+folder 02 - 086
+```
+**Co-occurrences**: Toso, Thomas, Complete, Form, Fish, Golden, Wisdom, Like, Since, Golden Fish, Folder, Mind, Bardo, Thodol, Bardo Thodol, Toso
+Folder, Viewed, Bruno, Another, Soul, Such, Upon, Actually, Death, Macro, Universe, Would, Life, Info
+
+---
+### Line 21280-21288 (Match: 'Nous')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+106
+1104 the psyche follows the track rather than creates it. Hence my feeling about karma programming, precognition, being a machine + this explains my getting out of causal synch briefly in 3-74. This explains my inner-outer tape" impression: my sense of Leib uitz' pre-established non-causal harmony This explains my "selenoid clock" impression. t the psyche is retrieving - extracting - information which is already there. This is why I get the impression that I've lived my life before This spe 3-74. I'm getting close to figuring out how information - + in fact a self - from the future was imploded back to 3-74 + the crisis at that time. There was a track - ah. The information was there als ob it were later grooves on an LP or a farther on stretch of tape. The tracking psyche either did it or it was done for it. The conventional (method) of sequen tial tracking was violated, which proves that future information - the future itself is there This is shown by the crucial information having already appeared in e.g. "Faith of" & "MitrC" the information does not in itself exist in the seque This means ance (order) in which it is tracked. that every space-time moment tracked by each unique psyche exists forever, + what we are really seeing is a vast Nous remembering, but never is it he past remembered but the present - made so by the tracking psyche, which is an agent of the vast mind which reviews itself via the tracking psyche: knows itself. âž€ + the future self The vast noos is constantly engaged in self. xploration: "when me they fly I am the wings.
+
+Last edit almost 3 years ago by svayambhu108
+107
+Needs Review
+```
+**Co-occurrences**: Time, Noos, Faith, Mind, Karma, Does, Being, Self, Either, Before, Were, Back, Life, Information, Later, Having, Track
+
+---
+### Line 24846-24854 (Match: 'Nous')
+**Folder**: folder 48
+
+```text
+Indexed
+folder 48 - 049
+849
+
+The battle is going on, but Satan is at the center - of government, of church. Still, YHWH has the crucial advantage of a priori foresight. It was revealed to me that ultimately he wins every hand. This was my primary vision: the dialectic + how it works. The O.T. is harsh, but it accords with the facts: we are in literal slavery, + must be taken out of it, as the Jews were delivered from Egypt. ___ Note. Here, for the first time, I begin to grasp what I saw that I call Valis. This is the summa of my exegesis, as I begin to comprehend God as creator ("He causes what exists to exist"). Hence Valis follows because the universe is seen as a mock plurality that is epiphenomenal. Only if God as Yahweh-asher-Yahweh is comprehended does Valis make sense, + I was always cut off from this before, since I could not grasp the "He brings into existence whatever exists" aspect as the most fundamental; i.e. this is what YHWH means. Thus I really could never make sense out of Valis, of what I saw. (I researched this + it isn't Plotinus; it's Philo. The ideas exist in the mind of God throughout eternity + then God makes them into real objects: creation. This mind Philo calls "Logos," not "Nous." Philo considered the ideas not a mere aggregate but {Note} an intelligible world, a concept not known before him. {Note:} integrated into
+
+Last edit about 7 years ago by Toso
+folder 48 - 050
+Complete
+```
+**Co-occurrences**: Valis, Toso, Indexed, Logos, Complete, Satan, Plotinus, World, Since, Because, Only, Time, Folder, Mind, Could, Does, Philo, Toso
+Folder, Indexed
+Folder, Creator, Still, Jews, Church, Egypt, Most, Real, Before, Yahweh, Universe, Creation, Were, Whatever, Government, Dialectic, Asher
+
+---
+### Line 29816-29824 (Match: 'Nous')
+**Folder**: folder 49
+
+```text
+Last edit about 9 years ago by erica snowlake
+folder 49 - 129
+Complete
+folder 49 - 129
+This is the greater revolution in the history of reality, because otherwise the ontogons always serve [in the role of bringing into existence] the phylogons, & are intrinsically expendable under the conditions of pain & death. Thus I distinguish the mind Valis from Thomas; Valis is the system & would be Xenophanes' Nous & Spinoza's Deus.
+
+However, Christos & Theos are not antithetical. (1) But they are different.
+
+(1) I wonder. These are hard sayings. What indeed as the sheep dream & the James-James dream imply, Christ has revolted against Theos, & Theos has no concern for ontogons. Then we have Gnosticism & Mani! Christ = the rule of Mercy. Theos = Justice (sic). Or are we simply to regard Christ as an instrument by which the distribution between ontogon & phylogon is abolished?
+```
+**Co-occurrences**: Christ, Valis, Thomas, Complete, Gnosticism, However, Spinoza, These, James, Because, Folder, Mind, Reality, Christos, Deus, Xenophanes, Death, Would, Under, Have, Mani, Justice, Greater, Otherwise, Dream
+
+---
+### Line 33811-33819 (Match: 'Nous')
+**Folder**: part of
+
+```text
+"Intellect for Plotinus is both thought and the object of thought; it is a mind that is perfectly one with its object. 1 As object, it is the world of forms or ideas, the totality of real being in the platonic sense. These forms, being one with Intellect, are not merely objects but are living, thinking subjects, each not only itself but, in its contemplation, the whole. They are the archetypes and causes of the necessarily imperfect realities on lower levels..."etc
+
+Another point:
+
+"It must be remembered that, to Plotinus, the whole process of generation is timeless; Nous is eternal, and time is the life of the Soul as active in the physical world, and there never was a time when the material universe did not exist. The 'levels of being,' then, though distinct, are not separate but are all intimately present everywhere and in everyone. To ascend from Soul through Intellect to the One is not to travel in space but to awake to a new kind of awareness."
+
+Soul is produced by Intellect (Nous) as Intellect is produced by the One. This is Plotinus' theory of levels of emanation.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Form, These, Plotinus, World, Only, Time, Mind, Both, Being, Platonic, Another, Through, Soul, Living, Real, Universe, Life, Lower
+
+---
+### Line 33813-33821 (Match: 'Nous')
+**Folder**: part of
+
+```text
+Another point:
+
+"It must be remembered that, to Plotinus, the whole process of generation is timeless; Nous is eternal, and time is the life of the Soul as active in the physical world, and there never was a time when the material universe did not exist. The 'levels of being,' then, though distinct, are not separate but are all intimately present everywhere and in everyone. To ascend from Soul through Intellect to the One is not to travel in space but to awake to a new kind of awareness."
+
+Soul is produced by Intellect (Nous) as Intellect is produced by the One. This is Plotinus' theory of levels of emanation.
+
+Last edit almost 5 years ago by svayambhu108
+
+181
+```
+**Co-occurrences**: Plotinus, World, Time, Being, Another, Through, Soul, Universe, Life
+
+---
+### Line 33832-33840 (Match: 'Nous')
+**Folder**: part of
+
+```text
+"1. There is plurality of spheres of being, arranged in hierarchical descending order, the last and lower comprising the universe, which exists in time and space and is perceptible to the senses,"
+
+Note 1 on the previous page. Valis is self-constructing; its kosmos is not an artifact but its own self.
+
+I am now convinced that there is no doubt that 3—74 was a Neoplatonist experience: that of the Form World (outside of time and space, and arranged morphologically). The Hind of Valis is probably Plotinus’ Nous, one step below the one. But I may have had some sense of the One in my postmortem experiences: the vast void and wastelands.
+
+Last edit almost 5 years ago by svayambhu108
+182
+Needs Review
+```
+**Co-occurrences**: Valis, Form, Plotinus, World, Time, Kosmos, Being, Self, Probably, Universe, Page, Have, Artifact, Lower, Form World
+
+---
+### Line 33840-33848 (Match: 'Nous')
+**Folder**: part of
+
+```text
+Needs Review
+182
+-33-
+
+"The original creative or expressive act of the One is the first great derived reality, Nous (Intellect or Spirit); from this again comes Soul, which forms, orders, and maintains in being the material universe." I would think that for Christianity, these three hypostases (the One, Intellect and Soul) would be simply God; or perhaps God and the Logos. But I am substantially revising Platonism and Neoplatonism due to my revelation that the phenomenal world is not derived from the Form World (although the Form World possesses greater ontology; there I agree) but, rather, feeds into it and causes it to become more complex, more reticulated and arborizing, more complete, and is a kosmos. Thus the spatiotemporal phenomenal world serves the Form World; it has a purpose. Also, the phenomenal world is chaotic compared with the Form World; there is a hierarchy of negentropy (which I equate with Plotinus' idea that the downward movement of emanations is from oneness, from simplicity, to multi¬ plicity; there we perfectly agree. It's really amazing that I could have worked out the concept of Valis as a meta entity, a unity at a higher level — worked it out on my own when in fact it is basic to Neoplatonism, this hierarchy of realms proportional to multiplicity as they descend. And then to realize that the world of the phylogons is morphologically arranged and outside time and space — voila: I have reinvented Neoplatonism!)
+
+Really, these major developments in my exegesis represent a push-pull relationship between me and my reading about Platonism and Neoplatonism; as in UBIK, Platonist ideas predominate. Now I can see why 3-74 resembles UBIK, which is a Platonist novel and consciously so. 3-74, then, simply ratified the Platonism in UBIK. I suppose that Ubik is Plotinus' Nous.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Valis, Ubik, Spirit, Logos, Complete, Christianity, Form, These, Perhaps, Plotinus, World, Time, Platonist, Platonism, Could, Again, Suppose, Reality, Kosmos, Being, Although, Great, More, Soul, Revelation, Universe, Would, Have, Greater, Form World
+
+---
+### Line 33842-33850 (Match: 'Nous')
+**Folder**: part of
+
+```text
+-33-
+
+"The original creative or expressive act of the One is the first great derived reality, Nous (Intellect or Spirit); from this again comes Soul, which forms, orders, and maintains in being the material universe." I would think that for Christianity, these three hypostases (the One, Intellect and Soul) would be simply God; or perhaps God and the Logos. But I am substantially revising Platonism and Neoplatonism due to my revelation that the phenomenal world is not derived from the Form World (although the Form World possesses greater ontology; there I agree) but, rather, feeds into it and causes it to become more complex, more reticulated and arborizing, more complete, and is a kosmos. Thus the spatiotemporal phenomenal world serves the Form World; it has a purpose. Also, the phenomenal world is chaotic compared with the Form World; there is a hierarchy of negentropy (which I equate with Plotinus' idea that the downward movement of emanations is from oneness, from simplicity, to multi¬ plicity; there we perfectly agree. It's really amazing that I could have worked out the concept of Valis as a meta entity, a unity at a higher level — worked it out on my own when in fact it is basic to Neoplatonism, this hierarchy of realms proportional to multiplicity as they descend. And then to realize that the world of the phylogons is morphologically arranged and outside time and space — voila: I have reinvented Neoplatonism!)
+
+Really, these major developments in my exegesis represent a push-pull relationship between me and my reading about Platonism and Neoplatonism; as in UBIK, Platonist ideas predominate. Now I can see why 3-74 resembles UBIK, which is a Platonist novel and consciously so. 3-74, then, simply ratified the Platonism in UBIK. I suppose that Ubik is Plotinus' Nous.
+
+Last edit almost 5 years ago by svayambhu108
+183
+Needs Review
+```
+**Co-occurrences**: Valis, Ubik, Spirit, Logos, Complete, Christianity, Form, These, Perhaps, Plotinus, World, Time, Platonist, Platonism, Could, Again, Suppose, Reality, Kosmos, Being, Although, Great, More, Soul, Revelation, Universe, Would, Have, Greater, Form World
+
+---
+### Line 33866-33874 (Match: 'Nous')
+**Folder**: part of
+
+```text
+The ancient world was dominated by the notion of a primordial fall. Also, our modern knowledge of biological evolution on this planet was not known to them (with certain exceptions). So whereas antiquity was dominated by the notion of a primordial fall, we today think in terms of evolution, which I construe as a motion from the many simple to the few complex to the one total integration of every¬ thing. However, the world of the phylogons lies outside of space and time so perhaps both theories are futile; nonetheless I saw our world as a stockpile from which Valis selected parts for its soma or kosmos; so in terms of a hierarchy of priority I agree with fttbrnibrn Plotinus and Plato...but Heraclitus must be added or the view, the vision, is one-sided.
+
+My Taoist training teaches me that the phenomenal world is to some extent real. But not as real as the meta reality above, behind or within it — as my ten volume meta novel deals with.
+
+To sum up: the structured does not decompose into the unrelated disconnected plural; rather, Nous or God organizes the unrelated disconnected plural into the structured unity; this is creation, continuous creation outside (in a sense) of time). The act of creation did not proceed the universe but goes on constantly, and this is what I saw Nous doing.
+
+Last edit almost 5 years ago by svayambhu108
+185
+Needs Review
+```
+**Co-occurrences**: Valis, Plato, However, Perhaps, Plotinus, World, Fall, Time, Does, Both, Reality, Kosmos, Heraclitus, Taoist, Real, Nonetheless, Universe, Creation, Many, Knowledge, Today, Whereas
+
+---
+### Line 33885-33893 (Match: 'Nous')
+**Folder**: Unknown
+
+```text
+Last edit almost 5 years ago by svayambhu108
+
+186
+there even more hierarchical realms? Accidents (4); essences (3); kosmos (2); the undifferentiated One (1). I don't know. It seems to be as complex as Plotonus* system of levels of emanation! At least three levels, and possibly four. "One Mind there is; but under it two principles contend... the light and the dark." This is Taoism. I'm perplexed. The One; Nous; Soul; the spatiotemporal world that we know; maybe Plotinus is right. How can I be expected to figure it all out? No one ever has before me. But damn it; I was in a morpho¬ logically-arranged realm when I experienced anamnesis. And it is essence to our world of accidents; it is phylogeny to our world of ontogeny. And at the top is the One — the vast wasteland and void. And at some point the contending opposites are reconciled; that is the One: palintonos harmonie.
+
+Okay; the first revelation is that of the dialectic, which is the realm of the morphological arrangement; it is permanent and it is essence to our accidents. Is it also the realm of the Forms? Yes. Here are the constants. But above it lies a realm in which the opposites, the dialectic — everything is reconciled in the One; and this is logical. Where in this, though, does Valis stand? I would call Valis the One. Where does the kosmos stand? Between the dialectic realm, illo tempore, the constants, morphologically arranged — between this realm and the One? The dialectic does not operate in Valis' soma; here, only accretions occur. So I count four realms; our realm (ontogenic); then the phylogenic realm, arranged morphologically; then the kosmos being completed; and then the Void...but the dialectic is resolved in the kosmos, so isn’t the kosmos the same as the void, in which case there are three realms,
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Valis, Form, Plotinus, Maybe, World, Only, Mind, Light, Even, Okay, Does, Taoism, Realm, Kosmos, Being, Everything, Anamnesis, More, Soul, Before, Revelation, Would, Under, Dark, Dialectic, Right
+
+---
+### Line 33997-34005 (Match: 'Nous')
+**Folder**: folder 01
+
+```text
+{folder 01 - 006}
+502
+
+lacks the a priori knowledge of St. Sophia. Plotinus/Gnosticism/Paulline Xtianity/Iranian influence: the dialectic. But if I had to chose I'd chose Plotinus. Plus Gnostic overtones due to Heidegger (esp. the Ur-Angst + the role, the crucial role, it plays in authentic being. I researched Plotinus; there is no doubt it is Neo-Platonist. No other doctrines are necessary nor do they apply. My 5 levels are his. Q.E.D. There was a Fall. - 4:30 a.m.: I didn't just realize world could be arranged (perceived) morphologically; I realized (2-74) that it is [in fact] arranged morphologically. Which is to say, I remembered. USA 1974 + Rome C. AD 45 are not tangent; they are at an essence (Form) level the same. This all (Neo-Platonism) is why 3-74 most resembles "Ubik" which is Platonist, in fact Neoplatonist. Ubik being Nous. So I now know the precise operation my brain performed in 2-74, what it recognized, the effects thereof + why, + what system of human thought it points to (Neo-Platonism).
+
+
+{folder 01 - 007
+Indexed
+```
+**Co-occurrences**: Ubik, Indexed, Rome, Christianity, Form, Sophia, Gnostic, Gnosticism, Plotinus, World, Fall, Platonist, Folder, Platonism, Could, Just, Heidegger, Being, Brain, Most, Other, Knowledge, Dialectic, Human
+
+---
+### Line 34005-34013 (Match: 'Nous')
+**Folder**: folder 01
+
+```text
+Indexed
+folder 01 - 007}
+503
+
+I must not discount Xtianity; the Eucharist does function in terms of illo tempore (realm #3 the essence realm), + it is Acts that appears in "Tears". But the how it works - that is Neo-Platonism. + I did see several realms - + this plays no role in Xtianity. Xtianity was just the particular myth served up to me; the world-structure responsible was neo-platonist. +, specifically, it declares that the Form realm is not spatiotemporal, + that all realms are now + here: concentric (what I call "coaxial"). I conceptually grasped the underlying (essence realm) identity, etc. viz: arrangement by morphology (prefigured in "Ubik", the Form axes, correctly presented) which meant that the real arrangement lay outside the spatiotemporal in another realm or realms; this was anamnesis - connected to metapsychosis. + all the incarnations were one life in the Form realm - realm of essence: one essence life not in our kind of space-time (illo tempore). + with each ascending realm there is (as Plotinus taught) less multiplicity (hence more unity) until you come to the 2nd hypostasis, Nous + the purely abstract realm (Kosmos) which I saw; it is in Nous (Mind). The fully -+ radically- abstract this way meant a functional end to the schizophrenic impairment in me (the schizophrenic can't truly abstract): thus
+
+
+{folder 01 - 008
+Indexed
+```
+**Co-occurrences**: Tears, Acts, Ubik, Indexed, Christianity, Form, Plotinus, World, Time, Platonist, Folder, Platonism, Mind, Does, Just, Realm, Kosmos, Anamnesis, Indexed
+Folder, Eucharist, More, Another, Real, Were, Life, Until
+
+---
+### Line 34013-34021 (Match: 'Nous')
+**Folder**: folder 01
+
+```text
+Indexed
+folder 01 - 008}
+504
+
+it was a titanic psychological breakthrough as well. The term "schizophrenia" then, does apply to -refer to- a mental impairment or occlusion that locks you into the lowest realm, +, in extreme cases, the lowest level of the lowest realm. Thus I have adduced the spiritual implications of what we know of as "schizophrenia". (Lost in a world of chaotic accidents out of which no sense -order- can be made. Entropy, too.) (Entropy = disorder = proportional to multiplicity.) The Fall of the soul -as I have long speculated- does tie in with an occlusion of cognition + perception that I have of late come to identify with schizophrenia; I now see specifically that it has to do with impairment in the ability to perceptually abstract. We all have it to some degree. My ability to perceive the world-order abstractly is why I said: "I am no longer blind!" I was perceiving conceptually the Form world - essences morphologically arranged; hence much more order (negentropics + unity + reality (einai). + with einai came Nous, hence noein (Heidegger is right). (Plato, in describing the Form Realm, is describing a realm now lost to human perception due to a further sinking of the soul.) The intermediate illo tempore essence world carries vast space + time. Because it is extensive over 1000s of years + 1000s of miles it can be
+
+
+{folder 01 - 009
+Indexed
+```
+**Co-occurrences**: Indexed, Form, Plato, Well, World, Fall, Because, Time, Folder, Does, Realm, Heidegger, Reality, Indexed
+Folder, More, Soul, Further, Have, Human, Form World, Right
+
+---

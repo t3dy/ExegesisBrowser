@@ -1,0 +1,354 @@
+# Evidence Packet: Karmic
+
+- **Category**: Top Term
+- **Total Mentions**: 25
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 918-926 (Match: 'Karmic')
+**Folder**: part of
+
+```text
+NB: The difference between Ghosticism and Neoplatonism is basically that (one) the Neoplatonists believed you could achieve it yourself, whereas (two) the Gnostics believed that the Redeemer did it for you. I think that (two) the Gnostics are correct; it is not something which you acheive, but which (as God's Grace) is sent to you.
+
+. . I finally tied it all up: the phosphene graphics were exactly like the Auroras. Probably I thought of this already, but the significance escaped me. Pattern or blueprint -- the Logos. The Aurora is energy, in the ionosphere, is plasmic, and is involved with solar flares: is radiation. It acted as a cathode ray tube with my optic nerve as screen.
+
+. . On the "Decoded New Testament": It agrees with my experiences of the whole last year. They say it comes via the sun; the sun acts as a transducer (so to speak) between Creator and visible universe, a sort of nexus. There is the solar spermatikos, which impregnate men's souls, which enter us as divine immortal seeds. (One to a person.) That would make God the father; is the human being, then, merely the host for this, for Firebright, as I understand to call mine? Or am I the other parent? (The second birth of the New Testament.) It is also me born again; the second birth is mine; so I am a parent, not merely a host. We have here a true duplex entity, not a parasite. I merge with and gradually, by degrees, become Firebright, who is growing. I --physically speaking-- can get sick and be killed; not so Firebright (the karmic body, so-called).
+
+You can't make this happen. God does it. How exciting, and yet I knew all this, from Firebright (i.e. the Logos, the microLogos).
+
+. . "The Decoded N.T." shows that there are others like me, and they know who and what they are, and have joined together. There is nothing I know that they don't. This answers one of my most pressing questions; the answer is Yes. This whole thing is really real. That I was given this...crucial stations, I suppose, which fan out in all directions (of my London "speech"). But I did see what they haven't said: the absolute purposefulness of everything, and the retrograde method of making it all work to a point. What happened to me (Firebright) had a certain history -- if you read backward along linear time: my works and my life, in oddly contrasting ways, make the experience although in no sense predictable, at least sensible.
+```
+**Co-occurrences**: Acts, Logos, Gnostic, Plotinus, Father, Like, Time, Firebright, Could, Does, Something, Again, Suppose, Being, Although, Everything, Divine, Probably, Grace, Nothing, Creator, Most, Real, True, Universe, Finally, Would, Other, Were, Have, Life, Absolute, Body, Testament, London, Human, Whereas, Answer
+
+---
+### Line 4048-4056 (Match: 'Karmic')
+**Folder**: part expressed
+
+```text
+36 who experiences this talks about it (no con talk about it) , I passed from one world + into another. I sum it up like that, +: I ceased to be one thing + became a better thing, +: I escaped illusion + reached reality.
+
+How about this? I escaped from the Black Iron Prison, which limits + enslaves, + thereafter I found my way to the Palm Tree World, which frees. Growth is implied. I guess I found release or liberation through recording my lost memories, +, in that state, found my way back home, to God + His Kingdom - the real God of all men. What else can I say? What else need be said? What particulars? What elaborate theories?
+
+It's like Shangri-La, since I could not hang onto it - "Lost horizons" indeed. But as Ché said, the memory remains + that is something: that makes a difference. I have an Acute + unshakeable conviction that I now know [what] we will find beyond death. The Great assize is very real to me - a winnowing, with some rising + some falling. But what I describe here is exactly (I think) what has already happened to me - the 3-74 I imagine + don't understand. I just said it: there has been a judgement of me which has released me. What? Has what? Half-asleep I wrote that "which has released[undercored] me." What does this mean? Released from what? ... + What fell away? Not responsibility. ah! KARMIC BURDEN which I was carrying. The dead deer - carcasses of poor injured animals. I don't think this release can be understood without positing Karmic Burden.
+
+How did I cancel it? I don't even know that, but some kind of karmic cause + effect was involved. + this fits in with my recollection of at least my past life, my anamnesis. So here is another element of India[n] religion + they all seem to be here.
+
+Last edit 8 months ago by Zebrapedia
+```
+**Co-occurrences**: Kingdom, Like, World, Since, Iron, Prison, Black, Even, Could, Does, Zebrapedia, Just, Something, Reality, Black Iron Prison, Great, Palm, Anamnesis, Without, Another, Through, Real, Death, Will, Very, Back, Beyond, Have, Tree, Life, Memory, India, Dead, Iron Prison
+
+---
+### Line 4050-4058 (Match: 'Karmic')
+**Folder**: part expressed
+
+```text
+How about this? I escaped from the Black Iron Prison, which limits + enslaves, + thereafter I found my way to the Palm Tree World, which frees. Growth is implied. I guess I found release or liberation through recording my lost memories, +, in that state, found my way back home, to God + His Kingdom - the real God of all men. What else can I say? What else need be said? What particulars? What elaborate theories?
+
+It's like Shangri-La, since I could not hang onto it - "Lost horizons" indeed. But as Ché said, the memory remains + that is something: that makes a difference. I have an Acute + unshakeable conviction that I now know [what] we will find beyond death. The Great assize is very real to me - a winnowing, with some rising + some falling. But what I describe here is exactly (I think) what has already happened to me - the 3-74 I imagine + don't understand. I just said it: there has been a judgement of me which has released me. What? Has what? Half-asleep I wrote that "which has released[undercored] me." What does this mean? Released from what? ... + What fell away? Not responsibility. ah! KARMIC BURDEN which I was carrying. The dead deer - carcasses of poor injured animals. I don't think this release can be understood without positing Karmic Burden.
+
+How did I cancel it? I don't even know that, but some kind of karmic cause + effect was involved. + this fits in with my recollection of at least my past life, my anamnesis. So here is another element of India[n] religion + they all seem to be here.
+
+Last edit 8 months ago by Zebrapedia
+37
+Needs Review
+```
+**Co-occurrences**: Kingdom, Like, World, Since, Iron, Prison, Black, Even, Could, Does, Zebrapedia, Just, Something, Black Iron Prison, Great, Palm, Anamnesis, Without, Another, Through, Real, Death, Will, Very, Back, Beyond, Have, Tree, Life, Memory, India, Dead, Iron Prison
+
+---
+### Line 4056-4064 (Match: 'Karmic')
+**Folder**: part could
+
+```text
+Last edit 8 months ago by Zebrapedia
+37
+Needs Review
+37
+23 But ah! I was released from maya, bondage to which is due to Karma. Yes, the recover of memory, escape from the veil of delusion - But the ultimate release from Karmic burden is this: that one is freed from the wheel of rebirth - + all the ecstatic joy, the rapture - being taken into God, welcomed by him in his realm - return from birth + rebirth over + iner again in this world - this is it; this is what I'm free free; hence "vertical ascent" - leaving here + going hone to my original place at last - for the first time in thousands it years - finally. I can now go back. The recovered memories show me that I came here long ago + have been embroiled over + over; this, what I've been given now in this lifetime - I must have sought for it + not attained it ever before. Ah! The release is connected with my handling of the Xerox letter. I have an intuition: had I handled it wrong, I would not have found release. Every effort + talent + faculty had to be brought to bear - was brought to bear the great trans-identity real self in me knew, it knew. + I was not willing to fail; it bloomed to life fully in order to pass this final test; it tested the quality of the holy in me; only the holy part could have succeeded; no holy part, no release; it was for me the great assize indeed, but only an individual judgment on me me alone. So then I saw my name writter in the great ledger later on thought of Papagans + prince taming + ther + trials. Ah! The divinity was the total hosts of light coming to my defense - they did all they could to assist + extricate me, + they were successful; thus it is said that God wishe. to bring all men to salvation. Whether viewed in Indian or Christion - or even Egyption terms - the matter is the same.
+
+Last edit almost 3 years ago by svayambhu108
+38
+Needs Review
+```
+**Co-occurrences**: Holy, Xerox, World, Only, Time, Light, Even, Karma, Could, Zebrapedia, Realm, Again, Maya, Being, Self, Great, Viewed, Part, Indian, Real, Before, Finally, Would, Were, Back, Have, Judgment, Life, Memory, Later, Whether, Salvation, Free, Final
+
+---
+### Line 4062-4070 (Match: 'Karmic')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+38
+Needs Review
+38
+(3 in the dark, not knowing what the Xerox letter meant or who sent it, I nevertheless had to choose + I chose right + was given release ("vertical ascent"). I have no idea why things - wait - I do. First we have acquire karmic burder (by evil acts), but we are not punished forever (contrary to Christion views of hell); we do evil here + must work it off here the reason for The test (or trice or ordeal - any how it involves choice) is that by chosing correctly we prove worth, we prove we are not what we were, we have changed. We are enlightened + our choice demonstrates it. Such a test or ordeal or trial car not be understood - nor the reason for it understood - unless one keeps karmic burden clearly in mind; the two are inseperable So maya disappeared, + memory returned, "the veil of maya prevents a man from remembering his true origin + goal (E.B.). First maya lifted; they, because of that, is memo returned, + I just figured it out. We are being tested; there is at least one judging deity watching. Once we have chosen cor rectly then maya lifes; then we remember; then we are ourself. + an released + can finally "ascend vertically" back home to God but the concept of God's grace changes the sequence: by what we call "God's grace; the veil of maye is lifted so that we can choose correctly: this is an expression of God's love + mercy + desire to see us saved. So in my case the veil began to life slightly before the Xerox letter came; when it did come I was already seeing what really was there - + saw the letter for the lite thing it was, + so, through God's help, was enabled to choose rightly; the angels of light were all around me the Xerox letter - it came from Satan. That's who sent in
+
+Last edit almost 3 years ago by svayambhu108
+39
+Needs Review
+```
+**Co-occurrences**: Acts, Xerox, Satan, Because, Mind, Light, Just, Once, Maya, Being, Grace, Wait, Through, Such, Love, Before, True, Finally, Deity, Were, Back, Have, Clearly, Things, Life, Dark, Memory, Evil, Remember, Unless, Right
+
+---
+### Line 4068-4076 (Match: 'Karmic')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+39
+Needs Review
+39
+The fact that the veil of maya lifted for me is proved by my recovert memories -as well as my ceasing to be "blind" inner + outer delusion departed. Karmic burder produces maya + Maya removes our memories of our real dentity + purpose. I somehow correct handling of the Xerox letter caused me to obtain the judgment of release - it offset + cancelled out my karmic burden, however acquired. Brahmanism teaches that few are released, but some are, + it is our real goal, since then we can return to Brahman (God). This shows the importance of what happened to me in 3-74. Its proper significance (or now be appreciated; without the above analysis it cant be understood. Having choser correctly I then was granted the greatest gift a living person can receive: I saw the deity all around me, + experienced him (or it) inwardly: I heard that wonderous still small voice. This religious explanation is the correct one. I prefer the Hindre exegesis, but a Christian one will do, too : it adds the reali bation of the role of Christ: because of him + him alone I was able to choose rightly; it was he who acted as my guide, teacher + advocate at that trial, who informed me. He it was who spoke for me when I called up to L.A. + wrote letters. For Karmic burden read "sin" or "original sin." The E.B. says that the highest level you can rise to (ascend to) is that of Lord Krishna - whereupon one achieves Nirvana. i.e. to a God-like, avatar like level. Was I for a time, at the level of great Krishna himself? The point here is that here it is shown how high, how extraordinarily high, one may rise - to the level of a God. While still physically a mere man. Ah! No wonder I saw people with 3 eyes, Krishna is so depicted krsna is the 8th incarnation of Vishna. He danced played the flute + was full of love. He reminds me of Orpheus.
+
+Last edit almost 3 years ago by svayambhu108
+40
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Xerox, Brahman, Well, However, Lord, Like, Since, Because, Time, Maya, Himself, Great, Without, Krishna, Still, Brahmanism, Living, Real, Voice, Love, Will, Deity, Somehow, Judgment, Having
+
+---
+### Line 4074-4082 (Match: 'Karmic')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+40
+Needs Review
+40
+0 I was so aware at the time of the Xerox letter of the nelf to choose correctly, it was fear-provoking + ominous - I was tense + terrified, as witness my B. P. But also; I knew there was incredible good latent in the situation, if I did manage to choose correctly well, I did so choose, + maya continieed to left, so that finally I could perceive + commune with God - the greatest joy possible: plus the promise that, upon death, I would go to join him + Tony Boucher + the others, who were there with him finally I say: the black Iron Prison world is that deterministic prison which the mechanical cause - + - effect laws of Karma imposes on us: each successive life determined rigorously by what carre (by what we did) before: truly a prison for the soul. + of course the Palm tree park is the place we yearn to return to, but cannot unless or until we are freed from karmic burden (or, if you will, sin). in Egyptian terms, ma'at's feather proved heaver than the heart being weighed In Zoroasterior ters, one has chosen the light, + his met, fought, + triumphed over his drus. I have it: my whole karmic burden expressed itself as ceaseless terror of capture. At 3-74, the Karmic content of This ceaseless torment swam to the surface + revealed its origins in a past life, in Rome, where I was an early Christian who lived in actually, realistic fear of the Ir leg, died to my involvement in illegal Christianity. The past life roots (cause a origing of this fear, rational ther in that previous world were revealed: the fear was of past life of karmic origin, +, once I had dealt with the Xerox letter rightly, I was freed of that ifelong fear of imprisonment + death + this is still so.
+
+Last edit almost 3 years ago by svayambhu108
+
+41
+```
+**Co-occurrences**: Christian, Xerox, Rome, Christianity, Well, World, Iron, Prison, Time, Black, Good, Light, Karma, Could, Once, Maya, Being, Tony, Black Iron Prison, Palm, Still, Soul, Upon, Actually, Before, Death, Finally, Will, Would, Were, Egyptian, Have, Tree, Life, Unless, Iron Prison, Until
+
+---
+### Line 4079-4087 (Match: 'Karmic')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+41
+41 So my lifelong fears had their origins in a past life. I remembered that past life, which feed people do, then I chose correctly (ore the Xerox letter). the immutable mechanical cause-+-effect force of Karma was broken (thanks to God's intervention or grace). That fear has never returned. Eviderly I was punished (arrested + immisure + finally killed in that past life); this was decollection & Cathasis what you do with childhood traume. fury theaky. Yas trauma, all right but in a prier life, not in childhood - dooming me to perpetual suffering. I had to make my peace with the autherites as it stood I was myself engineering a mechanical (karmic) repetition of that original situation + doon, + or some level I sensed this + so was afraid of what inexorably lay ahead (sare as before). Reacting to the Xerox letter the was I did broke the mold a pattern of the previous life I + so broke Karma. This time I did what I did not do (or couldn't do) then. + so at last I ceased to sense - or actually - see the black iron prison that was (is Rome ground one which once ha been literally there. My script" called for self-destrictly martyrden - my whole life aimed at it (Christianity prizes martyrdon) - but God's script (his will called for me to keep on livine (i.e. to write + act in a fighting way. rather than self-destructuewa). He won
+
+Last edit almost 3 years ago by svayambhu108
+42
+Needs Review
+```
+**Co-occurrences**: Xerox, Rome, Christianity, Iron, Prison, Time, Black, Karma, Once, Self, Black Iron Prison, Grace, Their, Ground, Actually, Before, Finally, Will, Life, Iron Prison, Right
+
+---
+### Line 4130-4138 (Match: 'Karmic')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+48
+Needs Review
+48
+8 deny of these 6 models could be correct - inc #6, the I don't know" one. I was in the black iron one; I am in the middle one; + I have seen the palm tree world -+ entered it briefly - + would like to, expect to, find my way back. I seem to have been taking a vertical trip (so say the I Ching), from the awful black iron one up to ours + then up to the Palm tree one, (hopefully). I. I changed or moved; the 3 worlds stay the same. The black iron one is still There (somewhere); all that's changed is I'm no longer in it to say it disappeared when I left it is solipsistic. This is The Pythagorian, neoplatonist, Hindu gradual emancipation (liberation) of the soul on its upward (i.e. vertical ascent) journey. 3-74 was the first breakthrough upward, from The worst to this one (I threw off the worst as it by throwing off Karmic burden). For an enlightened person I sure am confused. If only there were someone to ask (I'm So ther I'm beginning to write backunds. Either I am ascending or our whole world is ascending - this confusion equals my early confusing about whether the Parousia care for everyone or just for me. In any case, viewed from any standpoint I for sure have been extricated from the black Iron Prison which means liberated perial, + I probably someday will final my resure reward by re-finding + re-entering for good - the palm tree world. But what about everyone else! The overthrow of the conspirators points to a general, historic change, involv ing not just me but our while planet. Only difference between me + everyone else is that I saw what was happening + they did not. "We shall be changed," Paul said, + I was changed. The whole world was changed. Change by reason of intervention was about all I can be sure of, except that it was for the better which is probably why I can now look back + see the black in world of which I was a part. The only ones who were brought out of it were those who opposed it. So all the others must still be on it, they are not any more aware they are in it than I was when I was in it - it's only when you lean that you can look back + see + understand. These must be overlapping worlds
+
+Last edit almost 3 years ago by svayambhu108
+49
+Needs Review
+```
+**Co-occurrences**: Paul, Parousia, These, Like, World, Iron, Prison, Only, Black, Good, Could, Just, Look, Black Iron Prison, Either, Probably, Palm, Viewed, Those, Still, Part, More, Soul, Will, Would, Ching, Were, Hindu, Back, Have, Tree, Journey, Whether, Except, Iron Prison, Final, Someone
+
+---
+### Line 4894-4902 (Match: 'Karmic')
+**Folder**: part was
+
+```text
+9 Internal (phosphene) in origin, but the patter of phosphene activity (shared, colres, intensity) is stimulated often from Without (e.g. radiation) evidently normally the phosphenes Are not being stimulated to the degree necessary for ignition.
+
+I just realized of causal the programming is on the inner take + not in the external objects; the latter are perceived by any number of people, who each must be programmed Serve what differently
+
+To take a new tack? I was shown both the 1st advent and the apocalypse. The 2nd advent, judgement, + the final millennial Kingdom. These are the absolutely ultimate events which the Great prophets of antiquity were shown. To reveal to all men. In starting 2500 years ago + running through to the end of linear time Wait! I remembered back to the beginning, to before I came here. So I passed along the entire length of linear time from start far in past to the distant (?) end in the [far] future; I experienced it all as my inner experience engramming time-track rushed through at incredible velocity. It did not stop until the last frame or inch of linear time ran out- not just the end of the track but the end of time; the last part was the Golden Rectangle Gate + the Garden. The take ended because there linear time evidently ended. This ended my personal extensive trans-life existence. I am no longer bound to the wheel; this is what the fulfillment (consummation) of linear time (engramming track) signifies. I think, by having the entire film run from 1st to last frame, I was freed from what is called karmic existence (“my entire life passed before my eyes”). This is the liberation sought in Hinduism. Evidently, before you can be extricated from here you must live through it all to the end. Although evidently it will suffice to run the thousands of years through in [ecerenmonions?] So I was not just saved from the doom the Xerox letter would have brought- in this world; I was extracted for all time. The feeling that I have is that apparently I did my assigned task when I [felt?] the injury to the Xerox letter.
+
+Last edit over 4 years ago by carolinerose
+13
+Needs Review
+```
+**Co-occurrences**: Xerox, Kingdom, Golden, These, Advent, World, Because, Time, Garden, Just, Both, Being, Although, Great, Without, Part, Wait, Through, Before, Will, Would, Were, Back, Have, Life, Apparently, Having, Evidently, Final, Track, Until
+
+---
+### Line 6414-6422 (Match: 'Karmic')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+36
+3 The 2nd Advent completed his process of assimilating The world (which is what I saw him doing) all the generations since 70 AD have been repetitions of an archetypal population (cf the gene pool DNA memory coding studies) which cannot any more escape their roles which they occupied in 70 AD than they can - well, karmic burden is involved here. What they were then they have continued perpetually to be deterministically caught. However, in 1974 (as we reckon it) new orthogonal punch-through came, + changed things. My destiny, to fall victim to the Xerox missive again + again, in an almost eternally repeated mesent (cf "Tempunauts") was interrupted - invaded by assistance + the advocate, who woke me. I recalled it happening before, + destroying me. memory of it happening before would, alone, merely have told me I was doomed again; it wouldn't have informed ne - led me through the intricate escape maneuvers necessary. My situation in miniature reflected the miserable prison-like quality of our linear, unwinding strip, circling Advent I the way the persus a circled, with everyone repeat their dream (mutual dream) over + over, but with super ficial variations in appearance (linear strip accrual). It was because of this repetitious trapped quality of linear time (astral powers, or planetary, destiny, fate, etc) that Advent I took place - to break the "chaldean" astrological causal framework: v. God's grace, providence, v. Sarapis, Hermes Tristmo gistos, etc). This was the whole discovery of the mystery religions. 1) We are trapped, doomed to a repeated pattern, + 2) The deity - savior - can extricate us. No sense can be made out of ➁ (Salvation) unless ➀ is properly understood.
+
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+```
+**Co-occurrences**: Xerox, Well, However, Advent, Like, World, Since, Fall, Because, Prison, Time, Savior, Again, Missive, Xerox Missive, Fate, Grace, Their, More, Through, Before, Deity, Would, Were, Have, Things, Memory, Unless, Hermes, Dream, Salvation
+
+---
+### Line 11406-11414 (Match: 'Karmic')
+**Folder**: part of
+
+```text
+Last edit almost 5 years ago by sekennedy62
+3
+Complete
+3
+grim reality of the prison - a garden replaces it. He who sees the garden replace the prison is freed of his karmic burden; he can rest. Thrall has ended. The layers of successive reality have peeled off - delaminated - one by one, paralleling the other process of lamination: 2nd Advent over the first. A one order of reality is dismantled another is laid down, replacing it.
+
+That Ho on could dissolve our world + generate another in full detail in place of it would seem impossible to people. First, they would have to come to terms with a radical epistomology in which world is mere brain - simulation + programming, an inner-outer agreement which gains our assent + hence power over us; that that power could be said "no" to would make no sense to them. Proof of its mere simulatedness arrives as another world replaces it, abolishing naive faith in the substantiality of world - any world.
+
+But what is gained as faith in world is lost is awe + respect for "He who causes to be" who is appropriate can be effortlessly generated in complete detail, much to everyone's surprise. In the process Ho on can be apprehended, at last (cf my ham sandwich model). The I-it relationship changes to an I-you relationship between two minds: the lesser one of man's, the infinite (?) one of God.
+```
+**Co-occurrences**: Complete, Advent, World, Prison, Faith, Garden, Could, Reality, Brain, Another, Would, Other, Have
+
+---
+### Line 16422-16430 (Match: 'Karmic')
+**Folder**: Book of
+
+```text
+Indexed
+folder 20 - 012
+11
+
+The info traffic, + Zebra, the macrobrain. + finally the abyss. There is great ambiance to sound. It's like distant bells. In the Book of Adam + Eve, as in Genesis, it is said that God Himself (1) occluded us; + (2) exiled us from the Garden to the prison as punishment for our transgressions. He did it to us + now he undoes it. We are deformed + in exile, cut off from him. But he took me back, through Christ (perhaps as Advocate; viz: "if anyman have sinned, he has an advocate with the Father."). God has dispatched a savior to restore [me]. Is this a selective salvation ("my sheep know my voice.")? It is not based on merit, perhaps, but is predestined (which Will Durant calls "that awful doctrine" - of Augustine's). But it must be so, it can't be based on merit; all of Paul's writing makes this clear. Merit is just another name for fulfilling the [law]. We can't earn our way back. The decision is [...] + the basis is impossible for us to know; that is a fact. There are no known criteria. There is absolutely no evidence that any given act or group of acts leads to it, so pragmatically, effectively, it is predestination de facto. If we can't know what will do it we can't be sure that anything will do it; anyway, if we don't know, it's the same thing. The initiative is God's. There probably is a pattern, a logic; it probably is not capricious - a whim. I know that in 3-74 some kind of "Karmic" determinism over me was broken. That was the power of our enslavement. Salvation = freedom, which I now construe as the burden of punishment: the exile + deformity. The narrowing of the Cave of Treasures. Release from the "inner-outer tape" that I discerned which the system locks us into. Then is is the normal system: the way it works. The way it's supposed to work. There may be no dualistic religion here. Just a hierarchy of levels. We were reduced by the same power that extricates us.
+
+Last edit almost 8 years ago by Toso
+folder 20 - 013
+Complete
+```
+**Co-occurrences**: Christ, Acts, Toso, Indexed, Zebra, Complete, Paul, Perhaps, Father, Like, Prison, Folder, Garden, Savior, Book, Just, Adam, Toso
+Folder, Himself, Great, Augustine, Probably, Indexed
+Folder, Another, Through, Voice, Finally, Will, Were, Back, Have, Freedom, Info, God Himself, Salvation, Genesis, Durant
+
+---
+### Line 16866-16874 (Match: 'Karmic')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - page 6
+6
+
+He wishes to save us but there is some kind of theodicy involved which we don't understand - as with Osiris + Ma'at, + with Ormazd. Certain things must occur in sequence. There is structure + order involved, +, especially, a plan (or Logos). Normally conceived of as yoked to a sterile + formal moralism, this plan gets reduced in our minds to the level of our own legalisms. A better model is that of the great artificer who makes the best possible use of us as "materials". An intricate ladder of teaching, shaping, choosing, etc. seems to me involved, a sort of path with a near infinitude of possible branchings. A dialectical interaction between God + Man takes place at each step: God presents, Man studies + selects; + then the next step follows. These are like (but only like) vast accretional causal or Karmic chains stretching over thousands of years, a maturation process. This makes me think of the Great Branching Vine I saw under nitrous oxide, by means of which I understood so well. __ The more I contemplate this 4-pronged deformation the more the coherency, the logic, impresses me.
+
+1) If an irreal world is to pass muster, a perceptual occlusion would be necessary - or else there would be visible external breakdowns: failures. 2) For the occlusion to be effective it would
+
+Last edit almost 7 years ago by Toso
+```
+**Co-occurrences**: Toso, Indexed, Logos, Well, These, Like, World, Only, Folder, Great, Indexed
+Folder, More, Would, Page, Under, Things
+
+---
+### Line 17308-17316 (Match: 'Karmic')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 057
+55
+
+There is no doubt of it: I remembered a former life + my celestial existence, + so broke the hold of Karma (or astral determinism) over me. (V. Mircea Eliade: "Myth + Reality".) Shamans can do this. It was done for me, not by me - done for me by the divine messenger / savior from the celestial realm (the Pleroma, where I came from originally); this is he who I saw as Zebra inside + outside me breaking the Karmic (causal) hold over me. He actually melted causal trains, + brought to life in me my real self, that of Simon Magus ("Thomas"). Eliade explains how Karma is "burned up" by anamnesis (although I can't for the life of me se how come - although I can see - as Plato pointed out - that anamnesis would most importantly bring recollection of celestial existence: now, this brings us to Gnosticism; viz: that this world is not our true home , but a prison into which we have fallen, inc. forgetfulness, intoxication, sleep, ignorance etc. The Gnostic position -to me- makes sense out of all this. To remember that we lived elsewhere in a higher state -that this state is a strictured + deformed state- that, to me, would explain why anamnesis "burns up Karma" because remembering is to be made free: it does not cause freedom -i.e. result in freedom- but in itself is freedom. E.g. when I began to remember, the Karmic hold broke at once: it was not in sequence but two aspects of one thing. That is partly because the Karmic bonds are illusory because this world is illusory - that may be it.
+
+Last edit about 8 years ago by Toso
+folder 21 - 058
+Indexed
+```
+**Co-occurrences**: Toso, Thomas, Indexed, Zebra, Plato, Gnostic, Gnosticism, World, Because, Prison, Folder, Savior, Karma, Does, Once, Simon, Realm, Reality, Although, Self, Divine, Toso
+Folder, Anamnesis, Indexed
+Folder, Eliade, Most, Real, Actually, True, Messenger, Would, Have, Life, Freedom, Remember, Magus, Free, Pleroma, Simon Magus
+
+---
+### Line 17316-17324 (Match: 'Karmic')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 058
+56
+
+The fact that the Karmic bond breaks when you remember shows its illusory nature, its dream-quality, + the dream-quality of this world + identity + life in this world. Otherwise, would the bond, the fetters, immediately break? It only has power if we regard it as real - i.e. the world as real. I'm not sure Eliade sees this. The Pan-India theorists certainly saw this (but the Greeks did not; the Gnostics sure saw it!) It seems to me that the Karma-breaking experience of anamnesis would lead to acosmism. Also, the real home (Pleroma) is remembered - +, as in my case, the [Gnostic] messenger / savior is encountered + seen (correctly) as responsible for the Karma-breaking. Most important, the person recovers his Godhead identity (self), + this Eliade does not deal with. The authentic self is experienced as greater + more real than the world, + not of it. Thus the proto-story is made available to the person: the original home, the fall, the previous life or lives - the vast true self, + the messenger / savior. The vast expanses of space + time all of which are present. (I.e. Acts was not in the past, but superimposed on USA 1974 outside as was "Thomas" on me inside). Speaking of Indian thought, Eliade writes: "Ignorance - which in the last analysis is ignorance of oneself - can be thought of as a forgetting of the true self (atman): wisdom, which by tearing the veil of maya or ignorance makes liberation possible, is an awakening." + atman is Brahman - + for a long time I saw that the reality which I apprehended in place of the illusory world was exactly as Brahman is de-
+
+Last edit about 8 years ago by Toso
+folder 21 - 059
+Complete
+```
+**Co-occurrences**: Acts, Toso, Thomas, Indexed, Complete, Gnostic, Brahman, Greek, Wisdom, Godhead, World, Fall, Only, Time, Folder, Savior, Karma, Does, Maya, Reality, Atman, Self, Toso
+Folder, Anamnesis, Indexed
+Folder, Eliade, Indian, More, Most, Real, Certainly, True, Messenger, Would, Life, India, Remember, Greater, Otherwise, Dream, Pleroma
+
+---
+### Line 17349-17357 (Match: 'Karmic')
+**Folder**: folder 21
+
+```text
+Indexed
+folder 21 - 062
+60
+
+had thought. I don't know if even Gnosticism covers it. "Thomas" is not a former life but my actual life now. [Note] It covers the standard amount of years (of a normal human lifetime). What happened in 3-74 is that I woke up to reality. But it has these counterfeit accretional layers over it. Our sense of time -of the passage of time- is the result of our scanning the changes of appearance; we record the changes along a linear memory-strip, sequentially (digitally). We derive the idea of time from sequential memory (of permutation or fluctuation): it is linearized in our brains. Our brains are so constructed as to linearize sequences so sequential seeming (i.e. aspect) permutations of an actually supratemporal constant trick our brains into this linearization (sense of actual passage of actual time). We derive our sense of how much time (whatever that may be) from the rate of change; therefore if change could be speeded up to towards infinity, thousands of years (sic) could be compressed into an actual month (or so). Use of LSD has brought this to our attention. This makes me think of the furious rate of permutation of the phosphene "graphics." Was the entire remainder of the "Karmic" tape run? It could be -have been- hundreds or thousands of years of tape - "burned up" + hence abolished. However much remained. Well, in that case I'm spared living all my future lives.
+
+[Note] "Ignorance can be thought of as forgetting the true self." - Eliade
+
+Last edit over 8 years ago by Toso
+```
+**Co-occurrences**: Toso, Thomas, Indexed, Well, Gnosticism, However, These, Therefore, Time, Folder, Even, Could, Reality, Self, Indexed
+Folder, Eliade, Living, Actually, True, Whatever, Have, Life, Memory, Human
+
+---
+### Line 18688-18696 (Match: 'Karmic')
+**Folder**: book which
+
+```text
+Then the day in which "God" acted did come - + we were judged. I was extricated. + via the Fish sign itself - indubitable indication of where my help came from.
+
+I see : the project had to be reworked. It had come to a bad end: WWIII. So God (the Computer) reran the program differently. This required me to lose my safe + cushy roses + Cabin - By - the - Lake life + became a left wing protest writer - so, in recompense "God" intervened to save me when the vengence - trap - for my writing showed up in 3-74, at the risk of exposing the program nature of our reality.
+
+When I [formuly] reasoned wrong was to assume that since track A was a police state (v. "Tears") I must have been oppressed. No - I was well-to-do like most of the characters in "Tears." It is a society sharply divided between the "haves + the oppresses, + I was a "have" - not a s-f left wing writer. So I didn't object to that repressive reactionary society - + in a sense one shattered life in track B has been my karmic burder for my plush indifference to conditoins there - as with Jason Taverner.
+
+Last edit over 5 years ago by sekennedy62
+57
+Complete
+```
+**Co-occurrences**: Tears, Complete, Fish, Well, Like, Since, Taverner, Reality, Jason, Most, Were, Jason Taverner, Have, Life, Track
+
+---
+### Line 18694-18702 (Match: 'Karmic')
+**Folder**: book which
+
+```text
+Last edit over 5 years ago by sekennedy62
+57
+Complete
+57
+this leads to certain fascinating conclusions. I who personally benefited from that slave-labor society, was sentenced to live my life again on track B. + this time fight the tyranny? at great personal cost: specifically, the loss of precisely what I had in track A: the house, the wife (+ stable marriage), the cabin by the lake, + mostly it is a just sentence; in this track I expiate my karmic guilt, undergoing broken marriages + loss family + money + prestige + stability, etc. So I was judged then - in which cases deduce we all were judged in track A + reassigned accordingly (look how my case resembles Jason Taverner's!). (Fortunately, with a final exculpatory verdict, upon the intervention of God.) + in 2-74, the month "Tears" came out, there was intervention for me likewise, + by the same agency!
+
+Actually the strongest evidence I have for my "reprogram" tracks A + B theory is that when thomas surfaced. I saw two realities superimposed: I saw track A + was the person from it simultaneously. Thus I know that that other person, thomas, had another reality, + I recognized it as the world of "Tears"! If the "reprogramming tracks A + B" theory is wrong, why then did I see two realities when thomas took over? + specifically the world of "Tears" - which I know a lot about, due to the book; + I know God intervened in it at the end! + abolished it!
+
+I am tempted to speculate that upon another personality taking me over, + my simultaneously seeing another reality, I abreacted phylogenically in the same religeous awe which I felt when I was the Golden Fish sign + recognized its supratemporal - i.e. eternal - power. The xtians were the agents - the [agenda] - of my metamorphosis into thomas (cryptomorphosis). But it
+```
+**Co-occurrences**: Tears, Christian, Thomas, Complete, Fish, Golden, World, Golden Fish, Time, Book, Taverner, Just, Look, Again, Reality, Great, House, Jason, Another, Upon, Actually, Other, Were, Jason Taverner, Have, Life, Likewise, Final, Track
+
+---
+### Line 19556-19564 (Match: 'Karmic')
+**Folder**: folder 06
+
+```text
+folder 06 - 056
+56
+
+3-74 represents two transformations of reality. (one) The Karmic coercive determinism was invaded by an intentional rescuing thought-formation (Zebra/Valis/Ubik) generated (created) by me a decade earlier. Thus my own intentional (consciously volitional) prior thought-formation overpowered destructive Karmic reality + liberated me. Memory of my former life returned. (two) The irreality of "world" (actually my own prior Karmic + intentional thought-formations) was revealed to me, + became transparent, revealing the thinking body + blood of the Lord + my relation to it: myself as in it, + it in me. Hence I had ceased my postmortem journey + had been born, again, this time in the clear white light. Step (one) is the great illumination + liberation. Step (two) is the goal of this: where we are when illuminated + liberated - that which results. Pp 37/54 certain several crucial new insights 1) Our pre-programmed two-tape synchronized deterministic fake reality is mainly our own prior thought-formations projected + objectified, they happen to us + hence consist of Karma. 2) We can learn to get conscious, volitional control of them, thus preprogramming our own later reality thereby abolishing Karma or "astral determinism." 3) Valis/Zebra was my own intentional thought formation of a decade before, specifically Ubik. 4) We are in the Bardo Thodol state which I depict in "Ubik" based on "TTBofTD." 5) If our private prior thought formations both Karmic + intentional can be banished, we find ourselves actually in the thinking body of the Lord with his blood in us: him in us + us in him. 6) My theological experience of 2-3-74 + my 5 years of exegesis consist of a mixture of Sankara + high Tibetian Buddhism {...}
+
+Last edit over 6 years ago by Toso
+folder 06 - 057
+Indexed
+```
+**Co-occurrences**: Valis, Ubik, Toso, Indexed, Zebra, Lord, World, Time, Folder, Light, Karma, Bardo, Thodol, Again, Bardo Thodol, Both, Reality, Sankara, Buddhism, Toso
+Folder, Great, Actually, Before, Journey, Life, Body, Fake, Memory, Later, Blood, White
+
+---

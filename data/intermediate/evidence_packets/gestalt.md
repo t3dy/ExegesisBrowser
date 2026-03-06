@@ -1,0 +1,345 @@
+# Evidence Packet: Gestalt
+
+- **Category**: Top Term
+- **Total Mentions**: 121
+- **Aliases**: Gestalts
+
+## Supporting Passages (Context Windows)
+
+### Line 864-872 (Match: 'Gestalts')
+**Folder**: part of
+
+```text
+If a simple, workable, theoretical model were wanted by which all could be restored, then this might serve:
+
+(one) Reality in concentric rings of greater being (completeness), which the person initially encounters in terms of a ring less real than one he later encounters (best on all, final[l] encounters). Thus, the final ring encountered is the most real and gathers up --accumulates-- all that he ever encountered before.
+
+(two) There would be a "writing backward" system by which the person would be presented, for engramming-on purposes, lesser fragments of forms the larger fragments of which he will encounter later -- that is, later for him. Thus, his encounter-linew would be arranged backward to the direction he himself experiences it, the way a mystery novel is written. What he had had, and possibly lost, which would make the term "restoration" meaningful to him, would so to speak be deliberate clues presented ahead of time (early in his life) with the full knowledge that these were the certain experiential items he would later on come onto. The interesting part of this is that he could be easily almost effortlessly, engrammed in a random fashion, yet have the sense of total meaning. Here is an synthetic example: let us say that at the end of his life-line he winds up in the Lusitania Hotel which is the shape of a boat and has cherrywood furnishings including broom plants (Acacia) as the floral items. Intrinsically neural in value (these are virtually a pattern-less collection of elements) they would, for him, acquire meaning --Bedeutung-- if one were to place early in his life small replicas of these constituents: one would see to it that as a child he grew up for a few months --long enough to create engramming-- in a yard with flowering Acacia, which is really a weed, and that he watched a film on the sinking of the Lusitania on his family's TV set...and so forth, seeing to it that these was a vast wasteland of these items, so to speak, until the glide pattern past his life. Finally he would begin to encounter these dear long long engrammed-on bric-a-brac, and have a deep sense of cosmic completeness. Thus any life, theoretically, could be given a subjective sense of completeness and meaning and purpose and wholeness just by seeing to it that retrograde "clues" of what was in the natural course of events to happen along were stuck here and there at very early strategic points. The economny of these would be beautiful, since one would simply work backward from the "solution," i.e. the end as pure random given. "I am getting all back what I lost," the person would sigh gratefully, and see a Divine Plan, a Godish Hand in all this. Of further interest: he would be right. There is really no way this simple, economic system of enbewing an ordinary life with completeness could be accomplished without the agency of (a) deliberate design and (b) the ability to accomplish it by retrograde motion in time. What is to me of supreme interest is that the person involved --the subject-- would be able to detect the subtle but to him indubitably real hand of the Creator in the final section of his life -- although no one else could, and any one else could argue himself black in the face that no pattern was evident. The subject, all his life, would have carried these key engrammed-on external gestalts, slumbering always in his psyche; he would know, when he began to re-encounter them, what it signified (not that the end was near, but that the whole process was subsumed by intention, design, and a plan or Logos). These would be absolute signs along the trait that there was indeed and trail -- and it was one intended for him; he and it were isomorphic.
+
+Last edit over 5 years ago by Harpax
+57
+Needs Review
+```
+**Co-occurrences**: Logos, Form, These, Since, Time, Harpax, Black, Cosmic, Could, Just, Reality, Being, Although, Divine, Himself, Without, Creator, Part, Most, Real, Before, Finally, Will, Would, Were, Very, Back, Further, Have, Life, Absolute, Later, Knowledge, Greater, Final, Right, Until
+
+---
+### Line 870-878 (Match: 'Gestalts')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+57
+Needs Review
+57
+Being a novelist I can appreciate how easily this could be done; the ordinary person would suppose that the tinkering to produce a wholeness would be done at the end (i.e. the final elements in time would be placed there to conform with the very early childhood ones), but of course it's the other way; at an early age certain gestalts would be stuck in, and at this point the child's worldview, his sense of reality, in fact his reality, would be so hazy that he would accept anything; there could be no rejection of any item as "out of context" or "not supposed to be there and hence unconvincing or suspicious in nature." God could st[u]ck a sardine can in the middle of the sky, and the 2-year-old would gaze at it with awe (as we would) but with total acceptance (which we would not). God could see to it that these key (and they need be only a few) engrammed-on items could be striking -- would leave a vivid impression, and a lasting (for obvious reasons) effect. The child, as he grew up, would find himself wondering, every so often, why the yellow blossoms of the Acacia plant seemed so significant to him and lingered in his memory tapes, after much else had dimmed...and then finally he would delight in re-encountering the Acacia plant, at the Lusitania Hotel, and marvel that he had someone "found his way home" or better, more accurately, "been led home."
+
+(In my life, this would be why I always remembered the name of my babysitter, Olive Holt, when the names of most teachers afterwards were forgotten. It was because that "name" in divided form would crop up in the Xerox letter, by accident -- it could to a certain vague but real extent be found there; I would see it in the Xerox letter and my mind would work in a retrograde way, which is the direction the retention was impressed at the time, when I was 4 years old, because it would come up later -- because that would clue me in, in 1974.)
+
+This is an example of a process which I saw in 3 74 as a major process in the universe: it plays its hand (so to speak) in such a non-linear was that the pattern is never visible untl the final sections or even section is lowered (or raised) into place -- one can't even tell, for a long time, maybe a lifetime, that there is/are pattern(s) at all. What is given is not given in sequence, anyhow not in causal sequence, or any 1,2,3,4 sequence. The significance, therefore, of any element early in the "game", which is to say, in life, cannot be assessed; one can dream at any time a dream the events and things of which although impressive and vivid admit to no understanding -- until the missing integers show up subsequently . So selective, so intelligent is the method of play, that every guess as to the meaning of a partial pattern is brought to ignominous ruin when the true (completed) pattern is visible, and one must hang on, and hang on, waiting for that last piece. Thus, things seem to turn into their opposites, or anyhow into what they were not, as an additional piece is added; and each gestalt is a subsection of a larger gestalt embracing several gestalts. We therefore can reason that if we watch the universe in its process, its continual creation, we cannot guess what shape it will assume when complete until it is complete -- it could turn from a short fat mean dull dry universe to a thrilling warm green hat-shaped one, with the additional of a single sly piece, and God Himself could show a complete visage which was quite different from the semblance up to then...this might provide a new clue as to "unreality" versus "reality": the latter is anything correct apprehended, which is to say, when it --I repeat it-- is complete; until then, no matter how scrupulously observed, it would be less than real; it would be illusion? A phantom? The not-real, anyhow.
+```
+**Co-occurrences**: Complete, Xerox, Form, These, Maybe, Because, Therefore, Only, Time, Harpax, After, Mind, Even, Could, Anyhow, Suppose, Reality, Being, Although, Himself, Their, More, Most, Real, Holt, Such, True, Olive, Olive Holt, Universe, Finally, Will, Would, Other, Creation, Were, Very, Things, Life, Memory, Later, God Himself, Dream, Final, Someone, Until
+
+---
+### Line 874-882 (Match: 'Gestalts')
+**Folder**: part of
+
+```text
+Being a novelist I can appreciate how easily this could be done; the ordinary person would suppose that the tinkering to produce a wholeness would be done at the end (i.e. the final elements in time would be placed there to conform with the very early childhood ones), but of course it's the other way; at an early age certain gestalts would be stuck in, and at this point the child's worldview, his sense of reality, in fact his reality, would be so hazy that he would accept anything; there could be no rejection of any item as "out of context" or "not supposed to be there and hence unconvincing or suspicious in nature." God could st[u]ck a sardine can in the middle of the sky, and the 2-year-old would gaze at it with awe (as we would) but with total acceptance (which we would not). God could see to it that these key (and they need be only a few) engrammed-on items could be striking -- would leave a vivid impression, and a lasting (for obvious reasons) effect. The child, as he grew up, would find himself wondering, every so often, why the yellow blossoms of the Acacia plant seemed so significant to him and lingered in his memory tapes, after much else had dimmed...and then finally he would delight in re-encountering the Acacia plant, at the Lusitania Hotel, and marvel that he had someone "found his way home" or better, more accurately, "been led home."
+
+(In my life, this would be why I always remembered the name of my babysitter, Olive Holt, when the names of most teachers afterwards were forgotten. It was because that "name" in divided form would crop up in the Xerox letter, by accident -- it could to a certain vague but real extent be found there; I would see it in the Xerox letter and my mind would work in a retrograde way, which is the direction the retention was impressed at the time, when I was 4 years old, because it would come up later -- because that would clue me in, in 1974.)
+
+This is an example of a process which I saw in 3 74 as a major process in the universe: it plays its hand (so to speak) in such a non-linear was that the pattern is never visible untl the final sections or even section is lowered (or raised) into place -- one can't even tell, for a long time, maybe a lifetime, that there is/are pattern(s) at all. What is given is not given in sequence, anyhow not in causal sequence, or any 1,2,3,4 sequence. The significance, therefore, of any element early in the "game", which is to say, in life, cannot be assessed; one can dream at any time a dream the events and things of which although impressive and vivid admit to no understanding -- until the missing integers show up subsequently . So selective, so intelligent is the method of play, that every guess as to the meaning of a partial pattern is brought to ignominous ruin when the true (completed) pattern is visible, and one must hang on, and hang on, waiting for that last piece. Thus, things seem to turn into their opposites, or anyhow into what they were not, as an additional piece is added; and each gestalt is a subsection of a larger gestalt embracing several gestalts. We therefore can reason that if we watch the universe in its process, its continual creation, we cannot guess what shape it will assume when complete until it is complete -- it could turn from a short fat mean dull dry universe to a thrilling warm green hat-shaped one, with the additional of a single sly piece, and God Himself could show a complete visage which was quite different from the semblance up to then...this might provide a new clue as to "unreality" versus "reality": the latter is anything correct apprehended, which is to say, when it --I repeat it-- is complete; until then, no matter how scrupulously observed, it would be less than real; it would be illusion? A phantom? The not-real, anyhow.
+
+Last edit over 5 years ago by Harpax
+58
+Needs Review
+```
+**Co-occurrences**: Complete, Xerox, Form, These, Maybe, Because, Therefore, Only, Time, Harpax, After, Mind, Even, Could, Anyhow, Suppose, Reality, Being, Although, Himself, Their, More, Most, Real, Holt, Such, True, Olive, Olive Holt, Universe, Finally, Will, Would, Other, Creation, Were, Very, Things, Life, Memory, Later, God Himself, Dream, Final, Someone, Until
+
+---
+### Line 902-910 (Match: 'Gestalt')
+**Folder**: part of
+
+```text
+Needs Review
+59
+final piece was added it was a different picture than when the piece was added -- no, that is not so. It was the same picture or face, but not complete, and not to you recognizable. But that is your problem. After all it might have remained unrecognizable to you ever after you had assembled all the pieces (to a North Korean, perhaps). Or you might not have finished assembling, or assembled wrong, etc.
+
+In terms of Parmenides basic point about appearance versus substance, you could say that what we see looks like Mickey Mouse, but a priori we know (maybe it says so on the box the puzzle came in) that when complete, we will have a picture of Teddy Roosevelt. If, when it has been fully and correctly assembled, and it still looks to you, to me, to everyone, unlike Teddy Roosevelt and much like Mickey Mouse, then we can conclude there is an unexplainable gulf between what we "know to be there" and "what we in fact perceive." But this is another matter from that obtaining when we are even one piece short of completion and it looks like Mickey Mouse. Anyone familiar with gestalting will be able to explain that a partial gestalt may not resemble the full or actual gestalt, because we must fill in the missing section with a projected form-constituent. We have seen Mickey Mouse but in fact there is no Mickey Mouse, any more than when some one brings in a potato[e] which looks like Mickey Mouse. It is merely a potato[e] which has grown funny, and we project or gestalt it as Mickey Mouse -- the potato is not an incomplete picture; there is no missing piece to add, and no picture was intended, either or Mickey Mouse or anyone else. This is how the R[oh]rs[c]hach blots work; they intristically have no content; all is projected.
+
+If we ask, "Why do I see Mickey Mouse and not Teddy Roosevelt, when I know it should be Teddy Roosevelt?" I point it that there is a piece missing and that when it is added probably the discrepincy between what you see (MM) and what you should see (TR) will be abolished, and only the Gute-Forme TR will remain. Thus, the dokos will finally lift.
+
+When the development toward completion of this overall pattern is equated with evolution in general, it is evident that we do not worship this god, who is the Creator, but rather the God who enters and picks up the pieces allowed to drop to the workroom floor -- "The stone rejected by the builder shall be my cornerstone," as our God, Christ, put it. There is one God of the total section, the universe as entelechy, and a God of each discarded subsection, that it, too, in some miraculous way, will not perish. It is evident in what manner the universe --the developed completly evolved pattern-- will not perish, but what about those of us who were sacrificed or lost out along the way? The principle of "those who did not make it" is a major principle and includes many. My dream of the man who created life from the atom, to the comic strip baby to Kathy -- that procession was the universe moving toward completion, and this ruthless march forward injured a bystander, casualties were involved: the lamb, specifically, as represented in the dream as Tessa, who needed medical assistance from the good scouts who were coming in to the vast building. We seek help, but the Creator is concerned with the total structure, not with the rejected bits; if there were only this God and not Christ, what a juggernaut the cosmos would be. We would all perish, ant-like, in the service of the final gestalt or pattern (Darwin et al believed in just such a world). But we seek another God, that of the defeated and powerless.
+```
+**Co-occurrences**: Christ, Complete, Form, Perhaps, Maybe, Like, World, Parmenides, Because, Only, After, Good, Even, Could, Just, March, Either, Probably, Tessa, Creator, Kathy, Those, Still, Dokos, More, Another, Such, Universe, Finally, Will, Would, Were, Many, Have, Life, Dream, Lamb, Final
+
+---
+### Line 906-914 (Match: 'Gestalt')
+**Folder**: part of
+
+```text
+In terms of Parmenides basic point about appearance versus substance, you could say that what we see looks like Mickey Mouse, but a priori we know (maybe it says so on the box the puzzle came in) that when complete, we will have a picture of Teddy Roosevelt. If, when it has been fully and correctly assembled, and it still looks to you, to me, to everyone, unlike Teddy Roosevelt and much like Mickey Mouse, then we can conclude there is an unexplainable gulf between what we "know to be there" and "what we in fact perceive." But this is another matter from that obtaining when we are even one piece short of completion and it looks like Mickey Mouse. Anyone familiar with gestalting will be able to explain that a partial gestalt may not resemble the full or actual gestalt, because we must fill in the missing section with a projected form-constituent. We have seen Mickey Mouse but in fact there is no Mickey Mouse, any more than when some one brings in a potato[e] which looks like Mickey Mouse. It is merely a potato[e] which has grown funny, and we project or gestalt it as Mickey Mouse -- the potato is not an incomplete picture; there is no missing piece to add, and no picture was intended, either or Mickey Mouse or anyone else. This is how the R[oh]rs[c]hach blots work; they intristically have no content; all is projected.
+
+If we ask, "Why do I see Mickey Mouse and not Teddy Roosevelt, when I know it should be Teddy Roosevelt?" I point it that there is a piece missing and that when it is added probably the discrepincy between what you see (MM) and what you should see (TR) will be abolished, and only the Gute-Forme TR will remain. Thus, the dokos will finally lift.
+
+When the development toward completion of this overall pattern is equated with evolution in general, it is evident that we do not worship this god, who is the Creator, but rather the God who enters and picks up the pieces allowed to drop to the workroom floor -- "The stone rejected by the builder shall be my cornerstone," as our God, Christ, put it. There is one God of the total section, the universe as entelechy, and a God of each discarded subsection, that it, too, in some miraculous way, will not perish. It is evident in what manner the universe --the developed completly evolved pattern-- will not perish, but what about those of us who were sacrificed or lost out along the way? The principle of "those who did not make it" is a major principle and includes many. My dream of the man who created life from the atom, to the comic strip baby to Kathy -- that procession was the universe moving toward completion, and this ruthless march forward injured a bystander, casualties were involved: the lamb, specifically, as represented in the dream as Tessa, who needed medical assistance from the good scouts who were coming in to the vast building. We seek help, but the Creator is concerned with the total structure, not with the rejected bits; if there were only this God and not Christ, what a juggernaut the cosmos would be. We would all perish, ant-like, in the service of the final gestalt or pattern (Darwin et al believed in just such a world). But we seek another God, that of the defeated and powerless.
+
+Last edit over 5 years ago by Harpax
+60
+Needs Review
+```
+**Co-occurrences**: Christ, Complete, Form, Maybe, Like, World, Parmenides, Because, Only, Harpax, Good, Even, Could, Just, March, Either, Probably, Tessa, Creator, Kathy, Those, Still, Dokos, More, Another, Such, Universe, Finally, Will, Would, Were, Many, Have, Life, Dream, Lamb, Final
+
+---
+### Line 2418-2426 (Match: 'Gestalt')
+**Folder**: part alone
+
+```text
+Last edit over 5 years ago by Harpax
+180
+Needs Review
+180
+it is very possible that rather than merely returning things to a status quo which is perpetual it is working toward the fulfillment of a Logos or Plan in the sense of continual creation in linear time. Maybe not. Maybe self-renewal is the goal: the ultimate in homeostasis. But given the kind of personality it exhibited to me, the love it felt, the concern and kindness -- I go back to the concept of entelechy, and imagine to myself that the red and gold Logos activity which I saw, the future reaching briskly into the past to obtain pieces to continually assemble into its jigsaw puzzle-like structure...that was a developing blueprint gestalt, which eventually would include everything, make use of everything. This doesn't seem cyclic. It literally plundered the past (present); obviously, then, it wasn't merely repeating it.
+
+What a thrill to experience the palintropos/tonos maintenance and restoration of harmonie, just in itself, as a philosophical matter, without reference to religion! To witness universal forces of the highest possible order move into the parabolic return...necessary, inevitable, relentless: ma'at herself, having judged: order, truth and justice all together, imposed against disorder (chaos). Now I know by my own experience that beyond the bounded, the space-time universe which our normal senses, our science, deals with, there is the Unbounded which shapes it, normally concealed from us: deus absconditus and stunning to behold. My mystic comprehension last night -- not that I gathered up into one explanation all I'd seen and figured out, but that I had seen and figured out such grandeur.
+
+It could be an important observation or insight to say that I did not have a religious mystical experience, with God -- as such; I encountered or discerned or perceived or experienced (assimilated the Dinge-an-sich in totality) which we call the universe, and found it to be alive, wise, active (Vast Active Living Intelligence System) and supporting to life, such as ours. Only by degrees --and the process of elimination-- did I come at last to call this "God." I did so because what I experienced is customarily called that and nothing else, except perhaps Immanent Mind; however, this is more than mind, it also being active (like Ptath the artificer). Thus I arrived at the idea that I had found God along lines which did not involve me flying to easy concepts or solutions. In a very real sense I started at the beginning of thought, without preconceptions or expectations, and invented, so to speak, the categories I used, had to use, and wound up with. I think had no one preceded me in this I would still have arrived at these conclusions; I mean, had there been no human knowledge of God or gods, or had I never heard of this (e.g. born into a totally atheistic society with totally suppression of news of God actually or in terms of historical belief), I would then be coming to my people to tell them that He Lives.
+```
+**Co-occurrences**: Logos, However, These, Perhaps, Maybe, Like, Because, Only, Time, Harpax, Mind, Could, Just, Being, Obviously, Self, Everything, Gods, Deus, Without, Nothing, Still, More, Living, Real, Gold, Such, Actually, Love, Universe, Would, Creation, Very, Back, Beyond, Have, Things, Life, Justice, Wise, Having, Except, Knowledge, Truth, Human, Ptath, Doesn
+
+---
+### Line 2811-2819 (Match: 'Gestalts')
+**Folder**: Book of
+
+```text
+one ever the other (roughly, yang or life or love or attraction over yin or death or coldness or decay). Form One of Parmenides: the dry or fiery principle. What kind of world would we have, then? Quite different. I saw (3 74) the two contending forces. I think a victory was scored by Form One (Christ), but was it the victory, or only one along a developing (evolving) process? (See intro to Slavanic "Secrets of Enoch.") Balance of contending moral forces struck for one day (or 1000 years, after which (sic) time is abolished). Note: balance, not victory by either side: balance. Or: palintonos harmonie.
+
+That there is another (eternal, i.e. outside of time, unchanging) universe (Plato’s real world) I am certain, by experience, but whether its "will" or nature will superimpose on this world eventually, literally enfolding it, I can’t figure out (Augustine versus the literal millenialists). I ask: do we go there (as Augustine figured, to the City of God) or does it finally come here?
+
+••• The obvious has eluded me. The left hemisphere, processessing and experiencing (perceiving) digitally, experiences linear time. The right hemisphere, working on an analog or pattern basis, experiences either another kind of (non-linear) time or else timelessness itself. I somehow (3 74) extinguished the left-hemisphere self-system (ego), and obtained, not bi-lateral hemispheric parity, but first the annihilation of the left-hemisphere self system, but then the coming into full firing (via the w.s. vitamins?) of the right, which many men have sought but few have found (the Mantra must have helped). And thereupon the universe was seen inside out, and time flowed backward! Viewed inside out specially, and flowing backward temporally, entirely new gestalts (patterns or entities or forces) were visible to me, as if one had suspended trying to read Hebrew from left to right and abruptly read it (properly) from right to left, etc. Since left-h. linear time, as is scientifically known, leads toward entropy, then I saw movement toward the formation of growth, or entelechies. Of the assembling of chaotic parts into wholes. Not only that, I saw saw the assembling force (the Logos) and the counter-force as well (unnamed), these two forming, I think, a dialectic of strife as Empedocles expressed; perhaps the Logos was above both (which twe then could be viewed as yang and yin, etc) and made use of their interaction and contention to build with and on and by means of. But this only visible from right-h. apperception of time flowing backward, and the special properties reversed as well. Left-h time apperception sees flow and change, evolution and process, but not the constructs of the process, since the process (which is real) is viewed in the wrong direction, as a decomposing one (like a tape or film run habitually backward). To the left-h, things pop into being in time and then pop out of being, meaninglessly, going nowhere; but to the right-h sense of the process (reversed), assembling, and toward a goal, is clearly visible. The goal is total assembly of everything into a single entity, probably a totally stable (palintonos harmonie) gestalt or kosmos. But the con¬ structs or gestalts being formed — although the entity at work operated in reverse time, those gestalts lay in our linear future. it was "writ¬ ing backward" to arrive at cur terminal end. 5
+
+26 3345 hellane
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Parmenides, Since, Only, Time, After, Yang, Could, Does, Hebrew, Both, Kosmos, Being, Empedocles, Although, Self, Everything, Either, Augustine, Probably, Viewed, Those, Their, Another, Real, Love, Death, Universe, Finally, Will, Would, Other, Somehow, Were, Many, Have, Clearly, Things, Life, Form One, Whether, Dialectic, Right
+
+---
+### Line 3574-3582 (Match: 'Gestalts')
+**Folder**: part in
+
+```text
+September 15, 1976
+
+Dear Dorothy,
+
+I wanted to add a footnote to my earlier letter about my religious discoveries: new light shed on them through an interview with a lady reporter who came to see me yesterday. I mentioned to her that 36 of my novels asked the question, What is real? which is the basic question of all Greek philosophy, starting with Parmenides who felt that what we see is "dokos" or a kind of counterfeit reality, behind which lies a real or absolute reality; this distinction is later found in Kant. I told the lady reporter that my newest novel, VALISYSTEM A, is not this question repeated but the answer given, and she pointed out that after 25 years I seem to have arrived at an answer. For the first time I realized that my religious experience of 1974 was indeed an answer to a 25 year seeking, and not mere happeenstance, and I saw it in perspective for the first time. That my answer should be the Christian answer did not appear to disturb the lady reporter, but she pointed out that those fans who had grumbled at my asking the question, "What is real?" repeatedly would probably now grumble at the answer which I had found, which was a blend of Platonism, Neoplatonism, Gnosticism and Christianity, with nothing really new in it. Later I got to thinking of how many factors had gone into my finding this answer. I had just had several teeth removed, and was still under the influence of sodium pentathol, for one thing. As a second major factor, I was experimenting with the orthomolecular vitamin formula, and had accidentally taken 7 grams of vitamin C, much more than is indicated. Thirdly, a girl had come to my door with a gold fish necklace, which had fascinated me, and she had said, "This is a sign used by the early Christians." Also, I own a very old wooden saint figure, and for some reason had been moved to burn a votive candle before it perpetually. Too, it was the time of the vernal equinox, which is near Easter and the Jewish Passover. All these factors were causal in producing what happened; neural firing took place in the right hemisphere of my brain for the first time, and there was a radical drop in GABA fluid, which is the inhibiting fluid, allowing metasystems to fire for the first time (I use Maslow's terms here). The experience did not come easily, and, as I mentioned in my earlier letter, I was in a unique state of fear and dread. My first stage of the experience was to undergo the Bardo Thodol journey, and was then suddenly surprised to find myself confronting Aphrodite, who Empedocles believed to be the generative principle of all life, of all love and the formation of krasis or gestalts in the universe, as opposed to the principle of strife. What this meant I did not know at the time. Soon thereafter I was treated to 8 hours of violent phosphene activity, resembling modern nonobjective graphics such as those by Klee and Kandinsky; at this point I was aware that another mind was reaching out to my own, but I thought it human, perhaps a Soviet telepathic experiment. The sense impressions were overwhelming. When the phosphene activity ended, I felt that I had regained my sight, that I had been blind all my life ana could see for the first time. What I saw, then, were the mysteries of the universe; and at the same time a theophany took place, the mani¬ festation of a divine entity which passed into my own mind, displacing my ego and becoming a theolepsy. From there on, in visions, dialog and dreams, it informed me of all things which were: the actual or absolute reality I had been seeking for 25 years. One of the first actions this
+
+Last edit almost 5 years ago by svayambhu108
+288
+Needs Review
+```
+**Co-occurrences**: Christian, Christianity, Fish, Greek, Gnosticism, These, Perhaps, Plotinus, Parmenides, Time, After, Platonism, Mind, Light, Could, Bardo, Just, Soviet, Thodol, Bardo Thodol, Reality, Empedocles, Girl, Divine, Probably, Jewish, Nothing, Brain, Those, Still, Dokos, More, Another, Through, Real, Gold, Such, Kant, Love, Before, Easter, Universe, Would, Were, Very, Under, Many, Have, Mani, Journey, Things, Life, Absolute, Aphrodite, Later, Passover, Suddenly, Human, Right, Answer
+
+---
+### Line 3808-3816 (Match: 'Gestalts')
+**Folder**: Book of
+
+```text
+one ever the other (roughly, yang or life or love or attraction over yin or death or coldness or decay). Form One of Parmenides: the dry or fiery principle. What kind of world would we have, then? Quite different. I saw (3 74) the two contending forces. I think a victory was scored by Form One (Christ), but was it the victory, or only one along a developing (evolving) process? (See intro to Slavanic "Secrets of Enoch.") Balance of contending moral forces struck for one day (or 1000 years, after which (sic) time is abolished). Note: balance, not victory by either side: balance. Or: palintonos harmonie.
+
+That there is another (eternal, i.e. outside of time, unchanging) universe (Plato’s real world) I am certain, by experience, but whether its "will" or nature will superimpose on this world eventually, literally enfolding it, I can’t figure out (Augustine versus the literal millenialists). I ask: do we go there (as Augustine figured, to the City of God) or does it finally come here?
+
+••• The obvious has eluded me. The left hemisphere, processessing and experiencing (perceiving) digitally, experiences linear time. The right hemisphere, working on an analog or pattern basis, experiences either another kind of (non-linear) time or else timelessness itself. I somehow (3 74) extinguished the left-hemisphere self-system (ego), and obtained, not bi-lateral hemispheric parity, but first the annihilation of the left-hemisphere self system, but then the coming into full firing (via the w.s. vitamins?) of the right, which many men have sought but few have found (the Mantra must have helped). And thereupon the universe was seen inside out, and time flowed backward! Viewed inside out specially, and flowing backward temporally, entirely new gestalts (patterns or entities or forces) were visible to me, as if one had suspended trying to read Hebrew from left to right and abruptly read it (properly) from right to left, etc. Since left-h. linear time, as is scientifically known, leads toward entropy, then I saw movement toward the formation of growth, or entelechies. Of the assembling of chaotic parts into wholes. Not only that, I saw saw the assembling force (the Logos) and the counter-force as well (unnamed), these two forming, I think, a dialectic of strife as Empedocles expressed; perhaps the Logos was above both (which twe then could be viewed as yang and yin, etc) and made use of their interaction and contention to build with and on and by means of. But this only visible from right-h. apperception of time flowing backward, and the special properties reversed as well. Left-h time apperception sees flow and change, evolution and process, but not the constructs of the process, since the process (which is real) is viewed in the wrong direction, as a decomposing one (like a tape or film run habitually backward). To the left-h, things pop into being in time and then pop out of being, meaninglessly, going nowhere; but to the right-h sense of the process (reversed), assembling, and toward a goal, is clearly visible. The goal is total assembly of everything into a single entity, probably a totally stable (palintonos harmonie) gestalt or kosmos. But the con¬ structs or gestalts being formed — although the entity at work operated in reverse time, those gestalts lay in our linear future. it was "writ¬ ing backward" to arrive at cur terminal end. 5
+
+26 3345 hellane
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Parmenides, Since, Only, Time, After, Yang, Could, Does, Hebrew, Both, Kosmos, Being, Empedocles, Although, Self, Everything, Either, Augustine, Probably, Viewed, Those, Their, Another, Real, Love, Death, Universe, Finally, Will, Would, Other, Somehow, Were, Many, Have, Clearly, Things, Life, Form One, Whether, Dialectic, Right
+
+---
+### Line 5286-5294 (Match: 'Gestalt')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+74
+Needs Review
+74
+certai "As early as in St. Paul + St. John we read that to create it to fulfil + to purify the world is, for God, to unify by uniting it organically with himself. Note] How does he unify it? By partially immersing himself in things by becoming "element." + then, from this point of (3 vantage in the heart of matter; assuming the control + leadership of what we now call evolution [Note} Christ. principle of universal vitality because sprung up as man among men, put himself in the position (main tained ever since) to subdue under himself, to purity. to direct + super animate the general ascent of con sciousness into which he inserted himself. Not by a per ennial act of communion + sublimation, he aggregates to himself the total psychism of the earth. .. then, as St Paul tells us, God shall be all in all. This is indeed a superior form of pantheism, the expec tation of perfect unity, steeped in which each element. will reach its consummation at the same time as the universe. PKD âž€ I call this assimilating the world to himself, which implies a prior separation, i.e. a transcendent, not immanent, God. (2) He as process is superimposing himself onto, into, the world, this is not pantheism as Spinoza conceived it, except as the end of this super impositionary process, or anyhow far into it. It also agrees with my impression of Zebra inserting his cosmic body so to speak between us + the deterministic world, modulating its events + processes for the good. God (or Christ) informs the world by entering - âž€ "In the heart of matter" - exactly what I saw + call "transsub stantiation" (2) The "arranging" which I saw, of the antecedent universe âž€ Exactly my contention: the cosmic plasmatic Christ-Capus is sto i here. We are talking about God qua Christ (âž€ to turn what is lifeless into conscious, living, interacting as a Gestalt new reality i Cf Hegel "inserted himself" is exactly how I'd phrase I is exactly what I saw Zebra doing 6
+
+Last edit almost 3 years ago by svayambhu108
+75
+Needs Review
+```
+**Co-occurrences**: Christ, Zebra, Form, Paul, Spinoza, World, Since, Because, John, Time, Earth, Cosmic, Good, Does, Anyhow, Reality, Hegel, Himself, Living, Universe, Will, Under, Things, Body, Except
+
+---
+### Line 6513-6521 (Match: 'Gestalt')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+53
+Needs Review
+53
+( close encounters of a third kind." Mysterious + excit religious wonder + awe. At the time I saw Zebra I saw a sanctified world, such as the Char freitag zauber scene in act it of "Parsifal" interestingly, it was just about that time of year - it was, I have been told + come to believe, the true nativity (birth) day of Jesus Thus Zebra was an epiphany of the savior, when all is said + done. The world was changed + I, too, as (art of it: it dwelt in me + around me - I am a part of nature, as are the animals, who I saw changed too. The landscape, the animals, myself. Because of the presence of the savior. + why this epiphany? Because 1) I was in acute distress + 2) in acute danger. I have not written about the Magdaburg hemispheres for some time - now I drop the psychological explanation + simply say that his presence sanctified us all: man, animals, landscape. It was a certain way of experiencing the world, + also of inner being. But it occured on God's initiative (his grace), deliberately triggered off by the Golden Fish + my response of faith + belief. Nothing in 3-74 would have happened had I not responded as I did Yet I have discerned how God taught (prepared) me + from birth to so respond (this is a very important thing to know, to discern indubitably, beyond any doubt, how training laid down in + from my childhood on were deliberately employed to assure my response to the disinhibiting sign in 2-74. Another aspect I've forgotten about for a long time is the joining principle I saw as being the fundamental structure of the process of continuing creation. Everything new comes into existence as a single Gestalt by means of This joining. Before two pieces join to form the new Gestalt It is impossible to foresee 1) their joining at all, + 2) if joined, what the resulting Gestalt would be. + yet I deny God the role of creator - how do I reconcile this
+
+Last edit almost 3 years ago by svayambhu108
+54
+Needs Review
+```
+**Co-occurrences**: Zebra, Jesus, Form, Fish, Golden, World, Because, Golden Fish, Time, Faith, Savior, Just, Being, Everything, Grace, Nothing, Creator, Part, Their, Another, Such, Before, True, Parsifal, Would, Creation, Were, Very, Beyond, Have
+
+---
+### Line 6519-6527 (Match: 'Gestalts')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+54
+Needs Review
+54
+(3 is denial of the role of creator in the face of this contin val fundamental process - by him - of joining so as to produce the new? Well, "creating" is not what I saw; what I saw is precisely what Plato declared Noos to be "persuading" ananke to do with anomie, which is to say, arranging constituents that lie all in disorder to form what we correctly bipolarize against chaos as cosmos (or, as Empedocles called it, Krasis, composed by love, at war with strife). What is overcome is not just random disorder, but disorder resulting from the active divisive principle which Empedocles identified as strife. There is an active adversary to love (or Noos): cosmos has its artificer + So does anomie. Noos must, in its joining, overcome an opponent. Thus the 2-player "game" + "Game board" or battlefield quality that Zoroaster saw. But this cosmos is illusory in that there is a secret partnership between the two players (vishnu + Shiva, Horace + set), yin + yang. I discern, via the "lopped-off cuttings from God or Christ the true vine" that the Lord of Darkness, the evil or sick demiurge, James-James the mad genius creator, is an instrument of good (see the 10 typed pages of 11/19/77). James-James tosses out an infinitude of unrelated creations, which Noos (treating them as anoma which they are) arranges (joins). The two entities (James James who creates, but all in unrelated disorder) + the divine Noos who joins all into ever more complex Gestalts - between them the universe goes - + I suddenly see that in James-James I've perfectly described hex I, chien, yang, + in the joiner I've described yin (hex II, kun) the receiver, the recepticle of being into which yang's creations are thrust - + the Tao tants above both, regulating thene both. The Gnostics "+ Zoroastrians, Christiant, + manichaens) failed to discern
+
+Last edit almost 3 years ago by svayambhu108
+55
+Needs Review
+```
+**Co-occurrences**: Christ, Form, Plato, Gnostic, Well, Lord, James, Noos, Good, Yang, Does, Just, Shiva, Both, Being, Empedocles, Divine, Darkness, Creator, Zoroaster, More, Secret, Love, True, Universe, Evil, Suddenly, Ananke
+
+---
+### Line 6617-6625 (Match: 'Gestalts')
+**Folder**: part designed
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+71
+71 The universe not only functions as it (als ob) it were a teaching machine, but also. Each permutation of new Gestalts formed by The joining process of previously separated bits are new sequences of bits (constituents) of information: as bit is to joined together new (but temporary) Gestalt, words are to sentences. obviously, if the bits ("words") + sequences of changing (emerging) new Gestalts ("sentences") are a -or the - primary quality of reality (causal processes), there must exist something sentient informed (taught) by these sequence. of sentences. From all the evidence I have, we humans (+ animals too) are the students; in which case the as if (als ob) gives way to is (i.e. is a teaching machine, + volitionally sentient purposeful + wise.) We are only subliminally + right brain) aware of this; so perhaps this is c the use - purpose - of the right brain: to (outside our ego consciousness) absorb + learn as the total human is exposed to the contrived progression of lessons. To view the universe this way is not just a way (among many) of viewing - subjectively - it: this is a revelation of what it is primarily objectively designed For. So in 3-74 I abruptly achieved conscious awareness of these lessons + the "Teacher" ordering (i.e. arranging) them. I did not merely perceive the progression of lessons as lessons, but perceived (1) my t self as pupil; + (2) the teacher - Zebra - within on behind the lessons.
+
+Last edit almost 3 years ago by svayambhu108
+72
+Needs Review
+```
+**Co-occurrences**: Zebra, These, Perhaps, Only, Just, Something, Reality, Obviously, Self, Brain, Revelation, Universe, Were, Many, Have, Information, Wise, Human, Right
+
+---
+### Line 6660-6668 (Match: 'Gestalt')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+78
+Needs Review
+78
+7 So the federal "neural Ophasia" clinics, it is implies are ( worse; + ➁ they put you to work there. Arctor is a loser but it is the federal authorities (via Donna + mike westaway) who put him there. Donna supplied him + others (e.g. Freck) the 5D As I realized about the cover of the paperback of "Scanner" it really shows the dealer + law officer as the two halves of one person, with no hint of "warring" personalities: visually, they Gestalt into a syzygy, two sides of the same coin. Your dealer is a cop. Your cop is a dealer. I feel as if the scales have fallen from my eyes, + Jam seeing lucidly. From "Frolix 8" to "Tears" to "Scanner": a logically progression of an indepth study of Jail, tyranny, dope, slave labor camps, + irreality related to lies (this last point mostly in "Scanner"). Something of this seems hinted at in "Faith. of our Fathers," too: lies, delusions (induced by drugs), tyranny. What is shown in "Scanner" as the lies - enslaving- tyranny axis is not simplystically identified as "the Government" as it is in "Tears" + "Frolix I" - in "Scanner" it becomes paradoxical + elusive, with the Gov. Perhaps or evidently producing the drug, + The clinics + rehab centers perhaps or evidently being deliberate slave labor camps. The drug is there; the work camps are There; the feds are alluded to, but - the reader must unravel The puzzle for himself. If it isn't the Gov, who is it is not the definition of gov "that which is actually in con trol"? + the makers of 5D, which turn out to be the slave labor camp owners, are one + the same; it is a de facto govern ment - like the mafia, + look: why are scramble suits necessary? crime (the mafia? Identified as dope elements) have penetrated the authorities deeply. As is said again + again in the novel. "all is murked over." Things are not as they seem (as is t
+
+Last edit almost 3 years ago by svayambhu108
+79
+Needs Review
+```
+**Co-occurrences**: Tears, Perhaps, Father, Scanner, Like, Faith, Something, Look, Again, Being, Himself, Frolix, Actually, Have, Things, Government, Evidently
+
+---
+### Line 6689-6697 (Match: 'Gestalts')
+**Folder**: part at
+
+```text
+Last edit almost 3 years ago by svayambhu108
+83
+Needs Review
+83
+6 Thus Gnosticism is right in their view of God totally not found in nature (creation); only the 2 contenders can be found here. But God can directly intervene, as he did in 3-74 historically + specifically in my case. That is a direct God - man two element equation in which world is eliminated - I the world is thought of as an artifactual closed system, nothing truly can happen within it that is anything more than the sum of all its efficient causes. But this is not the case, as I discovered in 3-74. The sum of all the efficient caused in my life had led me to doom; thereupon God introjected - from outside the world a sua generis phenomenon; this view is one in which "Thomas" is viewed as literally created, rather than his presence being a transferred one to me from elsewhere. There was no history (prior processes) which could have given rise to or could account for Thomas, which accounts for the miraculous quality I felt about him at the time. Taking this as an example of the continuous creation which goes on, I can see how God Acts to modulate history. Arranging (joining pieces together in new combinations - Gestalts) accounts for general emergences; these new emergencies, however surprising to us, are nothing more than the total sum of their efficient causes, their histories, + are the work of The 2 dialectic contending demiurges. But if this were the whole story, the universe would cease to grow, + entropy would inevi tably win out, as our laws of thermodynamics show. However God's introjections of the historyless totally new is negentropic + true miracles. I saw Zebra + I saw it modulating causal processes, but I think also it, like Ubik, added adventitious Spin" or "velocity" or energy to the closed system of which I was a part - + a highly entropic part at that. This, in the garder + vine image was the gardener himself, aiding a languish cutting which he had 1000s of years ago pruned off of course the Gardener would like to see the cuttings prosper - they were not proned off to be destroyed, but to grow.
+
+Last edit almost 3 years ago by svayambhu108
+```
+**Co-occurrences**: Acts, Ubik, Thomas, Zebra, Gnosticism, However, These, Like, World, Only, Time, Could, Being, Himself, Viewed, Nothing, Part, Their, More, True, Universe, Would, Creation, Were, Have, Life, Dialectic, Right
+
+---
+### Line 7304-7312 (Match: 'Gestalts')
+**Folder**: part of
+
+```text
+Last edit about 4 years ago by sbrow1
+14
+Needs Review
+14
+14 So according to my view, Christ is breaking through into our counterfeit world in ways designed to attract our attention, startle us, undermine our assent to the spurious start to work in us a mysterious alchemy of spiritual regeration to what we should be - + to serore notice to the satanic powers that he is returning. As in my case, these mysterious gestalts visual, auditory + informational, no doubt disinhibit higher metasystem neural circuits we didn't know we had. He is playing games with us, as if we are children; in fact by means of wonder + magic he is turning us back into amazed children - who, paradoxically, true aducts for the first time. He is taking us become back to the beginnings. where is he? Everywhere: ubiquitous. The next scrap of paper you randomly look at may contain a crucial bit of message from him. There is one other possibility about the [growing] reality of the world of Acts. In my 3rd letter to sydny ween berg I state that Valis sees us as a "dying race on a dying world, wishes to extricate us, + may do so by a time dysfunction that is retroactive, + which will actualize a more viable universe in contradis it tinction to this one." Suppose - reasoning along these lines, he is in the process of expunging linear time back to "A": AD70. 1974 -1974 ( Well, even if this is the case, step one is for us to with draw assent from "B" + restore it to "A" Yes - that is the word: restoration (of what is lost).
+
+Last edit almost 3 years ago by svayambhu108
+15
+Needs Review
+```
+**Co-occurrences**: Christ, Valis, Acts, Well, These, World, Time, Even, Look, Suppose, Reality, More, Through, True, Universe, Will, Other, Back, Magic
+
+---
+### Line 7356-7364 (Match: 'Gestalt')
+**Folder**: book or
+
+```text
+Last edit almost 3 years ago by svayambhu108
+23
+Needs Review
+23
+23 I not only saw Zebra (the Logos or spirit) but in fact it found me + extricated (i.e. freed) me + gave me renewised life, defeating the powers (outwitting?) of Darkness + their plans, within a vast historical reweaving process in which the grand plan (strategy) of evil (of II) was turned back is o made to retreat. "Tears," written several years before the intervention, depicts this turning point. If we are to use the novel as a source-book or model, II had a firm grip on us all, before it was surprised + thrust back, since most of "Tears" depicts the landscape of II, not even an admixture it let alone I. (This changes upon the coming of the dream + what follows it.) So "Tears" as the microcosmos of Buck‐ man's life, depicts the vast historical reversal which took place in this kosmos exactly synchronized in time (which I can prove by citing the appearance of the girl with the Golden Fish necklace + my waking up - remembering - at the exact month "Tears" was released. I'm not sure that I ever clearly realized this before: "Tears" doesn't just picture the static prison world that obtained in 70-74 but chronicles The dynamic change-processes which took place in those years from the time it was written to '75, the year beyond its release, + the year (75) I first saw + entered PTG I, to my delight + surprise Maybe the interpolated fakes from II are not whole [time periods of] worlds, but like the fakes R.Childan has in his store, indistinguishably mixed with the real. so as to recontour the totality into something which it is (or seems) really not. Changes, additions + subtrac is here + there + the Gestalt of reality as a whole appears other than it is as if the animal is poisoned If so, then Zebra's purpose (job here) is easy to explain: he is weeding out the spurious. The vastly enhanced set-ground discrimination makes it possible for him to distinguish what we can't: the fake interpolation from the real - i.e. what's supposed to be, + when he weeds them out he abolishes them, + with them our memories So we never know. They weren't real (really there in the first place in "Tears" the dream shows an intrusion into II not our world (by I).
+
+Last edit almost 3 years ago by svayambhu108
+24
+Needs Review
+```
+**Co-occurrences**: Tears, Spirit, Zebra, Logos, Fish, Golden, Maybe, Like, World, Since, Golden Fish, Prison, Only, Time, Book, Even, Just, Something, Reality, Kosmos, Girl, Darkness, Those, Their, Most, Ground, Real, Upon, Before, Other, Back, Beyond, Clearly, Life, Fake, Evil, Dream, Doesn
+
+---
+### Line 7412-7420 (Match: 'Gestalt')
+**Folder**: part about
+
+```text
+Needs Review
+5
+5 "they" produce the drug + then punish by enslavement who take the drug. First, there is enslavement to the those itself. This is followed by a trade off into what is pa drug
+
+pably worse - but legal - enslavement - of an history i all t familiar sort: the whole ancient world was based on The drug is a new means to an old end. Drug addiction it. + rehabilitation is an establishment plot to recruit slave labor. It is very sophistocated + convoluted but it works. The "Synanon game" is the exact analog of CP brainwashing - it makes you completely dependent on outer Authority, not inner The worst part about drugs is that it turns you into a slave labore - mire westaway reflects that those who didn't die are worse off than those who did (from drugs). the name "mors ontologica" tells it all. The brain damage is a means to an end: utilized to promote the system of slave labor farms, shops, industries. Federal "clinics" are obviously jails: "For people who can't talk" (which is what the name implies (i.e. neuro-Aphasia clinics). Deprived of the power of speech. They now are told [what to do], + themselves they tell (order) no one look what you get if you meld "Tears" + "Scanner" into a joined Gestalt, which, as I know by revelation, How ZebrA gets his/her/its saving messages to us. Already is We add "Scanner" parallels between "MITHC" + "Tears" have been noticed; now ancient But, unknown to the tyrants. the a n eye has opened + seen, passed judgment, sentenced + carried out its (Christ's or + the God's) judgment - within which the situation is reversed, "hated, condemned + punished" of -by - the world find themselves participating in judgment on the world as parts of Christ - just as in "Scannen," bruce, the victim of the [worlds] system starts its destruction in motion when he places the blue flower - evidence - in his shoes + bruce has told new path: "I am an eye."
+
+Last edit almost 3 years ago by svayambhu108
+
+6
+```
+**Co-occurrences**: Christ, Tears, Zebra, Scanner, World, Just, Look, Obviously, Brain, Those, Part, Revelation, Very, Have, Judgment
+
+---
+### Line 7517-7525 (Match: 'Gestalts')
+**Folder**: part of
+
+```text
+Indexed
+18
+"But Lord - had we known - " and he said, "what you do to the least of you, you do to me." Alas, I am Guilty . But, as he said, "they do not know." But later they knew. I knew, with terrible shame. Oh, how I wept when I understood - what pain. I goading the dying savior. But at last I was brought to spiritual enlightenment. I saw the true vine and recognized myself as a living cutting from it, growing back into isomorphism with it - But after how long? How many lifetimes - 1000's of years it took to discover - re-find - my identity to it, to know it and myself.
+
+As I realized under the nitrous oxide: "At greatest depth of misery there comes [the greatest] joy." I reached that, can now rest. Alpha (image) Omega _ Premise: The right brain (hemisphere) gestalts combinations of items and correctly reads the informational messages so formed(?) - which the left, digital brain completely misses. Premise: We are therefore subliminally informed and controlled by these Gestalts, perceptible to the left or conscious brain only as discrete, separated non-related, non-informational entities arranged "at random." But Q: Who or what arranges these discrete elements into the informational Gestalts read by our right brains? If we are these being taught, trained, informed and controlled by deliberately juxtaposed objects (words, signs, etc.). A vast and powerful and sentient entity or entities exists here(?), and is invisible, manipulating us and our experience (perception) of (?).
+
+Last edit almost 5 years ago by Zebrapedia
+19
+Indexed
+```
+**Co-occurrences**: Indexed, Lord, These, Therefore, Only, After, Savior, Zebrapedia, Being, Brain, Living, True, Back, Under, Many, Later, Right
+
+---
+### Line 7952-7960 (Match: 'Gestalts')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+85
+Needs Review
+85
+88 - the urgrund is the abyss, or"+ when it Nothing collides with the byss (something) - it must transmute the something, not abolish it. The Trinity + higher + lower triads of Boehme may be extraneous (when Occham's Kazor is applied as principle), but there or not, what we have is the divine abyss transmuting material reality as a process in linear time. Where does the divine agony enter? Why? Before the incarnation? Isn't the incarnation The intrusion - the initial intrusion- of the divine aby ss into the mundane something? Christ said, "I have conquered the world. It was like an impregnation of matter (yin) by the creative divine (yang). But the divine will is thwarted; it encounters opposition (Boehme pointed this out). Matter has hysteresis (or inertia). Its entropic direction must be transmuted into negentropism - a titanic task possible only in a protracted process or series of sequential steps. The intruding light is rejected our problem may be that we have no comprehension of the inner necessity of sequence in this transmutation could our agony be microcosmic replications of the macrocosmic divine, with which we are (isomorphic; + 2 Actual fragments of, like bits of a hologram: intact Gestalts but dimmer" or less defined. The urgraund sought self-intuition. We as diminer bits have not yet achieved that self-intuition; hence, when we suffer, we do not know why. Up the hierarchical scale there is still suffering - even perhaps an increasing level of suffering at each hierarchical stage - but also at each ascending stage there is a quantum leap in a selfintuition which bestows (permits) greater understanding of why there is this suffering. At the top, the incarnated son (heart, Logos, etc, St. Sophia) knows himself totally knows totally why he suffers. It is due to the blity + The flash of the encounter between the divine abyss the something - which must be "overcome" (transmuted this is why Paul can speak of the whole universe
+
+Last edit almost 3 years ago by svayambhu108
+
+86
+```
+**Co-occurrences**: Christ, Logos, Sophia, Paul, Perhaps, Like, World, Only, Time, Urgrund, Light, Even, Yang, Could, Does, Jakob Boehme, Something, Reality, Self, Divine, Himself, Nothing, Still, Before, Universe, Will, Have, Trinity, Greater, Lower
+
+---

@@ -1,0 +1,344 @@
+# Evidence Packet: Trinity
+
+- **Category**: Top Term
+- **Total Mentions**: 28
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1065-1073 (Match: 'Trinity')
+**Folder**: part is
+
+```text
+Last edit over 5 years ago by Harpax
+73
+Needs Review
+73
+This makes of the Trinity a great biological organism in its several stages or phases: father-son is obvious, with the holy spirit bringing about the production of the son, using the human as "mother." (Just as Mary was used; she is the exemplar for that.) God gets from where He is to produce Christ (as many as God wishes, all of which probably share one "body," one "mind," which is transpersonal) via the activity of the Holy Spirit. Certainly the distinctions between God the Father and Christ the Son are clear (Zeur to Zagreus), but then someone asks, "How does the father produce the song? By binary fission? By parthonogenesis, which would make Him a Her?" Answer: as Holy Spirit her very Yanglishly uses one of us, which makes the human race the bride, not of Christ, but of God. (Hence the strange bride and bridegroom imagery in the church --"Wenn kommst du mein Heil? Ich komme dein Teil," etc., which I knew was erotic but which I couldn't understand. It has passed down to us in a typically garbled form. The Som is not the bridegroom; He is the issue. God is the Groom; Man is the Bride. Thus, we mere perishing mortals are brought up to participate in an act of biological or anyhow metabiological reproduction of an immortal and very superior electrostatic deity-race, and gain immesurably from this act; if never involved in this, we mere mortals perish in the most miserable and pointless fashion, just as the Bible says. The odd part is, the text of the New Testament really has got it all there, if you just get the proper slant on it, which we don't get, the sort of biological, reproductive, live-form, springtime, mating thing...it's there, but for some wild weird reason we utterly reject and cast out as unholy and suggestion of the erotic...except in the odd idea of Bride and Bridegroom, Christ and the Church. This is a case of almost being right, but the not-quite bit is a razor's edge bit, separating us absolutely. We get just to the edge of grasping it...but as the "Decoded N T" says, it isn't an intellectual thing anyhow; "grasping it" doesn't do it, any more than reading about the sexual act among cats produces cats. It's the old confusion between banana and the word banana. (Philosophy.) Reading about being seized by the Holy Spirit and believing that the HS exists and that it can do it, and that immortality therefrom is possible, through Christ, doesn't produce it in you. Too bad, but as the "Dec N T" says, no universe ever worked any other way. This is what I've meant by "cargo cult."
+
+(It's interesting how in my novel MAZE OF DEATH I wrote about a society where the communication and I guess by inference reproduction of God to his Son did take place routinely; anyhow there were a lot of Walkers-on-Earth bopping around, which is what this is supposed to achieve.
+
+I guess you could say, the total family is, God (JHWH), his impregnating self which comes to man (the Holy Spirit, sent by God) (as Christ said), and if Christ is the Son, the issue, it's pretty obvious that we humans are the mother; we're all Mary right now, until we receive an inner, Light-body transformation, into what they call Christ Consciousness. Our completion/perfection is not here on this Earth, but after our physical body perishes ("If a grain of wheat remain solitary, not sown then it --" etc. Well, [i] guess [i] got it. Albemuth: the star of Bethlehem, which I kept gazing up, seeking. Point of His (HS) origin?
+```
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Maze, Father, Earth, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Certainly, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+
+---
+### Line 1437-1445 (Match: 'Trinity')
+**Folder**: Unknown
+
+```text
+101
+The Neoplatonist structure of Plotinus goes: The One, who sends his first emanatino Nous (Intellect) to construct the universe. We can rise up into the eternal world or reality, of forms, to apprehend Nous. The forms are alive; collectively, they comprise Nous. Below them is Soul.
+
+We could perhaps equate the One with God; Nous with Christ as Pantocrator, but Soul would have to go. In any case, to so equate God with the One, Christ with Nous, would be to abolish their equality in the Trinity, and to turn toward the JWs beliefs. However, Christ is said to be the Mediator between God and man, and that view does seem to coincide with the structure of Plotinus; also, I read in "Wisdom" that wisdom is the first emanation of or from God, and if Wisdom equals Christ, then we do have the same general structure as Plotinus gives. I'm going to wing it and say that the Cosmic Christ, St. Sophia (Holy Wisdom) are identical with Plotinus' Nous: i.e. Lord of the Universe. Whom we can reach via the forms. But I just don't understand Soul at all; Soul acts in time, whereas Nous is eternal. I guess Soul is sort of like instinct, a Bergsonian elan vital.
+
+One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
+
+Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
+```
+**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Evidently, Whereas, Answer
+
+---
+### Line 1465-1473 (Match: 'Trinity')
+**Folder**: Unknown
+
+```text
+An analysis of TEARS shows the KKK type posse[e] which comes to kill Taverner to be the militant vigilante arm of the police state of which Buckman is the high official, the judge or whatever. Maybe there is some information here: the police state in TEARS, if it equals the police state actually extant c. 1971, probably has truly employed, and hence the real police state probably has employed, such terrorists, even perhaps the klan per se. Or the novel is a revelation about our world, does this tell us who murdered our leaders (Catholics and blacks) (the klan did), and in the service or say or hire of what? Of the police. That is the relationship shown in the novel: the posse agent of the state. Can this total analogy be transferred? Klan used by the COINTELPRO people to[o] kill our leaders one after another, as a vigilante?
+
+Maybe this is the message, the revealed message, in TEARS. There was also a message about the eternal world (outside time and space), but the space-time message is as above.
+
+. . . . Today I read the JW's booklet on the Logos and God. They successfully analyze away the doctrine of the Trinity (by making use exclusively of John) and replace it with a God-Logos, or Father-Son two entity system...which, when I finished, resembled my own experiences and revelations much more than the Trinity Doctrine. What is also amazing is that virtually everything they say about the Father-Logos is right out of the concept of faith in Egypt: the heart (mind) and tongue (word) of the gods, and also the architect of the universe! It is only the names that are changed. In John, the single deity is divided into heart (God the Father who created his First Born, the Logos) and then after that the Logos created everything else. God created his son and gave him the power to give life, same as He (God) had; passed, then, from Jehova to his Son and from his Son to us, to the world. So it is the Logos or Son with whom we deal and whom we encounter; evidently He, the Logos, created our world for God. (Using the plan in God's mind, which I guess is immanent mind.) Christ, the giver of life.
+
+Thought: back 20 pages, where Joseph Campbell says, "You can view God as being every thing or every where." If everywhere, then we have Ubik again, who is everywhere. Must see which I settled on, where or thing. Hope it was where. (Ho on: Greek for I AM, a title of God. The Logos is the agency of creation, but creation is continual, still going on; hence the Logos must still be present, guiding, giving life, informing. Moving it, us, toward the finish: the Kingdom of God, at which point -- well, creation I guess has been completed.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Tears, Ubik, Logos, Kingdom, Greek, Well, Perhaps, Father, Maybe, World, Only, John, Time, Harpax, After, Faith, Mind, Buckman, Even, Taverner, Does, Again, Kingdom of God, Being, Everything, Gods, Probably, Still, More, Another, Egypt, Real, Such, Actually, Revelation, Universe, Deity, Creation, Judge, Back, Whatever, Campbell, Have, Life, Information, Joseph, Today, Evidently, Joseph Campbell, Right
+
+---
+### Line 1788-1796 (Match: 'Trinity')
+**Folder**: part of
+
+```text
+All that was needed was the first light body (being); this was created when the man-god Jesus was killed: the light body was released: this was the Second Comforter He promised them. In that spirit form he entered them at Pentercost, through the pineal or third eye in the form of some kind of light. This transformed each of them, in fulfillment of the "me in you, you in me" that He said. This way each became immortal; at this point each acquired fusion with the light body, and when his own physical body died, his released light body was free to re-enter a human being capable of receiving him. I imagine that special conditions were required by which a human became capable of receiving a light body. What is new in this realization is that the immortal light body returns, to a human body, by re-entering it through the third eye; i.e. it comes back here (possession by the Holy Spirit); hence Jesus said, "It is to your advantage that I leave, because only if I leave can the Second Comforter come." He, as light body, had to be released, by his death, and he knew this; this is why he knew he had to die and was necessary in his work of giving eternal life. Otherwise, He as God or He and God could bestow eternal life on men without the necessity of him, the son of God, dying tragically.
+
+It's possible rather than severa[l] light bodies more likely there is an aggregate light body with Christ as "the head." Also, the continuity of this progression back to mortal men might have ceased around 150 AD when the small elect Christian community was killed by the Romans. Hence their last memories would be of around 2000 years ago, their language Greek. This theory seems to explain not only everything which happened to me (the "bioplasmic life form" identified) but even the sequence, starting with the chromatic phosphenes; the Attic Greek, the awareness of ancient Rome; the dreams of antiquity, etc. We are talking about a light body 2000 years old which re-enters this way when either conditions are suitable or when it wishes to, and to whom/where it wishes to. What I experienced is not so much Christ as the fellowship of Christ: ie. the entire mystic corporate beind included the early apostles. A group entity with Him as the first source and head. I think now I have explained it with this vision I had of re-entry by the light being through the single (third) eye of wisdom of the pyramid. This puts a quite different interpretation on Jesus' promise to return; he meant, evidently, He would return as a light creature and re-enter them (as the Holy Spirit); this would be a true return by Him, the King -- King in the sense that he would rule (over them all, as their rightful king). This collective rule of them by him and through him, linking them all together, would be the mysterious Kingdom of God.
+
+. . I 100 AD or so the Holy Spirit didn't leave; men fell away; it is still here, but men can't see it; hence, blasphemy against the Holy Spirit is not to have faith that it, as promised by Christ, is here with us working invisible to our blinded eyes; this is the one unforgivable blasphemy because the work of God is being done by the Holy Spirit, and it requires and rewards our faith in its secrets Presence. We really cannot see any members of the Trinity now, including God or Christ. It is such groups as the Witnesses and the Mission who have fallen into apostacy (sp), to deny the Spirit, to believe that God would send the Comforter and then withdraw it from us.
+
+Last edit over 5 years ago by Harpax
+127
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Roman, Wisdom, Because, Only, Harpax, Faith, Light, Even, Could, Kingdom of God, Being, Everything, Either, Without, Still, Their, More, Through, Such, True, Death, Would, Mission, Were, Attic, Back, Have, Life, Body, Comforter, Otherwise, Human, Evidently, Free
+
+---
+### Line 1920-1928 (Match: 'Trinity')
+**Folder**: part left
+
+```text
+Last edit over 5 years ago by Harpax
+140
+Needs Review
+140
+By the same token therefore I might be correct in supposing that the faint, distant, mild, composed voice I have heard is that of God Himself and not that of a demiurge, it not being necessary for Him to employ such just to scale Himself down. Some of the foolishness of doctrines diminishing the Trinity can be exposed by understanding this; obviously each Person or Member can be equal to God, although in a very real sense less (Christ was equal to God but God was greater than He; ordinary language doesn't apply here). What is meaningful is to understand that all of God is reconstructable from a single "bit" or expression or manifestation. I would think that in this fashion the omniscience of God is explained; how under these circumstances could there be signal loss or contamination?
+
+. . . Back earlier this year --well, when I got loaded this spring-- I saw the king dancing through the cornpatch and he was very young, virtually beardless. And then recently (May) I briefly glimpsed him again in hypnopompic state, and he was older, almost middle-aged, but still thin and pale. A little more beard. When I woke up I noticed for the first time that he is based on my ikon of the saint; the same pale features, the thinness...the saint metamorphosed into the king, his cardnal's cap turning into the royal crown. What I am wondering is, How long will it be before he is the Wise Old King with full white beard that I saw in 1970 in the dream I used in TEARS? The king as judge. Also, what associations, not yet here, will get him up mounted on horseback?
+
+. . . In thinking about the parable regarding the planting of the wheat, and then along comes the enemy who secretly sows tares. Christ said to wait and not pull up anything, wait until the wheat and the tares had fully grown; then they could be told apart, the tares pulled up and burned. Maybe he was speaking about an individual, not society, which is to say, what an individual is can best be determined after the actions and decisions which make up his life have taken place. In any case it is an important parable, because it points to our world and the time-span of either our lives or our whole world civilization as being a proving ground in which the tares versus wheat grow to visibility and can be distinguished -- and the wheat, or good ones saved, whereas otherwise the contamination will cause all to be lost (pulled up now). Thus this long time-span is a mercy by God, generated by His desire to save the "wheat" rather than destroy it along the the tares, which means that when we long for His intervention and wonder why it's taking so long, the answer may be in that parable; really, God is waiting for the two varieties to fully distinguish themselves so they can be separated (which Christ discusses frequently -- the sheep versus goats). Also, when discussing the sheep versus the goats, Jesus says that His sheep shall hear His voice and they will know its sound; they will respond to Him gladly. Could this be taken literally? Does one (who is His) one day hear His voice? Could that be the voice I have heard? Thinking that, another related thought comes to me. When the Xerox letter arrived, in a very real sense it was not I who recieved it; someone had replaced me, someone much more powerful, and holy, with enormous --if not infinite-- wisdom and power, who dealt with it, but also in a real sense took the shock, accepted the blow, as a surrogate for me, handling everything as
+```
+**Co-occurrences**: Christ, Tears, Holy, Jesus, Xerox, King, Well, Wisdom, These, Maybe, World, Because, Therefore, Time, Harpax, After, Good, Could, Does, Just, Again, Being, Obviously, Although, Everything, Himself, Either, Still, Wait, More, Another, Through, Ground, Real, Such, Voice, Before, Will, Would, Judge, Very, Back, Under, Have, Life, Spring, Wise, God Himself, Greater, Otherwise, Dream, Whereas, Doesn, Someone, Answer, Until, White
+
+---
+### Line 2508-2516 (Match: 'Trinity')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+188
+Needs Review
+188
+in human civilization ahead (first Earth Mother; then masculine Solar Deities; next, as in a pieta, the mother holding the son, them ruling together). A feminine universe which hold us in her arms -- Saint Sophia. The world spirit of wisdom (perhaps ma'at as well?). This is who has been speaking to me (Sadasa Ulna, etc). She is the fourth member of the quarternity (formerly trinity). Present at creation -- maybe is the Logos? Mediatress between God & man. Embraces the Son (who is also the Holy Spirit). I predicted her appearance, her amination of the universe, in my Vancouver speech. Immanent in the universe now. A living universe that's feminine. Co-ruler with God (like Mr. & Mrs. Iknaton.) Also: the New Eve, waiting to be born (or being born now). The Bride of Christ, His equal (not like Mary his mother).
+
+. . . The EB macro article on Christian mysticism says that it differs from all other mysticism in that the person seeks to do the will of the father, not just unify with him, know him, etc. I felt this re the Xerox letter: possession by the Spirit for an actual acted-out job or purpose, God using history, etc.
+
+. . . I want to repeat this: the information to me, which seeming to be the wrap-up, "Santa Sophia" etc., is the essence of the "Good News" of Christianity; it is all contained therein: we have a rightful King, he was "despised and rejected" before (and Crucified), but now he is coming back (i.e. born again on Earth), and it can be assume will rule (i.e. this time it will work out differently); this is nothing more or less than the Second Advent. It sums it all up for us. (This can't really refer to God's Wisdom being born in me again, because it was not ever there before, and certainly it would have been acceptable to me; this refers to human history.) I note that "not acceptable" is the whatever (opposite) of "rejected." Also, "Sophia" stresses which aspect of the Trinity will be stressed: Wisdom rather than power of love, which should I think be appropriate to a judge. In this connection I recall the sibyl (a woman) viewing the activities of evil men and certainly she is judging them as well as observing them; she is going to see that they are punished: she has witnessed their deeds. For her to witness is for her to deal our justice. In this role, again, she, the sibyl, is much like the Egyptian ma'at (recall! One dream of the sibyl showed her in Egyptian form! On the "boxing glove" extension, a little smiling head that peered down the front of the girl's blouse; a very important dream, tying the Sibyl indeed in with ma'at. Egypt to Crete to Greece to Rome.). (This tiny head extended -- how strange it was. Snake-like. And the snake is a wisdom symbol, also known to Delphi. I think now that these sibyl dreams indicate that the Day of Judgment has come or did come back around 3 74; I was seeing judgement by the judge, represented as female for several reasons (e.g. ma'at and Santa Sophia). What I got was a sign from the "Gods" that they had seen ("Surely heaven took note," etc.). Judgment was then executed. We have seen the results (the tyranny fell; the imperial empire has begun to fall).
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Xerox, Rome, Christianity, Holy Spirit, Form, Sophia, King, Well, Empire, Wisdom, These, Perhaps, Advent, Father, Maybe, Like, World, Fall, Because, Time, Earth, Harpax, Good, Just, Again, Being, Girl, Gods, Sibyl, Santa, Nothing, Their, More, Egypt, Living, Heaven, Certainly, Love, Before, Mother, Greece, Santa Sophia, Macro, Universe, Will, Would, Other, Creation, Judge, Very, Back, Egyptian, Surely, Whatever, Have, Judgment, Justice, Information, Evil, Human, Dream, Crete, Mary
+
+---
+### Line 2512-2520 (Match: 'Trinity')
+**Folder**: part of
+
+```text
+in human civilization ahead (first Earth Mother; then masculine Solar Deities; next, as in a pieta, the mother holding the son, them ruling together). A feminine universe which hold us in her arms -- Saint Sophia. The world spirit of wisdom (perhaps ma'at as well?). This is who has been speaking to me (Sadasa Ulna, etc). She is the fourth member of the quarternity (formerly trinity). Present at creation -- maybe is the Logos? Mediatress between God & man. Embraces the Son (who is also the Holy Spirit). I predicted her appearance, her amination of the universe, in my Vancouver speech. Immanent in the universe now. A living universe that's feminine. Co-ruler with God (like Mr. & Mrs. Iknaton.) Also: the New Eve, waiting to be born (or being born now). The Bride of Christ, His equal (not like Mary his mother).
+
+. . . The EB macro article on Christian mysticism says that it differs from all other mysticism in that the person seeks to do the will of the father, not just unify with him, know him, etc. I felt this re the Xerox letter: possession by the Spirit for an actual acted-out job or purpose, God using history, etc.
+
+. . . I want to repeat this: the information to me, which seeming to be the wrap-up, "Santa Sophia" etc., is the essence of the "Good News" of Christianity; it is all contained therein: we have a rightful King, he was "despised and rejected" before (and Crucified), but now he is coming back (i.e. born again on Earth), and it can be assume will rule (i.e. this time it will work out differently); this is nothing more or less than the Second Advent. It sums it all up for us. (This can't really refer to God's Wisdom being born in me again, because it was not ever there before, and certainly it would have been acceptable to me; this refers to human history.) I note that "not acceptable" is the whatever (opposite) of "rejected." Also, "Sophia" stresses which aspect of the Trinity will be stressed: Wisdom rather than power of love, which should I think be appropriate to a judge. In this connection I recall the sibyl (a woman) viewing the activities of evil men and certainly she is judging them as well as observing them; she is going to see that they are punished: she has witnessed their deeds. For her to witness is for her to deal our justice. In this role, again, she, the sibyl, is much like the Egyptian ma'at (recall! One dream of the sibyl showed her in Egyptian form! On the "boxing glove" extension, a little smiling head that peered down the front of the girl's blouse; a very important dream, tying the Sibyl indeed in with ma'at. Egypt to Crete to Greece to Rome.). (This tiny head extended -- how strange it was. Snake-like. And the snake is a wisdom symbol, also known to Delphi. I think now that these sibyl dreams indicate that the Day of Judgment has come or did come back around 3 74; I was seeing judgement by the judge, represented as female for several reasons (e.g. ma'at and Santa Sophia). What I got was a sign from the "Gods" that they had seen ("Surely heaven took note," etc.). Judgment was then executed. We have seen the results (the tyranny fell; the imperial empire has begun to fall).
+
+. . . Hermes Trismegistos (Thrice Great Thoth). "Thoth was the repository of all wisdom." The Hermetic writings: revealed (from Thoth). Part of the pre-Christiam mystery religions; their texts.
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Xerox, Rome, Christianity, Holy Spirit, Form, Sophia, King, Well, Empire, Wisdom, These, Perhaps, Advent, Father, Maybe, Like, World, Fall, Because, Time, Earth, Harpax, Good, Hermetic, Just, Again, Being, Girl, Great, Gods, Sibyl, Santa, Nothing, Part, Their, More, Egypt, Living, Heaven, Certainly, Love, Before, Mother, Greece, Santa Sophia, Macro, Universe, Will, Would, Other, Creation, Judge, Very, Back, Egyptian, Surely, Whatever, Have, Judgment, Justice, Information, Evil, Hermes, Human, Dream, Crete, Mary
+
+---
+### Line 2520-2528 (Match: 'Trinity')
+**Folder**: Part of
+
+```text
+Last edit over 5 years ago by Harpax
+189
+Needs Review
+189
+These Hermetic-Thoth texts were used by the alchemists of the Renaissance. The concept of the Trinity may have come our of these Hermatic texts. Here is a direct link from Thoth into Egyptian Christianity! (Perhaps Thoth inspired the New Testament.) Thoth is the earliest form that the God of Wisdom appears in; is "Santa Sophia" the same as Thoth? Thoth is the husband of Ma'at, also scribe of the gods; also healed Horus -- a healer. Also: a magician! All the thousands of written pages I saw suggest Thoth or a permutation thereof. As scribe of the gods, writing is Thoth's natural mode of expression. In this case "She was not acceptable before" suggests that the world suppressed & rejected the inspired writings of Thoth, not that it killed someone in human form. I think, though, it most specifically refers to Christ because of the words "born again." The advantage which Christianity had over the other mystery religions was the presence on Earth of Jesus Himself; instead of just revealed writing they had Him in person to talk to them. And then later after his death he returned in the form of the Holy Spirit and revealed the New Testament for them to transcribe. Maybe He took up where Thoth left off. Carrying the continuity forward, as man evolved. All of them expressing the wisdom of God.
+
+. . . In 3 74, did I see this universe differently -- or did I see another (supernatural, e.g.) universe? What I saw (as the springtime world) in the New Creation of God; the King (dancing) is the Rightful King of that world; i.e. Christ. When you are brought into the Kingdom of God, by Christ, as I was in 3 74, then you can see it visually. The proof (to me anyhow) that this is indeed what I saw in 2 75 Is its intimate connection with Santa Sophia, represented as the post office building, and the words I heard about it being born again (her/him). All this is to say that the invisible (as yet) New Creation (Earth) is filtering down around us and becoming visible to us as we are brought into it. We are dead, born dead; and the voice we hear, as in UBIK, is the voice of the Savior, rousing us to (spiritual) life. As the Bible say, "The dead shall hear his voice." (The reason I don't feel I'm being judged any more, that the "tally" is in, is that as the Bible says (St. Paul), I "am dead to sin," now. Col 2:10: "For in Him ye are complete."
+
+. . . Christ told them that He had to die before the Second Comforter could come to them; perhaps, almost certainly, this is because it was his own spirit he was speaking of. This too is why he told them they'd be better off, not worse off, when he died/left, because then, really, he meant, he could return to them in spirit form (as he did at Pentercost) and enter them, through the third eye and make them both immortal and also part of his corporate body. He undoubtedly had, in his esoteric instructions, told them how to prepare to receive him back into themselves. . .this is what was lost later, when the Romans killed them, although by that time probably thousands had received him back into them in the ever widening circles. But you had to know how to recieve his spirit back in through the third eye, and that knowledge, so carefully guarded, so bad people wouldn't learn to do it -- that knowledge was lost. (In my opinion this is what happened with me in 3 74; I received his spirit through my third eye or pineal gland, and learned all this. To repeat: the Paraclete then is the spirit of life of the Last Adam or Christ, returning after his resurrection.
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Holy, Jesus, Complete, Christianity, Holy Spirit, Form, Sophia, Kingdom, King, Paul, Bible, Roman, Wisdom, These, Perhaps, Maybe, World, Because, Time, Earth, Harpax, After, Paraclete, Savior, Hermetic, Could, Anyhow, Just, Adam, Again, Kingdom of God, Both, Being, Although, Himself, Gods, Probably, Santa, Part, More, Another, Through, Most, Voice, Certainly, Before, Santa Sophia, Death, Universe, Other, Creation, Were, Back, Egyptian, Have, Life, Body, Instead, Later, Testament, Knowledge, Dead, Comforter, Human, Someone
+
+---
+### Line 2677-2685 (Match: 'Trinity')
+**Folder**: book in
+
+```text
+Needs Review
+204
+year, in March, when I had come to the very end; I had to suffer a kind of death, a real death, and then suddenly there she was, taking over and untangling the troubles and afflictions around me. She told me then that the great tyranny which this country in thrall would be broken, because, as she showed me then, in a dream, the conspirators had been seen by her, and she would see that they were revealed and destroyed. And so they were.
+
+The last thing she told me was, "Saint Sophia will be born again. She was not acceptable before." I talked to my priest and I studied and studied and there is no doubt about it; the Savior is indicated here, in the form expressed in the "Wisdom of Solomon," that particular name: Holy Wisdom, which is more than an attribute of God but one of the Persons of the Trinity. First she told me that the unjust ones would fall, which they did, and then she helped me and healed me, and then she gave me this general prophecy to pass along. I pass it along to you now. Our Savior lives; He is here all around us. As Father Teilhard de Chardin says:
+
+"He to whom it is given. . .to see Christ more real than any other reality in the world, Christ everywhere present and everywhere growing more great, Christ the final determination and plasmatic Principle of the Universe, that man indeed lives in a zone where no multiplicity can distress him and which is nevertheless the most active workshop of universal fulfilment. . ."
+
+I think --I have faith-- that this is the experience I had back in March of 1974, lasting all the way to March of 1975, which is Passover to Passover, the vernal equinox. It was one full year of Spring, living within Christ for me, or within Haggia Sophia, Holy Wisdom, or the Logos.
+```
+**Co-occurrences**: Christ, Holy, Logos, Form, Sophia, Wisdom, Father, World, Fall, Because, Faith, Savior, Holy Wisdom, Again, Reality, Teilhard, March, Great, More, Most, Living, Real, Before, Death, Universe, Will, Would, Other, Were, Very, Back, Have, Spring, Passover, Suddenly, Dream, Chardin, Final
+
+---
+### Line 3129-3137 (Match: 'Trinity')
+**Folder**: Book of
+
+```text
+241
+I remembered how it was before the Fall.. a racial memory? In 3-74 my exile ended, not by my returning up there, but by Him coming down here (as into the stagnant ocean). Recall my dream about.the little boy Philip, on the raft, approaching England (San Francisco, it looked like), a sort of changling who got past Scotland Yard, which is to say the authorities... and then rose up stage by stage but then revealed himself as he was: the coocoo egg. They could not tell until it hatched...and there is the egg motif again.
+
+The dream in which on your Zenith TV set a circuit detects when Christ in his invislbe form returns; it causes three lights to come on. You then remove the spindle and base and take from it a dark green cylophane strip and replace it in the TV set, where presumably the 3 lights come on even more or anyhow some further development occurs, in line with the event. I ask myself, Why 3 lights? And it occurs to me that 3 lights equal three eyes, the coming on of the 3rd eye, which means the restoration of the original faculty, taken away at the Fall, of sight. Unless the 3 lights simply refers to the trinity and nothing more, this is most likely what it signifies; also, the removal of the strip of very dark green cylophane suggests the removal, at the right time, of an occluding membrane which filters out most of the light, allowing only a token amount to filter through. Just enough, in fact, to give a register (on the 3 lights) at all. The veil must be torn aside for the light, which has returned, to shine. In the dream I was extremely surprised to find I had such a circuit in my TV set; I called the multitude that I might show them, but none was interested. At last I buttonholed my old friend Pat Flannery, because he was a Catholic, but even he wasn't interested. It seems as if the dream is saying, Without our knowing it, we will see a sign; 3 eyes will come on (inside us) at his return, and then we must respond and cast off the veil of ignorance or delusion, whatever — anyhow remove some¬ thing inside us (i.e. down in the assembly & circuits). It is a barrier to the passage of the light, and is made to be torn off, removed, at the proper time. We don't just sit passive when the signal comes. The dream says, We will know when he returns. If it is said, "He has returned but is invisible; no one can see him"; that isn't true; the 3 lights will light — there will be evidence, a registering of his presence. Note it was my (ahem) set; no one else had one. Did I in 3-74 register (like the Zenith TV set's unsuspected registering circuit) his return, by my experience L restored sight? Ah — the green cellophane was a strip, which probably refers back to Calvin's statement that our original faculties were stripped from us. It is a pun. The dark green cello¬ phane was much like the color and appearance of very dark sunglasses. Zhe darkness shades (!!) possible. I remember thinking in the dream, What about if the owner of the set doesn't look in the manual, and oneday the 3 lights come on, and he wonders, What does that mean? and looks it up in the manual then — wow, will he be surprised at what it indicates!" The manual almost certainly equals the Bible. One sees the 3 lights come on and of course consults the Manual for an explanation; I reversed the order by discovering the circuit before the 3 lights came on; in the dream they had not lit up yet. They were dorment (crypte). The change of color of the lights (from dark green to uncolored) reminds me of the light symbolism of the Bardol Thdol.
+
+Last edit almost 5 years ago by svayambhu108
+242
+Needs Review
+```
+**Co-occurrences**: Christ, Form, Bible, Like, Fall, Because, Only, Time, Light, Even, Could, Does, Anyhow, Just, Look, Again, Catholic, Philip, Himself, Probably, Without, Nothing, Darkness, More, Through, Most, Such, Certainly, Before, True, Will, Calvin, Were, Very, Back, Whatever, Further, Dark, Memory, Remember, Unless, Dream, Doesn, Right, Until
+
+---
+### Line 3564-3572 (Match: 'Trinity')
+**Folder**: part in
+
+```text
+p.P.S. The novel I'm sending you, DEUS IRAE, is not the new one which contains an account of my religious experience (that will he published by Bantam), but it does contain a few fragments which I worked in when l did the final revision. The mystical experience of Pete Sands which begins on page 30 is based on my own, as is the scene with Dr, Abernathy which begins on page 177, During my own experiences I was shown two worlds of unchange lying hidden beneath the veil ("Dokos" in Greek) that obscures reality; one of the visions was cf the iron Empire which is Rome, mentioned in the book of Daniel and in Revelation, and the other was the Holy Land or Garden of palm trees which Dr. Abernathy sees. At the time I saw them I was almost totally unfamiliar with the Bible, and did not recognize the Iron Empire as that which the two Biblical prophets saw. However, I did recognize the pastoral kingdom of the palm trees for what it was; it was the last thing shown me, and I walked about in it for several hours, enjoying it exactly as Dr. Abernathy does in DEUS IRAE.
+
+Evidently what I had been shown was, first, a vision of the obscure oppression dominating us, which God is relieving us of through the intervention of Christ, and then, second, the world which is to come when that obscure domination of evil is removed. The similarity to the Garden of Eden is obvious, but my vision pointed to the future, not the past — although in the hypertime or orthogonal time into which I had been taken the past and the future are the same; things do not cease to be, they only pass out of our sight (this was one of the mysteries which was revealed to me).
+
+Another mystery revealed to me, most vastly fascinating, was the continual game between the Wise Kind and the Dark Counterplayer, out of whose plays against each other all change comes The Dark Counterplayer has immense physical power, but it is blind; the Wise Hind sees everything, past present and future, and knows exactly how to play its hand. The goal of the game is a contest for the souls of living creatures; when the Wise (or Good) Mind acquires them —and it wins every trick-- they are, in the popular language of Christianity saved. It was made clear to me that in spite of the enormous power of the Dark Counterplayer, it never wins a trick; i.e. a living soul. We are sought for by the God of life, and he never lets us go. Whatever temporary circumstances seem to prevail, the God of Life, through his agents, always wins. By the absolute wisdom of his thoughts he is able to load the Dark Counterplayer into assisting in Sin evolving universe, playing an unwilling part in the continual creation which the logos is furiously weaving. The colors of the logos are red and gold. The color ox the Savior is blue. But all three members of the Trinity are one; they simply display one aspect at a time, with the other two always present. I saw this as the greatest mystery of all. And, I think, the most beautiful.
+
+Last edit almost 5 years ago by svayambhu108
+287
+Needs Review
+```
+**Co-occurrences**: Christ, Holy, Logos, Rome, Christianity, Kingdom, Greek, Empire, Bible, However, Wisdom, World, Iron, Only, Time, Garden, Savior, Good, Mind, Book, Does, Reality, Although, Everything, Daniel, Palm, Deus, Part, Dokos, Another, Through, Soul, Most, Living, Gold, Revelation, Irae, Universe, Will, Other, Creation, Page, Biblical, Whatever, Eden, Things, Life, Absolute, Dark, Wise, Evil, Deus Irae, During, Evidently, Final
+
+---
+### Line 3613-3621 (Match: 'Trinity')
+**Folder**: part in
+
+```text
+-3-
+
+It is possible, in fact likely, that after fusion into a syzygy with a masculine human element, St. Sophia became transformed perpetually into this syzygy, which we know of as the Paraclete, this entity being St. Sophia plus Jesus: a human translated, along with her. An accrual, so to speak, up the manifold, showing that change is real (as for example the progression from Elysium to Dionysos to Orpheus to Christ, and then onward as I say, to the Paraclete, which I do believe would have St. Sophia predominating). What this points to, in my dream, is a corrective element, viz: I must comprehend the entity is binary or duel, being still a syzygy and I guess outwardly masculine still. It contains both natures still, evidently; but this is indeed a mystery. To go back, I said in opening this on page 1: "I had (a) dream in which the duel nature of Christ was revealed." Am I sure that this was the human figured Jesus Christ, and not the cosmic Christ? Is that certain? Perhaps the Cosmic Christ was meant by that diptych, and of course the man Jesus Christ too. Maybe the syzygy, as I later figure out, is on-going; I assumed that Jesus died, and is forever dead, but as I say, if the spirit couldn’t make him immortal it can't, or won't, make anybody immortal; this is obvious, absolutely obvious.
+
+Put another way, the female spirits uses him as its mouthpiece; the shaman has been deified. No, Jesus was not a shaman;it was an incarnation, a full bonding that ended only when Jesus died. It or rather they left and still live, as the Paraclete. Anyhow, at the very least I have been shown —not just the nature of the first incar¬ nation— but the second as well. I can still see the diptych with its two equal panels, one to the left, »sc one to the right, with the trigam Ch'ien directly below dead-center. Wow. I have seen into the nature (essence) of the second incarnation, and in doing so, have a stronger sense of its imminence. The Trinity is a mystery re its natures and persons, but (I have been told in my dream) so is the nature of St. Sophia incarnate — two persons, or rather (sic!) two essences! Forming one person! If the Trinity is real, then do we not have a quaternity, with man (Jesus) being the 4th person??
+
+This cautionary revelation would not have been necessary if the spirit weren't about to incarnate, I think. Surely such a cautionary warning would only take place if the second incarnation were imminent. (Perhaps in my lifetime, although I could commit it to print, which would extend, possibly, into the future.) Anyhow it concretizes the second advent, in my mind, as very imminent and very real.
+
+puppet sibyl *.................................................................SHE SECRET ... __ _____ _____
+```
+**Co-occurrences**: Christ, Spirit, Jesus, Sophia, Well, Dionysos, Perhaps, Advent, Maybe, Only, After, Cosmic, Paraclete, Mind, Cosmic Christ, Could, Anyhow, Just, Both, Being, Jesus Christ, Although, Sibyl, Still, Another, Real, Such, Secret, Revelation, Would, Page, Were, Very, Back, Surely, Have, Later, Dead, Human, Dream, Evidently, Right
+
+---
+### Line 3718-3726 (Match: 'Trinity')
+**Folder**: Book of
+
+```text
+Needs Review
+302
+-5-
+
+this really clear, the Mindkowski block universe or something like it must be imagined, in this way: future events already exist before they pop into the present, and still exist after they disappear from our view into the past. I was lifted from our universe, or rather our segment of it in which future events are not visible, and past events seem to be gone, no longer existing; it x must be assumed that these future events do exist before they enter the present, and remain in existence after they disappear our of sight into the past. Now, I was very certain of the exact time I was at: it was first century AD after the crucifixion which means that the physical sarx (body) of Jesus had undergone the transformation into the resurrected imperishable. Therefore if I was conscious of being with him (there in Rome) it was with him in that resurrected body, and so it was the cosmic Christ, not the "man" Jesus, and this does fit. Those early Christians who had found a way of doing this, evidently involving the Feast of Agape, re-creating the Last Supper and something connected ± with the holy grail, were with the resurrected Christ. The cosmic Christ (to call it that) permeates the whole or true universe, and to enter it is to enter communion with him. I must have passed across, or obtained the powers of perception to experience that wider universe where the cosmic Christ, the logos —it must never be forgotten that he is the logos— is active in his job, described in the Book of Wisdom, of creating the universe, and this is something I did see "Anamnesis" in the Christian sense, then, means a return to fellowship with the leader who died and appears gone, but who in actuality is not gone; this is the mechanics of the miracle, the model of the universe on which the experience is based. However, I also experienced Rome circa 70 A.D., and felt myself back in the past, so "anamnesis" would be the true word, for I remembered being back there at that place, at that time, with him (again). The again part forces me to retain the term anamnesis; it was as if I had been one of the company of desciples, which I suppose relates to Jung’s racmal unconscious and its retention —and possession of— memories of the past. But the sacraments are intended to cause anamnesis of that particular event (and Person) and so it did, although I had collatoral anamnesis of Crete, etc. The Christ whom I experienced was the cosmic Christ, or Holy Wisdom, or the Logos, not Jesus the man. As the JWs say, "The man Jesus is dead, forever dead," but the Cosmic Christ, the Logos, Holy Wisdom are eternal (which they recognize). We are not worshipping a man but the first emanation of God, a supernatural deity. Viewed this way, I broke through to there, rather than it breaking or breaching through to me here, so it was not the Parousia, although there is still the historic overthrow of the tyrant. That would be the angelic host at work, commanded by their leader, Holy Wisdom, the cosmic Christ. What I must keep in mind is that there is a true element in (in fact the whole experience was) the miraculous, that no intellectual exegesis will exhaust or explain it. Transubstantiation and ananmesis were cardinal, but the human mind cannot fathom what those terms point to — the reality they point to, even when that reality is experienced. Nor can the nature of the cosmic Christ, which is to say to Trinity, be comprehended, as Augustine pointed out. Did I enncounter another universe or extended and nominally unseen levels of our own? I can’t say? Did it break through to me, or me to it? I can't say. What I do know is who was present: the cosmic Christ/St. Sophia/the logos, weaver of the universe.
+
+Last edit almost 5 years ago by svayambhu108
+303
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Holy, Logos, Jesus, Rome, Sophia, Parousia, However, Wisdom, These, Like, Therefore, Time, After, Cosmic, Holy Wisdom, Mind, Book, Cosmic Christ, Even, Does, Something, Again, Suppose, Reality, Being, Although, Augustine, Viewed, Anamnesis, Those, Still, Part, Their, Jung, Another, Through, Before, True, Universe, Will, Deity, Would, Were, Very, Back, Have, Body, Dead, Human, Evidently, Crete, Grail
+
+---
+### Line 5672-5680 (Match: 'Trinity')
+**Folder**: part in
+
+```text
+1
+1
+
+Wisdom carries history to its goal. W. + God in his function of world rule are the same thing. But W. is distinguishable from God. She has a part in governing the universe. "Passing into holy souls - her mission to man. She is loved by God as a bride. "All these attributes (are) preparation for the theology of the Trinity; they are resumed by St Paul + St John + applied to Christ, the incarnate word + wisdom of God. It should be noted that this doctrine of W. gives rise not only to a theology of the Word but to a theology of the Spirit, of the sanctifying Spirit, the inspiration of the prophets, the source of knowledge + understanding in the world. The author at times seems even to identify W. with the Spirit: the guidance of men, + of kings, artistic + prophetic inspiration. But Xtian doctrine has [instead] identified it (her) with the word. 8:3: "...since the Lord of All has loved her. Yes, she is an initiate in the mysteries of God's knowledge, making choice of the works he is to do." Probably it's from this that the LDS say God has a bride. The reason I felt myself (3-74 on) to be female was because the possessing spirit in me is female. 8:6: "W., designer of all. 1:5: the Holy Spirit of instruction" (Note: "reference to the divine power directing man's life; the text finds its highest application, however, in the Holy Spirit - JN 14:26 (which reads: "But the advocate, the Holy Spirit, whom the Father will send in my name, will teach you everything, + remind you of what I have said to you." + the footnote here is: "in place of the departed Christ, the faithful will have the Spirit; he is the Parakletos, who intercedes with the Father, + whose voice is heard in human courts. He is the Spirit of truth, leading men to the very fulness of truth, teaching them to understand the very mystery of Christ - his fulfillment of the scripture, the meaning of his words, of his actions, + of his signs, all hitherto obscure to the discples. In this way the Spirit is to bear witness to Christ, etc."
+
+Last edit over 5 years ago by Toso
+2
+Indexed
+```
+**Co-occurrences**: Christ, Christian, Toso, Indexed, Spirit, Holy, Holy Spirit, Paul, However, Wisdom, Lord, These, Father, World, Since, Because, Only, John, Even, Everything, Divine, Probably, Part, Voice, Universe, Will, Mission, Very, Have, Life, Instead, Knowledge, Truth, Human
+
+---
+### Line 5680-5688 (Match: 'Trinity')
+**Folder**: Book of
+
+```text
+Indexed
+2
+2
+
+Thus the single sentence "St Sophia will be born again; she was not acceptable before" opens up + unlocks everything; i.e. the vast + beautiful mystery of the Trinity, + confirms it all. 1) The sentence shows her to be Christ, beyond any doubt (as the RCC + JWs et al. agree). 2) Yet, who spoke those words? A: the Holy Spirit, who, I think, was she also. + Zebra, what I saw - was that Christ, reuniting the "decomposing universe into an organism with himself as head" - was Zebra not imminent deity? Which is to say God? The 3 of them flow back + forth into each other + one another. But what are we to think where it is said of Wisdom that she "tells God what to do," +, as the J. Bible gloss says, is "like a bride to God"? Proved absolutely is St Sophia (Wisdom) = Christ. + from John + what the EB says, etc, I get the distinct impression that the Holy Spirit is the unincarnated Christ, which leads back to PV 8 + Holy Wisdom again. ____ The apocalyptic scene I glimpsed of the siege lifted + the prisons freed + the tyrant destroyed turns out to be Cyrus' siege of Babylon + Belshazar: the prisoner(s) being Daniel; as in Tears, which describes "Babylon" (i.e. Rome, the paradigm of the Black Iron Prison), the elements of the Book of Daniel -i.e. apocalyptic scripture per se, emerge. This external "Fidelio-like" siege did not occur in 1974, but my total vision (timeless + spaceless) included it anyhow. Babylon = Rome = Washington DC = Moscow, etc. I have finally tracked down my Black Iron Prison + lifting of the oppression by external siege vision; Daniel, John of Patmos + I all saw the same things (vide all of Tears, esp. the dream). From the gloss on 'Wisdom' I understand that it is she who inspires prophets; in fact the text explicates this.
+
+Last edit over 5 years ago by Toso
+3
+Indexed
+```
+**Co-occurrences**: Christ, Tears, Toso, Indexed, Spirit, Holy, Zebra, Rome, Holy Spirit, Sophia, Bible, Wisdom, Like, Iron, Prison, John, Black, Holy Wisdom, Book, St Sophia, Anyhow, Again, Being, Everything, Black Iron Prison, Himself, Daniel, Those, Another, Babylon, Before, Universe, Finally, Will, Deity, Other, Back, Beyond, Have, Things, Iron Prison, Dream
+
+---
+### Line 5688-5696 (Match: 'Trinity')
+**Folder**: Book of
+
+```text
+Indexed
+3
+3
+
+Can I say, "the Spirit which came to me spoke of Holy Wisdom" or "was Holy Wisdom"? A study of the Book "Wisdom" definitely indicates it was indeed Holy Wisdom. The J. Bible exegetes admit the Holy Wisdom can more readily be equated with Christ (as the sentence I heard indicates) but also points to the Holy Spirit. Thus it was that St Augustine could speak of the "infinite mystery" of the Trinity, +why (1) the church maintains the doctrine of 1 essence + 3 persons (aspects), not 3 essences or Gods. There can be no other interpretation possible if the various canonical books are read scrupulously, there is no other view one can come to; my experience (in 3-74) plus reading the scriptures both lead me to this view - that of the church. They/it/he/she - is/are not like us, are/is not isomorphic with humans, with created things. Lying outside of time + space - they/it are/is immortal + seem to consist of radiation or energy, +, as in Ubik, are everywhere + know everything, + in reuniting the cosmos (which is decomposing) into a new organism which is the corpus Christi (Christos Kyrios) it is in the process of becoming everything + everywhere (the "3 Stigmata of P.E." gives, as has been pointed out, a diabolic mirror opposite image of this divine transsubstantiation + is very instructive). - Something I never considered before is this: since -not if but since (as I know from my own experience) this divine entity can transfer knowledge to our minds, of the most complex + deep sort, why doesn't it clear up these mysteries about its nature once + for all? (1) to all Christendom; (2) or just even to me? I learned from it all sorts of things, but - such mystery remains. Or does it? Is not the [only] limitation that of our own limited conceptualizing faculties? It is not intrinsically mysterious - it is only a mystery to our limited minds + experience. That which reveals, + confers knowledge, can't be accused of creating mystery. What it does, I guess, is disclose the existence of mysteries - in the sense of the deepest core of meaning at the ontological heart of reality. It points to, as one points to or out, say, a sculpture - a thing which is, not a mere verbal explanation but directly at the thing itself, to be comtemplated as the final is. (Cf Heraclitus: "The oracle does not answer yes or no - it instead gives a sign (Zeichen) meaning."
+
+Last edit over 5 years ago by Toso
+4
+Indexed
+```
+**Co-occurrences**: Christ, Ubik, Toso, Indexed, Spirit, Holy, Holy Spirit, Bible, Wisdom, These, Like, Since, Only, Time, Stigmata, Holy Wisdom, Book, Even, Could, Does, Just, Something, Once, Both, Reality, Heraclitus, Christi, Everything, Divine, Corpus, Augustine, Christos, Gods, More, Church, Corpus Christi, Most, Such, Before, Other, Very, Things, Instead, Knowledge, Kyrios, Doesn, Final, Answer
+
+---
+### Line 5696-5704 (Match: 'Trinity')
+**Folder**: Book of
+
+```text
+Indexed
+4
+4
+
+By an act of belief ("credo") when I saw the Golden Fish Sign + heard the words I broke the power of this, the stamped-out [mere] image (eikon) world over me + received grace, received the real (supratemporal) world + the sole 3-aspect life that dwells throughout it. Gnosticism is correct; this is (but perhaps was not always!) a flawed (or fallen, decomposing) level (a la Plotinus). The sign (Zeichen) in a sense woke me up (cf the slumbering soul, cf Plato, cf Pythagoras). (Cf Heraclitus + the idios kosmos vs the koinos, within the latter lying -acting- the Logos. Thus, too in a sense I broke the power of the curse, which is a blindness + a sleep - in which we are in darkness; thus the salvific power is referred to as "the Light of the world" "which the darkness neither knows, recognizes, sees nor accepts." Darkness + blindness are related - also seeing + light. When I say "I broke the power of this [false] world over me by an act of faith (pistis) I am saying that in some sense this world is a delusion; evidently this is what is meant by dokos or maya. (This insight may be the most important of all: what I then related to was an eternal archetype of apocalypse: "Babylon," "Daniel" "Cyrus" "God" [or Wisdom or Christ or the Logos]. The best meaning of dokos here is, "the counterfeit passing as the real thing." Whence comes this dokos? Because our brains construct (hypostatize) an isomorphic (to us) outer analog - + the Trinity is not isomorphic nor subject to hypostatization, + is perceptually rejected. This is what Christ meant when he said, "Believe in me; I have (can - have the power to) overcome the world."
+
+Last edit over 5 years ago by Toso
+5
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Logos, Plato, Fish, Gnosticism, Golden, Wisdom, Perhaps, Plotinus, World, Because, Golden Fish, Faith, Pythagoras, Light, Maya, Kosmos, Heraclitus, Daniel, Grace, Darkness, Dokos, Soul, Babylon, Most, Real, Have, Life, Neither, Evidently
+
+---
+### Line 5702-5710 (Match: 'Trinity')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Toso
+5
+Indexed
+5
+Since we could not reach up to (perceive, relate to) the real world, the word came here + subjected itself to the forces here, but, at the same time, this was its theophany to + for us, it came here + was visible; all we had to do was believe. He presented his credentials + then, later, conferred authority (out of himself; of himself) onto his disciples, so that the good news could propagate by divine authority. Perhaps even I directly received this authority or anyhow knowledge (of the truth, i.e. of him, who alone has full salvific power over us + for us, over this world as he reunites it into the self (himself) organism-entity inc. us. Scripture says that, trans-time, I speak with (or for a while did) the authority of the Parakletos. What took place was what is called adoption - I have become an adopted son of God (cf J. Bible). A very important aspect of the above realization (of how the deluding power of this world was broken for me) is the link with my 26 years or more of writing: my basic theme(s) prepared the way (for me) for that moment, + may well help others - if this is so, then my corpus of writing, esp. my "what is real?" theme may be serving salvifically - may do good. But my act of belief was related to memory - i.e. return. I attribute that to the spirit, which must already have been within me. The J. Bible says, "W. carries history to its goal." This is exactly what I saw. I deduce that I was made use of by W. in the history process, c. 3-74 to 8-74. Had I no historic role to play - would she have rescued me anyhow? There is an interesting answer to this: the trouble I was in was related to my historic role; the two can't be separated. I think it has to do with Tears. There is no uniform (in contrast to pluriform) use or purpose or involvement as we are accustomed to in normal human terms. This is part of the mystery of both the nature + purpose of the Trinity, this pluriform quality: multifaceted. I can date my initial experience with the deity in the "Palmer Eldritch" vision I had -saw in the sky- in the early sixties. But it was there even before, my sense of the (i.e. this) world as delusional. Interesting point: "Time Out of Joint" is a novel about it really being a different time than it seems. Like in Valis where it turns out to be 70 AD instead of 1974. Is there a clue in "Joint"?
+
+Last edit over 5 years ago by Toso
+
+6
+```
+**Co-occurrences**: Valis, Tears, Toso, Indexed, Spirit, Well, Bible, Perhaps, Like, World, Since, Time, Good, Even, Could, Joint, Anyhow, Both, Being, Self, Eldritch, Divine, Himself, Palmer, Corpus, Palmer Eldritch, Part, More, Real, Before, Deity, Would, Very, Have, Memory, Instead, Later, Knowledge, Truth, Human, Answer
+
+---
+### Line 7952-7960 (Match: 'Trinity')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+85
+Needs Review
+85
+88 - the urgrund is the abyss, or"+ when it Nothing collides with the byss (something) - it must transmute the something, not abolish it. The Trinity + higher + lower triads of Boehme may be extraneous (when Occham's Kazor is applied as principle), but there or not, what we have is the divine abyss transmuting material reality as a process in linear time. Where does the divine agony enter? Why? Before the incarnation? Isn't the incarnation The intrusion - the initial intrusion- of the divine aby ss into the mundane something? Christ said, "I have conquered the world. It was like an impregnation of matter (yin) by the creative divine (yang). But the divine will is thwarted; it encounters opposition (Boehme pointed this out). Matter has hysteresis (or inertia). Its entropic direction must be transmuted into negentropism - a titanic task possible only in a protracted process or series of sequential steps. The intruding light is rejected our problem may be that we have no comprehension of the inner necessity of sequence in this transmutation could our agony be microcosmic replications of the macrocosmic divine, with which we are (isomorphic; + 2 Actual fragments of, like bits of a hologram: intact Gestalts but dimmer" or less defined. The urgraund sought self-intuition. We as diminer bits have not yet achieved that self-intuition; hence, when we suffer, we do not know why. Up the hierarchical scale there is still suffering - even perhaps an increasing level of suffering at each hierarchical stage - but also at each ascending stage there is a quantum leap in a selfintuition which bestows (permits) greater understanding of why there is this suffering. At the top, the incarnated son (heart, Logos, etc, St. Sophia) knows himself totally knows totally why he suffers. It is due to the blity + The flash of the encounter between the divine abyss the something - which must be "overcome" (transmuted this is why Paul can speak of the whole universe
+
+Last edit almost 3 years ago by svayambhu108
+
+86
+```
+**Co-occurrences**: Christ, Logos, Sophia, Paul, Perhaps, Like, World, Only, Time, Urgrund, Light, Even, Gestalt, Yang, Could, Does, Jakob Boehme, Something, Reality, Self, Divine, Himself, Nothing, Still, Before, Universe, Will, Have, Greater, Lower
+
+---
+### Line 8145-8153 (Match: 'Trinity')
+**Folder**: part alive
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+116
+109 entirely from all others (those before him): 1) He would relate directly to God + God's authority. knowing it indubitably + clearly; in fact as said Supra, Christ's "soul" would possess his (the man's) body; whoever dealt with him would ipso facto be dealing directly with Christ (+ even God!). 2) This man would not be governed or ruled by human authority + their institutions, but, on the contrary, would sit in judgment on them although they would retain their purely coercive power over him (his body, anyhow - they could, as They did with Christ before, accuse him + kill him) the old bipolarization between him + the "hostile world" would break out anew. But this may define the Kingdom: God (Christ as the 2nd advocate - the spirit) is born in men (plural, rather than in the single incarnation of the 1st Advent). "Man becomes God by God becoming - being born in-man." (Pope John to the prisoners: "Since you could not come to me, I came to you.") This fits with what I saw Zebra doing externally: divinizing the world - transubstan‐ drating it, inc at least some of the humans in it; i.e coming here + claiming it + them." If the "3 Ages" schema of the Trinity is accepted, ly Hol + what took me over in 3/3-74 was the spirit, then an evo‐ lutionary, historical significance is revealed vis-a-vis my experience; + I once more affirm that my impression at the time the my GABA fluid had dropped, + meta‐
+
+circuits had fired based on a deliberately displayed exer al disinhibiting stimulus - all this seems to be the case, + we are talking about a new kind of man, a sort of "Omega" man.
+
+Last edit almost 3 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Spirit, Zebra, Kingdom, Advent, World, Since, John, Time, Even, Could, Anyhow, Once, Being, Although, Those, Their, More, Soul, Before, Would, Clearly, Judgment, Body, Human
+
+---

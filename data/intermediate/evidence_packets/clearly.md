@@ -1,0 +1,347 @@
+# Evidence Packet: Clearly
+
+- **Category**: Top Term
+- **Total Mentions**: 32
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 143-151 (Match: 'Clearly')
+**Folder**: book the
+
+```text
+Last edit over 5 years ago by Zebrapedia
+9
+Indexed
+9
+It’s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the vestment of my saint statue – that was like it: the bursting forth into life of Spring, in the midst of stark winter. Now, this is obviously a mescaline type of experience. We know that. And I was loaded. And yet, perhaps Ms. Fisher who wrote THE RED FEATHER based that episode on something she experienced once, and in those days no one in the U.S. took mescaline; no one got loaded. The reproach, “Phil, you experienced that because you wanted to; i.e. the swirling vines of new life” is no better an argument than, “You experienced selling UBIK to Doubleday because you wanted to.” Also, “You experienced it because you read about something like that years ago in a child’s book” – of what real meaning is this argument, since we don’t know how the passage got into Ms. Fisher’s novel in the first place? It doesn’t explain why I recall that section, which was minor, which in the novel just showed the child that her difference from the other children included having strange powers; it was exciting, but not good. She didn’t want to be different. (We knew, because of the scene of the baby exchanging.) Obviously, in that scene, Ms. Fisher intentionally or otherwise incorporated something of the Fruhlingszauber: the magic of springtime, as it really would be: those poppies would have sizzled in the snow, being hot. They were hot with life; the fact that Ms. Fisher saw the equation death/winter/cold versus life/Spring/heat isn’t an invention of her head; it is an actual truth. She did, however, equate magic with springtime; fairy power used to turn the winter to spring, to bring life, and therein she touched on something very deep, at the heart of her small readers, like me, who were astonished and touched, but didn’t know why (we knew nothing of the mystery or fertility religions of Greece et al, did we?).
+
+Magic equals life equals warmth equals poppies. Now, poppies are an exotic flower, with intense colors, identified with foreign lands (this I’m sure is why Ms. Fisher chose them).
+
+Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
+```
+**Co-occurrences**: Ubik, Indexed, However, Perhaps, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+
+---
+### Line 588-596 (Match: 'Clearly')
+**Folder**: part was
+
+```text
+He was not a great man.
+
+Hence, I was not in a situational jeopardy, within a limited crisis thrall; my life at stake for an interval; it is Aeon thrall removed; it was always there and would always have been. The immediate situation was only a worsening of an endless thrall.
+
+So the total thrall was burst. (For seige read blight. For blight read seige.) After seeing the sign, "He began to wake up and to understand -- i.e. understand what he saw, so that it made sense to him. By degrees he saw more and more clearly." But I do think it was always certain that I would be rescued, that there was no latter time hasty decision. Thus, he who is saved was always saved. "There is nothing to fear but more true: there never was anything to fear. Didn't you feel the contintual presence of hidden benign powers guiding and watching? The dream in which Kathy and everyone suddenly took off their masks and she said, 'Someday you'll be told what this was all about.' Promise then. Last night, the dream: 'I will send you a leader, named Vinland Smith.' And the dream about the government office, where the boss returns and most employees are found to be idle, and some (even worse) playing venal money games and turning away those in need. Only a few employees truly doing their work while the boss was gone; but now the boss has returned. If the 'Kathy' dream, in Canada in 1972 was fulfilled, then these, also, I am sure. Leader equals:
+
+(our) land(ing will) vin(dicate cordwainer) smith. And vin equals vine equals Zagreus-Christ-Dionysos, Lord of Springtime. I.e. "the leader I am sending comes from the stars."
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Dionysos, Lord, These, Only, Time, Harpax, After, Even, Zagreus, Great, Nothing, Kathy, Those, Their, More, Most, True, Will, Would, Have, Life, Government, Suddenly, Dream
+
+---
+### Line 764-772 (Match: 'Clearly')
+**Folder**: part segment
+
+```text
+Last edit over 5 years ago by Harpax
+48
+Needs Review
+48
+the dream showed me clearly that the primary miracle, the one which of necessity must precede all others, is the miracle of life born out of the unliving, the miracle of creation itself; then the movement up the evolutionary scale, from form to higher form to highest form; this surely is the primary work of the universe, to do this, its hardest, first, and most solemn task, over which nothing else can take precedence. How can anyone question that? But although there must be a flock to go on (the species, I guess, or all life), before there can be those who fall back too weak or sick to keep up -- this in the dream was so damn clear: one person out of thousands in that auditorium caused trouble, stood up (against James James rules) and was thrust back down and crippled. The ratio of success to failure was maybe 10000 to 1. So I am concerned with that 1, and stepped forward, halting James James and his continual miracle of evolving creation (certainly the most extraordinary event I've seen in dream time or waking time, ever). I was asking for medical attention, not for me or for her, but for us. "We need medical attention" or assistance, whichever. There is such a need; there are casualties, and I understand that He Whom I follow, He sees to it that the 1 casualty is assisted: i.e. gets medical attention. The image of the good scouts: good semaritans, maybe; those which lend a hand to those in need. It is as if the dream says:
+
+The universe has now successfully progresses along far enough so that forward-motion can begin to be mitigated by the "scouts entering the situations" to pick up the casualties, since evolution of form has gone so well and so far. There are now casualties to pick up. In this work there'd be a lag; it wouldn't begin for a while. But now the laws of compensation and equilibrium have brought us to the point where we have a small but very significant casualty, and so by these laws which govern reality, the scouts are starting to appear, to march onto the scene from outside (wherever that might be, anyhow marching here from somewhere else). They have begun to arrive. We must state our needs (by definition, they listen and give aid). Our need is a medical one; we are injured, or sick, or crippled, or weak. We need help of that kind: life-support help. We'll get it; a dream like this could not lie.
+
+I think a tremendous principle of conservation and balance was expressed in this dream. Kathy represented what I would deem the higher form of form-evolution; even so, I halted the forward-motion because the casuality was not acceptable to me. I noticed, and steeped forward. That time has come (e.g. "No, we will not allow our mentally deficient, our weaker races, our poor, our old, our helpless in general, to be sacrificed; the day of Rule by the Strong and healthy is over; the sick must be cared for, although perhaps not by the healthy but by someone coming here from Elsewhere.
+```
+**Co-occurrences**: Form, Well, These, Perhaps, Maybe, James, Like, Since, Fall, Because, Time, Harpax, Good, Even, Could, Anyhow, Reality, March, Although, Nothing, Kathy, Those, Most, Such, Certainly, Before, Universe, Will, Would, Creation, Very, Back, Surely, Have, Life, Dream, Someone
+
+---
+### Line 943-951 (Match: 'Clearly')
+**Folder**: part of
+
+```text
+This is the mystery secret of like Christianity (real xtianity).
+
+It would be a[n] error to say this mirror opposite universe is invisible in another dimension -- it is visible to us, to our senses, but like a monochromatic person, we blend it with our forward-moving processes, not discriminating it out. We must turn our monovectoral (unidirectional flow-perception) into two perceptions showing both directions visually. We see these processes backwards; but we see them, and they are all "gray," i.e. the color of the picture universe: forward-linear.
+
+If one were to abruptly (for the first time) see processes flowing in a reversed time way, and be able to recognized them at once, and see them as coherent, this would be excellent proof that these process were now being seen properly; i.e. in accord with their actual direction of development. Otherwise, one would expect the person to be confused for a very long period, to be able to make nothing out clearly. Were he to see famous entities such as the Logos and know them for what they were, almost at once -- this would indicate very much as to the more correct view here than the forward (picture) one he'd been experiencing. (Even if he knew nothing of Parmenides' proof of the dokos.) It's a simple, "Now it makes more sense...viewed this way." A resolution of a picture is its own proof of its own correct resolution: when the picture swims into clarity and focus and one can tell, at last, what it is...the visage of God, in my case.
+
+Last edit over 5 years ago by Harpax
+62
+Needs Review
+```
+**Co-occurrences**: Logos, Christianity, These, Like, Parmenides, Time, Harpax, Even, Once, Both, Being, Viewed, Nothing, Dokos, Their, More, Another, Real, Such, Secret, Universe, Would, Were, Very, Otherwise
+
+---
+### Line 1349-1357 (Match: 'Clearly')
+**Folder**: book certainly
+
+```text
+Last edit over 5 years ago by Harpax
+95
+Needs Review
+95
+I suddenly[s] see it very clearly:
+
+(one) the grave (two) the furrow (three) those in cold-pac hearing Runciter.
+
+There are all three actually one: asleep, seeds buried during winter, half-alive. All one, to be wakened to (full or real) life, which is Spring, the calling by Spring to those in winter. Wachet Auf, once more, but I see the identity of the 3 above. And it's so clear to me, now. And:
+```
+**Co-occurrences**: Harpax, Once, Runciter, Those, More, Real, Actually, Very, Life, Spring, Suddenly, During
+
+---
+### Line 1430-1438 (Match: 'Clearly')
+**Folder**: Unknown
+
+```text
+“Sure werk hat mir gafallen.” (Dar Meister hat gesprochen. That which we wait for...we as creating angeks. Item: are we perhaps those very same creating angels, given the draught of Lethe, having forgotten why and virtually what...but still fashoning -- ourselves? From inside out, which stresses ontology again? Self-perfection? And we remember (anamnesis) when we succeed, or when God intervenas to halt us and say, “Your work pleases me."
+
+I think the miracle born out of pity (when the sketches failed to come to life originally) —- I think this gets done a lot. As in my case; I had reached a dead—end; the game was over for me. I had done my best and I had failed. Nonetheless, God out of compassion made use of me; the nest was adequate for the Light Being to bring an egg to, an egg of fire and light and brightness; thus that [typewriter crossout] miracle was rapeated, and the faulty “sketch” or "version" lifed(in Christ) anyhow. I had run out of time. Death in all sets was at hand. So I did not achieve it (by "good works" or good work), but was given it (by God’s grace). God didn't say, "Your work has been successful"; he said, "Your work pleases me," and then he made it [typewriter crossout] successful Himself.
+
+This dovetails with Tielhard's nation of all mankind moving along the route to the cross; we undergo His passion, but finally His transfiguration; add to this Pascals' ”All mankind can be viewad as a single selfsame man who perpetually learns from generation to generation" and you've got it. We are all tegethar an entity ("Alle Menschen werden brüder"). I saw this entity and knew myself to be a subsection of it, within it. So the whole universe rolls along, from one station of the cross to tne next (we are surely not in synch in time; we don’t arrive at it all together but rather like many runners). (Still "No man is an island," which means we all already partake of Him reaching it, as well as those others who have; the saints with long polws reaching down to assist us...those who are dead and are (up) there. We form a [typewriter crossout] corpora[?] body with them. It’s as if a problem-solving entity has set itself the task of finding out how many different solutions (paths, ways) yielded (ended at) the same result. This really could be a task assigned to just one section of the universe (as Peter Mann said); maybe only our world. This is maybe why we feel continually we're on trial; in a maze; sent here "for a definite purpose"; this is the time of labor, with a reward to come after (for those who “pass"). It's partly a guessing game; we are to develop a "correct" picture of something we aren’t --deliberately aren’t, for good reason-- allowed ever to see clearly, because as I say if we saw it clearly we'd simply copy, and all copies would be alike.
+
+Last edit over 5 years ago by svayambhu108
+
+101
+```
+**Co-occurrences**: Christ, Form, Well, Maze, Perhaps, Maybe, Like, World, Because, Only, Time, After, Good, Light, Could, Anyhow, Just, Something, Again, Being, Self, Himself, Anamnesis, Grace, Those, Still, Wait, Nonetheless, Death, Universe, Finally, Would, Very, Surely, Many, Have, Life, Body, Having, Remember, Cross, Dead
+
+---
+### Line 1678-1686 (Match: 'Clearly')
+**Folder**: part of
+
+```text
+"Through God's diving favor or grace, through His munificence or goodness, we have the opportunity to work for eternal life. Through His Word He has informed us of His existence, of His creative ability, of the vast scope of His universe, and of the unspeakable rewards that He had prepared for His worthy children. All of these benefits are undeniable evidences of His grace or favor to us."
+
+This aptly describes my 3 74 experience. As does a chrismatic visitation by the Holy Spirit. As does the ICC description of Christ Consciousness or Christ Force or the Logos. I am led back to monotheism. What happened to me was described (and available) in psalm 116, before Christ. This is not necessarily bad, not at all; mainly, what I finally must realize, with no possibility of error, considering that I followed up every possibility, even paranoid ones and occult ones and ESP ones, (e.g. reincarnation), is that I have, following the experience, established by my reasoning, my ordinary normal powers, that it was God who assisted me and changed me; there is no other possibility, under any reasonable definition of God. For myself, beyond any possibility of error doubt, I have established the reality of the Ultimate, the All, in transcendent from, although perhaps Immanent and Transcendent both; everywhere but not everything, etc. Had I never heard of God, never heard any theology or religion discussed, had no reference books, etc., out of this total experience, lasting in all about one year, I could for a certainty derive a more or less complete understanding of God; I would then have "discovered" God (for example if I lived in a culture which had no concept of God or any supernatural agency), and I would, like one of the ancient prophets of the Old Testament, have to go before my people and preach to them the living reality of God, and further, inform them of His nature. But He appears to be so much as depicted by the Bible that this is unnecessary for me to do. In the end, I find I have not really found something new; but I have certainly found Him, as He has been described for 3000 years.
+
+What happened in 3 74 shows clearly the "Thy will not my will be done" aspect of Him -- that is, His will replaced mine, as well as His knowledge. God, as artificer, has enormous building will, so that He is not mere knowing (mind) but acting -- bringing things to the completion He desires. It is very clear to me now that Christ is the road bu which we are brought to God; I understand the difference. The Jesus freaks have confounded God and Christ, virtually worshipping Christ as a God. But Christ is a "by means of" to God. I can now declare on my own testimony (experience) the reality and nature of God, which means in a small way I am of the class called prophets (people who could so declare). I have had independent experience & knowledge, corroborating our sacred scriptures.
+
+Last edit over 5 years ago by Harpax
+119
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Complete, Holy Spirit, Well, Bible, These, Perhaps, Like, Harpax, Mind, Book, Even, Could, Does, Something, Both, Reality, Although, Everything, Grace, More, Through, Living, Certainly, Before, Universe, Finally, Will, Would, Other, Very, Back, Beyond, Under, Further, Have, Things, Life, Testament, Knowledge, Sacred
+
+---
+### Line 1828-1836 (Match: 'Clearly')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Harpax
+130
+Needs Review
+130
+The two instances of Holy Spirit as conscience in my own case which come to mind would be, first: when I was tormenting the beetle as a child and suddenly understood; and second: about the burning up Jap and later the napalm bombing. What I note now that at least these instances are actually cases of an agape awareness, which would be in accord with the loving nature of the Holy Spirit. What a triumph and a joy it would be to establish a relationship between the Holy Spirit and certain clear expressions of inner conscience especially concerned with the suffering of other creatures -- what a terrific triune linkage! Terrific? (sp) The Friends distinguish conscience from the Inward Light, the latter being God in man, evidently addressing him or anyhow illuminating him; probably they distinguish it from mere social deposit. My experience certainly indicates that the basic Protestant idea that God speaks directly to man though the Holy Spirit is correct (in contrast to the handed-down-by-the-priest idea), and in particular the Friends would seem to be correct, as regards their concepts of the Inward Light and the Seed. The evolution of religion from God Above to God With Us to God Within Us is obvious, but what I see too is the social-historical meaning, inasmuch as it certainly is going to basically affect future societies, this internalization of God (as we withdraw our projections, perhaps). Every man will carry a bit of God inside him, like a walkie-talkie (and much much more). He will be conscious of this, both in himself and by empathy and analogy in others. Surely, if all goes well, less will be handed down to the people progressively more and more; and the people will take their destinies in their own hands (but that is only if unobstructed; yet, that should be their fight: if God is within each man, then the enemy of man is any top-heavy system claiming a monopoly on truth and dispensing it downward). Why eventually will laws be necessary at all? I foresee a godly anarchy. No authority here on earth will have to tell any man what to do, or even educate him; the Logos will do that -- link him up. A truly egalitatian society should result. Again I foresee and applaud the arising of the new people I described in my Vancouver speech; this internal radio set will educate and regulate them on an individual basis, and coordinate them, and make possible functionally (the how) what I saw coming ahead. A certain kind of superhuman could result -- what I saw in Kathy: you cannot lie to such a person, or coerce them, etc. This at first will be a frightening (to us) person, as if a sociopath (and may be so in transistional phases). The directness is so inner that it cannot be appealed to; nor are the values derived from society, esp. the establishment. It is always "the sound of distant --deep within-- drummers." Therefore such a person will present to us a deep enigma. Their motivations (why? How derived?). What gives them the verification of ratification they need...they will, like Kathy, have a deaf (to us, to our pleas and complaints) quality. Presumably Kathy represented an incomplete type, because her lying indicated a fundamental lack of authenticity. Still, the potential seemed to me to be there. The beginning, as I described. I think perhaps she was relying on an inner voice (Light) which she could not as yet clearly hear -- she was still experimenting. Most indicative was her rebellion against society and her unwillingness to be hampered. Also, she had fashioned her values sui generis, which is what this is all about.
+
+Last edit over 5 years ago by Harpax
+
+131
+```
+**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Well, These, Perhaps, Like, Because, Therefore, Only, Earth, Harpax, Mind, Light, Even, Could, Anyhow, Again, Both, Being, Himself, Probably, Kathy, Still, Their, More, Most, Such, Voice, Actually, Certainly, Will, Would, Other, Surely, Have, Later, Truth, Suddenly, Evidently
+
+---
+### Line 2329-2337 (Match: 'Clearly')
+**Folder**: part of
+
+```text
+Let me assert as a possibility this: that as Teilhard de Chardim says --mankind following Christ as a species along through the stations of the cross-- I went through the vicarious experience of the Passion... or was it vicarious? It was real. That all took place, had to take place, to usher in 3 74, the rebirth. As Hoyt Axton says, "Most people want to fly to heaven, they're not willing to climb."
+
+In an effort to understand how this parabolic reverse-direction comes about I turn to the I CHING (by memory, alas) about the "seeds of the future being buried in the present." Always, the seeds, concealed, of the future are here now, if we had a method of discerning them, which could mean set-ground discrimination; anyhow, I am at this moment in sudden wild ecstacy, because viewed this way such "Logos material," as I've called it as the dream in TEARS, plus Prelude's song "After the Goldrush" are very likely --wow!!!!!-- such seeds of the future emerging as fragments of that impending, cohering future, now. This would set them apart from all the objects and contituents which are purely part of the present. How extraordinary it would be to all at once see (would you believe in a special illuminated red and gold shimmer of color???) these seeds wherever you looked. You would be seeing tomorrow! It would enthrall you, as it time had moved backward: the future building itself here and now. You might then manage to discern the shape of future things, the pattern emerging. (Or you might not.) Well, then by this token, what I have seen indicates the Parousia, so we are back to it as an objective forthcoming event!
+
+There is a great mystery about the Kingdom of God, as to where it is, and the Parousia in general; it is in you, but also among you, and it is invisible but actual. He must mean it is transpersonal. When you participate (yes, that is it); you enter it -- did He not use this key word? You enter it; therefore it already exists before you and outside you, which indicates objective existence (contrast, "I entered sadness," a state of mind). It is real and it is there; one by one we enter it, or we don't. We cross over and enter, leg by our shepherd. In response to the sound (sic) of his voice (sic). A place of safety and peace, where we remain with Him. We find our way to it (recall my vivid experience in 3 or 4 74 in seeing a pylon or archway with a silvery moon-lit world beyond, and Greek letters -- silence. I could pass through the gate and enter that world beyond; I could see it clearly, first here, then there, now over there, glowing and waiting, open to me. Not in any one spot but glimpsed again and again!
+
+Last edit over 5 years ago by Harpax
+175
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Logos, Kingdom, Greek, Well, Parousia, These, World, Because, Therefore, Time, Harpax, After, Mind, Could, Anyhow, Once, Again, Kingdom of God, Teilhard, Being, Great, Viewed, Part, Through, Most, Heaven, Ground, Real, Gold, Such, Voice, Before, Would, Ching, Very, Back, Beyond, Have, Things, Memory, Cross, Dream
+
+---
+### Line 2376-2384 (Match: 'Clearly')
+**Folder**: part alone
+
+```text
+As I see it: Answer: no difference, except that I can't fly, which the Mission seems to think is a necessary spinoff, without which we must deny it happened.
+
+But this is from their treatsie on the Holy Spirit and they are out to deny its presence. I don't think I have to fly physically, like angels. Will it do if I find myself in sleep and in ASC generally in other places at other times, and have visions of events happening elsewhere or elsewhere and to come? I sort of get around like the wind, coming and going in an invisible way...like my dream of fleeing from the VC and winding up in a relocation refugee camp with no money; I even had the proper accent ("Cen't you see what's heppinin?" and so forth; very convincing, and maybe this is what Christ meant about coming and going like the wind, where no one could tell where you went or came from, after the Spirit drenched you).
+
+Put another way, the complicated scenario they put forth (which is probably correct) tends to validate my 3 74 experience as precisely that: the attaining of the Kingdom. This is the way to put it: "What do you have to do to enter the Kingdom of Heaven?" and then the list which follows conforms to the list one would draw, in sequence, of what I experienced, back before that, too, to the distress --lost-- period which ran on months if not years. What I went through both bad (before 3 74) and good (3 74 on) had to be gone through, like an enormous spiritual transcendental car wash -- a human being refurbishing system, so complex as to beggar description, beginning with the dreams of the flying monsters with horses necks (dragons) and then picking up in distinctness with the chromatic flash-out graphics, the latter night being, if any section can be so said to be, the moment when the Spirit began to pour out onto and into me. The beginning, in other words, of the New. Up to then it had been nothing but various aspects of me perishing -- dying. The rebirth began with the graphics; the turning-point in the parabolic orbit had begun. I was re-entering life, as new life re-entered me: "from above." The thing about all this is that if it is said to me, severely, "You have to do (experience, go through) a lot to enter the Kingdom of Heaven; you can't do it like you are; you've got to be very much changed, and receive the Spirit," etc., I can say, "I know." (Or I think I know. I hope I know. I hope I don't just have hubris about this. I hope I'm not just boasting. If I am I'm sorry.) I think, though, really, what is convincing about it when I view it objectively it that, remembering back, I was geniunely broken down, stripped down, torn down to my skeletal plating, like an insect who has woven a cacoon, and then I passed through months of uniquely and actually unimaginable rebuilding processes, all adventitious to me, improving and teaching me, altering me --well, the "possession" part alone remade me in the most fundamental way indeed-- and clearly as completely remaking me as
+
+Last edit over 5 years ago by Harpax
+178
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Kingdom, Well, Maybe, Like, Harpax, After, Good, Even, Could, Just, Both, Being, Probably, Without, Nothing, Part, Their, Another, Through, Most, Heaven, Actually, Before, Will, Would, Other, Mission, Very, Back, Have, Life, Except, Human, Dream, Answer
+
+---
+### Line 2530-2538 (Match: 'Clearly')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+190
+Needs Review
+190
+While you are dead the Kingdom remains invisible to you. I think in 2 75 I began to see it. It is a spiritual kingdom, and in the process of becoming actual (physical, literal, visible). We are the dead, as in UBIK, who must be roused by the sound of His voice. But not roused to physical life but spiritual life (as the grain of what is not raised as it was sown). (But raised in a new, spiritual, better body.) This is why when I saw the King He was dancing among the furrows -- which is where the wheat lies sleeping (in death); he made a sound to them in some way; a form of music. He, the spring king, was calling the sleeping wheat up into life, from where they were buried in the furrows; this is what spring, and his voice, mean. Thus it is said of Dionysos that he "is a god of vegetation" and the mystery of Elysuis is a grain of wheat planted in the furrow is reborn, and the grave equals the furrow -- the dead human, buried, is reborn. This is what I saw in 2 75 without (as usual) understanding it. As He calls to the wheat, who are dead in their furrows, he calls to us who are dead (in our graves), exactly as I depicted in UBIK (Runciter's voice, their friend who died but who, for them, has returned to help them). As the corn(spring) king called the wheat to new (physical) life each spring, so Christ calls us to new (spiritual) life, out of the grave furrow) we are sleeping in. We must listen for the sound of his voice, which means the New Birth for us, just as each grain of wheat bursts into new life, a new kind of life different from before (before it was solitary), at the sound of his voice (spring). Light, entering the pineal gland in spring, has something to do with this, he is a god of light, turning us into light creatures. Regarding this, it is said that his voice wakes us to new (spiritual) life and calls us into His Kingdom, which is called the Kingdom of God, where He (Christ) rules. Thus the chromatic phosphene graphics which I saw in 3 74 are the light breaking through to me, just as it does to the wheat in spring (and this was the vernal equinox!); then I heard the sound of His voice, and entered a new world (the Kingdom). I felt, for the first time restored. I saw him correctly (I now know) in every detail: as the deposed --rightful, the rejected, exiled-- king (who would come back in power). Thus, the deposing of Nixon takes on an archetypal quality, in that he was the ursurper king ruling in the rightful king's place, like King Pentheus (and Claudius in "Hamlet".) His overthrow is an archetypal, not incidental, victory for the rightful king, the ursurper being the "Prince of this World," the Herod figure. Just like King Pentheus he sought to imprison in innocent, but instead imprisoned the figure of the Rightful King in some form, and was deposed. Thus in 3 74 I saw the iron prison the ursurper had built around us and recognized it as Rome; also in 2 75 after he had been deposed I saw springtime seep in, replacing it, which indicates to me that now the Rightful King can come toward us & speak to us more clearly, unhindered. And sure enough, subsequent to my seeing that springtime world (2 75) the imperial empire, its provinces, have slipped away without a fight. I.e.: THE WAR ENDED. There is no way, in considering these images, to fail how they pertain to Christ and the salvation story. I don't think Dionysos or any of the others is described as a king -- only Christ; and anyhow the king image relates it to the TEARS dream, which is surely the "Ancient of Days," and image of Christ. I note, too, that what is not a fertility symbol, but a rebirth symbol. The "solitary" life which both Christ and
+
+Last edit over 5 years ago by Harpax
+
+191
+```
+**Co-occurrences**: Christ, Tears, Ubik, Rome, Form, Kingdom, King, Empire, Dionysos, These, Like, World, Iron, Prison, Only, Time, Nixon, Harpax, After, Light, Does, Anyhow, Just, Something, Kingdom of God, Both, Being, Runciter, Without, Their, More, Through, Voice, Before, Death, Would, Hamlet, Were, Back, Surely, Have, Life, Body, Spring, Pentheus, Instead, Days, Dead, Human, Iron Prison, Dream, Salvation
+
+---
+### Line 2791-2799 (Match: 'Clearly')
+**Folder**: Book of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+212
+Needs Review
+212
+The dream in TEARS contains the ostensible command, "Die," but under the steganographic covering is the Logos-word "Felix," which means precisely the opposite; it is embedded secretly in the surface picture of damnation. Thus, those not equipped by the Holy Spirit receive a "die" message; the ethers, a "live and prosper and be fruitful and multiply and be joyous and healthy," message, which was God's first command to man. This embedded Logos-word "Felix" absolutely identifies the white-haired old king on horseback as God. There is a exoteric message (die) and an esoteric (live); here, perhaps, the goats-sheep division mentioned by Jesus. This happens to be the entire issue at Judgment Day: death to the evil ones; life to the flock of Christ. Am I to presume that there in fact exists on Earth actual persons who, via the Holy Spirit, receive the "live" message coveredover in this section, and if this is so, there must be countless other written materials presented which carry to them a covered-over message, similar to this at least in method of presentation, that is, steganographic material for them alone, quite possibly absolutely opposite to the exoteric material. Then there must be, logically, a remnant or minority of God here capable of so reading, because it is not reasonable for the Logos to put forth this covered-over esoteric message if no living man can perceive it (i.e. uncover it and blur out the surface "die" message which is directed at the others, the evil ones). I can reach no other conclusion, and this relates back to the girl with the golden fish necklace and my later sense of a small body of secret (sic!) Christians at work. Is there indeed an active secret authentic Christian underground? When I saw all this in TEARS I hadn't read the ICC literature telling about steganographia yet. I must never allow myself to wonder at the real meaning of the dream in TEARS per se, because the real meaning is not in the dream (although there is some kind of meaning to it; it refers to something actual) but in the embedded single Logos-word, "Felix." It points to the Biblical nature of the dream (i.e. from the Book of Daniel and of Revelation). I just read somewhere that all apocalyptic literature (of which only 2 books are retained in the Bible, of many) tell of Christ returning as a king on horseback with other horsemen, other Christian soldiers. I wrote an apocalyptic piece, with the essential covered-over message associated with apocalyptic writing. What is the message in toto? Just a repeat of the first command from God in Genesis? No, because this isn't God, this is Christ returned, the Second Coming. "Felix" versus "die" just points more clearly to the judgment, the separating of men into two groups, associate with, and essential to, the apocalypse. Well, if this be so, thend if DEUS IRAE comes out next, which it may, the message Is continued! It may have begun back in UBIK, then MAZE, FROLIX 8, TEARS and next DEUS IRAE. It is even possible that SCANNER carries some of it, for instance all that about St. Paul; seeing by reflection; why, the title itself, and how it is expressed in the final version, in the text itself! Even COUNTER-CLOCK WORLD could be included...a continual stream of messages, all to point out the approach of the Parousia, which evidently I see more and more clearly. And have seen, in book after book.
+
+Last edit almost 5 years ago by svayambhu108
+213
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Genesis, Final, White
+
+---
+### Line 2811-2819 (Match: 'Clearly')
+**Folder**: Book of
+
+```text
+one ever the other (roughly, yang or life or love or attraction over yin or death or coldness or decay). Form One of Parmenides: the dry or fiery principle. What kind of world would we have, then? Quite different. I saw (3 74) the two contending forces. I think a victory was scored by Form One (Christ), but was it the victory, or only one along a developing (evolving) process? (See intro to Slavanic "Secrets of Enoch.") Balance of contending moral forces struck for one day (or 1000 years, after which (sic) time is abolished). Note: balance, not victory by either side: balance. Or: palintonos harmonie.
+
+That there is another (eternal, i.e. outside of time, unchanging) universe (Plato’s real world) I am certain, by experience, but whether its "will" or nature will superimpose on this world eventually, literally enfolding it, I can’t figure out (Augustine versus the literal millenialists). I ask: do we go there (as Augustine figured, to the City of God) or does it finally come here?
+
+••• The obvious has eluded me. The left hemisphere, processessing and experiencing (perceiving) digitally, experiences linear time. The right hemisphere, working on an analog or pattern basis, experiences either another kind of (non-linear) time or else timelessness itself. I somehow (3 74) extinguished the left-hemisphere self-system (ego), and obtained, not bi-lateral hemispheric parity, but first the annihilation of the left-hemisphere self system, but then the coming into full firing (via the w.s. vitamins?) of the right, which many men have sought but few have found (the Mantra must have helped). And thereupon the universe was seen inside out, and time flowed backward! Viewed inside out specially, and flowing backward temporally, entirely new gestalts (patterns or entities or forces) were visible to me, as if one had suspended trying to read Hebrew from left to right and abruptly read it (properly) from right to left, etc. Since left-h. linear time, as is scientifically known, leads toward entropy, then I saw movement toward the formation of growth, or entelechies. Of the assembling of chaotic parts into wholes. Not only that, I saw saw the assembling force (the Logos) and the counter-force as well (unnamed), these two forming, I think, a dialectic of strife as Empedocles expressed; perhaps the Logos was above both (which twe then could be viewed as yang and yin, etc) and made use of their interaction and contention to build with and on and by means of. But this only visible from right-h. apperception of time flowing backward, and the special properties reversed as well. Left-h time apperception sees flow and change, evolution and process, but not the constructs of the process, since the process (which is real) is viewed in the wrong direction, as a decomposing one (like a tape or film run habitually backward). To the left-h, things pop into being in time and then pop out of being, meaninglessly, going nowhere; but to the right-h sense of the process (reversed), assembling, and toward a goal, is clearly visible. The goal is total assembly of everything into a single entity, probably a totally stable (palintonos harmonie) gestalt or kosmos. But the con¬ structs or gestalts being formed — although the entity at work operated in reverse time, those gestalts lay in our linear future. it was "writ¬ ing backward" to arrive at cur terminal end. 5
+
+26 3345 hellane
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Parmenides, Since, Only, Time, After, Gestalt, Yang, Could, Does, Hebrew, Both, Kosmos, Being, Empedocles, Although, Self, Everything, Either, Augustine, Probably, Viewed, Those, Their, Another, Real, Love, Death, Universe, Finally, Will, Would, Other, Somehow, Were, Many, Have, Things, Life, Form One, Whether, Dialectic, Right
+
+---
+### Line 3214-3222 (Match: 'Clearly')
+**Folder**: book was
+
+```text
+Needs Review
+249
+And yet few men see or know that the Parousia has come. But as the JWs point out, they never saw Satan all these years; thus they do not see Christ returned either, nor anything else, except the ex¬ ternals, only the externals. The most powerful tyranny in the history of the world was deposed, and what stood against him in worldly terms? Nothing; yet he resigned. Contrast this with Egypt, where the remnant of Jews merely wascaped through God's power, but the empire remained; Phaoroh remained. This time the empire was crushed, with its head, its sovereign, first pitched down. All the forces of heaven stood matched against all the forces of this world and its soverign. What a mighty battle it was! First the tyrant, and then the empire itself fell the next year. And Greece as well, and Portugal. All gone! All fallen! The Bible records nothing like this, even the fall of Babylon, really, which is doubtful as fact anyhow, being merely an interpretation of natural events I think. Heaven summoned its forces; Earth summoned its; Heaven prevailed. The will of Heaven was at last fully done on Earth, as we have prayed for, these 2,000 years. Heaven conquered Earth and assimilated it; surely this is the Parousia! But such is the secular world that it does not know; I would not know,
+
+I, too, had the spirit not opened my eyes; I realize that. I saw only because it caused/allowed me to see. Many were lost in the battle; Pinky, my guide, died; I was injured and later almost died; I lost much. But God saved my life at the end, and restored me. All this being taken into account, my final vision, that of the Holy or Promised Land, falls into place; it informed me that the war had ended in victory, and this, what I saw, now lay around everywhere, a sanctified world. This is my wrap-up, after 28 months; I say the Parousia came; I know it. Libera me Domine. In dies Ilia. Judgment, then, was made, rendered, on us all, whether we realize it or not. The ultimate judg¬ ment evidently —perhaps, only perhaps— excluded many from the category of lambs; I say this because how many are aware? The books were opened and then closed. Yet time continues, events continue. Perhaps, I say only perhaps, the eschotolmgist writers such as John and Daniel made the Parousia sound too blatant, too lurid. Too conspicuous, which it was not. To me it was a lurid, if that's the word, as they foretold; to others it was only a great political, constitutional contest. But to prove my contention, I offer the dream sequence in TEARS, which is clearly an apocalyptic vision of God the King or Christ the King breaking through into our world, to judge —against— the man shut up inside the house, which is of course the tyrant, that he must be destroyed, as he was eventually. That dream could mean nothing else; the only question was, When? the answer coming a month and a half after the book was released — along with the rest of the material from ACTS which was inserted into it. The dream foretold the events; the events bore out the dream. QED; it is so. Said Nick Bottom, but this time he was right; well, he was right then, too; what he remembered as being a dream was no dream but memory of events which could not have been real (so he thought he had dreamed) but did. May I offer one more item as proof that it was the Parousia? There is no report I know of in recorded history where anyone had the experience I had in 3-74; if I had it, then, unique circumstances were involved, to permit open intervention by heaven, and what other circumstances would qualify?
+
+Last edit almost 5 years ago by svayambhu108
+250
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Acts, Spirit, Holy, King, Satan, Well, Empire, Bible, Parousia, These, Perhaps, Like, World, Fall, Because, Only, John, Time, Earth, After, Book, Even, Could, Does, Pinky, Anyhow, Being, Either, Great, Daniel, House, Nothing, Jews, More, Through, Egypt, Babylon, Most, Heaven, Real, Such, Greece, Will, Would, Other, Judge, Were, Surely, Many, Have, Judgment, Life, Memory, Later, Whether, Except, Dream, Evidently, Final, Right, Answer
+
+---
+### Line 3357-3365 (Match: 'Clearly')
+**Folder**: book when
+
+```text
+Needs Review
+263
+-6-
+
+It is interesting how the insertion of my actual dream into TEARS exemplifies the joining of two items by St. Sophia, since in my own life the dream when I dreamed it had nothing to do with my society or the extension-into-visibility of it which I had already laid out in the novel. But juxtiposed, they made their historic (apocalyptic) point. I think now that there is a certain justice in conferring the 3-74 experience/visions on the author of TEARS; justice and appropriateness more than mercy or kindness. TEARS says: "This bad situation exists or will soon exist or anyhow is planned, and it will end — in the following way," and it discloses the way (the Intervention). The wise old king breaches through & raises the siege. We were prisoners in a great prison, until he broke through to redeem us. The stegenographia in TEARS is not limited to the dream section but is throughout, with the dream section the heavenly insertion, within the evil body (our world, the depictment of it). It is of another color — the logos speaking itself. It was to all this understanding that the dream in Canada referred, in which Kathy & the others took off their masks. Again I wonder, Did anyone exist who received TEARS and decoded the message? but knowledge of that is mercifully denied me. (I really would not want to know; it is too heavy. But I think yes, two groups, one inside the evil tyranny, the other outside.) Maybe it was the popular tune played over the Catholic radio, signal that... I wonder. Well, that is beyond my purview. The idea "Prisons are a source of wealth" has been defeated. The return to Roman ways occured in the U.S., in the Civil War, espoused by General Sherman; the Germans learned from him. The antique tyranny broke through once more! The empire on the north (King of the North), the slavery on the south (King of the South). Now, let us start with TEARS as the paradigm print-out, of our society. What, then, does TEARS tell us as to the saving force? What is it? Why, clearly it is God; clearly Christ the King has come; again, by this route, we come to believe that the Parousia took place, for TEARS said it did. People do not notice the event in actuality, nor understand it when they read TEARS, mainly because they are not looking for it and would not know it —did not— were it to come; in TEARS there can be no doubt — the Ancient of Days is clearly depicted. Also (il) He judged; (2) He judged against or downward; (3) He executed his own judgment. In this world the 3-eyed lady (1) Judged; (2) judged downward; (3) Executed her own judgment, which is an extraordinary coincidence. The breaking through (sudden manifestation) by the King-Who-Judges is essential in our concept of the End Times, speci. the Day of Judgment; it took place in TEARS & in our world identically (Daniel & Revelation may have overstressed the calamatous aspects for cautionary purposes). In each case, one man is to be destroyed, and then the apparatus of the state withers (see epilog in TEARS). But the main indication is that what most fundamentally takes place in each is the introduction, into the world, of the power of Christian love,b brought by God; and this is what ameliorates conditions, causing the state apparatus to wither, this, despite she overt negative judging; it is negative judging to remove one man in order to usher in this power of love brought by God from His realm to Earth. This is the essential basis of Christianity. In
+
+Last edit almost 5 years ago by svayambhu108
+264
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Logos, Christianity, Sophia, King, Well, Empire, Parousia, Roman, Maybe, World, Since, Because, Prison, Earth, Does, Anyhow, Once, Realm, Again, Catholic, Great, Daniel, Nothing, Kathy, Their, More, Another, Through, Most, Love, Revelation, Will, Would, Other, Were, Beyond, Have, Judgment, Life, Body, Justice, Wise, Days, Evil, Knowledge, Dream, Until
+
+---
+### Line 3382-3390 (Match: 'Clearly')
+**Folder**: book when
+
+```text
+266
+-1-
+
+Augustine says that at the Parousia the veil will lift, and the City of Man will be visible as separate from the City of God. This is what I saw: the Iron City, Rome, was the first; then in 2-75 the palm tree kingdom, that was the City of God; so further evidence that the Parousia was here. No blend, no ambiguity; each had parted company with the other. The prison versus the palm garden. No, I guess the Parousia hasn't come yet in linear time; I was lifted up (into sacred eternal time) the way an adult lifts a child to witnes a parade; I saw it the way John and Daniel saw it; I am an apocalyptist. When the Parousia comes it can be seen with the unaided eye; whereas I needed aided eyes, enhanced percep¬ tion, to see what I witnessed. So, again: I did not reach or attain this condition; it reached down (back) to me. In attempting to determine the relationship between the events I saw and the world of linear time in which we live, I have the verbal statemtn, "St. Sophia will be born again etc." to go on, indicating that these events lie directly ahead, since the rebirth of St. Sophia is in itself the Parousia or Second Advent. The Parousia refers not to the presence of the Cosmic Christ, but to the Second Incarnation, reffered to as "St. Sophia being born again," Teilhard de Chardin to the contrary. Thus he/she/it will be visible to all, with unaided eyes. The Cosmic Christ, as resurrected spirit, is indeed present now (it was he probably who came to me, as Holy Spirit), but to our normal eyes nothing is visible; he can only enter inside, as does the Holy Spirit, not be visible as he was as Jesus, and will be again (incarnated in a physical body); but preparations are now being made: the anticipation & expectation are high; the herald angels are here already. Mankind, all of them, will see with unaided eyes precisely what I saw with aided (enhanced) eyes, such as the transformation of the animals; the dividing apartly clearly of the City of Man versus the City of God; the pale white light coming on which signals judgment, etc. This finally resolves my confusion as to what I saw, which was manifestly now, and the promise of a future rebirth. However powerful, actual and real the spirit is (the Cosmic Christ is), this constitutes no incarnation, and it specifically, with a fine economy of words, is an incarnation that was promised (foretold). The foretelling is by herald angels (v. Mathew). The event itself is still future (for all to experience). This was, of course, a Christian rebirth for me (3-74), a being born again from above; but the material I witnessed had specific content beyond the personal experience itself. I recall the "James, James" dream in which advance scouts of the Afrika Corps rolled into manifestation; this was the Second Advent, which I requested medical help from. The implication of this dream was that it would come soon. It came upon the smashing-down of the defective lamb, which seems to me present now. Well, to preview the Parousia is to experience the Parousia is to live through the Parousia, is to experience Christ as returned now. Thus my confusion between the idios and the koinos. The idios now, the koinos later (for everyone). This is the first time I've considered my experience from the standpoint of Heraclitus' distinction. His distinction makes it possible to suppose that I did indeed have the experience, even if no one else did.
+
+Last edit almost 5 years ago by svayambhu108
+267
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Sophia, Kingdom, Well, Parousia, However, These, Advent, James, World, Since, Iron, Prison, Only, John, Time, Cosmic, Garden, Cosmic Christ, Light, Even, Does, Again, Suppose, Heraclitus, Teilhard, Being, Daniel, Augustine, Probably, Palm, Nothing, Still, Through, Real, Such, Upon, Finally, Will, Would, Other, Back, Beyond, Further, Have, Tree, Judgment, Body, Later, Dream, Whereas, Chardin, Lamb, White, Sacred
+
+---
+### Line 3390-3398 (Match: 'Clearly')
+**Folder**: book when
+
+```text
+Needs Review
+267
+-2-
+
+More important, Heraclitus' distinction makes it evident where the Kingdom of God is (among you, within you); evidently it is currently limited to the idios kosmos. (Koinos later?) (As in "Thy Kingdom come," etc.). In fact without the distinction of Heraclitus it is impossible to comprehend or explain how I could have the experience, and it be real, and others could not. Aha. In his discussions of the Kingdom of God, Jesus clearly indicated a finding of it by individuals, as distinguished from its general arrival. So certain persons could individually enter it, as I did, before His return and the Kingdom arrived in the koinos. It seems to me that what Jesus said about his first incarnation —its purpose— was that he came here and sowed a small seed (the mustard seed) and someday will return to harvest the crop produced from that tiny seed. As Judge, Christ is the Reaper Himself, of the final harvest which He originally planted.
+
+* * The phosphere activity, drop in GABA, signalled anamnesis: memory restored of who I was (secondarily, why I was here). Thus I could not, would not, do what the Xerox letter et al. demanded. My true self & destiny were recalled (to me). Purpose, mission, identity. Reason for being here — where I had been and was, where I would go L see (the Parousia). Even the verdict upon z me. And: I was restored to what I had once been (powers & faculties), and restored to my fellows (who instructed me, the plasmatic atmos¬ pheric entities. The curtain for a time, long enough, was lifted. I saw the landscape as it truly was, and the powers behind it, good & antagonistic. The grand design (secrets of the cosmos), origin (the stars), agency (logos), and outcome (restitution), and the historic events I was part of (overthrow of the tyranny). visinhibition took place, firing began; the missing circuits came on at last; their time had come. And mine. Today I dreamed that on March 21st (siclI I) I was released from prison, to write my 300,000 word theological exegesis. I gather (1) throwing off the Xerox letter et al. was means, writing is the end; (2) it is the U.S. who have a vested interest in my not writing, not Soviet (obviously). (I was singing Joe Hill's final statement.) The 21st! They would have nabbed me the next day! Had they nabbed me, I would have broken fast, being a weak & frightened person. My defiance was always out of weakness, not strength. As to the Marxists, they always intended to subject my work to the "structured critics"; this is stated by Lem in his article accompanying UBIK and by Jack Vann; Vann names the desired critics: Lem & Rottensteiner. Lem says, "There is no telling what his work might have become had he come under the scrutiny of good critics" or some such statement; their plans & intentions are conspicuous here. Falling into the clutches of either would have doomed me, and in 3-74 I was about to fall one way or the other — it scarcely matters which. I would never have been my own man again..,and I was so close to this. Strong, vigorous actions were required by the spring of 74 to evade falling into one of their hands — actions I couldn't foresee needing to do. Responding the way I did to the Xerox letter was only the start; look what more I had to do vis-a-vis Lem et al. Certainly my fight along these lines was masterminded from the supralunar realm, throughout, not just at the start.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Ubik, Logos, Jesus, Xerox, Kingdom, Parousia, These, Fall, Prison, Only, Time, Good, Even, Could, Just, Soviet, Look, Once, Realm, Again, Kingdom of God, Kosmos, Heraclitus, Being, March, Obviously, Self, Himself, Either, Anamnesis, Without, Part, Their, More, Real, Such, Upon, Certainly, Before, True, Will, Would, Other, Mission, Judge, Were, Under, Have, Spring, Memory, Later, Today, Evidently, Final
+
+---
+### Line 3400-3408 (Match: 'Clearly')
+**Folder**: part of
+
+```text
+Needs Review
+268
+-4-
+
+In a purely deterministic, karma^-dominated world, my period of independence would have ended in the spring of 74. In analyzing the situation then I would have to say retrospectively that only ”vertical” intervention would have saved me from falling into the destructive vector one of of the twin megastates. My in ate weakness, my fears, my isolation, my financial insecurity, my depressions & hopelessness — all would have assisted this transformation into a kept, managed thing. But the trumpet sounded; help arrived. I go on as I always did, free to write as I please. Beholden to and controlled by neither, barely having steered (been steered) between them. I clearly discern two hostile megaentities seeking to control and subsume my free work. Hence my perpetual, chronic confusion as to ”which” it was that menaced me; why, it was both at once, in competition. Between them they had occupied all stations — except invisible unanticipated (along the causal lines) ones. In essence I had to do two things at once: take on both and fight both off simultaneously, which appears virtually impossible to do. There was no playing one against the other or taking false sides. What ally did I have? The Greatest One, unseen. I keep thinking they needed the Xerox letter to arrest me. No they did not, but without it I would have received much sympathy, esp. since TEARS had just been published. With the Xerox letter found in my possessions they could have built up a case by reason of which I would have obtained not only no sympathy but scathing hostility. After that I would have fallen into line and, if I had written at all, written safe tame things (such as SCANNER and DEUS IRAE). Had I been netted in the other direction by Lem's people no telling what they'd be having me write by now; certainly not SCANNER and DEUS IRAE. It is all a very melancholy thought, this resum6 of a world without the vertical intervention by God, God's grace, from the supralunar world, i.e. from heaven, to lift the deterministic destiny of the planets. What a dreary world it would be, with nothing new in itI Everything rolling inexorably downhill to a predetermined termination. The dream showed a far more realistic view of what my situation would have been than I ever had: I was paroled, because there was nothing to be gained by keeping me in prison, since there I couldn't write. But I wore a modern polyester suit (like the conspirators did!); I was part of the U.S. establish¬ ment. My probity would be shot vis-a-vis my legitimate audience — e.g. regarding such religious writing as my exegesis and DEUS IRAE. And I could not write protest books, probably — or rather the fact that I was not would be taken wrong...in any case my use would be shot. Hence the spirit intervened; this way, free, my religious conversion must be accepted as authentic (.e.g as up in DEUS IRAE, as by my friends abroad.) ”After his arrest and parole he only wrote religious and anti-drug novels.” Think how little effect SCANNER would have had! After all, it is pro-establishment...the heavy handed US authorities would have messed up something of use to them. Whereas had they left me alone — which is how it worked out, due to the vertical interven¬ tion. Perhaps they wound up convinced of this, sincerely, which makes for a permanent detente. This would be the best possibility: that they would come to see this. * * If I ever get over the depres¬ sion which this dream & realization have caused me, I will better appreciate the actions of God-in-this-world; as it stands, I am in the ”alternate world" space very much
+
+Last edit almost 5 years ago by svayambhu108
+269
+Needs Review
+```
+**Co-occurrences**: Tears, Spirit, Xerox, Perhaps, Scanner, Like, World, Since, Because, Prison, Only, After, Book, Karma, Could, Just, Something, Once, Both, Everything, Probably, Deus, Without, Grace, Nothing, Part, More, Heaven, Such, Certainly, Irae, Will, Would, Other, Very, Have, Things, Spring, Neither, Having, Except, Deus Irae, Dream, Whereas, Free
+
+---
+### Line 3592-3600 (Match: 'Clearly')
+**Folder**: part in
+
+```text
+Last edit almost 5 years ago by svayambhu108
+289
+Needs Review
+289
+I had the most extraordinary dream in which the duel nature of Christ was revealed. It took the form of a Medieval diptych, (sp) in which, on the right, the inner nature of Christ was shown in a picture, nebulous, but resembling Michelancelo's painting of the Delphic sibyl. Under that right-hand picture was written the word SHE and then the word SECRET. The left-hand picture was shown clearly: it was the puppet Pinocheo, as a string puppet, which is to say, worked (animated) from above. The picture of the puppet was one of a mere model of a human, very wooden, very without intrinsic life; it even had heavy shoes to weight it down, to give it the semblence of substance. In the very center of the frame, below the two pictures and equidistant from both, appeared the three unbroken lines of the trigram Ch'ien, that of creative masculinity; this lay outside the dyptich, thereby showing an outward presentation, to the world (outside), of pure unadulterated absolute mas¬ culinity. Bearing in mind that the female (and I think superior) part —called SHE— was identified also as SECRET, I understand from this dream that the female component's presence in the duel nature is a secret, probably is to be kept secret; also, it does not reveal itself in Christ's actions or manner, which guards the secret of course. That the masculine nature is "worked" by an inner feminine one is never stated anywhere, or it would cease to be a secret. I can conclude that it is Haggia Sophia that is represented here. What I also am beginning to think, as I recall THE WISDOM OF SOLOMON and Proverbs 8, is that the Holy Spirit is that same Haggia Sophia, since, as the EB says, the Paraclete contains a gnosis or knowledge, which is undoubtedly the same as wisdom. We are talking about One Emanation, Holy Wisdom, which built the universe, is the logos, was incarnated in the body of the man Jesus of Nazerith. If Christ is also the Holy Spirit, we ask immediately, What is Christ? and the answer comes, He is the incarnationof Holy Wisdom or the Logos, which is feminine; It was feminine before its incarnation, and is perhaps feminine again. No other emanation but Holy Wisdom was or is necessary. And as was revealed to me, St. Sophia will be born (incarnated) again; she (sicl) was not acceptable before, referring to the First Advent; this dream agrees with the revelation given me in early »75. We are speaking here of the Spirit of God as depicted in Joel. I get a lot from this diptych representation; one thing I get is the impression that although gently given, the word "SECRET" is an injunction to me to keep my mouth shut. This is the first evidence I have had that there is indeed, as Paul calls it, the element of sacred secrets in esoteric Christianity (cf what the ICC says). I was initiated into at least one of these sacred secrets; i.e. that Christ's deepest nature is feminine, which is to say, Holy Wisdom. That He will return is not a secret. Another secret is the relationship between the shamans of Greek culture and Christ/the Holy Spirit, which is to say the theolepsy induced by Dionysos. Specifically, though, I am told to cool it re Christ's feminine nature. Secret means secret. (I presume the early Christians, who underwent theolepsy by this spirit, knew this; and they did not tell. That it is also the Cumaean sibyl, and Delphic, shows a continuity from Greek mystery religions, and Greek culture, also not told.)
+
+Last edit almost 5 years ago by svayambhu108
+290
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, Sophia, Paul, Greek, Wisdom, Dionysos, These, Perhaps, Advent, World, Since, Gnosis, Paraclete, Holy Wisdom, Mind, Even, Does, Again, Both, Although, Probably, Sibyl, Without, Part, Another, Most, Secret, Before, Revelation, Universe, Will, Would, Other, Very, Under, Have, Life, Absolute, Body, Knowledge, Human, Dream, Right, Answer, Sacred
+
+---
+### Line 3787-3795 (Match: 'Clearly')
+**Folder**: Book of
+
+```text
+Last edit almost 5 years ago by svayambhu108
+310
+Needs Review
+310
+The dream in TEARS contains the ostensible command, "Die," but under the steganographic covering is the Logos-word "Felix," which means precisely the opposite; it is embedded secretly in the surface picture of damnation. Thus, those not equipped by the Holy Spirit receive a "die" message; the others, a "live and prosper and be fruit¬ ful and multiply and be joyous and healthy," message, which was God’s first command to man. This embedded Logos-word "Felix" absolutely identifies the white-haired old king on horseback as God. There is a exoteric message (die) and an esoteric (live); here, perhaps, the goats-sheep division mentioned by Jesus. This happens to be the entire issue at Judgment Day: death to the evil ones; life to the flock of Christ. Am I to presume that there in fact exists on Earth actual persons who, via the Holy Spirit, receive the "live" message coveredover in this section, and if this is so, there must be countless other written materials presented which carry to them a covered-over message, similar to this at least in method of presentation, that is, stegano¬ graphic material for them alone, quite possibly absolutely opposite to the exoteric material. Then there must be, logically, a remnant or minority of God here capable of so reading, because it is not reasonable for the Logos to put forth this covered-over esoteric message if no living man can perceive it (i.e. uncover it and blur out the surface "die" message which is directed at the others, the evil ones). I can reach no other conclusion, and this relates back to the girl with the golden fish necklace and my later sense of a small body of secret (sic!) Christians at work. Is there indeed an active secret authentic Christian underground? When I saw all this in TEARS I hadn't read the ICC literature telling about steganographia yet. I must never allow myself to wonder at the real meaning of the dream in TEARS per se, because the real meaning is not in the dream (although there is some kind of meaning to it; it refers to something actual) but in the embedded single Logos-word, "Felix." It points to the Biblical nature of the dream (i.e. from the Book of Daniel and of Revelation). I just read somewhere that all apocalyptic literature (of which only 2 books are retained in the Bible, of many) tell of Christ returning as a king on horseback with other horsemen, other Christian soldiers. I wrote an apocalyptic piece, with the essential covered-over message associated with apocalyptic writing. What is the message in toto? Just a repeat of the first command from God in Genesis? No, because this isn't God, this is Christ returned, the Second Coming. "Felix" versus "die" just points more clearly to the judgment, the separating of men into two groups, associated with, and essential to, the apocalypse. Well, if this be so, then if DEUS IRAE comes out next, which it may, the message is continued! It may have begun back in UBIK, then MAZE, FROLIX 8, TEARS and next DEUS IRAE. It is even possible that SCANNER carries some of it, for instance all that about St. Paul; seeing by reflection; why, the title itself, and how it is expressed in the final version, in the text itself! Even COUNTER-CLOCK WORLD could be included...a continual stream of messages, all to point out the approach of the Parousia, which evidently I see more and more clearly. And have seen, in book after book.
+
+Last edit almost 5 years ago by svayambhu108
+
+311
+```
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Genesis, Final, White
+
+---

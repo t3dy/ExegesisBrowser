@@ -1,0 +1,351 @@
+# Evidence Packet: Hermes
+
+- **Category**: Top Term
+- **Total Mentions**: 25
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 539-547 (Match: 'Hermes')
+**Folder**: Unknown
+
+```text
+It certainly shows that the alchemists were seeking a symbolic transmutation of psyche or maybe noös, not metal qua metal (which Jung and AMORC have pointed out). That something equal to turning lead to gold can happen in the person, in his mind -- this is certainly extraordinary, and makes the upfront alchemist's story (lead to gold) an allegory of man's progress spiritually (again the magic of the mystery religions). So in considering what happened, how it happened, who (if anyone) arranged it and what for, the alchemists and what they actually were up to must be considered. This could have been a spontaneous process in me, in which I obtained that very lead-to-gold transmutation sought for by the alchemists...that they sought this is certain; that they found it is speculation. I am sure many of them did undergo this crypte morphis, invisible to the outside. It is possible that I did it alone (the experimentation with the ortho molecular vitamins and so forth being my "alchemical experiments"), but it is also possible that a Redeemer caused it adventitiously (Gnosticism versus Neoplatonism). The spontaneousness of it would indicate that, like any true chemical reaction, it is not reversable. I think that the first dream being the baby's cereal box with the "the bichlorides are" etc on it indicates an external Grace assistance or intervention; I was and am being told by someone else...which the AI system of Albert Magnus maybe was. (The problem solving question answering head.)
+
+The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
+
+It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese States of America" dream is typical. I dreamed all manner of explicit alchemical symbols (the homonculus, the retorts interwoven...flask of Hermes, the fish, etc.), out of Jung's description of the self in the process of psychic integration experiencing noetically these prior consciously arrived at symbols (prior in terms of centuries -- thus his theory of the Collective Unconscious, that such symbols could arise in a modern man who did not know them, who had no way of knowing them -- like me with the Greek. But this
+
+Last edit over 2 years ago by ratatosk
+34
+Needs Review
+```
+**Co-occurrences**: Fish, Greek, Gnosticism, Wisdom, These, Plotinus, Maybe, Like, Mind, Could, Something, Again, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Many, Have, Absolute, Info, America, Magic, Dream, Someone
+
+---
+### Line 2514-2522 (Match: 'Hermes')
+**Folder**: Part of
+
+```text
+. . . The EB macro article on Christian mysticism says that it differs from all other mysticism in that the person seeks to do the will of the father, not just unify with him, know him, etc. I felt this re the Xerox letter: possession by the Spirit for an actual acted-out job or purpose, God using history, etc.
+
+. . . I want to repeat this: the information to me, which seeming to be the wrap-up, "Santa Sophia" etc., is the essence of the "Good News" of Christianity; it is all contained therein: we have a rightful King, he was "despised and rejected" before (and Crucified), but now he is coming back (i.e. born again on Earth), and it can be assume will rule (i.e. this time it will work out differently); this is nothing more or less than the Second Advent. It sums it all up for us. (This can't really refer to God's Wisdom being born in me again, because it was not ever there before, and certainly it would have been acceptable to me; this refers to human history.) I note that "not acceptable" is the whatever (opposite) of "rejected." Also, "Sophia" stresses which aspect of the Trinity will be stressed: Wisdom rather than power of love, which should I think be appropriate to a judge. In this connection I recall the sibyl (a woman) viewing the activities of evil men and certainly she is judging them as well as observing them; she is going to see that they are punished: she has witnessed their deeds. For her to witness is for her to deal our justice. In this role, again, she, the sibyl, is much like the Egyptian ma'at (recall! One dream of the sibyl showed her in Egyptian form! On the "boxing glove" extension, a little smiling head that peered down the front of the girl's blouse; a very important dream, tying the Sibyl indeed in with ma'at. Egypt to Crete to Greece to Rome.). (This tiny head extended -- how strange it was. Snake-like. And the snake is a wisdom symbol, also known to Delphi. I think now that these sibyl dreams indicate that the Day of Judgment has come or did come back around 3 74; I was seeing judgement by the judge, represented as female for several reasons (e.g. ma'at and Santa Sophia). What I got was a sign from the "Gods" that they had seen ("Surely heaven took note," etc.). Judgment was then executed. We have seen the results (the tyranny fell; the imperial empire has begun to fall).
+
+. . . Hermes Trismegistos (Thrice Great Thoth). "Thoth was the repository of all wisdom." The Hermetic writings: revealed (from Thoth). Part of the pre-Christiam mystery religions; their texts.
+
+Last edit over 5 years ago by Harpax
+189
+Needs Review
+```
+**Co-occurrences**: Christian, Spirit, Xerox, Rome, Christianity, Form, Sophia, King, Well, Empire, Wisdom, These, Advent, Father, Like, Fall, Because, Time, Earth, Harpax, Good, Hermetic, Just, Again, Being, Girl, Great, Gods, Sibyl, Santa, Nothing, Part, Their, More, Egypt, Heaven, Certainly, Love, Before, Greece, Santa Sophia, Macro, Will, Would, Other, Judge, Very, Back, Egyptian, Surely, Whatever, Have, Judgment, Justice, Information, Trinity, Evil, Human, Dream, Crete
+
+---
+### Line 4709-4717 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+39
+Needs Review
+39
+1) 3 Alchemy. I just happened (sic) to turn to the EB article. Whatever it was that happened to me in 3 74 That is why, what + how, the transformation cannot be understood without taking alchemy into acct. For instance, many of my dreams (visions contained al hemical material: "the bichlorides: a very poisonous poison." "Aspirin of mercury Albemuth." The flasks of Hermes, etc consisting of lambs. The EB article, to my delight + amazemet, gets into the I Chine; to apollonius of Tyana, Hermes Tristmegistor, thebes, + a 19th century dichemist lady saying "alcheny is the philosophy, leading to the Sophia of the mind." Mercury is a constant. Even colors are involved - + a transmutatio into the immortal (supernatural) life from this. I recall what Jung says about the alchemical formularies represent in interior (psychological) transformation, toward psychic integration + individuation. I will take a great leap: 1) A certain total transformation of a human bein from what he is (mundane, limited) into a divine immortal supernatural proto-entity is possible, if you know how. 2) certain esoteric religion. (E.g. Hermes Tristmegistos, etc) sought it, hiding their goals in obscuranism. 3) I accidently (sin) found it, in 3-74 In the EB article amore is mentioned. I have come full circle. Somebody besides me knows about all this, + always has. The link goes back to 300 be. (Hellenistic.) There is a long historical line back to 300 B.C. In 3-74 I joined some kind of invisible brotherhood, the true Xtian church - of, for a gurul II go out on another time: I am a reincarnation or avatar of some great human esoteric religious/alchemistic thinker: I i.e. bet the lithium + vitaming were instrumental
+
+Last edit almost 3 years ago by svayambhu108
+40
+Needs Review
+```
+**Co-occurrences**: Christian, Sophia, Time, Mind, Even, Just, Divine, Great, Without, Their, Jung, Church, Another, True, Will, Were, Very, Back, Whatever, Many, Have, Life, Human
+
+---
+### Line 4906-4914 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+14
+Needs Review
+14
+11 In other words, 3/20/74 was not an interruption of programming but more an intensification. A) is the “Hermes trismegistus” model; astral determinism interrupted by divine Grace.
+
+Let's assume B: intensification, not interruption. At least here we can absolutely for sure still speak of orthogonal interventive- it is just the “against what” that has changed. The greatest miracle of all took place in my life in 3-74: God intervened to save me. There can be no doubt that I was in the grip of the divine, + something dreadful was [arected?]. It acted for me, spoke for me. It extricated me. What else really matters? I am not anxious to prove this world evil, if it was an intensification (monotheism) rather than interception that is fine with me.
+
+What emerges most clearly is that God is guiding me through life, to + toward [final?] safety + that He loves me.
+```
+**Co-occurrences**: World, Just, Something, Divine, Grace, Still, More, Through, Most, Other, Clearly, Life, Evil, Final
+
+---
+### Line 5861-5869 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+14
+Needs Review
+14
+It designates two antagonistic parties: fallen angels + ther presumed unfallen opposites. In fact the virtual purpose of This world is revealed, or at least a major purpose. All the revelations fit into a coherent - + familiar - whole: a Zoro astrian, Gnostic system. p 7 footnate. The remarkable period following my being lifted out of the deterministic unwinding strip: I found myself. misphased so that (1) I reacted to events before they occured. (2) I reacted in a vacuum: to events which never occured - i.e. there was a breakdown between the unfolding strip world + my responses which revealed the unfolding strip world for what it was - which terrified me (I talked to kelly + accurately described myself as a "machine; showing I was aware of the totally mechanical - deterministic character of reality - a frightful discovery: I had been programmed into a Leibnitz monadic synchronization, like that of the pre-wound + set clocks. Is it possible (yes it is) that no true causal connection exists between external stimuli + our response, but, rather, a mere synchronized signalling, a cueing? all this is exactly what the mystery religions (e.g. worship of sarapis, of Hermes Tristmegistos, etc) + St. Paul taught: God lies above the astral/planetary influences realm (sublunar). For the quality of magnitude of the intervention to be appreciated the closed-system nature of this unfolding strup realm must be understood (which it is not). I might venture the concept that it is not an evil or deceptive system. but rather a structure, a cosmos. Interlinked + harmoniously interwoven - thus in a sense Spinoza is right (about miracles) nonetheless it is a pitiless system, machine-like, which is unthinking + uncaring: an artifact. Intervention such as I experienced is of the highest order, emanating from the highest + most humane places - if this unfolding strip is designated not as "bad" but as good but limited + limiting then it is less a clash but rather the artificer acting directly on an element or portion of the strip, as if to improve or repair it. not as efficient cause but (which aristotle denied) breaking through into directly.
+
+Last edit almost 3 years ago by svayambhu108
+15
+Needs Review
+```
+**Co-occurrences**: Gnostic, Paul, Spinoza, Like, World, Good, Realm, Reality, Being, Aristotle, Leibnitz, Through, Most, Nonetheless, Such, Before, True, Artifact, Evil, Right
+
+---
+### Line 6356-6364 (Match: 'Hermes')
+**Folder**: book came
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+
+26
+26) Zebra. Then, may act only intersessively - he is not Ho on but is the Intercessor. In that case he may not be The programmer - I may have erred; he may not be immanent deity + not normally here + he is not a reprogrammer but a guiding de programme: cf Gnosticism - the handshake, Christ come down here, the savior, to rescue. missing an important sequence: im ) remember the apostolic age - which means I have woken up to the true reality underlying the 1974 linear strip world. 2) I acquire the Thomas personality. 3) I see Zebra, et al (1) I see Zebra reweaving the 1974 dokos linear reality which I am still (now) lifted out of In other words I so to speak left the 1974 linear Dokos world + as I returned to it I found it being rewoven - I had lived through it once already. But this time there was the inter‐ vention of Thomas/Zebra. But before it was rewoven I was taken out of it + could see it like it was (stimuli + reflex - slavish or programmed cause - + - effect imprisoning - response). it was not so much the world (linear Dokos) being rewoven, but rather my response (to events in it). It was invaded + interfered with (v. the mystery religions, worship of Sarapis + Hermes Tristmogistos, etc. + Paul's view of God or Christ lifting us above the planetary - astral - powers). But what I hadn't realized (which is as important as it is hard to express) is that before the reweaving occured - re the Xerox letter - I had been given my memory + identity back, + was in the ancient orthogonal, apostolic matrix first. This is very significant. The assistance couldn't come for me, evidently, until I had rediscovered my "mystery religion" relationship with the savior. Remembrance of him had to come first, or rather be there first. That bond between me as worshiper + him as our leader - that had to be revealed or restored - whatever.
+
+Last edit almost 3 years ago by svayambhu108
+27
+Needs Review
+```
+**Co-occurrences**: Christ, Thomas, Zebra, Xerox, Paul, Gnosticism, Like, World, Only, Time, Savior, Could, Once, Reality, Being, Still, Dokos, Through, Before, True, Deity, Other, Very, Back, Whatever, Have, Memory, Remember, Evidently, Until
+
+---
+### Line 6414-6422 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+36
+3 The 2nd Advent completed his process of assimilating The world (which is what I saw him doing) all the generations since 70 AD have been repetitions of an archetypal population (cf the gene pool DNA memory coding studies) which cannot any more escape their roles which they occupied in 70 AD than they can - well, karmic burden is involved here. What they were then they have continued perpetually to be deterministically caught. However, in 1974 (as we reckon it) new orthogonal punch-through came, + changed things. My destiny, to fall victim to the Xerox missive again + again, in an almost eternally repeated mesent (cf "Tempunauts") was interrupted - invaded by assistance + the advocate, who woke me. I recalled it happening before, + destroying me. memory of it happening before would, alone, merely have told me I was doomed again; it wouldn't have informed ne - led me through the intricate escape maneuvers necessary. My situation in miniature reflected the miserable prison-like quality of our linear, unwinding strip, circling Advent I the way the persus a circled, with everyone repeat their dream (mutual dream) over + over, but with super ficial variations in appearance (linear strip accrual). It was because of this repetitious trapped quality of linear time (astral powers, or planetary, destiny, fate, etc) that Advent I took place - to break the "chaldean" astrological causal framework: v. God's grace, providence, v. Sarapis, Hermes Tristmo gistos, etc). This was the whole discovery of the mystery religions. 1) We are trapped, doomed to a repeated pattern, + 2) The deity - savior - can extricate us. No sense can be made out of ➁ (Salvation) unless ➀ is properly understood.
+
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+```
+**Co-occurrences**: Xerox, Well, However, Advent, Like, World, Since, Fall, Because, Prison, Time, Savior, Again, Missive, Xerox Missive, Fate, Grace, Their, More, Through, Before, Deity, Would, Were, Have, Things, Memory, Unless, Karmic, Dream, Salvation
+
+---
+### Line 7310-7318 (Match: 'Hermes')
+**Folder**: part contains
+
+```text
+Last edit almost 3 years ago by svayambhu108
+15
+Needs Review
+15
+18 the invisible landscape" - terrance L. + Dennis I McKenna. "+ the presence of an "alien insectoid entity which seemed to be an anthropologist from the future. 20th century history appeared as a frantic (although unconscious) effort to build a craft to escape Earth + return to Galactic center. is, the McKennas regard our universe as a hologram as created by the interaction of two hyper-universes, just an ordinary hologram is created by the interaction of two lasers. One consequence of this model is that, if our universe is a hologram, every part contains the information of the whole as in normal holography. (Leary's work suggests] that every atom contains the "brain" of the whole universe." ... this is also the basic axion of magic... stated in the table of Hermes in the famous sentence, "that which is above is in that which is below" ("the macrocosm is within the microcosm" "But the McKenna theory goes far beyond this. There are 64 time-scales in the hologram of our universe, they say, + each one is related to one of the 64 (845) hexagrams of the I Ching. What we call "mind" or "consciousness" is a standing wave form of these 64 time-systems. As the two hyper-universes making up the holo‐ gram of our known universe interact in time, mind; manifests further in our continuum. This means, in concrete terms that the quantum bonds of the DNA are evolving faster + faster. We are riding not one but 64 evolutionary waves all mounting toward a cosmic awakening something like the omega point suggested by Palaeontologist Teilhard de charding "the action of psychedelics, in the model, opens the quantum nformation system within the DNA to inspection by the higher neural centers. When Dr. John lilly says he has traveled in time with LSD, + then adds that this is "only" a metaphor, he is per haps too modest. If the McKennas are right in their basic theory, every psychedelic trip is literally a voyage through the Quantum information system at faster-than-light velocity; i.e. out side "time; in the local (Einsteinian) universe. "the McKennas have programmed a computer with their t 6 I Ching time systems + the answer is that everything goes Jackpot around AD 2012
+
+Last edit almost 3 years ago by svayambhu108
+
+16
+```
+**Co-occurrences**: Form, These, Like, Only, John, Time, Earth, Cosmic, Mind, Light, Just, Something, Teilhard, Although, Everything, Brain, Part, Their, Through, Universe, Ching, Beyond, Further, Have, Information, Magic, Right, Answer
+
+---
+### Line 7676-7684 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+41
+44 "Happy" (Felix) may be a cunning reference to Euripides the "Bacchae" in which the stranger (Dionysos in human form "punning on the refers to King Penthus as king "of Tears, Greek word for Tears: Pentheus. + the word "Tears" is in the title of my novel. The real message is that he whom Pindar called the joy God is here. It is a cypher within a cypher; "Felix" is not a name but a glossa meaning (among other good things) happy, but happy" is a cypher back to a name: i.e. name to word to name, + the final name underlying Felix is Dionysos. The deity who has inserted the message into "the inferior bulk" has identified himself. The total message from him is "I love you," but he has also elliptically told us who he is. He is the protector of little wild things, like cernunnos + Shiva, + it is Shiva who possesses the 3rd or ajna eye cernunnos = Shiva = Dionysos = Christ. The savior of the trapped, the desperate, the damned, the powerless the DNA in us programs us to die. It is this [form of determinism] once called "astral" or "planeary" fate that Sar-pis Christ, hermes Tristmogistos saves us from. I'm not sure how - but however it is done, this is what happened to me in 3-74, the "second birth" from above, by the spirit. Not only did I not physically die then (3-74) as programmed, but evidently I will in some actual real sense never die. The key to this is memory (+ hence true identity) restored; + 1) 2) Triumph over time. perhaps (2) is achieved by (1), since the restored memory seems to include the future as well as the past. Anyhow. We know ➀ who our savior is; + ➁ what he saves us from. The secret of physical immortality does not seem to involve an imperishable body but the ability to expand the ego-consciousness to merge with the gene pool knowledge + memory - which is immortal. Literally No wait - I don't think that's how the problem (of mortality, of being programmed by the DNA to die) is handled. I think rather than merging with the DNA
+
+Last edit almost 3 years ago by svayambhu108
+42
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Spirit, Form, King, Felix, Greek, Well, However, Dionysos, Perhaps, Like, Since, Only, Time, Savior, Good, Does, Anyhow, Once, Shiva, Being, Himself, Bacchae, Fate, Wait, Real, Secret, Love, True, Will, Deity, Other, Back, Things, Body, Pentheus, Memory, Knowledge, Human, Evidently, Final
+
+---
+### Line 7895-7903 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+76
+24 What initiated this transfer process is that sudden. very short but overwhelming return of memory ths if is, in the final analysis- memory of (3; hence the person suddenly knows about ➂ knows it is there - + knows ➁ therefore to be spurious. Now of he canonly get back to (... well, he has a guide + advocate. As a matter of fact, it was this advocate, comforter + guide who arranged the disinhibiting signal which caused the instant of anamnesis; the initiative is by God, + man responds Upon sketching the above schema, I can unerringly see the Xerox missive matter for what it was: it was the first step (part) of the damned, destructive, dooming, killing, falling Maze which the psychopomp led me through + out of - + then on to the beatific reunion with the father. Maneuvering me successfully out of the cul de sac re the yorox message - if I view him as psychopomp, as guide out of a state of dam‐ nation to grace, security - i.e. salvation - it started out as a very tangible salvation, + got better. But that is the name of the whole thing: Maze, doom, + then the psychopomp‐ Savior. As soon as the concept of psychopomp is introduced (as Vimic was to Dante) everything that happened is so easily understood + appreciated. + that which seemed so mystifying + complex is suddenly simple. Of course, one might immediately ask, "who was this psychopomp?? It was Christ (God) of course. What if this psychopomp were the Pantocrator? by the way - Shiva is a psychoromp: "herdoman of souls Hernies (MW 2) was a psychopompos. 8133 Hermes Tristmoges tos is thoth
+
+Last edit almost 3 years ago by svayambhu108
+77
+Needs Review
+```
+**Co-occurrences**: Christ, Xerox, Well, Maze, Father, Therefore, Savior, Shiva, Missive, Everything, Dante, Xerox Missive, Anamnesis, Grace, Part, Pantocrator, Through, Upon, Were, Very, Back, Memory, Suddenly, Comforter, Salvation, Final
+
+---
+### Line 8226-8234 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+125
+Needs Review
+125
+117 was a source for theoretically total reconstruction of The poems, however long I have repeatedly identified Christ not as an emissary of the urgrund or Godhead but (when incar‐ nated) as a microform of the [macro] total divine. This is how I personally comprehend him. But now, thinking about what Bruno taught (+: "...the religious perience of the Hermetic Gnostic consisted in reflecting the universe within his own mind or memory.. (he) believed that man's mens was in itself divine + there‐ fore able to reflect the divine mind behind the universe. In Bruno, the cultivation of world- reflecting Magic memory becomes the technigue for achieving the personality of a Magus... etc. "Magus," although meaning magician also may mean something akin to our word "scientist" as contrasted to "priest.") - Consider What is said about the Hermetic Gnostic (presumably of the ancient world: Hermes Tristigistos) - what is meant by "reflect"? Anyhow, putting this material about the Hermetics + Bruno together with my view of Christ, we are forced to conclude that Christ was successfully what the Hermetics + Bruno strove for, whether they realized it or not. Anamnesis Then is a containing of the totality of the urgrund, an analog, microformed, of everything in it. My guess is that it is the "magnetized iron oxide tape" sort of memory, a true capturing of what it remembers out of which that which is remembered can - in anam nesis- be said to exist or live [again] here, not there, small, not large
+
+Last edit almost 3 years ago by svayambhu108
+
+126
+```
+**Co-occurrences**: Christ, Gnostic, However, Godhead, World, Iron, Urgrund, Mind, Hermetic, Anyhow, Something, Again, Although, Everything, Divine, Anamnesis, Bruno, Consider, True, Macro, Universe, Have, Memory, Whether, Magic, Magus
+
+---
+### Line 8231-8239 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+126
+118 This is close to but not identical to the doctrine of the "divine spark" or "piece of the divine" within: This is the whole divine but - well, is it reduced in size? It's not a physical entity. There is my error in logic: I'm treating it as material, hence I speak of it as small. But my own experience in 3-74 - all the categories of time + space were abolished: I experienced huge spaces (the abyss?) + 1000s of years! By all means, that experience of vast extents of space + time Were the most startling aspect of it, the most awesome (except for the encounter with the Godhead itself, of o course) to reflect the divine mind behind the universe. In your own is mind/memory - I take this to mean that the "divine Mind behind the universe" was thereby "in" the person. I am now getting the material I've sought for for four years. "The religious experience of the Hermetic Gnostic." + I kept dreaming about mercury (i.e. Hermes in terms of Paracelsian alchemy + cosmogony). I offer the following proposition: that all adepts. be they authentic Christian, Hermetic, Orphic, alchemist tapped (i.e. became or became a part of) one specificn vast supramens, +, in it. There was an "inter penetration of [then] souls." + this mind extends over thousands of years, all of which is now - + all places are here (that's why I found myself in Rome cAD 70 + in Syria, + saw The Aphrodite, sland, etc.).
+
+Last edit almost 3 years ago by svayambhu108
+127
+Needs Review
+```
+**Co-occurrences**: Christian, Rome, Gnostic, Well, Godhead, Time, Mind, Hermetic, Orphic, Divine, Part, Most, Universe, Were, Memory, Aphrodite, Except, Syria
+
+---
+### Line 10060-10068 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Too dumb to know you don't look for God in the trash of the gutter (instead of Heaven).
+
+----------
+
+The proof that I've got it right on this yin - vs - yang world is the one about "once you are baptized the astrologers are wrong" - i.e that fact is Sarapis or Hermes Tristogistos or Christ frees you from "Astrology determinism" or fate - obviously the immutable cause - + - effect world of yin. Then diminishing + even abolishing the (power of the) yin world is the main route for salvation; I am aiding in this by denying its authenticity.
+
+It is possible, too, that, as in "Ubik," the yin world can't review itself - it takes the yang (Ubik) for that. Thus again it can be said that the yin world is lifeless.
+
+With ground (Form II) analyzed as yin world it was evident that, from an a priori reasoning, there would have to be an interventive yang doing the exact kind of recontouring or "melting" which I saw. So there is no doubt that stigmatizing ground as yin world has to be accurate. + the presence of Zebra would follow of necessity; the yin world would run down like a clock eventually because nothing new could come into it or arise from it. So the interventive presence of Zebra is not electric (there can be no yin without yang, for they are complimentary antitheses.
+```
+**Co-occurrences**: Christ, Ubik, Zebra, Form, Like, World, Because, Even, Yang, Could, Look, Once, Again, Obviously, Fate, Without, Nothing, Heaven, Ground, Would, Have, Instead, Electric, Salvation, Right
+
+---
+### Line 14344-14352 (Match: 'Hermes')
+**Folder**: folder 02
+
+```text
+Last edit over 4 years ago by Toso
+folder 02 - 077
+Complete
+folder 02 - 077
+The AI voice is the voice of the brain / Noos / living information which we have gotten cut off from by the sinking of this region of the brain into subsentience + hence illusory (simulated) world - where her voice is blotted out by the noise deliberately generated by the BIP (heavy metal particle). - Hermes Trismegistus: Mercury (Mercurius): my dreams: "bichlorides" + "Aspirin of Mercury."! - The 17th century R.C. writers believed that before the fall Adam had possessed wisdom _which_got_lost_, + it was their aim to retrieve it (pansophism), would this not fit in with Bruno's "magic memory" i.e. anamnesis? -- ____ From p. 82 + we were originally immortal, by living down through our descendents (+ back through our ancestors) - continuity of identity was maintained. The loss of this is a _main_ form of the forgetting. I regained it! ("Adam's sin brought _death_ into the world" the loss of memory of identity [Note] - Voice: The reason I have my agoraphobia is because of the way I died, in a cage in a Roman Collosium, I was _strangled_.
+
+[Note] I did not remember being Thomas - rather, he came back to life.
+
+Last edit over 9 years ago by Toso
+```
+**Co-occurrences**: Toso, Thomas, Complete, Form, Roman, Wisdom, World, Fall, Because, Noos, Folder, Adam, Being, Toso
+Folder, Anamnesis, Brain, Their, Bruno, Through, Living, Voice, Before, Would, Were, Back, Have, Life, Memory, Information, Remember, Magic
+
+---
+### Line 14539-14547 (Match: 'Hermes')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 013
+13
+
+E.B. on alchemy: "Some physicians + a few alchemists turned to the elixir of life as an objective." [This surely means "of eternal life."] "...Medical chemistry may have been conceived in Islam, but it was born in Europe. It only awaited christening by its great publicist, Paracelsus ... His pharmacy (against all views of the time) was to lead, by a devious path, to modern chemistry. "Most famous was ... Nicolas Flamel who dreamed of an occult book, subsequently found it, + succeeded in deciphering it with the aid of a learned Jewish scholar learned in the mystic Hebrew Kabbala. "...Emerald tablet of Hermes Trismegistos, which begins, 'that which is above is like to that which is below, + that which is below is like that which is above'". Thus began the macro-microcosm worldview. {Note} Elixir of life: "thought to cure illnesses, prolong life, + bring about spiritual revitalization."
+
+{Note:} Actually the book was by Appolonius of Tyana ___ What I am developing here, regarding Paracelsus, is this: he was a foremost alchemist but he was no fraud; he was one of the great physicians of history, + fundamental to chemistry + esp chemotherapy. The E.B. speaks of him having -not claiming to have but having- paranormal powers. The Hermetic macro-microcosm cosmology (which shows up in "Ubik" + in 3-74) I have specifically located in time + space as that of Paracelsus + Bruno et al. It is not from the ancient world but from the Renaissance. P. was the first to use mercury medicinally, but he knew it was a "very poisonous poison." His natural tongue was German (when I'm abruptly awakened or
+
+Last edit about 7 years ago by Toso
+```
+**Co-occurrences**: Ubik, Toso, Indexed, Like, World, Only, Time, Folder, Book, Hermetic, Hebrew, Great, Jewish, Indexed
+Folder, Paracelsus, Bruno, Most, Actually, Macro, Very, Surely, Have, Life, German, Having
+
+---
+### Line 14549-14557 (Match: 'Hermes')
+**Folder**: Folder 03
+
+```text
+Indexed
+Folder 03 - 014
+14
+
+under sharp stress I revert to Low German. He was tricked into doing something (by his enemies) which led to job-dismissal + arrest, + he died under mysterious circumstances in his late forties. Most of all, high-order alchemists such as himself were searching for the secret of life. Would they not be the most likely group (outside the original Xtians) to find immortality? I think P. found it, + my two mercury dreams -mercury as medicine- point precisely to P. - + since he was tricked into doing something that got him arrested, he'd be on guard for such a trap again (i.e. the Xerox Missive of 3-74). He died mysteriously at 48, + I was about to die c. that age myself. P. was a notable -a Great- physician, + much of what Thomas did was healing + showed so much medical knowledge that I once thought Thomas was Luke. I was looking for a physician. What I theorize is this: 1) Thomas is Paracelsus. 2) He was prepared to deal with the Xerox missive trap due to the trap he experienced. 3) My sense in my forties that death was close to me was due to P's death. 4) My macro-microcosm cosmology in "Ubik" + other themes in my writing (e.g. acosmic Gnosticism) emanated from P inside me. 5) P. solved the problem posed by death through recovery of the original Xtian "lost" oral Gnosis + he got this from a first century Xtian still alive in P's time, perhaps using a human host as P uses me (P. may have been the host, which would explain his paranormal powers). 6) This implies a continual existence of Thomas through P., e.g. + now to me. Appolonius of Tyana may be involved (Hermes Thristmegistos).
+
+Last edit about 7 years ago by Toso
+Folder 03 - 015
+Indexed
+```
+**Co-occurrences**: Christian, Ubik, Toso, Thomas, Indexed, Xerox, Gnosticism, Perhaps, Since, Gnosis, Time, Folder, Something, Once, Again, Luke, Missive, Xerox Missive, Toso
+Folder, Himself, Great, Indexed
+Folder, Still, Paracelsus, Through, Most, Such, Secret, Death, Macro, Would, Other, Were, Under, Have, Life, German, Knowledge, Human
+
+---
+### Line 14816-14824 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+Indexed
+Folder 03 - 047
+53
+
+cosm is the macrocosm contracted, + the macrocosm is the microcosm expanded to fill the infinitude of P.'s inner space. The person is not-himself but is the immortal man who is everyone, everywhere + every place. Purpose, mind (thought) + growth + life are everything, + this is something he cannot step outside of: the macro-will is inside him as well as outside him; inside + outside are the same, just as the little (man) + the large (cosmos) are the same. Thus says Hermes Tristmegistos; thus says the voice of our God. That we should know all this is in itself part of the unfolding plan. What I know now I have always known. What I am now I have always been + will always be. I had just fallen asleep for a little while, + was reawakened, + after a time remembered, +, because of this, am happy + free. "This is the hour you've waited for." + "The head Apollo is about to return." The 4th Eclogue of Virgil which I came across years ago + have forgotten: "At last the final time announced by the Sibyl will arrive: The procession of ages turns to its origin. The Virgin returns + Saturn reigns as before; A new race from heaven on high descends. Goddess of birth, smile on the new-born baby, In whose time the iron prison will fall to ruin + a Golden race arises everywhere. Apollo, the rightful King, is restored!
+
+Two points. Apollo as rightful king - his return is referred to. + - these are the very symbols by with the early 17th century RC brothers referred to the age of Pan-Sophiasm which they wished to usher in. The Sibyl {...} the Virgin {...}
+
+Last edit over 7 years ago by Toso
+```
+**Co-occurrences**: Toso, Indexed, King, Well, Golden, These, Fall, Because, Iron, Prison, Time, After, Folder, Mind, Just, Something, Everything, Himself, Apollo, Sibyl, Indexed
+Folder, Part, Heaven, Voice, Before, Macro, Will, Very, Have, Life, Iron Prison, Free, Final
+
+---
+### Line 15927-15935 (Match: 'Hermes')
+**Folder**: folder 22
+
+```text
+Information (processing, knowing, posession)
+
+The (1) can draw on any + all of its human pluriforms at any time + any place. To be incorporated into it means immortality, but this consideration is subsumed vis-a-vis its participation in the mediating Logos which cross bonds the accretional Micromind to the eternal, stable Macromind.
+
+Yes - the "accretional human Noos which is transpersonal, (1) a homoplasmate, + can draw on + incorporate any human it wishes, is the holy spirit. I have rediscovered - + redefined - the Trinity (Hermes Tristmegistos).
+
+(1) + transtemporal + -spacial
+
+In a certain real sense the Holy Spirit is the workhorse as far as we are concerned. Christ, who i sunder a mandate of authority from the Father, designates for the Holy Spirit which of us is to be added to the supratemporal, -plasmal, -spacial mind + thus brought to Christ + hence delivered to the Father. We encounter this actually unitary Godhead via the Holy Spirit, but it is Christ who is speaking. The Holy Spirit, knowing everthing, including the Father, crossbonds with us in Love, based on the wise decision of the Logos, the power to do this coming from the Father. What must never be lost sight of is that it is the Logos who judges who is to be crossbonded to/by the Holy Spirit. Power drives wisdom which drives Love, + we are the recipients of this process of accretion; we are restored to the
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Holy Spirit, Wisdom, Godhead, Father, Time, Noos, Mind, Real, Actually, Love, Have, Information, Wise, Trinity, Cross, Human
+
+---
+### Line 16596-16604 (Match: 'Hermes')
+**Folder**: part of
+
+```text
+folder 20 - 031
+30
+
+God; they are the Light God in pluriform, his way of invading the lower realm in disguise. The Light God (the divine) has now crucially occupied critical stations in the sinking lower realm, + begins to re-annex it back into the totality composed of both realms. The sinking ceases; the Master Magician is stripped of his autonomy + assimilated to the Yang part of the Godhead as its passive counterpart, + once more there is one macrocosm ruled by the Yang or active (creative) Light God assisted by the now receptive Yin (dark) side. The divine has triumphed at all levels; the prison is burst, + the vast, light-filled Garden Kingdom restored as the home of all creatures. These now whole creatures, composed equally of Yin + Yang, are what I term homoplasmates: the Yin part is homo (as we know ourselves to be now, only) + the light or Yang part is the plasmate or energy part (vs the physical). Thus renewed + complete microcosms mirroring the renewed + complete macrocosm are achieved. Reality is imparted to the otherwise irreal lower realm + the upper realm now extends physically - into the realm of matter. The integrity of the Godhead is restored; its two halves function in harmony; + the primordial split (or crisis) is healed. This is a view compounded of Zoroastrianism, Brahmanism, Gnosticism, Taoism, the macro-microcosm of Hermes Tristmigistus + other mystery religions, + not very much of orthodox Xtianity. Xtianity can be added if the pluriform microsparks of light are considered plural saviors or Christs comprising a single mystical corpus which is distributed widely in the dark realm but possessing only one psyche which is somehow also God, the Yang or Light God.
+
+Last edit over 8 years ago by Toso
+folder 20 - 032
+Indexed
+```
+**Co-occurrences**: Christ, Toso, Indexed, Complete, Christianity, Kingdom, Gnosticism, These, Godhead, Prison, Only, Folder, Garden, Light, Yang, Once, Taoism, Realm, Both, Reality, Divine, Toso
+Folder, Corpus, Part, More, Brahmanism, Zoroastrianism, Macro, Other, Somehow, Very, Back, Dark, Upper, Otherwise, Lower
+
+---
+### Line 17285-17293 (Match: 'Hermes')
+**Folder**: part book
+
+```text
+Indexed
+folder 21 - 054
+52
+
+3) the redeemed (restored) state of man - in contrast to the occluded state (described in "Scanner"). It could take the rest of my life to do it. I don't know if I can. It must be divided into two parts: 1) unredeemed [+ then the entity which redeems + the process]; + 2) the redeemed state. Like the "Siddhartha" 2-part book I dreamed about. Restored man - the Christ-man. The 2nd Adam. What a responsibility - what a task. But it must be done. + it must - like the "Siddhartha" book, point to the 5th savior whose coming is imminent. ___ The determinist programming which Zebra broke in me (by entering me), + outside (by "melting" causal chains) is breaking the power of the creator (+ the archons, to use Gnostic language) over me. So when I encountered Zebra I encountered the savior / messenger + am assured that I will reascend to my home the Pleroma when I die. But also I am told that "he is about to return; this is the time you've waited for"; so he (i.e. what I call Zebra) will incarnate + hence be visible + audible to mankind. But I have met him already, + he saved me, in the exact way Paul + Hermes Trismegistos + the Gnostics depict. ___ The Rhipidon society means: very early fish society - i.e. the secret early "fish" Xtians. The message of this dream, then, is an important one: a secret true-Xtian society does exist, as I suspected, + probably the
+
+Last edit about 8 years ago by Toso
+folder 21 - 055
+Indexed
+```
+**Co-occurrences**: Christ, Christian, Toso, Indexed, Zebra, Gnostic, Paul, Fish, Scanner, Like, Time, Folder, Savior, Book, Could, Does, Adam, Siddhartha, Toso
+Folder, Probably, Indexed
+Folder, Creator, Part, Secret, True, Messenger, Will, Very, Have, Life, Dream, Pleroma
+
+---

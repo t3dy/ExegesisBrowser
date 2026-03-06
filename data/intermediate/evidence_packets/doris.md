@@ -1,0 +1,347 @@
+# Evidence Packet: Doris
+
+- **Category**: Top Term
+- **Total Mentions**: 43
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 990-998 (Match: 'Doris')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+
+66
+The band of darkness which I and Laura saw passing across the sky on Good Friday, during the 3 hour period in which Christ is dead - i.e. in the tomb. It was real; we both saw it, and felt the powerful wind. But maybe it meant more that I realized; vide the "Decoded N.T." where they speak of Jesus crying out, "Eli, Eli," meaning "My power, my power" has gone because the sun has gone down (out). This darkness described in the Bible, and referred to in the "Decoded" is what Laura and I saw; what did it mean? That He was dead. That the light was gone. Now, take Doris' notion that maybe a time dysfunction had taken place that day; suddenly (the day of the Crucifixion) suddenly it was sundown and suddenly (way ahead of schedule) He was dead. There was a connection. I knew, when I saw that band of darkness travelling across the sky, that it was related to his death; this fits in perfectly with the "Decoded" theory that He got his power from the sun. What, then, in view of what the "Decoded" as well as the time dysfunction theory -- what did I see what what did it mean? No universe at all? Night had taken place at midday, exactly as on the day of the Crucifixion? I really saw night happen at midday...so, logically, there could be the opposite: light (and hence Christ's source of power, and Christ alive) during our regular darkness, at night...would this, then, be another mirror-opposite time dysfunction? If/when this happens? Christ never dead or gone or in the thrall (bonds) of death, in the tomb? When He is risen for us all? No "band of darkness" even when there is no sun...because Laura and I saw this while the sun shone (early afternoon, on a cloudless day).
+
+Not the physical sun that day had done out (had it, as in an eclipse, I wouldn't have been anything), but the other sun, the Sun of Righteousness, without realizing it. That is why I saw "Palmer Eldritch" in the sun, even thought I was afraid (Palmer means pilgrim to the Holy Land, which I didn't know. Palm leaves, Santa Sofia, etc).
+
+But more: what Laura and I saw must have been what Jesus himself, on the cross, saw: the Other Sun had gone out (time dysfunction). We saw what we saw. And He died, because of that darkness. When Laura and I saw that certainly not Laura and not me either could have understood the significance of what we saw; I mean, this is not faked, because for us to see that rushing band of darkness, and lacking on back our parts the highly sophisticated knowledge I now have, we did not see it because we "expected" to see it. That was around 1962. It has taken 13 or so years for me to understand what that meant, which certifies to the genuineness of the experience. Then indeed, as related in the Bible, the sun did go out that day on Calvery. The sun went out. Then, as in 1962. This proves the connection between Christ or anyhow Christ's power or origin and the sun, as stated in the "Decoded." I am witness to what must consist of a valid (scientifically valid) proof of this. And, just as Isa had the book dream and healing dream here, Laura was witness with me then. In each case a daughter of mine was witness, without comprehension ("a little child shall lead them," because it can't fake it).
+```
+**Co-occurrences**: Christ, Holy, Jesus, Well, Bible, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Certainly, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+
+---
+### Line 1012-1020 (Match: 'Doris')
+**Folder**: part of
+
+```text
+Needs Review
+68
+The conduit is the optic nerve, the eye the receptor percept organs, but the message is to the pineal body, not the brain. Generally, photon light messages travel to brain-reception; but as the Psy Today article shows, some are "intended" for the pineal body (springtime).
+
+One could speculate that this is the purpose of human beings: Why We Are Here -- to serve as the recipient "female" "mothers" for the implantations of the solar spermatika, the divine seeds. Curiously, this would bear on Doris' point about the item in Catholic Agitator that Jesus' healing activities were not only primary, it was that which most crucially angered the Romans. I asked her, "Why the hell would healing these bodies for us be a primary act on His part, especially since these bodies will die anyhow; they're healed, but they aren't made into anything but what they are, i.e. they aren't immortal." Well, if these bodies are to serve as the "wombs" for the solar spermatika, then healing such a body would be "pre natal care," and certainly logically crucial. Doris and I both agreed that even without knowing precisely why healing these bodies was primary it did show that there was some vast importance to our physical lives here. Healing us would be a logical continuation of creating us in physical form in the first place; it is a stage, but now I am thinking that it is a "launch stage," a platform --I hate to say host situation, and "host" isn't right because the divine seed and the human "mother" bond into a duplex entity which is not in accord with the meaning of "host." (A baby is not a parasite in the strict sense, only when one views it in a value sense; in which case all children are parasites to their parents, and anyone in need is a parasite on the rich, etc.) (And the sick to the healthy; any outstretched hand...which brings us back to Gospel symbolism.) God is the Father; the select mortal (human) male or female is the mother, into whose spirit the seed is placed; but the human (or so Christ assured us) has plenty to gain: she/he/it isn't discarded as the seed grows, because it is a Light Body which involves eternally the human mother. Carrying "her" with it when the rotting fruit decays (dies). This is the only way our physical body can become a fruit containing a seed; otherwise it is only a flower: pretty, but temporary, ephemeral. It does not give birth (except to other ephemeral flowers, a procession of them), missing their true purpose.
+
+It doesn't seem to me that it's just speculation that it was my pineal gland to which the primary message went, and which was primarily stimulated; because: (one) the dreams of three eyed people, with the third eye being the Hindu 3rd all seeing eye of enlightenment dead-center in the forehead. And (two) the pineal gland is affected by light, according to Psy Today, in early springtime, at the vernal equinox or just before...probably it can be computed at the precise time (March 18) (1974) that I experiences the chromatic progressions. However, this still leaves the issue of, Where did all the information (e.g. written) come from? Disinhibited (i.e. this was all engrammed inside, in my entelechy, but held back, blocked by the melatonia, the GABA fluid, etc? Just in there waiting? Or did it enter me along with the seed? (Pre-natal instructions! No wonder I felt myself to be under the guidance of Asklepios -- and dreamed of doctors! And got primarily medial/healing advice, which goes with what Christ himself offered, for the same reason
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Certainly, Before, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Information, Except, Dead, Today, Otherwise, Human, Doesn, Right
+
+---
+### Line 1049-1057 (Match: 'Doris')
+**Folder**: part of
+
+```text
+You are to be "meek," i.e. Yinnish, humble, receptive, but what overpowers you (the father!) is fierce, like Elijah, seeking justice and truth, powerful, definitely Yanglish, and the not-you. Just the opposite. Possession by the God (vide Virgil describing Appollo taking over the Sibyl. You may be masculine to other humans, but to Him you are feminine, passive. Now, the Mynaeds of Dionysos did not seem to believe (read know) that a permanent fertilization, acquisition took place, but the Orphics certainly did; here lies a vast distinction! The being-overpowered leaves something forever, but after the beatific vision, the Firebright Second Birth, what is born, lives on, eternally. What a jump from the mere Dionysian frenzy to Orphism and beyond, to Christianity! What a realization of the value of being possessed!
+
+This borders on the Sufi: becoming God. One does "become" God while he possesses you, but then he leaves. But -- well, it's like poor Leda. Vide Yeat's poem. But look at the progeny: Helen of Troy.
+
+Well, I have certainly (through Doris' help) made a distinction
+
+Last edit over 5 years ago by Harpax
+72
+Needs Review
+```
+**Co-occurrences**: Christianity, Well, Dionysos, Elijah, Father, Like, Harpax, After, Firebright, Does, Just, Something, Look, Being, Orphic, Sibyl, Through, Orphism, Certainly, Other, Beyond, Have, Justice, Truth
+
+---
+### Line 1055-1063 (Match: 'Doris')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+72
+Needs Review
+72
+between two opposite sequential states; my experience began when I was "listening for very weak signals to transduce," which was meekness (I got it right, picked up paw talk, etc), and then came the chromatic fire. That was when I received God or God's Power or Spirit, the Yang upon me-as-Yin. Possession of me by the God took place, as Ted Sturgeon says in VENUS PLUS X or whatever, this being what was really sought at the Feast of Agape. No wonder they say, as Doris points our, God is love! Wow, He sure is! It is a (ahem) mating (again vide Yeat's poem "Leda and the Swan.") But that was one year ago -- over a year ago. Actual possession lasted days, weeks, slowly drained off; no more than a couple weeks, the electrostatic life form gradually drained off. But Firebright remained; the dreams remain right up to now; contact (Fellowship) with God remains.
+
+Spring is the mating season. As Psy Today says, it's based all the way up to cosmic influences (sidereal). All synchronized.
+
+By following all the admonitions of the Gospels, one literally courted the great masculine Father deity so that he literally possessed the Christian. From this (receiving the Holy Spirit, as they put it euph[e]mistically) they got various powers: healing, prophecy, ability to discern, and were made Righteous, which I experienced as a thirst for Truth and Justice and going the right thing. "Gifts of the Spirit," yes, but those who were possesses were also the "First fruits of the harvest," which meant that they gained something permanent; this would correspond with my being back in Rome; i.e. escaping the thrall producing death -- hence, freedom, release, from the power of death. Certainly, of all the various gifts, this would matter the most. I myself experienced reality on an inner ontological basis (assimilating objects themselves rather than mere phenomena), saw the structure of the universe (Logos or Plan), have and still retain fellowship --contact-- with God, which is to say, knowledge of him. I didn't just get the power to heal; I was healed. I walked with God and communed with him (along the alley that day, also in trances and dreams). I knew the true state of things (the tyranny) and what to do. But to dream of Crete or dream of Rome is a lot difference than that perios when I was there; when for me time was abolished. This is what I mean when I say, The power of the world over me was broken. It got that cardboard fake quality. Now it is clear about the Father-Son (JHWH-Christ) relatinship (Zeus-Zagreus). The Holy Spirit, a form God the Father takes, impregnates (the person receives it) and Christ consciousness is born (in Mary's case, Jesus Christ physically born from her womb, she being made with child by the Holy Spirit). Out of this union comes Christ. The father is God. The impregnating spirit is the Holy Spirit. (Does Christ grow up to be Jehovah? Why hasn't anyone ever asked that before? Or like him? I think he can be like him or even be him.) Where is the Logos in all this? The outcome of possession by the deity is Logos relatedness, in the sense Hericlitus meant. One (the receiving one) is brought into conformity with it, while the Christ within, Firebright, grows. The former mere moral human, full of sin (sickness and insanity) is consumed by the growing Christ, moves toward him, toward the Logos, with it as exemplar and outcome: as perfected form. The Logos is the plan and information which leads to that completion, a process begun by the Holy Spirit initially.
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World, Time, Harpax, Cosmic, Even, Gospel, Yang, Firebright, Does, Just, Something, Again, Reality, Zagreus, Being, Jesus Christ, Great, Those, Still, More, Zeus, Most, Upon, Certainly, Love, Before, True, Death, Universe, Deity, Would, Were, Very, Back, Whatever, Have, Things, Life, Justice, Spring, Fake, Information, Freedom, Days, Sturgeon, Knowledge, Truth, Today, Human, Dream, Crete, Right, Mary
+
+---
+### Line 2643-2651 (Match: 'Doris')
+**Folder**: part of
+
+```text
+Needs Review
+202
+September 17, 1975
+
+Dear Doris,
+
+When I last saw you I mentioned that I had been reading the apocryphal book, "The Wisdom of Solomon" and was very impressed by it. As you probably know, our church recommends we read these books now. "The Wisdom of Solomon" was written in the first century B.C. and was part of the Septuagint, which was cited in the New Testament as the holy scriptures which the early Christians used; thus, to them, "The Wisdom of Solomon" was as sacred as any book of the Hebrew Scriptures.
+
+These are the parts I wanted to quote to you, taken from here and there. They impressed me very much. You might note that they probably influenced the early Christian concept of immortality, which really is lacking in the Hebrew Scriptures.
+```
+**Co-occurrences**: Christian, Holy, Wisdom, These, Book, Hebrew, Probably, Part, Church, Very, Testament, Sacred
+
+---
+### Line 2669-2677 (Match: 'Doris')
+**Folder**: book in
+
+```text
+Well, dear, I hope you get some comfort from what I've quoted. I have been reading the "Wisdom of Solomon" again and again, and getting a lot out of it. The Britannica says that it is an unusual book in that it presents wisdom as personified, i.e. as Lady Wisdom. It is obvious, from a reading of the book, that Philo was right to connect her/it/him with the Logos, but how interesting to think that the Logos may have come down to us originially in feminine form: The use of the word "she" is not merely grammatical, but actual. The author of the book says:
+
+". . .For in wisdom there is a spirit intelligent and holy, unique in its kind yet made up of many parts, subtle, free-moving, lucid, spotless, clear, invulnerable, loving what is good, eager, unhindered, beneficent, kindly towards men, steadfast, unerring, untouched by care, all-powerful, all-surveying, and permeating all intelligent, pure and delicate spirits. For wisdom moves more easily than motion itself, she pervades and permeates all things because she is so pure. Like a fine mist she rises from the power of God, a pure effluence from the glory of the Almighty; so nothing defiled can enter her by stealth. She is the brightness that streams from everlasting light, the flawless mirror of the active power of God and the image of his goodness. She is but one, yet can do everything; herself unchanging, she makes all things new; age after age she enters into holy souls, and makes them God's friends and prophets, for nothing is acceptable to God but the man who makes his home with wisdom. . ."
+
+Isn't this beautiful, this description. And she is alive, the Logos, our Savior. Expressed here in the first complete form, before Christ. I am sure, Doris, that she is the active spirit which came to me last
+
+Last edit over 5 years ago by Harpax
+204
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Complete, Form, Well, Wisdom, Like, Because, Harpax, After, Savior, Good, Book, Light, Philo, Again, Everything, Nothing, More, Before, Many, Have, Things, Free, Right
+
+---
+### Line 2685-2693 (Match: 'Doris')
+**Folder**: book in
+
+```text
+I think --I have faith-- that this is the experience I had back in March of 1974, lasting all the way to March of 1975, which is Passover to Passover, the vernal equinox. It was one full year of Spring, living within Christ for me, or within Haggia Sophia, Holy Wisdom, or the Logos.
+
+For my new novel I'm working on, I've done a year and a half of hard long research, notes and thought, but what I've put down in this letter is the best of it all. This Earth, this planet, is protected by a spirit which is the first-born and most beloved of God, and He or She or It is always surrounding us, even though we can't discern this. I want to write about this in my novel, the world itself secretly brought to salvation, to deliverance from the evil which has held it, by a process much like or even exactly like transubstantiation. This is the secret I thought I would reveal, but I find that Father Teilhard de Chardin has already done it; Christ is the mystic body into which our world is turning, like the wafer and wine, with the outer form (the accidents) unchanged. The true essence, the ontology, of our world is turning from evil; God, like some great holy alchemist, is transmuting out of sickness and evil and pain and frustration a new world for us, even though outwardly it doesn't show. Individually, it is a healing. . .even though it may not show. On a world basis, it is the Kingdom, which we all will enter, someday.
+
+Love to you, Doris, and God be with you, dear.
+
+Last edit over 5 years ago by Harpax
+205
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Form, Sophia, Kingdom, Wisdom, Father, Like, World, Earth, Harpax, Faith, Holy Wisdom, Even, Teilhard, March, Great, Most, Living, Secret, Love, True, Will, Would, Back, Have, Body, Spring, Evil, Passover, Salvation, Chardin, Doesn
+
+---
+### Line 3255-3263 (Match: 'Doris')
+**Folder**: book by
+
+```text
+-12-
+
+Also, he was raring to go; he just kept on truckin’, as if his wheels were still turning from the spin out on them in his own time. He certainly hadn’t been anywhere in the meanwhile! (I.e. he came directly from Rome right to here.) That shows you where we go when we die: again the JW are correct, we're asleep until awakened on —yeep— judgment day, as evidently he was, and again we're back to the Parousia; he certainly hadn't lived an interem existence, in Heaven or anywhere else. And — he correctly apprise the situation, here, as the final battle: the situation and the enemy (the twin prongs of Rome, US and Soviet). Bewildered as he was he knew what was expected of him; the situation which greeted him was exactly the one he had prepared for & anticipated. No, there was no short km circuit; nothing which he expected had gone wrong or failed to materialize. It all took place according to their original plan. His feet were moving before he touched group. He was thrown right into the battle. Well, people such as him were/are the first-line troops at Armeggedon. The commanders or officers, as it were. They would be the ones who would understand the situation; I certainly didn't until I assimilated it from his mind. (Test: show in what ways the situation here in 94 would differ from what he expected. Answer: in no ways.)
+
+Like Doris says, "How could anyone miss seeing the Parousia when it comes?" but the first main event is the overthrow of the beast (the Antichrist), and if people don't/didn't see the beast qua beast anyhow, but voted it into office with the biggest mandate in history, they might see it overthrown without attaching any religious or supernatural significance to its passing, especially if the foe of the beast, the champion of man, Christ, were invisible; they would see the effects but not the source or cause. This is a secular age. The atheists would deny it, and the fundamentalists who are the main body who're waiting think in concrete terms regard¬ ing apocalyptic literature and would expect true physical beasts with ten horns, etc., nothing being symbolic to them. If you strip away the lurid symbolism of Revelation and Daniel you get this: the modern analog or descendent or form of Rome, the despotic empire and tyranny, will be overthrown by the Cosmic Christ during a time of great tribula¬ tion generally, in terms of war and famine, etc. After that, things will get better, since the rightful King now rules. a tyrant and an empire get overthrown by mostly invisible heavenly powers, but how much overt epiphany would there be? Maybe the Cosmic Christ would manifest himself only to a faithful elect (ahem). Put another way, Only to those actually involved. (As few as necessary? Who sees the religious material in TEARS? to give a small example; even the author who had the dream didn't, not until his eyes were opened for him (we get back to the stripped-away theory of Calvin). They will see it only if their faculties are restored, maybe; and that may be a long, slow process lasting generations. The main thing is the event, whether or not seen, which means the end of the oppression (of true Christians especially), and that has indeed happened. I don't see any incarnations (into flesh) in the cards, then or now. After all, Tessa couldn't see the white light that signified the presence of the Angel of Death that night when it came to claim Pinky; his death a
+
+Last edit almost 5 years ago by svayambhu108
+254
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Rome, Form, King, Well, Empire, Parousia, Maybe, Like, Since, Only, Time, After, Cosmic, Mind, Cosmic Christ, Light, Even, Could, Pinky, Anyhow, Just, Soviet, Again, Being, Himself, Great, Daniel, Without, Tessa, Nothing, Those, Still, Their, Another, Heaven, Such, Actually, Certainly, Before, Revelation, True, Death, Will, Calvin, Would, Angel, Were, Back, Meanwhile, Things, Judgment, Body, Whether, During, Dream, Evidently, Final, Right, Answer, Until, White
+
+---
+### Line 7362-7370 (Match: 'Doris')
+**Folder**: book or
+
+```text
+Last edit almost 3 years ago by svayambhu108
+24
+Needs Review
+24
+24 since the Kingdom of God is I; it has always been here but effaced + occluded over by projections from II. the we seem to be in a situation where the more data we have less pattern can be discerned, which suggests the presence of disinformation (e.g. "I'm from the portuguese states of America." I could puzzle forever as to what that means; but it may (sic - not "does" but "may") signify nothing. I have the feeling that this is deliberate. The rock bottom bewildering puzzle is: 1) There is much undeserved suffering in the world. 2) There is an omniscient benign entity who can help (potentially) every living creature by informing it 3) But it doesn't (v. âž€). Why doesn't it? Why did it tell me about Chrissy's birth defect but not Doris' cancer? possibilities: A) Its power is limited. B) Its benignity is limited 2) its knowledge is limited D) 4th "Y" possibility, or a combination of the above E) theory: it doesn't want its adversary to know it's here, so it must disguise (randomize?) Its presence, including by giving out self-discrediting information; as if mimicking a hoax or fool or illusion etc. theory: my mystical sense that there is some kind of mystical F) Parousia of replacement by it of each suffering creature; that either it becomes the creature or the creature it; the distinction erased. It is always Christ who suffers, is humiliated + dies - + is resurrected, thus suffering is the road to re unification with the savior (the sacred brother or sister). knowledge of suffering is the ultimate knowledge: the mast valuable, the most cherished. At the center of it lie. The final mystery (secret disclosed): his presence outside (the not-I) + inside (the I). He is both cosmos (that which is perceived) + self (the observer) Tat tvam as the macro + micro are one: what is above is the same as what is below, etc. The sacred unity is revealed e
+
+Last edit almost 3 years ago by svayambhu108
+25
+Needs Review
+```
+**Co-occurrences**: Christ, Kingdom, Parousia, World, Since, Savior, Could, Does, Kingdom of God, Both, Self, Either, Chrissy, Nothing, More, Most, Living, Secret, Macro, Have, Information, America, Knowledge, Doesn, Final, Sacred
+
+---
+### Line 8388-8396 (Match: 'Doris')
+**Folder**: part after
+
+```text
+Last edit less than 20 seconds ago by Gabriel Mckee
+152
+Needs Review
+152
+193 The "suffering of the innocents" is to be understood like the political murders of the civil rights (religious) leaders by "the conspirators"; this is to be understood in the broad‐ est possible way - in terms of all deaths, disappointments + illnesses + injuries: we are not noticing. The frustration of human hopes especially is to be regarded as the imposition of oppression of a political sort by a cruel machine. What we encounter as actual political oppressive regimes are merely "copies" of the artifact's total (+ invisible) system which has enslaved us: the servant become master. But the advocate is here to free + defind us, which the apologists for the artifact den. If they believe this, they hobble their own defensive efforts, + act self-defeatingly. However, they weaken our will to resist ("balk"); by telling us we are at their mercy - i.e. without an advocate. It is a basic tenent of their ideology that those who resist are defenseless This system will not - + cannot - fulfill human legitimate aspirations. Only God can do this. Christ overcame this system (in sacred time) by his first incarnation; he set in motion the mid stage leading to the coming of the 2nd advocate who will be with us until the ParousiaPaul corjectly named death as the greatest + last enemy to be overcome. That means death (+ illness + injury) are not natural, except in the thralldom of this system. One can see the stiny of death in Doris' joyless life where misguided "Christian" duty uses her like a beast of burden - will use her until she wears out + dies, never enjoying herself. This is a total perversion of Christ's purpose; the artifact simply conquered the establishment churches. It afflicts us with gloom + dispair + a (correct) knowledge that there is no payoff for us in this life; in material external raum this is so, for the outer space is irreal. Joy lies inside us as we inwardly link up with God - +, externally, contact other liberated souls. The Archtyranny today is the CP - hence in 3-74 I was pitted against it, each of us an inplacable adversary of the other. The Joyful Dance vs stern law + the truth (word) vs the lie.
+
+Last edit almost 3 years ago by svayambhu108
+
+Part 1
+```
+**Co-occurrences**: Christ, Christian, However, Like, Only, Time, Gabriel, Mckee, Gabriel Mckee, Self, Without, Those, Part, Their, Death, Will, Other, Artifact, Life, Except, Knowledge, Truth, Today, Human, Free, Until, Sacred
+
+---
+### Line 9428-9436 (Match: 'Doris')
+**Folder**: book which
+
+```text
+Complete
+32
+in a sense, time as devoured Form II; it died somewhere along the line + leaves only an imprint of an empty shape. It is a hologram, but Form I is not a hologram or mere projected image. So the making is only partially right; or a sense our universe is a hologram, but ZEBRA (Form I, noös) is not. But ZEBRA is not part of our universe; it is an invader into it - which was my great insight 15 months ago. Authentic reality has breached through into our world - which signifies that the end times have come (maybe long ago) but the irreal, the hologram, effaces it from our perception. The true great revelation (Gnosis) is precisely this: that ZEBRA (Form I, the urgrund) has come already. Invisibly since I saw ZEBRA outside me, it cannot be the Holy Spirit. It is God (or Christ).
+
+The book which Doris has on the Gospel of John: "they will no longer see Christ externally, but he will indwell within them as the Holy Spirit." But ZEBRA was both in me + visible externally. Ergo, it is not the Holy Spirit. Ergo, the urgrund has irrupted into our mock world [..] battle with Form II the BIP template.
+
+The "St Sophia" revelation may be the decisive clue to whether ZEBRA is Christ or God. Christ incarnates: God does not. Could be the "Cosmic Christ."
+
+----------
+```
+**Co-occurrences**: Christ, Spirit, Holy, Zebra, Complete, Holy Spirit, Form, Sophia, Maybe, World, Since, Gnosis, Only, John, Time, Cosmic, Urgrund, Book, Cosmic Christ, Gospel, St Sophia, Could, Does, Both, Reality, Great, Part, Through, Revelation, True, Universe, Will, Have, Whether, Right
+
+---
+### Line 10288-10296 (Match: 'Doris')
+**Folder**: part of
+
+```text
+Complete
+94
+suspicions + a desire to know more.
+
+The nice part of this particular theory is that it explains "why me?". Why I was helped + not, say more deserved persons such as Doris. It wanted stuff in my writing. No God-theory would put such [emphasis] on this aspect + hence would leave the "why me?" question unanswered. "Tears" (so far) was the crucial piece, because it represented the last subliminal work - done prior to the 3-74 "theophany." This was synchronized with Valis' turning-point-in-history intervention; after "Tears" came out. VALIS could unveil itself to me with no risk that "Tears" publication would be aborted by the other side. It wouldn't matter if I talked (+ knew) then. The cat was out of the bag.
+
+Then I decypher the message in "Tears" as being from the people in the future - "It's been successfully done" - (either the word Felix + the acts material or + the dream...) it was not a command cypher but pure information. Like an ad inserted in the classifieds of a newspaper. "Ubik" (at best) would just signal VALIS' presence. Not it's success; therein we see the difference between the two books.
+
+So, then, what would this imply the Xerox missive to have been? A lethal spear cast at me in fury: a notice of my death, which VALIS deflected (probably by sending it back to where it came from). I don't want to sound ungrateful (which I'm not). But perhaps one motive for extricating me was because I could be of further use in subsequent writing. I mean, millions of people are/were in greater need + were/are more important than me. But I was serving as a very successful printout terminal for it, + it didn't want that wrecked. To communicate with its makers it has to keep those messages showing up in print, esp. in a form that'll survive (newspapers + TV are too ephimeral).
+```
+**Co-occurrences**: Valis, Tears, Acts, Ubik, Complete, Xerox, Form, Felix, Perhaps, Like, Because, After, Book, Could, Just, Being, Missive, Xerox Missive, Either, Probably, Those, Part, More, Such, Death, Would, Other, Were, Very, Back, Further, Have, Information, Greater, Dream
+
+---
+### Line 10465-10473 (Match: 'Doris')
+**Folder**: Book of
+
+```text
+Free from servitude, the person involved becomes a "random particle," like the variable man. The yin world can neither coerce him nor anticipate what he will do. A plurality of such liberated lifeforms would by the very existence disorient + impede - weaken - the BIP: [to] repeat: by their very existence, since (by balking) they have been able to void their preprogramming + no longer mesh with the totality. The BIP can to an even [deeper] extent foresee. To lose control is to lose predictability.
+
+Therefore without reference to any given act that merely by virtue of their existence they madden the BIP + those still unknowingly serving it. A lot of this took place in the U.S. in the sixties.
+
+But the ultimate goal is not merely to liberate evolved lifeforms from the power of the BIP. But to destroy the BIP utterly, thus freeing everyone. Those freed (i.e. saved) in advance of the BIPs destruction are the vanguard or "first fruits." They may be free (+ now operate in homeostasis) But the BIP will persecute them - but, [..] Book of Doris' says they will prosecute the BIP, put it on trial + condemn it, convict it of sin.
+
+But what is set (Zebra, yang) going to replace [..] the android, deterministic cosmos of yin with? Why with consciousness, voluntary affiliation + the participation in the Godhead (noös) at an isomorphic (poly [encyclopedic]) level. Meanwhile, Zebra has invaded the deterministic structure + is modulating causal trains so they will teach progressively + finally awaken us, Zebra will cook yin's system as long as that system exists - Zebra is transmuting it into the conscious + voluntary group mind I mention above: the Corpus Christi, with the [..] the Savior (God) wisely guiding it. In the disguise of the weak + the helpless, it is here, victimized until [..] into wakefulness - whereupon it becomes very dangerous to the yin structure which has caused it to "come to [..] self" - although perhaps a "yang" signal is essential.
+
+Last edit about 5 years ago by sekennedy62
+```
+**Co-occurrences**: Zebra, Perhaps, Godhead, Like, World, Since, Therefore, Savior, Mind, Book, Even, Yang, Christi, Although, Self, Corpus, Without, Those, Still, Their, Corpus Christi, Such, Finally, Will, Would, Very, Meanwhile, Have, Neither, Free, Until
+
+---
+### Line 12486-12494 (Match: 'Doris')
+**Folder**: part of
+
+```text
+No wonder the more $ I get the more morose I get. I enjoyed paying the IRS - shit! The BIP really has me by the balls.
+
+Finally I began to rebell vis-a-vis Nancy + her too obvious scam. The $4,000 to Laura had already strained my slavish credulity➀ to its breaking point. ➀To the BIP's warping messages.
+
+➁ + its about intoxication (Dionysos) the BIP gets to me through what passes as conscience, but is really guilt. Doris has cancer. Joan is going blind. Tessa + Nancy are poor. + I - I have a new car + $23,000! I deserve prison. (+ consider my poor Mother - let's not forget that.)
+
+Last edit over 4 years ago by sekennedy62
+73
+Complete
+```
+**Co-occurrences**: Complete, Dionysos, Prison, Tessa, More, Through, Laura, Mother, Consider, Finally, Have, Nancy
+
+---
+### Line 12492-12500 (Match: 'Doris')
+**Folder**: part of
+
+```text
+Last edit over 4 years ago by sekennedy62
+73
+Complete
+73
+Yes, the BIP has been getting "die" messages to me marked "conscience." Poor Nancy. Poor Tessa + Joan + Doris + Dorothy + et al. [..] +, worst of all, I don't have to work to get all this money.
+
+I'm a parasite, like the Russian Girl.
+
+Five years in a FLC. + I'd feel good, because it would ease my conscience. Masochism, pure + simple.
+```
+**Co-occurrences**: Complete, Like, Because, Good, Girl, Tessa, Would, Have, Nancy
+
+---
+### Line 15692-15700 (Match: 'Doris')
+**Folder**: folder 22
+
+```text
+37.
+
+I actually saw the Maze dissolve, + invaded from outside (the "next" world).
+
+Hypnapompic: Ascending stairs; Doris first, then me, ascending.
+
+Voice: "We're two of the main people in it" i.e. the ascending stairs.
+
+The way. (out of here).
+```
+**Co-occurrences**: Maze, World, Voice, Actually
+
+---
+### Line 15698-15706 (Match: 'Doris')
+**Folder**: folder 22
+
+```text
+Voice: "We're two of the main people in it" i.e. the ascending stairs.
+
+The way. (out of here).
+
+Doris has too many things to do here, so she turns back (to descend) but I didn't - I go on up.
+
+Hypnagogic: Doris + me with the 3-edged (thing, entity?) in the escalation.
+
+Then Dorothy + Lynda etc.
+```
+**Co-occurrences**: Voice, Back, Many, Things
+
+---
+### Line 15700-15708 (Match: 'Doris')
+**Folder**: folder 22
+
+```text
+The way. (out of here).
+
+Doris has too many things to do here, so she turns back (to descend) but I didn't - I go on up.
+
+Hypnagogic: Doris + me with the 3-edged (thing, entity?) in the escalation.
+
+Then Dorothy + Lynda etc.
+
+Feeling of worn thought: "a mortuary is a way of saying goodbye to a hospice."
+```
+**Co-occurrences**: Back, Many, Things
+
+---
+### Line 16209-16217 (Match: 'Doris')
+**Folder**: folder 22
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 22 - 102
+Needs Review
+folder 22 - 102
+98 a wholly different (higher) form of reasoning which is a discernment (supratemporal for one thing). Godly powers to draw on when needed I This is why I'm to keep secret the fact that "I'm an early Xtian." We are a they as to 2-3/74 I have never faced the implica tions vis-a-vis my own ontology. I have alway favored the "Rabbit in the trap" model - but the voice corrects me. The abolities (powers) which saved me were mine, my own These stairs appeared in the previous dream about me + Doris climbing (ascending) the stairs: "the way." The landing or top - getting up + off the stairs - is the goal; evolution of spiritual growth or ascention. The upper realm? in this new vision, collapsing stairs repre sents death (destruction), obviously along the ascent - which is transcended (by my powers, until then kept hidden) + a successful reaching of the top. in the tractate I talk about two separate things. 1) interspecies symbiosis (cross bonding) between a human + the plasmate (Holy Spirit). + 2) The 3-eyed race who are secretly here. I claimed to be (1), but this new hypna gogic vision implies (2)! note: the paranormal powers of the 3-eyed race are ones of knowing. (borne out bytes by what if (1) + (2) are the same? Cross bonding creates a 3-eyed person; the plasmate lodges in the pineal body or 3rd ajna eye, + grows
+
+Last edit almost 3 years ago by svayambhu108
+folder 22 - 103
+Needs Review
+```
+**Co-occurrences**: Christian, Spirit, Holy, Holy Spirit, Form, These, Folder, Realm, Obviously, Voice, Secret, Death, Were, Have, Things, Body, Cross, Upper, Human, Dream, Until
+
+---
+### Line 16303-16311 (Match: 'Doris')
+**Folder**: folder 22
+
+```text
+Last edit almost 3 years ago by svayambhu108
+folder 22 - 118
+Needs Review
+folder 22 - 118
+114 Thus a healthy (+ all this implies) female principle returns to creation, to too replace the decaying one which emerged soon: the one which was never quite rational So the irrational quality in the universe (ex pressed as disorder, death, suffering + means inglessness) will ebb out. This is not just abstract "theology - spinning," as Doris calls it. For me personally This took place in 3-74 + for the world (as history) it took place in 8-74 (as well as the end of the Vietnam war the next year). This satori (that the Form II hypostasis of Form I -into-female-form is St Sophia) is one of the most exciting in my whole 4 year exegesis. + in a sense is a confirmation of the "two source cosmogony" + also explains the revelation + early emphasis on Christ's female nature; now I can which see the tremendous cosmic role that aspect of him plays in the sorteological drama. That this hypo stasis already exists - + speaks to me - in evidence as to how advanced the process is. It is not just envisioned for some ill-defined distant time. The female hypostasis of Christ is known to me now: it is here is this the lower (or form II) realm, breaking astral determinism: it entered history + redirected it with power, wisdom + love (for us). This is the "eleventh hour" intervention by God in human history conceived of by many religin the decline of creation into ruin was halted at a crucial time + in a crucial way. This is ne mere theory or abstraction; this turned a us police state + imperial tyranny back to a free repenblic
+
+Last edit almost 3 years ago by svayambhu108
+
+folder 20 - 001
+```
+**Co-occurrences**: Christ, Form, Sophia, Well, Wisdom, World, Time, Cosmic, Folder, St Sophia, Just, Realm, Most, Love, Revelation, Death, Universe, Will, Creation, Back, Many, Human, Lower, Free
+
+---

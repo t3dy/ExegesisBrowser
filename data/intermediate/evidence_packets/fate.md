@@ -1,0 +1,342 @@
+# Evidence Packet: Fate
+
+- **Category**: Top Term
+- **Total Mentions**: 65
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 1459-1467 (Match: 'Fate')
+**Folder**: Unknown
+
+```text
+Last edit over 5 years ago by Harpax
+103
+Needs Review
+103
+aware of. Between example 1 (high school) and 3 74 lies 30 years -- a huge gap, most of my life in fact. I ask, What about the horse dream in Canada? Looks: again a horse; the TEARS dream involves a posse of horses. The Vancouver dream --the horse attempting to leap the house, which was the Point Reyes house, where the TEARS dream took place, attempting and failing that told me something obscure but overwhelming. "I have had a dream like no other dream I ever had," I wrote my mother. "The oracle," Hericlitus wrote, "does not answer yes or no; he gives a sign." Also, the in-cage-under-Huston-Astro-Dome dream had flying horses in it...this horse as sign for death. The adversary, maybe? Fate? Destiny?
+
+An analysis of TEARS shows the KKK type posse[e] which comes to kill Taverner to be the militant vigilante arm of the police state of which Buckman is the high official, the judge or whatever. Maybe there is some information here: the police state in TEARS, if it equals the police state actually extant c. 1971, probably has truly employed, and hence the real police state probably has employed, such terrorists, even perhaps the klan per se. Or the novel is a revelation about our world, does this tell us who murdered our leaders (Catholics and blacks) (the klan did), and in the service or say or hire of what? Of the police. That is the relationship shown in the novel: the posse agent of the state. Can this total analogy be transferred? Klan used by the COINTELPRO people to[o] kill our leaders one after another, as a vigilante?
+
+Maybe this is the message, the revealed message, in TEARS. There was also a message about the eternal world (outside time and space), but the space-time message is as above.
+```
+**Co-occurrences**: Tears, Perhaps, Maybe, Like, World, Time, Harpax, After, Buckman, Even, Taverner, Does, Something, Again, House, Probably, Another, Most, Real, Such, Actually, Revelation, Mother, Death, Other, Judge, Whatever, Under, Have, Life, Information, Dream, Answer
+
+---
+### Line 1882-1890 (Match: 'Fate')
+**Folder**: part remain
+
+```text
+Last edit over 5 years ago by Harpax
+
+136
+that tell us about our own fate? He must have been born here and lived here; he must have died --preferably dramatically slain in a cruel and unfair way to emphasize his vulnerability-- and then not the immediate testimony right afterward of his resurrection, but rather the actual experience of Him during the mass of a contemporanous nature by each celebrant. I imagine the Fish-Christians ran around whispering excitedly to each other the thrilling news, "He lives!" based not on what 300 people saw one day, but on what they experienced during the feast of agape; I can even imagine the "300 witnesses" testimony as a cover, when they were pressed for an explanation of why they said what they said. And yet it's really all there in John.
+
+The strangest idea, though, of all that comes to me is to envision a group of followers who have the authentic holy-possession experience which I had...and then retrospectively they cast back to try to figure out who it was -- exactly the way I did; I decided it was Jim Pike because he was a holy man who I had known who recently died; the early Christians would assume, but the same logic, that it was Jesus. In each case the individuals would trace it back to the first reasonably likely personal, real or mythical. In my thinking here I'm reversing what is the customary causual flow writers assume, theirs being that the post mortem experience is manufactured to fulfill the wishes of the followers; i.e. the connective chain works in temporal sequence. My question now, when you consider before Christianity were the other Greek mystery religions and before that Tammuz and Adonis and especially Osiris in Egypt -- can we be sure these different religious groups are experiencing different entities -- or rather isn't it just the names which differ? And if it is all one entity which holy-possesses all of them, under a variety of names (call it Jim Pike, Jesus or Osiris), then what in actuality is this holy spirit who has distinct human but transfigured personality (in my case, if not Jim Pike then who?). Maybe a demiurge or mediating spirit which has no copula possibility; i.e. no intrinsic name, such as we have? Maybe -- after 14 months all I really know is that I don't know anything except that it happened to me, and what I saw during that short time was real. That's not much to come down from the mountain with, for the edification of my people. Maybe there just is no common language between our space-time universe and the Eternal World, or common concepts; or ours just don't really apply. The best and clearest part, though, is that evidently it happened in response to my painted-in-the-corner desperation, which tells me that the forces or entity(ies) were assisting me out of agape; and, the news which it finally worked up to (St. Sophia) is of utmost worth, of unparalleled good (of what? Paralleled maybe?). Perhaps this is true, that we have come to the end of an Aeon of Sorrows (about 2000 years); and what I heard is an angel announcement, the announcement ("your young men shall have visions and your old men shall dream dreams"). This fits with my 2 75 vision of the new springtime, which was visually identified with the structure Santa Sophia, out there among the palm trees in the hot sun. And finally, "The Buddha is in the park" makes it universal, as a message, and no parochrial. It is a message of universal redemption and hope and help for mankind -- for the echosphere in general, if I understand my dreams about animals and polluted lakes. I can see where it is an enormous task, really beyond our ability, when we (I mean religious leaders, those actually into forming religions and subsects) struggle with such
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Sophia, Fish, Greek, These, Perhaps, Maybe, World, Because, John, Time, Harpax, After, Buddha, Good, Even, Just, Being, Palm, Santa, Those, Part, Egypt, Pike, Real, Such, Actually, Before, Consider, Jim Pike, True, Santa Sophia, Universe, Finally, Would, Other, Angel, Were, Back, Beyond, Under, Have, Except, During, Human, Dream, Evidently, Right
+
+---
+### Line 2475-2483 (Match: 'Fate')
+**Folder**: vol 12
+
+```text
+Needs Review
+185
+could still be right. But the case for the Parousia is strengthened if I could show that, as they say, the Holy Spirit has been absent throughout these many centuries (since nothing but the Holy Spirit could have achieved a biblical print-out in TEARS). This decision does not settle the matter against; but the alternative would have settled it for (the Parousia arriving now).
+
+. . . In 3 74 God (Sarapis, once called) undid determenism for me, undid my fate; He rules above the stars. Hence He gave me, his servant, longer life. Undid the strands of Moiria. (Saparis is Osiris; also equated with Dionysos, Pluto and Zeus.) See vol 12 p. 783, top right, EB, macro. "Ubren Sternanzelt muss ein lieber Vatter wohnen," who assisted me to overcome the anakie or fate closing in around me. "Sarapis could save his servant from illness and prolong his life. He took his servant from the sphere of determinism and gave him liberty." EB continues, "This foreshadowed Christian grace."
+
+. . . Jane Harrison: "Apollo the god of constancy; Dionysos the god of metamorphosis (!!!). Also the god of joy. I guessed he metamorphosed into the laughing Erasmus. Also: The Father & Son are one; e.g. Zeus and Zagreus. Guess what this implies re Christianity. I say, Dionysos is the deus abscontitus par excellence!!! And, under various nom de plumes, He lives! (Or nom de vive, or guerre). JH says, "Dionysos came first humbly, was exorcised and expelled, but will return with overwhelming power & magic, to triumph." He is the unaccepted god, the immigrant god, the outsider god, expelled, but will come back again stronger and larger, and will prevail (esp over those who expelled him). How much I have lived the outcast life, drawn to other outcasts (e.g. at X-Kalay and in Marin County in 1971) that Dionysos associated himself with, being sympathetic, being one himself (v. life of Jesus). Wow, he (Jesus-Zagreus) could have destroyed them any time he wanted. Outcast equals straggler (from the flock). Riddles, always riddles; the god with a sense of humor. His main riddle: "What's my name?" and then it's acted out graphically, in visual no-words form. Because, perhaps, of what Plato said about the supreme value of the search itself (on our part, to arrive at wisdom/understanding). (Dionysos' wine cup is the grail.) Historically, Dionysos (under all his names) broke the back of astrology: of the fixed immutable rule by the stars over men, and whatever evil influences they have on us. Plato believed that beyond the eighth sphere, the fixed stars, ruled the divine -- perhaps it was up to this that I was looking back in 3 74, where Sarapis is: "He rules over the stars." Now, as to the two-person game I saw. Could determinism have been one player, that which set up growingly more "iron" situations, but blocked by "intervention" from Sarapis? That is to say, the juggernaut of causal force, cause and effect, periodically aborted by the God? Its plots untied, unravled, freeing the person(s) caught? Sarapis, our Protector, playing his card(s) against determinism again and again (determinism equalling James-James?)? It seems to me that most essentially this is a victory for and by life over inexorable machinery which surely equals death. This is exactly what is meant in the Bible by, "He makes intercession" (for us). I.E. God's grace. This overcoming Ananke is precisely what the Olympian Greek gods could not do -- hence they proved useless, and the god who successfully intervened, but secretly, and then "ran," wasn't visible doing it, he
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Tears, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Plato, Greek, Bible, Parousia, Wisdom, Dionysos, These, Perhaps, Father, James, Since, Because, Iron, Time, Harpax, Could, Does, Once, Again, Zagreus, Being, Divine, Himself, Apollo, Gods, Deus, Grace, Nothing, Those, Still, Part, More, Zeus, Most, Death, Macro, Will, Would, Other, Biblical, Erasmus, Back, Beyond, Surely, Whatever, Under, Many, Have, Life, Evil, Magic, Right, Ananke, Grail
+
+---
+### Line 3484-3492 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Needs Review
+278
+-6-
+
+All that achieves is to pay me a staggering compliment, considering the nature and extent of that ancient personality. God’s grace is a better explanation, since it covers more facts. The dream of the 3-eyed sibyl and her statement about the conspirators certainly ties the epiphany of the personality to world history, which hardly fits the mere anamnesis theory, the past personality theory. Anyhow, both admit anamnesis of Christ. That is what is cardinal anyhow, that is to me the most cherished part, the bells, etc, the words about St. Sophia "hear what comforting words..."). As memory, strictly, it is along the Orphic lines: along Empedocles' lines: "I once was a god and now am merely this." The Kingdom, then, as memory of a state, but now restored by anamnesis; that isn’t bad: the kingdom or kingship restored by anamnesis!!! I did not just recall having been there; I was once more there, back again, restored as much as ever (we had hard times vis-a-vis the Romans, back in the far past; it wasn’t so wonderful). Let me consider this restoration of the Kingdom; I remember strongly feeling a general restoration, of all things; hence my disappointment in 75 starting in March, when I was back as I had been. I could not understand; yet I had had the dream in which I was old and miserable and sick, and then again I heard the magic bells, summoning me upward, to my delight. I really already had known that the Spirit was going to leave. But it did leave some¬ thing behind (the treasure, egg, pearl, seed, etc). I am more aware now of what it left behind; I still can envision it, via the eye of discernment. Firebright. As clear as ever, waiting for events still ahead. When I break so that I can't repair or be repaired...then, after an interval, the bells again. I guess only then. You can’t blame me for marking the days until that, though. "Those who hate this world," as John quotes Jesus. I have certainly at last renounced some very deep hopes about my life in this world, regarding a family. The hopes I had in 72 when I came here. It has been my 3-74 encounter which has achieved this, a resignation, a finality, but also a looking elsewhere for other things. It isn't defeat, or resignation as such, but an acceptance, and, as I say, turning else¬ where, toward what the 3-74 experience was all about. * * In trying to find some depth or severe degree of evil in the Nixon tyranny which would accouht for divine intervention, and also in my attempts to explain the help given me individually, which is to say, my whole experience (of the which I've read nothing nowhere by anyone subjected to any misery and entrapment) I came up with the Communist agent* theory, but in fact no evil degree can account for it, since greater degrees of evil can be adduced in history, with no evidence of divine intervention, either on a personal or historic scale. I see in 3-74 two interventions, personal and historic, both unexplained by the severity of the situation. Perhaps it is not to relieve a severe evil that accounts for the divine presence; if on takes the "St. Sophia "etc statement as an answer to my question, "Why are you here and what are you doing? then maybe there is the answer; the host was seeking a positive situation, the second incarnation, and merely relieved evil to "make straight in the desert a highway," esp. to pull down enthroned evil so that Christ would not suffer the same fate as before, the modern equal of Herod or Nero having been removed. Oh yes: as to the events
+
+Last edit over 1 year ago by jhordan
+279
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Jesus, Sophia, Kingdom, Roman, Perhaps, Maybe, World, Since, Only, John, Nixon, After, Firebright, Could, Anyhow, Just, Once, Again, Both, March, Empedocles, Orphic, Divine, Either, Sibyl, Anamnesis, Grace, Nothing, Those, Still, Part, More, Most, Such, Certainly, Before, Consider, Would, Other, Kingship, Very, Back, Have, Things, Life, Memory, Days, Evil, Having, Remember, Magic, Greater, Dream, Answer, Until
+
+---
+### Line 3685-3693 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Needs Review
+298
+-1-
+
+I have come up with a whole new theory to explain my 3-74 experience. The basis of it was twofold: anamnesis, regained memory of the distant past and many things, including customs and language involved in it; and anticipation of the future (the fall of the con¬ spirators, St. Sophia, the Xerox letter). What these all have in common is time. I should not have remembered what I remembered, and I should not have precoged what I precoged; the two are of the same warp and woof. When both are taken into account, a personality is disclosed, spanning millenia, backward and forward both, and having the powers —attributes— we assign to gods, rather than to men (much of what I knew no men know at any time). By Occham’s Razor Principle, one is led to the extraordinary conclusion that I (or we) are gods with deformed memories and powers, as Calvin says; evidently I got a taste of what the unfallen man is like, in this case myself. The theory of fallen man would account for the loss of all that is lost, and the grace of God would account for the regaining of it. We are not what we imagine; we have truly declined. This theory places the emphasis on man, not on God, and shows him —man— as truly godlike in his true and unfallen nature. Put another way, we are blinded and asleep, in a state of forgetfulness, but this fallen state can be abolished. If what I became is to be the common fate of most or all men at the Parousia, then even theologians in general have little comprehension of the staggering growth in store for us, although they stress the staggering fall in the past. Not what we were and fell from, but what we will return to — that is cardinal, just as the Parousia is cardinal, not the Passion. Finally I would say, What we are now is degenerate, and we have no conception of the extent of that degeneracy, except through the garbled and vitiated legend of the Fall. That there was a Fall is evidently true, but we fell much further than we realize, and have much more to regain. To sum up, We are not what we think we are; we are closer to angels than to "men,” as we know the term "man." Am I saying something which is almost beyond comprehension? That we are not fallen men, but fallen angels? Dare I think this? But it fits my 3-74 experience. Punished angels, I think: cut off and debased, in exile, with even memory deprived of us. No theology that I know of has truly plumbled the depths or heights of man’s true nature; such terms as "sin" convey nothing, and are themselves examples of the fallen thinking of fallen angels; even our concept of our punishment is debased in comparison to the actuality. Such a dread¬ fully deformed and debased creature, in reasoning and recalling its fall, would render it in debased and crude and inadequate terms, equal to its own self. So far have we fallen that we can't even conceive (or remem¬ ber) what we were and are! How deep the deformity goes! There are not men and angels; there are angels and deformed angels. In 3-74 I was con¬ vinced that a (the) time of restoration had come; but the greatest resto¬ ration was of me to what I had once been. Do you realize we are speaking of a life form spanning thousands of years, perhaps even immortal? Lying in its true form outside of linear time itself? Essene doctrines are involved here, the sinking of the soul down into the world of space and time — and forgetfulness. And Neoplatonism. And it is Jesus the Christ who is the teacher who came to teach us this: restoration of ourselves to our true original condition is the Kingdom He speaks of.
+
+Last edit almost 5 years ago by svayambhu108
+299
+Needs Review
+```
+**Co-occurrences**: Christ, Jesus, Xerox, Form, Sophia, Kingdom, Parousia, These, Perhaps, Plotinus, Like, World, Fall, Time, Even, Just, Something, Once, Both, Although, Self, Gods, Anamnesis, Essene, Grace, Nothing, More, Another, Through, Soul, Most, Such, True, Finally, Will, Calvin, Would, Were, Beyond, Many, Further, Have, Things, Life, Memory, Having, Except, Evidently
+
+---
+### Line 4927-4935 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+16
+13 Was involved in my handling of the Xerox letter; it is as if I was born to-sent here to- intercept (!!) that Xerox letter. Maybe it was the tip of some evil iceberg. From the Beginning of time I was led by God up to that moment where I took it + called the Bureau. Whatever it was, I am sure that the importance of it had not to do with me intrinsically or my fate- but rather with some aspect of God’s great plan. I do not rule out the idea of [help?] for me, but since I had a similar feeling (of fear Tension, danger + the importance of it all) as I completed tears + mailed it off- I do know that the divine power inserted a cryptic message in tears, + so I reason that somehow I had served the plan + perhaps in later writing could + would serve it again. The little boy in the raft, then, was not coming towards London just to intercept the Xerox letter, but perhaps to write certain things as an [amanuersive?] for God.
+
+It certainly is interesting that my situation came to a head right at the time the whole outcome of the Watergate matter hung in the balance (Q.U. Charles wiggens- the fact that the Nixon transcripts were forgeries- v. My letter to the Wall St. Journal). Maybe it was the moment of the “uncut storm [flung?]”
+
+But my real evidence of the continual presence of God’s leading, teaching, arranging, engramming activity here [always] is in Zebra. It is zebra who arranges the prefiguring engramming stimuli in their sequence. So intervention, though orthogonal, is a long-term process, + if the evil one program (deterministically) at least God (Qua Zebra) counterprograms.
+```
+**Co-occurrences**: Tears, Zebra, Xerox, Perhaps, Maybe, Since, Time, Nixon, Could, Just, Again, Divine, Great, Bureau, Their, Real, Certainly, Would, Somehow, Were, Whatever, Things, Later, Evil, London, Right
+
+---
+### Line 5071-5079 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+37
+36 in a sense I saw that the only actions which mattered were historical actions: i.e. actions affecting this process. The purpose of it all was the unchaining of the man God (as he stames now he is only a fragment of what he can + will be eventually). We do not know how much we are held back (chained) because we have no conception or model of what we could be - will be. The incarnated St. Sophia is such a model. He/she is leader + model both, but us (not as we are but as we can/shill be) fulfilled as we advance up the manifold. Acc human history is God progressively becoming also man becoming. Is their confluence in this? Was not 3-74 state a God like state, at least compared to my/our normal one? The God within. We are imprisoned here + have forgotten who we are: Brahman descended & asleep. Is not the final emancipation one of regaining memory + original condition inc senses + powers. The God who is progressively becoming is us as collective us: each individual is only a "station (cell) in this vast sentient organism which is anaking + remembering (Brahman is waking up?). + no powers com hold him/us back, because outside of time he already completely is. He must have chosen to descend into his creation + forget; it must have been voluntary: as bhodasctra, to occupy no better place than the little coving. greatures, to share then fate, without even memory on his part of being different (so Christ says, "when I was hungry, naked, in prison, you did not." + they say, "But Lord, we did not know it was you." Neither did he, at that time) the process of him dwelling in his creation in forgetfulness is alo a process by which from inside he evolves - improves - this greation The deity I experienced was in process of becoming (i.e. changing - perfecting himself), had infinite goodness but perhaps limited power, although unlimited knowledge what we call history was the dimension (world) in which this fulfill ment takes place; man, by participating in history joins - it not at the very least on God's side - ther perhaps even meld. with God himself + is a subform or section of God. y
+
+Last edit almost 3 years ago by svayambhu108
+38
+Needs Review
+```
+**Co-occurrences**: Christ, Sophia, Brahman, Lord, Perhaps, Like, World, Because, Prison, Only, Time, Even, Could, Both, Being, Although, Himself, Without, Part, Their, Such, Will, Deity, Creation, Were, Very, Back, Have, Memory, Neither, God Himself, Knowledge, Human, Final
+
+---
+### Line 5760-5768 (Match: 'Fate')
+**Folder**: book was
+
+```text
+Indexed
+12
+12
+
+- The whole sphere of "astral influence" (determinism) was signified, to me, by the materialistic CP., the "Olive Holt" programming which ran back to my early childhood. It was this that the salvific spirit broke! Thus, for a short time, I perceived myself performing automata actions - + so they were: slavelike + mechanical, not free, not voluntary; + it was against this that I rose up - this is what via the spirit I overthrew. So when I ask how communism + the USSR + the KGB come into the theological picture, this was their role - which was broken by Christ (v. Ephesians + Paul's cosmology). (Also v. Gnosticism: the role of the redeemer is breaking the power of Fate.) For a short while (hours, days) in 3-74 I correctly perceived myself as nothing more than a programmed automaton responding blindly to key stimuli - disinhibited by signals from a rigid structure. This is the primary thing that was done for me, the freeing me from this deterministic prison of which we are all unaware. You can only become aware when/if you are lifted out of it, + this only comes via outside intervention - you can't save yourself because you have the total + perfect delusion of being free + making voluntary choices. But, in this sphere, it is all blind cause + effect - stimulus + response. We can't understand what is meant by Christ saving us because delusion keeps us totally oblivious to this imprisoning mechanism - this "Pavlovian" world.
+
+Last edit over 5 years ago by Toso
+
+1
+```
+**Co-occurrences**: Christ, Toso, Indexed, Spirit, Paul, Gnosticism, World, Because, Prison, Only, Time, Being, Nothing, Their, More, Holt, Olive, Olive Holt, Were, Back, Have, Days, Free
+
+---
+### Line 5867-5875 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+15
+Needs Review
+15
+N it the normal forces are (1) efficient causes; + ➁ final causes; is an anomaly for direct action, which is neither, to occur, to operate on a segment of the unfolding strip. It should be self-propelling, self-generating + regulating. Direct intervention such as in 3-74 constitutes an implied rebuke to the totality of forces operating within the closed system, which indicated to me that the closed system, the unfolding strip, is provisional in its nature. Not only is it limited + limiting it is somehow false. I would even say that it must be denied or repudiated in some fashion: i.e. said no to. This is what I did when I saw the Golden Fish; I repudiated the closed system world + broke its hold over me. Perhaps some kind of escape mechanism exists - like a test, but, more, an opportunity granted, to know the truth + thereby be freed (of its coercive power over us). How does This denial act to break its power? Anamnesis sets in, +, with it, a reappearance of a divine personality, which is to say, a personality not programmed (in monad-like synch) but free to act, rather than react to stimuli. It is not a product of the forces of this world, is not at their mercy. It can be killed or hurt but it cannot be manipulated or coerced into obeying was the eteology of this my refusal c. 1969 to pay out money for the war? Interesting resemblance to the power of the later, "Thomas" personality to refuse to respond to the Xerox letter the first balking. I think I'm only something major here. The person must be capable of refusing response to the enormous powers of this reality to start the redemptive entity in motion; if you are willing to balk it will assist you, but if you will not see the situation for what it is + on your own initiative balk, there is nothing for it (the redemptive entity) to assist: you cannot get there by being told this or that is wrong; mere note, turning to another external authority, won't suffice. What the redemptive entity is searching for, hoping for, is for you to perceive on your own that X is wrong +, untold + unaided, to act correctly, whereupon comes to your aid. If you do this, the illusion (delusionar it castle" or world) vanishes + you are shown the true situation in clear black - white. Good- bad terms, the ambiguities gone. until you do this your fate is a bal one: prisoner of the forces you do not question - but rather obend, the
+
+Last edit almost 3 years ago by svayambhu108
+
+16
+```
+**Co-occurrences**: Thomas, Xerox, Fish, Golden, Perhaps, Like, World, Golden Fish, Only, Black, Good, Even, Does, Something, Reality, Being, Self, Divine, Anamnesis, Nothing, Their, More, Another, Such, True, Will, Would, Somehow, Neither, Later, Truth, Free, Final, Until, White
+
+---
+### Line 5909-5917 (Match: 'Fate')
+**Folder**: part could
+
+```text
+Complete
+2
+context it is certainly easy to understand why I saw the sourceless white light (of death and judgement) fill our bedroom. It (death, judgement, wrath) would have come to me, had he not intervened.
+
+Gloss of the J. Bible says that upon final judgment finding one favorable in God's impartial eyes, "one finds - is given - freedom." All of one's works are assessed. I have for this entire time (3-74 on) felt free. Also, I tend to look back at the totality of my works (esp writing) & see them favorably. & I tend to feel that my work in some deep basic way is done - was done when Scanner appeared. My work judged - favorably - myself made free - saved from fate & its doom - even shown visions of my future reward - even shown my name entered in the "hotel ledger" etc. Most of this I already realized. But not this: that I was saved not just by Zebra intervening; but [also] by the innocent surrogate voluntary sacrifice. That was essential; that part could not be left out. (As our theology explains, e.g. Luther & Calvin) My works would not have been enough. What I received was grace: Love I didn't merit (charis).
+
+This whole realization about Pinky's sacrificial death, in my place - it gives me insight into the eternal timelessness of his death on the cross. It is outside of time.
+
+The power of evil is not yet destroyed; if it were, his sacrifice in my place would not have been necessary. Who, then, demanded the sacrifice, or rather a death, me or him-in-myplace? Not himself as God. God could not impose pain on himself - sacrifice himself to himself. The loving God must be embodied in the deity which sacrifices himself for us. But the inexorable, deterministic, blind, "astral" force, the mekkis or machinery. This is what Christ frees; saves us from. But such reasoning is Gnostic. & yet it was revealed to
+```
+**Co-occurrences**: Christ, Zebra, Complete, Gnostic, Bible, Scanner, Time, Light, Even, Could, Pinky, Just, Look, Himself, Grace, Part, Most, Such, Upon, Certainly, Love, Death, Calvin, Deity, Would, Were, Back, Have, Judgment, Freedom, Luther, Evil, Cross, Free, Final, White
+
+---
+### Line 5980-5988 (Match: 'Fate')
+**Folder**: book but
+
+```text
+Last edit almost 3 years ago by svayambhu108
+10
+Needs Review
+10
+o the errors in Ubik are: to regard this rollback + exposure of the past via the form axis as a decay. Claudia pointed out that decay = entropy, + the entropic process lies forward along the [linear time axis, not back. I had already speculated that the entelechy-developing axis might lie retrograde to linear time, which leads toward entropy, + entelech development is negentropic. Another error is to assume that the entity "Ubik" has failed to act as a successful "reality support" - that a failure in general, of cosmological forces involved. These errors are due to my unconscious acceptance of the Western view of forward - linear time as a progress phen‐ omenon, the whole western notion of continual progress forward as the years roll by: if this is unconsciously accepted as so, then any roll back along any axis has to be viewed as loss + decay one thing it certainly is not is loss. Comes now the EB article on salvation, which equates [forward linear] time with decay + death. Salvation means salvation from - victory over - decay + death, + for this to occur, forward moving linear time would have to be abolished, rolled back or somehow nullified (achieving "mort stugebit et natura"). The final determinutic tyranny which makes This place a prison is time, which equals fate or [astrological] destiny which equals linear forward time. True freedom from this "prison" would involve at its ultimate stage a release from linear time. I experienced this in 3-74 in two ways: the rollback along the form axis to Rome to Babylon + the eerie awareness of programming vis-a vis external "signals" (+ also possibly a forward motion along the form axis to the Palm tree Garden, the Kingdom yet to be realized in linear time) (in which case if the Palm tree Garden is the Kingdom of God, I was released from the tyranny - prison - of time + allowed to go forwars instead of back: if this is so, the solution to the Q of where is the Kingdom + how do we get to it?" is answered by "by being lifted out of the realm of [linear] time." This would explain how I (but only I) could experience all the sequences of the end-times; those end time events hadn't occurred [yer] in linear time. But I was no longer in linear time, but had gone to the endi
+
+Last edit almost 3 years ago by svayambhu108
+
+11
+```
+**Co-occurrences**: Ubik, Rome, Form, Kingdom, These, Prison, Only, Time, Garden, Could, Realm, Kingdom of God, Reality, Being, Palm, Viewed, Those, Another, Babylon, Certainly, True, Death, Western, Would, Somehow, Back, Have, Tree, Claudia, Freedom, Instead, Salvation, Final
+
+---
+### Line 6014-6022 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+16
+13) The first mention I ever came across of the purpose of believing in such a God as sarapis (Zeus - Dionysos YHWH): that Sarapis was above the planets (which determine man's fate) + can inter‐ vene + free him from the prison of this planetary determinism, + that this prefigures the Xtian concept of God's grace. It is in the "Acts of Thomas" that the letter comes (from his parents) which bring back his memory as to who he is + as to his mission (task). It seems to me that the assistance (inter‐ ventive grace) which the believed- in God can offer could well begin with the restoration of memory, thus combining the two things: help + restoration of self-knowledge, with recollection of the mission being recollection of something which will not merely save or help extricate the believer but will go beyond that + achieve something which will also help others (or the general historic situation) the letter, then, triggers off something more than the somewhat negative quality of extrication; this leads me to the Zoroastrian concept of us as warriors (of light). We did not fall here in any sense for either moral or intellectual reasons. We were sent here as "sleepers" until the moment for action came (exactly as in the "Acts of Thomas." Our mission is avatar like; it would be regarded by the tyrannical regime as an invading infiltration for sinister purposes It certainly couldn't be supposed that a large number of persons had been so programmed (missioned). Again, I think: my being this accounts fore the basic themes of my writing. They bear out the prior - to-3-74 existence of the material as being in my mind at a subliminal - latent - level. Viewing it all this way, I think now of The 3 eyed people + the healer whom I identified as Asklepios. Just for fun, let me imagine that they sent me. The supralunar, the band of fixed stars, above the planets - another star system + sentient race? Ah - if my intentions are representative of the mission of Christ + the desciples - haven't I through my retrieved knowledge relearned something which casts a new + hidden light on the nature + purpose of the savior (+ their mission? Although emanating "from the heavens" it seems to have a distinctly political purposes the overthrow of tyranny - a fight for freedom emanating from outside
+
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+```
+**Co-occurrences**: Christ, Acts, Christian, Thomas, Well, Dionysos, Like, Fall, Prison, Savior, Mind, Light, Could, Just, Something, Again, Being, Although, Self, Either, Zoroastrian, Grace, Their, More, Zeus, Another, Star, Through, Such, Certainly, Will, Would, Mission, Were, Back, Beyond, Have, Things, Memory, Freedom, Knowledge, Free, Until
+
+---
+### Line 6414-6422 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+36
+3 The 2nd Advent completed his process of assimilating The world (which is what I saw him doing) all the generations since 70 AD have been repetitions of an archetypal population (cf the gene pool DNA memory coding studies) which cannot any more escape their roles which they occupied in 70 AD than they can - well, karmic burden is involved here. What they were then they have continued perpetually to be deterministically caught. However, in 1974 (as we reckon it) new orthogonal punch-through came, + changed things. My destiny, to fall victim to the Xerox missive again + again, in an almost eternally repeated mesent (cf "Tempunauts") was interrupted - invaded by assistance + the advocate, who woke me. I recalled it happening before, + destroying me. memory of it happening before would, alone, merely have told me I was doomed again; it wouldn't have informed ne - led me through the intricate escape maneuvers necessary. My situation in miniature reflected the miserable prison-like quality of our linear, unwinding strip, circling Advent I the way the persus a circled, with everyone repeat their dream (mutual dream) over + over, but with super ficial variations in appearance (linear strip accrual). It was because of this repetitious trapped quality of linear time (astral powers, or planetary, destiny, fate, etc) that Advent I took place - to break the "chaldean" astrological causal framework: v. God's grace, providence, v. Sarapis, Hermes Tristmo gistos, etc). This was the whole discovery of the mystery religions. 1) We are trapped, doomed to a repeated pattern, + 2) The deity - savior - can extricate us. No sense can be made out of ➁ (Salvation) unless ➀ is properly understood.
+
+Last edit almost 3 years ago by svayambhu108
+37
+Needs Review
+```
+**Co-occurrences**: Xerox, Well, However, Advent, Like, World, Since, Fall, Because, Prison, Time, Savior, Again, Missive, Xerox Missive, Grace, Their, More, Through, Before, Deity, Would, Were, Have, Things, Memory, Unless, Hermes, Karmic, Dream, Salvation
+
+---
+### Line 6507-6515 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+52
+Needs Review
+52
+50 In other words, unbeknownst to the Jailms, this prison wo world has been invaded by a liberation deity, who restores our knowledge - reverses the original process (Fall) into ignorance - + also influences history No - this, too, is Gnostic; what I experienced as Valis or Zebra is the divine savior who has been sent here by the true God to save us (partly through anam‐ nesis). He alone is not at the mercy of fate, + by his absorbing (transubstantiaty) us we are freed by him + as part of him from our various fates (as presoners here). anamnesis + being freed from fate are interconnected. in Gnosticism: "Sophia, in 812-75 her task desire) to save us 938-1194 puts her messages into the C-) inferior bulk of writing by the mere demiurge - i.e. creator." certainly the novel Ubik seems to describe this: a 97 penetration, into This universe (cosmos) of divine, helping material from outside. 92708 t tues tues Nov 29 Nov 22 oak Orange oak s Orange oto Thos 9:30 1035 284 8251
+
+Last edit almost 3 years ago by svayambhu108
+53
+Needs Review
+```
+**Co-occurrences**: Valis, Ubik, Zebra, Sophia, Gnostic, Gnosticism, World, Fall, Prison, Savior, Being, Divine, Anamnesis, Creator, Part, Through, Certainly, True, Universe, Deity, Other, Knowledge
+
+---
+### Line 6536-6544 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+57
+Needs Review
+57
+53 footnote: I have the feeling that James-James enjoys creating - equally the intercessor enjoys knowing how to arrange what's churned out - there is no ill will between them; wisdom, Christ, has a reverence for James James' creations: he cherished, protects + ultimately preserves them from destruction - would he do all this if he didn't find them, esp. the least of them worth while? + over all this, + prior to all this, + after all this, love as the ultimate deity reigns: all creation was set in motion by love, the ground of being, + in the end the one-who-became -the-many returns to itself, completed. The one became the 2, then the 3. Then the many + concludes when it's all over as the one again. The one (the Tao) regulates both the creator Yang) + the arranger (yin) achieving a balance. It is this Palintonos harmonie, then, which supercedes the oscillations (in time) of the Palintropos interaction. At the heart of it all there is peace + an end to striving. It is to their fate precisely that James-James the creator leaves his creations. + it is precisely their fate (either ananke as necessity-determinism - or blind chance) that the Intercessor saves them from (i.e. by intervential grace). This is what happened with me. Christ is Zebra; that was Holy Wisdom, St. Sophia. But in my dreams I was taken to the great void who lovel me: that was the ultimate entity, the true God. It was/will be back to him that I will be taken. But the Gnostics are right in that the true, ultimate God, whom we should worship, did not create this world; what they fail to see is that he was allowe to by the true God,
+
+Last edit almost 3 years ago by svayambhu108
+58
+Needs Review
+```
+**Co-occurrences**: Christ, Holy, Zebra, Sophia, Gnostic, Wisdom, James, World, Time, After, Holy Wisdom, Yang, Again, Both, Being, Either, Great, Grace, Creator, Their, Ground, Love, True, Will, Deity, Would, Creation, Back, Many, Have, Right, Ananke
+
+---
+### Line 6588-6596 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+66
+60 This is a great cardinal secret - + methout of survival - of the proto organism, the macrocosmic entity. It contains an infinitude of "stations" or microcosmic entities throught out itself, any one of which contains all the bits of coded information from which the macro organism can be reconstituted; + each micro station (creature) contains billions (?) of cells, each one of which can yield the information necessary to reconstruct the full organism. Logic they telles us: each human cell can, through successive stages, permutate hierarchically so as to finally retrieve the unique proto macro organism which in the form of its thought-contents comprises the physical universe + which in itself as mentating entity, is the total corpus of reality both physical, energetic + mental (Noos, or psyche- + - soma) viewed this way, we can say that as individual cell is to our total body, each human is to the macro‐ organism. A new theory now intrudes in my exegesis. I saw us as proned from the great vine as cuttings - which, severed into many individualities, were "planted," to grow from small to large on their own, separate from the parent vine. Then the vine has replicated. It is the teleo‐ logical goal (+ successful fate, if achieved) for the cuttings to develop [back, forward) into counterparts of the original parent (source] vine. Surely these growth - stages are what We properly identify as evolution. Now our physical mental evolution has brought us to the advanced stage at which mental (brain] metasystems - the morphology being there - begin to fire at a new + higher level, + what is
+
+Last edit almost 3 years ago by svayambhu108
+67
+Needs Review
+```
+**Co-occurrences**: Form, These, Noos, Both, Reality, Being, Corpus, Great, Viewed, Brain, Their, Through, Secret, Macro, Universe, Finally, Were, Back, Surely, Many, Body, Information, Human
+
+---
+### Line 6606-6614 (Match: 'Fate')
+**Folder**: part designed
+
+```text
+Last edit almost 3 years ago by svayambhu108
+69
+Needs Review
+69
+69 But forgot. It is species memory - but more than that it is the "cell-to-body, body to macro entity" discharge: analogous to the print out of one human cell to revive the total human, the human, qua cell, becomes information (or perhaps rather a vehicle for information which he always carried - as each cell carries its information - but now has himself experienced the very information of which + for which he has from birth been the vehicle. His role, to him, is now understood. He is, was, has from the start been, a recepticle for stored information. The information consists of an image of (1) his parent, + (2) himself as he will finally be, when all is done. The two are the same. Further, the information contains instructions (imperitives) which trigger sequences of actions on his part designed to lead to the next growth stages. Primarily these apper to consist of a deprogramming from more primitive stimulus response patterns, freeing him to better (or for the first time) self-program himself; he is now a quantum jump upward in homeostasis. Freed from "astral" determinism, he now truly has the power to decide his own fate (outcome). Since the end-state image (eidos) has been shown to him he will fortunately tend to make choices which will lead him toward it + a becoming of it. It will be his goals his model, his ideal morphosis.
+
+Last edit almost 3 years ago by svayambhu108
+70
+Needs Review
+```
+**Co-occurrences**: These, Perhaps, Since, Time, Self, Himself, Part, More, Macro, Finally, Will, Very, Further, Body, Memory, Information, Human
+
+---
+### Line 7525-7533 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Indexed
+19
+reality. I.e. being taught implies a teacher. But I think it's more than just taught; control or programming or management of us by it (Zebra) is involved. It has the power to arrange (join) objects (words) into subliminal messages + the mind to know what to convey. But why? For what purpose? V. "Ubik."
+
+Conclusion: all around us exists, mimicking normal "dead" objects and processes is an intelligent arranging entity, informing us subliminally at the very least -- and possibly -- in fact almost certainly -- controlling us. Is this the "astral" determinism or the wardens or archons or angels of this cosmos who Christ saves (frees) us from? As Paul writes, Christ is replacing this "Law" or power (fate) over us by his dominion. Zebra is Christ, but there was a blind controlling mechanism which I experienced him combatting and overcoming (it as reflex response to stimuli) re the Xerox missive. So I conclude that the informing messages free us, rather than imprison; they teach us salvific Gnosis, invisibly.
+
+Finally:
+
+I am led to the inescapable conclusion that, totally unknowingly, we are all constituents of a vast living organism, and that everything which occurs in it, our reality, happens due to its deliberate intention -- that of its own brain, Noos or psyche -- and, further, this vast living organism which governs and regulates our every move and experience resembles an AI system or computer, and that under certain exceptional circumstances it can and does speak to one or more of us, its members -- Finally, the organism -- or this part of it -- is in trouble -- has its "hand in a steel trap," as Jeter put it, and is extricating its members, ie us. {{20}} We must have partially fallen out of the organism -- or maybe it actually has -- like a great animal -- been snared by a titanic iron trap! It is in trouble. And is reclaimed, repairing, itself. It is, in the final analysis, a magnamind as well as a magna-organism, and it is -- has been for some time -- in trouble. We are the distressed fraction, member, circuit or element, or organ, part or unit.
+```
+**Co-occurrences**: Christ, Ubik, Indexed, Zebra, Xerox, Paul, Well, Maybe, Like, Gnosis, Iron, Time, Noos, Mind, Does, Just, Reality, Being, Missive, Everything, Xerox Missive, Great, Brain, Part, More, Living, Actually, Certainly, Finally, Very, Under, Further, Have, Dead, Free, Final
+
+---
+### Line 7676-7684 (Match: 'Fate')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+41
+44 "Happy" (Felix) may be a cunning reference to Euripides the "Bacchae" in which the stranger (Dionysos in human form "punning on the refers to King Penthus as king "of Tears, Greek word for Tears: Pentheus. + the word "Tears" is in the title of my novel. The real message is that he whom Pindar called the joy God is here. It is a cypher within a cypher; "Felix" is not a name but a glossa meaning (among other good things) happy, but happy" is a cypher back to a name: i.e. name to word to name, + the final name underlying Felix is Dionysos. The deity who has inserted the message into "the inferior bulk" has identified himself. The total message from him is "I love you," but he has also elliptically told us who he is. He is the protector of little wild things, like cernunnos + Shiva, + it is Shiva who possesses the 3rd or ajna eye cernunnos = Shiva = Dionysos = Christ. The savior of the trapped, the desperate, the damned, the powerless the DNA in us programs us to die. It is this [form of determinism] once called "astral" or "planeary" fate that Sar-pis Christ, hermes Tristmogistos saves us from. I'm not sure how - but however it is done, this is what happened to me in 3-74, the "second birth" from above, by the spirit. Not only did I not physically die then (3-74) as programmed, but evidently I will in some actual real sense never die. The key to this is memory (+ hence true identity) restored; + 1) 2) Triumph over time. perhaps (2) is achieved by (1), since the restored memory seems to include the future as well as the past. Anyhow. We know ➀ who our savior is; + ➁ what he saves us from. The secret of physical immortality does not seem to involve an imperishable body but the ability to expand the ego-consciousness to merge with the gene pool knowledge + memory - which is immortal. Literally No wait - I don't think that's how the problem (of mortality, of being programmed by the DNA to die) is handled. I think rather than merging with the DNA
+
+Last edit almost 3 years ago by svayambhu108
+42
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Spirit, Form, King, Felix, Greek, Well, However, Dionysos, Perhaps, Like, Since, Only, Time, Savior, Good, Does, Anyhow, Once, Shiva, Being, Himself, Bacchae, Wait, Real, Secret, Love, True, Will, Deity, Other, Back, Things, Body, Pentheus, Memory, Knowledge, Hermes, Human, Evidently, Final
+
+---
+### Line 8070-8078 (Match: 'Fate')
+**Folder**: Part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+104
+Needs Review
+104
+10 In the EB macro article on Christianity there is of section in which the fallen condition a man is depicted as a totally pervasive slavery +redemption as liberation - the acquiral of freedom "through Christ's fighting." The article relates this process to actual (physical or empirical) emancipation of humans as slaves in history, esp. in the 18th + 19th centuries. The section is too long to copy, but it absolutely iron dovetails with my vision of the now - gone black prison, + my own emancipation from what I or regarded (correctly or incorrectly) as engramming programming of a onA-like robot-creating determinn stic structure, all if which is a -or even the- main thread of both my 3-74 experience + this exegesis. Also the EB article expresses my own insight that it is both a personal (individual) freeing + an historical event of evolutionary nature. The freeing (liberation) is acheived by Christ himself as the Holy spirit, over bondage to the world (+ such as be its powers called astral or sublunar or fate - whatever - see colosians). see. The truly divine spark was not there I I in the person (in this case me) or was asleep - Christ either put it there in 3-74 or awakened it. Since the sight of the Golden Fish in 2-74 brought on anamnesis I would guess the spark was somehow there but dormant or asleep. Anyhow, the EB article makes clear the indubitably authentic Christian (conversion) nature of my 3-74 ich lag in todtesbanden. experience.
+
+Thus I see why, at some other place, the EB
+
+says of Christian salvation that it is a -estoration (of man's lost freedom." This spiritual +
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Christianity, Holy Spirit, Fish, Golden, Like, World, Since, Golden Fish, Iron, Prison, Black, Even, Anyhow, Both, Divine, Himself, Either, Anamnesis, Through, Such, Macro, Would, Other, Somehow, Whatever, Freedom, Salvation
+
+---

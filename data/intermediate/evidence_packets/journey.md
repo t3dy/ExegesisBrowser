@@ -1,0 +1,346 @@
+# Evidence Packet: Journey
+
+- **Category**: Top Term
+- **Total Mentions**: 32
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 545-553 (Match: 'Journey')
+**Folder**: Unknown
+
+```text
+Last edit over 2 years ago by ratatosk
+34
+Needs Review
+34
+is only a beginning; it only shows that the various strata of the past are retained --taped, or engrammed-- in each of us' minds. What are the limits to this knowledge? How far can one go in this process of transformation? Far indeed, a long journey which, as with the two arcs, brings one back to one's starting point (which is why I saw Rome; that was the prior intersection.
+
+Dear Claudia,
+
+Enclosed is 4 pages of notes -- also Xerox of the Kozyrev paper (1967) on his study of the properties and nature of time.
+```
+**Co-occurrences**: Xerox, Rome, Only, Time, Back, Claudia, Knowledge
+
+---
+### Line 618-626 (Match: 'Journey')
+**Folder**: part was
+
+```text
+Last edit over 5 years ago by Harpax
+38
+Needs Review
+38
+This, then, is not only a journey; it is a simultaneous double journey; he watches himself recede from himself, grow smaller and farther away. When, later on, if ever, will he encounter himself again, the two arc re-intesecting ultimately (but at a time he can't plot)? Eventually he (expressed as either hemisphere, in search of the Other) will encounter an other which is That Other: himself (v. Plato and the four-armed four-legged animus-anima whole person long ago split apart and in search of its other part): he will unexpectedly encounter Himself, and thereby close the loop, probably forever.
+
+Or -- did his other self (the Other) start out long ago, and is just now returning? Himself expressed as signal ("I shoot an arrow into the air"; by arrow read "half of myself") now returning, producing anamnesis, the shock of recognition. He is not starting on t[h]is trip; this trip is ending.
+
+These are answers -- responses, to him. By whom? This is the m[y]stery; who is he in contact with (the VALISystem). It really is not himself in time, in part or present, but spacially complete, as on GO board. "Our souls, having traveled out to the stars, are now streaming back, to report that life exists, they they exists, and hence so do we."
+```
+**Co-occurrences**: Complete, Plato, These, Only, Time, Harpax, Just, Again, Self, Himself, Either, Probably, Anamnesis, Part, Will, Other, Back, Life, Later, Having
+
+---
+### Line 815-823 (Match: 'Journey')
+**Folder**: part segment
+
+```text
+Needs Review
+52
+prisoners, the giving them their first glimpse of the pasture which is their reward. It is as if humane people came across a place where animals were imprisoned under cruel conditions: overworked, starved, animals which were ill and unattended, and, finally, put to death in vicious ways without release or reward, with no recompense. At once, these humane visitors seize the owner of this cruel factory and depose him; then they see to it that the sick animals are given medical attention, food, sanitation -- all their just needs looked after...but most of all, these animals, ill-treated all their lives, are to be made to understand that finally they will go out into this great lush pasture forever, and never never at any time --this is a promise-- returned to the dark servitude which they had suffered under. The original owner of this slave prison, this factory, was deprived of everything he'd built up, his profits, and dealt a stunning blow which nearly destroyed him; most of all, judgment by the intervening humane people was swift, and in favor of the imprisoned, powerless animals, and entirely on their side against their obscure oppressor. Judgment, assistance in a short swift battle, medical help, food, a variety for them to see, now, as soon as possible, so they would know...especially since some would be too ill, too far-gone to be brought back. They deserved to see now, and not have to wait. "Look what lies in store for you," the humane intercessors would be showing them, when they knocked away the always before so evidently impenitrable wall of the prison. "Look beyond," and there would lie vast fields, grass, and the hillsides. Springtime, beyond the broken-open prison wall. First the animals would see the prison which surrounded them which they had mistaken for reality; it was not: reality lay beyond, and the prison would be knocked down entirely eventually, although that would take time. To free so many trapped and ill-used animals would take a while. But the cruel tyrant boss who had rules -- being deposed, he could not keep the prison going, as his father before him had. Although it had existed thousands of years it was decisively gone, now, even though many animals, so enured to their life, so sure that it was the only life, or rather only existence, would not see or understand at first.
+
+Or, more accurately, at one time the plant or organization had been well-run and regulated, in a fair and human way, and then the true owner and ruler had assigned stewardship in his absence, and had gone on a journey, with promise that while he was gone it would be run properly. The time of his return was uncertain. Those left to run it were like kids a whole bunch of kids left by their parents to tend themselves, or perhaps kids to be taken care of by a hired attendant. I think the first model is most accurate. Suddenly the parents return. It is like LORD OF THE FLIES. Horrified, they find that some kids, the shrewder, stronger ones, have enslaved the others; the whole house is a shambles, with fighting and breaking going on, a descent into barbarism...the parents line up all the kids and judged each according to what that child was doing at the moment the parents returned.
+
+Elijah, coming immediately before God, played a multiple role: he refined those whom God wished to save rather than destroy -- i.e. he got them into a fit condition so they would pass muster. I guess it's a form of tipping off those kids you wanted tipped off that you're about to reappear and check out everyone. You send a messenger in advance who
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Form, Well, Lord, These, Perhaps, Elijah, Father, Like, Since, Prison, Only, Time, Harpax, After, Even, Could, Just, Look, Once, Reality, Being, Although, Everything, Great, House, Without, Those, Their, Wait, More, Most, Before, True, Messenger, Death, Finally, Will, Would, Were, Back, Beyond, Under, Many, Have, Judgment, Life, Dark, Suddenly, Human, Evidently, Free
+
+---
+### Line 1327-1335 (Match: 'Journey')
+**Folder**: book certainly
+
+```text
+Needs Review
+93
+I saw the religious encoding and read it, myself: the Logos term "Felix," the entire ending -- everything, that paragraph illuminated (to me, as I told Sergeant Kelly). I has released the Word, shagged past the brutal oppressors and word-denyers. And if indeed it is The Good News shagged on by, in a least-expected place, it is specifically that in fact the Parousia are beginning: this is Christus Judicator. If the Brit 3 article is correct, though, this is the only way the Kingdom is going to come, the only way any of the events of the Parousia are going to come; that means my experience is not anticipatory, since there is in truth no emperical change going to be visible, which can be subjected to test (it can't be shown to be here or not to be here, is the point the Brit 3 article makes; it is elusive). It is a sort of secret kingdom in which one can live without appearing to live there, although one himself, he would know. And if this Brit 3 view is true, then this has always been the case, and the Kingship may have begun arriving for persons on an individual basis at the time X in the past -- time X being any moment after the Crucifixion. We are waiting for something which does not exist in time as we understand existing in time; it can be both here and not here simultaneously (vide supra about palintropos and -tonos, transcending the dipole thinking). The Parousia partake in -- no wait; no the palin(s) but the Secret Partnership, where Horus and Seth are not absolute antagonists "behind the scenes," Joe Campbell's book. The same with this. Within visible lineal time the Kingship hasn't come, and maybe never will (equal to Horus and Seth being implacable opponents); the Kingship has arrived is equal to "behind the scenes, in eternity: the Secret Partnership.
+
+In rereading the Brit 3 article on "Jesus Christ" I'm reminded that although the Second Advent is of Christ, what Jesus taught was the coming Kingship of God, not of Himself, the His Father would rule here, whereas now, God does not; Satan does (vide esp John). This could mean, Rule inside person-by-person, I guess. But the mystical corporate body which we enter is that of Christ; and Easter is connected with Christ, very specifically; I stand more toward that, a mysterious euch[e]ristic identity with the Real Presence of the Savior: a joining with Christ, esp Christ as Logos, first born son of God. But then the void dreams I had: the beatific vision of God. They are not that separable. If you attain union with Christ you certainly have reached God, and perhaps since Christ is the Path, this is how we do in fact reach God: brought to God, at last, carried there by Christ who rescues us (individually for sure; this is certain: Christ rescues on an individual basis). Christ, then, as the guide (Pinky, e.g.). Leading to the Kingship of God, to where God is. If God is not here, then I am taken there to where God is, led there, assisted and helped, on a journey (yes, I am sure of that; my guru as silent guide; the search as for the Grail).
+
+When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life, I get a single impression, one story underlying all, but not that visible until all 3 are compared. It is the story of a kingdom where reg[n]icide took place; the throne is occupied by a ursurper; now the rightful heir has returned (the stranger, Hamlet, Jesus), and holds no power, but speaks in strange riddle. The brutal ursurpacious ruler has him imprisoned and possibly killed; nonetheless the young stranger
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Life, Absolute, Body, Truth, Whereas, Until, Grail
+
+---
+### Line 2307-2315 (Match: 'Journey')
+**Folder**: part piece
+
+```text
+palintonos, the whole "trampoline" structure of reality in which there is balance and equilibrium established as a regular matter of course.
+
+What I had done last night in effect was changing my view from seeing what happened in 3 74 as a miracle to an occurance of law, in the sense of ma'at and even of science, as a regularity ("for every action there if an equal and opposite reaction," etc). In other words, what happened in 3 74 always happens or put another way had to happen and will therefore happen again, can be counted on to happen again, given the circumstances. In a sense therefore it was not supernatural, nor an invasion of normal order, at least not as I have conceived it all along. However, it was Divine intervention and deliberate. I think now about Spinoza's analysis of miracles.
+
+This is the real fabric of reality. What I saw was an extreme example, as the long New Yorker 6-part piece on the Constitutional Crisis discloses. There was an extreme action, hence an extreme reaction (the parabola effect). I was there and saw it happen: everything in me and around me start its return journey. The turning point came, and Retreat (to go to the I CHING) transformed --I mean was transformed by the Immanent Mind-- into Advance. I conceive of this in Tao-istic and Greek terms: Tao and Mind together, like a sentient, thinking, loving Tao; which is I think ma'at. 3 74 was indeed a special, even unique occasion, but only in degree (and in that I got to see it, for some reason). (It doesn't matter why I got to see it; I did and that is that.) Hence my acute feeling that the end of a long roll of film had a new roll, a very different roll, had been inserted. The parabola effect, carrying me with it.
+
+I must have made myself, or anyhow been, very receptive (Yinnish) to the forces active in the universe at that moment. When hex 36 changed to some other good one, I was carried along. I must have, as the Taoists or Zen people, somebody anyhow, says, made myself empty (wu).
+
+For hours last night I had in a blissful trance, sensing the capacity of the universe to rebound, its elasticity. You can't break it; it will regain its "shape" after any deformity sets in.
+```
+**Co-occurrences**: Greek, However, Spinoza, Like, Therefore, Only, After, Good, Mind, Even, Anyhow, Again, Reality, Everything, Divine, Part, Another, Real, Universe, Will, Other, Ching, Very, Have, Doesn
+
+---
+### Line 2431-2439 (Match: 'Journey')
+**Folder**: part alone
+
+```text
+Last edit over 5 years ago by Harpax
+
+181
+if not certainly, my perceptions of the outside universe cleared up and became lucid and total because my inner world, my psyche, cleared up and became lucid and a total unity: like outer, inner; like inner, outer. In Jungian terms I abruptly integrated the contents of my mind, with spectacular results (hence all the dreams about alchemy and the Greek period). (I got down to archetypes of the collective unconsciousness, to the very bottom.) This is the road; this is how you do it, total integration. This is the road to God, withdrawing all projections, reconciling the opposites, release of all libido. Transformation from ego to true self. BUT -- How did I accomplish that, while lying in my room listening to bubblegum rock, with no outside help (sic: none?)? Spontaneous psychic integration, the goal of analytical psychology. I went on the journey into the unconscious, which Jung and John Wier Perry describe (period before the graphics). (Resembling the Bardo Thodol.) Perhaps it could be properly said, as I sometimes think, that my psychotic journey began in 1970 in earnest that day I kept playing the Paul McCartney record over & over, when Nancy & Isa left. I had been "neurotic" until that day, but starting that day I suffered a collapse mentally, and descended into the world of dreams and nightmare and half-sleep, through which I moved only partically conscious...yes, this indeed is so, is so, and must never be forgotten in understanding this: I was on this journey from mid-1970 up until 3 74, when I returned from out of the depths, into bright day light, integrated and whole, for the first time in my life, carrying back up with me the pearl of great price -- thus showing John Perry to have been right. During those years I lived among huge archetypical projections of a collective sort; yet, it is so. What a world of daemons and so forth that was -- the --
+
+Four years in that strange underwater world...from shock and grief, wandering like a shade over the landscape, among shadows.
+
+Also, it must be realized that the journey part (1970/74) was characterized by acute primitivism of outlook on my part, the mystique thing Levy-Broul talks about (I think I'M talking about schizophrenia, here, not manic depression). But this indicates that the 3 74 experience, which was re-entry, is non-psychotic, a healed experience, and the withdrawn projections indicate a sophisticated non-primitive viewpoint or functioning. As Jung says re Meister Eckehart, by withdrawing my projections I experienced God psychologically, as an inner event not entangled with external objects, but purely so: authentically. Put another way, starting with the chromatic graphics, I evolved up through 2000 years of human history-evolution-psychological-growth. Thus a very archaic personality came awake in me, suddenly, which is to say, the adult I had never been in all my life. Buried deep in my collective unconscious all these years, it possessed spiritual and practical wisdom acquired from the archetypes. Therefore I say this new personality or person was created from the deepest levels of my psyche, a child or rather new man from the collective experience and wisdom of the race, and has an incontestable superiority over my original ego self. This fits the description of "born again" as certainly as could be. From madness to sanity and a new, better self. I think I should feel free to attribute the blind man to see: it shows God's love. Certainly I did not heal myself, and it is hard to rationalize that it somehow was spontaneous,
+```
+**Co-occurrences**: Paul, Greek, Wisdom, These, Perhaps, Like, World, Because, Therefore, Only, John, Time, Harpax, Mind, Light, Could, Bardo, Thodol, Again, Bardo Thodol, Self, Great, Those, Part, Jung, Another, Through, Certainly, Love, Before, True, Universe, Somehow, Very, Back, Have, Life, Eckehart, Jungian, Nancy, Suddenly, During, Human, Free, Right, Until
+
+---
+### Line 2435-2443 (Match: 'Journey')
+**Folder**: part alone
+
+```text
+if not certainly, my perceptions of the outside universe cleared up and became lucid and total because my inner world, my psyche, cleared up and became lucid and a total unity: like outer, inner; like inner, outer. In Jungian terms I abruptly integrated the contents of my mind, with spectacular results (hence all the dreams about alchemy and the Greek period). (I got down to archetypes of the collective unconsciousness, to the very bottom.) This is the road; this is how you do it, total integration. This is the road to God, withdrawing all projections, reconciling the opposites, release of all libido. Transformation from ego to true self. BUT -- How did I accomplish that, while lying in my room listening to bubblegum rock, with no outside help (sic: none?)? Spontaneous psychic integration, the goal of analytical psychology. I went on the journey into the unconscious, which Jung and John Wier Perry describe (period before the graphics). (Resembling the Bardo Thodol.) Perhaps it could be properly said, as I sometimes think, that my psychotic journey began in 1970 in earnest that day I kept playing the Paul McCartney record over & over, when Nancy & Isa left. I had been "neurotic" until that day, but starting that day I suffered a collapse mentally, and descended into the world of dreams and nightmare and half-sleep, through which I moved only partically conscious...yes, this indeed is so, is so, and must never be forgotten in understanding this: I was on this journey from mid-1970 up until 3 74, when I returned from out of the depths, into bright day light, integrated and whole, for the first time in my life, carrying back up with me the pearl of great price -- thus showing John Perry to have been right. During those years I lived among huge archetypical projections of a collective sort; yet, it is so. What a world of daemons and so forth that was -- the --
+
+Four years in that strange underwater world...from shock and grief, wandering like a shade over the landscape, among shadows.
+
+Also, it must be realized that the journey part (1970/74) was characterized by acute primitivism of outlook on my part, the mystique thing Levy-Broul talks about (I think I'M talking about schizophrenia, here, not manic depression). But this indicates that the 3 74 experience, which was re-entry, is non-psychotic, a healed experience, and the withdrawn projections indicate a sophisticated non-primitive viewpoint or functioning. As Jung says re Meister Eckehart, by withdrawing my projections I experienced God psychologically, as an inner event not entangled with external objects, but purely so: authentically. Put another way, starting with the chromatic graphics, I evolved up through 2000 years of human history-evolution-psychological-growth. Thus a very archaic personality came awake in me, suddenly, which is to say, the adult I had never been in all my life. Buried deep in my collective unconscious all these years, it possessed spiritual and practical wisdom acquired from the archetypes. Therefore I say this new personality or person was created from the deepest levels of my psyche, a child or rather new man from the collective experience and wisdom of the race, and has an incontestable superiority over my original ego self. This fits the description of "born again" as certainly as could be. From madness to sanity and a new, better self. I think I should feel free to attribute the blind man to see: it shows God's love. Certainly I did not heal myself, and it is hard to rationalize that it somehow was spontaneous,
+
+Last edit over 5 years ago by Harpax
+182
+Needs Review
+```
+**Co-occurrences**: Paul, Greek, Wisdom, These, Perhaps, Like, World, Because, Therefore, Only, John, Time, Harpax, Mind, Light, Could, Bardo, Thodol, Again, Bardo Thodol, Self, Great, Those, Part, Jung, Another, Through, Certainly, Love, Before, True, Universe, Somehow, Very, Back, Have, Life, Eckehart, Jungian, Nancy, Suddenly, During, Human, Free, Right, Until
+
+---
+### Line 3065-3073 (Match: 'Journey')
+**Folder**: Book of
+
+```text
+Needs Review
+234
+I've seen her, heard her, in many guises, and finally the name "St. Sophia." Gnostic revelation has broken through into my head in the modern world. I think anyone versed in Gnosticism who read my notes would say, "You're a Gnostic." I am not happy about this, but it is so, based on 3-74. Simon Magus lives. Also, it is a thoroughly Greek syncretistic system. I must go where truth (as I've experienced it) takes me; my experience is of St. Sophia. Well, this is a modified Gnosticism, with Sophia sanctified as Wisdom of Proverbs and the book "Wisdom," so that it can be made to jibe with the Bible; thus Christ becomes the female spirit Sophia in a male body, a syzygy. Ah! Yes! This is the complete person! The missing half which Plato wrote about. In Jungian terms, psychological completeness; psychic integration. Not either or but both and. At last; the repressed female goddess Prinzip breaks through into Christianity, in a Third Testement or Covenant. Father (0. T.), Son (N.T.) and daughter or mother (3rd T.). The first emanation from God, according to the O.T., so I guess daughter as demiurge (cf Plato). The Godhead remains behind her; I experienced that; she is the Pantocrator. Ma'at. Or rather Pantocratrix. Two aspects differ from Gnosticism: It is holy Wisdom, not just Sophia; and: she was born before and rejected, which identifies hers with Christ, hence the Logos. This restores the cosmological quality to the system, lost in Gnosticism; the creating spirit (universe creating) is holy & good, not fallen (blech). And this maintains Christ correctly as the Redeemer and Revealer.
+
+Pantocrator: ruler of the universe. Creator and Savior com¬ bined. Also judge. He is represented as holding a book, bound, of the Gospels. But if the Pantocrator is/was creator (which is so) then it is close to Gnosticism, with their Sophia as creator, but the same exactly as the Bible with Wisdom (or Christ) as the actual creator of the universe, rather than God. In a sense Gnosticism is a correct exegesis of the Bible (i.e. Proverbs 8 and "Wisdom"). (And Paul in assigning the role of creator to Christ, who equals Holy Wisdom.) The Gnostics were grappling with the problem of why the space-time universe is so inferior and we are cut off from the pleroma — the answer of the Christians being the fall of man by Adam. Why are we in this dim place when we once were in that bright place? is the q. for both. We were once there; it is a far better place; we are going back; our father is there; it is our natural home — all this is derived from revelation and has passed into general Christian belief (like in the spiritual "Going Home"). Anamnesis (as with the Orphics too) brings recollection of celestial origin. The continual unanswered question is how come we fell? Nobody knows, and none of the answers is convincing; they're all obviously guesses & myths and arbitrary. Recall the story about the son sent on an errand to a strange land, who forgets his origins and lives there believing he's a native, and then a letter comes from his real parents, which restores his memory (Book of Thomas?), and he starts the journey back. Why was he sent to the strange land? and why did he forget his origins? Really, there are two unanswered questions. Anyhow, that is the state of things: exile and amnesia. But also: the Redeemer who restores us to our original estate, which seems to be after death (I guess), or else in the coming of the Kingdom of God here, which doesn't imply after death but an as simulation of
+
+Last edit almost 5 years ago by svayambhu108
+235
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Gnosticism, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Orphic, Covenant, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Things, Body, Memory, Jungian, Truth, Magus, Doesn, Pleroma, Answer, Simon Magus
+
+---
+### Line 3574-3582 (Match: 'Journey')
+**Folder**: part in
+
+```text
+September 15, 1976
+
+Dear Dorothy,
+
+I wanted to add a footnote to my earlier letter about my religious discoveries: new light shed on them through an interview with a lady reporter who came to see me yesterday. I mentioned to her that 36 of my novels asked the question, What is real? which is the basic question of all Greek philosophy, starting with Parmenides who felt that what we see is "dokos" or a kind of counterfeit reality, behind which lies a real or absolute reality; this distinction is later found in Kant. I told the lady reporter that my newest novel, VALISYSTEM A, is not this question repeated but the answer given, and she pointed out that after 25 years I seem to have arrived at an answer. For the first time I realized that my religious experience of 1974 was indeed an answer to a 25 year seeking, and not mere happeenstance, and I saw it in perspective for the first time. That my answer should be the Christian answer did not appear to disturb the lady reporter, but she pointed out that those fans who had grumbled at my asking the question, "What is real?" repeatedly would probably now grumble at the answer which I had found, which was a blend of Platonism, Neoplatonism, Gnosticism and Christianity, with nothing really new in it. Later I got to thinking of how many factors had gone into my finding this answer. I had just had several teeth removed, and was still under the influence of sodium pentathol, for one thing. As a second major factor, I was experimenting with the orthomolecular vitamin formula, and had accidentally taken 7 grams of vitamin C, much more than is indicated. Thirdly, a girl had come to my door with a gold fish necklace, which had fascinated me, and she had said, "This is a sign used by the early Christians." Also, I own a very old wooden saint figure, and for some reason had been moved to burn a votive candle before it perpetually. Too, it was the time of the vernal equinox, which is near Easter and the Jewish Passover. All these factors were causal in producing what happened; neural firing took place in the right hemisphere of my brain for the first time, and there was a radical drop in GABA fluid, which is the inhibiting fluid, allowing metasystems to fire for the first time (I use Maslow's terms here). The experience did not come easily, and, as I mentioned in my earlier letter, I was in a unique state of fear and dread. My first stage of the experience was to undergo the Bardo Thodol journey, and was then suddenly surprised to find myself confronting Aphrodite, who Empedocles believed to be the generative principle of all life, of all love and the formation of krasis or gestalts in the universe, as opposed to the principle of strife. What this meant I did not know at the time. Soon thereafter I was treated to 8 hours of violent phosphene activity, resembling modern nonobjective graphics such as those by Klee and Kandinsky; at this point I was aware that another mind was reaching out to my own, but I thought it human, perhaps a Soviet telepathic experiment. The sense impressions were overwhelming. When the phosphene activity ended, I felt that I had regained my sight, that I had been blind all my life ana could see for the first time. What I saw, then, were the mysteries of the universe; and at the same time a theophany took place, the mani¬ festation of a divine entity which passed into my own mind, displacing my ego and becoming a theolepsy. From there on, in visions, dialog and dreams, it informed me of all things which were: the actual or absolute reality I had been seeking for 25 years. One of the first actions this
+
+Last edit almost 5 years ago by svayambhu108
+288
+Needs Review
+```
+**Co-occurrences**: Christian, Christianity, Fish, Greek, Gnosticism, These, Perhaps, Plotinus, Parmenides, Time, After, Platonism, Mind, Light, Gestalt, Could, Bardo, Just, Soviet, Thodol, Bardo Thodol, Reality, Empedocles, Girl, Divine, Probably, Jewish, Nothing, Brain, Those, Still, Dokos, More, Another, Through, Real, Gold, Such, Kant, Love, Before, Easter, Universe, Would, Were, Very, Under, Many, Have, Mani, Things, Life, Absolute, Aphrodite, Later, Passover, Suddenly, Human, Right, Answer
+
+---
+### Line 3584-3592 (Match: 'Journey')
+**Folder**: part in
+
+```text
+-2-
+
+entity controlling me performed was to administer to Christopher the sacraments, but (I learned this from the Britannica) in the highly archaic form known only to the early Christian Church. At the same time the entity was wary —even frightened— of Rome and its agents, and seemed to feel Rome's tyranical presence. In a vision, as I mentioned, it showed me that Rome still exists as twin arms, one in the west and the other in the east, and that the western one would soon be brought to ruin for its crimes. This did take place, as we know.
+
+What the lady reporter made me realize was that this extraordinary experience, written up in my new novel VALISYSTEM A, was the answer to all my years of seeking to know what is real, related to a life-long journey, and that now my books would not ask but tell. Perhaps, she suggested, I would write no more. I have seen that the cosmic clock stopped about 70 A.D., that the Second Coming lies directly before us, that each of us is judged and the books on each person closed during his lifetime. Aristotle divided the cosmos into the sublunar realm, our own, and the supralunar realm of the Gods, but he believed the two never came in contact. Plotinus later on taught that the two realms do impinge on each other; roughly, they equal Earth and Heaven, and he taught that man could rise from the sublunar to the supralunar realm, see it and know it, although briefly; and of course the Christians teach that God, througl his initiative (which is what I feel) can bring the supralunar realm down here to impinge on man — which is called God's grace, and which I feel is what happened in my case. That the supralunar realm exists I have no doubt, having experienced it, and having been saved by that grace from certain destruction. That a wise heavenly father watches over us I have no doubt; and that we are judged I have no doubt; also, I believe that the second advent is coming, probably soon — that the first stages, which are the overthrow of wickedness, I have seen, first as prophecy and then as reality; as the Bible says, Elijah is preparing the way of the Lord, and the Lord, the Rightful King, who I have seen, will return soon and claim his peaceful kingdom. I have even witnessed the changes in the animals, in the form of a vision for a short while; I did not, at the time, understand why I saw the animals change, but the changes I saw are the ones predicted by the Bible, so the time cannot be far off. The gospel, which technically is not the godspell or good news, but the news of Christ arisen and to return — I have been shown that, and know that he was Holy Wisdom or the logos incarnate, and that the second incarna¬ tion either lies directly ahead or has already taken place.
+
+I'm sure, in my writing, that I will lose a lot of fans, in particular the Marxist fans in Europe, but I have been given the answer I sought for, and rejoice in it. I admit that when that answer came, that revelation of the absolute reality lying beneath the veil, it was a complete surprise to me, but I can think of no other so joyful, so wonderful. In my mind the picture of the Rightful King is so clear and so beautiful, and I have heard the voices of the host, and I know what a beautiful world lies ahead of us here and for us when we pass over into the supralunar realm, as all of us will. The Lord of the Universe, Jesus Christ, is beginning to assimilate our sublunar world to his father's universe; the end time has begun.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Christian, Holy, Logos, Jesus, Complete, Rome, Form, Kingdom, King, Bible, Wisdom, Lord, Perhaps, Advent, Plotinus, Elijah, Father, World, Only, Time, Earth, Cosmic, Holy Wisdom, Good, Mind, Book, Even, Gospel, Could, Realm, Reality, Jesus Christ, Although, Aristotle, Either, Gods, Probably, Grace, Still, More, Church, Heaven, Real, Before, Revelation, Western, Universe, Will, Christopher, Would, Other, Have, Life, Absolute, Wise, Later, Having, West, During, Answer
+
+---
+### Line 3899-3907 (Match: 'Journey')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+14
+Needs Review
+14
+the existence of the Black Iron Prison is a revelation, [not?] visible to the unaided eyes ; But greater than that is the revelation that lying behind a [beymed?] if, Breaking into it. Breaching [it?], lie, God; Kingdom or Brahman, at the deepest level of ([ontological?]) reality. But we do not need to enter the Black Iron Prison to [?] God's Kingdom, we are in it now, & God (Brahman) is nearly reaching to us here in that prism from outside it. We must get out of the prism & enter his Kingdom, But what is first [required?] is to recognize the existence of the Black Inn Kingdom all around us. Evidently this is difficult for people to do. they would rather collute with J-J in the delusional [vil?] of Maya - "this play [was?] nice & I belong here." were we captured & brought here? or did we [rans ness?] & were sent here? I have no knowledge or insight about that. All I do know is that I wasn't always here; originally I lived with my heavenly father, in his mansion, "out there." Maybe, as the [Essones?] teach, we were divine souls who got tangled up with matter (if neoplatmism) & souls down into it, unconscious & forgetful. the solution seems to lie in the act of remembering ; this by itself has high - if not determining - [salvific?] properties. Id say, & we [illegible text?] captured, mere remembering wouldn't free us. But we could have transgressed & been exiled here, & the return of [Kemny?], initiated by God & [restner?] to us through his activity towards us (Grace) could signal that our period of exile here is over. Remembering does not Cause us to return; remembering is a signal that we have served our time & it is now time for us to return. Remembering is the first step in our journey Back; it comes as a reward, perhaps, for something Good that we did even here, without our knowing very much: maybe the men who remember do so after (for what ever reason) finding the [Dhanana in?] way. Revelation does not show us the way; revelation comes because we have already found it & begun in it, maybe by some heroic deed (which could include deeds of self-sacrifice & self-extinction).
+
+Last edit over 4 years ago by dstoerger
+15
+Needs Review
+```
+**Co-occurrences**: Kingdom, Brahman, Perhaps, Father, Maybe, Because, Iron, Prison, Time, After, Black, Good, Even, Could, Does, Something, Maya, Reality, Self, Divine, Black Iron Prison, Without, Grace, Through, Revelation, Would, Were, Very, Back, Have, Remember, Knowledge, Greater, Iron Prison, Evidently, Free
+
+---
+### Line 4130-4138 (Match: 'Journey')
+**Folder**: part could
+
+```text
+Last edit almost 3 years ago by svayambhu108
+48
+Needs Review
+48
+8 deny of these 6 models could be correct - inc #6, the I don't know" one. I was in the black iron one; I am in the middle one; + I have seen the palm tree world -+ entered it briefly - + would like to, expect to, find my way back. I seem to have been taking a vertical trip (so say the I Ching), from the awful black iron one up to ours + then up to the Palm tree one, (hopefully). I. I changed or moved; the 3 worlds stay the same. The black iron one is still There (somewhere); all that's changed is I'm no longer in it to say it disappeared when I left it is solipsistic. This is The Pythagorian, neoplatonist, Hindu gradual emancipation (liberation) of the soul on its upward (i.e. vertical ascent) journey. 3-74 was the first breakthrough upward, from The worst to this one (I threw off the worst as it by throwing off Karmic burden). For an enlightened person I sure am confused. If only there were someone to ask (I'm So ther I'm beginning to write backunds. Either I am ascending or our whole world is ascending - this confusion equals my early confusing about whether the Parousia care for everyone or just for me. In any case, viewed from any standpoint I for sure have been extricated from the black Iron Prison which means liberated perial, + I probably someday will final my resure reward by re-finding + re-entering for good - the palm tree world. But what about everyone else! The overthrow of the conspirators points to a general, historic change, involv ing not just me but our while planet. Only difference between me + everyone else is that I saw what was happening + they did not. "We shall be changed," Paul said, + I was changed. The whole world was changed. Change by reason of intervention was about all I can be sure of, except that it was for the better which is probably why I can now look back + see the black in world of which I was a part. The only ones who were brought out of it were those who opposed it. So all the others must still be on it, they are not any more aware they are in it than I was when I was in it - it's only when you lean that you can look back + see + understand. These must be overlapping worlds
+
+Last edit almost 3 years ago by svayambhu108
+49
+Needs Review
+```
+**Co-occurrences**: Paul, Parousia, These, Like, World, Iron, Prison, Only, Black, Good, Could, Just, Look, Black Iron Prison, Either, Probably, Palm, Viewed, Those, Still, Part, More, Soul, Will, Would, Ching, Were, Hindu, Back, Have, Tree, Whether, Except, Karmic, Iron Prison, Final, Someone
+
+---
+### Line 4720-4728 (Match: 'Journey')
+**Folder**: book was
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+41
+41 e D) as we move from life time to lifetime we are given one or more tests (or opportunities) to redeem ourselves before the Lord + judge + thus to return to our home in the real universe. E) supernatural forces are close to us which we can't see, contending against each other, good + bad ) What we see is only a deluding, fictional stage within the context of which, deprived of our true memories, we are perpetually retaught the Gnosis or Sophia) we lost. G) Since we are not really humans, + not really here, or at the time we think a great mystery lies before us, which we each must solve, through help (clues + hints) on this journey back to truth + reality + the company of our equals - which is to say our actual Father's home I] we must fight off a sleep-like half-sleep which is pressed on us by the forces of death, decay forgetfulness. We are helped, but also Hindered (misted). I] we can only be saved (from the delusion + ignorance + forgetfulness) by an (the) intercessor. unless he helps, we remain lost. 3) He is the only one of us (our race) who did not fall (+ lose faculties, memories etc). A punishment seems to be involved; we must earn our redemption by right choice
+
+Last edit almost 3 years ago by svayambhu108
+42
+Needs Review
+```
+**Co-occurrences**: Sophia, Lord, Father, Like, Since, Gnosis, Fall, Only, Time, Good, Reality, Great, More, Through, Real, Before, True, Death, Universe, Other, Judge, Back, Life, Unless, Truth, Right
+
+---
+### Line 5077-5085 (Match: 'Journey')
+**Folder**: part process
+
+```text
+Last edit almost 3 years ago by svayambhu108
+38
+Needs Review
+38
+3 God is immanent; the universe (world) is his body. but he is greater than the world (Panentheism ) what is not God is not wholly real (acosmic Panentheism). Only God is wholly real but he is surrounded by a veil (dokos) of appearance, like - similar to colored lights given off as if he is an incredibly multifaceted perfect sphere revolving. all time (inc past + future) is present to God as a landscape of the now. He is very close to man hidden only by the veil. He is deus absconditus; the phenomenal world we see is projected by him, as it emitted However, he is capable of infusing (transsubstantiating). because of this a hylozoistic universe exists; it is it. an organism with noss governing it men can be made use of by God to achieve results within the historical process. In terms of human life the evolution of history is, as designed by God, toward greater freedom; this is how humans should view it but a switch in view point can occur during which men cease to view themselves as individual men at all + view themselves as micro - forms of God, in which case the goal is not human freedom, but recellection that they are incarnations of God, +, having remembered, can rejoin - regain their identity as - God the macrocosm, God has entered his own cosmos so that it is not only his body but a body enclosing him, in a 2 part process of emanation sustaining + final reabsorption, the last part begins with the restoration of memory that one is God or part of God; at this point the banishment is al ready ending or ended to thus remember is to have passed entirely through emanation, sustainment as distinct from God, + to have started back; all that remains is to get back - + this is the sole line of movement left ahead once memory returns; it is the final phase of a very long journey down ward + then "horizontally" + now "vertically" back up.
+
+Last edit almost 3 years ago by svayambhu108
+39
+Needs Review
+```
+**Co-occurrences**: Form, However, Like, World, Because, Only, Time, Once, Deus, Part, Dokos, Their, Through, Real, Universe, Very, Back, Have, Life, Body, Memory, Freedom, Having, Remember, Greater, During, Human, Final
+
+---
+### Line 5884-5892 (Match: 'Journey')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+18
+Needs Review
+18
+r âž€ if one withdraws assent from the the begins the journey to destroy it. What I did in 69 (re Ramparts protest) is a theme picked up again in '74 when I withdrew belief entirely + directed it toward another reality entirely, based on a single clue to its existence - but sufficient clue, enough for me to go on at the time. The clue, the inference, proved correct. I saw it, I under stood. It was an external bit (datum) of the divine. the outer divine bit spoke to the inner. But it did more than act as a clue to the real nature of reality; it awake buried memories (of divinity) to consciousness. very old memories, which went back to a time + place before this world. I had not always been here, + I had as not always been as I now was. +, with the memories they were restored, the lost faculties were restored it the significance of this is staggering. For one thing. proves the memories to have been authentic. Here, in This body, I returned to something like my original state! There was nothing delusional or false in the memories, nor in the world which, via these restored faculties. I could perceive. The best exposition of this that I know of is the Hare Krishna image of the two friendly birds sitting together on the same branch, one eating the fruit (of this world), the other not. The episode in which I began to become freed the programming, + at the same time becoming aware of it - I drew completely insane conclusions about the programming: i.e. always it was the CP. I had the words but not the tune; I was right that I was programmed but - how odd that in all cases initially I blamed the party. At that point parity = earthly manipulation + coertion. I think that symboteually I was right: communism as it has become is the closed system determinism of this world. It is at least representitive of the closed system that unrolls like the punched tape reality in "Maze" interestingly, it is the Intercessor (Christ) who takes seth morter out of that programmed world. o e
+
+Last edit almost 3 years ago by svayambhu108
+19
+Needs Review
+```
+**Co-occurrences**: Christ, Maze, These, Like, World, Time, Could, Something, Again, Reality, Divine, Nothing, Krishna, More, Another, Real, Before, Other, Were, Very, Back, Under, Have, Body, Right
+
+---
+### Line 6097-6105 (Match: 'Journey')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+30
+Needs Review
+30
+h o t A whole new universe is created when even one determinist matrix is broken, because something on the order of a variable has been introduced - its continued (rather than destroyed) existence is going to affect other lives, other events; it is not isolated - it cannot be severed from the whole universe. Therefore in the breaking of these matrices a new different creation is coming into being. It all constellates around thousands Christ as head or omphalos. When you hear her voice the journey is over. of years of -- being apart, maybe. I forget I can rest sore mystica i - jung says, through the union with the celandia A 204 rennedy/o: 15 mo The self, Christ, is born. Wholeness seft 19 coach s i monday sept 19 ny to cuxumbery coach peconomin 1st class 365 round 265 t islandic flight #16200 toos one way on 200 265 Leavy 9:30 rom it way s for wo 530 1400 arrive los. 1:00 P tues -305 James :305 t tos 1055 - passage of [great) time (since the 1st Advent) is a delusion (or the delusion). corollary. This (now] is actually some point (in time within the life time of those who knew Christ N all our history are details inverted to support the delusion. This is the solution; this describes what + how The delusion is (works). We are persuaded that so much time has passes that Jesus' primited return is not - cannot - be true. Thus our faith is broken via this time delusion
+
+Last edit almost 3 years ago by svayambhu108
+
+31
+```
+**Co-occurrences**: Christ, Jesus, These, Advent, Maybe, James, Since, Because, Therefore, Time, Faith, Even, Something, Being, Self, Great, Those, Jung, Through, Voice, Actually, True, Universe, Other, Creation, Life
+
+---
+### Line 6467-6475 (Match: 'Journey')
+**Folder**: part or
+
+```text
+Last edit almost 3 years ago by svayambhu108
+45
+Needs Review
+45
+13) i There is a clear + evident connection between my nitrous oxide "great grape vine being pruned by God" + my anamnesis. It's odd I didn't see that at once. But as to the contents of my 3-74 revelation: I see now (via the nitrous oxide satori) that this world is only experienced alsob, as 4, if were a prison: + only by + for those who, by reason of being cut off from God, are thus automatically in a kind of prison; it must of necessity constitute that for them, for, being here + with amnesia, they are imprisoned - away from him. To see it as evil here, a prison, etc, is to experience a Godless condition having closed around one. Freedom, on The other hand, signifies (sic) freedom to regain (return to +/or remember) God: to be freed (e.g. from deterministi engramming) is to be found by God (not find God - that is impossible here; he must take the initiative, which is to say, He must pierce through into this Godless cosmos: a theophany). God cannot be found in nature; he must pierce through into nature as through a wall, shell or barrier to reach us. Misery + grieving - grieving for him But not knowing what or who one is grieving for - that would summon his aid (or advent). Once He has erased the forgetting (of having been voluntarily pruned from the vine + sent here, without memory, to see if we could be happy in our own cosmos) - once memory returns to one, the issue is decided; the soul has begun - rescued by God - its return journey. Anamnesis is everything. The key that opens the door - but God must cause it. For, once one remem bers, one would never be satisfied with or reconcited to This world ever again.
+
+Last edit almost 3 years ago by svayambhu108
+
+46
+```
+**Co-occurrences**: Advent, World, Prison, Only, Could, Once, Again, Being, Everything, Great, Anamnesis, Without, Those, Through, Soul, Revelation, Would, Other, Were, Memory, Freedom, Evil, Having, Remember
+
+---
+### Line 6820-6828 (Match: 'Journey')
+**Folder**: part cycle
+
+```text
+Indexed
+13
+13
+
+was not a misfiring; Christ's death is to be regarded symbolically in a journey of the soul to the underworld (Orphism and Pyth). Like with Buckman, the Orphics + Pythagoreans had figured out the atelos overstepping, Valis (the Tao or kosmos) + telos. Thomas was implanted in me; he didn't surface! He was born. This is how a new soul is created: ex nihilo. "Behold! I tell you a mystery. We shall not all sleep but we shall be changed, in an instant - " etc. But B ("Rome") is necessary to do the overstepping + so to attract Kosmos into assimilation. So I was right in "Valis"! The mysterious entity Valis (Ubik) is the main element revealed (Pyth's cosmos, also the cosmic Christ), + my "irrational" equals overstepping (atelos), + assimilation into Valis (kosmos or God) is, as I say, permanent (into the Tao). Now it can be seen why hubris was regarded by Paul as the worst "sin" of all - it absolutely prevented being assimilated into the Tao. I was right! Under all else the moral order of ma'at exists. The laws of this mysterious moral (justice) entity must be understood (to the extent possible). Then the "Roman Empire" is a dramatic symbol for that which oversteps. Then it must always exist; it is atelos or what I call the irrational. It is yin. Hence I see it as being cold, hard, dark, moist, rigid, cruel, implacable.
+
+Last edit over 5 years ago by Toso
+14
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Ubik, Toso, Thomas, Indexed, Rome, Paul, Empire, Roman, Like, Cosmic, Buckman, Cosmic Christ, Kosmos, Being, Orphic, Soul, Orphism, Pyth, Death, Under, Justice, Dark, Right
+
+---
+### Line 6933-6941 (Match: 'Journey')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Toso
+27
+Complete
+27
+I saw the third eye as clue to the presence of a moth-like camouflaged life form with ocelli. The "eye" was, like all ocelli, to scare me; I should have thought of this fearsome mask possibility, hiding a gentle + harmless + timid ultra life form. + it ({illustration: a triangle/pyramid with an eye}) scared me nearly to death. I roused its defenses. It wasn't trying to hurt me; it just wanted to protect itself, from being seen; I was on the verge of seeing it, so it had to scare me off. It's actually very vulnerable. Then the Eye [of Horus] in the Tetraktys is the symbol for Valis; put another way, I saw -when I saw Valis- what the {illustration: a triangle/pyramid with an eye} symbol stands for. (The third eye of the Sibyl.) __ What if "reality" doesn't exist but has a quasi-existence as web (lattice) for beauty, which is real? I melted the causal trains; ich bin der zweite Retter, this time they did not seize me (ie 2nd advent where the plot to take him + destroy him is foiled? Only Christ could see as I saw, know what I knew, + do what I did. But (as I recently realized) there is no Christ. It's a term for - something else. A race? A specific journey of reincarnation? A political group? Mutants? Symbiosis - yes, me + Thomas who is ETI. That kind of symbiosis. 2-3-74: birth of Thomas - long [latency] period. No - this is not so.
+
+Last edit over 5 years ago by Toso
+28
+Indexed
+```
+**Co-occurrences**: Christ, Valis, Toso, Thomas, Indexed, Complete, Form, Advent, Like, Only, Time, Could, Just, Something, Reality, Being, Sibyl, Another, Real, Actually, Death, Illustration, Very, Have, Life, Doesn
+
+---
+### Line 7880-7888 (Match: 'Journey')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+74
+Needs Review
+74
+17) e Could it be said that ZebRA is an emissary from (3) which has penetrated ➁ + has in doing so gained mastery over at least some of the objects + processes A ➁ for the relief + rescue of ➀. So (3 is not just sending information through ➁, but has sent a warrior-healer form of itself through + into ➁. Ah! Then it is this warrior - healer micro form which we see as ZEBRA + whose voice we hear, It is not on the other side of ➁ but is here with us, cunningly mimicking constituents of ➁: its goal: ➁ to bring us individually back to 3) In a journey after death through the evil realms of () to abolish, replace or transfor ➁ By assimating or transubstatiating it. This then, at last provides an explanation for My "post Mortem" experiences: acting as a bridge between ➀ + (3 it had -Zebra the Paraclete - had succes‐ sfully led me right through (2) + to (3 (this includes The hours in the Palm Tree Garden). So more than restored memory is involved. First the person remembers who + what he is - that he doesn't belong in (, + came from 3 originally, + then ZEBRA as psychopomp leads him back to ➁, his place of origin. It is of the most significant importance that ZebrA could induce this normally post
+
+a mortem journey + goal attained to living men matter of such vast importance that nothing could be more importance - not just because it shows us that there is life after death, + what that life is like
+
+Last edit almost 3 years ago by svayambhu108
+```
+**Co-occurrences**: Zebra, Form, Like, Because, After, Paraclete, Garden, Could, Just, Palm, Nothing, More, Through, Most, Living, Such, Voice, Death, Other, Back, Tree, Life, Memory, Information, Evil, Doesn, Right
+
+---

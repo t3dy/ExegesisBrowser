@@ -1,0 +1,347 @@
+# Evidence Packet: Absolute
+
+- **Category**: Top Term
+- **Total Mentions**: 31
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 393-401 (Match: 'Absolute')
+**Folder**: book A
+
+```text
+(one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, and wihtout it, there would be nothing but illusion, nothing but Maya, so to speak.
+
+(two) Lineal time is mere process or accumulative time, which conceals orthogonal time from our gaze.
+
+(three) The Dreamer who determines both our sleeping dreams and our waking dreams (vide Tart) wishes us to suppose the reality of the phenomena extensive in lineal time. But, upon the command, "Wachet auf!" these accretions within lineal time roll back to expose the ground of being. The Dreamer (i.e. He who dreams us) can perform this absolute act at any time He wishes (called by the Christians God's Grace or God's Mercy).
+
+(four) The landscape thus exposed, not deformed, is quite a
+
+Last edit almost 3 years ago by twsullivan
+```
+**Co-occurrences**: Christian, These, Time, Suppose, Both, Maya, Reality, Being, Grace, Nothing, Ground, Real, Upon, Would, Back, Have
+
+---
+### Line 537-545 (Match: 'Absolute')
+**Folder**: Unknown
+
+```text
+Undoubtedly the alchemical meta(crypte)morphosis worked in the human (lead to gold) contains a key to this transformation cycle of all society, of earth itself. After my own transformation, done via gold (the fish wrought in gold) I had a ferocity about --a maniacal antipithy toward-- lead in particular, base metals secondarily, but certainly a sense that lead was a poison, destroyer of life, killer of health (the dream: "The bichlorides are a very poisonous poison" suggests the alchemical symbol or reality of lead as poison was there in my head -- Albert Magnus, Simon Magnus, et al. I saw the world under the vector-aspect of gold, and I saw the former point or filter color presenting me with the departing base metal, the oncoming gold.
+
+It certainly shows that the alchemists were seeking a symbolic transmutation of psyche or maybe noös, not metal qua metal (which Jung and AMORC have pointed out). That something equal to turning lead to gold can happen in the person, in his mind -- this is certainly extraordinary, and makes the upfront alchemist's story (lead to gold) an allegory of man's progress spiritually (again the magic of the mystery religions). So in considering what happened, how it happened, who (if anyone) arranged it and what for, the alchemists and what they actually were up to must be considered. This could have been a spontaneous process in me, in which I obtained that very lead-to-gold transmutation sought for by the alchemists...that they sought this is certain; that they found it is speculation. I am sure many of them did undergo this crypte morphis, invisible to the outside. It is possible that I did it alone (the experimentation with the ortho molecular vitamins and so forth being my "alchemical experiments"), but it is also possible that a Redeemer caused it adventitiously (Gnosticism versus Neoplatonism). The spontaneousness of it would indicate that, like any true chemical reaction, it is not reversable. I think that the first dream being the baby's cereal box with the "the bichlorides are" etc on it indicates an external Grace assistance or intervention; I was and am being told by someone else...which the AI system of Albert Magnus maybe was. (The problem solving question answering head.)
+
+The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
+
+It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese States of America" dream is typical. I dreamed all manner of explicit alchemical symbols (the homonculus, the retorts interwoven...flask of Hermes, the fish, etc.), out of Jung's description of the self in the process of psychic integration experiencing noetically these prior consciously arrived at symbols (prior in terms of centuries -- thus his theory of the Collective Unconscious, that such symbols could arise in a modern man who did not know them, who had no way of knowing them -- like me with the Greek. But this
+
+Last edit over 2 years ago by ratatosk
+```
+**Co-occurrences**: Fish, Greek, Gnosticism, Wisdom, These, Plotinus, Maybe, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Info, America, Magic, Hermes, Human, Dream, Someone
+
+---
+### Line 628-636 (Match: 'Absolute')
+**Folder**: part or
+
+```text
+What is expressed here is an extraordinary demonstration of the principles of conservation and symmetry (Hericlitus and Parmenides, plus our thermal laws). What was dispatched tiny and weak and frail and ignorant has returned with moral and spiritual authority, capable of working "magic," i.e. casting and removing dokos. Originally it fled Kali and has now returned, cowl-masked, robed and in d[u]sguise, the "unknown person" of Zeno's paradox who is himself, to break the power (thrall) of Kali (the deformed kingdom; desiccated kingdom of Set). So, more correctly, it can break spells, not cast them; it is parity within the Kundry Klingsor) versus the Redeemer axis.
+
+I am going to state a truly extraordinary premise: that long ago, when Earth fell to thrall, a signal was sent out for help; that signal itself has returned in strength, bearing power and arms, in truth and justice; that signal accumulted space, hence time, transduced other fields, rose from unliving to animate. That signal is it's own reciever, and has been boosted, fedback to grow; hence in a sense to send out a prayer is to automatically intuit its return later, at the time of fulfillment (which would vary from person to person; earlier sent, earlier returned; if time is an energy, and time and space are convertable extension of a matrix, then space is energy, as well; as it traveled space it began to grow, rather than weaken -- this was after it had gone half-way and was returning; it recapitulated all that had been lost, by the principles of conservation, parity and symmetry, supra).
+
+This is Absolute negantropic compression, the restoration of lost or waste (heat). Time (energy) is Form One. Space (empty, hollow, Yin, cold) is Form Two (but these are expressions of a Sameness; v. Parmenides.
+
+Last edit over 5 years ago by Harpax
+39
+Needs Review
+```
+**Co-occurrences**: Form, Kingdom, Well, These, Parmenides, Time, Earth, Harpax, After, Himself, Dokos, More, Would, Other, Justice, Form One, Later, Truth, Magic
+
+---
+### Line 864-872 (Match: 'Absolute')
+**Folder**: part of
+
+```text
+If a simple, workable, theoretical model were wanted by which all could be restored, then this might serve:
+
+(one) Reality in concentric rings of greater being (completeness), which the person initially encounters in terms of a ring less real than one he later encounters (best on all, final[l] encounters). Thus, the final ring encountered is the most real and gathers up --accumulates-- all that he ever encountered before.
+
+(two) There would be a "writing backward" system by which the person would be presented, for engramming-on purposes, lesser fragments of forms the larger fragments of which he will encounter later -- that is, later for him. Thus, his encounter-linew would be arranged backward to the direction he himself experiences it, the way a mystery novel is written. What he had had, and possibly lost, which would make the term "restoration" meaningful to him, would so to speak be deliberate clues presented ahead of time (early in his life) with the full knowledge that these were the certain experiential items he would later on come onto. The interesting part of this is that he could be easily almost effortlessly, engrammed in a random fashion, yet have the sense of total meaning. Here is an synthetic example: let us say that at the end of his life-line he winds up in the Lusitania Hotel which is the shape of a boat and has cherrywood furnishings including broom plants (Acacia) as the floral items. Intrinsically neural in value (these are virtually a pattern-less collection of elements) they would, for him, acquire meaning --Bedeutung-- if one were to place early in his life small replicas of these constituents: one would see to it that as a child he grew up for a few months --long enough to create engramming-- in a yard with flowering Acacia, which is really a weed, and that he watched a film on the sinking of the Lusitania on his family's TV set...and so forth, seeing to it that these was a vast wasteland of these items, so to speak, until the glide pattern past his life. Finally he would begin to encounter these dear long long engrammed-on bric-a-brac, and have a deep sense of cosmic completeness. Thus any life, theoretically, could be given a subjective sense of completeness and meaning and purpose and wholeness just by seeing to it that retrograde "clues" of what was in the natural course of events to happen along were stuck here and there at very early strategic points. The economny of these would be beautiful, since one would simply work backward from the "solution," i.e. the end as pure random given. "I am getting all back what I lost," the person would sigh gratefully, and see a Divine Plan, a Godish Hand in all this. Of further interest: he would be right. There is really no way this simple, economic system of enbewing an ordinary life with completeness could be accomplished without the agency of (a) deliberate design and (b) the ability to accomplish it by retrograde motion in time. What is to me of supreme interest is that the person involved --the subject-- would be able to detect the subtle but to him indubitably real hand of the Creator in the final section of his life -- although no one else could, and any one else could argue himself black in the face that no pattern was evident. The subject, all his life, would have carried these key engrammed-on external gestalts, slumbering always in his psyche; he would know, when he began to re-encounter them, what it signified (not that the end was near, but that the whole process was subsumed by intention, design, and a plan or Logos). These would be absolute signs along the trait that there was indeed and trail -- and it was one intended for him; he and it were isomorphic.
+
+Last edit over 5 years ago by Harpax
+57
+Needs Review
+```
+**Co-occurrences**: Logos, Form, These, Since, Time, Harpax, Black, Cosmic, Gestalt, Could, Just, Reality, Being, Although, Divine, Himself, Without, Creator, Part, Most, Real, Before, Finally, Will, Would, Were, Very, Back, Further, Have, Life, Later, Knowledge, Greater, Final, Right, Until
+
+---
+### Line 922-930 (Match: 'Absolute')
+**Folder**: part of
+
+```text
+. . On the "Decoded New Testament": It agrees with my experiences of the whole last year. They say it comes via the sun; the sun acts as a transducer (so to speak) between Creator and visible universe, a sort of nexus. There is the solar spermatikos, which impregnate men's souls, which enter us as divine immortal seeds. (One to a person.) That would make God the father; is the human being, then, merely the host for this, for Firebright, as I understand to call mine? Or am I the other parent? (The second birth of the New Testament.) It is also me born again; the second birth is mine; so I am a parent, not merely a host. We have here a true duplex entity, not a parasite. I merge with and gradually, by degrees, become Firebright, who is growing. I --physically speaking-- can get sick and be killed; not so Firebright (the karmic body, so-called).
+
+You can't make this happen. God does it. How exciting, and yet I knew all this, from Firebright (i.e. the Logos, the microLogos).
+
+. . "The Decoded N.T." shows that there are others like me, and they know who and what they are, and have joined together. There is nothing I know that they don't. This answers one of my most pressing questions; the answer is Yes. This whole thing is really real. That I was given this...crucial stations, I suppose, which fan out in all directions (of my London "speech"). But I did see what they haven't said: the absolute purposefulness of everything, and the retrograde method of making it all work to a point. What happened to me (Firebright) had a certain history -- if you read backward along linear time: my works and my life, in oddly contrasting ways, make the experience although in no sense predictable, at least sensible.
+
+. . .
+
+In discussion with Loren Cavit: what I saw in 3 74 may not have been "Seeing the universe backward, reversed, etc." but I may have in
+```
+**Co-occurrences**: Acts, Logos, Father, Like, Time, Firebright, Does, Again, Suppose, Being, Although, Everything, Divine, Nothing, Creator, Most, Real, True, Universe, Would, Other, Have, Life, Body, Testament, London, Human, Karmic, Answer
+
+---
+### Line 1000-1008 (Match: 'Absolute')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+67
+Needs Review
+67
+This news (in Psy Today) about the pineal body being a light-receiving organ or gland is so exciting to me because it means that the chromatic phosphene source I experienced did not merely go to the light-sensitive part of my brain, but also to my pineal gland. Since the pineal gland is the "third eye" actually, scientifically speaking, as the Hindus believed, this is thrilling (and helps explain my dreams of the three-eyed people, also ratifying their significance and ratiofying that indeed the pressure experienced as phosphene activity did in fact travel to my pineal) anyhow, its function, as the Ency Brit says, "its obscure," but it is connected with springtime, with instinctive actions, and with total endocrine encoded metaprogramming. My brain saw the phosphene activity and was dazzled and delighted; however, probably as far as the brain itself went, it ended there. Not so for my pineal body; it responded (which is what it does; see article in Psy Today) to what it received from the optic nerve, accepting it not as entertainment but as signal. (Disinhibiting, no doubt.) Probably all melatonia production (for openers) was halted, it being an inhibiting secretion. I guess I saw the "Other Sun," which shone at nighttime, when the physical sun isn't there. It was a deliberate signal from the Sun of Righteousness, in the night, a dazzling display of its kind of light (a fire-like light, much like chromatic fire), and it tripped the pineal into things buried in our morphology for thousands of years, which the physical daytime sun doesn't trip (more that abolishing the production of melatonia and histomine, etc.). This chromatic Other Sun fire light would cause firing (sic) in the pineal body which constituted the true, absolute, ultimate purpose of that body, and place my total mind-body organism into its true, absolute, ultimate Being state. Here, I am not saying anything new about what happened, only about how it was done. But it emphasizes that the cause was external, and deliberate ("Grace of God"). And again ratifies the "Decoded N T" theory of what Xtianity was all about -- what they were after, and shows there is indeed a "Sun of Righteousness" capable of shining at night, or day if it wished, but not, repeat not, our physical sun and its variety of light.
+
+Nurturing. I am not, rather than merely being nurtured (by the Earth, etc.) but nurturing Firebright within me (a Yinnish matter: hence this is why I got K'un as my trigram, K'un and Tui, both female). This is the normal growth-line of a[n] organism: it is born, and must, as an incomplete, ungrown infant, be nurtured. Gradually, as it grows, it moves toward nurturing rather than being nurtured; final entelechy completion would be for it to nurture, be a parent. This is logically visible in all higher organisms. (We call this "giving" rather than "receiving." What the Gospels stress when they repeat the concept of giving in so many ways is nurturing, which is giving. The parent (mother or female) gives of her own body in this. The reason the Gospels emphasize the female values is not for receptivity alone (which is the first step, before implantation) but after the reception of the seed, then the nurturing. So long as one takes, one is not full grown, and certainly not yet a parent (of the Spiritual, Immortal body within). One becomes the "mother" and God Himself is the Father. And does the protecting, as one sees on the visible plane, in a family.
+
+The "receiving of the Holy Spirit" at Pentercost, in Acts, probably is this reception to the pineal body by this different light. What travels to the brain itself is only a by-product "Aurora" display.
+```
+**Co-occurrences**: Acts, Spirit, Holy, Christianity, Holy Spirit, However, Father, Like, Since, Because, Only, Earth, Harpax, After, Mind, Light, Gospel, Firebright, Does, Anyhow, Again, Both, Being, Himself, Probably, Grace, Brain, Part, Their, More, Actually, Certainly, Before, Mother, True, Would, Other, Were, Many, Things, Body, God Himself, Today, Doesn, Final
+
+---
+### Line 1081-1089 (Match: 'Absolute')
+**Folder**: part survives
+
+```text
+In one sense Firebright is within me; in another (looking ahead, past the tyranny of time) I am within him. "The child is father to the man." What will survive of me is what is worthy, I guess, and a sort of consciousness, but yoked in duplex or multiplex with the Savior, who is/will be each and all of us.
+
+There was another entity in me, all right: thinking away in Attic Greek. (the [l]ogos?) (the father?) (Firebright?) (The Holy Spirit? Probably the HS. But it proves one was; and, as Apollo made the sibyl do this and that, it made me do this and that.
+
+Perhaps, when the Moment of Restoration comes (which could work equally for all men at once --collectively-- or for one individual here and another there, or even visible to just one) the accretional laters of their/his reality would simply be removed, stripped away, to reveal the past -- i.e. what had been lost. Again, I refer to the quality of lineal time to accumulate as it advances up the manifold. Restoration would be a taking away! Just as when one restores a piece of furniture to its original --true-- wood by stripping away layers of varnish; under them the authentic wood remains. We do call this "restoring." Perhaps the ultimate & absolute Restoration (rather than merely a partial one, but rather the one) would be an abrupt stripping away of all layers back to 2000 years ago: to the time when Christ was alive, not to the Crucifixion as I was thinking, but to the restoration of Him. The Crucifixion was the taking away of him. My experience contained an awareness of a savior about to come, which would be both a restoration (first advent) and the ful[l]fil[]ment (Second Advent). A collapse of time, the 2000 year interval between His going and His return, tel[li]scoped into a single point. Like when as one train leaves a station "another" appears at once.
+
+Last edit over 5 years ago by Harpax
+75
+Needs Review
+```
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Greek, Perhaps, Advent, Father, Like, Time, Harpax, Savior, Even, Firebright, Could, Just, Once, Again, Both, Reality, Apollo, Probably, Sibyl, Their, Another, True, Will, Would, Attic, Back, Under, Right
+
+---
+### Line 1091-1099 (Match: 'Absolute')
+**Folder**: part one
+
+```text
+I never after that "found" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was actually there and actually experienced during full wakefulness, as present. Yet, it was still now. But now He has returned. I was now and yet superimposed Rome of 2000 years ago: 1974 Fullerton and Rome c 45. I gather that what I experienced were the two advents unified, with time abolished. It made Rome Fullerton and Fullerton Rome; it made 45 AD 1974 AD and 1974 AD 45 AD. This certainly would explain why I knew that neither reincarnation or time-travel per se were involved. It was a time dysfunction but of a crucial sort, that prophecyed in the Bible: the Parousia, an expression (experience) of it, a demonstation of the nature of the Parousia in which it abolishes or ends time, or perhaps, when God enters time from outside time, which is to say, from Eternity; surely that's a time dysfunction, although you might not be able to fathom why it happened. But I guess this is what you experience when God abolishes time; when the Parousia arrives.
+
+In connection with this, I wasn't just back in Rome; I was aware of two portions (not aspects, but divisions): the Roman army/police -- and the hurrying semi-invisible Christian underground, the fish Christian who were illegal and whom the Romans (part one) were after, to destroy. Gosh, if I were merely transported back to Rome via a time dysfunction I might gaze at great buildings and watch crowds, having no awareness of the fish Christians or the Roman ir leg. So this was not only Rome, or Rome as such; it was Rome viewed as the Apostles must have viewed it; it was a very precise and special view, and I was one of those fish Christians. I am happy to say that in this apocolyptic experience, I was indubitably one of those Christians, and our Savior was anticipated momentarily (later in the year I had the "Santa Sophia" dream, bearing this out without the Roman experience, that is, the Second Advent for sure, for us).
+
+The "Dec N T" says that this time Christ won't appear in the form of one single man (as he did as Jesus before), because if he does, then they'll get him again and it'll be a failure again; therefore, as I understand it, this is what all this solar spermatika, the seeds, etc. talk has to do with; there will be many implantations, of persons already alive and walking around "at their regular tasks," and the births will be plural, and inside peoples' heads, and not out of a womb, as with Mary's. Gee, I finally understood it. There will be no one Savior born this time, but a different system. Vide St. Teresa of Avilia. "Now, Christ has no body but yours." Is before (at the First Advent) implantation will be done by the same spirit, the Holy Spirit, supra, and the same issue will occur: the Son, which explains Jesus' cryptic remarks about where the Kingdom would be (not here, not there, and Christ not here, not there). But: in you and among you. Yes indeed! Kingship, then, within given persons; the assumption of rule (this duplex personality) within various persons; this is the Second Advent, and not a mere anticipation, a la Elijah. This is the Second Coming itself, this Firebright implantations. I mean, these, not this. My God -- what happened to me (sic: to me) in 3 74 was the Second Advent, one of them, anyhow. Guess who Firebright is, viewed this way. This now resolves one mystery (mystery to me, anyhow): the relationship between Elijah and the Holy Spirit. What Malachi said would come back was the Spirit of Elijah (if you read about Elisha this is clear). Surely it wasn't the physical man. The Spirit of Elijah is the Old Testament Hebrew concept for the Christian Holy Spirit (remember, the Jews were absolute monotheists).
+
+Last edit over 5 years ago by Harpax
+
+76
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+
+---
+### Line 1284-1292 (Match: 'Absolute')
+**Folder**: part of
+
+```text
+I would like to add that my description (and memory) of what Pinky did in trying to heal me (lying on m[e] transversally) I now learn Elijah did to help restore the widow's sonx.
+
+I guess the votive candle and the little saint helped. God consecrated reality right & left around me: miracle of miracles. I understand. Credo.
+
+I have had in this one very small clue, but absolute: the sound of the bells, the Osterglochen. Christ arisen! The bells of Easter. This delineates it beyond....the sound of the healing bells which mean transformation (as in "Parsifal"). The wound closed. But only One, Christ, ever spoke through the Osterglochen. (And it was at that time of the year, too.)
+
+So it was a vision.
+
+I must never forget the bells.
+```
+**Co-occurrences**: Christ, Elijah, Like, Only, Time, Pinky, Reality, Through, Easter, Parsifal, Would, Very, Beyond, Have, Memory, Right
+
+---
+### Line 1325-1333 (Match: 'Absolute')
+**Folder**: book certainly
+
+```text
+Last edit over 5 years ago by Harpax
+93
+Needs Review
+93
+I saw the religious encoding and read it, myself: the Logos term "Felix," the entire ending -- everything, that paragraph illuminated (to me, as I told Sergeant Kelly). I has released the Word, shagged past the brutal oppressors and word-denyers. And if indeed it is The Good News shagged on by, in a least-expected place, it is specifically that in fact the Parousia are beginning: this is Christus Judicator. If the Brit 3 article is correct, though, this is the only way the Kingdom is going to come, the only way any of the events of the Parousia are going to come; that means my experience is not anticipatory, since there is in truth no emperical change going to be visible, which can be subjected to test (it can't be shown to be here or not to be here, is the point the Brit 3 article makes; it is elusive). It is a sort of secret kingdom in which one can live without appearing to live there, although one himself, he would know. And if this Brit 3 view is true, then this has always been the case, and the Kingship may have begun arriving for persons on an individual basis at the time X in the past -- time X being any moment after the Crucifixion. We are waiting for something which does not exist in time as we understand existing in time; it can be both here and not here simultaneously (vide supra about palintropos and -tonos, transcending the dipole thinking). The Parousia partake in -- no wait; no the palin(s) but the Secret Partnership, where Horus and Seth are not absolute antagonists "behind the scenes," Joe Campbell's book. The same with this. Within visible lineal time the Kingship hasn't come, and maybe never will (equal to Horus and Seth being implacable opponents); the Kingship has arrived is equal to "behind the scenes, in eternity: the Secret Partnership.
+
+In rereading the Brit 3 article on "Jesus Christ" I'm reminded that although the Second Advent is of Christ, what Jesus taught was the coming Kingship of God, not of Himself, the His Father would rule here, whereas now, God does not; Satan does (vide esp John). This could mean, Rule inside person-by-person, I guess. But the mystical corporate body which we enter is that of Christ; and Easter is connected with Christ, very specifically; I stand more toward that, a mysterious euch[e]ristic identity with the Real Presence of the Savior: a joining with Christ, esp Christ as Logos, first born son of God. But then the void dreams I had: the beatific vision of God. They are not that separable. If you attain union with Christ you certainly have reached God, and perhaps since Christ is the Path, this is how we do in fact reach God: brought to God, at last, carried there by Christ who rescues us (individually for sure; this is certain: Christ rescues on an individual basis). Christ, then, as the guide (Pinky, e.g.). Leading to the Kingship of God, to where God is. If God is not here, then I am taken there to where God is, led there, assisted and helped, on a journey (yes, I am sure of that; my guru as silent guide; the search as for the Grail).
+
+When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life, I get a single impression, one story underlying all, but not that visible until all 3 are compared. It is the story of a kingdom where reg[n]icide took place; the throne is occupied by a ursurper; now the rightful heir has returned (the stranger, Hamlet, Jesus), and holds no power, but speaks in strange riddle. The brutal ursurpacious ruler has him imprisoned and possibly killed; nonetheless the young stranger
+```
+**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Journey, Life, Body, Truth, Whereas, Until, Grail
+
+---
+### Line 1453-1461 (Match: 'Absolute')
+**Folder**: Unknown
+
+```text
+Small short insight: the wise old king on horseback seen in my TEARS dream -- it is he (graphically envisioned) who was later to take me over 3 74. I still don't know who he is, but this is He. This is how he looks.
+
+. . . Today (after reading in the LA Times where a psychic says there is another life form on Earth smarter than we are, but that it lives in the water "and has no hands") I decided to describe, without attempting to name, the entity which telepathically appraoched me in 3 74. Its most salient quality, when I went to enumerate all of them, seemed to be not its thinking (mentation) but its knowing; it knew everything...and I reported, to myself, how it seemed to know things & events & people from inside, out from outside (external facts), but seemed to sweep them out at the very heart. And then I realized that I had given an excellent description of the Paracletos which Jesus in "John" says God will send here as Comforter, Advocate, etc. Also, it finally came to me that the state of agitation and distress and perturbation I was in in 3 74 when it suddenly approached me with aid was exactly the state of agitation, distress and despair and perturbation --at the end of my rope, really-- I was in back in my high school physics class when I took the test that dealth with Archemides' principle. In both cases the need was the same: the acute despair and prayer petition on my part: need of an acture sort. The same small calm inner voice came both times, knowing everything and informing me. Rendering assistance of a particular sort: it knew the answers which I needed in order to survive. It knew and it told me, and then it departed. It was God I called on then, back in the mid[ ]40's. I'm sure it was He Who answered then; evidently now, too.
+
+All the trillions of written pages I've seen in sleep...I'm sure they're equivalent to the spoken answers I heard in my head in my high school physics class (where I was awake and so couldn't dream). This is information of the highest kind, from the ultimate source: the S[p]irit of Truth, as Jesus explained it. "Who sweeps out and knows even the heart of the Father." Mainly it gave me absolutely correct information (and insight) plus the zeal to put into action Handlungstreie based on that knowledge. Also, it seems likely that my preview of Fullerton (dream for 8 hours while awake back in 1971 of "Mexico") plus the TEARS dream, both of which had permanent effects on me, came from this source; there has been one source throughout and I think this is the historic name for it, and historic promise. Here are 4 examples of absolute for sure intervention. Maybe there have been others I never was
+
+Last edit over 5 years ago by Harpax
+103
+Needs Review
+```
+**Co-occurrences**: Tears, Jesus, Form, King, Father, Maybe, John, Earth, Harpax, After, Even, Both, Everything, Without, Still, Part, Another, Most, Voice, Fullerton, Finally, Will, Very, Back, Have, Things, Life, Information, Wise, Later, Knowledge, Truth, Suddenly, Today, Comforter, Dream, Evidently
+
+---
+### Line 1542-1550 (Match: 'Absolute')
+**Folder**: part retained
+
+```text
+Needs Review
+109
+evident that a tutulary god lies within, dormant maybe most of the time, but always in touch, always capable of being reached (as in prayer) or arising on his own when a threat to my autonomy lies ahead. He is a world-builder, a city maker. He is creativity. Obviously he is related to the logos, the meaningful structure of reality (as RM defines logos). This discovery (the will, Socrates' daimon) certainly explains both my relentless, almost maniacal drive in writing (daemon-driven) as well as where I get my ideas; i.e., that world which I write about again & again, one single long novel, as Ursula put it -- where does it exist? It is the Weltbild constructed by my daimon, which probably knows what new forms or views, new Weltbilder, lie ahead for us; it had its basis in the future and its view as a future view men will someday hold, as RM points out: it is not I who see what's coming but it. This explains the eerie precog element in my writing, like about Kathy in TEARS, that which Paul Wiliams has pointed out about many, many of my books (I note a lot of this in WE CAN BUILD YOU, for instance). Also, for me, it answers my over[hw]elming need to know how come there is so much of St. Paul in TEARS (names, for instance, events, even ideas). TEARS, for me, is certainly the most extraordinary in all respects -- even unto my long-term conviction that the MS, the publishing, were in jeopardy from invisible evil government forces seeking to repress it due to the ideals and views in it, what it reveals, in other words about this society. The daimon wrote it knowingly; for me unconscious, for him/it very superconscious. Thus, Socrates' daimon, as an explanation, knits everything together, including my very drive to write -- 23 years for openers, receiving back very little pay or rewards.
+
+. . . Each of the times I roused/raised/contacted the daimon in me, I did so through distraught intense prayer. And it answered and gave me this aid I needed, appropriate to each situation. That is the daimon talking to me (e.g. "And she shall see the sea.") This is what Socrates reported. But in 3 74 I entered a state of being which is not reported, except where I trace the words in the Gospels regarding the Kingdom of God. In 3 74 the daimon was not merely with me; it became me and me it. It merged with me. Put another way, I passed from this world into another world (as shown in the photo of me). That is not situational advice, or intervention; that is not even help; that is a becoming and a being, and the dreams I had showed I had indeed attained the most treasured state possible; i.e. the pearl of great price, for which one sells all he has to obtain. It was an absolute & ultimate state, unlike anything I'd ever experienced before. It was total. It did not inform me of one thing but of everything. It healed me. It revealed all to me, including how the universe works. It showed me the Beatific Vision, finally. After that, the daimon spoke to me still (e.g. about Santa Sophia). I can't believe that what I experienced could be anything other than what Jesus taught us to seek. And to desire above all else. Most distinctly, it was a second birth. Our of all this, however interpreted, I know that there is an eternal world, and that it is divine, that it can break through to assist us, that there are forces and entities in it which know everything. They are aware of our existence. What their names are I don't know. I hesitate to call them "supernatural," anyhow in relation to us they are: realms beyond our space-time universe. Of this there is no doubt whatsoever. Are names important
+
+Last edit over 5 years ago by Harpax
+110
+Needs Review
+```
+**Co-occurrences**: Tears, Logos, Jesus, Form, Sophia, Kingdom, Paul, Well, However, Maybe, Like, World, Time, Harpax, After, Book, Even, Gospel, Could, Does, Anyhow, Again, Kingdom of God, Both, Reality, Being, Obviously, Everything, Divine, Great, Probably, Santa, Kathy, Still, Their, Another, Through, Most, Certainly, Before, Santa Sophia, Universe, Finally, Will, Other, Were, Very, Back, Beyond, Many, Evil, Socrates, Government, Except
+
+---
+### Line 1635-1643 (Match: 'Absolute')
+**Folder**: book COSMIC
+
+```text
+. . . Paul Tillish once said that you can see the Fall written on the faces on (the) animals. What I see on their faces, and in their manner, now, it the expression of the Actual Presence; am I to assume that I read right, as Tillich read a former message equally right? "Break a stick, break open a rock, and there I am," as Thoman quotes Him. (Pinky, Ralph, Misty -- I don't read "Fall," I read "Restoration.")
+
+Ah! He is infusing (transubstantiating) the world more and more! Ontologically, as in the Mass (therefore, from within: "Break a stick," etc.; He is within it. What I sense most is a motion (wind) and a glimmer (light). Did the Fall (setback, breakdown of communication twixt us and God) occur at the Mycenian Epoch? All growth and progress cease? (The Golden Age.)
+
+. . . The logos as meaningful structure of reality never went away. We (as H[eri]clitus describes) fell away from it into our idios kosmos, which is the Fall. We can't see the logos. Hence, the logos must, so to speak, come after us, following us, i.e. is born as a man here and speaks to us; calling us to be His sheep, he leads us back into relatedness with him as meaningful structure of reality; i.e. we enter the Kingdom of God. However, he came and we killed him and thus fell back away again. Now he is returning. We can't find Him; He must come to us; this indicates how blind we have become. Only when the logos talks to us outright do we become aware of it. Also, "meaningful structure of reality" equals "God's Wisdom" (Santa Sophia), which tells us a lot about the universe. "They are like people asleep/people in a dream," which might be the same as "with eyes closed" or "blind"! I am sure that in my case (3 74) I apprehended the logos because the logos actively caused me to; this would be The Savior intervening to render aid. The dying on the cross served to show us the absolute love He feels for us, and so was necessary, to get the message across to us. "No man hath greater love..."
+
+Last edit over 5 years ago by Harpax
+
+116
+```
+**Co-occurrences**: Logos, Sophia, Kingdom, Paul, Golden, However, Wisdom, Like, World, Fall, Because, Therefore, Only, Harpax, After, Savior, Light, Pinky, Once, Again, Kingdom of God, Reality, Kosmos, Santa, Their, More, Most, Love, Santa Sophia, Universe, Would, Back, Have, Cross, Greater, Dream, Right
+
+---
+### Line 1767-1775 (Match: 'Absolute')
+**Folder**: part of
+
+```text
+. . . Regarding the M. Mission's contention that the Holy Spirit left around 150 AD -- this is not in accord with what Jesus said, about sending us another helper who would be with us always (or however it's put in John). Who will remain with you, and "it's better for you that I do leave so it can come." It is not reasonable that a Comforter would be sent, and arrive, and then either leave or be withdrawn. Why would God withdraw it? If temporary, it would be of little use; Christ stressed the value of it in terms of it abiding with us. This is all just to assign no worth to 2000 years of the Roman Catholic Church, the "dry period." I am finally led back, by logic and analysis and study as rigorous as that of Thomas Acquinas, to othodox Trinitarianism.
+
+. . . The main thing that I saw in 3 74 is that God is right here, immediately present; he never went away; he is immanent not transcendent, there is no dry period without him; "break the stick," etc., he is with us but we're occluded. The Kingdom is already, but invisible to us.
+
+. . . Reading all this religious literature I can see now that for everyone, God is simply the explanation of how the universe got here -- i.e. how it came into being; someone had to create it, the First Cause Uncaused which "set it spinning." Viewed this way (also, God called into existence as a concept this way, simply to explain how the universe came into being) there would be no reason to suppose Him to be here. For one thing, the absolute sunstantiality of this world is taken for granted. But all my life I've felt it is not, that something truly real lies behind it; thus over my entire adult life I have prepared myself to encounter an immanent God emerging from within this world.
+
+Last edit over 5 years ago by Harpax
+125
+Needs Review
+```
+**Co-occurrences**: Christ, Thomas, Spirit, Holy, Jesus, Holy Spirit, Kingdom, Roman, However, World, John, Harpax, Just, Something, Suppose, Being, Catholic, Either, Viewed, Without, Church, Another, Real, Universe, Finally, Will, Would, Mission, Back, Have, Life, Comforter, Right, Someone
+
+---
+### Line 1845-1853 (Match: 'Absolute')
+**Folder**: part remain
+
+```text
+Last edit over 5 years ago by Harpax
+132
+Needs Review
+132
+Every time in my life that I've heard the spirit it's been when my normal (linear) thinking had exasperated & exhausted itself -- reached its end without results, but each time, results were still absolutely necessary. This alone makes a circumstantial case for locating the spirit, the Inward Light, in the right hemisphere (I suppose). Normal habitual cognative processes must be tried fully and fail. This would by why under routine & ordinary conditions I don't hear it and am cut off from it. But this only tells me where it can be localized in terms of brain morphology. As an appositional other brain, not my own, it still -- well, how does it come to think in Attic Greek, and make use of technical terms such as syntonic? My original diagram showed a piece of the macrocosmos within the microcosmos, but that was more a metaphor and poetry. Also, if my right hemisphere can do this, why does it do it only when I am under duress? Why isn't there bilateral parity? What an improvement that would be. Is it a new organ just starting to come on, as Dr. Bucke believed (i.e. the next step upward in human evolution)? Maybe so. In regards to such persons as Kathy, she certainly was deficient in left hemisphere prowess; almost an idiot in terms of language use. The pure intellectual ability was aborted in her habitually, leaving a vacuum into which perhaps her right hemisphere flowed; and also, maybe (and Rick suggested) she fucked up her left h. with dope. "The old Adam, sinful and full of pride, must be destroyed in order that the second birth can take place; the ego must go." Does this perhaps mean the left hemisphere and the self-system in it? It must somehow die -- which is exactly what I felt happening to me, or to mine, back in 3 74, a psychological death (following all the stations of the cross, and ending in rebirth of a totally new and greater kind). How possibly could a lesser, minor, inferior portion (half) of the total mind be habitually turned outward to the world, and a wiser, older part, devoted to truth, in possession of innmeasurable knowledge, holy and calm -- how could that part remain suppressed virtually forever? Just from a functional standpoint it's hard to understand, unless its time is coming, as Dr. Bucke thought. This, in addition to, How did it form? How did it form and why isn't it used? It doesn't seem to be a social product, or limited to this time & this space. I wonder if it is a self-system, an ego, at all. It is not another self, even a better one; it is absolute it all that it knows, does and especially in all that it is (its ontology is perfected). I don't really see it in process, in becoming, and more than I see it making mistakes and learning thereby. It has no infancy and no senility. Also, it is ma'at, I just realized. The absolute judge; I am sure of it; I can tell; mostly by its voice. What it does most of all is weigh. Law (proportion), truth and justice. Joseph Campbell identifies ma'a[t] with dharma and tao, also the will of heaven. It ma'at can speak --be personified and "alive"-- then we have advanced out of the Chinese idea of tao and into something like the Christian concept of God. . . In 3 74; the abolishment of time for me shows that mythic identification (with the god or goddess) did take place; of Joseph Campbell p 54 (?). For me, back to the Last Supper (which identifies the "god" as the Holy Spirit, but also the Will of Heaven when it speaks).
+
+"It is a bold attribution, this of one immortal substance to a sequence of mortal men; but in those days the madness could be overlooked
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christian, Spirit, Holy, Holy Spirit, Form, Greek, Well, Perhaps, Maybe, Like, World, Only, Time, Harpax, Mind, Light, Even, Could, Does, Just, Something, Adam, Suppose, Diagram, Self, Without, Brain, Kathy, Those, Still, Part, More, Another, Most, Heaven, Such, Voice, Certainly, Death, Will, Would, Other, Somehow, Judge, Were, Attic, Back, Under, Campbell, Have, Life, Justice, Days, Unless, Knowledge, Joseph, Cross, Truth, Greater, Human, Doesn, Joseph Campbell, Right
+
+---
+### Line 2014-2022 (Match: 'Absolute')
+**Folder**: part of
+
+```text
+By "winning and defeating him," the prince of the earth proved that Jesus was who he said he was, and that the promise was true. Wasn't this a larger victory that a[n] earthly victory of physical power?
+
+We have the entry of the artificer into the artifact. Or, as in the Sufi saying, "The workman is invisible within the workshop."
+
+"Out of evil God brings forth, at last, good." This may have been the two-player contest I saw, the two contending moral forces. I did see that the power of evil was or appeared always greater and took that initiative, but that it lost due to what I realize just now (!) was Santa Sophia knowing exactly how Justice (good or God) should play its cards, so as to resolve everything in the situation in a good way. I saw that she had a perfect & absolute knowledge of what moves to make when; it was definitely St. Sophia, having as the basic "talent" by which she played this knowledge; by this she made her plays (and so moving, i.e. making moves, that they appeared intrinsically evil or contributing to evil, so as not to be moving toward a resolution to good; her pattern of play was not comprehensible to anyone but to her!) But this means something terribly important: St. Sophia is in constant contention with another, antagonistic power, which is iron, or evil; thus, she is not the only force here, though she may have made this world originally. She contends with an adversary who is our adversary, for us. And she always win, in each play of the game. What is this adversary and how did it get here? It is a basic power, as in yin and yang, or with Empedocles; especially it is like the war between the Sons of Darkness and the Sons of Light; it is, above all, a war.
+
+Last edit over 5 years ago by Harpax
+148
+Needs Review
+```
+**Co-occurrences**: Jesus, Sophia, Like, World, Iron, Only, Earth, Harpax, Good, Light, Yang, Just, Something, Empedocles, Everything, Santa, Darkness, Another, True, Santa Sophia, Have, Artifact, Justice, Evil, Having, Knowledge, Greater, Sons
+
+---
+### Line 2203-2211 (Match: 'Absolute')
+**Folder**: part of
+
+```text
+. . . My 3 74 experience: I was inside the Immanent Mind. As in a womb? Not mere analogy, perhaps. Made to grow. Both within the parent organism and also isomorphic with it, but much smaller and less developed. We are in God; moving toward comphrehension, which requires further growth/development. We are like the nymph or larva stage of mosqu[i]toes. Hence my dreams about the Pond. Again -- Wachet auf.
+
+. . . In glancing over CONFESSIONS again; I am astounded at the similarity between what Claudia Hambro (Connie Wheeler) says and what I would say/have said/intended to say regarding my 3 74 experience. As before I simply cannot account for this, except to note that it tends to indicate that (1) Connie and I are sick in the same way; or (2) this proves she was right after all and what she said was true, as impossible as it sounded to me in 58 or 59; or (3) my 3 74 experience was in some way a surfacing to consciousness in my mind of what Connie has said and what I had written -- and forgotten consciously. To me most interesting of all is Claudia Hambro saying the SEBs (superior evolved beings from outer space) would contact those whom they intended to save directly, but telepathy; which is to say, if there was anything to what Connie said, then some people would eventually get contacted telepathically by SEBs, and perhaps this is precisely what happened to me 16 or so years later (i.e. 3 74). There is even the healing surgery and implanting mentioned. Perhaps Connie, being part of the same culture as me, and having the same metal concepts and I have to interpret her experience, drew the same picture: a fusion of Christian eschatology and saucer people, that being all the concepts available to us.
+
+. . . Tiny but intriguing thought: my TEARS dream is quite like the pre-cog dreams of the Aztecs before Cortez landed: men on horseback in armor (robes). Points to an invasion, by the "gods," as they believed. This alone as explanation would account for the absolute grief I felt in the dream; Montazuma's sister's grief. Q: What do "Portuguese States of America, Cabrillo, Walloon, Vinland & the TEARS dream have in common?" A: my god, early explorers (add "the scouts coming in," too.)
+
+Last edit over 5 years ago by Harpax
+164
+Needs Review
+```
+**Co-occurrences**: Tears, Christian, Perhaps, Like, Harpax, After, Mind, Even, Again, Both, Being, Gods, Those, Part, Most, Before, True, Would, Further, Have, Claudia, Later, America, Having, Except, Dream, Right
+
+---
+### Line 2281-2289 (Match: 'Absolute')
+**Folder**: part of
+
+```text
+171
+carrying in encoded or stenographic form material from the Logos or Godhead concerning the Logos or Godhead, as a tiny part of some general historic communications pattern; I think that shortly after TEARS was released, for me the subliminal became thresholded into consciousness, and so forth into 3 74. That is, put psychologically, I could not continue to thrust outside of awareness these extraordinary items in my books and in my life, but had to face them without averting my recognition. I was in the midst, as an active participant, of something enormous and frightening and dangerous, but very thrilling; and the direction, as well as instructions, upon which I acted, lay in the area of what people call the "supernatural." I think under the hidden direction of the Logos I did my part and then had to fight like hell to survive the backlash. But to play a role in history under such a Guidance -- what greater joy could there be than to have had that, even if briefly? The greatest pleasure for the greatest reason; it is not the extent or importance of what I did but that I did it under that Guidance and to have been made fully aware of that by the Guidance itself: a gracious act toward me, and probably not necessary; it must have been given from love.
+
+My overwhelming intuition at that time that I was, and had been, playing a small but real role in history, was probably accurate because at that time I had an absolute insight into the way everything linked up and functioned together, which is the mystic insight per excellence. I should assume, though, that my vision of my role is only meaningful in the mystical frame of reference, as contrasted to the everyday in which objects are discrete and there is no total unity. What I had is common to mystical experience, basically. But it was legitimate and real and I should hang onto it (I am). Equally real was my awareness of fighting off an absolutely evil entity intent on zapping me once and for all -- and real, too, the sense that I had lured it to destruction, assisted it in falling into its own snare. All of these perceptions were legitimate and accurate; they were disclosed to me partly to assist me in extricating myself from that danger and partly, I do believe, as a kind of reward to me, inasmuch as I had over the past years lost so much. In effect I had lost virtually all my material possessions, but I had gained my soul, if by soul you mean consciousness of ones own identity and purpose for living and reason for acting, and the ultimate disposition to which one would go. It became a sensible life in the midst of shambles, fear and chaos. A million chips, bits, fragments and broken pieces lay around on all sides in great heaps, but in the center (as if the Tao itself) I had discovered a disclosed form: my own reality, in the hands of the God who said once, "I will never fail thee; I will never foresake thee." The most beautiful passages of the Scriptures became clear to me and pertained to me and my life, during all this, which in itself is a gift beyond compare. I conversed with the Scriptures, as if I was in colloquy with a friend. Once, opening it at random for comfort, I put my finger on: "Tell him that Elijah is close by!" I count Elijah as one of my closest friends; it is a good news to know that he is close by. But again, that bespeaks the surfacing of the fulfillment of the first of the ancient prophecies, which is of extraordinary importance, if it is so.
+
+Last edit over 5 years ago by Harpax
+172
+Needs Review
+```
+**Co-occurrences**: Tears, Logos, Form, Well, These, Godhead, Elijah, Like, Because, Only, Time, Harpax, After, Good, Book, Even, Could, Something, Once, Again, Reality, Everything, Great, Probably, Without, Part, Soul, Most, Living, Real, Such, Upon, Love, Will, Would, Were, Very, Beyond, Under, Have, Life, Evil, Greater, During
+
+---
+### Line 2783-2791 (Match: 'Absolute')
+**Folder**: part of
+
+```text
+By "winning and defeating him," the prince of the earth proved that Jesus was who he said he was, and that the promise was true. Wasn't this a larger victory than a earthy victory of physical power?
+
+We have the entry of the artificer into the artifact. Or, as in the Sufi saving, "The workman is invisible within the workshop."
+
+"Out of evil God brings forth, at last, good." This may have been the two-player contest I saw, the two contending moral forces. I did see that the power of evil was or appeared always greater and took the initiative, but that it lost due to what I realize just now (!) was Santa Sophia knowing exactly how Justice (good or God) should play its cards, so as to resolve everything in the situation in a good way. I saw that she had a perfect & absolute knowledge of what moves to make when; it was definitely St. Sophia, having as the basic "talent" by which she played this knowledge; by this she made her plays (and so moving, i.e. making moves, that they appeared intrinsically evil or contributing to evil, so as not to be moving toward a resolution to good; her pattern of play was not comprehensible to anyone but to her!) But this means something terribly important: St. Sophia is in constant contention with another, antagonistic power, which is iron, or evil; thus, she is not the only force here, though she x may have made this world originally. She contends with an adversary who is our adversary, for us.
+
+And she always wins, in each play of the game. What is this adversary and how did it get here? It is a basic power, as in yin and yang, or with Empedocles; especially it is like the war between the Sons of Darkness and the Sons of Light; it is, above all, a war.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Jesus, Sophia, Like, World, Iron, Only, Earth, Good, Light, Yang, Just, Something, Empedocles, Everything, Santa, Darkness, Another, True, Santa Sophia, Have, Artifact, Justice, Evil, Having, Knowledge, Greater, Sons
+
+---
+### Line 3018-3026 (Match: 'Absolute')
+**Folder**: Book of
+
+```text
+Needs Review
+230
+-7-
+
+If the New Test, as standing is so corrupt, why then would the ICC quote from it whenever it suits their purpose? And why do they assume authenticity on the apocryphal writings? Basically, the identification of Christ with the sun is not Christian, but reintro¬ duces Mythrism, of which the ICC has much to say. The ICC statements that the N.T. was taken from "ancient scrolls" is untrue; 30 years is not very long, and there is no proof that any elipsis took place at all! It is very important for me to break their claim, because if it is true that what we have is nothing, and what they have is everything, then whether one liked it or not one would have to join them, and the cost excludes virtually all men, which is not in accord with Christian ideas, as I understand them, nor with Isiah. I've felt for a long time that there was something wrong with the ICC but I couldn't prove it; all I have now to go on is their spurious claim of "our N.T. documents go back only to the 4th century," but that is something. They cannot possess the "authentic documents" if there were none (other than what we have.X). If there are none, then they have nothing to sell, and the N.T. as we have it is authentic by and large, although some things may be lost or garbled. They claim that only Christ can restore what is lost anyhow, that all they can do is prove what we have to be false & misleading. They haven't proved that, because their claim requires the several hundred years elipsis, which doesn't in actuality exist. The ICC has no monopoly, and the N.T. as it stands is our best guide. They reduce the Savior to impotence, and exalt arcane knowledge in His place. (Whereas I have concluded that if we are lifted up it is not due to acquired knowledge, but due to His descent, which is all-powerful.) As regards the Forces of Darkness & the Lie perverting and defeating the Gospel (once again?), I witnessed myself firsthand how Christ deposed the great central authority of the Prince of This World in 74; if He can do that, then the restored Gospel is safe. He is not weak; He can —and has— deposed them within the historic process and on the historic stage. Good Lord, the theolepsy L theophany which I experienced was overwhelming and took total control of me; I am a witness to His strength, which is absolute! As when Elias called on JHWH, versus the prophets of Baal, His power is sign of his divinity and reality.
+
+The 28-year-old woman I saw in the dream (identified as "Jack Vance's wife") had the same thatched-cut white hair of the figure in Greek toga & greaves I saw 2 years ago accompanying the Greek fragment from "Romans." Always behind me...hadn't I felt her there? she asked. And, like the white-haired youth, she held books. If 28 years old, she was born just about the year I heard the voice explaining Archimedes' theory.
+
+In the EB it says, Christ may have been Wisdom herself (!!!). (Or a teacher of or envoy of- But it says "herself." Wow; my whole theory. And about John, that John says He was rejected by His own people. And re "Acts," the true gospel —authoritative, official message— that He has been received in heaven and will come at the end of time to vindicate and judge those faithful to him. Not anything else which Jesus said or did during his life. Then it is the end
+```
+**Co-occurrences**: Christ, Acts, Christian, Jesus, Greek, Roman, Wisdom, Lord, Like, World, Because, Only, John, Time, Savior, Good, Book, Gospel, Anyhow, Just, Something, Once, Again, Reality, Although, Everything, Great, Nothing, Darkness, Those, Their, Heaven, Voice, True, Will, Would, Other, Judge, Were, Very, Back, Have, Things, Life, Whether, Knowledge, During, Dream, Whereas, Doesn, White
+
+---

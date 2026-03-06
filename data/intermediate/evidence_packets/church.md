@@ -1,0 +1,346 @@
+# Evidence Packet: Church
+
+- **Category**: Top Term
+- **Total Mentions**: 51
+- **Aliases**: 
+
+## Supporting Passages (Context Windows)
+
+### Line 782-790 (Match: 'Church')
+**Folder**: part segment
+
+```text
+It also gives Tessa now as joining Ralph and Pinky, the lamb the deer, as injured and to be treated with love and cherishing care, as being of great worth -- too great to sacrifice. These sacrifices, the dream said, are too great to ask (Jesus sacrificed himself in their/our place; he was/is the lamb). That is the key word: the involuntary sacrifice, which will not be permitted now, since it is too precious (observe the notion that the sacrificial animal was decidedly not of too much worth; that is why it was offered, in the past). First a human became of too much worth; now then animal, too. We must all live or perish; we cannot be serparated into the "strong versus the weak" or whatever any more.
+
+But regarding possible time dysfunctions (due either to experiments at e.g. Pulkovo, or natural, due to overloading of the ontological matrix, or both,) most of my experiences have had to do, not with time, but with space (mostly about Mexico or what resembles Mexico and is taken to be). Future space at some future time? The only for sure time dysfunction I felt was in March 74, and that was, if it existed at all, probably artificially obtained (Pulkovo). The other, spacial ones -- they probably were natural dysfunctions, sudden brief windows into the future of both space and time. What is possible, though, as I've said before, is the notion of "mytosis-like" splittings of the present (due to time dysfunctions, perhaps in our past) that result in alternate worlds (as in MITHC).
+
+It's as if the merely potential (i.e. discarded at one or more critical junctions along the linear time-line) has come into a periodic shimmering realization, along side what is actual (vide William James on the sea of potential facts around each actualized fact -- each that, so to speak, makes it). Like in my story "The Commuter." Also, there is to me the real thought that adjustments (ala "Adjustment Team") are being made in our past, which are to an ever increasing degree making a certain "alternate present" (or time line) actual -- in place of the one we have, not along side it. I sense a series of minute tinkerings going on (vide Peter Mann's conversation with me recently on that idea). They are realigning our reality so it will conform to what the Plan (Logos) called for, thus losing the error fact, finally, which crept in. I suppose they could be making be making this critical correction back as far as 100 A.D. Just for story purposes, let us suppose a time-traveling team from our future has gone back to 45 A.D. to see to it that Jesus is not crucified. When the Parousia are finished with, the time line we have will not even be remembered; our memories will be retaped to fit our newly made past, as well as present, and, as in "Commuter," we will be relieved that "nothing has changed after all" (sic). I guess the realigned-correctly world will have California still the property of Spain-Mexico. Portugal will retain its States of America. The Catholi[c] Church will not have been re[?]nt asunder by the Reformers; this world will have only one huge Christian church/body, for all...
+
+Last edit over 5 years ago by Harpax
+50
+Needs Review
+```
+**Co-occurrences**: Christian, Logos, Jesus, Well, Parousia, These, Perhaps, James, Like, World, Since, Only, Time, Harpax, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Nothing, Still, Their, More, Most, Real, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+
+---
+### Line 1065-1073 (Match: 'Church')
+**Folder**: part is
+
+```text
+Last edit over 5 years ago by Harpax
+73
+Needs Review
+73
+This makes of the Trinity a great biological organism in its several stages or phases: father-son is obvious, with the holy spirit bringing about the production of the son, using the human as "mother." (Just as Mary was used; she is the exemplar for that.) God gets from where He is to produce Christ (as many as God wishes, all of which probably share one "body," one "mind," which is transpersonal) via the activity of the Holy Spirit. Certainly the distinctions between God the Father and Christ the Son are clear (Zeur to Zagreus), but then someone asks, "How does the father produce the song? By binary fission? By parthonogenesis, which would make Him a Her?" Answer: as Holy Spirit her very Yanglishly uses one of us, which makes the human race the bride, not of Christ, but of God. (Hence the strange bride and bridegroom imagery in the church --"Wenn kommst du mein Heil? Ich komme dein Teil," etc., which I knew was erotic but which I couldn't understand. It has passed down to us in a typically garbled form. The Som is not the bridegroom; He is the issue. God is the Groom; Man is the Bride. Thus, we mere perishing mortals are brought up to participate in an act of biological or anyhow metabiological reproduction of an immortal and very superior electrostatic deity-race, and gain immesurably from this act; if never involved in this, we mere mortals perish in the most miserable and pointless fashion, just as the Bible says. The odd part is, the text of the New Testament really has got it all there, if you just get the proper slant on it, which we don't get, the sort of biological, reproductive, live-form, springtime, mating thing...it's there, but for some wild weird reason we utterly reject and cast out as unholy and suggestion of the erotic...except in the odd idea of Bride and Bridegroom, Christ and the Church. This is a case of almost being right, but the not-quite bit is a razor's edge bit, separating us absolutely. We get just to the edge of grasping it...but as the "Decoded N T" says, it isn't an intellectual thing anyhow; "grasping it" doesn't do it, any more than reading about the sexual act among cats produces cats. It's the old confusion between banana and the word banana. (Philosophy.) Reading about being seized by the Holy Spirit and believing that the HS exists and that it can do it, and that immortality therefrom is possible, through Christ, doesn't produce it in you. Too bad, but as the "Dec N T" says, no universe ever worked any other way. This is what I've meant by "cargo cult."
+
+(It's interesting how in my novel MAZE OF DEATH I wrote about a society where the communication and I guess by inference reproduction of God to his Son did take place routinely; anyhow there were a lot of Walkers-on-Earth bopping around, which is what this is supposed to achieve.
+
+I guess you could say, the total family is, God (JHWH), his impregnating self which comes to man (the Holy Spirit, sent by God) (as Christ said), and if Christ is the Son, the issue, it's pretty obvious that we humans are the mother; we're all Mary right now, until we receive an inner, Light-body transformation, into what they call Christ Consciousness. Our completion/perfection is not here on this Earth, but after our physical body perishes ("If a grain of wheat remain solitary, not sown then it --" etc. Well, [i] guess [i] got it. Albemuth: the star of Bethlehem, which I kept gazing up, seeking. Point of His (HS) origin?
+```
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Maze, Father, Earth, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Star, Through, Most, Certainly, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+
+---
+### Line 1307-1315 (Match: 'Church')
+**Folder**: part of
+
+```text
+There had to have been an inner change in me, for me to see it; after all, neither Tessa nor Linda saw it. (And it had to happen for me to see it, too, supra.) So I was changed; it isn't as if [to] say the threshold of God's presence on its own, qua the Other, increased or happened, and I remained the same (unless I was always "not blind."). I believe that the change began in me, and enabled me to see what I then saw happening outside; first, I was taken by the Holy Spirit, and shown.
+
+The factor or act or reality of "possesstion" is the factor, act, moment or event of transformation in me, after which (during which, too) I could hear language and decypher it...e.g. the bells.
+
+Gosh, what if Christ transubstantiated the whole world? Or entered into union with everyone? Or both? This will fulfill: "The Kingdom of God is within you/among you, but you can't exactly see it; it has arrived within you/among you mysteriously..." There is already made clear as Church dogma a direct connection between the Kingdom (one being able to enter it, and also perhaps its arrival) and transubstantiation, if one were to think about it (the mustard seed). (The leaven in the bread.) To each of us, "inner-outer" may seem real distinctions, but to God it's all monism.
+
+My experience at the time (3 74) seemed to be of the Logos, and this would indicate that John's view of Jesus was right, that Jesus was an incarnation of the Logos (the first born son of God). Hence, back where I have throughout --the year-- written Logos, Christ being the same. But I think before I experienced Him a fierce "refining"
+
+Last edit over 5 years ago by Harpax
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, Perhaps, World, John, Time, Harpax, After, Could, Kingdom of God, Both, Reality, Being, Tessa, Real, Before, Will, Would, Other, Were, Back, Have, Neither, Unless, During, Right
+
+---
+### Line 1672-1680 (Match: 'Church')
+**Folder**: part of
+
+```text
+Needs Review
+118
+Thus in the end I am led back to the reality & experience of God, in one "form" or another, but certainly the holy supernatural, which is to say God.
+
+God's grace seems to equal God's Saving Knowledge or Word: which is identical with the Divinely-Inspired Scriptures, not written by men but through men by the Spirit. Anyhow, the Megiddo Church people define God's saving knowledge:
+
+"Through God's diving favor or grace, through His munificence or goodness, we have the opportunity to work for eternal life. Through His Word He has informed us of His existence, of His creative ability, of the vast scope of His universe, and of the unspeakable rewards that He had prepared for His worthy children. All of these benefits are undeniable evidences of His grace or favor to us."
+
+This aptly describes my 3 74 experience. As does a chrismatic visitation by the Holy Spirit. As does the ICC description of Christ Consciousness or Christ Force or the Logos. I am led back to monotheism. What happened to me was described (and available) in psalm 116, before Christ. This is not necessarily bad, not at all; mainly, what I finally must realize, with no possibility of error, considering that I followed up every possibility, even paranoid ones and occult ones and ESP ones, (e.g. reincarnation), is that I have, following the experience, established by my reasoning, my ordinary normal powers, that it was God who assisted me and changed me; there is no other possibility, under any reasonable definition of God. For myself, beyond any possibility of error doubt, I have established the reality of the Ultimate, the All, in transcendent from, although perhaps Immanent and Transcendent both; everywhere but not everything, etc. Had I never heard of God, never heard any theology or religion discussed, had no reference books, etc., out of this total experience, lasting in all about one year, I could for a certainty derive a more or less complete understanding of God; I would then have "discovered" God (for example if I lived in a culture which had no concept of God or any supernatural agency), and I would, like one of the ancient prophets of the Old Testament, have to go before my people and preach to them the living reality of God, and further, inform them of His nature. But He appears to be so much as depicted by the Bible that this is unnecessary for me to do. In the end, I find I have not really found something new; but I have certainly found Him, as He has been described for 3000 years.
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Complete, Holy Spirit, Form, Bible, These, Perhaps, Like, Book, Even, Could, Does, Anyhow, Something, Both, Reality, Although, Everything, Grace, More, Another, Through, Living, Certainly, Before, Universe, Finally, Would, Other, Back, Beyond, Under, Further, Have, Life, Testament, Knowledge
+
+---
+### Line 1745-1753 (Match: 'Church')
+**Folder**: part of
+
+```text
+Needs Review
+123
+"Not acceptable" sounds like "not acceptable to the world" or "not acceptable to those to whom it was offered"; i.e. she, Saint Sophia, the Wisdom of God, was rejected, and so departed from the world; i.e. died. So this second, collateral sentence is very meaningful; we learn why the Logos or Wisdom of God left the world, which has been very puzzling. If we read Holy Spirit, then the Mission is correct; the Holy Spirit left, perhaps fairly early, but we --I mean I-- know why, because men did not accept it in the sense that they did not find it to their liking. Thus the Mission is correct, unless "Saint Sophia" refers strictly to Christ alone. Perhaps it does. Christ is said by John to be the Logos. Anyhow, Rome won; we lost. But another try is going to be made. Or is now being made. I am left with hope, and with faith. Now, if I can only get my love together I'll have it right, finally (vide Luke, pps 1121 -- 1127).
+
+The above problem could be resolved this way: the Holy Spirit came to remind men of, and teach them about, the wisdom of Christ; i.e. as a follow up of His mission. But He and His wisdom were not acceptable and were rejected, despite the Holy Spirit which did not force it on me but left them free to choose. They chose to reject it, and finally either the Holy Spirit departed, or anyhow slid out of s[l]ight and worked (as the Roman Church says) in secret only. When Christ told the desciples of the Helper to come, He meant a Healper to help them spread the good news. The defeat then of the Holy Spirit was a continuation of the defeat He suffered. And for the same reason; the doctrines, through the desciples, failed as they had when He was alive speaking [to] them.
+
+. . . It is evident that the Holy Spirit could induce remembrance where formal knowledge, buy the person, was absent; i.e. to perform the mass one has formal knowledge. But suppose no mass is performed and no formal knowledge (memory of as handed down in traditional ways) remains? The el[l]ipsis can be abolished by the Holy Spirit, who informs inwardly of what has been totally and truly forgotten; the break is healed. Remembrance out of nothing, so to speak; it teaches what is not known. Does, sui generis, the work --efficacy-- of the mass; this could be for other cultures who never knew of or heard of Christ (which explains my original obsession with the realization, my recognition of its overwhelming importance, that a priori I had discovered the forms of a religion, Christianity, which seemed impossible. "As if a native of South America had begun carving crucifixes," I kept saying, "and talking about Galgotha." Without having any way of ever having heard of Galgotha, etc. What a miracle -- how extraordinary, opening up a totally new view of the universe, that these forms and this knowledge could arise a priori in a human mind as a category of thought.
+
+Thus I have arrived at the same results, by the direct proof (it evidently was/is the Holy Spirit) and indirectly: what one would experience if the Holy Spirit descended and filled one, and I get identical results; also, I have now excluded everything else I can think of or have heard of. They key is in John, where he quotes Jesus saying that the Holy Spirit (the Comforter) will bring remembrance -- which for us means of a time 2000 years ago, in a province of Rome.
+```
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Roman, Wisdom, These, Perhaps, Like, World, Because, Only, John, Time, Faith, Good, Mind, Could, Does, Anyhow, Suppose, Luke, Being, Everything, Either, Without, Nothing, Those, Their, Another, Through, Secret, Love, Universe, Finally, Will, Would, Other, Mission, Were, Very, Have, Memory, America, Having, Unless, Knowledge, Comforter, Human, Evidently, Free, Right
+
+---
+### Line 1763-1771 (Match: 'Church')
+**Folder**: part of
+
+```text
+My vision in 2 75 was, then, of what is formally called "Salvation." Hence I kept seeing Santa Sophia (Christ, the Logos). Also, just as I saw grape vines twined around the little saint, I realize that my vision of the dancing king in the furrows in spring is a metamorphosis of the little saint: thin, like him, and pale and gentle; it is his spirit, I guess. Which would be why I would conceive of the king dancing to the dythramb; after all, I had already seen the vines twined around the little saint.
+
+I realized this when I saw him more recently in my dreams, sterner and older; perhaps eventually he will become the wise old king I saw in the dream in TEARS.
+
+. . . Regarding the M. Mission's contention that the Holy Spirit left around 150 AD -- this is not in accord with what Jesus said, about sending us another helper who would be with us always (or however it's put in John). Who will remain with you, and "it's better for you that I do leave so it can come." It is not reasonable that a Comforter would be sent, and arrive, and then either leave or be withdrawn. Why would God withdraw it? If temporary, it would be of little use; Christ stressed the value of it in terms of it abiding with us. This is all just to assign no worth to 2000 years of the Roman Catholic Church, the "dry period." I am finally led back, by logic and analysis and study as rigorous as that of Thomas Acquinas, to othodox Trinitarianism.
+
+. . . The main thing that I saw in 3 74 is that God is right here, immediately present; he never went away; he is immanent not transcendent, there is no dry period without him; "break the stick," etc., he is with us but we're occluded. The Kingdom is already, but invisible to us.
+
+. . . Reading all this religious literature I can see now that for everyone, God is simply the explanation of how the universe got here -- i.e. how it came into being; someone had to create it, the First Cause Uncaused which "set it spinning." Viewed this way (also, God called into existence as a concept this way, simply to explain how the universe came into being) there would be no reason to suppose Him to be here. For one thing, the absolute sunstantiality of this world is taken for granted. But all my life I've felt it is not, that something truly real lies behind it; thus over my entire adult life I have prepared myself to encounter an immanent God emerging from within this world.
+```
+**Co-occurrences**: Christ, Tears, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, King, Roman, However, Perhaps, Like, World, John, After, Just, Something, Suppose, Being, Catholic, Either, Viewed, Santa, Without, More, Another, Real, Santa Sophia, Universe, Finally, Will, Would, Mission, Back, Have, Life, Absolute, Spring, Wise, Comforter, Dream, Salvation, Right, Someone
+
+---
+### Line 1804-1812 (Match: 'Church')
+**Folder**: part of
+
+```text
+Last edit over 5 years ago by Harpax
+128
+Needs Review
+128
+I believe something really evil was loose in the world, and we stood up to it here and there and defeated it. I have no idea who or what it was, no clear conception of it or what it wanted. Or why me. Perhaps what I did was shake off a lifetime of contamination and conditioning and preprogramming to this world. That in effect I confuted or renounced it and my allegiance to the forces in it and hence to it. What isn't clear is whether I shook of[f] something primarily in the past which had held me, or else something building ahead, to come. It is, as the Protestant reformers knew, primarily a fight against the great tyrannical system or systems of the past, for the purpose of freeing men's minds, for the future of life. What Art Spiegelman said about SFS shows how right I was, and how right I am still to abominate distrust and fear those people. It occurs to me to connect my experience with that of the Protestant Reformers which broke the monopoly on truth which the Catholic Church had. Their stance vis-a-vis the Church was almost identical to mine vis-a-vis the Marxists. Perhaps the reappearance of this spirit, working for the freedom to know and to think, signals the beginning of another major historical age like that of the Reformation; perhaps it come forth when there is a historical necessity. So we may be seeing the beginning of the breaking down of the bullshit establishments here and in the USSR -- like I said in my Vancouver speech and especially as I saw or discerned in 3 74, the arising of a new ability to tell when you are being snowed; and since big governments etc reign by bullshit, perhaps this is a grand new era for mankind, of which I was/am a part. Endowed with the sudden, new capacity to see through lies -- so equipped by the Spirit himself. And at the same time placing an extraordinary value on truth in oneself; never to lie and never to let anyone lie to you; a new value system with this first. If the Protestant could be said to be a new historical type emerging from an older authoritarian one, then perhaps a[n] equally important new one is emerging now -- not just inner directed (Protestants were that) but -- what I was in 3 and 4 74; there is no name, yet. Not inner-, not outer-, but truly new. My subjective experiences and feelings, in abruptly lifting up to this new type, must be parallel to those of the first Protestants, in form and quality, as their new concepts, that of inner truth rather than handed-down-from-the-top truth flooded over them and they became a new kind of men.
+
+The Protestants refused to be told what to do or think. The new modern type (v. Vancouver speech) cannot be lied to.
+
+. . One's mind is supposed to produce (create) new ideas, not ideas (values, information, concepts, words, cultural artifacts) known to others in the distant past. This enormously expands the automy of the individual; he can spontaneously generate that which was supposed to be entirely in the hands of the limited socio-economic, historic process in which he was born, dependent on his culture for all this, on them to educate him. In a sense, now, he can fashion his own value system, or anyhow obtain it, select it, acquire it in a direct relationship to it, THE SAME WAY THE PROTESTANT REFORMER HAD A DIRECT RELATIONSHIP TO MORAL TRUTH. He now has that to perceptual truths, facts. He has risen above the control of historic determinism; this is a giant new step in the process of human individuation and freedom.
+```
+**Co-occurrences**: Spirit, Form, Perhaps, Like, World, Since, Time, Harpax, Mind, Could, Anyhow, Just, Something, Being, Catholic, Himself, Great, Those, Still, Part, Their, Another, Through, Were, Have, Life, Information, Freedom, Whether, Evil, Truth, Reformers, Human, Right
+
+---
+### Line 2645-2653 (Match: 'Church')
+**Folder**: part of
+
+```text
+September 17, 1975
+
+Dear Doris,
+
+When I last saw you I mentioned that I had been reading the apocryphal book, "The Wisdom of Solomon" and was very impressed by it. As you probably know, our church recommends we read these books now. "The Wisdom of Solomon" was written in the first century B.C. and was part of the Septuagint, which was cited in the New Testament as the holy scriptures which the early Christians used; thus, to them, "The Wisdom of Solomon" was as sacred as any book of the Hebrew Scriptures.
+
+These are the parts I wanted to quote to you, taken from here and there. They impressed me very much. You might note that they probably influenced the early Christian concept of immortality, which really is lacking in the Hebrew Scriptures.
+
+". . .For God did not make death, and takes no pleasure in the destruction of any living thing; he created all things that they might have being. The creative forces of the world make for life; there is no deadly poisons in them. Death is not king on earth, for justice is immortal.
+```
+**Co-occurrences**: Christian, Holy, King, Wisdom, These, World, Earth, Book, Hebrew, Being, Probably, Part, Living, Doris, Death, Very, Have, Things, Life, Justice, Testament, Sacred
+
+---
+### Line 2998-3006 (Match: 'Church')
+**Folder**: Book of
+
+```text
+-5-
+
+After 3-74 I recapitulated the original fall, into the state that Vaughn correctly calls "corruption," and hence I am acutely aware, as he was, of the difference between the two states, bliss versus the fallen, corrupted state. I have to believe in the fall; I've lived it. Now I know where I am (again). Now I know where I was (in the primordial state of God's grace, as described by Wordsworth in his "Ode"). I briefly regained my sight and saw as Adam and Eve did in the "Book of Adam & Eve," before they entered the cave of treasures; no wonder I kept saying I'd been blind all my life. Why I fell again I don't know. Why I was given my faculties back briefly I don't know. I can contrast the two states as few men can; I don't need Calvin's description and contrasting, but he certainly put it well. Stripped away entirely or deformed...as Adam says, now he can only see "close up objects." During that brief period I could see a thousand miles into space, and two thousand years into time. And now, as with Adam, only objects near at hand. * The task is nothing less than restoring man's lost faculties (of perception and mentation), but how can this be done if men don't know/believe they have lost these faculties? If they do not understand what is being talked about? ( And memories, too.) How can I say to someone, "I will cause you to see?" if they already believe they are seeing? The doctrine of Original Sin must be retained; from it we can understand. It may have something to ao with the pineal body registering missing spectrums. But if Calvin is right and the missing segments are adventitious, then they can only be restored from without, which is to say, we require the Redeemer to restore them; nothing on the order of inner surgery etc would do it. As they were taken away so must they return. I have the feeling that it took enormous effort, or anyhow enormously complex planning and multiple arranged causes, to even temporarily restore my faculties: a whole string of circumstances that I could see, plus a lot I couldn't. Extraordinay planning, probably going back years, went into it. It didn't just happen. Also, vast historical changes were being brought about. Put another way, God lifted the curse of the fall in order to bring about (or anyhow facilitate) these changes, and when the changes had been made the curtain returned.
+
+The I.C.C.'s views are less advanced than Pere Teilhards, since he stressed (correctly) the role of the Cosmic Christ described by Paul -- that Cosmic Christ or St. Sophia who is assimilating the - universe. But in some respects they have something to say, except that they seem to imagine that Christ can fail, whereas he cannot (vide Zoroaster). St. Sophia will be born one more time and this time accepted. This was always predicted (vide Isaiah). At his first advent, Christ planted a seed; now he reaps the crop. It and He have been growing for 2,000 years. The crop and He are organically one, probably; they each of them grow into his cosmic being. Maybe it is a double growth: them to him, he to them. The I.C.C. is like the R.C. and thinks we need priests. We need only Him. The true membership is not of any church but consist of all those whom He takes, and He goes "where he pleases," to quote Vaughn. He is assembling a great dominion.
+
+Last edit almost 5 years ago by svayambhu108
+229
+Needs Review
+```
+**Co-occurrences**: Christ, Sophia, Paul, Well, These, Advent, Maybe, Like, Since, Fall, Only, Time, After, Cosmic, Book, Cosmic Christ, Even, Could, Anyhow, Just, Something, Adam, Again, Being, Great, Probably, Without, Grace, Nothing, Zoroaster, Those, More, Another, Certainly, Before, True, Universe, Will, Calvin, Would, Were, Back, Have, Life, Body, Except, During, Whereas, Right, Someone
+
+---
+### Line 3041-3049 (Match: 'Church')
+**Folder**: Book of
+
+```text
+Needs Review
+232
+Heraclitus also says the world (universe) is uncreated, by kept together by the Logos, which I guess is immanent/transcendent. Men do not listen to the Logos nor see it, but are asleep. Loren K. says that the essence of Christianity is an "inward suffering before God," which makes me a Christian I guess, especially today. The pull of matter is very great. I escaped for only a little while and then fell back further than ever. As Elton John says, "I've got ray memories," and it did induce some permanent changes in me. Mark says that God can cut short the time of tribulation for the elect, before it gets unbearable; maybe that's what He did in 3-74.
+
+Mark: "Those closest to Christ thought he was insane." So his mother and friends came to get him, but he rebuffed them. Shades of Dionysus; also, that the apostles appeared drunk to bystanders when the Holy Spirit came to them at Pentercost. Thinking about this I feel rushing back to me many many experiences around 3-74 and during the year after: the name Jesus in the Bible opening up to form ZeusZagreus, the dots on the alb of the saint becoming grape vines; the vine quality of the washing ladies' plaque; the dythramb being danced; the article DIONYSUS IN AMERICA and what it meant to me; the imagery of Pindar (root and star); the similiarities I noticed between THE BACCHAE and the passion story and Hamlet; the fact that Dionysus is a breaker of prisons and a destroyer of tyrants (e.g. King Penteus); Christ turning water into wine; Christ as corn god and lunar fertility god; the mystery religions et al; the fact that Dionysus was a god of metamorphosis; the Greek words & aspects of 3-74; the madness or intoxification I felt; the breaking down of the Nixon gang tyranny; my whole preoccupation with Dionysus during this...was Jesus an avatar of Diony¬ sus, a evolution of him via Orpheus into ultimate spirituality? Was this one of the cardinal mysteries revealed to me direct? The mad/god/ stranger who cannot be killed, and who is persecuted, but then returns with a vengence? That's what I put at the end of my U.K. speech. Where has he been for the past two thousand years? Locked in a death-struggle with authority: first the authority of his own church, then the secular authorities, all of them; bursting the prisons gradually. Or perhaps the human who experiences the theolepsy (like the sibyl in THE .SNEAD) becomes intoxicated by the energy of the spirit inhabiting it; which might include Jesus, and later the apostles. The spirit, in His case, could be Holy Wisdom, and she is quite sane (ma'at). It occurs to me at once that theolepsy must be limited to short intervals, so as to curtail the madness. But Jesus had the spirit in him most of the time...perhaps He struggled with it & conquered the madness, except for short outbursts, such as the fig tree episode.
+
+It is of note that the (1) language & (2) knowledge of 3-74 that was revealed to me took place within a "mystery" experience known only to the period (Graeco-Roman) when such experiences are known to have taken place. The key to all of this is precisely here. There is total consistency. I had an experience 2,000 years old, and heard language and knew knowledge of 2,000 years ago derived from that experience. If I were to leap to a conclusion I would say that 2,000 years ago someone versed in the mysteries planned for his own personal resurrection, and has slept through the interval, and then awoke: triggers back into existence by (most of all) the golden fish necklace.
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, King, Fish, Greek, Bible, Golden, Roman, Wisdom, Perhaps, Maybe, Like, World, Golden Fish, Only, John, Time, Nixon, After, Holy Wisdom, Could, Once, Heraclitus, Being, Great, Bacchae, Sibyl, Dionysus, Those, Star, Through, Most, Such, Before, Mother, Death, Universe, Would, Hamlet, Were, Very, Back, Many, Further, Have, Tree, Later, America, Except, Knowledge, Today, During, Human, Someone
+
+---
+### Line 3314-3322 (Match: 'Church')
+**Folder**: file numbers
+
+```text
+Last edit almost 5 years ago by svayambhu108
+259
+Needs Review
+259
+I don't see how this differs from the foretold primal battle between Christ and his adversary, the latter being Rome, which is to say our megastates here and now. So I am back at my old corner once again, claiming that the Parousia, or anyhow certain stages of it, have taken place. The J Bible calls Rome "the great and only real enemy of the new chosen people, the Church." With this in mind I can see why the superimposition was shown me, because I could then identify the protagonists in the situation correctly — without which I really could not. I might point out that things got worse, much worse (under Nixon) before they got better (due to the intervention). This too is in accord with prophecy. In a sense, Nixon was to the U.S. government as Satan was to Rome: the ultimately worst figure. We saw the modern-day Satan growing within the Government, gain¬ ing more and more power, and using it to persecute the anti-war dissidents. It was Rome made worse than ever. "Look," the spirit said, disclosing the paradigm superimposed. "Here is Rome, and THIS is what we do to it, to the conspirators we see," and it did. Now, if the JWs and Fere Teilhard are correct, that Christ has been grow¬ ing stronger constantly, then perhaps (if I may essay this), He was not strong enough before to overthrow it. The JWs say this emphati¬ cally. Then he did it as soon as he could, and not a moment too soon. Maybe he has God's wisdom (omniscience) but not power. But the event anyhow finally happened. The extreme centralization of the modern day megastate proved to be the feet of clay for it, and undid it.
+
+I remember the exact second when I personally felt the oppres¬ sion lift. It was after I turned that Xerox letter over to the Fuller¬ ton fuzz. Ana I heard the lady singing opera as she went down the stairs outside in the night. The universe itself seemed to rejoice. That was March 74; for the nation it lifted in August 74, the very day I went into surgery; when I went in he was still in office, but boxed into a corner; when I woke up he had resigned, or was reading his speech — whatever. It was over. It is with great difficulty that I abandon the theory that this was a residual memory of Rome by someone just now from there; I think rather that, through the superimposition of the paradigm form I was caused to see Rome as the essence outside me. Fullerton 1974 in accident; Rome c. 60 AD in essence. Well, either way I understood; but the fact that even now I agree that Rome c. 60 was the essence (uncovered) then indicates my more recent theory of form superimposition. But perhaps I still mis¬ state it. There was no superimposition; rather, the accidentals melted away, and the Platonic form ROME became visible to me: it was already there, but disguised: veiled, so to speak, by deliberate gingerbread arranged there to conceal it. So it was a revealing & an unveiling, not a superimposition; I was allowed to see what was really there all the time. Like I say, the clock in heaven hadn't advanced since 60 a.D. Put another way, I witnessed the sort of form regression I depickted in UBIK; Fullerton fell away, and the ancient form was disclosed — instead, say, of seeing desert land and pasture and Indians. If this is so, that the accretions melted away as in UBIK, then perhaps the analogous changes in me were the melting away of personality accre¬ tions: back to primary urbs; back to primary homo. We confronted
+
+Last edit almost 5 years ago by svayambhu108
+```
+**Co-occurrences**: Christ, Ubik, Spirit, Xerox, Rome, Form, Satan, Well, Bible, Parousia, Wisdom, Perhaps, Maybe, Like, Since, Because, Only, Time, Nixon, After, Mind, Even, Could, Anyhow, Just, Look, Once, Again, Teilhard, Being, March, Platonic, Either, Great, Without, Still, More, Another, Through, Heaven, Real, Fullerton, Before, Universe, Finally, Were, Very, Back, Whatever, Under, Have, Things, Memory, Instead, Remember, Government, Someone, August
+
+---
+### Line 3582-3590 (Match: 'Church')
+**Folder**: part in
+
+```text
+Needs Review
+288
+-2-
+
+entity controlling me performed was to administer to Christopher the sacraments, but (I learned this from the Britannica) in the highly archaic form known only to the early Christian Church. At the same time the entity was wary —even frightened— of Rome and its agents, and seemed to feel Rome's tyranical presence. In a vision, as I mentioned, it showed me that Rome still exists as twin arms, one in the west and the other in the east, and that the western one would soon be brought to ruin for its crimes. This did take place, as we know.
+
+What the lady reporter made me realize was that this extraordinary experience, written up in my new novel VALISYSTEM A, was the answer to all my years of seeking to know what is real, related to a life-long journey, and that now my books would not ask but tell. Perhaps, she suggested, I would write no more. I have seen that the cosmic clock stopped about 70 A.D., that the Second Coming lies directly before us, that each of us is judged and the books on each person closed during his lifetime. Aristotle divided the cosmos into the sublunar realm, our own, and the supralunar realm of the Gods, but he believed the two never came in contact. Plotinus later on taught that the two realms do impinge on each other; roughly, they equal Earth and Heaven, and he taught that man could rise from the sublunar to the supralunar realm, see it and know it, although briefly; and of course the Christians teach that God, througl his initiative (which is what I feel) can bring the supralunar realm down here to impinge on man — which is called God's grace, and which I feel is what happened in my case. That the supralunar realm exists I have no doubt, having experienced it, and having been saved by that grace from certain destruction. That a wise heavenly father watches over us I have no doubt; and that we are judged I have no doubt; also, I believe that the second advent is coming, probably soon — that the first stages, which are the overthrow of wickedness, I have seen, first as prophecy and then as reality; as the Bible says, Elijah is preparing the way of the Lord, and the Lord, the Rightful King, who I have seen, will return soon and claim his peaceful kingdom. I have even witnessed the changes in the animals, in the form of a vision for a short while; I did not, at the time, understand why I saw the animals change, but the changes I saw are the ones predicted by the Bible, so the time cannot be far off. The gospel, which technically is not the godspell or good news, but the news of Christ arisen and to return — I have been shown that, and know that he was Holy Wisdom or the logos incarnate, and that the second incarna¬ tion either lies directly ahead or has already taken place.
+
+I'm sure, in my writing, that I will lose a lot of fans, in particular the Marxist fans in Europe, but I have been given the answer I sought for, and rejoice in it. I admit that when that answer came, that revelation of the absolute reality lying beneath the veil, it was a complete surprise to me, but I can think of no other so joyful, so wonderful. In my mind the picture of the Rightful King is so clear and so beautiful, and I have heard the voices of the host, and I know what a beautiful world lies ahead of us here and for us when we pass over into the supralunar realm, as all of us will. The Lord of the Universe, Jesus Christ, is beginning to assimilate our sublunar world to his father's universe; the end time has begun.
+```
+**Co-occurrences**: Christ, Christian, Holy, Logos, Jesus, Complete, Rome, Form, Kingdom, King, Bible, Wisdom, Lord, Perhaps, Advent, Plotinus, Elijah, Father, World, Only, Time, Earth, Cosmic, Holy Wisdom, Good, Mind, Book, Even, Gospel, Could, Realm, Reality, Jesus Christ, Although, Aristotle, Either, Gods, Probably, Grace, Still, More, Heaven, Real, Before, Revelation, Western, Universe, Will, Christopher, Would, Other, Have, Journey, Life, Absolute, Wise, Later, Having, West, During, Answer
+
+---
+### Line 3910-3918 (Match: 'Church')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+16
+1) cace, + it is, could it be that it is this which caused me to pick up unseen enemies along the way, for reasons I did not know? When the other personality broke through in 3-74 it vividly feared the "cruel, Rapacitious, vigelect enemy which might if he did not keep his presence (i.e. arrival here) secret, In connection with this I stress his identity as a true Christian - which is to say (as Luther said) a despised + persecuted person, pitted against the "prince of this world." I must assume that his fear was rational, + if his fear was rational then there must be such enemies as he assumed there was. Could these suspected enemies Acert to the appearance of anyone in this be my enemies? world promulgating the secret truth about us about this world, if his feared enemies are real, + if they watch for voyagers coming here to tell the truth, then maybe my writing did pick up a few - for the reasons given. I have every reason to suppose his fear was well - founded - in fact he seemed to know everything, absolutely + without limit: his fear could even be considered bona fide evidence of their reality. Does this fit in with the Xerox letter? The very same enemy! The fear toward the Xerox letter seemed to be the sane fear. It was the uncon scious personality who put the material in my books + stories, + when the retribution came, the attack came, it surfaced to defend in a certain real sense it - the unconscious personality - was it's true target + it knew it: from the moment it emerged it was motivated to do what it did by fear. + it was fear (in me) site which brought on its epiphany: the fear. Fear on the part of me + fear on its part that they were closing in at last it had a better idea why than I did; it connected the attack with it being one of the despised + persecuted secret, real Christing church. Then by extension that accounts for my picking up those enemies (+ being despised + persecuted, so at this point I seem to have unexpectedly equated the hidden real chreation church with the secret gnostic vision.
+
+Last edit almost 3 years ago by svayambhu108
+17
+Needs Review
+```
+**Co-occurrences**: Christian, Xerox, Gnostic, Well, These, Maybe, World, Book, Even, Could, Does, Suppose, Reality, Being, Everything, Without, Those, Part, Their, Through, Real, Such, Secret, True, Other, Were, Very, Have, Luther, Truth
+
+---
+### Line 3928-3936 (Match: 'Church')
+**Folder**: book of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+19
+Needs Review
+19
+( So: my enconscious self had put the material into my books (inc. the black iron slave prison of tears, which is the world I saw revealed in 3-74 when the false covering condscape rolled back), knew the material to be true + not fictional, knew the Xerox letter would come + what it signified, + came forth to meet it + deal with it (successfully). The Xerox letter is connected with the material in my books, + the material is true - + not only normally secret but so to speak prohibited (historically). I perceive now the spokesmen of truth coming here, in par ticular Christ, to reveal this the truth at the risk of martyrdom. His secret gospel was passed on to his successors, on doom through the secret real hidden persecuted despised actual Christian church. It was passed on not in writer or oral form but as I received it: theolepsy by Christ of them, during which the entire, vast, secret gnosis was communicated to them. I think it never ended; although few in number (although slaughtered by the Romans wherever found) they did continue on, invisibly, up to today, probably affecting his torical events for the better - as with the Nixon tyranny So a martyred Christion of the Apostolic age was rebom in me not at 3-74 but in 1928 - + this man had had in him the spirit of the master during his own lifetime by theo lepsy - which means he was transformed into a Christ - which is why I felt Christ to be present in 3-74; Christ had assimilated this man to him long ago, into the cosmic corporate body, the Corpus Christi - yes! the Corpus Christ; had been resurrected in one + it passed over from latent (crypte) to active in one + thereby assimilated me, displacing me as ego with it as new self.
+
+Last edit almost 3 years ago by svayambhu108
+20
+Needs Review
+```
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Xerox, Form, Roman, World, Gnosis, Iron, Prison, Only, Nixon, Black, Cosmic, Book, Gospel, Christi, Although, Self, Corpus, Probably, Through, Corpus Christi, Real, Secret, True, Would, Back, Body, Truth, Today, During
+
+---
+### Line 3934-3942 (Match: 'Church')
+**Folder**: book of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+20
+Needs Review
+20
+( so probably I can say that I was myself taken into the corpus Christ, by reason of all this, which is to say, regarding This world, the hidden Christian underground that dates back unbroken, unsuspected, to the master - the incarnated God - himself: we are his genetic descendents, as it were, inheriting his DNA coding: replication, of him: the great Gnosis is transmitted that way - genetically, down thro the generations surfacing again after each day, as it did in me - so the true gospel (Gnosis) is preserved, despite the deaths of its bearers it is not - has not been - lost after all, which is another way of saying, he did not come in vain, his teaching has not been obliterated. My Gnosis in 3-74 did not descend on me from the sky, but rather it travell to the present (Fullerton 1974) from out of the past (from Rome C. AD 70). This is what he brought with him, this knowledge (the authentic Gospel); I obtained it by anamnesis Thus, I did not just again remember the crucifixion, but the contents of His (soteric Gospel - which the Romans tried so ins to desting (on they are not phene is could be transmitte this way). The members of the authentic church are immorted. when killed they are later reborn thru anamnesis - when the dis nhibiting stimulus triggers it off, which I suppose may ofter take a lot of time to happen. I am placing great store by Paul's statement: "the secret is. Christ in us." But that is the clue. I do think now, from the perspective I've gained that that huge package of information which was revealed to me - incredibly fully + clearer + completely conveyed or transferred or triggered off. is not only the secret gnosis of the Gnostics, + not only true but is in fact the "Lost" (suppressed) true gospel of Jesus. I retrived it intact during + from amanesis not out of the air dviously, dust from my awakened antique greek-speaking ancestor
+
+Last edit almost 3 years ago by svayambhu108
+
+21
+```
+**Co-occurrences**: Christ, Christian, Jesus, Rome, Gnostic, Paul, Greek, Roman, World, Gnosis, Only, Time, After, Gospel, Could, Just, Again, Suppose, Himself, Corpus, Great, Probably, Anamnesis, Another, Fullerton, Secret, True, Were, Back, Information, Later, Remember, Knowledge, During
+
+---
+### Line 4242-4250 (Match: 'Church')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+67
+Needs Review
+67
+6 e Now back to my ramparts unintentional - Christian act. Gwen The Black Iron Prison upwelt I inadvertently meshed with what I saw the gray-coweled authentic Christian secret church doing - pulling the iron walls down, so to speak. This iden is woven as a continual thread through this which exegesis i that because of what I did, I was ushered into the secret invisible real church, the living human elements of which I construe to be extension, of the Corpus Christs, guided + informed by it (him) as I began to be in 3-74. Probably you do not join but rather are selected by it (him). I can't put an other construction on my duel existence of the year - I was two people. continually infomed by that beautiful voice. If people could + only know the magic of the sacred, its shining sparks. There are many examples of this being chosen in the O.T. + always there is the element of my writing, another perpetual thread. Would it be wray to say that I feel as if the loving God her blessed me + my writing? "Euren were hat mir gefallen" - the most beautiful words one could hear. It seems hart for people to enjoy or appreciate the idea of being a hollow vessel made use of for a purpose not your own but in no respect contrary to your own: rather, ap enormous transformation + elevation of every they you have stood for an apotheosis of that up-to-then meager purpose; it is a transen dent fulfillment of it . was looking back mentally on all the above, + it occured to me that if I was right I should have experienced Christ, of the first advent, + then, suddenly, I realized that that was exactly what I did! So my experience with him - with the divinity that is him conform. This newer view I have of experiencing, in anamnesis, the urwelt of which he is the central figure; the Black Iron Prison wthout him is nothing worth experiencing at all, but there he was shining through in the form of thinking plasmatic light e yet has it not appeared repeatedly in this exegesis that in the First Advent he is a solitary figure, but, in the 2nd, ubiquitous? Well, the [cosmic Christ) deity whom I encountered possessed ubiquity, rather than thinking of this as the "cosmicilation" of i
+
+Last edit almost 3 years ago by svayambhu108
+68
+Needs Review
+```
+**Co-occurrences**: Christ, Christian, Form, Well, Advent, Because, Iron, Prison, Only, Black, Cosmic, Cosmic Christ, Light, Could, Being, Black Iron Prison, Corpus, Probably, Anamnesis, Nothing, Another, Through, Most, Living, Real, Voice, Secret, Deity, Would, Other, Were, Back, Many, Have, Magic, Suddenly, Human, Iron Prison, Right, Sacred
+
+---
+### Line 4254-4262 (Match: 'Church')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+69
+Needs Review
+69
+6 to that other personalit had been deliberates greatal at ar earlier time in my life + then, nhibited (the amnesia, the "taco stand" etc.). When it was disinhibited, of course it saw a black Iron Prison (world); it had just before literally been in one - a liteal iron Prison some where That's where is was trained to do what of has to do when in was disinhibited, maybe it was the phospheres, not the Gold fish that disinhibited it. See what I in privi at? Another, differet personality was built up in + for me, eventually to take one maybe the Gold Fish accidentally disinhimle it - no too long befre. The phospheres did, to receive the Xerox letter. I was right from the very start but maybe in the USSR Gulag where it was been fell held (or emplaged) it war a secret ("early") Xtian. A ederly russion Greek-speaking doctor or scientist, whose superimposite on me killed off e my personality, which is why I experienced all the theo logical post-death experiences. + he was a secret Xtian unknown to then authrities - + he'd be greet or the do? My normal personality deal due to it taking over I d naturally undergo beyond die grave transcendent religious experences, while he (as intended) minded the shop. But then the Xerox letter, etcll was intended for him: his contact. Bot he (sic) rebelled - + defected - turned them all is as far or he was concerned he was literally excated gulag - the black in prison was glad, + dient infet ever to go back (+ what he later did showed back there hid engaged in anti-state secret Xtian (ivil disobedience. He was a russion sciention but also one of the secret X the brotherhood: he escife from there - ho fear of the Romans was of the KGB; meanwhile, the main body of the church was overthrow the conspirators here, which his Sovet win, couldn't do - + so he fled had to I had been onder the r control of a remote Russion operator for years (e.g. in my writes), but i eard 74 when the payoff was to come in the form of the Xerox liter the or an operator defected, crossed over tome, showed his knowled of the Xerox letter + his Christianity, so my initial view wo onect - ther is why I "died" + had other side experiences
+
+Last edit almost 3 years ago by svayambhu108
+70
+Needs Review
+```
+**Co-occurrences**: Christian, Xerox, Christianity, Form, Fish, Greek, Roman, Maybe, World, Iron, Prison, Time, Black, Just, Black Iron Prison, Another, Gold, Secret, Before, Death, Other, Very, Back, Beyond, Meanwhile, Life, Body, Later, Iron Prison, Right
+
+---
+### Line 4337-4345 (Match: 'Church')
+**Folder**: book on
+
+```text
+Last edit almost 3 years ago by svayambhu108
+83
+Needs Review
+83
+( 8 by + large I've assumed that the sender of the Xerox letter didn't know what [kind of entity) would be there to receive the Xerox letter; but perhaps he/she/it did know (ob tained from my writing, esp tears + Ubik) + in fact sent the letter precisely because it know. After tears it was just a question of who got to me first - fortunately the Christian, did, the soms of light but the soviets (more precisely, the sons of darkness) know of the hidden church of diving immortals - as led our own gov ernment; we were considered alien invaders The other thing I wanted to get down (here) is a topic old + dear to my heart: mimicry. Of Brahman it is said: "It can (does) transform itself into the universe; or it What I saw in 3-74 can assume the form of the universe" was the "Brahman stuff" assuming the form of familiar objects; what I've always deduced from this is that all things, all objects are that divine stuff really, could we but see it - there would be no exceptions to this monism ourselves included. But suddenly I remember that wonderful book on insect mimicry which brunner sent me. Just because I saw (in 3-74) that many objects (walls, etc) were actually alive, were actually it does not actually mean that there is nothing but it. Take my story "colony" as Paradigm but anyhow the responding - before hand to signals + the vision of the urwelt below the dokos fits with this in that I can posit the dokos not as counterfeit (good enough fakes to pass as real) but that what we are really seeing is it mimicin the many apparently real things of the phenomenal world when I viewed this as a transsubstantiation of essence with the accidents unchanged I could have said instead is originally there were real phenomenal objects. But there is a steady greeping replacement of them by the mimicing alive it It steadily, stealthily replaces them + mimics - assumes their form." Perhaps the transformation of + in me in 3-74 was when this mimicking "plasma" reached me + replaced
+
+Last edit almost 3 years ago by svayambhu108
+84
+Needs Review
+```
+**Co-occurrences**: Tears, Christian, Ubik, Xerox, Form, Brahman, Perhaps, World, Because, After, Good, Book, Light, Could, Does, Anyhow, Just, Soviet, Divine, Viewed, Nothing, Darkness, Dokos, Their, More, Real, Actually, Before, Universe, Would, Other, Were, Many, Have, Things, Apparently, Instead, Remember, Suddenly, Sons
+
+---
+### Line 4662-4670 (Match: 'Church')
+**Folder**: book says
+
+```text
+Last edit almost 3 years ago by svayambhu108
+
+31
+31 I think we are now in the "herald angel" period. "Hark! I tell you good tidings of great joy that will be to all men" etc. There was no printed word the previous time. This all fits in with my vision of the true Christian church anticipating his return - into which I am now numporated - in the vision there were really not many of their or us: we did/do not know by faith but by direct experience (as in 3-74). It seems very clear to me that a progressive initiation through revelation to persons here + there, is involved. I was brought into the authentic church is 3-74 - not a church of believers believing that he came before + will come again as secondary-report knowledge, but having been given anamnesis plus firsthand experiencics knowledge that he is about to return again (i.e. I was shown the true situation, the real world, + told that he was returning - a confirmation involving immediccy). "Die stunde 1st da-die Zeit ist da" is not a theoretical utterance, but is an applied statement + from a divine source I would guess that certain prefatory signs must occur, are anticipated + cooked for, by the true church members, + that in at least one instance (Tears) I wrote that which com¬ prises one of these signs. The fact that I did not know what I was doing only enhances the significaned of the injected material. It is senseless + unlikely that no one received the inserted material... especially when I recall the tension which hung over me in the final stages of completing + sending of tease I could swear that the enemy , the dark force, was seeking to find + destroy that ms. In connection with this, consider the entire world presented in tears, not just the dream. The whole Rome vision plus the dream was involved. This is what things are really like, the book says. + God (Christ) will finally intervene + change all this. The what -will- be-changed + who-will change it are both put forth in the book: the illness + the cure; the cannot be understood without the othere. Each part alone - what does it tell us? The true conditem of our world + What is going to happen - + it did happen as prophecy of was absolutely correct.
+
+Last edit almost 3 years ago by svayambhu108
+32
+Complete
+```
+**Co-occurrences**: Christ, Tears, Christian, Complete, Rome, These, Like, World, Only, Time, Faith, Good, Book, Could, Does, Just, Again, Both, Divine, Great, Anamnesis, Without, Part, Their, Through, Real, Before, Revelation, Consider, True, Finally, Will, Would, Angel, Were, Very, Many, Things, Dark, Having, Knowledge, Dream, Final
+
+---
+### Line 4709-4717 (Match: 'Church')
+**Folder**: part of
+
+```text
+Last edit almost 3 years ago by svayambhu108
+39
+Needs Review
+39
+1) 3 Alchemy. I just happened (sic) to turn to the EB article. Whatever it was that happened to me in 3 74 That is why, what + how, the transformation cannot be understood without taking alchemy into acct. For instance, many of my dreams (visions contained al hemical material: "the bichlorides: a very poisonous poison." "Aspirin of mercury Albemuth." The flasks of Hermes, etc consisting of lambs. The EB article, to my delight + amazemet, gets into the I Chine; to apollonius of Tyana, Hermes Tristmegistor, thebes, + a 19th century dichemist lady saying "alcheny is the philosophy, leading to the Sophia of the mind." Mercury is a constant. Even colors are involved - + a transmutatio into the immortal (supernatural) life from this. I recall what Jung says about the alchemical formularies represent in interior (psychological) transformation, toward psychic integration + individuation. I will take a great leap: 1) A certain total transformation of a human bein from what he is (mundane, limited) into a divine immortal supernatural proto-entity is possible, if you know how. 2) certain esoteric religion. (E.g. Hermes Tristmegistos, etc) sought it, hiding their goals in obscuranism. 3) I accidently (sin) found it, in 3-74 In the EB article amore is mentioned. I have come full circle. Somebody besides me knows about all this, + always has. The link goes back to 300 be. (Hellenistic.) There is a long historical line back to 300 B.C. In 3-74 I joined some kind of invisible brotherhood, the true Xtian church - of, for a gurul II go out on another time: I am a reincarnation or avatar of some great human esoteric religious/alchemistic thinker: I i.e. bet the lithium + vitaming were instrumental
+
+Last edit almost 3 years ago by svayambhu108
+40
+Needs Review
+```
+**Co-occurrences**: Christian, Sophia, Time, Mind, Even, Just, Divine, Great, Without, Their, Jung, Another, True, Will, Were, Very, Back, Whatever, Many, Have, Life, Hermes, Human
+
+---
