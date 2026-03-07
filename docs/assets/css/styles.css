@@ -64,6 +64,8 @@ main {
     box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
 }
 
+/* Version: 1.0.2 - Resized Cards Grid Fix */
+#cards-grid,
 .cards-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
