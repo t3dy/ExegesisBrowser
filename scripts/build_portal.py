@@ -7,11 +7,10 @@ import subprocess
 
 def run_step(cmd):
     print(f"Running: {' '.join(cmd)}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    result = subprocess.run(cmd, text=True) # Removed capture_output to avoid hangs
     if result.returncode != 0:
-        print(f"Error in step: {result.stderr}")
+        print(f"Error in step: {cmd}")
         return False
-    print(result.stdout)
     return True
 
 def generate_passage_fragments(data_dir, docs_dir):
