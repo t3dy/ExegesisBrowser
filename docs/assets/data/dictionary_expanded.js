@@ -1,4 +1,4 @@
-[
+window.EXEGESIS_DICTIONARY = [
     {
         "term": "Evidence Packet Index",
         "category": "Technical Vocabulary",
@@ -1490,4 +1490,4 @@
             "Complete"
         ]
     }
-]
+];

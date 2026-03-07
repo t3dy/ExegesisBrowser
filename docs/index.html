@@ -4,20 +4,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PKD Exegesis <a href="cards/knowledge.html" class="exegesis-link">Knowledge</a> Portal</title>
+    <title>PKD Exegesis Knowledge Portal</title>
     <link rel="stylesheet" href="assets/css/styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.26.0/cytoscape.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <header>
-        <h1>Exegesis <a href="cards/knowledge.html" class="exegesis-link">Knowledge</a> Portal</h1>
+        <h1>Exegesis Knowledge Portal</h1>
         <p>A computational commentary on Philip K. Dick's intellectual network.</p>
     </header>
     
     <main>
         <!-- Scholarly Introduction -->
         <section class="scholarly-intro">
-            <h2>The <a href="cards/information.html" class="exegesis-link">Information</a> Metaphysics of Philip K. Dick</h2>
+            <h2>The Information Metaphysics of Philip K. Dick</h2>
             <p>
                 This portal provides a deterministic, evidence-backed reference system for Philip K. Dick's 
                 <em>Exegesis</em>. Our methodology prioritizes strict corpus hygiene—enforcing SHA256-verified 
@@ -36,7 +37,7 @@
     <div class="tab-container">
         <button class="tab-btn active" onclick="switchTab('cards')">Relational Cards</button>
         <button class="tab-btn" onclick="switchTab('analytics')">Analytics Dashboard</button>
-        <button class="tab-btn" onclick="switchTab('graph')"><a href="cards/knowledge.html" class="exegesis-link">Knowledge</a> Graph (Experimental)</button>
+        <button class="tab-btn" onclick="switchTab('graph')">Knowledge Graph (Experimental)</button>
     </div>
 
     <!-- RELATIONAL CARDS VIEW -->
@@ -102,7 +103,12 @@
         <p>&copy; 2026 Exegesis Semantic Browser • Powered by Cytoscape.js & Chart.js • <a href="https://github.com/t3dy/ExegesisBrowser" style="color:var(--highlight); text-decoration:none;">GitHub Repository</a></p>
     </footer>
 
-    <!-- Scripts -->
+    <!-- Data Scripts (Fallback for local CORS) -->
+    <script src="assets/data/dictionary_expanded.js"></script>
+    <script src="assets/data/analytics_summary.js"></script>
+    <script src="assets/data/graph_data.js"></script>
+
+    <!-- App Logic -->
     <script src="assets/js/app.js"></script>
 </body>
 </html>

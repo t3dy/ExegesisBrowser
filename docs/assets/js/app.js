@@ -1,183 +1,274 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const searchInput = document.getElementById('entrySearch');
-    const cards = document.querySelectorAll('.card');
-    const tabBtns = document.querySelectorAll('.tab-btn');
-    const sections = {
-        grid: document.getElementById('entryGrid'),
-        graph: document.getElementById('cy-container')
-    };
-    const nodeInfo = document.getElementById('nodeInfo');
-    const filterTags = document.querySelectorAll('.filter-tag');
+/**
+ * PKD Exegesis Knowledge Portal - Core Logic
+ * Prioritizes global JavaScript data to bypass local CORS restrictions.
+ */
 
-    let cy = null;
+const state = {
+    dictionary: window.EXEGESIS_DICTIONARY || [],
+    analyticsData: window.EXEGESIS_ANALYTICS || null,
+    graphData: window.EXEGESIS_GRAPH || null,
+    cy: null,
+    charts: {}
+};
 
-    // --- TAB SWITCHING ---
-    tabBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            const target = btn.getAttribute('data-tab');
+// --- INITIALIZATION ---
+document.addEventListener('DOMContentLoaded', async () => {
+    // If globals are missing, try fetching as a fallback (for hosted environments)
+    if (state.dictionary.length === 0) {
+        console.log("Global data missing, attempting fetch fallback...");
+        await loadDataFallback();
+    }
 
-            // Toggle active button
-            tabBtns.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
+    initUI();
+    renderCards(state.dictionary);
+});
 
-            // Toggle sections
-            Object.keys(sections).forEach(key => {
-                const el = sections[key];
-                if (el) {
-                    el.style.display = key === target ? (key === 'grid' ? 'grid' : 'block') : 'none';
-                }
-            });
+async function loadDataFallback() {
+    try {
+        const [dictRes, graphRes, statsRes] = await Promise.all([
+            fetch('assets/data/dictionary_expanded.json').then(r => r.json()).catch(() => []),
+            fetch('assets/data/graph_data.json').then(r => r.json()).catch(() => null),
+            fetch('assets/data/analytics_summary.json').then(r => r.json()).catch(() => null)
+        ]);
+        state.dictionary = dictRes;
+        state.graphData = graphRes;
+        state.analyticsData = statsRes;
+    } catch (e) {
+        console.error("Data fallback loading failed", e);
+    }
+}
 
-            if (target === 'graph' && !state.cy) {
-                initGraph();
-            } else if (target === 'analytics') {
-                initAnalytics();
-            }
+function initUI() {
+    const search = document.getElementById('term-search');
+    if (search) {
+        search.addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+            const filtered = state.dictionary.filter(item =>
+                item.term.toLowerCase().includes(query) ||
+                item.definition.toLowerCase().includes(query)
+            );
+            renderCards(filtered);
         });
+    }
+
+    // Populate Category Filter Bar
+    const filterBar = document.getElementById('filter-bar');
+    if (filterBar && state.dictionary.length > 0) {
+        const categories = ['All', ...new Set(state.dictionary.map(item => item.category))];
+        filterBar.innerHTML = categories.map(cat => `
+            <span class="filter-tag ${cat === 'All' ? 'active' : ''}" data-category="${cat}">
+                ${cat === 'All' ? 'All' : cat.split(' ')[0]}
+            </span>
+        `).join('');
+
+        filterBar.querySelectorAll('.filter-tag').forEach(tag => {
+            tag.addEventListener('click', () => {
+                filterBar.querySelectorAll('.filter-tag').forEach(t => t.classList.remove('active'));
+                tag.classList.add('active');
+                const cat = tag.dataset.category;
+                const filtered = cat === 'All' ? state.dictionary : state.dictionary.filter(item => item.category === cat);
+                renderCards(filtered);
+            });
+        });
+    }
+}
+
+function renderCards(entries) {
+    const grid = document.getElementById('cards-grid');
+    if (!grid) return;
+
+    if (entries.length === 0) {
+        grid.innerHTML = '<p class="no-results">No matching terms found in the Exegesis.</p>';
+        return;
+    }
+
+    grid.innerHTML = entries.map(entry => {
+        const slug = entry.term.toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '');
+        return `
+            <div class="card" data-category="${entry.category}">
+                <span class="category">${entry.category}</span>
+                <h3>${entry.term}</h3>
+                <p>${entry.definition}</p>
+                <a href="cards/${slug}.html" class="portal-btn">View Portal &rarr;</a>
+            </div>
+        `;
+    }).join('');
+}
+
+function switchTab(tab) {
+    // Update buttons
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+    const activeBtn = document.querySelector(`.tab-btn[onclick="switchTab('${tab}')"]`);
+    if (activeBtn) activeBtn.classList.add('active');
+
+    // Toggle views
+    const views = ['cards', 'analytics', 'graph'];
+    views.forEach(v => {
+        const el = document.getElementById(`${v}-view`);
+        if (el) {
+            el.classList.remove('view-active', 'view-hidden');
+            el.classList.add(v === tab ? 'view-active' : 'view-hidden');
+        }
     });
 
-    // --- ANALYTICS LOGIC ---
-    function initAnalytics() {
-        if (Object.keys(state.charts).length > 0) return; // Prevent re-rendering
-        if (!state.analyticsData) return;
+    // Initialize specific view logic
+    if (tab === 'graph') {
+        initGraph();
+    } else if (tab === 'analytics') {
+        initAnalytics();
+    }
+}
 
-        const ctxTerms = document.getElementById('chart-top-terms').getContext('2d');
-        const ctxCats = document.getElementById('chart-categories').getContext('2d');
-        const ctxFigs = document.getElementById('chart-figures').getContext('2d');
-        const ctxThemes = document.getElementById('chart-themes').getContext('2d');
+// --- ANALYTICS LOGIC ---
+function initAnalytics() {
+    console.log("Initializing Analytics Dashboard...");
+    if (!state.analyticsData) {
+        console.warn("Analytics data missing from state (window.EXEGESIS_ANALYTICS).");
+        return;
+    }
 
-        const chartConfig = (type, labels, data, label) => ({
-            type: type,
-            data: {
-                labels: labels,
-                datasets: [{
-                    label: label,
-                    data: data,
-                    backgroundColor: type === 'pie' || type === 'doughnut' ?
-                        ['#ffcc00', '#ff6600', '#00ffcc', '#cc00ff', '#3399ff', '#66ff66'] :
-                        'rgba(255, 204, 0, 0.6)',
-                    borderColor: '#1a1a1a',
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                responsive: true,
-                plugins: {
-                    legend: {
-                        position: 'bottom',
-                        labels: { color: '#e0e0e0', font: { family: 'Inter' } }
+    const configs = [
+        { id: 'chart-top-terms', type: 'bar', data: state.analyticsData.top_overall, title: 'Mentions' },
+        { id: 'chart-categories', type: 'doughnut', data: state.analyticsData.category_distribution, title: 'Terms' },
+        { id: 'chart-figures', type: 'bar', data: state.analyticsData.top_figures, title: 'Mentions' },
+        { id: 'chart-themes', type: 'bar', data: state.analyticsData.top_themes, title: 'Mentions' }
+    ];
+
+    // Destroy existing charts to allow re-render if needed
+    Object.values(state.charts).forEach(c => c.destroy());
+    state.charts = {};
+
+    // Small timeout to ensure DOM visibility before Chart.js measurements
+    setTimeout(() => {
+        configs.forEach(conf => {
+            const canvas = document.getElementById(conf.id);
+            if (!canvas) {
+                console.error(`Canvas not found: ${conf.id}`);
+                return;
+            }
+
+            const ctx = canvas.getContext('2d');
+            try {
+                state.charts[conf.id] = new Chart(ctx, {
+                    type: conf.type,
+                    data: {
+                        labels: Object.keys(conf.data || {}),
+                        datasets: [{
+                            label: conf.title,
+                            data: Object.values(conf.data || {}),
+                            backgroundColor: conf.type === 'bar' ? 'rgba(255, 204, 0, 0.6)' :
+                                ['#ffcc00', '#ff6600', '#00ffcc', '#cc00ff', '#3399ff', '#66ff66'],
+                            borderColor: '#1a1a1a',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        animation: { duration: 500 },
+                        plugins: {
+                            legend: {
+                                display: conf.type !== 'bar',
+                                position: 'bottom',
+                                labels: { color: '#e0e0e0', font: { family: 'Inter' } }
+                            }
+                        },
+                        scales: conf.type === 'bar' ? {
+                            y: { beginAtZero: true, ticks: { color: '#888' }, grid: { color: '#333' } },
+                            x: { ticks: { color: '#888', font: { size: 10 } }, grid: { display: false } }
+                        } : {}
                     }
-                },
-                scales: type !== 'pie' && type !== 'doughnut' ? {
-                    y: { beginAtZero: true, ticks: { color: '#888' }, grid: { color: '#333' } },
-                    x: { ticks: { color: '#888' }, grid: { display: false } }
-                } : {}
+                });
+                console.log(`Successfully rendered ${conf.id}`);
+            } catch (err) {
+                console.error(`Error rendering ${conf.id}:`, err);
             }
         });
+    }, 100);
+}
 
-        state.charts.terms = new Chart(ctxTerms, chartConfig('bar',
-            Object.keys(state.analyticsData.top_overall),
-            Object.values(state.analyticsData.top_overall),
-            'Mentions'
-        ));
+// --- GRAPH LOGIC ---
+function initGraph() {
+    if (state.cy || !state.graphData) return;
 
-        state.charts.cats = new Chart(ctxCats, chartConfig('doughnut',
-            Object.keys(state.analyticsData.category_distribution),
-            Object.values(state.analyticsData.category_distribution),
-            'Terms'
-        ));
+    const container = document.getElementById('cy');
+    if (!container) return;
 
-        state.charts.figs = new Chart(ctxFigs, chartConfig('bar',
-            Object.keys(state.analyticsData.top_figures),
-            Object.values(state.analyticsData.top_figures),
-            'Mentions'
-        ));
-
-        state.charts.themes = new Chart(ctxThemes, chartConfig('bar',
-            Object.keys(state.analyticsData.top_themes),
-            Object.values(state.analyticsData.top_themes),
-            'Mentions'
-        ));
-    }
-
-    // --- CYTOSCAPE GRAPH ---
-    async function initGraph() {
-        try {
-            const elements = state.graphData; // Use pre-loaded data
-
-            state.cy = cytoscape({
-                container: document.getElementById('cy'),
-                elements: elements,
-                style: [
-                    {
-                        selector: 'node',
-                        style: {
-                            'label': 'data(label)',
-                            'color': '#fff',
-                            'font-size': '10px',
-                            'text-valign': 'center',
-                            'text-halign': 'center',
-                            'background-color': '#3b82f6',
-                            'width': '20px',
-                            'height': '20px'
-                        }
-                    },
-                    {
-                        selector: 'node[type="passage"]',
-                        style: {
-                            'background-color': '#10b981',
-                            'shape': 'round-rectangle',
-                            'width': '15px',
-                            'height': '15px'
-                        }
-                    },
-                    {
-                        selector: 'edge',
-                        style: {
-                            'width': 1,
-                            'line-color': '#1f2937',
-                            'curve-style': 'bezier',
-                            'opacity': 0.3
-                        }
-                    },
-                    {
-                        selector: 'edge[type="similarity"]',
-                        style: {
-                            'line-style': 'dashed',
-                            'line-color': '#4b5563'
-                        }
-                    }
-                ],
-                layout: {
-                    name: 'cose',
-                    padding: 50,
-                    nodeRepulsion: 4500,
-                    animate: true
+    state.cy = cytoscape({
+        container: container,
+        elements: state.graphData,
+        style: [
+            {
+                selector: 'node',
+                style: {
+                    'label': 'data(label)',
+                    'color': '#fff',
+                    'font-size': '8px',
+                    'text-valign': 'center',
+                    'text-halign': 'center',
+                    'background-color': '#3b82f6',
+                    'width': '20px',
+                    'height': '20px',
+                    'text-outline-width': 1,
+                    'text-outline-color': '#1a1a1a'
                 }
-            });
-
-            cy.on('tap', 'node', function (evt) {
-                const node = evt.target;
-                const data = node.data();
-
-                let infoHtml = `<h3>${data.label}</h3>`;
-                if (data.type === 'term') {
-                    infoHtml += `<p><strong>Category:</strong> ${data.category}</p>`;
-                    infoHtml += `<p><strong>Mentions:</strong> ${data.count}</p>`;
-                } else {
-                    infoHtml += `<div class="passage-box"><p style="font-style: italic; color: #9ca3af;">"${data.text}"</p></div>`;
-                    infoHtml += `<p><small>Lines: ${data.lines}</small></p>`;
-                    infoHtml += `<h4 style="margin-top:1rem;">Linked Concepts:</h4><ul style="padding-left:1.5rem;">`;
-                    if (data.terms) data.terms.forEach(t => infoHtml += `<li>${t}</li>`);
-                    infoHtml += `</ul>`;
+            },
+            {
+                selector: 'node[type="passage"]',
+                style: {
+                    'background-color': '#10b981',
+                    'shape': 'round-rectangle',
+                    'width': '15px',
+                    'height': '15px'
                 }
-
-                nodeInfo.innerHTML = infoHtml + `<button onclick="this.parentElement.style.display='none'" style="margin-top:1.5rem; width:100%; padding:0.5rem; background:#1f2937; color:white; border:1px solid #374151; border-radius:8px; cursor:pointer;">Close</button>`;
-                nodeInfo.style.display = 'block';
-            });
-
-        } catch (err) {
-            console.error("Error loading graph data:", err);
+            },
+            {
+                selector: 'edge',
+                style: {
+                    'width': 1,
+                    'line-color': '#4b5563',
+                    'curve-style': 'haystack',
+                    'opacity': 0.2
+                }
+            },
+            {
+                selector: 'edge[type="similarity"]',
+                style: {
+                    'line-style': 'dashed',
+                    'line-color': '#9ca3af',
+                    'opacity': 0.1
+                }
+            }
+        ],
+        layout: {
+            name: 'cose',
+            animate: false,
+            nodeRepulsion: 4000
         }
-    }
-});
+    });
+
+    state.cy.on('tap', 'node', (evt) => {
+        const data = evt.target.data();
+        const panel = document.getElementById('node-info');
+        const content = document.getElementById('node-info-content');
+
+        if (!panel || !content) return;
+
+        let html = `<h3>${data.label}</h3>`;
+        if (data.type === 'term') {
+            html += `<p class="meta">Category: ${data.category}</p>`;
+            html += `<p>Mention Count: ${data.count || 'N/A'}</p>`;
+        } else {
+            html += `<div class="passage-text">"${data.text}"</div>`;
+            html += `<p class="meta">Source Range: Lines ${data.lines}</p>`;
+            if (data.terms && data.terms.length) {
+                html += `<h4>Connected Concepts:</h4><div class="term-tags">`;
+                data.terms.forEach(t => html += `<span class="tag">${t}</span>`);
+                html += `</div>`;
+            }
+        }
+
+        content.innerHTML = html;
+        panel.classList.remove('view-hidden');
+    });
+}

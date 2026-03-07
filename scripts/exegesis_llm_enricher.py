@@ -124,7 +124,12 @@ def enrich_dictionary(packet_dir, output_file, limit=100):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(inventory, f, indent=4)
 
-    print(f"Successfully enriched {len(inventory)} entries. Saved to {output_path}")
+    # Also save as .js for local CORS bypass
+    JS_OUTPUT = output_path.with_suffix(".js")
+    with open(JS_OUTPUT, 'w', encoding='utf-8') as f:
+        f.write(f"window.EXEGESIS_DICTIONARY = {json.dumps(inventory, indent=4)};")
+
+    print(f"Successfully enriched {len(inventory)} entries. Saved to {output_path} and {JS_OUTPUT}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Enrich dictionary packets using synthesis (Mock Version).")

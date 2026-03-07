@@ -135,8 +135,14 @@ def generate_graph(packet_dir, dictionary_file, output_file):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(graph_data, f, indent=4)
 
+    # Also save as .js for local CORS bypass
+    JS_OUTPUT = output_path.with_suffix(".js")
+    with open(JS_OUTPUT, 'w', encoding='utf-8') as f:
+        # We wrap in a simple object because these graphs can be huge
+        f.write(f"window.EXEGESIS_GRAPH = {json.dumps(graph_data, indent=4)};")
+
     print(f"Graph generated with {len(nodes)} nodes and {len(edges)} edges.")
-    print(f"Saved to {output_path}")
+    print(f"Saved to {output_path} and {JS_OUTPUT}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate a bidirectional term-passage knowledge graph.")

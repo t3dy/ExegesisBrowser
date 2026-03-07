@@ -1,4 +1,4 @@
-{
+window.EXEGESIS_GRAPH = {
     "nodes": [
         {
             "data": {
@@ -16686,4 +16686,4 @@
             }
         }
     ]
-}
+};

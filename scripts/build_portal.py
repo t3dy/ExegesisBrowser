@@ -108,6 +108,7 @@ def build_static_site(data_dir, docs_dir):
     <title>PKD Exegesis Knowledge Portal</title>
     <link rel="stylesheet" href="assets/css/styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.26.0/cytoscape.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <header>
@@ -203,7 +204,12 @@ def build_static_site(data_dir, docs_dir):
         <p>&copy; 2026 Exegesis Semantic Browser • Powered by Cytoscape.js & Chart.js • <a href="https://github.com/t3dy/ExegesisBrowser" style="color:var(--highlight); text-decoration:none;">GitHub Repository</a></p>
     </footer>
 
-    <!-- Scripts -->
+    <!-- Data Scripts (Fallback for local CORS) -->
+    <script src="assets/data/dictionary_expanded.js"></script>
+    <script src="assets/data/analytics_summary.js"></script>
+    <script src="assets/data/graph_data.js"></script>
+
+    <!-- App Logic -->
     <script src="assets/js/app.js"></script>
 </body>
 </html>

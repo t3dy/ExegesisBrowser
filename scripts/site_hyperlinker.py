@@ -49,17 +49,38 @@ def hyperlink_site(docs_dir, data_dir):
         with open(html_file, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        # Simple regex (needs to avoid linking inside tags)
-        # For a static site, we'll do a basic pass.
-        for t in all_terms[:100]: # Top 100 for safety/speed
+        # Scan all HTML files in docs/
+    for html_file in docs_path.rglob("*.html"):
+        with open(html_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # We only want to hyperlink in certain sections (e.g., <p>, <div class="extended-def">, etc.)
+        # For simplicity in this script, we'll exclude blocks that shouldn't be touched.
+        
+        # 1. Protect <script>, <style>, <title>, <button>, <h1>, <h2> tags
+        # We replace them with placeholders
+        placeholders = []
+        def hide_tags(match):
+            placeholders.append(match.group(0))
+            return f"__TAG_PLACEHOLDER_{len(placeholders)-1}__"
+        
+        protected_content = re.sub(r'<(script|style|title|button|h1|h2|h3|a)[^>]*>.*?</\1>', hide_tags, content, flags=re.DOTALL | re.IGNORECASE)
+        
+        # 2. Re-apply linking to the remaining content
+        for t in all_terms[:100]:
+            slug = term_to_slug.get(t.lower())
+            if not slug: continue
+            
+            # Simple word boundary replacement
             pattern = rf'\b({re.escape(t)})\b'
-            # Avoid replacing already replaced or inside tags
-            # (High level: This is non-trivial but let's do a basic one)
-            if f'cards/{term_to_slug.get(t.lower())}.html' in content: continue
-            content = re.sub(pattern, link_callback, content)
+            protected_content = re.sub(pattern, lambda m: f'<a href="cards/{slug}.html" class="exegesis-link">{m.group(0)}</a>', protected_content)
+
+        # 3. Restore placeholders
+        for i, tag in enumerate(placeholders):
+            protected_content = protected_content.replace(f"__TAG_PLACEHOLDER_{i}__", tag)
 
         with open(html_file, 'w', encoding='utf-8') as f:
-            f.write(content)
+            f.write(protected_content)
 
     print(f"Hyperlinked {len(all_terms)} possible terms across {docs_path}")
 

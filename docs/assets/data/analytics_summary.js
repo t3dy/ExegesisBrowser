@@ -1,4 +1,4 @@
-{
+window.EXEGESIS_ANALYTICS = {
     "top_overall": {
         "Christ": 4855,
         "Valis": 4249,
@@ -29,4 +29,4 @@
     },
     "total_terms": 100,
     "total_mentions": 25445
-}
+};

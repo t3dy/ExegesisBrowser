@@ -65,7 +65,12 @@ def generate_analytics():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(summary, f, indent=4)
     
-    print(f"Analytics summary saved to {OUTPUT_FILE}")
+    # Also save as .js for local CORS bypass
+    JS_OUTPUT = OUTPUT_FILE.with_suffix(".js")
+    with open(JS_OUTPUT, "w", encoding="utf-8") as f:
+        f.write(f"window.EXEGESIS_ANALYTICS = {json.dumps(summary, indent=4)};")
+    
+    print(f"Analytics summary saved to {OUTPUT_FILE} and {JS_OUTPUT}")
 
 if __name__ == "__main__":
     generate_analytics()
