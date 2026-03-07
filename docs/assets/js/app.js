@@ -95,11 +95,16 @@ function renderCards(entries) {
     }).join('');
 }
 
-function switchTab(tab) {
+window.switchTab = function (tab) {
+    console.log(`Switching to tab: ${tab}`);
     // Update buttons
-    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
-    const activeBtn = document.querySelector(`.tab-btn[onclick="switchTab('${tab}')"]`);
-    if (activeBtn) activeBtn.classList.add('active');
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.classList.remove('active');
+        // Match either by data-tab or simple inclusion of the tab name in onclick
+        if (btn.getAttribute('onclick')?.includes(`'${tab}'`)) {
+            btn.classList.add('active');
+        }
+    });
 
     // Toggle views
     const views = ['cards', 'analytics', 'graph'];
@@ -117,7 +122,7 @@ function switchTab(tab) {
     } else if (tab === 'analytics') {
         initAnalytics();
     }
-}
+};
 
 // --- ANALYTICS LOGIC ---
 function initAnalytics() {

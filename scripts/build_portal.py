@@ -255,6 +255,8 @@ def main():
         if not run_step(["python", str(scripts / "exegesis_llm_enricher.py")]): return
         # Step 5: Passage Graph Generator (Phase 10)
         if not run_step(["python", str(scripts / "generate_passage_graph.py")]): return
+        # Step 6: Analytics Data Generator (Phase 11)
+        if not run_step(["python", str(scripts / "generate_analytics_data.py")]): return
     
     print("--- BUILDING STATIC SITE ---")
     build_static_site("docs/assets/data", "docs")
