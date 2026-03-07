@@ -20,7 +20,7 @@ What is involved is a restoring, a new life which is the igniting by means of th
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Logos, Rome, Fish, Bible, Roman, Maybe, Like, World, Because, Therefore, Only, Time, Harpax, Savior, Does, Just, Look, Both, Being, Although, Everything, Platonic, Probably, Those, Part, More, Fullerton, Secret, Before, Christopher, Would, Other, Were, Very, Back, Life, Body, Days, Knowledge, Cross, Evidently, Someone, Answer, Until
+**Co-occurrences**: Time, Christ, Christian, Logos, Rome, Fish, Bible, Roman, Maybe, Like, World, Because, Therefore, Only
 
 ---
 ### Line 1081-1089 (Match: 'Advent')
@@ -37,7 +37,7 @@ Last edit over 5 years ago by Harpax
 75
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Greek, Perhaps, Father, Like, Time, Harpax, Savior, Even, Firebright, Could, Just, Once, Again, Both, Reality, Apollo, Probably, Sibyl, Their, Another, True, Will, Would, Attic, Back, Under, Absolute, Right
+**Co-occurrences**: Time, Firebright, Christ, Spirit, Holy, Holy Spirit, Greek, Perhaps, Father, Like
 
 ---
 ### Line 1089-1097 (Match: 'Advent')
@@ -54,7 +54,7 @@ The "Dec N T" says that this time Christ won't appear in the form of one single 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1091-1099 (Match: 'Advent')
@@ -71,7 +71,7 @@ Last edit over 5 years ago by Harpax
 
 76
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1124-1132 (Match: 'Advent')
@@ -88,7 +88,7 @@ One of the best points in Hussey's book is where he says that one of the ancient
 
 I note that Parmenides' Form I is equated, by him, with light: This is exciting, since as I understand Parmenides, he saw Form II as a mere mirror reflection, and urged a monism on us (the fiery or dry soul) which made us relate only to Form I, or to light.
 ```
-**Co-occurrences**: Form, Greek, Well, These, Maybe, Like, Parmenides, Since, Because, Only, Time, Harpax, Book, Light, Could, Does, Just, Suppose, Kosmos, Although, Everything, Orphic, Either, Without, Nothing, More, Another, Soul, Real, Certainly, Universe, Deity, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+**Co-occurrences**: Time, Form, Greek, Well, These, Maybe, Like, Parmenides, Since, Because, Only
 
 ---
 ### Line 1315-1323 (Match: 'Advent')
@@ -105,7 +105,7 @@ That was as supernatural as anything -- evil. But it signalled the ushering-in o
 
 I keep forgetting the dream of the king on horseback in TEARS; all the Pauline material in TEARS, which was published just as this hit me, these sequences of Parousia experiences! I forever think of my "toiling in the vinyard of the Lord" as starting with my letters of 3 & 4 74; but TEARS! What about TEARS? Was that not that I most of all did, and somehow knew it all the time? As important as the letters may have been (or may not), the book certainly was/is.
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Parousia, Lord, These, Elijah, Maybe, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Just, Once, Again, Reality, Being, Himself, Essene, More, Through, Most, Certainly, Death, Macro, Will, Would, Other, Mission, Somehow, Judge, Were, Very, Back, Have, Judgment, Testament, Evil, Pauline, Human, Sons, Dream, Lamb
+**Co-occurrences**: Time, Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Parousia, Lord, These, Elijah, Maybe, Like, World, Only
 
 ---
 ### Line 1327-1335 (Match: 'Advent')
@@ -122,7 +122,7 @@ When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Felix, Satan, Parousia, Perhaps, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+**Co-occurrences**: Time, Christ, Logos, Jesus, Kingdom, Felix, Satan, Parousia, Perhaps, Father, Maybe, Since, Only, John
 
 ---
 ### Line 1710-1718 (Match: 'Advent')
@@ -139,7 +139,7 @@ I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sens
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Like, World, Since, Therefore, Time, Harpax, After, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Another, Pike, Such, Voice, Secret, Jim Pike, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During, Whereas
+**Co-occurrences**: Sophia, Time, Santa Sophia, Information, Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Like, World, Since, Therefore
 
 ---
 ### Line 1822-1830 (Match: 'Advent')
@@ -156,7 +156,7 @@ Last edit over 5 years ago by Harpax
 130
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Form, Sophia, Greek, Well, Perhaps, Like, World, Since, Because, Harpax, Does, Just, Realm, Being, Divine, Philip, Aristotle, More, Such, Voice, True, Judge, Attic, Things, Information, Freedom, Evil, Socrates, Knowledge, Truth, Reformers, Lamb, Right
+**Co-occurrences**: Sophia, Philip, Information, Spirit, Holy, Complete, Holy Spirit, Form, Greek, Well, Perhaps, Like, World, Since, Because
 
 ---
 ### Line 2079-2087 (Match: 'Advent')
@@ -173,7 +173,7 @@ Oh yes; on that Sunday night of the pale white light -- I knew that it (the ange
 
 Last edit over 5 years ago by wtutwiler70
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Jesus, Christianity, Holy Spirit, King, Parousia, However, Dionysos, Perhaps, Father, Like, Because, Time, Light, Even, Does, Pinky, Just, Something, Both, Zagreus, Being, Catholic, Moses, Covenant, Himself, Great, Bacchae, Gods, Jewish, Nothing, Those, More, Such, Consider, Yahweh, Easter, Irae, Messenger, Death, Universe, Would, Angel, Were, Biblical, Very, Have, Freedom, Passover, Cross, Greater, White
+**Co-occurrences**: Time, Christ, Spirit, Holy, Jesus, Christianity, Holy Spirit, King, Parousia, However, Dionysos, Perhaps, Father, Like, Because
 
 ---
 ### Line 2169-2177 (Match: 'Advent')
@@ -189,7 +189,7 @@ The sentence, "St. Sophia will be reborn; she was not acceptable before," means 
 
 The expression of God's creative force is visible as the universe itself; but His wisdom is concealed within it, as the still small voice, not visible and barely audible. Otherwise --jacked up futher-- it would thwart the power. It must accompany it without damaging it; thus it inspires us to minute adjustments.
 ```
-**Co-occurrences**: Christ, Tears, Sophia, King, Wisdom, These, Therefore, Harpax, Buddha, Anyhow, Self, Daniel, Without, Still, Through, Voice, Before, Universe, Will, Would, Further, Days, Otherwise, Dream
+**Co-occurrences**: Sophia, Christ, Tears, King, Wisdom, These, Therefore
 
 ---
 ### Line 2339-2347 (Match: 'Advent')
@@ -206,7 +206,7 @@ My entry into the Kingdom came first, then I perceived such news as the dream in
 
 When I was little I used to haul out big wooden cartons and boxes to play inside of...it is as if, through the pylon gate, I found my way back to the peace and safety of those cartons of my childhood... God has brought me at last to safety and a realization, at last, of safety, the safety I yearned for and did not have even then (5 years old). Viewed another way perhaps it can be said that I have been brought safely into the fold, after straying all over the landscape. Either way we are talking about the same place. I feel a great peace now, at last, for the first time in my life. This whole period, including 3 74, has been arduous; I had to work hard and hustle after my illumination (3 74), right on down through the months, these 14 months, writing on this as I am doing, reading and researching and writing and meditating in order to understand. I believe I've worn myself out more with this thanwith any previous writing, any novel or group of novels. I have educated myself regarding my experience. Gone to school over it. What does it add up to (at this point in my knowledge)? I passed through the narrow gate in mid-74, and now I am told that He will come back for the world itself, fairly soon. Thus an individual experience will be made/is being made into a common or group or collective or objective experience by our people in general. As with other questions, the answer to the question, Is it subjective & individual or objective & general is, Both.
 ```
-**Co-occurrences**: Christ, Tears, Holy, Sophia, Kingdom, King, Parousia, These, Perhaps, World, Because, Time, After, Buddha, Even, Okay, Does, Something, Kingdom of God, Both, Being, Although, Either, Great, Viewed, Those, More, Another, Through, Ground, Real, Such, Voice, Secret, Finally, Will, Other, Very, Back, Have, Life, Information, Later, Knowledge, Dream, Right, Answer
+**Co-occurrences**: Sophia, Time, Information, Christ, Tears, Holy, Kingdom, King, Parousia, These, Perhaps, World, Because
 
 ---
 ### Line 2453-2461 (Match: 'Advent')
@@ -223,7 +223,7 @@ The news-scoop on NBC TV about the vast police dossier network (computer linkage
 
 "As you have not come to Me I come to thee." (In dream) (Seen on page of the Bible, Christ's words.)
 ```
-**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Christianity, Holy Spirit, Sophia, Kingdom, King, Well, Bible, However, Wisdom, Elijah, Because, Time, Harpax, Faith, Book, Light, Anyhow, Kingdom of God, Essene, Still, Part, Through, Such, Before, Messenger, Finally, Would, Mission, Page, Judge, Were, Many, Have, Tree, Life, Having, Knowledge, Truth, Dream, Salvation, Whereas, Answer
+**Co-occurrences**: Sophia, Time, Christ, Tears, Christian, Spirit, Holy, Christianity, Holy Spirit, Kingdom, King, Well, Bible, However, Wisdom, Elijah, Because
 
 ---
 ### Line 2467-2475 (Match: 'Advent')
@@ -240,7 +240,7 @@ Last edit over 5 years ago by Harpax
 185
 Needs Review
 ```
-**Co-occurrences**: Tears, Acts, Spirit, Holy, Logos, Holy Spirit, King, Parousia, Elijah, Maybe, Like, World, Because, Only, Time, Harpax, After, Good, Mind, Book, Even, Could, Does, Anyhow, Just, Something, Suppose, Being, Either, Still, Their, Another, Through, Upon, Before, Revelation, Will, Would, Other, Mission, Were, Biblical, Back, Have, Life, Later, Days, Whether, Unless, Knowledge, During, Human, Right, Someone
+**Co-occurrences**: Time, Tears, Acts, Spirit, Holy, Logos, Holy Spirit, King, Parousia, Elijah, Maybe, Like, World, Because, Only
 
 ---
 ### Line 2512-2520 (Match: 'Advent')
@@ -257,7 +257,7 @@ in human civilization ahead (first Earth Mother; then masculine Solar Deities; n
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Xerox, Rome, Christianity, Holy Spirit, Form, Sophia, King, Well, Empire, Wisdom, These, Perhaps, Father, Maybe, Like, World, Fall, Because, Time, Earth, Harpax, Good, Hermetic, Just, Again, Being, Girl, Great, Gods, Sibyl, Santa, Nothing, Part, Their, More, Egypt, Living, Heaven, Certainly, Love, Before, Mother, Greece, Santa Sophia, Macro, Universe, Will, Would, Other, Creation, Judge, Very, Back, Egyptian, Surely, Whatever, Have, Judgment, Justice, Information, Trinity, Evil, Hermes, Human, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Hermetic, Santa Sophia, Information, Hermes, Saint Sophia, Christ, Christian, Spirit, Holy, Logos, Xerox, Rome, Christianity, Holy Spirit, Form, King, Well, Empire, Wisdom, These, Perhaps, Father, Maybe, Like, World, Fall, Because, Earth
 
 ---
 ### Line 2575-2583 (Match: 'Advent')
@@ -274,7 +274,7 @@ The Battle of Armageddon must occur before Christ returns (which I believe is wh
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Holy Spirit, Sophia, Kingdom, King, Paul, Well, Bible, Parousia, Perhaps, Elijah, Like, World, Iron, Only, Time, Earth, Harpax, After, Does, Anyhow, Just, Once, Again, Kingdom of God, Kosmos, Being, Either, Great, Santa, Still, Part, More, Through, Heaven, Certainly, Before, True, Santa Sophia, Will, Would, Other, Back, Have, Things, Judgment, Life, Body, Except, Dead, Dream, Doesn, Final, Answer, Until
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christ, Tears, Christian, Ubik, Spirit, Holy, Holy Spirit, Kingdom, King, Paul, Well, Bible, Parousia, Perhaps, Elijah, Like, World, Iron, Only, Earth
 
 ---
 ### Line 2797-2805 (Match: 'Advent')
@@ -291,7 +291,7 @@ Now, take what Eric was saying about the American Founding Fathers and tneir bel
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Father, Like, World, Time, Nixon, Holy Wisdom, Good, Yang, Could, Joint, Just, Something, Taoism, Again, Suppose, Reality, Empedocles, Himself, Great, Bacchae, Probably, Nothing, Kathy, Their, Such, Love, Greece, Would, Other, Hamlet, Were, Back, Whatever, Evil, Remember, Cross, Dialectic, Dead, Otherwise, Dream, Lamb, Right, Answer, Until
+**Co-occurrences**: Time, Dialectic, Linear, Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Father, Like, World, Nixon
 
 ---
 ### Line 2998-3006 (Match: 'Advent')
@@ -308,7 +308,7 @@ Last edit almost 5 years ago by svayambhu108
 229
 Needs Review
 ```
-**Co-occurrences**: Christ, Sophia, Paul, Well, These, Maybe, Like, Since, Fall, Only, Time, After, Cosmic, Book, Cosmic Christ, Even, Could, Anyhow, Just, Something, Adam, Again, Being, Great, Probably, Without, Grace, Nothing, Zoroaster, Those, More, Church, Another, Certainly, Before, True, Universe, Will, Calvin, Would, Were, Back, Have, Life, Body, Except, During, Whereas, Right, Someone
+**Co-occurrences**: Sophia, Time, Christ, Paul, Well, These, Maybe, Like, Since, Fall, Only
 
 ---
 ### Line 3008-3016 (Match: 'Advent')
@@ -325,7 +325,7 @@ In rereading the ICC DECODED NEW TESTAMENT I discover it is based on a false pre
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Christianity, Holy Spirit, Sophia, Gnostic, Because, Therefore, Only, John, Time, After, Mind, Even, Gospel, St Sophia, Could, Just, Soviet, Both, Being, Without, Grace, Their, Through, Such, Secret, Before, Will, Would, Were, Many, Have, German, Testament, Days, Knowledge, Dream, Salvation, Doesn, Free, Answer
+**Co-occurrences**: Sophia, Gnostic, Time, St Sophia, Decoded, Christ, Spirit, Holy, Christianity, Holy Spirit, Because, Therefore, Only, John
 
 ---
 ### Line 3071-3079 (Match: 'Advent')
@@ -342,6 +342,6 @@ The best statement I ever recall reading about the Kingdom was when Christ said 
 
 If it was myself (who assumed control in 3-74) then I am an immortal entity, stretching back thousands of years into the past, originally from another star, lasting on into the future, possessing the knowledge of the secrets of the universe, loyal to God and in touch with him, being mostly in eternity already, having been present near or around Christ as well as the great culture of Greece L Rome, one of the great healers and wise men of this race. How can that be? "For this mortal must put on immortality..."
 ```
-**Co-occurrences**: Christ, Tears, Rome, Kingdom, Gnostic, King, Greek, Well, Bible, Parousia, Plotinus, Like, World, Since, Gnosis, Only, Time, After, Could, Does, Bardo, Anyhow, Just, Thodol, Again, Suppose, Bardo Thodol, Being, Obviously, Himself, Great, Nothing, Their, More, Another, Star, Through, Love, Before, Greece, True, Death, Universe, Will, Would, Other, Mission, Were, Back, Have, Things, Wise, Having, God Himself, Except, Knowledge, Otherwise, Dream, Evidently, Doesn, Pleroma, Crete, Until
+**Co-occurrences**: Plotinus, Gnostic, Time, Pleroma, Christ, Tears, Rome, Kingdom, King, Greek, Well, Bible, Parousia, Like, World, Since, Gnosis, Only
 
 ---

@@ -20,7 +20,7 @@ Last edit about 3 years ago by svayambhu108
 
 41
 ```
-**Co-occurrences**: Valis, Spinoza, Like, World, Only, Time, Platonist, Both, Reality, Divine, Augustine, Cartesian, Anamnesis, Part, Their, Leibnitz, Real, Memory
+**Co-occurrences**: Valis, Time, Anamnesis, Spinoza, Like, World, Only, Platonist
 
 ---
 ### Line 37275-37283 (Match: 'Malebranche')
@@ -36,7 +36,7 @@ Last edit about 3 years ago by svayambhu108
 42
 Needs Review
 ```
-**Co-occurrences**: Valis, Thomas, Plato, Spinoza, World, Even, Being, Everything, Augustine, Cartesian, Anamnesis, Without, More, True, Death, Will, Would, Under, Have, Truth
+**Co-occurrences**: Valis, Thomas, Anamnesis, Plato, Spinoza, World
 
 ---
 ### Line 37281-37289 (Match: 'Malebranche')
@@ -53,7 +53,7 @@ Last edit over 4 years ago by mumpsoffun
 43
 Needs Review
 ```
-**Co-occurrences**: Valis, Acts, Christian, Plato, Spinoza, Plotinus, World, Mind, Reality, Being, Everything, Himself, Augustine, Real, True, Finally, Very, Back, Have, Instead, God Himself, Dialectic, Durant, Answer
+**Co-occurrences**: Plotinus, Valis, Dialectic, Acts, Christian, Plato, Spinoza, World
 
 ---
 ### Line 37287-37295 (Match: 'Malebranche')
@@ -70,7 +70,7 @@ Last edit about 3 years ago by svayambhu108
 44
 Needs Review
 ```
-**Co-occurrences**: Valis, Xerox, These, Only, Light, Reality, Missive, Self, Everything, Xerox Missive, Chrissy, Their, Another, True, Other, Creation, Somehow, Have, Info, Likewise
+**Co-occurrences**: Valis, Xerox, These, Only
 
 ---
 ### Line 37293-37301 (Match: 'Malebranche')
@@ -87,7 +87,7 @@ that I simply could not comprehend, but which he lucidly handles.
 
 Last edit about 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Valis, Ubik, Spinoza, Maze, World, Only, Platonist, Mind, Could, Does, Just, Something, Both, Reality, Being, Anamnesis, Leibnitz, More, Ground, Such, Actually, True, Will, Later, Dialectic
+**Co-occurrences**: Valis, Anamnesis, Dialectic, Ubik, Spinoza, Maze, World, Only, Platonist
 
 ---
 ### Line 37301-37309 (Match: 'Malebranche')
@@ -104,7 +104,7 @@ Last edit about 3 years ago by svayambhu108
 
 46
 ```
-**Co-occurrences**: Valis, Xerox, Well, These, Like, World, Mind, Something, Reality, Missive, Xerox Missive, Chrissy, More, Real, True, Creation, Info, Knowledge
+**Co-occurrences**: Valis, Xerox, Well, These, Like, World
 
 ---
 ### Line 37322-37330 (Match: 'Malebranche')
@@ -121,7 +121,7 @@ perception in 3-74. This is connected with the inner-outer tape synch + engrammi
 
 Last edit about 3 years ago by svayambhu108
 ```
-**Co-occurrences**: These, World, Mind, More, Through, True, Would, Very
+**Co-occurrences**: These, World
 
 ---
 ### Line 37330-37338 (Match: 'Malebranche')
@@ -138,7 +138,7 @@ I
 
 te is the the arihetybes common essence; i.e. This mre is why the 2 Plato's Forms spatiotemporal sets blended
 ```
-**Co-occurrences**: Christian, Form, Plato, Bible, Spinoza, Mind, Just, Kerygma, Reality, Anamnesis, Beethoven, True, Very, Back, Have, Remember
+**Co-occurrences**: Anamnesis, Christian, Form, Plato, Bible, Spinoza
 
 ---
 ### Line 37340-37348 (Match: 'Malebranche')
@@ -155,7 +155,7 @@ Last edit about 3 years ago by svayambhu108
 
 51
 ```
-**Co-occurrences**: Form, Plato, These, World, Only, Mind, Could, Again, Being, Platonic, More, Real, Flux, Would, Creation, Further, Right
+**Co-occurrences**: Form, Plato, These, World, Only
 
 ---
 ### Line 37345-37353 (Match: 'Malebranche')
@@ -171,7 +171,7 @@ Last edit about 3 years ago by svayambhu108
 52
 Needs Review
 ```
-**Co-occurrences**: Valis, Acts, Christian, Form, Plato, Fish, Spinoza, Perhaps, Plotinus, World, Since, Time, Cosmic, Mind, Does, Once, Before, Would, Back, Have, Apparently, Memory
+**Co-occurrences**: Plotinus, Valis, Time, Acts, Christian, Form, Plato, Fish, Spinoza, Perhaps, World, Since
 
 ---
 ### Line 37351-37359 (Match: 'Malebranche')
@@ -188,7 +188,7 @@ Last edit about 3 years ago by svayambhu108
 53
 Needs Review
 ```
-**Co-occurrences**: Christian, Form, Plato, Gnostic, These, Plotinus, World, Time, Platonist, Mind, Look, Being, Himself, Brahmanism, Most, Living, Actually, Love, Would, Other, Very, Things, Info, Likewise, Whereas, Right
+**Co-occurrences**: Plotinus, Gnostic, Time, Christian, Form, Plato, These, World, Platonist
 
 ---
 ### Line 37375-37383 (Match: 'Malebranche')
@@ -205,7 +205,7 @@ As regards the elements of Malebranche's theory: 1) We do not see objects. We se
 
 Last edit about 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Gnosticism, Lord, Like, World, Fall, Mind, Does, Look, Being, Divine, Through, Secret, Will, Would, Have, Wise, Dialectic, Salvation
+**Co-occurrences**: Gnosticism, Dialectic, Christ, Lord, Like, World, Fall
 
 ---
 ### Line 37377-37385 (Match: 'Malebranche')
@@ -222,7 +222,7 @@ Last edit about 3 years ago by svayambhu108
 
 56
 ```
-**Co-occurrences**: Christ, Gnosticism, Lord, Like, World, Fall, Mind, Does, Look, Being, Divine, Through, Secret, Will, Would, Have, Wise, Dialectic, Salvation
+**Co-occurrences**: Gnosticism, Dialectic, Christ, Lord, Like, World, Fall
 
 ---
 ### Line 37382-37390 (Match: 'Malebranche')
@@ -238,7 +238,7 @@ Last edit about 3 years ago by svayambhu108
 57
 Needs Review
 ```
-**Co-occurrences**: Acts, Ubik, Form, Plato, Spinoza, World, Only, Mind, Does, Anyhow, Reality, Himself, Anamnesis, Part, Leibnitz, More, Through, Such, Would
+**Co-occurrences**: Anamnesis, Acts, Ubik, Form, Plato, Spinoza, World, Only
 
 ---
 ### Line 37394-37402 (Match: 'Malebranche')
@@ -255,7 +255,7 @@ Last edit about 3 years ago by svayambhu108
 59
 Needs Review
 ```
-**Co-occurrences**: Ubik, Form, Plato, Spinoza, Maze, World, John, Suppose, Reality, Deus, Anamnesis, Ground, Actually, Revelation, Consider, True, Somehow, Very, Have, Memory, Form World
+**Co-occurrences**: Anamnesis, Ubik, Form, Plato, Spinoza, Maze, World, John
 
 ---
 ### Line 37402-37410 (Match: 'Malebranche')
@@ -272,7 +272,7 @@ Last edit about 3 years ago by svayambhu108
 60
 Needs Review
 ```
-**Co-occurrences**: Spinoza, Like, Because, Only, Cosmic, Could, Something, Reality, Being, Divine, Himself, Without, Their, Through, Most, Ground, True, Macro
+**Co-occurrences**: Spinoza, Like, Because, Only
 
 ---
 ### Line 37408-37416 (Match: 'Malebranche')
@@ -289,7 +289,7 @@ s
 
 malabranche to be correct, multiplicity + the plural autonomy of discrete entities (such as we normally suppose) would have to be illusory, + indeed it is. Therefore the continuum or field argument is the most effective argument for Malebranche. Spinoza's error is to equate this reality field with God, whereas in fact God creates the field + then Acts through it, on it, by means of it; he is able to perturb it from outside it (but course this "outside" is not spatial!). of one of Malebranche's most incisive insights is that God sustains reality continually, rather than simply having brought it originally into being: "Set it spinning," as James stephens put it. My God - beginning in 2-74 I wat aware of the intelligible archetypal ideas as such, which means that my 11 syntonic two spatiotemporal set,".
 ```
-**Co-occurrences**: Acts, Spinoza, James, Therefore, Suppose, Reality, Being, Through, Most, Such, Would, Have, Having, Whereas
+**Co-occurrences**: Acts, Spinoza, James, Therefore
 
 ---
 ### Line 37412-37420 (Match: 'Malebranche')
@@ -306,7 +306,7 @@ superimposition is how God experience. world. + this returned in 3-74 whereupon 
 
 Last edit about 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Acts, Rome, Spinoza, James, World, Therefore, Suppose, Both, Reality, Being, Through, Most, Such, Would, Have, Having, Whereas
+**Co-occurrences**: Acts, Rome, Spinoza, James, World, Therefore
 
 ---
 ### Line 37421-37429 (Match: 'Malebranche')
@@ -322,7 +322,7 @@ The purpose of breaking the power of world exerted over you is a mean to a great
 
 Last edit about 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Christian, Thomas, Christianity, Plato, Paul, Plotinus, World, Only, Could, Just, Once, Although, Self, Augustine, Still, Part, Indian, Would, Were, Many, Have, Greater
+**Co-occurrences**: Plotinus, Thomas, Christian, Christianity, Plato, Paul, World, Only
 
 ---
 ### Line 37437-37445 (Match: 'Malebranche')
@@ -339,6 +339,6 @@ a friend of like who wote Acts.
 
 Last edit about 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Valis, Acts, Christian, Christianity, Form, Paul, Fish, Like, World, Therefore, After, Mind, Does, Both, Reality, Self, Divine, Through, Ground, Would, Other, Have, Things, Suddenly, Human, Doesn
+**Co-occurrences**: Valis, Christ, Acts, Christian, Christianity, Form, Paul, Fish, Like, World, Therefore
 
 ---

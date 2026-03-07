@@ -20,7 +20,7 @@ We are living where two universes (sic!) meet -- i.e. where they overlap. We're 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Complete, Form, Gnostic, These, Parmenides, Since, Only, Time, Harpax, After, Good, Book, Yang, Both, Being, March, Still, Part, Soul, Living, Heaven, Real, Universe, Back, Whatever, Many, Have, Form One, Unless, Dream, Doesn, Someone
+**Co-occurrences**: Gnostic, Time, Tears, Complete, Form, These, Parmenides, Since, Only
 
 ---
 ### Line 827-835 (Match: 'Firebright')
@@ -37,7 +37,7 @@ The criticism that Elijah's coming first and shaping certain folk up so they'd b
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Kingdom, Well, Elijah, Since, Because, Time, Earth, Harpax, Savior, Good, Even, Could, Pinky, Once, Both, Reality, Although, Great, Anamnesis, Without, Their, Heaven, Real, Actually, Certainly, Before, True, Messenger, Death, Would, Somehow, Kingship, Judge, Were, Very, Beyond, Many, Have, Judgment, Life, Body, Spring, Having, Human, Lamb
+**Co-occurrences**: Time, Anamnesis, Kingdom, Well, Elijah, Since, Because, Earth
 
 ---
 ### Line 918-926 (Match: 'Firebright')
@@ -54,7 +54,7 @@ You can't make this happen. God does it. How exciting, and yet I knew all this, 
 
 . . "The Decoded N.T." shows that there are others like me, and they know who and what they are, and have joined together. There is nothing I know that they don't. This answers one of my most pressing questions; the answer is Yes. This whole thing is really real. That I was given this...crucial stations, I suppose, which fan out in all directions (of my London "speech"). But I did see what they haven't said: the absolute purposefulness of everything, and the retrograde method of making it all work to a point. What happened to me (Firebright) had a certain history -- if you read backward along linear time: my works and my life, in oddly contrasting ways, make the experience although in no sense predictable, at least sensible.
 ```
-**Co-occurrences**: Acts, Logos, Gnostic, Plotinus, Father, Like, Time, Could, Does, Something, Again, Suppose, Being, Although, Everything, Divine, Probably, Grace, Nothing, Creator, Most, Real, True, Universe, Finally, Would, Other, Were, Have, Life, Absolute, Body, Testament, London, Human, Karmic, Whereas, Answer
+**Co-occurrences**: Plotinus, Gnostic, Time, Linear, Decoded, Acts, Logos, Father, Like
 
 ---
 ### Line 920-928 (Match: 'Firebright')
@@ -71,7 +71,7 @@ You can't make this happen. God does it. How exciting, and yet I knew all this, 
 
 . . .
 ```
-**Co-occurrences**: Acts, Logos, Father, Like, Time, Does, Again, Suppose, Being, Although, Everything, Divine, Probably, Nothing, Creator, Most, Real, True, Universe, Finally, Would, Other, Were, Have, Life, Absolute, Body, Testament, London, Human, Karmic, Answer
+**Co-occurrences**: Time, Linear, Decoded, Acts, Logos, Father, Like
 
 ---
 ### Line 922-930 (Match: 'Firebright')
@@ -88,7 +88,7 @@ You can't make this happen. God does it. How exciting, and yet I knew all this, 
 
 In discussion with Loren Cavit: what I saw in 3 74 may not have been "Seeing the universe backward, reversed, etc." but I may have in
 ```
-**Co-occurrences**: Acts, Logos, Father, Like, Time, Does, Again, Suppose, Being, Although, Everything, Divine, Nothing, Creator, Most, Real, True, Universe, Would, Other, Have, Life, Absolute, Body, Testament, London, Human, Karmic, Answer
+**Co-occurrences**: Time, Linear, Decoded, Acts, Logos, Father, Like
 
 ---
 ### Line 985-993 (Match: 'Firebright')
@@ -105,7 +105,7 @@ Last edit over 5 years ago by Harpax
 
 66
 ```
-**Co-occurrences**: Christ, Ubik, Holy, Rome, Form, Sophia, Kingdom, Greek, However, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+**Co-occurrences**: Sophia, Time, Anamnesis, Christ, Ubik, Holy, Rome, Form, Kingdom, Greek, However, Maze, Father, Like, Because, Only
 
 ---
 ### Line 1002-1010 (Match: 'Firebright')
@@ -122,7 +122,7 @@ The "receiving of the Holy Spirit" at Pentercost, in Acts, probably is this rece
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Christianity, Holy Spirit, However, Father, Like, Since, Because, Only, Earth, Harpax, After, Mind, Light, Gospel, Does, Anyhow, Again, Both, Being, Himself, Probably, Grace, Brain, Part, Their, More, Actually, Certainly, Before, Mother, True, Would, Other, Were, Many, Things, Absolute, Body, God Himself, Today, Doesn, Final
+**Co-occurrences**: Decoded, Acts, Spirit, Holy, Christianity, Holy Spirit, However, Father, Like, Since, Because, Only, Earth
 
 ---
 ### Line 1043-1051 (Match: 'Firebright')
@@ -138,7 +138,7 @@ You are to be "meek," i.e. Yinnish, humble, receptive, but what overpowers you (
 
 This borders on the Sufi: becoming God. One does "become" God while he possesses you, but then he leaves. But -- well, it's like poor Leda. Vide Yeat's poem. But look at the progeny: Helen of Troy.
 ```
-**Co-occurrences**: Christianity, Form, Well, Gnosticism, Dionysos, Plotinus, Elijah, Father, Like, Time, Harpax, After, Cosmic, Savior, Good, Light, Okay, Could, Does, Just, Something, Look, Being, Self, Orphic, Divine, Himself, Sibyl, Viewed, Grace, More, Orphism, Such, Certainly, True, Would, Other, Were, Beyond, Have, Life, Body, Justice, Truth, Human, Doesn
+**Co-occurrences**: Gnosticism, Plotinus, Time, Decoded, Christianity, Form, Well, Dionysos, Elijah, Father, Like
 
 ---
 ### Line 1045-1053 (Match: 'Firebright')
@@ -154,7 +154,7 @@ This borders on the Sufi: becoming God. One does "become" God while he possesses
 
 Well, I have certainly (through Doris' help) made a distinction
 ```
-**Co-occurrences**: Christianity, Form, Well, Gnosticism, Dionysos, Plotinus, Elijah, Father, Like, Time, After, Cosmic, Savior, Good, Light, Okay, Could, Does, Just, Something, Look, Being, Self, Orphic, Divine, Himself, Sibyl, Viewed, Grace, More, Through, Orphism, Such, Certainly, Doris, True, Would, Other, Were, Beyond, Have, Life, Body, Justice, Truth, Human, Doesn
+**Co-occurrences**: Gnosticism, Plotinus, Time, Decoded, Christianity, Form, Well, Dionysos, Elijah, Father, Like
 
 ---
 ### Line 1055-1063 (Match: 'Firebright')
@@ -171,7 +171,7 @@ Spring is the mating season. As Psy Today says, it's based all the way up to cos
 
 By following all the admonitions of the Gospels, one literally courted the great masculine Father deity so that he literally possessed the Christian. From this (receiving the Holy Spirit, as they put it euph[e]mistically) they got various powers: healing, prophecy, ability to discern, and were made Righteous, which I experienced as a thirst for Truth and Justice and going the right thing. "Gifts of the Spirit," yes, but those who were possesses were also the "First fruits of the harvest," which meant that they gained something permanent; this would correspond with my being back in Rome; i.e. escaping the thrall producing death -- hence, freedom, release, from the power of death. Certainly, of all the various gifts, this would matter the most. I myself experienced reality on an inner ontological basis (assimilating objects themselves rather than mere phenomena), saw the structure of the universe (Logos or Plan), have and still retain fellowship --contact-- with God, which is to say, knowledge of him. I didn't just get the power to heal; I was healed. I walked with God and communed with him (along the alley that day, also in trances and dreams). I knew the true state of things (the tyranny) and what to do. But to dream of Crete or dream of Rome is a lot difference than that perios when I was there; when for me time was abolished. This is what I mean when I say, The power of the world over me was broken. It got that cardboard fake quality. Now it is clear about the Father-Son (JHWH-Christ) relatinship (Zeus-Zagreus). The Holy Spirit, a form God the Father takes, impregnates (the person receives it) and Christ consciousness is born (in Mary's case, Jesus Christ physically born from her womb, she being made with child by the Holy Spirit). Out of this union comes Christ. The father is God. The impregnating spirit is the Holy Spirit. (Does Christ grow up to be Jehovah? Why hasn't anyone ever asked that before? Or like him? I think he can be like him or even be him.) Where is the Logos in all this? The outcome of possession by the deity is Logos relatedness, in the sense Hericlitus meant. One (the receiving one) is brought into conformity with it, while the Christ within, Firebright, grows. The former mere moral human, full of sin (sickness and insanity) is consumed by the growing Christ, moves toward him, toward the Logos, with it as exemplar and outcome: as perfected form. The Logos is the plan and information which leads to that completion, a process begun by the Holy Spirit initially.
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World, Time, Harpax, Cosmic, Even, Gospel, Yang, Does, Just, Something, Again, Reality, Zagreus, Being, Jesus Christ, Great, Those, Still, More, Zeus, Most, Upon, Certainly, Love, Before, Doris, True, Death, Universe, Deity, Would, Were, Very, Back, Whatever, Have, Things, Life, Justice, Spring, Fake, Information, Freedom, Days, Sturgeon, Knowledge, Truth, Today, Human, Dream, Crete, Right, Mary
+**Co-occurrences**: Time, Information, Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World
 
 ---
 ### Line 1059-1067 (Match: 'Firebright')
@@ -188,7 +188,7 @@ Last edit over 5 years ago by Harpax
 73
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World, Time, Harpax, Cosmic, Even, Gospel, Yang, Does, Just, Something, Again, Reality, Zagreus, Being, Jesus Christ, Great, Those, Still, More, Zeus, Most, Upon, Certainly, Love, Before, Doris, True, Death, Universe, Deity, Would, Were, Very, Back, Whatever, Have, Things, Life, Justice, Spring, Fake, Information, Freedom, Days, Sturgeon, Knowledge, Truth, Today, Human, Dream, Crete, Right, Mary
+**Co-occurrences**: Time, Information, Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World
 
 ---
 ### Line 1075-1083 (Match: 'Firebright')
@@ -205,7 +205,7 @@ In one sense Firebright is within me; in another (looking ahead, past the tyrann
 
 There was another entity in me, all right: thinking away in Attic Greek. (the [l]ogos?) (the father?) (Firebright?) (The Holy Spirit? Probably the HS. But it proves one was; and, as Apollo made the sibyl do this and that, it made me do this and that.
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Father, Maybe, Since, Only, Time, Harpax, After, Savior, Light, Does, Jesus Christ, Although, Apollo, Probably, Sibyl, Part, More, Zeus, Another, Through, Upon, Fullerton, Certainly, Mother, True, Death, Will, Christopher, Would, Attic, Have, Body, Except, Human, Right, Mary
+**Co-occurrences**: Time, Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Father, Maybe, Since, Only
 
 ---
 ### Line 1077-1085 (Match: 'Firebright')
@@ -222,7 +222,7 @@ There was another entity in me, all right: thinking away in Attic Greek. (the [l
 
 Perhaps, when the Moment of Restoration comes (which could work equally for all men at once --collectively-- or for one individual here and another there, or even visible to just one) the accretional laters of their/his reality would simply be removed, stripped away, to reveal the past -- i.e. what had been lost. Again, I refer to the quality of lineal time to accumulate as it advances up the manifold. Restoration would be a taking away! Just as when one restores a piece of furniture to its original --true-- wood by stripping away layers of varnish; under them the authentic wood remains. We do call this "restoring." Perhaps the ultimate & absolute Restoration (rather than merely a partial one, but rather the one) would be an abrupt stripping away of all layers back to 2000 years ago: to the time when Christ was alive, not to the Crucifixion as I was thinking, but to the restoration of Him. The Crucifixion was the taking away of him. My experience contained an awareness of a savior about to come, which would be both a restoration (first advent) and the ful[l]fil[]ment (Second Advent). A collapse of time, the 2000 year interval between His going and His return, tel[li]scoped into a single point. Like when as one train leaves a station "another" appears at once.
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Perhaps, Advent, Father, Maybe, Like, Since, Only, Time, After, Savior, Light, Even, Could, Does, Just, Once, Again, Both, Reality, Jesus Christ, Although, Apollo, Probably, Sibyl, Part, Their, More, Zeus, Another, Through, Upon, Fullerton, Certainly, Mother, True, Death, Will, Christopher, Would, Attic, Back, Under, Have, Absolute, Body, Except, Human, Right, Mary
+**Co-occurrences**: Time, Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Perhaps, Advent, Father, Maybe, Like, Since, Only
 
 ---
 ### Line 1079-1087 (Match: 'Firebright')
@@ -239,7 +239,7 @@ Perhaps, when the Moment of Restoration comes (which could work equally for all 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Perhaps, Advent, Father, Maybe, Like, Since, Only, Time, Harpax, After, Savior, Light, Even, Could, Does, Just, Once, Again, Both, Reality, Jesus Christ, Although, Apollo, Probably, Sibyl, Part, Their, More, Zeus, Another, Through, Upon, Fullerton, Certainly, Mother, True, Death, Will, Christopher, Would, Attic, Back, Under, Have, Absolute, Body, Except, Human, Right, Mary
+**Co-occurrences**: Time, Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Perhaps, Advent, Father, Maybe, Like, Since, Only
 
 ---
 ### Line 1091-1099 (Match: 'Firebright')
@@ -256,7 +256,7 @@ Last edit over 5 years ago by Harpax
 
 76
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1108-1116 (Match: 'Firebright')
@@ -273,7 +273,7 @@ My whole God is identified with a vitilizing (or revitalizing) life-giving princ
 
 This beats the Greek idea of God as Mind which does nothing but think. Or know. How is it to know, if there is nothing to know? I conceive of it as a builder, an artificer, who creates, in conformity to its Plan: the Logos (I conceive of Logos and blueprint of something to be actualized). The Greek prejudice against the manual arts/the mere crafts prevented them from seeing this quality of God.
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Complete, Form, Sophia, Paul, Greek, Maybe, Like, Savior, Mind, Light, Could, Does, Just, Something, Santa, Without, Nothing, Still, Mother, Santa Sophia, Life, Body, Human
+**Co-occurrences**: Sophia, Santa Sophia, Christ, Logos, Jesus, Complete, Form, Paul, Greek, Maybe, Like
 
 ---
 ### Line 1136-1144 (Match: 'Firebright')
@@ -290,7 +290,7 @@ In my dreams last night: Nick was jolted to discover that I had discerned patter
 
 But I am still in touch with him. He is, however, now in this world. I guess again (after a time dysjunction). (I.E. There was a period when he wasn't.)
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Holy Spirit, Form, Sophia, King, However, Elijah, Father, Maybe, Like, World, Only, Time, Harpax, After, Okay, Look, Again, Both, Zagreus, March, Runciter, Santa, Those, Still, More, Another, Through, Actually, Santa Sophia, Will, Calvin, Would, Kingship, Back, Life, Justice, Spring, Wise, Testament, Passover, Truth, Dream
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christ, Christian, Spirit, Holy, Holy Spirit, Form, King, However, Elijah, Father, Maybe, Like, World, Only
 
 ---
 ### Line 1138-1146 (Match: 'Firebright')
@@ -307,7 +307,7 @@ But I am still in touch with him. He is, however, now in this world. I guess aga
 
 The transmission of the Light Creatures was somehow inturrupted (by accident, be martyrdom, design, etc.) around 100 AD, or maybe even earlier (Jesus being the last one), so that a two thousand year breach had to be leaped to restored the Light Creatures to our world once more. This is what the New Testament is talking about, and Orphism. They are in need of us to transmit themselves, and all of us who "contained" any of them were (by the Romans!!) destroyed...hence my fear, my dreadul urgency and secrecy esp re Chrissy. Nobody else was left who knew how to receive (and harbor & shelter & incubate, whatever) a Light Creature.
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Sophia, King, Roman, However, Elijah, Father, Maybe, Like, World, Only, Time, After, Light, Even, Okay, Look, Once, Again, Both, Zagreus, Being, March, Runciter, Santa, Chrissy, Those, Still, More, Another, Through, Orphism, Actually, Santa Sophia, Will, Calvin, Would, Somehow, Kingship, Were, Back, Whatever, Life, Justice, Spring, Wise, Testament, Passover, Truth, Dream
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, King, Roman, However, Elijah, Father, Maybe, Like, World, Only
 
 ---
 ### Line 1150-1158 (Match: 'Firebright')
@@ -324,7 +324,7 @@ There is no doubt that, what with my right hemisphere experiments, I was trying 
 
 Two other points: (one) On the aspects designated as those which the "Christ transformation" confers according to the "Decoded N T," all that can be verified now (e.g. higher intelligence, better health, prosperity, etc. whatever) I've obtained; now, there is no intrinsic relationship which link these various "gifts." No one would draw up such a list a priori, since they appear unrelated. They are leaps forward in various areas. Others listed by the "Decoded N T" such as immorality I can't check on, of course, but I will infer that this too was acquired, if the others were. (two) My left eye suddenly resolving better than my right: this may refer to feature extractors in the cerebral cortex, and be brain improvements, allied with the sense of "having been blind but no longer being so." Again, this is linked with the prophecies given in the N T to those who receive the Spirit (i.e. become Christ). Vide my dream of last night: a theraphist named Mary is washed --healing-- my ankles and feet. At first I thought nothing of this dream, but on later refle[x]ion, it certain[ly] seems to me religious in nature; not only am I having "weak legs," as Red Foxx puts it, but recall Mary Magdelane vis-a-vis the desciples. Maybe this dream (following by one in which I escape from prison, am not followed and am free to run and run) are reassurances that my improved state is permanent.
 ```
-**Co-occurrences**: Christ, Spirit, Form, Fish, These, Perhaps, Father, Maybe, Like, Since, Prison, Only, Earth, Harpax, Good, Light, Could, Anyhow, Something, Again, Being, Tessa, Nothing, Brain, Those, Part, Through, Heaven, Such, Certainly, Mother, Will, Deity, Would, Other, Were, Whatever, Have, Body, Later, Having, Knowledge, Suddenly, Human, Dream, Free, Right, Mary
+**Co-occurrences**: Decoded, Christ, Spirit, Form, Fish, These, Perhaps, Father, Maybe, Like, Since, Prison, Only, Earth
 
 ---
 ### Line 1181-1189 (Match: 'Firebright')
@@ -341,6 +341,6 @@ Last edit over 5 years ago by Harpax
 83
 Needs Review
 ```
-**Co-occurrences**: Rome, Sophia, Fish, Greek, Roman, These, Perhaps, Maybe, Like, World, Since, Therefore, Iron, Only, Time, Harpax, Could, Anyhow, Just, Look, Both, Palm, Those, Their, Real, Such, Certainly, Would, Were, Erasmus, Further, Have, Life, Later, Days, Dream
+**Co-occurrences**: Sophia, Time, Saint Sophia, Rome, Fish, Greek, Roman, These, Perhaps, Maybe, Like, World, Since, Therefore, Iron, Only
 
 ---

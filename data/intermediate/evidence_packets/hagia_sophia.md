@@ -20,7 +20,7 @@ Last edit almost 3 years ago by svayambhu108
 129
 Needs Review
 ```
-**Co-occurrences**: Christ, Sophia, Well, Parousia, Time, Earth, After, Mind, Could, Does, Again, Empedocles, Hagia, Tony, Those, Paracelsus, Pike, Heaven, Such, Before, Jim Pike, Death, Will, Would, Erasmus, Back, Many, Body, Human
+**Co-occurrences**: Sophia, Time, Christ, Well, Parousia, Earth
 
 ---
 ### Line 9187-9195 (Match: 'Hagia Sophia')
@@ -37,7 +37,7 @@ It's like Seth + Horace. Vishnu + Shiva.
 
 No it's not. It's new. It's either new, or has been a well-kept secret. + what if I'm right that the one (the real creator) slew the deranged psyche of II's. This can't be equated with Taoism - although in some respects it borders on it.
 ```
-**Co-occurrences**: Christ, Christian, Complete, Christianity, Sophia, Satan, Well, Like, Gnosis, Even, Just, Taoism, Shiva, Hagia, Although, Either, Creator, Real, Secret, Before, Revelation, True, Have, Evil, Unless, Right
+**Co-occurrences**: Sophia, Christ, Christian, Complete, Christianity, Satan, Well, Like, Gnosis
 
 ---
 ### Line 9195-9203 (Match: 'Hagia Sophia')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by sekennedy62
 
 16
 ```
-**Co-occurrences**: Christ, Zebra, Jesus, Form, Sophia, Well, Gnosticism, Wisdom, World, Good, Taoism, Being, Hagia, Although, Either, Gods, Creator, Most, Real, Secret, Love, Deity, Have, Mani, Right
+**Co-occurrences**: Gnosticism, Zebra, Sophia, Christ, Jesus, Form, Well, Wisdom, World
 
 ---
 ### Line 10256-10264 (Match: 'Hagia Sophia')
@@ -71,7 +71,7 @@ If it is Xtian, then the Lord has invisibly returned + is judging. But I think w
 
 Last edit about 5 years ago by sekennedy62
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Christianity, Sophia, Roman, Lord, These, Hagia, Although, Revelation, Were, Have, Knowledge, Human
+**Co-occurrences**: Thomas, Sophia, Christ, Christian, Christianity, Roman, Lord, These
 
 ---
 ### Line 10892-10900 (Match: 'Hagia Sophia')
@@ -88,7 +88,7 @@ Last edit almost 3 years ago by svayambhu108
 23
 Needs Review
 ```
-**Co-occurrences**: Christ, Sophia, Plato, Wisdom, World, Noos, Mind, Even, Both, Reality, Being, Hagia, Divine, Great, More, Such, Certainly, Secret, Mother, Universe, Finally, Deity, Very, Whatever, Absolute, Aphrodite, Ananke
+**Co-occurrences**: Sophia, Christ, Plato, Wisdom, World
 
 ---
 ### Line 10898-10906 (Match: 'Hagia Sophia')
@@ -105,7 +105,7 @@ Last edit almost 3 years ago by svayambhu108
 24
 Needs Review
 ```
-**Co-occurrences**: Christ, Logos, Sophia, Perhaps, World, Since, Therefore, Good, St Sophia, Does, Philo, Just, Both, Hagia, Divine, Either, Great, Sibyl, Through, Voice, Revelation, Mother, Universe, Will, Would, Have, Evil
+**Co-occurrences**: Sophia, St Sophia, Philo, Christ, Logos, Perhaps, World, Since, Therefore
 
 ---
 ### Line 14368-14376 (Match: 'Hagia Sophia')
@@ -122,8 +122,7 @@ Last edit over 9 years ago by Toso
 folder 02 - 080
 Complete
 ```
-**Co-occurrences**: Christ, Toso, Logos, Complete, Sophia, Perhaps, Like, Since, Fall, Because, Only, Folder, Once, Again, Reality, Being, Hagia, Although, Toso
-Folder, Anamnesis, Brain, Through, Ground, Death, Macro, Would, Back, Have, Things, Life, Memory, Except, Until
+**Co-occurrences**: Sophia, Anamnesis, Christ, Toso, Logos, Complete, Perhaps, Like, Since, Fall, Because, Only
 
 ---
 ### Line 16291-16299 (Match: 'Hagia Sophia')
@@ -140,7 +139,7 @@ Last edit almost 3 years ago by svayambhu108
 folder 22 - 117
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Holy, Logos, Form, Sophia, Greek, Wisdom, Perhaps, Prison, Folder, Holy Wisdom, Just, Both, Hagia, Still, Church, Upon, Before, True, Right
+**Co-occurrences**: Sophia, Christ, Tears, Christian, Ubik, Holy, Logos, Form, Greek, Wisdom, Perhaps, Prison
 
 ---
 ### Line 19908-19916 (Match: 'Hagia Sophia')
@@ -156,7 +155,7 @@ Regarding Thomas & the world of Acts, I remembered truly, my actual past - not t
 
 ----------
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Toso, Thomas, Logos, Jesus, Christianity, Form, Sophia, King, Fish, Felix, Elijah, World, Time, Good, Karma, King Felix, Just, Maya, Hagia, Everything, Anamnesis, Grace, Most, Living, Voice, Revelation, True, Easter, Life, Body, Information, Later, Knowledge, Blood, Salvation, Lamb
+**Co-occurrences**: Thomas, Sophia, Time, Anamnesis, Information, Christ, Tears, Acts, Christian, Toso, Logos, Jesus, Christianity, Form, King, Fish, Felix, Elijah, World
 
 ---
 ### Line 22990-22998 (Match: 'Hagia Sophia')
@@ -172,7 +171,7 @@ Last edit almost 3 years ago by svayambhu108
 177
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Thomas, Holy, Jesus, Xerox, Sophia, King, Fish, Satan, Empire, Wisdom, Father, Since, Therefore, Iron, Prison, Only, Time, Black, Holy Wisdom, Book, Does, Again, Reality, Hagia, Missive, Black Iron Prison, Xerox Missive, Himself, Those, Pantocrator, Church, Upon, Actually, Death, Very, Have, Tree, Life, Wise, Knowledge, Cross, Iron Prison, Dream
+**Co-occurrences**: Thomas, Sophia, Time, Christ, Tears, Christian, Holy, Jesus, Xerox, King, Fish, Satan, Empire, Wisdom, Father, Since, Therefore, Iron, Prison, Only
 
 ---
 ### Line 23404-23412 (Match: 'Hagia Sophia')
@@ -189,7 +188,7 @@ Last edit almost 3 years ago by svayambhu108
 38
 Needs Review
 ```
-**Co-occurrences**: Tears, Ubik, Xerox, Sophia, Maze, Scanner, World, Therefore, Only, Time, Cosmic, Faith, Mind, Could, Joint, Hagia, Missive, Self, Divine, Xerox Missive, Corpus, Brain, Will, Deity, Very, Back, Many, Human
+**Co-occurrences**: Sophia, Time, Tears, Ubik, Xerox, Maze, Scanner, World, Therefore, Only
 
 ---
 ### Line 24072-24080 (Match: 'Hagia Sophia')
@@ -206,7 +205,7 @@ Last edit almost 3 years ago by svayambhu108
 153
 Needs Review
 ```
-**Co-occurrences**: Valis, Tears, Ubik, Logos, Xerox, Sophia, Wisdom, Like, John, Paraclete, Light, Gospel, Hagia, Missive, Xerox Missive, Darkness, Before, Would, Creation, Were, Have, Info, Dialectic, Truth, Qumran, Dream
+**Co-occurrences**: Valis, Sophia, Dialectic, Tears, Ubik, Logos, Xerox, Wisdom, Like, John
 
 ---
 ### Line 24095-24103 (Match: 'Hagia Sophia')
@@ -222,7 +221,7 @@ Last edit almost 3 years ago by svayambhu108
 157
 Needs Review
 ```
-**Co-occurrences**: Logos, Form, Sophia, King, Bible, Wisdom, James, Like, Time, Pythagoras, Book, Light, Yang, Being, Hagia, Divine, More, Through, Upon, Revelation, Mother, Will, Creation, Were, Further, Things, Dark, Form One, Dialectic, Someone, Until
+**Co-occurrences**: Sophia, Time, Dialectic, Logos, Form, King, Bible, Wisdom, James, Like
 
 ---
 ### Line 24231-24239 (Match: 'Hagia Sophia')
@@ -239,7 +238,7 @@ Last edit almost 3 years ago by svayambhu108
 180
 Needs Review
 ```
-**Co-occurrences**: Valis, Holy, Xerox, Sophia, Wisdom, Perhaps, Like, World, Only, Holy Wisdom, Could, Suppose, Reality, Being, Hagia, Missive, Self, Everything, Xerox Missive, Viewed, Brain, Darkness, Part, More, Real, Macro, Universe, Will, Would, Whatever, Have, Things, Fake, Whether, Having, Greater, Salvation
+**Co-occurrences**: Valis, Sophia, Holy, Xerox, Wisdom, Perhaps, Like, World, Only
 
 ---
 ### Line 24237-24245 (Match: 'Hagia Sophia')
@@ -256,7 +255,7 @@ Last edit almost 3 years ago by svayambhu108
 
 181
 ```
-**Co-occurrences**: Sophia, However, Like, World, Only, Even, Could, Realm, Both, Being, Hagia, Those, Living, Would, Were, Very, Have, Life, Absolute, Neither, Having, Knowledge, Otherwise, Chip
+**Co-occurrences**: Sophia, However, Like, World, Only
 
 ---
 ### Line 24399-24407 (Match: 'Hagia Sophia')
@@ -273,7 +272,7 @@ Last edit almost 3 years ago by svayambhu108
 209
 Needs Review
 ```
-**Co-occurrences**: Valis, Spirit, Logos, Jesus, Xerox, Sophia, World, Since, John, Paraclete, Reality, Teilhard, Being, Hagia, Missive, Self, Xerox Missive, Zoroastrian, Revelation, Universe, Will, Deity, Would, Other, Creation, Were, Have, Absolute, Knowledge, Dialectic, Truth, Final, Right
+**Co-occurrences**: Valis, Sophia, Dialectic, Spirit, Logos, Jesus, Xerox, World, Since, John
 
 ---
 ### Line 25528-25536 (Match: 'Hagia Sophia')
@@ -290,8 +289,7 @@ Last edit almost 7 years ago by Toso
 
 folder 48 - 131
 ```
-**Co-occurrences**: Christian, Toso, Indexed, Spirit, Logos, Jesus, Form, Sophia, Kingdom, However, Wisdom, World, Parmenides, Therefore, Only, Time, Folder, Reality, Hagia, Covenant, Indexed
-Folder, More, Another, Through, Shekhina, Nonetheless, Voice, Universe, Have, Unless
+**Co-occurrences**: Sophia, Time, Christian, Toso, Indexed, Spirit, Logos, Jesus, Form, Kingdom, However, Wisdom, World, Parmenides, Therefore, Only
 
 ---
 ### Line 29637-29645 (Match: 'Hagia Sophia')
@@ -308,8 +306,7 @@ The thing is that seeing the Golden Fish sign caused me to think of Christ & the
 
 So I am identifying the "dream time," the place where "the deeds of the Gods & heroes occur" as phylogenic space-time, brought on
 ```
-**Co-occurrences**: Christ, Indexed, Sophia, Gnostic, Fish, Golden, World, Golden Fish, Time, Folder, Mind, Reality, Hagia, Gods, Indexed
-Folder, Still, Campbell, Things, Memory, Knowledge, Joseph, Human, Dream, Joseph Campbell
+**Co-occurrences**: Sophia, Gnostic, Time, Christ, Indexed, Fish, Golden, World, Golden Fish
 
 ---
 ### Line 30372-30380 (Match: 'Hagia Sophia')
@@ -326,8 +323,7 @@ Last edit about 9 years ago by Toso
 folder 82 - 014
 Indexed
 ```
-**Co-occurrences**: Christ, Toso, Indexed, Jesus, Complete, Sophia, Torah, Well, Wisdom, Because, Therefore, Only, Folder, Could, Does, Hebrew, Being, Hagia, Divine, Toso
-Folder, Another, Upon, Before, Will, Would, Other, Kingship, Were, Have, Having, Israel, Right, Answer
+**Co-occurrences**: Sophia, Christ, Toso, Indexed, Jesus, Complete, Torah, Well, Wisdom, Because, Therefore, Only
 
 ---
 ### Line 32138-32146 (Match: 'Hagia Sophia')
@@ -344,6 +340,6 @@ And this was the first thing the AI voice spoke to me of: Hagia Sophia. The very
 
 Could it be said, following Hebrew mysticism, that my 3-74 experience was a microcosmic reunification of the two halves of the Godhead, called by the Jews En Sof and the Shekhina? This idea of repair is found in Gnosticism as well. So I experienced a unity, although I was aware of the binary dialectic. First the mind that entered me (the Shekhina or the Holy Spirit; they are probably the same) and then a little later I saw Valis externally which was for me a perception of the One which is to say unity. In the moment of this perception of unity time, flux and causation ceased; hence I say, The dialectic ceased (momentarily). So they are split in this realm (where they interact in a dialectic) but, as Joseph Campbell speaks of, in a higher realm (meta—realm) they cooperate (behind the scenes )
 ```
-**Co-occurrences**: Christ, Valis, Acts, Spirit, Holy, Holy Spirit, Sophia, Plato, Well, Gnosticism, Wisdom, Godhead, James, Time, Noos, Holy Wisdom, Good, Mind, Could, Hebrew, Realm, Hagia, Although, Probably, Creator, Jews, Shekhina, Flux, Voice, Before, Will, Would, Other, Creation, Somehow, Very, Campbell, Have, Later, Joseph, Dialectic, Durant, Joseph Campbell, Ananke
+**Co-occurrences**: Gnosticism, Valis, Sophia, Time, Dialectic, Christ, Acts, Spirit, Holy, Holy Spirit, Plato, Well, Wisdom, Godhead, James
 
 ---

@@ -20,7 +20,7 @@ Oh God, Claudia; the “explosion” is throwing is throwing us backward into li
 
 One could say, Before the World took the little child and taught it to see and think only its small way.
 ```
-**Co-occurrences**: Form, Parousia, Maybe, Like, World, Only, Time, After, Stigmata, Savior, Could, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life, Claudia
+**Co-occurrences**: Time, Form, Parousia, Maybe, Like, World, Only
 
 ---
 ### Line 224-232 (Match: 'Paul')
@@ -37,7 +37,7 @@ Yes, CONFESSIONS OF A CRAP ARTIST is a fine novel, and I think Paul and David kn
 
 “I sure think CRAP is wonderful. I’m positive that CRAP will excite the literary market in New York.”
 ```
-**Co-occurrences**: Tears, Form, However, Like, After, Okay, Could, More, Will, Other, Page, Back, Have, Electric, Dead, Dream, Final
+**Co-occurrences**: Tears, Form, However, Like
 
 ---
 ### Line 226-234 (Match: 'Paul')
@@ -54,7 +54,7 @@ Yes, CONFESSIONS OF A CRAP ARTIST is a fine novel, and I think Paul and David kn
 
 Tessa says in her raspy way,
 ```
-**Co-occurrences**: Tears, Form, However, Like, Tessa, Will, Other, Back, Have, Electric, Dead, Dream
+**Co-occurrences**: Tears, Form, However, Like
 
 ---
 ### Line 347-355 (Match: 'Paul')
@@ -71,7 +71,7 @@ In March it took me over totally; I was a spectator to my dream in waking life, 
 
 If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Complete, These, Because, Only, After, Could, Does, Again, Zagreus, March, Runciter, Probably, Those, More, Another, Living, Real, Voice, Death, Will, Deity, Would, Were, Have, Tree, Life, Claudia, Testament, Dream
+**Co-occurrences**: Christ, Logos, Jesus, Complete, These, Because, Only
 
 ---
 ### Line 418-426 (Match: 'Paul')
@@ -88,7 +88,7 @@ Sorry to take so much of your time here, Ursula, but in my dreams I saw the word
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Christ, Complete, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+**Co-occurrences**: Time, Christ, Complete, Well, Dionysos, These, Perhaps, Only
 
 ---
 ### Line 736-744 (Match: 'Paul')
@@ -104,7 +104,7 @@ Dr. NK: "Time enters material systems." Maybe our dreams are time, as energy whi
 
 We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one of the RUs, one of the sources. This is very strange (paradigm is FLOW MY TEARS, in which 3 separate superimposed but somewhat different universes are lived in between first and final page of pt 1 to 3. How is this overlap achieved? How does one exit from one and into another? Who manages all this? Why?
 ```
-**Co-occurrences**: Christ, Tears, Complete, Form, Kingdom, Lord, Maybe, Only, Time, Harpax, Light, Does, Christos, Those, Still, Another, Universe, Will, Would, Page, Kingship, Very, Back, Info, Whether, Evidently, Whereas, Final
+**Co-occurrences**: Time, Christ, Tears, Complete, Form, Kingdom, Lord, Maybe, Only
 
 ---
 ### Line 805-813 (Match: 'Paul')
@@ -120,7 +120,7 @@ We have a concentric-ring society, and the innermost ring has been burned off by
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Jesus, King, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+**Co-occurrences**: Time, Jesus, King, Empire, Lord, Elijah, Like, World, Since, Because, Only
 
 ---
 ### Line 837-845 (Match: 'Paul')
@@ -137,7 +137,7 @@ Let us consider the miracle involved. When God enters time, when he pierces our 
 
 I am a child trying to understand adult concepts.
 ```
-**Co-occurrences**: Christ, Jesus, Parousia, Lord, Perhaps, Maybe, World, Since, Because, John, Time, Good, Light, Does, Just, Once, Again, Both, Kosmos, Being, March, Everything, Divine, Viewed, Still, Living, Such, Love, Consider, True, Death, Will, Other, Were, Very, Back, Have, Judgment, Later, Whether, Cross, Suddenly
+**Co-occurrences**: Time, Christ, Jesus, Parousia, Lord, Perhaps, Maybe, World, Since, Because, John
 
 ---
 ### Line 1096-1104 (Match: 'Paul')
@@ -153,7 +153,7 @@ Of course, their old actual bodies didn't reappear. My experience is that of how
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall
 
 ---
 ### Line 1098-1106 (Match: 'Paul')
@@ -169,7 +169,7 @@ Last edit over 5 years ago by Harpax
 77
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall
 
 ---
 ### Line 1104-1112 (Match: 'Paul')
@@ -186,7 +186,7 @@ No wonder I feel it is springtime. Gee whizz, Christ (Jesus) was immortal, the S
 
 Just to spell it out: "Santa Sophia" and "Firebright" are one and the same.
 ```
-**Co-occurrences**: Christ, Jesus, Sophia, Maybe, Harpax, Savior, Light, Firebright, Could, Just, Santa, Still, Mother, Santa Sophia, Body
+**Co-occurrences**: Sophia, Firebright, Santa Sophia, Christ, Jesus, Maybe
 
 ---
 ### Line 1272-1280 (Match: 'Paul')
@@ -203,7 +203,7 @@ I am lying in bed here and I am musing, "God can simulated the inanimate. Or rat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Holy Spirit, King, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+**Co-occurrences**: Time, Acts, Spirit, Holy, Holy Spirit, King, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison
 
 ---
 ### Line 1339-1347 (Match: 'Paul')
@@ -220,7 +220,7 @@ I have experienced what Jesus predicted: the change from one aeon to the next; a
 
 Another thing I saw, which I must not forget, is that I saw that I had been seeing the universe backward, esp. in time; which I finally decided meant that I was seeing "the reflection, as in the bottom of a polished metal pan," but had begun to see the Real Universe, which of course is reversed from the mere cave image. Thus, the picture is of winter; the slide itself the reverse: springtime (vide the trigram wheel of opposites). In Dante's schema: if it is winter here, it is springtime there in the Real World.
 ```
-**Co-occurrences**: Tears, Christian, Jesus, Form, Kingdom, King, Perhaps, Father, Maybe, Like, World, Fall, Because, John, Time, Good, Light, Could, Again, Heraclitus, Being, Dante, Divine, Himself, Zoroaster, Those, Their, Another, Most, Real, Such, Secret, True, Universe, Finally, Will, Other, Somehow, Kingship, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+**Co-occurrences**: Time, Tears, Christian, Jesus, Form, Kingdom, King, Perhaps, Father, Maybe, Like, World, Fall, Because, John
 
 ---
 ### Line 1540-1548 (Match: 'Paul')
@@ -237,7 +237,7 @@ evident that a tutulary god lies within, dormant maybe most of the time, but alw
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Logos, Jesus, Form, Sophia, Kingdom, Well, However, Maybe, Like, World, Time, Harpax, After, Book, Even, Gospel, Could, Does, Anyhow, Again, Kingdom of God, Both, Reality, Being, Obviously, Everything, Divine, Great, Probably, Santa, Kathy, Still, Their, Another, Through, Most, Certainly, Before, Santa Sophia, Universe, Finally, Will, Other, Were, Very, Back, Beyond, Many, Absolute, Evil, Socrates, Government, Except
+**Co-occurrences**: Sophia, Time, Santa Sophia, Tears, Logos, Jesus, Form, Kingdom, Well, However, Maybe, Like, World
 
 ---
 ### Line 1631-1639 (Match: 'Paul')
@@ -254,7 +254,7 @@ Ah! He is infusing (transubstantiating) the world more and more! Ontologically, 
 
 . . . The logos as meaningful structure of reality never went away. We (as H[eri]clitus describes) fell away from it into our idios kosmos, which is the Fall. We can't see the logos. Hence, the logos must, so to speak, come after us, following us, i.e. is born as a man here and speaks to us; calling us to be His sheep, he leads us back into relatedness with him as meaningful structure of reality; i.e. we enter the Kingdom of God. However, he came and we killed him and thus fell back away again. Now he is returning. We can't find Him; He must come to us; this indicates how blind we have become. Only when the logos talks to us outright do we become aware of it. Also, "meaningful structure of reality" equals "God's Wisdom" (Santa Sophia), which tells us a lot about the universe. "They are like people asleep/people in a dream," which might be the same as "with eyes closed" or "blind"! I am sure that in my case (3 74) I apprehended the logos because the logos actively caused me to; this would be The Savior intervening to render aid. The dying on the cross served to show us the absolute love He feels for us, and so was necessary, to get the message across to us. "No man hath greater love..."
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Logos, Holy Spirit, Form, Sophia, Kingdom, Golden, However, Wisdom, These, Elijah, Like, World, Since, Fall, Because, Therefore, Only, Time, After, Savior, Light, Pinky, Once, Again, Kingdom of God, Reality, Kosmos, Everything, Santa, Their, More, Through, Most, Living, Certainly, Love, Santa Sophia, Universe, Would, Other, Mission, Were, Very, Back, Have, Life, Absolute, Cross, Greater, Reformers, Dream, Right
+**Co-occurrences**: Sophia, Time, Santa Sophia, Tears, Spirit, Holy, Logos, Holy Spirit, Form, Kingdom, Golden, However, Wisdom, These, Elijah, Like, World, Since, Fall, Because, Therefore, Only
 
 ---
 ### Line 1708-1716 (Match: 'Paul')
@@ -271,7 +271,7 @@ I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sens
 
 . . . Re; TO SCARE THE DEAD. A character based on Jim Pike (with quite another name). Based on firsthand knowledge I had of his private life, e.g. with Maren in the Tenderloin, and the kind of man he was. This could be a major, if not the major character; but it would not be he who would have the Experience; that would be had by another, perhaps after
 ```
-**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore, Time, After, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Another, Pike, Such, Voice, Secret, Jim Pike, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During, Whereas
+**Co-occurrences**: Sophia, Time, Santa Sophia, Information, Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore
 
 ---
 ### Line 1710-1718 (Match: 'Paul')
@@ -288,7 +288,7 @@ I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sens
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore, Time, Harpax, After, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Another, Pike, Such, Voice, Secret, Jim Pike, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During, Whereas
+**Co-occurrences**: Sophia, Time, Santa Sophia, Information, Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore
 
 ---
 ### Line 2000-2008 (Match: 'Paul')
@@ -305,7 +305,7 @@ Last edit over 5 years ago by Harpax
 147
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Christianity, Holy Spirit, Sophia, Greek, However, Wisdom, World, Because, Only, Earth, Harpax, Good, Book, Even, Could, Does, Anyhow, Just, Both, Although, Probably, Santa, Nothing, Those, Another, Most, Actually, Secret, Santa Sophia, Death, Will, Would, Other, Beyond, Whatever, Under, Many, Have, Things, Body, Truth, Human, Doesn
+**Co-occurrences**: Thomas, Sophia, Santa Sophia, Christ, Christian, Spirit, Holy, Logos, Christianity, Holy Spirit, Greek, However, Wisdom, World, Because, Only, Earth
 
 ---
 ### Line 2114-2122 (Match: 'Paul')
@@ -322,7 +322,7 @@ If only I'd said plaintively to Father Rasch: "This man is a literate Greek, he'
 
 Luke lived a lot in Syria. A palm tree country, like what I saw in 2 75. His beloved homeland. His concept of springtime.
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Greek, Bible, Roman, However, Father, Like, Because, Only, Harpax, Good, Book, Gospel, Just, Something, Both, Luke, Obviously, Palm, More, Certainly, Angel, Page, Have, Tree, Testament, Except, Syria, Dream
+**Co-occurrences**: Christ, Tears, Acts, Christian, Greek, Bible, Roman, However, Father, Like, Because, Only
 
 ---
 ### Line 2364-2372 (Match: 'Paul')
@@ -339,6 +339,6 @@ Last edit over 5 years ago by Harpax
 177
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Jesus, Holy Spirit, Sophia, Kingdom, Maybe, World, Harpax, After, Buddha, Savior, Even, Does, Again, Kingdom of God, Reality, Being, Obviously, Jesus Christ, Divine, Either, Through, Most, Heaven, Certainly, Before, Would, Mission, Were, Surely, Life, Having, Truth, Doesn, Until
+**Co-occurrences**: Sophia, Christ, Spirit, Holy, Jesus, Holy Spirit, Kingdom, Maybe, World
 
 ---

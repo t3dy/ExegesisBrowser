@@ -20,7 +20,7 @@ I think that in 1974 my entelechy was completed, but I never heard of anyone hav
 
 Last edit over 5 years ago by FolkDevil
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+**Co-occurrences**: Time, Philip, Spirit, Holy, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only
 
 ---
 ### Line 143-151 (Match: 'Phil')
@@ -37,7 +37,7 @@ Magic equals life equals warmth equals poppies. Now, poppies are an exotic flowe
 
 Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
 ```
-**Co-occurrences**: Ubik, Indexed, However, Perhaps, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+**Co-occurrences**: Zebrapedia, Ubik, Indexed, However, Perhaps, Like, Since, Because, Only
 
 ---
 ### Line 492-500 (Match: 'Phil')
@@ -54,7 +54,7 @@ Last edit almost 3 years ago by twsullivan
 
 31
 ```
-**Co-occurrences**: Christian, Dionysos, Because, Divine, Such, Dick, Fullerton, Calif, Erasmus, Wise, Phil Dick, Someone
+**Co-occurrences**: Phil Dick, Christian, Dionysos, Because
 
 ---
 ### Line 1481-1489 (Match: 'Phil')
@@ -71,7 +71,7 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron, John, Time, Harpax, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Gold, Such, Voice, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Truth, Today, Evidently
+**Co-occurrences**: Time, Anamnesis, Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron, John
 
 ---
 ### Line 1599-1607 (Match: 'Phil')
@@ -88,7 +88,7 @@ Is someone of much higher intelligence, of another species, looking down at us f
 
 It still does not compute; I still don't have it. There is no reason why in leaping up the ladder of evolution one should find himself hearing his thoughts in Attic[k] Greek, or hearing thoughts not his own in any language. There is still this dialog with the Holy Other, and still the mystery, Why Attic Greek?
 ```
-**Co-occurrences**: Holy, Greek, Well, Maze, Perhaps, Like, After, Does, Anyhow, Just, Himself, Probably, Still, Another, Voice, True, Other, Very, Attic, Back, Have, Doesn, Someone
+**Co-occurrences**: Holy, Greek, Well, Maze, Perhaps, Like
 
 ---
 ### Line 4703-4711 (Match: 'Phil')
@@ -105,7 +105,7 @@ Last edit almost 3 years ago by svayambhu108
 39
 Needs Review
 ```
-**Co-occurrences**: Christian, Holy, Zebra, Xerox, King, Perhaps, World, Time, Good, Gospel, Just, Realm, Being, Self, Himself, Great, Probably, Deus, Without, Still, Wait, Real, Dick, Certainly, Before, True, Irae, Will, Would, Were, Very, Have, Life, Days, Evil, Deus Irae, Phil Dick, Final, Until
+**Co-occurrences**: Zebra, Time, Phil Dick, Christian, Holy, Xerox, King, Perhaps, World
 
 ---
 ### Line 5052-5060 (Match: 'Phil')
@@ -122,7 +122,7 @@ Last edit almost 3 years ago by svayambhu108
 35
 Needs Review
 ```
-**Co-occurrences**: Well, Like, World, Prison, Mind, Book, Just, Again, Reality, Hegel, Self, Himself, Those, More, Real, Such, Before, Revelation, Were, Beyond, Have, Dream, Evidently
+**Co-occurrences**: Hegel, Linear, Well, Like, World, Prison
 
 ---
 ### Line 5094-5102 (Match: 'Phil')
@@ -138,7 +138,7 @@ Last edit almost 3 years ago by svayambhu108
 42
 Needs Review
 ```
-**Co-occurrences**: Zebra, Form, However, World, Mind, Even, Does, Hegel, Self, Such, Whitehead, Would, Creation, Hegelian, Beyond, Have, Likewise
+**Co-occurrences**: Zebra, Hegel, Hegelian, Form, However, World
 
 ---
 ### Line 6297-6305 (Match: 'Phil')
@@ -154,7 +154,7 @@ Last edit almost 3 years ago by svayambhu108
 17
 Needs Review
 ```
-**Co-occurrences**: Tears, Acts, Ubik, Brahman, Maze, Advent, World, Therefore, Time, After, Stigmata, Book, Even, Could, Joint, Does, Again, Kosmos, Divine, Frolix, Those, Another, Star, Through, Real, Such, Dick, Certainly, True, Will, Would, Were, Wars, Have, Information, Star Wars, Info, Truth, Dream, Phil Dick
+**Co-occurrences**: Time, Information, Phil Dick, Tears, Acts, Ubik, Brahman, Maze, Advent, World, Therefore
 
 ---
 ### Line 7577-7585 (Match: 'Phil')
@@ -171,7 +171,7 @@ Last edit almost 3 years ago by svayambhu108
 27
 Needs Review
 ```
-**Co-occurrences**: Thomas, Xerox, Like, Since, Time, Mind, Even, Just, Missive, Xerox Missive, Their, Dick, Before, Back, Many, Have, Memory, Phil Dick
+**Co-occurrences**: Thomas, Time, Phil Dick, Linear, Xerox, Like, Since
 
 ---
 ### Line 7589-7597 (Match: 'Phil')
@@ -188,7 +188,7 @@ Last edit almost 3 years ago by svayambhu108
 29
 Needs Review
 ```
-**Co-occurrences**: Zebra, Form, Brahman, However, Only, Time, Just, Something, Being, Hegel, Atman, Self, Part, More, Through, Real, Dick, True, Were, Beyond, Mani, Except, Greater, Phil Dick
+**Co-occurrences**: Zebra, Time, Hegel, Phil Dick, Linear, Form, Brahman, However, Only
 
 ---
 ### Line 7688-7696 (Match: 'Phil')
@@ -205,7 +205,7 @@ Last edit almost 3 years ago by svayambhu108
 44
 Needs Review
 ```
-**Co-occurrences**: Christ, Zebra, Rome, Form, Well, Since, Time, Just, Something, Shiva, Both, Being, Although, Himself, Either, Anamnesis, Those, Part, Through, Actually, Dick, Before, Will, Judge, Were, Back, Life, Body, Human, Lamb, Phil Dick, Right
+**Co-occurrences**: Zebra, Time, Anamnesis, Phil Dick, Christ, Rome, Form, Well, Since
 
 ---
 ### Line 7694-7702 (Match: 'Phil')
@@ -222,7 +222,7 @@ Last edit almost 3 years ago by svayambhu108
 45
 Needs Review
 ```
-**Co-occurrences**: Rome, These, Advent, Like, World, Only, Time, After, Good, Could, Just, Again, Shiva, Both, Those, Still, Another, Actually, Dick, Death, Other, Very, Life, Body, Information, Later, Whereas, Lamb, Phil Dick, Answer, Until
+**Co-occurrences**: Time, Information, Phil Dick, Rome, These, Advent, Like, World, Only
 
 ---
 ### Line 7810-7818 (Match: 'Phil')
@@ -239,7 +239,7 @@ Last edit almost 3 years ago by svayambhu108
 64
 Needs Review
 ```
-**Co-occurrences**: Xerox, World, Time, Could, Does, Just, Reality, Missive, Xerox Missive, Those, Wait, More, Through, Real, Such, Dick, Before, Were, Very, Beyond, Have, Instead, Having, Greater, Human, Phil Dick, Someone
+**Co-occurrences**: Time, Phil Dick, Xerox, World
 
 ---
 ### Line 7992-8000 (Match: 'Phil')
@@ -255,7 +255,7 @@ Last edit almost 3 years ago by svayambhu108
 92
 Needs Review
 ```
-**Co-occurrences**: Zebra, Spinoza, Perhaps, Like, Only, Mind, Does, Just, Reality, Being, Obviously, Wait, Xenophanes, Such, Dick, True, Meanwhile, Things, Phil Dick, Answer
+**Co-occurrences**: Zebra, Phil Dick, Spinoza, Perhaps, Like, Only
 
 ---
 ### Line 8187-8195 (Match: 'Phil')
@@ -272,7 +272,7 @@ Last edit almost 3 years ago by svayambhu108
 120
 Needs Review
 ```
-**Co-occurrences**: Zebra, Plato, Gnostic, World, Time, Urgrund, Could, Once, Reality, Fate, Santa, Living, Real, Dick, Calif, Finally, Will, Artifact, Otherwise, Phil Dick, Final, Until
+**Co-occurrences**: Zebra, Gnostic, Time, Phil Dick, Plato, World
 
 ---
 ### Line 16157-16165 (Match: 'Phil')
@@ -289,7 +289,7 @@ Last edit almost 3 years ago by svayambhu108
 folder 22 - 094
 Needs Review
 ```
-**Co-occurrences**: Tears, Acts, Thomas, Xerox, King, Well, These, Maybe, Scanner, Time, Folder, Could, Soviet, Missive, Xerox Missive, Brain, Still, Their, Holt, Before, Olive, Olive Holt, Would, Back, Have, Dead, Human, Free, Right
+**Co-occurrences**: Thomas, Time, Tears, Acts, Xerox, King, Well, These, Maybe, Scanner
 
 ---
 ### Line 16723-16731 (Match: 'Phil')
@@ -306,9 +306,7 @@ Last edit about 8 years ago by Toso
 folder 20 - 048
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Zebra, Form, These, Elijah, Scanner, Like, Since, Fall, Only, Folder, Light, Gestalt, Could, Once, Shiva, Being, Toso
-Folder, Indexed
-Folder, Brain, Still, Voice, Under, Have, Life, Information, Info, Human, Right
+**Co-occurrences**: Zebra, Information, Toso, Indexed, Form, These, Elijah, Scanner, Like, Since, Fall, Only
 
 ---
 ### Line 16762-16770 (Match: 'Phil')
@@ -325,9 +323,7 @@ Last edit about 8 years ago by Toso
 folder 20 - 048
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Zebra, Form, These, Elijah, Scanner, Like, Since, Fall, Only, Folder, Light, Gestalt, Could, Once, Shiva, Being, Toso
-Folder, Indexed
-Folder, Brain, Still, Voice, Under, Have, Life, Information, Info, Human, Right
+**Co-occurrences**: Zebra, Information, Toso, Indexed, Form, These, Elijah, Scanner, Like, Since, Fall, Only
 
 ---
 ### Line 17849-17857 (Match: 'Phil')
@@ -343,7 +339,6 @@ Last edit about 8 years ago by Toso
 folder 21 - 122
 Complete
 ```
-**Co-occurrences**: Ubik, Toso, Zebra, Complete, Gnostic, However, Like, Prison, Cosmic, Folder, Stigmata, Savior, Just, Reality, Being, Toso
-Folder, Himself, More, Living, Nonetheless, Dick, True, Back, Have, Later, Free, Phil Dick, Right
+**Co-occurrences**: Zebra, Gnostic, Phil Dick, Ubik, Toso, Complete, However, Like, Prison
 
 ---

@@ -20,7 +20,7 @@ Studying the Bible, along with this [Quamran] personality, Brady finds that the 
 
 The [Quamran] personality, who, for fictional purposes, I call Thomas, gradually informs Brady that these are the Parousia, the Final Days. And to be prepared; Thomas will prepare him by reminding him of his own divinity -- anamnesis, Thomas calls it. Thomas develops a special parity relationship with Brady, but evolves as a source of teaching for the incredibly ignorant Brady the entity known as Erasmus, who is in fact a station in the noösphere, which is now so fully charged around Earth that if you are aware of it you can consciously, rather than un-
 ```
-**Co-occurrences**: Thomas, Holy, Jesus, Form, Well, Bible, Parousia, These, World, Since, Because, Iron, Earth, Good, Mind, Book, Zagreus, Tony, Self, Anamnesis, Essene, Brain, Their, Zeus, Most, Such, Secret, Will, Would, Other, Erasmus, Back, Have, Life, Testament, Days, Having, Dead, Suddenly, Qumran, Final, Right, Until
+**Co-occurrences**: Thomas, Anamnesis, Holy, Jesus, Form, Well, Bible, Parousia, These, World, Since, Because, Iron, Earth
 
 ---
 ### Line 918-926 (Match: 'Acts')
@@ -37,7 +37,7 @@ You can't make this happen. God does it. How exciting, and yet I knew all this, 
 
 . . "The Decoded N.T." shows that there are others like me, and they know who and what they are, and have joined together. There is nothing I know that they don't. This answers one of my most pressing questions; the answer is Yes. This whole thing is really real. That I was given this...crucial stations, I suppose, which fan out in all directions (of my London "speech"). But I did see what they haven't said: the absolute purposefulness of everything, and the retrograde method of making it all work to a point. What happened to me (Firebright) had a certain history -- if you read backward along linear time: my works and my life, in oddly contrasting ways, make the experience although in no sense predictable, at least sensible.
 ```
-**Co-occurrences**: Logos, Gnostic, Plotinus, Father, Like, Time, Firebright, Could, Does, Something, Again, Suppose, Being, Although, Everything, Divine, Probably, Grace, Nothing, Creator, Most, Real, True, Universe, Finally, Would, Other, Were, Have, Life, Absolute, Body, Testament, London, Human, Karmic, Whereas, Answer
+**Co-occurrences**: Plotinus, Gnostic, Time, Firebright, Linear, Decoded, Logos, Father, Like
 
 ---
 ### Line 1004-1012 (Match: 'Acts')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by Harpax
 68
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Christianity, Holy Spirit, However, Father, Like, Since, Because, Only, Earth, Harpax, After, Mind, Light, Gospel, Firebright, Does, Anyhow, Again, Both, Being, Himself, Probably, Grace, Brain, Part, Their, More, Actually, Certainly, Before, Mother, True, Would, Other, Were, Many, Things, Absolute, Body, God Himself, Today, Doesn, Final
+**Co-occurrences**: Firebright, Decoded, Spirit, Holy, Christianity, Holy Spirit, However, Father, Like, Since, Because, Only, Earth
 
 ---
 ### Line 1272-1280 (Match: 'Acts')
@@ -71,7 +71,7 @@ I am lying in bed here and I am musing, "God can simulated the inanimate. Or rat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+**Co-occurrences**: Time, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison
 
 ---
 ### Line 1437-1445 (Match: 'Acts')
@@ -87,7 +87,7 @@ One question I haven't seen any answer to is, How does the Cosmic Christ after t
 
 Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
 ```
-**Co-occurrences**: Christ, Tears, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+**Co-occurrences**: Plotinus, Sophia, Time, Christ, Tears, Christian, Holy, Rome, Christianity, Form, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Like, World, Since, Nixon
 
 ---
 ### Line 1534-1542 (Match: 'Acts')
@@ -104,7 +104,7 @@ Last edit over 5 years ago by Harpax
 109
 Needs Review
 ```
-**Co-occurrences**: Spirit, Sophia, Greek, Golden, Wisdom, Dionysos, Perhaps, Elijah, Like, World, Since, Only, Time, Harpax, Even, Does, Just, Once, Again, Both, Being, Although, Everything, Dante, Divine, Aristotle, Either, Gods, Anamnesis, Part, Their, More, Another, Soul, Ground, Actually, Certainly, Before, Consider, Greece, True, Universe, Will, Deity, Would, Very, Attic, Whatever, Have, Life, Body, Memory, Whether, Knowledge, Upper, During, Human, Lower, Evidently, Right
+**Co-occurrences**: Sophia, Time, Anamnesis, Spirit, Greek, Golden, Wisdom, Dionysos, Perhaps, Elijah, Like, World, Since, Only
 
 ---
 ### Line 1708-1716 (Match: 'Acts')
@@ -121,7 +121,7 @@ I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sens
 
 . . . Re; TO SCARE THE DEAD. A character based on Jim Pike (with quite another name). Based on firsthand knowledge I had of his private life, e.g. with Maren in the Tenderloin, and the kind of man he was. This could be a major, if not the major character; but it would not be he who would have the Experience; that would be had by another, perhaps after
 ```
-**Co-occurrences**: Tears, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore, Time, After, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Another, Pike, Such, Voice, Secret, Jim Pike, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During, Whereas
+**Co-occurrences**: Sophia, Time, Santa Sophia, Information, Tears, Christian, Spirit, Holy, Rome, Holy Spirit, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore
 
 ---
 ### Line 1867-1875 (Match: 'Acts')
@@ -138,7 +138,7 @@ Last edit over 5 years ago by Harpax
 135
 Needs Review
 ```
-**Co-occurrences**: Holy, Form, King, Greek, Maybe, Like, World, Since, Therefore, Time, Harpax, Noos, Mind, Does, Anyhow, Once, Reality, Kosmos, Being, Either, Gods, Those, More, Egypt, Real, Such, Universe, Somehow, Back, Beyond, Campbell, Justice, Truth, Dead, Right
+**Co-occurrences**: Time, Holy, Form, King, Greek, Maybe, Like, World, Since, Therefore
 
 ---
 ### Line 2114-2122 (Match: 'Acts')
@@ -155,7 +155,7 @@ If only I'd said plaintively to Father Rasch: "This man is a literate Greek, he'
 
 Luke lived a lot in Syria. A palm tree country, like what I saw in 2 75. His beloved homeland. His concept of springtime.
 ```
-**Co-occurrences**: Christ, Tears, Christian, Paul, Greek, Bible, Roman, However, Father, Like, Because, Only, Harpax, Good, Book, Gospel, Just, Something, Both, Luke, Obviously, Palm, More, Certainly, Angel, Page, Have, Tree, Testament, Except, Syria, Dream
+**Co-occurrences**: Christ, Tears, Christian, Paul, Greek, Bible, Roman, However, Father, Like, Because, Only
 
 ---
 ### Line 2116-2124 (Match: 'Acts')
@@ -172,7 +172,7 @@ Luke lived a lot in Syria. A palm tree country, like what I saw in 2 75. His bel
 
 I'm certain that no other early great Christian (saint) was a physician; this distinguished St. Luke. Now, to return to contemplation of the personality which took me over 3 74. (The one who detested the aerosol sprays, etc.) That was St. Luke.
 ```
-**Co-occurrences**: Christ, Tears, Christian, Paul, Greek, Bible, Roman, However, Father, Like, Because, Only, Good, Book, Gospel, Just, Something, Both, Luke, Obviously, Great, Palm, More, Certainly, Other, Angel, Page, Have, Tree, Testament, Except, Syria, Dream
+**Co-occurrences**: Christ, Tears, Christian, Paul, Greek, Bible, Roman, However, Father, Like, Because, Only
 
 ---
 ### Line 2130-2138 (Match: 'Acts')
@@ -189,7 +189,7 @@ In other words the black man whom Buckman meets is even more like the black man 
 
 The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
 ```
-**Co-occurrences**: Tears, Holy, Christianity, Felix, Bible, Like, World, Harpax, After, Black, Buckman, Book, Even, Anyhow, Just, Something, Reality, Kosmos, Obviously, Philip, More, Another, Through, Living, Before, Other, Later, Suddenly, Dream, Right
+**Co-occurrences**: Philip, Tears, Holy, Christianity, Felix, Bible, Like, World
 
 ---
 ### Line 2211-2219 (Match: 'Acts')
@@ -206,7 +206,7 @@ Last edit over 5 years ago by Harpax
 165
 Needs Review
 ```
-**Co-occurrences**: Christ, Form, Fish, Father, Like, Therefore, John, Time, Harpax, Savior, Could, Does, Something, Again, Both, Teilhard, Being, March, Girl, Himself, Viewed, Kathy, Those, Their, Star, Through, Real, Gold, Such, Before, Death, Finally, Other, Were, Very, Back, Whatever, Many, Have, Life, Body, Dark, Later, God Himself, Cross, Today, During, Dream, Chardin, Final, Right, Someone
+**Co-occurrences**: Time, Christ, Form, Fish, Father, Like, Therefore, John
 
 ---
 ### Line 2465-2473 (Match: 'Acts')
@@ -223,7 +223,7 @@ What does this add up to? I can't prove a negative, that the Spirit hasn't been 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Logos, Holy Spirit, King, Parousia, Advent, Elijah, Maybe, Like, World, Because, Only, Time, Harpax, After, Good, Mind, Book, Even, Could, Does, Anyhow, Just, Something, Suppose, Being, Either, Still, Their, Another, Through, Upon, Before, Revelation, Will, Would, Other, Mission, Were, Biblical, Back, Have, Life, Later, Days, Whether, Unless, Knowledge, During, Human, Right, Someone
+**Co-occurrences**: Time, Tears, Spirit, Holy, Logos, Holy Spirit, King, Parousia, Advent, Elijah, Maybe, Like, World, Because, Only
 
 ---
 ### Line 2541-2549 (Match: 'Acts')
@@ -240,7 +240,7 @@ Last edit over 5 years ago by Harpax
 193
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Jesus, Xerox, Rome, Holy Spirit, Sophia, Kingdom, King, Paul, Well, Parousia, Dionysos, These, Perhaps, Like, World, Because, Iron, Harpax, After, Book, Light, Even, Pinky, Anyhow, Just, Once, Kingdom of God, Zagreus, Being, March, Either, Jewish, Darkness, Still, Jews, Part, Their, Another, Through, Most, Greece, Death, Messiah, Mission, Were, Very, Back, Beyond, Under, Many, Have, Things, Judgment, Life, Body, Spring, Pentheus, Testament, Evil, Dream, Evidently, Final, Crete, Until, August
+**Co-occurrences**: Sophia, Christ, Tears, Christian, Spirit, Holy, Jesus, Xerox, Rome, Holy Spirit, Kingdom, King, Paul, Well, Parousia, Dionysos, These, Perhaps, Like, World, Because, Iron
 
 ---
 ### Line 2832-2840 (Match: 'Acts')
@@ -256,7 +256,7 @@ Last edit almost 5 years ago by svayambhu108
 217
 Needs Review
 ```
-**Co-occurrences**: Valis, Tears, Christian, Xerox, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+**Co-occurrences**: Valis, Sophia, Anamnesis, Tears, Christian, Xerox, Christianity, Fish, Golden, Fall, Because, Golden Fish
 
 ---
 ### Line 2968-2976 (Match: 'Acts')
@@ -272,7 +272,7 @@ As it was an invisible tyrannt, like in THE MARBLE CLIFFS, what was needed was t
 
 "During part of its cycle Brahmin sleeps; in part it dances. We think it is dancing now, but actually it is asleep, and therefore what we see isn't real." Maybe in 3-74 Brahmin awoke briefly (the theophany). Certainly I did see us within a great living body.
 ```
-**Co-occurrences**: Tears, Spirit, However, Maybe, Like, World, Since, Because, Therefore, Only, Time, Nixon, After, Black, Buckman, Book, Even, Could, Just, Although, Great, Probably, Jason, Part, Their, More, Another, Most, Living, Real, Actually, Certainly, True, Death, Would, Other, Somehow, Very, Have, Things, Body, Later, Government, During, Dream, Until
+**Co-occurrences**: Time, Tears, Spirit, However, Maybe, Like, World, Since, Because, Therefore, Only, Nixon
 
 ---
 ### Line 3022-3030 (Match: 'Acts')
@@ -289,7 +289,7 @@ Last edit almost 5 years ago by svayambhu108
 
 231
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Greek, Roman, Wisdom, Lord, Like, World, Because, Only, John, Time, Savior, Good, Book, Gospel, Anyhow, Just, Something, Once, Again, Reality, Although, Everything, Great, Nothing, Darkness, Those, Their, Heaven, Voice, True, Will, Would, Other, Judge, Were, Very, Back, Have, Things, Life, Absolute, Whether, Knowledge, During, Dream, Whereas, Doesn, White
+**Co-occurrences**: Time, Christ, Christian, Jesus, Greek, Roman, Wisdom, Lord, Like, World, Because, Only, John
 
 ---
 ### Line 3204-3212 (Match: 'Acts')
@@ -306,7 +306,7 @@ I think, What God did in history at that point, 1974, was to prepare the way. Ma
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Well, Parousia, Wisdom, Lord, Perhaps, Elijah, World, Because, Time, After, Good, Even, Anyhow, Something, Reality, Being, Self, Great, Without, Those, Another, Soul, Living, Such, Certainly, Before, Will, Would, Judge, Were, Back, Surely, Have, Life, Freedom, Wise, Later, Having, Greater, Human
+**Co-occurrences**: Time, Christ, Spirit, Well, Parousia, Wisdom, Lord, Perhaps, Elijah, World, Because
 
 ---
 ### Line 3214-3222 (Match: 'Acts')
@@ -323,7 +323,7 @@ Last edit almost 5 years ago by svayambhu108
 250
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Holy, King, Satan, Well, Empire, Bible, Parousia, These, Perhaps, Like, World, Fall, Because, Only, John, Time, Earth, After, Book, Even, Could, Does, Pinky, Anyhow, Being, Either, Great, Daniel, House, Nothing, Jews, More, Through, Egypt, Babylon, Most, Heaven, Real, Such, Greece, Will, Would, Other, Judge, Were, Surely, Many, Have, Clearly, Judgment, Life, Memory, Later, Whether, Except, Dream, Evidently, Final, Right, Answer
+**Co-occurrences**: Time, Christ, Tears, Spirit, Holy, King, Satan, Well, Empire, Bible, Parousia, These, Perhaps, Like, World, Fall, Because, Only, John, Earth
 
 ---
 ### Line 3267-3275 (Match: 'Acts')
@@ -340,6 +340,6 @@ Last edit almost 5 years ago by svayambhu108
 255
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Christianity, Form, Plato, King, Like, Because, Time, After, Savior, Pinky, Once, Being, March, Platonic, Himself, Those, More, Through, Living, Heaven, Real, Actually, True, Western, Universe, Would, Other, Were, Very, Back, Further, Information, Later, Days, Having, Except, Knowledge, Cross, Right, Until, August
+**Co-occurrences**: Time, Information, Christ, Tears, Ubik, Christianity, Form, Plato, King, Like, Because
 
 ---

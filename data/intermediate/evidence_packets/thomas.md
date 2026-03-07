@@ -20,7 +20,7 @@ Last edit over 5 years ago by Zebrapedia
 10
 Indexed
 ```
-**Co-occurrences**: Indexed, These, Only, Book, Even, Anyhow, Zebrapedia, Something, Being, Great, Those, Still, Deity, Would, Were, Have, Life, Spring, Remember, Magic, Otherwise
+**Co-occurrences**: Zebrapedia, Indexed, These, Only
 
 ---
 ### Line 308-316 (Match: 'Thomas')
@@ -37,7 +37,7 @@ Last edit over 5 years ago by Siegman
 20
 Complete
 ```
-**Co-occurrences**: Christ, Complete, Form, Well, However, Dionysos, Perhaps, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Time, Christ, Complete, Form, Well, However, Dionysos, Perhaps, Since, Therefore, Only
 
 ---
 ### Line 438-446 (Match: 'Thomas')
@@ -54,7 +54,7 @@ Last edit almost 3 years ago by twsullivan
 28
 Complete
 ```
-**Co-occurrences**: Acts, Holy, Jesus, Complete, Form, Bible, Parousia, These, World, Because, Iron, Earth, Mind, Zagreus, Self, Anamnesis, Essene, Their, Zeus, Such, Secret, Will, Would, Other, Erasmus, Back, Life, Testament, Days, Suddenly, Qumran, Final, Until
+**Co-occurrences**: Anamnesis, Acts, Holy, Jesus, Complete, Form, Bible, Parousia, These, World, Because, Iron, Earth
 
 ---
 ### Line 446-454 (Match: 'Thomas')
@@ -71,7 +71,7 @@ During Winter, it was believed that Dionysos, the god of the vine plant, of vege
 
 Cordially,
 ```
-**Co-occurrences**: Christian, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Christian, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John
 
 ---
 ### Line 1763-1771 (Match: 'Thomas')
@@ -88,7 +88,7 @@ I realized this when I saw him more recently in my dreams, sterner and older; pe
 
 . . . Reading all this religious literature I can see now that for everyone, God is simply the explanation of how the universe got here -- i.e. how it came into being; someone had to create it, the First Cause Uncaused which "set it spinning." Viewed this way (also, God called into existence as a concept this way, simply to explain how the universe came into being) there would be no reason to suppose Him to be here. For one thing, the absolute sunstantiality of this world is taken for granted. But all my life I've felt it is not, that something truly real lies behind it; thus over my entire adult life I have prepared myself to encounter an immanent God emerging from within this world.
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, King, Roman, However, Perhaps, Like, World, John, After, Just, Something, Suppose, Being, Catholic, Either, Viewed, Santa, Without, More, Church, Another, Real, Santa Sophia, Universe, Finally, Will, Would, Mission, Back, Have, Life, Absolute, Spring, Wise, Comforter, Dream, Salvation, Right, Someone
+**Co-occurrences**: Sophia, Santa Sophia, Christ, Tears, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, King, Roman, However, Perhaps, Like, World, John
 
 ---
 ### Line 1777-1785 (Match: 'Thomas')
@@ -105,7 +105,7 @@ So what I've done (supra) is change the question from, How come I could experien
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, However, Wisdom, Perhaps, Like, World, Parmenides, Fall, Therefore, Only, Harpax, Paraclete, Book, Light, Could, Again, Kingdom of God, Reality, Kosmos, Being, Although, Great, Viewed, Without, Still, Their, More, Through, Most, Living, Heaven, Real, Actually, Before, Will, Would, Other, Somehow, Back, Many, Campbell, Have, Body, Instead, Having, Joseph, Dead, During, Human, Joseph Campbell, Right, Answer
+**Co-occurrences**: Sophia, Saint Sophia, Christ, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, However, Wisdom, Perhaps, Like, World, Parmenides, Fall, Therefore, Only
 
 ---
 ### Line 1892-1900 (Match: 'Thomas')
@@ -122,7 +122,7 @@ Last edit over 5 years ago by Harpax
 138
 Needs Review
 ```
-**Co-occurrences**: Christ, Kingdom, Greek, Well, Maybe, Like, World, Because, Time, Harpax, Gospel, Just, Something, Reality, Being, Probably, Nothing, Part, Another, Through, Egypt, Ground, Real, Universe, Will, Calvin, Would, Other, Somehow, Were, Whatever, Have, Life, Fake, Information, Instead, Jungian, Luther, Except, Suddenly, Human, Right, Until
+**Co-occurrences**: Time, Information, Christ, Kingdom, Greek, Well, Maybe, Like, World, Because
 
 ---
 ### Line 2000-2008 (Match: 'Thomas')
@@ -139,7 +139,7 @@ Last edit over 5 years ago by Harpax
 147
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Christianity, Holy Spirit, Sophia, Paul, Greek, However, Wisdom, World, Because, Only, Earth, Harpax, Good, Book, Even, Could, Does, Anyhow, Just, Both, Although, Probably, Santa, Nothing, Those, Another, Most, Actually, Secret, Santa Sophia, Death, Will, Would, Other, Beyond, Whatever, Under, Many, Have, Things, Body, Truth, Human, Doesn
+**Co-occurrences**: Sophia, Santa Sophia, Christ, Christian, Spirit, Holy, Logos, Christianity, Holy Spirit, Paul, Greek, However, Wisdom, World, Because, Only, Earth
 
 ---
 ### Line 2770-2778 (Match: 'Thomas')
@@ -156,7 +156,7 @@ Last edit almost 5 years ago by svayambhu108
 
 211
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Christianity, Holy Spirit, Sophia, Paul, Greek, However, Wisdom, World, Because, Only, Earth, Good, Book, Even, Could, Does, Just, Both, Although, Probably, Santa, Nothing, Those, Another, Most, Actually, Secret, Santa Sophia, Death, Will, Would, Other, Beyond, Whatever, Under, Have, Things, Body, Truth, Human, Doesn
+**Co-occurrences**: Sophia, Santa Sophia, Christ, Christian, Spirit, Holy, Logos, Christianity, Holy Spirit, Paul, Greek, However, Wisdom, World, Because, Only, Earth
 
 ---
 ### Line 3065-3073 (Match: 'Thomas')
@@ -173,7 +173,7 @@ Last edit almost 5 years ago by svayambhu108
 235
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Gnosticism, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Orphic, Covenant, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Journey, Things, Body, Memory, Jungian, Truth, Magus, Doesn, Pleroma, Answer, Simon Magus
+**Co-occurrences**: Gnosticism, Sophia, Gnostic, Time, Anamnesis, Pleroma, Christ, Christian, Spirit, Holy, Logos, Complete, Christianity, Plato, Kingdom, Paul, Greek, Well, Bible, Wisdom, Godhead, Father, Like, World, Fall
 
 ---
 ### Line 4142-4150 (Match: 'Thomas')
@@ -190,7 +190,7 @@ Last edit almost 3 years ago by svayambhu108
 
 51
 ```
-**Co-occurrences**: Tears, Christian, Xerox, Christianity, Fish, Roman, These, World, Because, Iron, Only, Time, Black, Look, Suppose, Chrissy, More, Real, Gold, Actually, Before, Consider, Would, Other, Were, Many, Life, Fake, Remember, Impostor, Dream, Right, Track, Until
+**Co-occurrences**: Time, Tears, Christian, Xerox, Christianity, Fish, Roman, These, World, Because, Iron, Only
 
 ---
 ### Line 4959-4967 (Match: 'Thomas')
@@ -207,7 +207,7 @@ Last edit over 4 years ago by carolinerose
 20
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Zebra, Xerox, Holy Spirit, Well, Roman, Maze, Like, Time, Mind, Even, Could, Being, Self, Himself, Those, Through, Revelation, Other, Somehow, Judge, Were, Very, Whatever, Have, Days, Knowledge, Final
+**Co-occurrences**: Zebra, Time, Christ, Christian, Spirit, Holy, Xerox, Holy Spirit, Well, Roman, Maze, Like
 
 ---
 ### Line 4982-4990 (Match: 'Thomas')
@@ -224,7 +224,7 @@ Last edit almost 3 years ago by svayambhu108
 23
 Needs Review
 ```
-**Co-occurrences**: Xerox, Maze, Perhaps, Like, Since, Because, Only, Time, Mind, Book, Does, Both, Reality, Although, Everything, Still, Before, Would, Very, Back, Memory, Days
+**Co-occurrences**: Time, Xerox, Maze, Perhaps, Like, Since, Because, Only
 
 ---
 ### Line 4988-4996 (Match: 'Thomas')
@@ -241,7 +241,7 @@ Last edit almost 3 years ago by svayambhu108
 24
 Needs Review
 ```
-**Co-occurrences**: Complete, Fish, Golden, Father, Since, Because, Golden Fish, Faith, Just, Although, Girl, Divine, Probably, Church, Real, Gold, Upon, Actually, Secret, Will, Would, Very, Memory, Government, Truth
+**Co-occurrences**: Complete, Fish, Golden, Father, Since, Because, Golden Fish
 
 ---
 ### Line 4994-5002 (Match: 'Thomas')
@@ -258,7 +258,7 @@ Last edit almost 3 years ago by svayambhu108
 25
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Zebra, Xerox, Fall, Because, Only, Good, Just, Reality, Being, Divine, Great, Sibyl, Grace, Nothing, Part, Church, Such, Secret, True, Would, Somehow, Were, Have, Absolute, Memory, Wise, Evil, Government, Human, Dream, Final, Right
+**Co-occurrences**: Zebra, Christ, Christian, Xerox, Fall, Because, Only
 
 ---
 ### Line 5000-5008 (Match: 'Thomas')
@@ -275,7 +275,7 @@ Last edit almost 3 years ago by svayambhu108
 
 26
 ```
-**Co-occurrences**: Christ, Zebra, Xerox, Fish, Golden, Perhaps, Like, Golden Fish, Prison, Only, Time, Black, Mind, Even, Gospel, Could, Just, Being, More, Another, Before, Would, Other, Very, Have, Memory, Days, Knowledge, Human, Someone
+**Co-occurrences**: Zebra, Time, Linear, Christ, Xerox, Fish, Golden, Perhaps, Like, Golden Fish, Prison, Only
 
 ---
 ### Line 5005-5013 (Match: 'Thomas')
@@ -291,7 +291,7 @@ Last edit almost 3 years ago by svayambhu108
 27
 Needs Review
 ```
-**Co-occurrences**: Zebra, Xerox, Perhaps, Father, Since, Because, Could, Just, Reality, Being, Self, Divine, Great, Without, More, Consider, Finally, Will, Would, Other, Very, Back, Surely, Many, Things, Except, Knowledge, Greater, Lower, Final, Until
+**Co-occurrences**: Zebra, Xerox, Perhaps, Father, Since, Because
 
 ---
 ### Line 5011-5019 (Match: 'Thomas')
@@ -308,7 +308,7 @@ Last edit almost 3 years ago by svayambhu108
 28
 Needs Review
 ```
-**Co-occurrences**: Christ, Ubik, Spirit, Holy, Zebra, Complete, Holy Spirit, Form, Well, However, These, Advent, Elijah, World, Fall, Time, Paraclete, Savior, Even, Does, Just, Once, Obviously, Either, Great, More, Through, Such, Before, Consider, True, Would, Were, Very, Further, Have, Things, Life, Instead, Later, Truth, Today, Answer
+**Co-occurrences**: Zebra, Time, Linear, Christ, Ubik, Spirit, Holy, Complete, Holy Spirit, Form, Well, However, These, Advent, Elijah, World, Fall
 
 ---
 ### Line 5017-5025 (Match: 'Thomas')
@@ -325,7 +325,7 @@ Last edit almost 3 years ago by svayambhu108
 29
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Logos, Sophia, Roman, Perhaps, Advent, Elijah, Like, Only, John, Time, Earth, After, Savior, Could, Just, Once, Again, Divine, Himself, Essene, Still, Part, More, Such, Voice, Certainly, Before, Will, Christopher, Mission, Very, Back, Have, Things, Having, Elisha, Human, Dream, Baptist
+**Co-occurrences**: Sophia, Time, Christ, Christian, Spirit, Logos, Roman, Perhaps, Advent, Elijah, Like, Only, John, Earth
 
 ---
 ### Line 5187-5195 (Match: 'Thomas')
@@ -342,6 +342,6 @@ Last edit almost 3 years ago by svayambhu108
 58
 Needs Review
 ```
-**Co-occurrences**: Jesus, Sophia, Greek, However, Even, Just, Something, Look, Suppose, Everything, Part, Through, Mother, Would, Under, Have, Memory, Remember, Dead, Human
+**Co-occurrences**: Sophia, Jesus, Greek, However
 
 ---

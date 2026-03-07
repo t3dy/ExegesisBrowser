@@ -20,7 +20,7 @@ And as this double motion increases, their combined (superimposed) viewpoint bec
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Form, Like, Since, Only, Time, Harpax, Mind, Taoism, Again, Reality, Being, Their, More, Universe, Will, Other, Further, Things, Life, Apparently, Dead, Right
+**Co-occurrences**: Time, Form, Like, Since, Only
 
 ---
 ### Line 624-632 (Match: 'Parmenides')
@@ -37,7 +37,7 @@ I am going to state a truly extraordinary premise: that long ago, when Earth fel
 
 This is Absolute negantropic compression, the restoration of lost or waste (heat). Time (energy) is Form One. Space (empty, hollow, Yin, cold) is Form Two (but these are expressions of a Sameness; v. Parmenides.
 ```
-**Co-occurrences**: Complete, Form, Kingdom, Well, These, Time, Earth, After, Just, Self, Himself, Anamnesis, Part, Dokos, More, Would, Other, Back, Life, Absolute, Justice, Form One, Later, Having, Truth, Magic
+**Co-occurrences**: Time, Anamnesis, Complete, Form, Kingdom, Well, These, Earth
 
 ---
 ### Line 628-636 (Match: 'Parmenides')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by Harpax
 39
 Needs Review
 ```
-**Co-occurrences**: Form, Kingdom, Well, These, Time, Earth, Harpax, After, Himself, Dokos, More, Would, Other, Absolute, Justice, Form One, Later, Truth, Magic
+**Co-occurrences**: Time, Form, Kingdom, Well, These, Earth
 
 ---
 ### Line 729-737 (Match: 'Parmenides')
@@ -71,7 +71,7 @@ We are living where two universes (sic!) meet -- i.e. where they overlap. We're 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Complete, Form, Gnostic, These, Since, Only, Time, Harpax, After, Good, Book, Yang, Firebright, Both, Being, March, Still, Part, Soul, Living, Heaven, Real, Universe, Back, Whatever, Many, Have, Form One, Unless, Dream, Doesn, Someone
+**Co-occurrences**: Gnostic, Time, Firebright, Tears, Complete, Form, These, Since, Only
 
 ---
 ### Line 886-894 (Match: 'Parmenides')
@@ -88,7 +88,7 @@ Q: I hand you a jigsaw puzzle and tell you to assemble it. You begin to put the 
 
 A: (This is harder than it might appear. Let's try it both ways.[)]
 ```
-**Co-occurrences**: Complete, Like, Because, Only, Could, Both, Reality, Although, Still, Dokos, Living, Real, Universe, Will, Were, Have, Final, Right, Until
+**Co-occurrences**: Complete, Like, Because, Only
 
 ---
 ### Line 902-910 (Match: 'Parmenides')
@@ -105,7 +105,7 @@ If we ask, "Why do I see Mickey Mouse and not Teddy Roosevelt, when I know it sh
 
 When the development toward completion of this overall pattern is equated with evolution in general, it is evident that we do not worship this god, who is the Creator, but rather the God who enters and picks up the pieces allowed to drop to the workroom floor -- "The stone rejected by the builder shall be my cornerstone," as our God, Christ, put it. There is one God of the total section, the universe as entelechy, and a God of each discarded subsection, that it, too, in some miraculous way, will not perish. It is evident in what manner the universe --the developed completly evolved pattern-- will not perish, but what about those of us who were sacrificed or lost out along the way? The principle of "those who did not make it" is a major principle and includes many. My dream of the man who created life from the atom, to the comic strip baby to Kathy -- that procession was the universe moving toward completion, and this ruthless march forward injured a bystander, casualties were involved: the lamb, specifically, as represented in the dream as Tessa, who needed medical assistance from the good scouts who were coming in to the vast building. We seek help, but the Creator is concerned with the total structure, not with the rejected bits; if there were only this God and not Christ, what a juggernaut the cosmos would be. We would all perish, ant-like, in the service of the final gestalt or pattern (Darwin et al believed in just such a world). But we seek another God, that of the defeated and powerless.
 ```
-**Co-occurrences**: Christ, Complete, Form, Perhaps, Maybe, Like, World, Because, Only, After, Good, Even, Gestalt, Could, Just, March, Either, Probably, Tessa, Creator, Kathy, Those, Still, Dokos, More, Another, Such, Universe, Finally, Will, Would, Were, Many, Have, Life, Dream, Lamb, Final
+**Co-occurrences**: Christ, Complete, Form, Perhaps, Maybe, Like, World, Because, Only
 
 ---
 ### Line 943-951 (Match: 'Parmenides')
@@ -122,7 +122,7 @@ Last edit over 5 years ago by Harpax
 62
 Needs Review
 ```
-**Co-occurrences**: Logos, Christianity, These, Like, Time, Harpax, Even, Once, Both, Being, Viewed, Nothing, Dokos, Their, More, Another, Real, Such, Secret, Universe, Would, Were, Very, Clearly, Otherwise
+**Co-occurrences**: Time, Linear, Logos, Christianity, These, Like
 
 ---
 ### Line 965-973 (Match: 'Parmenides')
@@ -139,7 +139,7 @@ It is a matter of the utmost importance, absolutely so, to discern why --or how-
 
 Another possibility , using the radar screen model: a false area, of repeated or echo signals which our sense apparatus monitors and doesn't factor out...almost due to a sort of perceptual laziness; it allows the true signals and the false echo signals to blend. This is grim and very frightening; these would be a ghost universe signal system; mimicking and resembling true signals, but serving no real purpose, such as an "actual" mirror Form Two Yin universe might. The crucial question: is Form Two just a ghost mimic signal system, or has it got a parity or ballast Yin Form Two function vis-a-vis Form One, the authentic signals? I.E. does it exist at all? I swear, it does not exist; there is no Form Two at all. It is a spurious universe which we don't discriminate out. Now, are we to reckon here on a corrupted superior percept system? Or a relatively primitive percept system unable for that reason (lack of sophistication) to discriminate? It was 2,400 years ago that Parmenides was able to factor Form Two out of true existence (denied it ontology existence), so in any case there's been no progress; we more deeply involved in Form Two than ever, more at its mercy, more barbaric in our worldview. And Empedocles assumed a drop down at his point. Dokos (Maya) is an echo universe which obscures the authentic (Form One) one. It is noise intruding on signal, or at best crosstalk.
 ```
-**Co-occurrences**: Form, These, Like, Only, Time, Harpax, Good, Yang, Does, Just, Again, Maya, Empedocles, Dokos, More, Another, Soul, Most, Real, Such, Actually, True, Universe, Would, Other, Very, Back, Many, Have, Form One, Doesn, Right
+**Co-occurrences**: Time, Form, These, Like, Only
 
 ---
 ### Line 969-977 (Match: 'Parmenides')
@@ -156,7 +156,7 @@ Last edit over 5 years ago by Harpax
 64
 Needs Review
 ```
-**Co-occurrences**: Form, These, Like, Only, Time, Harpax, Good, Yang, Does, Just, Again, Maya, Empedocles, Dokos, More, Another, Soul, Most, Real, Such, Actually, True, Universe, Would, Other, Very, Back, Many, Have, Form One, Doesn, Right
+**Co-occurrences**: Time, Form, These, Like, Only
 
 ---
 ### Line 1128-1136 (Match: 'Parmenides')
@@ -173,7 +173,7 @@ The Orphic egg. If the universe is born from something for which the eff is a pa
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Form, Greek, Well, These, Advent, Maybe, Like, Since, Because, Only, Time, Harpax, Book, Light, Could, Does, Just, Something, Suppose, Both, Kosmos, Although, Everything, Orphic, Either, Without, Nothing, More, Another, Soul, Real, Certainly, Universe, Deity, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+**Co-occurrences**: Time, Form, Greek, Well, These, Advent, Maybe, Like, Since, Because, Only
 
 ---
 ### Line 1232-1240 (Match: 'Parmenides')
@@ -189,7 +189,7 @@ Last edit over 5 years ago by Harpax
 87
 Needs Review
 ```
-**Co-occurrences**: Christ, Christianity, Form, Brahman, Well, Like, Because, Time, Harpax, Good, Mind, Even, Does, Realm, Again, Zagreus, Obviously, Atman, Although, Buddhism, Either, Great, Christos, Brain, Part, Such, Certainly, Death, Macro, Will, Deity, Would, Were, Very, Whatever, Many, Campbell, Have, Memory, Information, Instead, Form One, Except, Joseph, Dream
+**Co-occurrences**: Time, Information, Christ, Christianity, Form, Brahman, Well, Like, Because
 
 ---
 ### Line 1548-1556 (Match: 'Parmenides')
@@ -206,7 +206,7 @@ What could there possible be that I did not see? I saw at first the living prese
 
 As to the daimon possessing me in 3 74 because I could be useful in pulling down the tyranny -- in point of fact it is certainly grandoise to believe I did anything important ([.]e.g. writing to Charles Wiggins, etc. After all, the daimon could have inspired Mr. Wiggins direct, with no need of my letters to him, etc., or the the Wall St. Journal. If I did do anything, it was prior to 3 74 -- for instance, TEARS -- I mean, in my professional writing in general, like in my Vancouver speech. So if I did do any work in the "vinyard of the lord," with social import, it had been done before and came to me in 3 74. In any case, the amount of aid to me (as in extricating me from the Xerox pincers, that threat to my autonomy, plus the COINTELPRO threat) -- the aid to me was enormous, and completely out of proportion to what I rendered in social aid. What I received was most of the thing; so I assume, thinking about the relative proportion here of aid to me, and aid I rendered under the dominion/inspiration of the spirit as of 3 74 and after -- it was certainly the main goal of the daimon to assist me; I was not valuable; I was just in a desperate situation. It was my need, not any fancied ability I had. Any worth to the spirit. Despite the fact that 74 was a crucial period, in which the tyranny foil, despite what I said in my UK speech about the spirit moving to overthrow the tyranny -- I don't think that was why it came to me. The danger from the Xerox conglomerate was solely to me; a private matter, whereas the Nixon thing was public. Social action was not the intent of the daimon; I was not a soldier thrown into a crucial battle between God and Satan. However, once inspired, I was given the assistance I needed to attack my own foes on both the left and right; I attacked them not because they were evil but because both were menacing me. The common denominator between the Xerox thing and COINTELPRO was the plight, the bind, they'd put me in; crushed inbetween, with no place to go, and no one to turn to.
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, Satan, However, Lord, Like, World, Because, Therefore, Nixon, Harpax, After, Faith, Good, Even, Could, Just, Once, Both, Reality, Zagreus, Without, Creator, Another, Most, Living, Real, Certainly, Before, Easter, Friday, Creation, Were, Under, Many, Have, Evil, Knowledge, Magic, Whereas, Right, Grail
+**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, Satan, However, Lord, Like, World, Because, Therefore, Nixon
 
 ---
 ### Line 1777-1785 (Match: 'Parmenides')
@@ -223,7 +223,7 @@ So what I've done (supra) is change the question from, How come I could experien
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, However, Wisdom, Perhaps, Like, World, Fall, Therefore, Only, Harpax, Paraclete, Book, Light, Could, Again, Kingdom of God, Reality, Kosmos, Being, Although, Great, Viewed, Without, Still, Their, More, Through, Most, Living, Heaven, Real, Actually, Before, Will, Would, Other, Somehow, Back, Many, Campbell, Have, Body, Instead, Having, Joseph, Dead, During, Human, Joseph Campbell, Right, Answer
+**Co-occurrences**: Thomas, Sophia, Saint Sophia, Christ, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, However, Wisdom, Perhaps, Like, World, Fall, Therefore, Only
 
 ---
 ### Line 1796-1804 (Match: 'Parmenides')
@@ -240,7 +240,7 @@ I deduce that although the addicents (emperical surface of reality) show no prog
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christian, Spirit, Holy, Christianity, Holy Spirit, Form, Sophia, Plato, Fish, Greek, Parousia, Golden, These, Perhaps, Like, World, Therefore, Golden Fish, Only, Time, Harpax, After, Paraclete, Faith, Light, Anyhow, Something, Reality, Being, Although, Everything, Aristotle, Great, Anamnesis, Without, Part, Their, More, Through, Soul, Living, Such, Certainly, Before, Will, Mission, Have, Things, Life, Memory, Neither, Form One, Having, Remember, Knowledge, Comforter, Doesn, Right, Until
+**Co-occurrences**: Sophia, Time, Anamnesis, Christian, Spirit, Holy, Christianity, Holy Spirit, Form, Plato, Fish, Greek, Parousia, Golden, These, Perhaps, Like, World, Therefore, Golden Fish, Only
 
 ---
 ### Line 1904-1912 (Match: 'Parmenides')
@@ -257,7 +257,7 @@ Last edit over 5 years ago by Harpax
 139
 Needs Review
 ```
-**Co-occurrences**: Logos, Form, Kingdom, Well, Maybe, Like, World, Because, Time, Harpax, Garden, Light, Could, Joint, Does, Once, Reality, Kosmos, Heraclitus, Being, Everything, Still, Through, Most, Voice, Upon, Mother, Universe, Very, Back, Beyond, Have, Things, Justice, Having, Truth, Magic, Right
+**Co-occurrences**: Time, Logos, Form, Kingdom, Well, Maybe, Like, World, Because
 
 ---
 ### Line 2291-2299 (Match: 'Parmenides')
@@ -274,7 +274,7 @@ Primarily, I began by realising that along the lines of Parmenides when he denie
 
 I had been thinking about the Megiddo Mission people denying that the Holy Spirit is with us or had been for the last 1500 years, on the grounds that the world is obviously evil and in the hands of evil. It is true that the world so appears. From the evidence of our senses, God has abandoned us (which is what they really are saying). We are lacking Him and His assistance.
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, However, World, Just, Obviously, Everything, Either, Probably, Before, True, Will, Would, Mission, Have, Life, Evil, Except
+**Co-occurrences**: Spirit, Holy, Holy Spirit, However, World
 
 ---
 ### Line 2561-2569 (Match: 'Parmenides')
@@ -291,7 +291,7 @@ I think they roused me deliberately temporarily, not with the try to make it per
 
 What I was inside, like a great living whale, must have been Brahmin.
 ```
-**Co-occurrences**: Christ, Ubik, Spirit, Holy, Christianity, Holy Spirit, Form, Well, These, Like, World, Only, Time, Harpax, After, Book, Light, Even, Could, Anyhow, Both, Being, Great, Without, Part, More, Another, Pike, Living, Such, Voice, Actually, Certainly, Before, Jim Pike, Death, Universe, Would, Other, Somehow, Back, Surely, Have, Things, Fake, Later, Knowledge, Dead, Right, Someone, Until
+**Co-occurrences**: Time, Christ, Ubik, Spirit, Holy, Christianity, Holy Spirit, Form, Well, These, Like, World, Only
 
 ---
 ### Line 2807-2815 (Match: 'Parmenides')
@@ -308,7 +308,7 @@ That there is another (eternal, i.e. outside of time, unchanging) universe (Plat
 
 ••• The obvious has eluded me. The left hemisphere, processessing and experiencing (perceiving) digitally, experiences linear time. The right hemisphere, working on an analog or pattern basis, experiences either another kind of (non-linear) time or else timelessness itself. I somehow (3 74) extinguished the left-hemisphere self-system (ego), and obtained, not bi-lateral hemispheric parity, but first the annihilation of the left-hemisphere self system, but then the coming into full firing (via the w.s. vitamins?) of the right, which many men have sought but few have found (the Mantra must have helped). And thereupon the universe was seen inside out, and time flowed backward! Viewed inside out specially, and flowing backward temporally, entirely new gestalts (patterns or entities or forces) were visible to me, as if one had suspended trying to read Hebrew from left to right and abruptly read it (properly) from right to left, etc. Since left-h. linear time, as is scientifically known, leads toward entropy, then I saw movement toward the formation of growth, or entelechies. Of the assembling of chaotic parts into wholes. Not only that, I saw saw the assembling force (the Logos) and the counter-force as well (unnamed), these two forming, I think, a dialectic of strife as Empedocles expressed; perhaps the Logos was above both (which twe then could be viewed as yang and yin, etc) and made use of their interaction and contention to build with and on and by means of. But this only visible from right-h. apperception of time flowing backward, and the special properties reversed as well. Left-h time apperception sees flow and change, evolution and process, but not the constructs of the process, since the process (which is real) is viewed in the wrong direction, as a decomposing one (like a tape or film run habitually backward). To the left-h, things pop into being in time and then pop out of being, meaninglessly, going nowhere; but to the right-h sense of the process (reversed), assembling, and toward a goal, is clearly visible. The goal is total assembly of everything into a single entity, probably a totally stable (palintonos harmonie) gestalt or kosmos. But the con¬ structs or gestalts being formed — although the entity at work operated in reverse time, those gestalts lay in our linear future. it was "writ¬ ing backward" to arrive at cur terminal end. 5
 ```
-**Co-occurrences**: Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Since, Only, Time, After, Gestalt, Yang, Could, Does, Hebrew, Both, Kosmos, Being, Empedocles, Although, Self, Everything, Either, Augustine, Probably, Viewed, Those, Their, Another, Real, Love, Death, Universe, Finally, Will, Would, Other, Somehow, Were, Many, Have, Clearly, Things, Life, Form One, Whether, Dialectic, Right
+**Co-occurrences**: Time, Dialectic, Linear, Entropy, Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Since, Only
 
 ---
 ### Line 2825-2833 (Match: 'Parmenides')
@@ -325,7 +325,7 @@ Last edit almost 5 years ago by svayambhu108
 
 216
 ```
-**Co-occurrences**: Christ, Logos, Complete, Xerox, Christianity, Like, World, Because, Time, Mind, Light, Reality, Heraclitus, Being, Either, Zoroastrian, Probably, Viewed, Grace, Darkness, Their, Through, Most, Actually, True, Would, Very, Back, Under, Many, Information, Instead, Days, Sons, Dream, Salvation, Evidently
+**Co-occurrences**: Time, Information, Christ, Logos, Complete, Xerox, Christianity, Like, World, Because
 
 ---
 ### Line 3237-3245 (Match: 'Parmenides')
@@ -342,6 +342,6 @@ Last edit almost 5 years ago by svayambhu108
 252
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Holy, Form, Kingdom, Paul, Satan, Well, Bible, Wisdom, Lord, Like, World, Prison, Only, Time, Nixon, Faith, Garden, Good, Book, Pinky, Anyhow, Just, Look, Luke, Everything, Great, Probably, Palm, Deus, Still, Another, Such, Actually, Secret, Before, True, Irae, Universe, Will, Would, Back, Many, Have, Tree, Things, Life, Absolute, Form One, Deus Irae, Dream, Final
+**Co-occurrences**: Time, Christ, Tears, Holy, Form, Kingdom, Paul, Satan, Well, Bible, Wisdom, Lord, Like, World, Prison, Only, Nixon
 
 ---

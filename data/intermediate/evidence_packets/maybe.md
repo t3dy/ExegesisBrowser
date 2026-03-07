@@ -20,7 +20,7 @@ I saw the Final Things (eschatology). There, all forms including us, including m
 
 I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Iron, Time, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Time, Linear, Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Iron
 
 ---
 ### Line 84-92 (Match: 'Maybe')
@@ -37,7 +37,7 @@ I think that in 1974 my entelechy was completed, but I never heard of anyone hav
 
 Last edit over 5 years ago by FolkDevil
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Father, Like, Since, Because, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+**Co-occurrences**: Time, Philip, Phil, Spirit, Holy, Holy Spirit, Well, Father, Like, Since, Because, Therefore, Only
 
 ---
 ### Line 93-101 (Match: 'Maybe')
@@ -53,7 +53,7 @@ Hey, I figured out (you laughed) Nixon is the best – beast.
 
 IX From nIXon That’s Latin for 9 IC from dICk That’s Latin for 99
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Like, World, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Dick, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Time, Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Like, World, Nixon
 
 ---
 ### Line 113-121 (Match: 'Maybe')
@@ -70,7 +70,7 @@ One could say, Before the World took the little child and taught it to see and t
 
 Yes, maybe so, Claudia; while the teacher was still the universe. I remember how God, as body-of-God, the universe, taught me, through bugs and bees, the sight of an old blind lady in a great wheel chair. I knew about being bushwacked (by a bee) about old age and death; I knew about the Fish sign, too, the Savior: I called him “Tunny,” from a del Monte billboard for some canned food. We had to travel under the Oakland Estuary in the Alameda Tube, and I saw the tube like a can; at the end we emerged in the sunlight and I saw the billboard with “Tunny” on it. I loved ol’ Tunny, the great fish (like Charley the Tuna now must be to kids). Claudia, I tell you the truth: through (via, not from in, within) such shapes, the true living Archetypes speak to us, especially as children, but now, too, if we liksten. In my kids’ story book the figure of the old king… through him God actually moved toward me, later appearing in a “dream” about my story book,” If you see. I saw this last night, how the drawn figure of the old king is:
 ```
-**Co-occurrences**: Form, King, Paul, Fish, Like, World, Only, Time, After, Stigmata, Savior, Book, Could, Just, Reality, Being, Great, Without, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Christopher, Under, Have, Life, Body, Claudia, Later, Remember, Truth, Dream
+**Co-occurrences**: Time, Form, King, Paul, Fish, Like, World, Only
 
 ---
 ### Line 117-125 (Match: 'Maybe')
@@ -87,7 +87,7 @@ The drawing your parent an archetype
 
 The mind receives so well during young childhood. It was wonderful, enchantment, when things spoke, pictures and bugs. Well, God spoke through them via, by means of, them. Utilized them as conduits of resemblances; there we encountered the Queen, the King – and the pieces of the chessboard. I realized the other night, And now, that Christopher is born, I am the wise old king. I will never find him; I can only become him. Bummer. Sad. But I looked at my great arms (I have great arms) and I thought, One must eventually become ones own parent.
 ```
-**Co-occurrences**: King, Fish, Well, Like, World, Only, Time, Savior, Mind, Book, Could, Being, Great, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Will, Christopher, Other, Under, Have, Things, Body, Claudia, Wise, Later, Remember, Truth, During, Dream
+**Co-occurrences**: Time, King, Fish, Well, Like, World, Only
 
 ---
 ### Line 250-258 (Match: 'Maybe')
@@ -104,7 +104,7 @@ Last edit over 5 years ago by Zebrapedia
 15
 Indexed
 ```
-**Co-occurrences**: Indexed, Roman, These, Like, Since, Fall, Because, Only, Time, After, Good, Even, Could, Zebrapedia, Just, Something, Once, Catholic, Tony, Although, Still, More, Through, Love, Before, True, Universe, Will, Many, Remember, Electric, Sturgeon, Dead, Human, Right, Answer, Until
+**Co-occurrences**: Time, Zebrapedia, Indexed, Roman, These, Like, Since, Fall, Because, Only
 
 ---
 ### Line 256-264 (Match: 'Maybe')
@@ -121,7 +121,7 @@ However, Tony is still alive, I discovered last year. My cat had begun to behave
 
 I hadn’t realized Pinky was Tony Boucher, served up by the universe again, until I had this dream about Tony the Tiger – the cereal box character who offers you cocoa puffs. In my dream I stood at the one end of a light-struck glade, and at the other a great tiger came out slowly, with delight, and I knew we were together again, Tony the Tiger and me. My joy was unbounded. When I woke up I tried to think who I knew named Tony. I had other strange experiences after Pink died. I dreamed about “Mrs. Donlevy” who was incredibly tall – I could see only her feet and ankles – and she was serving me a place of milk on the back porch ? there was a vacant lot where I could roam at will, forever. It was ? Elysian Vacant Lot, which the Greeks believed in, but just my size.
 ```
-**Co-occurrences**: Indexed, Greek, However, Like, Because, Only, After, Light, Could, Pinky, Anyhow, Zebrapedia, Just, Something, Once, Again, Tony, Himself, Great, Those, Still, Living, Love, Universe, Will, Would, Other, Were, Very, Back, Under, Have, Days, Except, Sturgeon, Suddenly, Dream, Until
+**Co-occurrences**: Zebrapedia, Indexed, Greek, However, Like, Because, Only
 
 ---
 ### Line 320-328 (Match: 'Maybe')
@@ -138,7 +138,7 @@ The vernal equinox is almost here. Pretty girls are everywhere, and the buds are
 
 Last edit over 5 years ago by Siegman
 ```
-**Co-occurrences**: Well, Like, World, Because, Only, Book, Could, Being, Runciter, House, Creator, Still, More, Star, Heaven, Voice, Actually, True, Universe, Finally, Christopher, Would, Other, Back, Whatever, Have, Life, Claudia, Spring, Later, Except, Cross, Blood, Truth, Dream, Right
+**Co-occurrences**: Well, Like, World, Because, Only
 
 ---
 ### Line 466-474 (Match: 'Maybe')
@@ -155,7 +155,7 @@ I present you with the sort of evidence which deep within the heavy books I read
 
 In a dream I was shown that the word "Jesus" is a code, a word made up and not a name at all; those reading the text who knew (the Quamran men, for instance) would see "ZEUS" and "ZAGREUS" combined into the integer "JESUS". It is a substitution code, I think they call it. These idle games of Erasmus, however, had grown stale to me once it was revealed how I'd been taken in by my own proclivity for profundity...however, as I went to get a spelling right for this letter, I found these remarkably similar textual passages:
 ```
-**Co-occurrences**: Jesus, However, Dionysos, These, Perhaps, After, Book, Once, Zagreus, March, Nothing, Those, Still, Zeus, Most, Universe, Deity, Would, Erasmus, Back, Beyond, Have, Dream, Right
+**Co-occurrences**: Jesus, However, Dionysos, These, Perhaps
 
 ---
 ### Line 521-529 (Match: 'Maybe')
@@ -172,7 +172,7 @@ What I noticed most was the total isomorphic relatedness between me and my envir
 
 The "Whale's Mouth" sign of intersecting arcs, which I viewed as representing curved time and curved space -- if each arc represents a form of time (one of them lineal time, the other orthogoal or hyper-time) then this sign could be thought of [a] representing a single previous intersection (in our past) at which the two times came together (around 100 AD), and then each went its own way...but as they were moving in arcs, it was inevitable, by the laws of geometry, that eventually they would once more intersect, perhaps 2000 years or so later (i.e. very soon). These also would represent the two hemispheres of the brain, any human's brain, once before linked, then soaring off orthogonally, but fated by immutable laws to come together again.
 ```
-**Co-occurrences**: Complete, Form, Well, These, Perhaps, Like, World, Therefore, Time, Even, Could, Anyhow, Just, Once, Again, Being, Although, Viewed, Without, Brain, Still, More, Most, Living, Before, Finally, Would, Other, Were, Very, Later, Human
+**Co-occurrences**: Time, Complete, Form, Well, These, Perhaps, Like, World, Therefore
 
 ---
 ### Line 535-543 (Match: 'Maybe')
@@ -189,7 +189,7 @@ The absolute height of wisdom and the goal of its search would be this computer 
 
 It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese States of America" dream is typical. I dreamed all manner of explicit alchemical symbols (the homonculus, the retorts interwoven...flask of Hermes, the fish, etc.), out of Jung's description of the self in the process of psychic integration experiencing noetically these prior consciously arrived at symbols (prior in terms of centuries -- thus his theory of the Collective Unconscious, that such symbols could arise in a modern man who did not know them, who had no way of knowing them -- like me with the Greek. But this
 ```
-**Co-occurrences**: Complete, Fish, Greek, Gnosticism, Wisdom, These, Plotinus, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, America, Magic, Hermes, Human, Dream, Someone
+**Co-occurrences**: Gnosticism, Plotinus, Hermes, Complete, Fish, Greek, Wisdom, These, Like, World, Earth
 
 ---
 ### Line 555-563 (Match: 'Maybe')
@@ -206,7 +206,7 @@ Last edit over 5 years ago by Harpax
 35
 Needs Review
 ```
-**Co-occurrences**: Well, These, Perhaps, Time, Harpax, Even, Just, March, Either, More, Consider, Universe, Would, Information, Except
+**Co-occurrences**: Time, Information, Well, These, Perhaps
 
 ---
 ### Line 661-669 (Match: 'Maybe')
@@ -223,7 +223,7 @@ Last edit over 5 years ago by Harpax
 42
 Needs Review
 ```
-**Co-occurrences**: Ubik, Logos, However, Perhaps, Time, Harpax, Good, Even, Could, Does, Anyhow, Soviet, Again, Both, Being, March, Probably, Part, Their, More, Another, Such, Would, Beyond, Under, Have, Life, Information, Later, Knowledge, Dead, Salvation, Evidently
+**Co-occurrences**: Time, Information, Linear, Ubik, Logos, However, Perhaps
 
 ---
 ### Line 738-746 (Match: 'Maybe')
@@ -239,7 +239,7 @@ We evidently live in a multiple source (on the model of light sources) compound 
 
 For all I know, there are many more RUs than two. It could be like the Selectric in terms of letter and numbers: hundreds. This is really weird. And what has time to do with all this? It would seem very little (another example: Mr. Tagomi in the park. These alternate presents, maybe. An infinity of splits within splits, like each half halving again into infinity, and each somewhat different --the Rhipadon fan-shape 3-part segment which divides and each had 3 parts: left, middle, right. Well, how about this: left is RU One; Middle is compound; Right is RU Two. That makes the compound, at epicenter, the Tao. This gets us into Taoism fast.
 ```
-**Co-occurrences**: Christ, Tears, Complete, Form, Kingdom, Paul, Well, Lord, These, Like, Only, Time, Light, Could, Does, Taoism, Again, Christos, Those, Still, Part, More, Another, Universe, Will, Would, Page, Kingship, Very, Back, Many, Tagomi, Info, Whether, Evidently, Whereas, Final, Right
+**Co-occurrences**: Time, Christ, Tears, Complete, Form, Kingdom, Paul, Well, Lord, These, Like, Only
 
 ---
 ### Line 742-750 (Match: 'Maybe')
@@ -256,7 +256,7 @@ However, on this Rhipidon model, 3 RUs would suffice, and still explain like my 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Form, Well, Golden, However, These, Like, World, Only, Time, Harpax, Light, Could, Does, Taoism, Again, Both, Great, Apollo, Still, Part, More, Another, True, Universe, Would, Other, Page, Very, Whatever, Many, Have, Tagomi, Info, Form One, Dream, Evidently, Whereas, Final, Right
+**Co-occurrences**: Time, Tears, Form, Well, Golden, However, These, Like, World, Only
 
 ---
 ### Line 744-752 (Match: 'Maybe')
@@ -273,7 +273,7 @@ Last edit over 5 years ago by Harpax
 47
 Needs Review
 ```
-**Co-occurrences**: Tears, Form, Well, Golden, However, These, Like, World, Only, Time, Harpax, Light, Could, Does, Taoism, Again, Both, Great, Apollo, Still, Part, More, Another, True, Universe, Would, Other, Page, Very, Whatever, Many, Have, Tagomi, Form One, Dream, Evidently, Whereas, Final, Right
+**Co-occurrences**: Time, Tears, Form, Well, Golden, However, These, Like, World, Only
 
 ---
 ### Line 750-758 (Match: 'Maybe')
@@ -290,7 +290,7 @@ We could put Her[e]clitus against Empedocles this way: He would maintain that, "
 
 You get enough darkness and it turns spontaneously to light. You get enough light, etc.
 ```
-**Co-occurrences**: Logos, Like, Because, Only, Time, Harpax, Light, Could, Anyhow, Just, Taoism, Empedocles, Although, Great, Without, Nothing, Darkness, Their, Heaven, Would, Other, Were, Back, Dark, Right
+**Co-occurrences**: Time, Logos, Like, Because, Only
 
 ---
 ### Line 752-760 (Match: 'Maybe')
@@ -307,7 +307,7 @@ You get enough darkness and it turns spontaneously to light. You get enough ligh
 
 For all purposes which are ours, we should contrue our universe as under the dominion of two distinct RUs, if not more, and a compound of both -- so in a sense, not as real as both or either of them. But maybe ours it the desired product, and also more stable. Again, the two light sources pouring through frames of film...
 ```
-**Co-occurrences**: Logos, Like, Because, Only, Time, Light, Could, Anyhow, Just, Taoism, Again, Both, Empedocles, Although, Either, Great, Without, Nothing, Darkness, Their, More, Through, Heaven, Real, Universe, Would, Other, Were, Back, Under, Dark, Right
+**Co-occurrences**: Time, Logos, Like, Because, Only
 
 ---
 ### Line 756-764 (Match: 'Maybe')
@@ -324,7 +324,7 @@ The dream about James James certainly expressed what I saw in 3 74: with the Cre
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Form, James, Because, Only, Time, Harpax, Good, Light, Could, Anyhow, Again, Both, Empedocles, Although, Either, Great, Christos, Without, Tessa, Nothing, Darkness, Creator, Kathy, More, Another, Through, Real, Certainly, Universe, Would, Other, Creation, Were, Surely, Under, Many, Life, Dark, Dream, Right
+**Co-occurrences**: Time, Linear, Spirit, Holy, Logos, Holy Spirit, Form, James, Because, Only
 
 ---
 ### Line 764-772 (Match: 'Maybe')
@@ -341,6 +341,6 @@ The universe has now successfully progresses along far enough so that forward-mo
 
 I think a tremendous principle of conservation and balance was expressed in this dream. Kathy represented what I would deem the higher form of form-evolution; even so, I halted the forward-motion because the casuality was not acceptable to me. I noticed, and steeped forward. That time has come (e.g. "No, we will not allow our mentally deficient, our weaker races, our poor, our old, our helpless in general, to be sacrificed; the day of Rule by the Strong and healthy is over; the sick must be cared for, although perhaps not by the healthy but by someone coming here from Elsewhere.
 ```
-**Co-occurrences**: Form, Well, These, Perhaps, James, Like, Since, Fall, Because, Time, Harpax, Good, Even, Could, Anyhow, Reality, March, Although, Nothing, Kathy, Those, Most, Such, Certainly, Before, Universe, Will, Would, Creation, Very, Back, Surely, Have, Clearly, Life, Dream, Someone
+**Co-occurrences**: Time, Form, Well, These, Perhaps, James, Like, Since, Fall, Because
 
 ---

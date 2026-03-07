@@ -19,7 +19,7 @@ Last edit over 5 years ago by Harpax
 87
 Needs Review
 ```
-**Co-occurrences**: Christ, Christianity, Form, Well, Like, Parmenides, Because, Time, Harpax, Good, Mind, Even, Does, Realm, Again, Zagreus, Obviously, Atman, Although, Buddhism, Either, Great, Christos, Brain, Part, Such, Certainly, Death, Macro, Will, Deity, Would, Were, Very, Whatever, Many, Campbell, Have, Memory, Information, Instead, Form One, Except, Joseph, Dream
+**Co-occurrences**: Time, Information, Christ, Christianity, Form, Well, Like, Parmenides, Because
 
 ---
 ### Line 3137-3145 (Match: 'Brahman')
@@ -36,7 +36,7 @@ ONCE UPON A TIME there was a California golden groundsquirrel, who went running 
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Parousia, Golden, Lord, Perhaps, World, Since, Because, Time, After, Good, Mind, Light, Even, Karma, Could, Something, Once, Obviously, Self, Everything, Without, Grace, Brain, Still, Part, Another, Through, Such, Voice, Upon, Before, Universe, Finally, Will, Would, Other, Were, Back, Have, Later, Dream, Until
+**Co-occurrences**: Time, Christ, Spirit, Holy, Holy Spirit, Parousia, Golden, Lord, Perhaps, World, Since, Because
 
 ---
 ### Line 3815-3823 (Match: 'Brahman')
@@ -52,7 +52,7 @@ Last edit almost 5 years ago by etherfire
 2
 Needs Review
 ```
-**Co-occurrences**: Acts, Lord, Good, Everything, Creator, Real, Universe, Life, Body, Having
+**Co-occurrences**: Acts, Lord
 
 ---
 ### Line 3821-3829 (Match: 'Brahman')
@@ -69,7 +69,7 @@ Last edit almost 3 years ago by svayambhu108
 3
 Needs Review
 ```
-**Co-occurrences**: Christ, Xerox, Roman, World, Because, Only, Time, Karma, Maya, Atman, Divine, Without, Nothing, Brahmanism, Living, Real, Voice, Western, Universe, Were, Life, Except
+**Co-occurrences**: Time, Linear, Christ, Xerox, Roman, World, Because, Only
 
 ---
 ### Line 3827-3835 (Match: 'Brahman')
@@ -86,7 +86,7 @@ Last edit almost 3 years ago by svayambhu108
 4
 Needs Review
 ```
-**Co-occurrences**: Logos, Well, Like, World, Gnosis, Therefore, After, Buddha, Even, Does, Just, Look, Maya, Atman, Divine, Anamnesis, Part, Brahmanism, Real, Such, Upon, True, Death, Will, Other, Hindu, Back, Have, Life, Knowledge
+**Co-occurrences**: Anamnesis, Logos, Well, Like, World, Gnosis, Therefore
 
 ---
 ### Line 3833-3841 (Match: 'Brahman')
@@ -103,7 +103,7 @@ This is how the I [Ching anks?] - can [want?]. I, the coin, & the Boat & the con
 
 Last edit over 4 years ago by dstoerger
 ```
-**Co-occurrences**: Form, Wisdom, Lord, These, Like, World, Time, Good, Book, Does, Just, Again, Both, Reality, Atman, Girl, Divine, Nothing, Through, Most, Living, Finally, Other, Creation, Ching, Things, Remember, Knowledge, West, Answer
+**Co-occurrences**: Time, Form, Wisdom, Lord, These, Like, World
 
 ---
 ### Line 3841-3849 (Match: 'Brahman')
@@ -120,7 +120,7 @@ What is Brahman? (14) "the Great Possessor" : "He who possesses much" : "Firm - 
 
 Last edit over 4 years ago by dstoerger
 ```
-**Co-occurrences**: Only, Time, Earth, Good, Mind, Does, Both, Great, Those, Most, Heaven, Such, Ching, Very, Things, Evil
+**Co-occurrences**: Time, Only, Earth
 
 ---
 ### Line 3843-3851 (Match: 'Brahman')
@@ -137,7 +137,7 @@ Last edit over 4 years ago by dstoerger
 
 6
 ```
-**Co-occurrences**: Only, Time, Earth, Good, Mind, Does, Both, Great, Those, Most, Heaven, Such, Ching, Very, Things, Evil
+**Co-occurrences**: Time, Only, Earth
 
 ---
 ### Line 3848-3856 (Match: 'Brahman')
@@ -153,7 +153,7 @@ Maybe this is why I don't feel lonely - perhaps knowing I am part of the Living 
 
 Last edit over 4 years ago by sarcee
 ```
-**Co-occurrences**: Ubik, Perhaps, Maybe, Like, World, Only, Savior, Even, Could, Both, Reality, Although, Self, Probably, Without, Nothing, Part, Through, Living, Real, Western, Very, Beyond, Have, Things, Life, Sacred
+**Co-occurrences**: Ubik, Perhaps, Maybe, Like, World, Only
 
 ---
 ### Line 3850-3858 (Match: 'Brahman')
@@ -169,7 +169,7 @@ Last edit over 4 years ago by sarcee
 7
 Needs Review
 ```
-**Co-occurrences**: Ubik, Perhaps, Maybe, Like, World, Only, Savior, Even, Could, Both, Reality, Although, Self, Probably, Without, Nothing, Part, Through, Living, Real, Western, Very, Beyond, Have, Things, Life, Sacred
+**Co-occurrences**: Ubik, Perhaps, Maybe, Like, World, Only
 
 ---
 ### Line 3862-3870 (Match: 'Brahman')
@@ -186,7 +186,7 @@ Last edit almost 3 years ago by svayambhu108
 9
 Needs Review
 ```
-**Co-occurrences**: Maybe, Like, World, Since, Because, Only, Savior, Does, Both, Being, Atman, Self, Either, Probably, More, Soul, Such, Will, Would, Other, Somehow, Whatever, Many, Have, Clearly, Info
+**Co-occurrences**: Maybe, Like, World, Since, Because, Only
 
 ---
 ### Line 3868-3876 (Match: 'Brahman')
@@ -203,7 +203,7 @@ Last edit almost 3 years ago by svayambhu108
 10
 Needs Review
 ```
-**Co-occurrences**: Christ, Well, However, Perhaps, James, World, Because, Only, Savior, Even, Anyhow, Divine, Either, Without, Creator, Part, Brahmanism, Real, Certainly, Secret, Will, Somehow, Very, Have, Right
+**Co-occurrences**: Christ, Well, However, Perhaps, James, World, Because, Only
 
 ---
 ### Line 3874-3882 (Match: 'Brahman')
@@ -220,7 +220,7 @@ Last edit almost 3 years ago by svayambhu108
 
 11
 ```
-**Co-occurrences**: Ubik, Sophia, Fish, Well, Wisdom, Like, World, Since, After, Savior, Could, Just, Look, Again, Runciter, Atman, Himself, Great, Their, Star, Through, Ground, Gold, Upon, Would, Life, Dream, Chip
+**Co-occurrences**: Sophia, Ubik, Fish, Well, Wisdom, Like, World, Since
 
 ---
 ### Line 3879-3887 (Match: 'Brahman')
@@ -236,7 +236,7 @@ Last edit almost 3 years ago by svayambhu108
 12
 Needs Review
 ```
-**Co-occurrences**: Ubik, Kingdom, Roman, Perhaps, James, Like, World, Since, Iron, Prison, Only, Black, Kingdom of God, Both, Maya, Reality, Runciter, Black Iron Prison, Either, Palm, Their, Through, Living, Real, Actually, Universe, Creation, Have, Tree, Claudia, Evil, Iron Prison, Dream
+**Co-occurrences**: Ubik, Kingdom, Roman, Perhaps, James, Like, World, Since, Iron, Prison, Only
 
 ---
 ### Line 3893-3901 (Match: 'Brahman')
@@ -253,7 +253,7 @@ Last edit almost 3 years ago by svayambhu108
 14
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Kingdom, World, Iron, Prison, Only, After, Black, Savior, Good, Realm, Maya, Reality, Black Iron Prison, Daniel, Augustine, Palm, Nothing, Still, Part, Through, Real, Will, Other, Tree, Iron Prison
+**Co-occurrences**: Christ, Spirit, Kingdom, World, Iron, Prison, Only
 
 ---
 ### Line 3899-3907 (Match: 'Brahman')
@@ -270,7 +270,7 @@ Last edit over 4 years ago by dstoerger
 15
 Needs Review
 ```
-**Co-occurrences**: Kingdom, Perhaps, Father, Maybe, Because, Iron, Prison, Time, After, Black, Good, Even, Could, Does, Something, Maya, Reality, Self, Divine, Black Iron Prison, Without, Grace, Through, Revelation, Would, Were, Very, Back, Have, Journey, Remember, Knowledge, Greater, Iron Prison, Evidently, Free
+**Co-occurrences**: Time, Kingdom, Perhaps, Father, Maybe, Because, Iron, Prison
 
 ---
 ### Line 3922-3930 (Match: 'Brahman')
@@ -287,7 +287,7 @@ Last edit almost 3 years ago by svayambhu108
 19
 Needs Review
 ```
-**Co-occurrences**: Tears, Ubik, Xerox, Well, Maze, Like, World, Only, Time, Stigmata, Mind, Book, Could, Just, Once, Being, Girl, Through, Such, Secret, Before, True, Deity, Information, Likewise, Truth, Impostor, Evidently, Ptath, Right
+**Co-occurrences**: Time, Information, Tears, Ubik, Xerox, Well, Maze, Like, World, Only
 
 ---
 ### Line 3939-3947 (Match: 'Brahman')
@@ -303,7 +303,7 @@ Last edit almost 3 years ago by svayambhu108
 22
 Needs Review
 ```
-**Co-occurrences**: Christ, Ubik, Logos, Form, Sophia, James, Like, World, Only, Savior, Just, Adam, Again, Reality, Being, Atman, Himself, Anamnesis, Creator, Through, Such, Upon, True, Will, Were, Whatever, Have, Life, Memory, God Himself, Knowledge, Dream, Free, Pleroma
+**Co-occurrences**: Sophia, Anamnesis, Pleroma, Christ, Ubik, Logos, Form, James, Like, World, Only
 
 ---
 ### Line 3945-3953 (Match: 'Brahman')
@@ -320,7 +320,7 @@ Last edit almost 3 years ago by svayambhu108
 23
 Needs Review
 ```
-**Co-occurrences**: Christ, However, World, Since, Only, Time, Just, Maya, Atman, Divine, Great, Without, Nothing, Still, Part, More, Through, Such, Will, Deity, Things, Truth, Human, Right
+**Co-occurrences**: Time, Christ, However, World, Since, Only
 
 ---
 ### Line 3968-3976 (Match: 'Brahman')
@@ -336,6 +336,6 @@ Last edit almost 3 years ago by svayambhu108
 27
 Needs Review
 ```
-**Co-occurrences**: Spirit, Logos, Xerox, Form, World, Iron, Prison, Time, Black, Garden, Could, Black Iron Prison, Great, Palm, Their, More, Real, Certainly, Before, True, Universe, Would, Were, Very, Back, Have, Tree, Instead, Iron Prison, Final, Right
+**Co-occurrences**: Time, Linear, Spirit, Logos, Xerox, Form, World, Iron, Prison
 
 ---

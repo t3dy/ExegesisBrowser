@@ -20,7 +20,7 @@ Synchronized with this in time were: the publishing of TEARS, with the dream; an
 
 Ruffie Rat; that's what Tessa calls herself, also without realizing how these lives live on from the past.
 ```
-**Co-occurrences**: Tears, Ubik, These, Time, Tony, Without, Tessa, Soul, Easter, Macro, Parsifal, Were, Many, Life, Blood, Dead, Dream, Salvation, Lamb
+**Co-occurrences**: Time, Tears, Ubik, These
 
 ---
 ### Line 202-210 (Match: 'Fall')
@@ -37,7 +37,7 @@ I’ve enclosed two or three pictures of us… I do hope all goes well with you,
 
 With deep personal regards,
 ```
-**Co-occurrences**: Well, These, Like, World, Since, Good, Even, Just, Both, Tony, Although, Tessa, Still, Through, Living, Real, Such, Love, Will, Christopher, Would, Very, Have, Memory, Days, Having
+**Co-occurrences**: Well, These, Like, World, Since
 
 ---
 ### Line 248-256 (Match: 'Fall')
@@ -54,7 +54,7 @@ We used to play poker. Tony loved opera and poker and science fiction and myster
 
 Last edit over 5 years ago by Zebrapedia
 ```
-**Co-occurrences**: Roman, These, Maybe, Like, World, Since, Because, Only, Time, After, Good, Light, Even, Could, Zebrapedia, Just, Something, Once, Catholic, Tony, Although, Still, More, Through, Real, Love, Before, True, Universe, Will, Many, Tree, Remember, Electric, Sturgeon, Dead, Human, Right, Answer, Until
+**Co-occurrences**: Time, Zebrapedia, Roman, These, Maybe, Like, World, Since, Because, Only
 
 ---
 ### Line 339-347 (Match: 'Fall')
@@ -71,7 +71,7 @@ Last edit over 5 years ago by Siegman
 22
 Complete
 ```
-**Co-occurrences**: Complete, Kingdom, These, Like, Could, Zagreus, Christos, Anamnesis, Those, Their, Before, Would, Kingship, Things, Body, Suddenly
+**Co-occurrences**: Anamnesis, Complete, Kingdom, These, Like
 
 ---
 ### Line 764-772 (Match: 'Fall')
@@ -88,7 +88,7 @@ The universe has now successfully progresses along far enough so that forward-mo
 
 I think a tremendous principle of conservation and balance was expressed in this dream. Kathy represented what I would deem the higher form of form-evolution; even so, I halted the forward-motion because the casuality was not acceptable to me. I noticed, and steeped forward. That time has come (e.g. "No, we will not allow our mentally deficient, our weaker races, our poor, our old, our helpless in general, to be sacrificed; the day of Rule by the Strong and healthy is over; the sick must be cared for, although perhaps not by the healthy but by someone coming here from Elsewhere.
 ```
-**Co-occurrences**: Form, Well, These, Perhaps, Maybe, James, Like, Since, Because, Time, Harpax, Good, Even, Could, Anyhow, Reality, March, Although, Nothing, Kathy, Those, Most, Such, Certainly, Before, Universe, Will, Would, Creation, Very, Back, Surely, Have, Clearly, Life, Dream, Someone
+**Co-occurrences**: Time, Form, Well, These, Perhaps, Maybe, James, Like, Since, Because
 
 ---
 ### Line 912-920 (Match: 'Fall')
@@ -105,7 +105,7 @@ NB: The difference between Ghosticism and Neoplatonism is basically that (one) t
 
 . . I finally tied it all up: the phosphene graphics were exactly like the Auroras. Probably I thought of this already, but the significance escaped me. Pattern or blueprint -- the Logos. The Aurora is energy, in the ionosphere, is plasmic, and is involved with solar flares: is radiation. It acted as a cathode ray tube with my optic nerve as screen.
 ```
-**Co-occurrences**: Christ, Logos, Gnostic, Plotinus, Maybe, Like, Since, Harpax, Could, Something, Probably, Grace, Those, Still, Universe, Finally, Will, Creation, Were, Have, Whereas, Final
+**Co-occurrences**: Plotinus, Gnostic, Christ, Logos, Maybe, Like, Since
 
 ---
 ### Line 1024-1032 (Match: 'Fall')
@@ -122,7 +122,7 @@ Is it food for a seed already there? A seed which was never germinated? Been fed
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Parousia, However, Elijah, Father, Like, Because, Time, Harpax, After, Something, Once, Adam, Again, Zagreus, Being, Empedocles, Divine, Himself, Anamnesis, Without, More, Another, Upon, Actually, Fullerton, Certainly, Death, Universe, Would, Were, Back, Things, Life, Memory, Freedom, Jungian, Having, Remember, Unless, Dead, Suddenly, Mary
+**Co-occurrences**: Time, Anamnesis, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Parousia, However, Elijah, Father, Like, Because
 
 ---
 ### Line 1032-1040 (Match: 'Fall')
@@ -139,7 +139,7 @@ The transient quality of things, the loss of them into the past, is a diminution
 
 Like in the 3 pages I sent Angus. Palimpset. Well, if the past is within what we see (smaller concentric rings, constricted) perhaps one can reason that the future consists of larger rings that that which makes up our perceptual present; vide Plotinus. The next concentric ring of emanation would be the future...strange. Which we reach toward, and which recoprically reaches down to assist us (as I inferred about the "space people": they're from the past, to give help. Angels. They would come to us in dream-time, with visions of what is ahead, and this is why dreams are prophetic. And less dense, less constricted that the daytime Now ring.
 ```
-**Co-occurrences**: Ubik, Well, Perhaps, Plotinus, Like, World, Only, Time, Harpax, Could, Look, Again, Reality, Being, Everything, Himself, Great, Anamnesis, Nothing, Those, Their, Indian, Another, Real, Secret, Death, Universe, Would, Angel, Were, Very, Back, Things, Freedom, Dream, Track, Sacred
+**Co-occurrences**: Plotinus, Time, Anamnesis, Decoded, Ubik, Well, Perhaps, Like, World, Only
 
 ---
 ### Line 1096-1104 (Match: 'Fall')
@@ -155,7 +155,7 @@ Of course, their old actual bodies didn't reappear. My experience is that of how
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World
 
 ---
 ### Line 1161-1169 (Match: 'Fall')
@@ -171,7 +171,7 @@ Anyhow, this has been recast by God. The silence is broken. And I felt it that d
 
 . .
 ```
-**Co-occurrences**: Christ, Logos, Sophia, Wisdom, Perhaps, Because, Harpax, After, Mind, Light, Does, Anyhow, Both, Palm, Santa, Creator, Kathy, More, Certainly, Santa Sophia, Universe, Would, Other, Have, Body, Spring
+**Co-occurrences**: Sophia, Santa Sophia, Christ, Logos, Wisdom, Perhaps, Because
 
 ---
 ### Line 1256-1264 (Match: 'Fall')
@@ -188,7 +188,7 @@ Also, -tonos, on a lyre, is orthogonal to -tropos, the direction of force and mo
 
 When -tonos is achieved perfectly, it looks like nothing at all so much as nothing at all...we are deceived by the perfection of this equilibrium in the Unbounded, like cats who think cans of Catfood generate themselves...
 ```
-**Co-occurrences**: These, Like, Only, Time, Okay, Just, Both, Kosmos, Heraclitus, Being, Either, Nothing, Creator, More, Real, Secret, True, Will, Other, Egyptian, Have, Justice, Truth, Otherwise, Right
+**Co-occurrences**: Time, These, Like, Only
 
 ---
 ### Line 1335-1343 (Match: 'Fall')
@@ -205,7 +205,7 @@ In reading Helen Wadell's THE DESERT FATHERS -- from her definition it is sure t
 
 I have experienced what Jesus predicted: the change from one aeon to the next; and the next is rightful kingship, an improvement, a lifting of thrall by a[n] ursurper, somehow connected with C[h]ronos, Father Time (maybe the game of dr[o]ughts is ending; vide Heraclitus: the old child God, Chronos, playing a game of draughts in defined --regulated-- moves. That is the aeon which is ending; I saw that game, too, the player and counterplayer. This fulfills what Zoroaster foresaw: the end of the two-Person game, finally, in a victory of justice, truth, regulation, for ma'at; for Form One; for Light. This is the period Jesus, Paul and John compared to birthpangs, a laboring of bring forth; the whole universe and each sorrowing man being in such labor and pain...but if he could see the issue ahead! The Christian is he thinks of this world now, with its ursurpacious rule, feels bad; if he thinks of the rightful kingdom coming, he feels good -- thinks I mean of the future. But I say, this future is materializing, rising up as if a second new archetypal aeon "slide" were being projected: springtime. We can thus being to sense it lift now and rejoice now.
 ```
-**Co-occurrences**: Tears, Christian, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Because, John, Time, Harpax, Good, Light, Could, Again, Heraclitus, Being, Divine, Himself, Zoroaster, Those, Their, Most, Such, Secret, True, Universe, Finally, Will, Other, Somehow, Kingship, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+**Co-occurrences**: Time, Tears, Christian, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Because, John
 
 ---
 ### Line 1583-1591 (Match: 'Fall')
@@ -222,7 +222,7 @@ What I should do, forthwith, is examine my experience and then very carefully th
 
 (one) Perceptual acuity. Expressed in terms of the Spirit of Truth, the change makes it possible to not be deceived; one cannot be lied to; one sees into the ontological nature of things, and the falsity of words ceases to operate on him. ("An inability to be shucked," as I predicted the new kids would be.) I can theorize that this is accomplished by a sort of relief map achieved by the superimpsition of data processing by both hemispheres; data are compared and in some fashion the real or true or authentic is distinguished perceptually; maybe what agrees --that is, when both hemispheres agree, reach the same conclusion-- then the colors I saw are experienced. It literally looks different, even in print. Like 3-D compared to flat. This is almost an advance in the use of color for a fundamental perceptual purpose, not present employed. If Logos is defined as "the meaningful structure of reality," then this new or enhanced faculty of perception, this new ability to come to an absolutely accurate perception of what is so and what fails to be so, brings one closer to the logos, which is why I was convinced the logos was involved; it was, that is, I saw it.
 ```
-**Co-occurrences**: Spirit, Logos, Plato, Well, However, Perhaps, Maybe, Like, Only, Harpax, Mind, Even, Could, Both, Reality, Empedocles, Anamnesis, Those, Real, Such, Certainly, True, Would, Very, Have, Things, Whether, Truth
+**Co-occurrences**: Anamnesis, Spirit, Logos, Plato, Well, However, Perhaps, Maybe, Like, Only
 
 ---
 ### Line 1631-1639 (Match: 'Fall')
@@ -239,7 +239,7 @@ Ah! He is infusing (transubstantiating) the world more and more! Ontologically, 
 
 . . . The logos as meaningful structure of reality never went away. We (as H[eri]clitus describes) fell away from it into our idios kosmos, which is the Fall. We can't see the logos. Hence, the logos must, so to speak, come after us, following us, i.e. is born as a man here and speaks to us; calling us to be His sheep, he leads us back into relatedness with him as meaningful structure of reality; i.e. we enter the Kingdom of God. However, he came and we killed him and thus fell back away again. Now he is returning. We can't find Him; He must come to us; this indicates how blind we have become. Only when the logos talks to us outright do we become aware of it. Also, "meaningful structure of reality" equals "God's Wisdom" (Santa Sophia), which tells us a lot about the universe. "They are like people asleep/people in a dream," which might be the same as "with eyes closed" or "blind"! I am sure that in my case (3 74) I apprehended the logos because the logos actively caused me to; this would be The Savior intervening to render aid. The dying on the cross served to show us the absolute love He feels for us, and so was necessary, to get the message across to us. "No man hath greater love..."
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Logos, Holy Spirit, Form, Sophia, Kingdom, Paul, Golden, However, Wisdom, These, Elijah, Like, World, Since, Because, Therefore, Only, Time, After, Savior, Light, Pinky, Once, Again, Kingdom of God, Reality, Kosmos, Everything, Santa, Their, More, Through, Most, Living, Certainly, Love, Santa Sophia, Universe, Would, Other, Mission, Were, Very, Back, Have, Life, Absolute, Cross, Greater, Reformers, Dream, Right
+**Co-occurrences**: Sophia, Time, Santa Sophia, Tears, Spirit, Holy, Logos, Holy Spirit, Form, Kingdom, Paul, Golden, However, Wisdom, These, Elijah, Like, World, Since, Because, Therefore, Only
 
 ---
 ### Line 1633-1641 (Match: 'Fall')
@@ -256,7 +256,7 @@ Ah! He is infusing (transubstantiating) the world more and more! Ontologically, 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Logos, Form, Sophia, Kingdom, Paul, Golden, However, Wisdom, Like, World, Because, Therefore, Only, Time, Harpax, After, Savior, Light, Pinky, Once, Again, Kingdom of God, Reality, Kosmos, Everything, Santa, Their, More, Through, Most, Living, Love, Santa Sophia, Universe, Would, Other, Back, Have, Absolute, Cross, Greater, Dream, Right
+**Co-occurrences**: Sophia, Time, Santa Sophia, Logos, Form, Kingdom, Paul, Golden, However, Wisdom, Like, World, Because, Therefore, Only
 
 ---
 ### Line 1635-1643 (Match: 'Fall')
@@ -273,7 +273,7 @@ Last edit over 5 years ago by Harpax
 
 116
 ```
-**Co-occurrences**: Logos, Sophia, Kingdom, Paul, Golden, However, Wisdom, Like, World, Because, Therefore, Only, Harpax, After, Savior, Light, Pinky, Once, Again, Kingdom of God, Reality, Kosmos, Santa, Their, More, Most, Love, Santa Sophia, Universe, Would, Back, Have, Absolute, Cross, Greater, Dream, Right
+**Co-occurrences**: Sophia, Santa Sophia, Logos, Kingdom, Paul, Golden, However, Wisdom, Like, World, Because, Therefore, Only
 
 ---
 ### Line 1775-1783 (Match: 'Fall')
@@ -290,7 +290,7 @@ So what I've done (supra) is change the question from, How come I could experien
 
 . . The pyramid with the eye -- the eye through which the light body re-enters a human body; only one (Christ) was needed to start it.
 ```
-**Co-occurrences**: Christ, Ubik, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, However, Wisdom, Perhaps, Like, World, Parmenides, Therefore, Only, Paraclete, Book, Light, Could, Again, Kingdom of God, Reality, Kosmos, Being, Although, Great, Viewed, Without, Still, Their, More, Through, Most, Living, Heaven, Real, Actually, Before, Will, Would, Other, Somehow, Back, Many, Campbell, Have, Body, Instead, Having, Joseph, Dead, During, Human, Joseph Campbell, Right, Answer
+**Co-occurrences**: Thomas, Sophia, Saint Sophia, Christ, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, However, Wisdom, Perhaps, Like, World, Parmenides, Therefore, Only
 
 ---
 ### Line 1777-1785 (Match: 'Fall')
@@ -307,7 +307,7 @@ So what I've done (supra) is change the question from, How come I could experien
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, However, Wisdom, Perhaps, Like, World, Parmenides, Therefore, Only, Harpax, Paraclete, Book, Light, Could, Again, Kingdom of God, Reality, Kosmos, Being, Although, Great, Viewed, Without, Still, Their, More, Through, Most, Living, Heaven, Real, Actually, Before, Will, Would, Other, Somehow, Back, Many, Campbell, Have, Body, Instead, Having, Joseph, Dead, During, Human, Joseph Campbell, Right, Answer
+**Co-occurrences**: Thomas, Sophia, Saint Sophia, Christ, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, However, Wisdom, Perhaps, Like, World, Parmenides, Therefore, Only
 
 ---
 ### Line 1967-1975 (Match: 'Fall')
@@ -324,7 +324,7 @@ Last edit over 5 years ago by Harpax
 144
 Needs Review
 ```
-**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Empire, Roman, World, Because, Prison, Only, Earth, Harpax, House, Sibyl, Those, Still, Their, Heaven, Real, Actually, Secret, Would, Other, Have, Evil, Government, Suddenly, Dream, Until
+**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Empire, Roman, World, Because, Prison, Only, Earth
 
 ---
 ### Line 2040-2048 (Match: 'Fall')
@@ -341,6 +341,6 @@ Last edit over 5 years ago by Harpax
 150
 Needs Review
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Form, Father, World, Since, Only, Earth, Harpax, Garden, Mind, Hebrew, Just, Again, Jesus Christ, Moses, Probably, Nothing, Creator, Part, Their, Star, Through, Egypt, Gold, Voice, Love, Before, True, Yahweh, Other, Creation, Page, Were, Back, Have, Things, Justice, Dead, Suddenly, Greater, Dream, Doesn
+**Co-occurrences**: Christ, Logos, Jesus, Form, Father, World, Since, Only, Earth
 
 ---

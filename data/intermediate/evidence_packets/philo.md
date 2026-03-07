@@ -19,7 +19,7 @@ UBIK does indeed to resemble Dr. NK's time theory that one knowing his time theo
 
 However, it is equally probable that in March 1974 an actual concerted telepathic transmission effort was made in Leningrad vis-a-vis me and my ideas, perhaps to test out and see if I was telepathically sensitive.
 ```
-**Co-occurrences**: Ubik, Logos, Christianity, However, These, Perhaps, Time, Harpax, Even, Could, Does, Being, March, Probably, Their, Would, Back, Many, Life, Information, Later, Knowledge, Salvation, Evidently
+**Co-occurrences**: Time, Information, Ubik, Logos, Christianity, However, These, Perhaps
 
 ---
 ### Line 1156-1164 (Match: 'Philo')
@@ -36,7 +36,7 @@ Last edit over 5 years ago by Harpax
 
 81
 ```
-**Co-occurrences**: Christ, Spirit, Logos, Sophia, However, Wisdom, These, Perhaps, Maybe, Since, Prison, Only, John, Earth, Harpax, Could, Anyhow, Just, Something, Again, Being, Although, Christos, Santa, Without, Nothing, Brain, Those, Part, More, Another, Heaven, Such, Certainly, Before, Consider, True, Santa Sophia, Will, Would, Other, Messiah, Were, Back, Whatever, Have, Later, Having, Knowledge, Suddenly, Dream, Free, Right, Mary
+**Co-occurrences**: Sophia, Santa Sophia, Decoded, Christ, Spirit, Logos, However, Wisdom, These, Perhaps, Maybe, Since, Prison, Only, John, Earth
 
 ---
 ### Line 2663-2671 (Match: 'Philo')
@@ -53,7 +53,7 @@ Well, dear, I hope you get some comfort from what I've quoted. I have been readi
 
 ". . .For in wisdom there is a spirit intelligent and holy, unique in its kind yet made up of many parts, subtle, free-moving, lucid, spotless, clear, invulnerable, loving what is good, eager, unhindered, beneficent, kindly towards men, steadfast, unerring, untouched by care, all-powerful, all-surveying, and permeating all intelligent, pure and delicate spirits. For wisdom moves more easily than motion itself, she pervades and permeates all things because she is so pure. Like a fine mist she rises from the power of God, a pure effluence from the glory of the Almighty; so nothing defiled can enter her by stealth. She is the brightness that streams from everlasting light, the flawless mirror of the active power of God and the image of his goodness. She is but one, yet can do everything; herself unchanging, she makes all things new; age after age she enters into holy souls, and makes them God's friends and prophets, for nothing is acceptable to God but the man who makes his home with wisdom. . ."
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Form, Sophia, Greek, Well, Wisdom, Like, Because, John, Time, Earth, After, Holy Wisdom, Good, Book, Light, Hebrew, Just, Something, Again, Jesus Christ, Everything, Great, Nothing, Their, More, Gold, Love, True, Will, Many, Have, Things, Dead, Free, Right
+**Co-occurrences**: Sophia, Time, Christ, Spirit, Holy, Logos, Jesus, Form, Greek, Well, Wisdom, Like, Because, John, Earth
 
 ---
 ### Line 2665-2673 (Match: 'Philo')
@@ -70,7 +70,7 @@ Well, dear, I hope you get some comfort from what I've quoted. I have been readi
 
 Isn't this beautiful, this description. And she is alive, the Logos, our Savior. Expressed here in the first complete form, before Christ. I am sure, Doris, that she is the active spirit which came to me last
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Complete, Form, Sophia, Greek, Well, Wisdom, Like, Because, John, Time, Earth, After, Savior, Holy Wisdom, Good, Book, Light, Hebrew, Something, Again, Jesus Christ, Everything, Great, Nothing, More, Before, Doris, Many, Have, Things, Free, Right
+**Co-occurrences**: Sophia, Time, Christ, Spirit, Holy, Logos, Jesus, Complete, Form, Greek, Well, Wisdom, Like, Because, John, Earth
 
 ---
 ### Line 5222-5230 (Match: 'Philo')
@@ -87,7 +87,7 @@ Last edit almost 3 years ago by svayambhu108
 64
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Like, World, Therefore, Mind, Even, Something, Again, Being, Hegel, Divine, Without, Nothing, Still, More, Through, Most, Before, Would, Back, Beyond, Things, Absolute, Freedom, Unless, Knowledge, Truth, Human, Until
+**Co-occurrences**: Hegel, Christ, Spirit, Like, World, Therefore
 
 ---
 ### Line 5329-5337 (Match: 'Philo')
@@ -104,7 +104,7 @@ The Ency. of philo. says that "the Kingdom" is the same as "heaven" (but occurri
 
 When put in place, our minds may not be identical with Zebra's, but rather subsections ("cells" or "parts") informed (i.e. programmed & guided) by Zebra on a subliminal (for us) level. At least while still physically alive &/or before assimilation is complete (i.e. before the 2nd incarnation). That period when Zebra's VP & mind replaced mine seems to resemble what [usually only] occurs after death. Well, in that case, since the after-death "place" is "heaven," & "heaven" equals the Kingdom, I was, at that time in the Kingdom - but it has not yet been established here in the sublunar realm since complete abolition of the sundered is yet future. But for me to enter the Kingdom (i.e. heaven) at all while still here shows how near - close - it is.
 ```
-**Co-occurrences**: Zebra, Complete, Kingdom, Well, These, Maybe, World, Since, Because, Only, Time, After, Mind, Could, Realm, Being, Christi, Although, Divine, Corpus, Still, Part, More, Corpus Christi, Heaven, Real, Dick, Before, Death, Universe, Page, Have, Having, During
+**Co-occurrences**: Zebra, Time, Complete, Kingdom, Well, These, Maybe, World, Since, Because, Only
 
 ---
 ### Line 5814-5822 (Match: 'Philo')
@@ -121,7 +121,7 @@ Last edit less than 20 seconds ago by Gabriel Mckee
 7
 Needs Review
 ```
-**Co-occurrences**: Advent, World, Because, Time, Gabriel, Mckee, Gabriel Mckee, Could, Diagram, Their, Real, Macro, Would, Life, Doesn
+**Co-occurrences**: Time, Advent, World, Because
 
 ---
 ### Line 5832-5840 (Match: 'Philo')
@@ -138,7 +138,7 @@ Last edit almost 3 years ago by svayambhu108
 10
 Needs Review
 ```
-**Co-occurrences**: Ubik, Rome, King, Maze, Maybe, World, Since, Because, Therefore, Time, After, Savior, Could, Does, Something, Once, Again, Being, Runciter, Himself, Those, Before, True, Death, Macro, Would, Were, Meanwhile, Have, Memory, Information, Having, Truth
+**Co-occurrences**: Time, Information, Ubik, Rome, King, Maze, Maybe, World, Since, Because, Therefore
 
 ---
 ### Line 6501-6509 (Match: 'Philo')
@@ -154,7 +154,7 @@ Last edit almost 3 years ago by svayambhu108
 52
 Needs Review
 ```
-**Co-occurrences**: Valis, Tears, Zebra, Sophia, Gnostic, Gnosticism, Perhaps, Advent, James, World, Fall, Prison, Only, Time, Good, St Sophia, Does, Being, Himself, Either, Grace, Creator, Through, Such, Secret, Revelation, True, Deity, Would, Other, Further, Knowledge, During, Dream, Evidently, Right
+**Co-occurrences**: Gnosticism, Valis, Zebra, Sophia, Gnostic, Time, St Sophia, Linear, Tears, Perhaps, Advent, James, World, Fall, Prison, Only
 
 ---
 ### Line 7019-7027 (Match: 'Philo')
@@ -171,8 +171,7 @@ Last edit 8 months ago by Zebrapedia
 folder 32 - 005
 Indexed
 ```
-**Co-occurrences**: Acts, Indexed, Gnostic, Fish, Well, Golden, These, Perhaps, World, Because, Golden Fish, Prison, Only, Folder, Mind, Could, Does, Zebrapedia, Just, Look, Once, Both, Reality, Being, Divine, Probably, Without, Indexed
-Folder, More, Such, Upon, True, Finally, Will, Would, Were, Back, Have, Body, Knowledge, Truth, Otherwise, Evidently
+**Co-occurrences**: Gnostic, Zebrapedia, Acts, Indexed, Fish, Well, Golden, These, Perhaps, World, Because, Golden Fish, Prison, Only
 
 ---
 ### Line 7025-7033 (Match: 'Philo')
@@ -189,8 +188,7 @@ Now the incredible accuracy of UBIK can be appreciated. The world is not merely 
 
 Were the Gnostic triune division wrong, my writing would serve a malign, sick purpose: leading the reader away from reality and toward autism. But the Gnostic triune division is correct; otherwise I could not, would not, have had my 2-74 and 3-74 et al experiences. As the
 ```
-**Co-occurrences**: Valis, Tears, Ubik, Indexed, Spirit, Holy, Zebra, Logos, Holy Spirit, Gnostic, Maze, Perhaps, Father, Like, World, Only, Folder, Stigmata, Could, Does, Zebrapedia, Reality, Being, Runciter, Divine, Without, Indexed
-Folder, Nothing, Creator, Their, More, Another, Through, Such, True, Deity, Would, Other, Were, Back, Beyond, Under, Have, Later, Suddenly, Otherwise, Dream, Evidently, Whereas, Chip, Sacred
+**Co-occurrences**: Valis, Zebra, Gnostic, Zebrapedia, Tears, Ubik, Indexed, Spirit, Holy, Logos, Holy Spirit, Maze, Perhaps, Father, Like, World, Only
 
 ---
 ### Line 7044-7052 (Match: 'Philo')
@@ -207,7 +205,7 @@ Last edit over 9 years ago by cfr5005
 folder 32 - 007
 Complete
 ```
-**Co-occurrences**: Christ, Ubik, Zebra, Complete, Form, Gnostic, Gnosticism, However, Perhaps, Like, World, Cosmic, Folder, Paraclete, Cosmic Christ, Light, Could, Anyhow, Just, Something, Reality, Being, Divine, Either, Viewed, Those, Through, Living, Real, Such, Revelation, True, Other, Were, Beyond, Have, Information, Having, Remember, Greater, Human, Whereas
+**Co-occurrences**: Gnosticism, Zebra, Gnostic, Information, Christ, Ubik, Complete, Form, However, Perhaps, Like, World
 
 ---
 ### Line 7062-7070 (Match: 'Philo')
@@ -224,8 +222,7 @@ When I recently reread STIGMATA I saw it for what it was: a penetrating, acute a
 
 Last edit 8 months ago by Zebrapedia
 ```
-**Co-occurrences**: Christian, Ubik, Indexed, Zebra, Form, Plato, Gnostic, Fish, Gnosticism, Golden, However, Maze, Like, World, Gnosis, Therefore, Golden Fish, Time, Folder, Stigmata, Good, Even, Could, Does, Zebrapedia, Just, Something, Reality, Being, Runciter, Although, Indexed
-Folder, Eucharist, Those, Still, Their, Church, Another, Through, Real, Certainly, Secret, Revelation, True, Deity, Other, Were, Very, Back, Beyond, Whatever, Have, Information, Days, Whether, Evil, Knowledge, Human, Chip, Until
+**Co-occurrences**: Gnosticism, Zebra, Gnostic, Time, Zebrapedia, Information, Christian, Ubik, Indexed, Form, Plato, Fish, Golden, However, Maze, Like, World, Gnosis, Therefore, Golden Fish
 
 ---
 ### Line 7113-7121 (Match: 'Philo')
@@ -242,7 +239,7 @@ Brings in Stigmata (and transubstantiation), Maze as well. p. 8-9 are in Sutin, 
 
 Selections: p. 1-6, from the beginning of para. 2 to “… Runciter’s messages manifesting themselves in Ubik”. Main reasons: the “lopped-off vine” vision/idea, which I haven’t seen elsewhere, on p. 2; the well-described ham sandwich model on p. 5. If we have those elsewhere, then there’s not terribly much reason to include this section.
 ```
-**Co-occurrences**: Ubik, Well, Gnosticism, Maze, Stigmata, Good, Soviet, Runciter, Those, Through, Very, Whatever, Have, Information, Days, Until
+**Co-occurrences**: Gnosticism, Information, Ubik, Well, Maze
 
 ---
 ### Line 7404-7412 (Match: 'Philo')
@@ -259,7 +256,7 @@ Last edit almost 3 years ago by svayambhu108
 5
 Needs Review
 ```
-**Co-occurrences**: Christ, Ubik, Gnostic, Scanner, World, Since, Gnosis, Fall, Iron, Prison, Black, Book, Runciter, Although, Black Iron Prison, Those, Through, Real, Revelation, Judge, Were, Beyond, Things, Judgment, Information, Info, Days, Government, Knowledge, Iron Prison, Final, Sacred
+**Co-occurrences**: Gnostic, Information, Christ, Ubik, Scanner, World, Since, Gnosis, Fall, Iron, Prison
 
 ---
 ### Line 10898-10906 (Match: 'Philo')
@@ -276,7 +273,7 @@ Last edit almost 3 years ago by svayambhu108
 24
 Needs Review
 ```
-**Co-occurrences**: Christ, Logos, Sophia, Perhaps, World, Since, Therefore, Good, St Sophia, Does, Just, Both, Hagia, Hagia Sophia, Divine, Either, Great, Sibyl, Through, Voice, Revelation, Mother, Universe, Will, Would, Have, Evil
+**Co-occurrences**: Sophia, St Sophia, Hagia Sophia, Christ, Logos, Perhaps, World, Since, Therefore
 
 ---
 ### Line 20679-20687 (Match: 'Philo')
@@ -293,7 +290,7 @@ Last edit almost 3 years ago by svayambhu108
 4
 Needs Review
 ```
-**Co-occurrences**: Valis, Tears, Acts, Ubik, Form, World, Gabriel, Mckee, Gabriel Mckee, Faith, Pythagoras, Mind, Hermetic, Even, Could, Both, Reality, Kosmos, Girl, Voice, Macro, Would, Other, Back, Whatever, Knowledge, Magic
+**Co-occurrences**: Valis, Hermetic, Tears, Acts, Ubik, Form, World
 
 ---
 ### Line 21089-21097 (Match: 'Philo')
@@ -310,7 +307,7 @@ Last edit almost 3 years ago by svayambhu108
 74
 Needs Review
 ```
-**Co-occurrences**: Christ, Acts, Ubik, Logos, Form, Sophia, King, Torah, Felix, Bible, Perhaps, Like, Joint, King Felix, Just, Reality, Being, Self, Girl, Divine, Great, Probably, Through, Soul, Shekhina, Most, Living, Would, Other, Journey, Life, Body, Dark, Information, Right
+**Co-occurrences**: Sophia, Information, Christ, Acts, Ubik, Logos, Form, King, Torah, Felix, Bible, Perhaps, Like
 
 ---
 ### Line 21263-21271 (Match: 'Philo')
@@ -327,7 +324,7 @@ Last edit almost 3 years ago by svayambhu108
 104
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Logos, Form, Kingdom, World, Since, Therefore, Time, Mind, Even, Just, Realm, Kingdom of God, Platonic, Divine, Ground, Such, Actually, Information, Instead, Upper, Lower, Right
+**Co-occurrences**: Time, Information, Christ, Tears, Ubik, Logos, Form, Kingdom, World, Since, Therefore
 
 ---
 ### Line 21495-21503 (Match: 'Philo')
@@ -344,6 +341,6 @@ Last edit almost 3 years ago by svayambhu108
 144
 Needs Review
 ```
-**Co-occurrences**: Valis, Ubik, Logos, Form, Gnostic, These, Fall, Only, Mind, Light, Could, Does, Once, Reality, Platonic, Divine, Probably, Nothing, Those, Part, Universe, Will, Would
+**Co-occurrences**: Valis, Gnostic, Entropy, Ubik, Logos, Form, These, Fall, Only
 
 ---

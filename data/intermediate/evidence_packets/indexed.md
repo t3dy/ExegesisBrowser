@@ -20,7 +20,7 @@ never realized the analog between my seeing Rome, then the Hellenistic World, th
 
 I saw the Parousia, and I couldn't have unless they actually took place (I didn't know enough to hallucinate them accurately). Did they take place? Has the Kingdom arrived? I say Yes it has, certainly in the sense that the Brit 3 macro says about Jesus Christ's message about it. Not only is it real, it has arrived; the Day of Wrath -- I think it is not a mere personal trip which I went though but which we all went through (toppling Nixon was not in my head, nor what Nixon had been doing). Which part was on my head? Only the realization of what it meant, these historical events, and I didn't realize.
 ```
-**Co-occurrences**: Christ, Ubik, Toso, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Time, Nixon, Even, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Toso, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Nixon
 
 ---
 ### Line 141-149 (Match: 'Indexed')
@@ -37,7 +37,7 @@ It’s odd that I recall the sizzling rope of poppies in the snow so clearly and
 
 Magic equals life equals warmth equals poppies. Now, poppies are an exotic flower, with intense colors, identified with foreign lands (this I’m sure is why Ms. Fisher chose them).
 ```
-**Co-occurrences**: Ubik, However, Perhaps, Like, Since, Because, Good, Book, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Truth, Magic, Otherwise, Doesn, Mary
+**Co-occurrences**: Zebrapedia, Phil, Ubik, However, Perhaps, Like, Since, Because
 
 ---
 ### Line 155-163 (Match: 'Indexed')
@@ -54,7 +54,7 @@ They are going to find that orthogonal axis, Claudia, and when they do, they wil
 
 Ground equals WHERE Set equals WHAT
 ```
-**Co-occurrences**: Thomas, Bible, Like, Since, Time, Book, Zebrapedia, Something, Ground, Will, Would, Have, Claudia, Testament, Otherwise, Chip
+**Co-occurrences**: Thomas, Time, Zebrapedia, Bible, Like, Since
 
 ---
 ### Line 190-198 (Match: 'Indexed')
@@ -71,7 +71,7 @@ March 2, 1975
 
 Mrs. Phyllis Boucher 2643 Dana St. Berkeley, Calif.
 ```
-**Co-occurrences**: World, Time, Earth, Gabriel, Mckee, Gabriel Mckee, March, Calif, Before, Back, Berkeley
+**Co-occurrences**: Time, World, Earth
 
 ---
 ### Line 212-220 (Match: 'Indexed')
@@ -88,7 +88,7 @@ Dear Tony,
 
 Enclosed is the piece I’ve been working my ass off for The Real World. I’m glad you liked Tessa’s poem, and that as you say you’re going to publish it in the next issue, but that sort of puts pressure on me to come through – I’ve been on this piece like as of today 7:30 a.m. at the typewriter. You asked for “short.” What is short? I kept it short, I hope short enough. I offer you two possibilities if you wish to cut it:
 ```
-**Co-occurrences**: Like, World, Zebrapedia, Tony, Philip, Tessa, Through, Real, Dick, Fullerton, Calif, Today
+**Co-occurrences**: Zebrapedia, Philip, Like, World
 
 ---
 ### Line 242-250 (Match: 'Indexed')
@@ -105,7 +105,7 @@ Handwritten notes in PKD’s hand: A Light struck meadow for Tony Hiss & the Rea
 
 When I met Theodore Surgeon, who wrote MORE THAN HUMAN, this good man said to me right off, “What sort of universe is it that causes a man like Tony Boucher to die of cancer?” I had been wondering the same thing ever since Tony Boucher died. So had Ted Sturgeon, although he didn’t expect me to give an answer. He just wanted to show me what he – Ted Sturgeon – was like. I’ve found I can do that, too; let people know about me by asking that. It shows that I cared a lot about one of the warmest people who ever lived. Tony was warm and at the same time when he stood in the midst of a group of people, seat came out of his forehead from fear. Nobody ever wrote that about him but it’s true. He was terrified all the time. He told me so once, not in so many words. He loved people, but one time I met him on the electric train going to be opera and he was scared. He was music critic and he did reviewing for the New York Times and edited a magazine and wrote novels and stories. But he was scared to take a drive across town.
 ```
-**Co-occurrences**: Toso, Like, World, Since, Time, Good, Light, Just, Once, Tony, Although, Philip, More, Real, Dick, Fullerton, Calif, True, Universe, Many, Tree, Electric, Sturgeon, Human, Right, Answer
+**Co-occurrences**: Time, Philip, Toso, Like, World, Since
 
 ---
 ### Line 254-262 (Match: 'Indexed')
@@ -122,7 +122,7 @@ food just when it’s ripe and perfect. The dog tries to warn the family, but it
 
 However, Tony is still alive, I discovered last year. My cat had begun to behave in an odd way, keeping watch over me in a quiet fashion, and I saw that he had changed. This was after he ran away and came back, wild and dirty, crapping on the rug in fear; we took him to the vet and the vet calmed him down and healed him. After that Pinky had what I call a spiritual quality, except that he wouldn’t eat meat. He would tremble whenever we tried to feed it to him. For five months he’d been lost, living in the gutter, seeing god knows what; I wish I knew. Anyhow when he was changed – in the twinkling of an eye; that is, while at the vet – he wouldn’t ever do anything cruel. Yet I knew Pinky was afraid, because once I almost shut the refrigerator door on him and he did a 3 cushion bank shot of himself off the walls to escape, and clocked a velocity unusual for a pink sheep thing that usually just sat and gazed ahead. Pinky had trouble breathing because of his heavy fur and what they call hairballs. Tony had asthma terribly and needed it cold. Pinky would sit by the door to get the cold air from under the crack, and struggle to breathe. I will not write a teaser article here; Pinky died of cancer suddenly; he was three years old; very young for a cat. It was totally unexpected. The vet diagnosed it as something else.
 ```
-**Co-occurrences**: However, These, Maybe, Like, Because, Only, After, Good, Even, Could, Pinky, Anyhow, Zebrapedia, Just, Something, Once, Tony, Himself, Those, Still, Living, Love, Universe, Will, Would, Very, Back, Under, Have, Days, Remember, Except, Sturgeon, Suddenly, Until
+**Co-occurrences**: Zebrapedia, However, These, Maybe, Like, Because, Only
 
 ---
 ### Line 4017-4025 (Match: 'Indexed')
@@ -139,7 +139,7 @@ Indexed
 
 The retrieved memories show that I came here originally "from the heavens." But I can't really say when. There is some reason to think that I lived a previous life during Greco-Roman times, but it is equally possible that my vision of that Black Iron prison world is actually a vision of this society, 1974 USA, seen from a more accurate view point. (is even sub specia aeternitatis), + there is, besides, the possibility that the vision is of one of two alternate futures.
 ```
-**Co-occurrences**: Tears, Ubik, Form, Gnostic, Roman, Like, World, Iron, Prison, Time, Black, Good, Even, Zebrapedia, Being, Everything, Black Iron Prison, Himself, Frolix, Either, Palm, Anamnesis, Without, Greco, More, Most, Such, Actually, Certainly, True, Finally, Would, Mission, Were, Have, Tree, Life, Remember, Knowledge, Today, Impostor, During, Iron Prison, Evidently, Someone, Until
+**Co-occurrences**: Gnostic, Time, Zebrapedia, Anamnesis, Tears, Ubik, Form, Roman, Like, World, Iron, Prison
 
 ---
 ### Line 4031-4039 (Match: 'Indexed')
@@ -156,7 +156,7 @@ Indexed
 
 What I'm faced with at this point is the realization that I cannot really explain or comprehend what happened to me, + perhaps I never will. There are Jungian explanations, S-F explanations, occult explanations, plus ones I probably haven't thought of. But will. A power + entity as vast as the one I encountered in me + around me - if it doesnt deserve the name God I dont know what term to use for it.
 ```
-**Co-occurrences**: Gnosticism, Perhaps, Like, World, Fall, Because, Iron, Prison, After, Black, Garden, Platonism, Zebrapedia, Once, Divine, Black Iron Prison, Probably, Palm, Anamnesis, Another, Such, Before, Death, Will, Other, Back, Tree, Things, Memory, Jungian, India, Later, Iron Prison, Salvation, Evidently
+**Co-occurrences**: Gnosticism, Zebrapedia, Anamnesis, Perhaps, Like, World, Fall, Because, Iron, Prison
 
 ---
 ### Line 4545-4553 (Match: 'Indexed')
@@ -173,7 +173,7 @@ Indexed
 
 At the time I recieved intervention I rose up out of the deterministic catogories, and, freed from them and able to see things at work (on me, and everywhere) I was astounded - that's why I described myself as a machine; it was so - had been, anyhow. The party and the Xerox letter were part of that - for me, anyhow. Evidently the different or other universe I was switched over to (from the Black iron prison which equals - is a vision of - the (our) deterministic blind world) was to enter Zebra. The palm tree world is the vision of that; evidently as the first equals Rome the second equals kindgdom of God/Christ.
 ```
-**Co-occurrences**: Christ, Zebra, Xerox, Rome, Fish, Well, World, Iron, Prison, Time, Black, Gabriel, Mckee, Gabriel Mckee, Even, Anyhow, Being, Christi, Divine, Black Iron Prison, Corpus, Great, Palm, Grace, Part, Corpus Christi, Living, Before, Universe, Other, Were, Very, Have, Tree, Things, Body, Freedom, Instead, Magic, Iron Prison, Salvation, Evidently, Right, Ananke, White
+**Co-occurrences**: Zebra, Time, Christ, Xerox, Rome, Fish, Well, World, Iron, Prison
 
 ---
 ### Line 5337-5345 (Match: 'Indexed')
@@ -190,7 +190,7 @@ How many humans in history have actually, even briefly, literally passed over in
 
 The true secret of authentic early xtianity was not just pointing to the divine Kingdom ahead in the next life, as the mystery religions did, but actually putting you across into it now, while still alive. Evidently this was/is done by a theolepsy with Christ who has himself died & hence passed over yet in a secret way is - uniquely - still here!
 ```
-**Co-occurrences**: Christ, Zebra, Complete, Christianity, Kingdom, Well, Since, Only, Time, After, Mind, Even, Zebrapedia, Just, Realm, Divine, Himself, Still, Heaven, Actually, Secret, Before, True, Death, Page, Many, Have, Life, Evidently
+**Co-occurrences**: Zebra, Time, Zebrapedia, Christ, Complete, Christianity, Kingdom, Well, Since, Only
 
 ---
 ### Line 5347-5355 (Match: 'Indexed')
@@ -207,7 +207,7 @@ Page 3
 
 3/5 635.89 Lloyds
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Roman, Therefore, Only, Mind, Firebright, Zebrapedia, Just, Both, Although, Still, Their, Through, Heaven, Actually, Page, Back
+**Co-occurrences**: Firebright, Zebrapedia, Spirit, Holy, Holy Spirit, Roman, Therefore, Only
 
 ---
 ### Line 5386-5394 (Match: 'Indexed')
@@ -224,7 +224,7 @@ Page 4
 
 In reading the screenplay of "North by Northwest" I all at once realize that 3-74 resolved (annihilated) my paranoia in an extraordinary & amazing way.
 ```
-**Co-occurrences**: Ubik, Toso, Could, Once, Other, Page
+**Co-occurrences**: Ubik, Toso
 
 ---
 ### Line 5404-5412 (Match: 'Indexed')
@@ -241,7 +241,7 @@ Reach into my col. unconsc. for new potentialities, & establish a broader, non-d
 
 All of the above is true. When I read "North by Northwest" I suddenly could recall the paranoia world I had been "inhabiting" prior to my phonecall to the Bureau on 3/20/74. I used to live in the world of this screenplay. That is why I was constantly afraid (esp. at night): I feared "they" would break in & get me. What I did was incredible: I turned toward the group I believed was persecuting me for help. {{i.e.}} I converted my fear & hate & suspicion into "love," so to speak. I loved them; they ceased to be alien, hostile strangers & became (in my mind) needed, supportive father-figure friends.
 ```
-**Co-occurrences**: Complete, Form, Father, World, Because, John, After, Gabriel, Mckee, Gabriel Mckee, Mind, Could, Anyhow, Bureau, Part, More, Love, True, Would, Page, Days, Magic, Suddenly, Free
+**Co-occurrences**: Complete, Form, Father, World, Because, John
 
 ---
 ### Line 5676-5684 (Match: 'Indexed')
@@ -258,7 +258,7 @@ Indexed
 
 Thus the single sentence "St Sophia will be born again; she was not acceptable before" opens up + unlocks everything; i.e. the vast + beautiful mystery of the Trinity, + confirms it all. 1) The sentence shows her to be Christ, beyond any doubt (as the RCC + JWs et al. agree). 2) Yet, who spoke those words? A: the Holy Spirit, who, I think, was she also. + Zebra, what I saw - was that Christ, reuniting the "decomposing universe into an organism with himself as head" - was Zebra not imminent deity? Which is to say God? The 3 of them flow back + forth into each other + one another. But what are we to think where it is said of Wisdom that she "tells God what to do," +, as the J. Bible gloss says, is "like a bride to God"? Proved absolutely is St Sophia (Wisdom) = Christ. + from John + what the EB says, etc, I get the distinct impression that the Holy Spirit is the unincarnated Christ, which leads back to PV 8 + Holy Wisdom again. ____ The apocalyptic scene I glimpsed of the siege lifted + the prisons freed + the tyrant destroyed turns out to be Cyrus' siege of Babylon + Belshazar: the prisoner(s) being Daniel; as in Tears, which describes "Babylon" (i.e. Rome, the paradigm of the Black Iron Prison), the elements of the Book of Daniel -i.e. apocalyptic scripture per se, emerge. This external "Fidelio-like" siege did not occur in 1974, but my total vision (timeless + spaceless) included it anyhow. Babylon = Rome = Washington DC = Moscow, etc. I have finally tracked down my Black Iron Prison + lifting of the oppression by external siege vision; Daniel, John of Patmos + I all saw the same things (vide all of Tears, esp. the dream). From the gloss on 'Wisdom' I understand that it is she who inspires prophets; in fact the text explicates this.
 ```
-**Co-occurrences**: Christ, Tears, Christian, Toso, Spirit, Holy, Zebra, Rome, Holy Spirit, Sophia, Paul, Bible, However, Wisdom, Lord, These, Father, Like, World, Since, Because, Iron, Prison, Only, John, Black, Holy Wisdom, Book, Even, St Sophia, Anyhow, Again, Being, Everything, Divine, Black Iron Prison, Himself, Daniel, Probably, Those, Part, Another, Babylon, Voice, Before, Universe, Finally, Will, Deity, Other, Mission, Very, Back, Beyond, Have, Things, Life, Instead, Trinity, Knowledge, Truth, Human, Iron Prison, Dream
+**Co-occurrences**: Zebra, Sophia, St Sophia, Christ, Tears, Christian, Toso, Spirit, Holy, Rome, Holy Spirit, Paul, Bible, However, Wisdom, Lord, These, Father, Like, World, Since, Because, Iron, Prison, Only, John
 
 ---
 ### Line 5684-5692 (Match: 'Indexed')
@@ -275,7 +275,7 @@ Indexed
 
 Can I say, "the Spirit which came to me spoke of Holy Wisdom" or "was Holy Wisdom"? A study of the Book "Wisdom" definitely indicates it was indeed Holy Wisdom. The J. Bible exegetes admit the Holy Wisdom can more readily be equated with Christ (as the sentence I heard indicates) but also points to the Holy Spirit. Thus it was that St Augustine could speak of the "infinite mystery" of the Trinity, +why (1) the church maintains the doctrine of 1 essence + 3 persons (aspects), not 3 essences or Gods. There can be no other interpretation possible if the various canonical books are read scrupulously, there is no other view one can come to; my experience (in 3-74) plus reading the scriptures both lead me to this view - that of the church. They/it/he/she - is/are not like us, are/is not isomorphic with humans, with created things. Lying outside of time + space - they/it are/is immortal + seem to consist of radiation or energy, +, as in Ubik, are everywhere + know everything, + in reuniting the cosmos (which is decomposing) into a new organism which is the corpus Christi (Christos Kyrios) it is in the process of becoming everything + everywhere (the "3 Stigmata of P.E." gives, as has been pointed out, a diabolic mirror opposite image of this divine transsubstantiation + is very instructive). - Something I never considered before is this: since -not if but since (as I know from my own experience) this divine entity can transfer knowledge to our minds, of the most complex + deep sort, why doesn't it clear up these mysteries about its nature once + for all? (1) to all Christendom; (2) or just even to me? I learned from it all sorts of things, but - such mystery remains. Or does it? Is not the [only] limitation that of our own limited conceptualizing faculties? It is not intrinsically mysterious - it is only a mystery to our limited minds + experience. That which reveals, + confers knowledge, can't be accused of creating mystery. What it does, I guess, is disclose the existence of mysteries - in the sense of the deepest core of meaning at the ontological heart of reality. It points to, as one points to or out, say, a sculpture - a thing which is, not a mere verbal explanation but directly at the thing itself, to be comtemplated as the final is. (Cf Heraclitus: "The oracle does not answer yes or no - it instead gives a sign (Zeichen) meaning."
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Toso, Spirit, Holy, Zebra, Rome, Holy Spirit, Sophia, Bible, Wisdom, These, Like, Since, Iron, Prison, Only, John, Time, Black, Stigmata, Holy Wisdom, Book, Even, St Sophia, Could, Does, Anyhow, Just, Something, Once, Again, Both, Reality, Heraclitus, Being, Christi, Everything, Divine, Black Iron Prison, Himself, Corpus, Daniel, Augustine, Christos, Gods, Those, More, Church, Another, Babylon, Corpus Christi, Most, Such, Before, Universe, Finally, Will, Deity, Other, Very, Back, Beyond, Have, Things, Instead, Trinity, Knowledge, Kyrios, Iron Prison, Dream, Doesn, Final, Answer
+**Co-occurrences**: Zebra, Sophia, Time, St Sophia, Christ, Tears, Ubik, Toso, Spirit, Holy, Rome, Holy Spirit, Bible, Wisdom, These, Like, Since, Iron, Prison, Only, John
 
 ---
 ### Line 5692-5700 (Match: 'Indexed')
@@ -292,7 +292,7 @@ Indexed
 
 By an act of belief ("credo") when I saw the Golden Fish Sign + heard the words I broke the power of this, the stamped-out [mere] image (eikon) world over me + received grace, received the real (supratemporal) world + the sole 3-aspect life that dwells throughout it. Gnosticism is correct; this is (but perhaps was not always!) a flawed (or fallen, decomposing) level (a la Plotinus). The sign (Zeichen) in a sense woke me up (cf the slumbering soul, cf Plato, cf Pythagoras). (Cf Heraclitus + the idios kosmos vs the koinos, within the latter lying -acting- the Logos. Thus, too in a sense I broke the power of the curse, which is a blindness + a sleep - in which we are in darkness; thus the salvific power is referred to as "the Light of the world" "which the darkness neither knows, recognizes, sees nor accepts." Darkness + blindness are related - also seeing + light. When I say "I broke the power of this [false] world over me by an act of faith (pistis) I am saying that in some sense this world is a delusion; evidently this is what is meant by dokos or maya. (This insight may be the most important of all: what I then related to was an eternal archetype of apocalypse: "Babylon," "Daniel" "Cyrus" "God" [or Wisdom or Christ or the Logos]. The best meaning of dokos here is, "the counterfeit passing as the real thing." Whence comes this dokos? Because our brains construct (hypostatize) an isomorphic (to us) outer analog - + the Trinity is not isomorphic nor subject to hypostatization, + is perceptually rejected. This is what Christ meant when he said, "Believe in me; I have (can - have the power to) overcome the world."
 ```
-**Co-occurrences**: Christ, Ubik, Toso, Spirit, Holy, Logos, Holy Spirit, Plato, Fish, Bible, Gnosticism, Golden, Wisdom, These, Perhaps, Plotinus, Like, World, Since, Because, Golden Fish, Only, Time, Faith, Stigmata, Pythagoras, Holy Wisdom, Book, Light, Even, Could, Does, Just, Something, Once, Both, Maya, Reality, Kosmos, Heraclitus, Christi, Everything, Divine, Corpus, Daniel, Augustine, Christos, Gods, Grace, Darkness, Dokos, More, Church, Soul, Babylon, Corpus Christi, Most, Real, Such, Before, Other, Very, Have, Things, Life, Instead, Neither, Trinity, Knowledge, Kyrios, Evidently, Doesn, Final, Answer
+**Co-occurrences**: Gnosticism, Plotinus, Time, Christ, Ubik, Toso, Spirit, Holy, Logos, Holy Spirit, Plato, Fish, Bible, Golden, Wisdom, These, Perhaps, Like, World, Since, Because, Golden Fish, Only
 
 ---
 ### Line 5700-5708 (Match: 'Indexed')
@@ -309,7 +309,7 @@ Since we could not reach up to (perceive, relate to) the real world, the word ca
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Christ, Valis, Tears, Toso, Spirit, Logos, Plato, Fish, Well, Bible, Gnosticism, Golden, Wisdom, Perhaps, Plotinus, Like, World, Since, Because, Golden Fish, Time, Faith, Pythagoras, Good, Light, Even, Could, Joint, Anyhow, Both, Maya, Kosmos, Heraclitus, Being, Self, Eldritch, Divine, Himself, Palmer, Corpus, Daniel, Palmer Eldritch, Grace, Darkness, Part, Dokos, More, Soul, Babylon, Most, Real, Before, Deity, Would, Very, Have, Life, Memory, Instead, Neither, Later, Trinity, Knowledge, Truth, Human, Evidently, Answer
+**Co-occurrences**: Gnosticism, Plotinus, Valis, Time, Christ, Tears, Toso, Spirit, Logos, Plato, Fish, Well, Bible, Golden, Wisdom, Perhaps, Like, World, Since, Because, Golden Fish
 
 ---
 ### Line 5711-5719 (Match: 'Indexed')
@@ -326,7 +326,7 @@ Indexed
 
 The 3 eyed Sibyl - was that Holy Wisdom? Deities from Greek + Hebrew antiquity: Asklepios + Elijah, Zagreus, the Sibyl. the cyclopse. If I am insane then so were they. + all the koine words - + always we get back to Ubik + "The man contains -not the boy- but the former man" + the whole form-regression - except in my case it was thousands of years, not just a century (but the principle is the same: the present unpeeling to expose the lower, earlier layers, like geological strata exactly. But along the form (orthogonal?) axis. ___ The J. Bible gloss on John says that the whole purpose of the Messiah's coming "is to baptise in the Holy Spirit," which flows from his (Christ's) resurrected body like water from an inexhaustible spring, conferring life. "The spirit rests on him + so he can confer it on others." This is the Adoptionist view - that at Christ's baptism by John, God sent. Mark: 'The Messianic secret': not until after his death was anyone to know that Jesus was the Messiah. Fascinating. I didn't realize that. A secret the 2nd time? No. He will come as rightful king to openly claim his kingdom. But - yes, this is implied by the words "...she was not acceptable before" implying this 2nd time will be otherwise. Look! The historic intervention, the overthrow of the conspirators - that there is alone a crucial difference. This time Caesar has been deposed. The way is being prepared. In fact, the intervention of '74 is best understood not intrinsically but as the beginning; Wisdom (Christ) is already here. Revelation: (+) "The definite sign of the establishment of the Kingdom is the destruction of the enemy of God's people! I.e. Babylon." Is this not what took place in '74? Did I not flash on the fact just 2 days ago that Cyrus besieging Babylon was the besieging I'd had the vision of - as having taken place? Rev: "The time of waiting is over... God's secret intention will be fulfilled" - + the (+) footnote here! J. Bible gloss, Rev 17:"Rome (Nero) is guilty of the double crime of idolatry + murder (v. what the Sibyl said about the conspirators having murdered our leaders -
 ```
-**Co-occurrences**: Christ, Ubik, Toso, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Bible, Wisdom, Elijah, Maybe, Like, World, Since, John, Time, After, Holy Wisdom, Joint, Does, Anyhow, Hebrew, Just, Look, Again, Reality, Zagreus, Being, Messianic, Divine, House, Sibyl, Without, Another, Soul, Babylon, Real, Actually, Secret, Before, Revelation, True, Death, Will, Messiah, Somehow, Were, Very, Back, Beyond, Many, Have, Caesar, Life, Body, Spring, Dark, Fake, Information, Later, Days, Having, Except, Otherwise, Lower, Dream, Until
+**Co-occurrences**: Time, Information, Christ, Ubik, Toso, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Bible, Wisdom, Elijah, Maybe, Like, World, Since, John
 
 ---
 ### Line 5719-5727 (Match: 'Indexed')
@@ -343,6 +343,6 @@ Indexed
 
 martyred them. - On this Babylon / Rome / Washington DC thing, I've solved it. The Medieval view of archetypal printouts is correct.
 ```
-**Co-occurrences**: Christ, Ubik, Toso, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Bible, Wisdom, Elijah, Like, John, Time, After, Holy Wisdom, Hebrew, Just, Look, Zagreus, Being, Messianic, Sibyl, Babylon, Secret, Before, Revelation, Death, Will, Messiah, Were, Back, Caesar, Life, Body, Spring, Days, Having, Except, Otherwise, Lower, Until
+**Co-occurrences**: Time, Christ, Ubik, Toso, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Bible, Wisdom, Elijah, Like, John
 
 ---

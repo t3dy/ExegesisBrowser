@@ -20,7 +20,7 @@ Last edit almost 3 years ago by svayambhu108
 
 31
 ```
-**Co-occurrences**: Christ, Tears, Holy, Jesus, Rome, James, Like, Iron, Prison, Only, Nixon, Black, Book, Just, Reality, Hegel, Black Iron Prison, Himself, Great, Probably, Palm, Without, Tessa, More, Through, Most, Certainly, Before, Would, Were, Tree, Clearly, Dark, Freedom, Evil, West, Human, Iron Prison, Dream, Lamb, Someone, Until
+**Co-occurrences**: Hegel, Christ, Tears, Holy, Jesus, Rome, James, Like, Iron, Prison, Only, Nixon
 
 ---
 ### Line 5040-5048 (Match: 'Hegelian')
@@ -37,7 +37,7 @@ Last edit almost 3 years ago by svayambhu108
 33
 Needs Review
 ```
-**Co-occurrences**: Tears, Form, Well, Perhaps, Iron, Prison, Black, Light, Even, Both, Being, Hegel, Self, Black Iron Prison, Beethoven, More, Such, Voice, Upon, Have, Absolute, German, Freedom, Dialectic, Iron Prison, Right
+**Co-occurrences**: Hegel, Dialectic, Tears, Form, Well, Perhaps, Iron, Prison
 
 ---
 ### Line 5060-5068 (Match: 'Hegelian')
@@ -54,7 +54,7 @@ Last edit almost 3 years ago by svayambhu108
 
 36
 ```
-**Co-occurrences**: Paul, Well, Wisdom, Like, World, Since, Only, Time, Even, Does, Look, Both, Reality, Although, Divine, Himself, Either, Without, Through, Real, True, Will, Would, Other, Very, Many, Absolute, Freedom, Later, Greater, Human
+**Co-occurrences**: Time, Paul, Well, Wisdom, Like, World, Since, Only
 
 ---
 ### Line 5094-5102 (Match: 'Hegelian')
@@ -70,7 +70,7 @@ Last edit almost 3 years ago by svayambhu108
 42
 Needs Review
 ```
-**Co-occurrences**: Zebra, Form, However, World, Mind, Even, Does, Hegel, Self, Phil, Such, Whitehead, Would, Creation, Beyond, Have, Likewise
+**Co-occurrences**: Zebra, Hegel, Phil, Form, However, World
 
 ---
 ### Line 5100-5108 (Match: 'Hegelian')
@@ -87,7 +87,7 @@ Last edit almost 3 years ago by svayambhu108
 43
 Needs Review
 ```
-**Co-occurrences**: Spirit, Zebra, Like, World, Only, Time, Good, Does, Both, Reality, Being, Hegel, Divine, Himself, More, Timaeus, Whitehead, Universe, Things, Absolute, Days, Human, Whereas, Until
+**Co-occurrences**: Zebra, Time, Hegel, Spirit, Like, World, Only
 
 ---
 ### Line 5228-5236 (Match: 'Hegelian')
@@ -104,7 +104,7 @@ Last edit almost 3 years ago by svayambhu108
 65
 Needs Review
 ```
-**Co-occurrences**: Thomas, Spirit, Holy, Zebra, Wisdom, Plotinus, World, Since, Because, Mind, Even, Does, Just, Being, Hegel, Everything, Divine, Either, Those, More, Most, Upon, Revelation, Universe, Would, Were, Under, Have, Absolute, Freedom, Dialectic, Greater, Human, Right
+**Co-occurrences**: Plotinus, Thomas, Zebra, Hegel, Dialectic, Spirit, Holy, Wisdom, World, Since, Because
 
 ---
 ### Line 5251-5259 (Match: 'Hegelian')
@@ -121,7 +121,7 @@ Last edit almost 3 years ago by svayambhu108
 69
 Needs Review
 ```
-**Co-occurrences**: Plato, Well, Bible, However, Spinoza, World, Mind, Could, Hegel, Divine, Himself, Either, Probably, More, Revelation, True, Would, Have, Things, Freedom, Having, Except, Truth, Suddenly, Until
+**Co-occurrences**: Hegel, Plato, Well, Bible, However, Spinoza, World
 
 ---
 ### Line 5257-5265 (Match: 'Hegelian')
@@ -138,7 +138,7 @@ Last edit almost 3 years ago by svayambhu108
 70
 Needs Review
 ```
-**Co-occurrences**: Valis, Zebra, Jesus, Form, Sophia, Gnostic, Father, James, World, Time, After, Great, Grace, Heaven, Such, Upon, Before, Revelation, Would, Very, Memory, Evil, Dialectic, Dream, Doesn, Track
+**Co-occurrences**: Valis, Zebra, Sophia, Gnostic, Time, Dialectic, Jesus, Form, Father, James, World
 
 ---
 ### Line 5268-5276 (Match: 'Hegelian')
@@ -154,7 +154,7 @@ Last edit almost 3 years ago by svayambhu108
 72
 Needs Review
 ```
-**Co-occurrences**: Perhaps, Earth, Just, Probably, Macro, Have, Freedom
+**Co-occurrences**: Perhaps, Earth
 
 ---
 ### Line 18367-18375 (Match: 'Hegelian')
@@ -171,7 +171,7 @@ It was my hidden right brain itself, which recognized the Xerox missive as a as 
 
 Last edit over 5 years ago by sekennedy62
 ```
-**Co-occurrences**: Xerox, Because, Reality, Missive, Xerox Missive, Brain, Real, Very, Dialectic, Right
+**Co-occurrences**: Dialectic, Xerox, Because
 
 ---
 ### Line 22049-22057 (Match: 'Hegelian')
@@ -188,7 +188,7 @@ Last edit almost 3 years ago by svayambhu108
 24
 Needs Review
 ```
-**Co-occurrences**: Valis, Tears, Acts, Christian, Ubik, These, Like, World, Time, Faith, Mind, Buckman, Soviet, Look, Everything, Either, Zoroastrian, Brain, Their, True, Very, Beyond, Memory, Wise, Dialectic, Truth, Free
+**Co-occurrences**: Valis, Time, Dialectic, Tears, Acts, Christian, Ubik, These, Like, World
 
 ---
 ### Line 22840-22848 (Match: 'Hegelian')
@@ -205,7 +205,7 @@ Last edit almost 3 years ago by svayambhu108
 
 151
 ```
-**Co-occurrences**: Valis, Tears, Acts, Christian, Kingdom, Bible, World, Time, Earth, Book, Gestalt, Okay, Kingdom of God, Reality, Being, Part, Through, Real, Voice, Secret, Back, Have, Info, Knowledge, Dialectic
+**Co-occurrences**: Valis, Time, Dialectic, Tears, Acts, Christian, Kingdom, Bible, World, Earth
 
 ---
 ### Line 23614-23622 (Match: 'Hegelian')
@@ -222,7 +222,7 @@ Last edit almost 3 years ago by svayambhu108
 74
 Needs Review
 ```
-**Co-occurrences**: Valis, Tears, Christianity, Form, Empire, World, Because, Time, Pigspurt, Mind, Just, Once, Viewed, Part, Would, Memory, Dialectic, Right, Track
+**Co-occurrences**: Valis, Time, Dialectic, Tears, Christianity, Form, Empire, World, Because
 
 ---
 ### Line 24266-24274 (Match: 'Hegelian')
@@ -239,7 +239,7 @@ Last edit almost 3 years ago by svayambhu108
 
 181
 ```
-**Co-occurrences**: Holy, Wisdom, Like, Because, Therefore, Time, Holy Wisdom, Could, Realm, Reality, Being, Although, Self, Such, Actually, Would, Other, Were, Have, Absolute, Except, Human
+**Co-occurrences**: Time, Holy, Wisdom, Like, Because, Therefore
 
 ---
 ### Line 24295-24303 (Match: 'Hegelian')
@@ -256,7 +256,7 @@ Last edit almost 3 years ago by svayambhu108
 
 191
 ```
-**Co-occurrences**: Holy, Wisdom, Like, Because, Therefore, Time, Holy Wisdom, Could, Realm, Reality, Being, Although, Self, Such, Actually, Would, Other, Were, Have, Absolute, Except, Human
+**Co-occurrences**: Time, Holy, Wisdom, Like, Because, Therefore
 
 ---
 ### Line 27847-27855 (Match: 'Hegelian')
@@ -273,7 +273,7 @@ Last edit almost 3 years ago by svayambhu108
 15
 Needs Review
 ```
-**Co-occurrences**: Valis, Christian, Ubik, Thomas, Christianity, Gnosticism, Scanner, Like, World, Only, Faith, Even, Empedocles, Self, Brain, Real, Such, Secret, Deity, Would, Have, Track
+**Co-occurrences**: Gnosticism, Valis, Thomas, Christian, Ubik, Christianity, Scanner, Like, World, Only
 
 ---
 ### Line 28147-28155 (Match: 'Hegelian')
@@ -290,7 +290,7 @@ Last edit almost 3 years ago by svayambhu108
 
 66
 ```
-**Co-occurrences**: Tears, Thomas, Since, Just, Soviet, House, Bureau, Brain, Kathy, Still, True, Have, Info
+**Co-occurrences**: Thomas, Tears, Since
 
 ---
 ### Line 28170-28178 (Match: 'Hegelian')
@@ -307,7 +307,7 @@ Last edit almost 3 years ago by svayambhu108
 70
 Needs Review
 ```
-**Co-occurrences**: Thomas, These, Soviet, Self, Probably, Bureau, Real, Other, Back, Life, Info, Dialectic, Truth
+**Co-occurrences**: Thomas, Dialectic, These
 
 ---
 ### Line 30056-30064 (Match: 'Hegelian')
@@ -324,7 +324,7 @@ When a creature is tormented enough it turns into God (as if an insect mimicking
 
 Then according to my analysis based on the sheep dream, the antithetical dialectic would _have_ to arise, & underlie all process since it can be traced back logically to antithesis in the Godhead itself.
 ```
-**Co-occurrences**: Complete, Godhead, Since, Because, Noos, Folder, Could, Nothing, More, Universe, Would, Creation, Back, Dialectic, Greater, Lower, Dream
+**Co-occurrences**: Dialectic, Complete, Godhead, Since, Because
 
 ---
 ### Line 32593-32601 (Match: 'Hegelian')
@@ -341,6 +341,6 @@ Last edit almost 5 years ago by svayambhu108
 
 91
 ```
-**Co-occurrences**: Form, Plato, These, World, Since, Could, Realm, Reality, Being, Those, Part, Their, Real, Secret, Western, Will, Would, Very, Have, Except
+**Co-occurrences**: Form, Plato, These, World, Since
 
 ---

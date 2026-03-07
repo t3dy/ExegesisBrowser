@@ -20,7 +20,7 @@ This "decay" is the same direction the Holy Spirit (or whatever you wish to deem
 
 Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '56 Chevy to ionosphere...that for it would be the "film pulled backwards," so to speak. Joe (i.e. I) saw it naturally. So within our linear time, form (edola) develops in the opposite direction to what we in linear time see. "To enter the Kingdom of Heaven you must be as little children," He said, our Savior. We must regain what in regular time is the past; orthogonally it is the future. Then what happend to me in March, I didn't move backward, in linear time; I moved forward, to the completion of time. I saw time completed: the great Iron City which fell to the people hustling their asses for man and for God, for Justice and Truth and Joy and Freedom. I saw the Parousia.
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Iron, Time, Savior, Just, March, Platonic, Great, Still, Their, Heaven, Would, Other, Back, Whatever, Under, Claudia, Justice, Freedom, Truth, Chip
+**Co-occurrences**: Time, Linear, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Iron
 
 ---
 ### Line 24-32 (Match: 'Ubik')
@@ -37,7 +37,7 @@ I saw the Parousia, and I couldn't have unless they actually took place (I didn'
 
 It has happened, the Prince of this World fell.
 ```
-**Co-occurrences**: Christ, Toso, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Time, Nixon, Even, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Toso, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Nixon
 
 ---
 ### Line 42-50 (Match: 'Ubik')
@@ -54,7 +54,7 @@ My personal salvation was a lapidary work achieved throughout many steps, interl
 
 Synchronized with this in time were: the publishing of TEARS, with the dream; and: (macro) the fall of the tyrant.
 ```
-**Co-occurrences**: Tears, Toso, Complete, Fall, Time, Tony, Without, Tessa, Soul, Macro, Were, Many, Life, Blood, Dead, Dream, Salvation, Lamb
+**Co-occurrences**: Time, Tears, Toso, Complete, Fall
 
 ---
 ### Line 68-76 (Match: 'Ubik')
@@ -71,7 +71,7 @@ This is why (uniquely for me) my thoughts and phosphene activity speeded up in M
 
 Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
 ```
-**Co-occurrences**: Complete, Rome, Form, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Time, Complete, Rome, Form, Parousia, Father, World, Since, Because, Only
 
 ---
 ### Line 143-151 (Match: 'Ubik')
@@ -88,7 +88,7 @@ Magic equals life equals warmth equals poppies. Now, poppies are an exotic flowe
 
 Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
 ```
-**Co-occurrences**: Indexed, However, Perhaps, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+**Co-occurrences**: Zebrapedia, Phil, Indexed, However, Perhaps, Like, Since, Because, Only
 
 ---
 ### Line 407-415 (Match: 'Ubik')
@@ -105,7 +105,7 @@ Last edit almost 3 years ago by twsullivan
 
 26
 ```
-**Co-occurrences**: Christianity, Dionysos, Like, Since, Because, Only, Time, After, Soviet, Taoism, Again, Reality, Kosmos, Being, Runciter, Although, Great, Viewed, Without, Darkness, Those, More, Living, Real, Zoroastrianism, Greece, True, Death, Egyptian, Many, Have, Life, Spring, Days, Evil, Final, Right, Until
+**Co-occurrences**: Time, Christianity, Dionysos, Like, Since, Because, Only
 
 ---
 ### Line 598-606 (Match: 'Ubik')
@@ -122,7 +122,7 @@ Tessa had recently bought pach of cigarettes, disgusted to find them stale. Exac
 
 Er kommt, er kommt! Der Brautgaum kommt!
 ```
-**Co-occurrences**: Form, Gnostic, Like, World, Only, Time, Good, Yang, Joint, Tessa, Soul, Before, Universe, Will, Would, Other, Were, Very, Claudia, Spring, Form One, Blood, Dream, Chip
+**Co-occurrences**: Gnostic, Time, Form, Like, World, Only
 
 ---
 ### Line 600-608 (Match: 'Ubik')
@@ -139,7 +139,7 @@ Er kommt, er kommt! Der Brautgaum kommt!
 
 (Is it possible that the anamsesis regards future events, of a retrograde time-line? I am recovering memory not of what did happen but of what will happen?)
 ```
-**Co-occurrences**: Form, Gnostic, Like, World, Only, Time, Good, Yang, Joint, Tessa, Soul, Before, Universe, Will, Would, Other, Were, Very, Claudia, Spring, Memory, Form One, Blood, Dream, Chip
+**Co-occurrences**: Gnostic, Time, Form, Like, World, Only
 
 ---
 ### Line 640-648 (Match: 'Ubik')
@@ -156,7 +156,7 @@ Last edit over 5 years ago by Harpax
 40
 Needs Review
 ```
-**Co-occurrences**: Form, Since, Harpax, Noos, Light, Even, Could, Being, Those, More, Through, Mother, Universe, Would, Back, Have, Claudia, Wise, Dream, Chip, Right
+**Co-occurrences**: Entropy, Form, Since
 
 ---
 ### Line 646-654 (Match: 'Ubik')
@@ -173,7 +173,7 @@ Dear Claudia,
 
 Here are some vital new thoughts, esp on UBIK. You'll note that my real insight comes as I realize that your point re the cream souring, and the cigarettes, are contra the form-reversion and are normal but speeded up (lineal to entropy outcome) decay. Thus, you did it, baby; YOU did it.
 ```
-**Co-occurrences**: Form, Harpax, March, Most, Real, Body, Claudia, Greater
+**Co-occurrences**: Entropy, Form
 
 ---
 ### Line 650-658 (Match: 'Ubik')
@@ -190,7 +190,7 @@ Last edit over 5 years ago by Harpax
 
 41
 ```
-**Co-occurrences**: Form, Harpax, March, Most, Real, Body, Claudia, Greater
+**Co-occurrences**: Entropy, Form
 
 ---
 ### Line 657-665 (Match: 'Ubik')
@@ -206,7 +206,7 @@ However, it is equally probable that in March 1974 an actual concerted telepathi
 
 This attempt, if indeed it took place, was more of a failure than a success, inasmuch as I think what came as a result of this was my developing an "instinctive" antipathy toward the Soviets, under the perhaps correct impression that they'd made an effort to "improve" (i.e. coerce) my ideas. The total effect on me was beyond doubt beneficial, both in terms of acquired (received) energy and acquired (received) information and comprehension; how much of this was a collateral result, added onto the experiment by the Logos itself, I have no way of assessing. Somebody likes me; if not the Soviets, then the Logos; maybe both do. I underwent a period of ordeal, but the results left me healthier and freer that I'd ever been in my life. I wish I could have such an experience again. I'd recommend and welcome it -- everyone should have it. But probably it was a composite experience: one part delibaratedly directed from Pulkovo, another added by the Logos, a third derived from my own inner entelechy which was speeded to completion by the reception of all that good time-energy. It was a multiple cure, in at least three directions (linear space, down from above, upward and out from within). Also, the vernal equinox had arrived: springtime. The slumbering God, asleep but not dead -- he was waking up anyhow.
 ```
-**Co-occurrences**: Logos, Christianity, However, These, Perhaps, Maybe, Time, Good, Even, Could, Does, Anyhow, Philo, Soviet, Again, Both, Being, March, Probably, Part, Their, More, Another, Such, Would, Back, Beyond, Under, Many, Have, Life, Information, Later, Knowledge, Dead, Salvation, Evidently
+**Co-occurrences**: Time, Philo, Information, Linear, Logos, Christianity, However, These, Perhaps, Maybe
 
 ---
 ### Line 677-685 (Match: 'Ubik')
@@ -223,7 +223,7 @@ Last edit over 5 years ago by Harpax
 43
 Needs Review
 ```
-**Co-occurrences**: Logos, Like, Since, Time, Harpax, Even, Anyhow, Being, Great, Probably, Their, More, Finally, Will, Would, Other, Were, Back, Surely, Under, Further, Have, Information, Info, Having, Truth, Someone
+**Co-occurrences**: Time, Information, Logos, Like, Since
 
 ---
 ### Line 691-699 (Match: 'Ubik')
@@ -240,7 +240,7 @@ If we [c]an see identity between Dr. NK's "Time" and the "Logos, the Word of God
 
 It could not be otherwise. Not unless (1) Dr. NK is wrong; and (2) My experiences in March 74 are phony and (3) It is evident that this is not true, the evidence being (3) the novel UBIK being obviously "influenced" by Dr. NK's time-theory when in fact it was not; a third source (triangle [m]aradigm: three points, not two), is necessary for an explanation; i.e. the Logos.
 ```
-**Co-occurrences**: Logos, Time, Even, Could, Anyhow, Being, March, Obviously, Runciter, Living, True, Would, Whatever, Information, Unless, Otherwise
+**Co-occurrences**: Time, Information, Logos
 
 ---
 ### Line 695-703 (Match: 'Ubik')
@@ -257,7 +257,7 @@ QED, because I was not familiar with his paper; and I was not telepathically aff
 
 The best way of viewing all these elements (Dr. HK's theory, UBIK, March 74) is to see confirmation of the LOGOS' reality (vide Dr. NK's paper when he discusses simultaneous transfer of information throughouts the universe to all biological entities, via Time).
 ```
-**Co-occurrences**: Logos, These, Because, Time, Even, Could, Anyhow, Reality, Being, March, Obviously, Runciter, Living, True, Universe, Would, Whatever, Information, Unless, Otherwise
+**Co-occurrences**: Time, Information, Logos, These, Because
 
 ---
 ### Line 699-707 (Match: 'Ubik')
@@ -274,7 +274,7 @@ Last edit over 5 years ago by Harpax
 44
 Needs Review
 ```
-**Co-occurrences**: Logos, These, Because, Time, Harpax, Could, Reality, Being, March, Obviously, True, Universe, Information, Unless, Otherwise
+**Co-occurrences**: Time, Information, Logos, These, Because
 
 ---
 ### Line 715-723 (Match: 'Ubik')
@@ -291,7 +291,7 @@ Last edit over 5 years ago by Harpax
 45
 Needs Review
 ```
-**Co-occurrences**: Logos, Jesus, Well, These, Perhaps, Because, Time, Harpax, Mind, Even, Does, Anyhow, Just, Again, Both, Being, Self, Himself, Without, Brain, Part, More, Will, Would, Beyond, Have, Things, Information, Testament, Knowledge, Today, During
+**Co-occurrences**: Time, Information, Logos, Jesus, Well, These, Perhaps, Because
 
 ---
 ### Line 849-857 (Match: 'Ubik')
@@ -308,7 +308,7 @@ Each new child enjoys his sandbox as if sandboxes were first new and had never p
 
 If my world is one film then I am on film and hence immortal, like "Citizen Kane." The film can be stored and later rerun, and even other prints --and stills-- can be made. I do not joke, here.
 ```
-**Co-occurrences**: Christ, Well, However, Like, World, Since, Harpax, Book, Even, Just, Once, Suppose, Reality, Being, Great, Without, Nothing, Those, More, Real, Before, True, Universe, Other, Were, Many, Have, Life, Instead, Later, Truth, Free, Until
+**Co-occurrences**: Christ, Well, However, Like, World, Since
 
 ---
 ### Line 855-863 (Match: 'Ubik')
@@ -325,7 +325,7 @@ Last edit over 5 years ago by Harpax
 
 56
 ```
-**Co-occurrences**: Greek, Well, Like, World, Since, Harpax, Book, Even, Does, Just, Once, Suppose, Reality, Being, Everything, Divine, Great, Viewed, Without, Nothing, Those, More, Through, Living, Real, Before, True, Universe, Finally, Would, Other, Were, Very, Back, Many, Have, Things, Life, Instead, Later, Days, Truth, Otherwise, Free
+**Co-occurrences**: Greek, Well, Like, World, Since
 
 ---
 ### Line 985-993 (Match: 'Ubik')
@@ -342,6 +342,6 @@ Last edit over 5 years ago by Harpax
 
 66
 ```
-**Co-occurrences**: Christ, Holy, Rome, Form, Sophia, Kingdom, Greek, However, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+**Co-occurrences**: Sophia, Time, Firebright, Anamnesis, Christ, Holy, Rome, Form, Kingdom, Greek, However, Maze, Father, Like, Because, Only
 
 ---

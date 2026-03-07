@@ -20,7 +20,7 @@ Yes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh.
 
 First, the "Artist" (logos) is drawing you (or universe is fashioning you) more and more like Christ. These are first kinds of changes: you're made to look i.e. be like him. But the real thing is when you can see the likeness. First, see him seated there, being drawn, then see that you the 1.5 minute sketch resemble Him; its when you see that affinity, that's the last transformation, in you. That follows in linear time what the artist (continual creation) is doing: upon completion, of the entelechy; when time stops, being "filled up" or rrealized.
 ```
-**Co-occurrences**: Christ, Logos, Rome, Kingdom, Dionysos, These, Elijah, Like, Because, Iron, Only, Time, After, Just, Look, Again, Kingdom of God, Being, March, Great, House, More, Real, Upon, Before, Universe, Creation, Kingship, Were, Have, Tree, Dead
+**Co-occurrences**: Time, Linear, Christ, Logos, Rome, Kingdom, Dionysos, These, Elijah, Like, Because, Iron, Only
 
 ---
 ### Line 84-92 (Match: 'Well')
@@ -37,7 +37,7 @@ I think that in 1974 my entelechy was completed, but I never heard of anyone hav
 
 Last edit over 5 years ago by FolkDevil
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Father, Maybe, Like, Since, Because, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+**Co-occurrences**: Time, Philip, Phil, Spirit, Holy, Holy Spirit, Father, Maybe, Like, Since, Because, Therefore, Only
 
 ---
 ### Line 86-94 (Match: 'Well')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by FolkDevil
 
 6
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Maybe, Because, Only, Time, Something, Again, Empedocles, Self, Divine, Philip, House, Without, Still, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Have, Things, Judgment, Claudia, Instead, Having, Except, During
+**Co-occurrences**: Time, Philip, Phil, Spirit, Holy, Holy Spirit, Maybe, Because, Only
 
 ---
 ### Line 91-99 (Match: 'Well')
@@ -70,7 +70,7 @@ I do not see where I am changed, but I was spared the Wrath and I was of use (ag
 
 Hey, I figured out (you laughed) Nixon is the best – beast.
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Maybe, Like, World, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Time, Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Maybe, Like, World, Nixon
 
 ---
 ### Line 121-129 (Match: 'Well')
@@ -87,7 +87,7 @@ And the beautiful cruel queen is Tessa, of course. That story,
 
 Last edit over 5 years ago by Zebrapedia
 ```
-**Co-occurrences**: King, Fish, Maybe, Like, Only, Savior, Mind, Book, Zebrapedia, Being, Great, Tessa, Still, Through, Living, Such, Actually, True, Death, Universe, Will, Christopher, Other, Under, Have, Things, Body, Claudia, Wise, Later, Remember, Truth, During, Dream
+**Co-occurrences**: Zebrapedia, King, Fish, Maybe, Like, Only
 
 ---
 ### Line 131-139 (Match: 'Well')
@@ -104,7 +104,7 @@ The moral of the novel was that you can be different and the King will understan
 
 Rose: “Stephen, how come I can do magic and I’m living here in Fullerton like everyone else, eating at McDonald’s and knowing Willis McNelly.”
 ```
-**Co-occurrences**: Spirit, Complete, King, Dionysos, Like, World, Because, Only, Time, Book, Could, Does, Anyhow, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Claudia, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+**Co-occurrences**: Time, Spirit, Complete, King, Dionysos, Like, World, Because, Only
 
 ---
 ### Line 198-206 (Match: 'Well')
@@ -121,7 +121,7 @@ I hope that you like this piece (they may not). They just accepted a poem by my 
 
 You’ll note that I’m living in Southern California now, “north of Disneyland,” as Tony Hiss put it when he interviewed me for the New Yorker. I’m still writing s-f. I’ve got a lovely little 1.5 year-old son named Christopher, my wife Tessa is incredibly beautiful and very young (the pressure is on me, always, in all ways, to keep going, to not fall behind… alas, we all do eventually, I guess, but then, I have developed strongly religious convictions that Our Good Friend is watching to reach out and scoop us up, when we fall behind).
 ```
-**Co-occurrences**: Like, World, Since, Fall, Good, Just, Both, Tony, Although, Tessa, Still, Through, Living, Real, Such, Calif, Love, Christopher, Very, Have, Berkeley, Memory, Having
+**Co-occurrences**: Like, World, Since, Fall
 
 ---
 ### Line 204-212 (Match: 'Well')
@@ -138,7 +138,7 @@ With deep personal regards,
 
 Philip K. Dick 1405 Cameo Lane #4 Fullerton, Calif 92631, USA
 ```
-**Co-occurrences**: These, Like, Since, Fall, Good, Even, Just, Both, Tony, Philip, Tessa, Still, Through, Living, Dick, Fullerton, Calif, Will, Christopher, Would, Very, Have, Days
+**Co-occurrences**: Philip, These, Like, Since, Fall
 
 ---
 ### Line 284-292 (Match: 'Well')
@@ -155,7 +155,7 @@ Pinky never noticed the pale light; he seemed awake, but dozing. I think he was 
 
 Last edit over 5 years ago by Zebrapedia
 ```
-**Co-occurrences**: Like, World, Light, Even, Pinky, Anyhow, Zebrapedia, Just, Once, Being, Himself, Without, Tessa, Those, Before, Death, Finally, Will, Angel, Were, Whatever, Under, Later, Having, Remember, Electric, Dream
+**Co-occurrences**: Zebrapedia, Like, World
 
 ---
 ### Line 308-316 (Match: 'Well')
@@ -172,7 +172,7 @@ Last edit over 5 years ago by Siegman
 20
 Complete
 ```
-**Co-occurrences**: Christ, Thomas, Complete, Form, However, Dionysos, Perhaps, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Thomas, Time, Christ, Complete, Form, However, Dionysos, Perhaps, Since, Therefore, Only
 
 ---
 ### Line 320-328 (Match: 'Well')
@@ -189,7 +189,7 @@ The vernal equinox is almost here. Pretty girls are everywhere, and the buds are
 
 Last edit over 5 years ago by Siegman
 ```
-**Co-occurrences**: Maybe, Like, World, Because, Only, Book, Could, Being, Runciter, House, Creator, Still, More, Star, Heaven, Voice, Actually, True, Universe, Finally, Christopher, Would, Other, Back, Whatever, Have, Life, Claudia, Spring, Later, Except, Cross, Blood, Truth, Dream, Right
+**Co-occurrences**: Maybe, Like, World, Because, Only
 
 ---
 ### Line 401-409 (Match: 'Well')
@@ -206,7 +206,7 @@ shock to us, when abruptly visible. What is disclosed is that the smaller cycle 
 
 (six) Now the great orthogonal time axis rotates into the next "trigram" which is that is Spring, the arousing of life. This was signified by the throwing down of the tyranny here and in Greece and in Portugal, plus similar but less visible declines of physical power over men in the Soviet Bloc. The coercive enforcement of mere power, the ability to compel men, to reify them -- this all constitutes qualities of Winter and is passing. I don't really mean this as a metaphor, because orthogonal time is geniune, and although its axis is by definition at right angles to lineal time (the only time we've recognized until now) its direction is retrograde, in terms of stripping off or melting away the accretions built up as layer after layer of progressively less real reality. Within, deep at the heart of Being, lies the final goal of orthogonal time, which is Restoration of Moisture (cf aspects of Dionysos, as God of the philosophical principle of moistness, versus the evil principle of desiccation, as embodied by the Egyptian god of death, Sit or Set).
 ```
-**Co-occurrences**: Complete, Dionysos, Like, Because, Only, Time, After, Soviet, Taoism, Reality, Being, Although, Great, Darkness, Living, Real, Greece, True, Death, Egyptian, Beyond, Have, Life, Spring, Instead, Days, Evil, Greater, Final, Right, Until
+**Co-occurrences**: Time, Complete, Dionysos, Like, Because, Only
 
 ---
 ### Line 414-422 (Match: 'Well')
@@ -222,7 +222,7 @@ That the Final Days should be in fact a springing up into full life, complete li
 
 From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
 ```
-**Co-occurrences**: Christ, Complete, Paul, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+**Co-occurrences**: Time, Christ, Complete, Paul, Dionysos, These, Perhaps, Only
 
 ---
 ### Line 432-440 (Match: 'Well')
@@ -239,7 +239,7 @@ Nicholas Brady, an ordinary American citizen with contemporary worldly values an
 
 Studying the Bible, along with this [Quamran] personality, Brady finds that the New Testament is in cypher. The [Quamran] personality can read it. "Jesus" is really Zagreus-Zeus, taking two forms, one mild, the other utterly powerful, on which his followers can draw when in need.
 ```
-**Co-occurrences**: Acts, Holy, Jesus, Form, Bible, World, Since, Because, Iron, Good, Mind, Book, Zagreus, Tony, Self, Essene, Brain, Their, Zeus, Most, Such, Secret, Would, Other, Back, Have, Life, Testament, Having, Dead, Suddenly, Qumran, Right, Until
+**Co-occurrences**: Acts, Holy, Jesus, Form, Bible, World, Since, Because, Iron
 
 ---
 ### Line 482-490 (Match: 'Well')
@@ -256,7 +256,7 @@ And then later, "...He is drunken with music, not with wine." (Jane Harrision.) 
 
 Since the flock never looks back or turns back it never sees Him. This is why Luther accurately called our God the "God of the very desperate." This is why the image of the flock and the lamb which has wandered off appear in our sacred writings, and others which refer to this archtypal rescue in stealth. Because of course if the flock knew, they'd stop trudging along and just stand or go back. They're not to know.
 ```
-**Co-occurrences**: Jesus, Complete, Christianity, Form, Greek, Dionysos, These, Like, Since, Because, Time, Light, Could, Just, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Very, Back, Egyptian, Have, Tree, Later, Luther, Human, Lamb, Sacred
+**Co-occurrences**: Time, Jesus, Complete, Christianity, Form, Greek, Dionysos, These, Like, Since, Because
 
 ---
 ### Line 507-515 (Match: 'Well')
@@ -273,7 +273,7 @@ It cannot be that to move toward completion of form is to move toward disorder; 
 
 "Growth time" (movement of an entelechy toward completion) must be orthogonal to "decay time," or "wheel spinning time," even if our senses can't sort out these two times at work before us, in us and around us. Some sections (subparts) of the universe are moving backward, then, despite our occluded vision of a single forward lineal stream. We have a monovision in a sense. Blending two signals which should be discriminated.
 ```
-**Co-occurrences**: Form, These, Since, Therefore, Time, Even, More, Such, Before, Universe, Have, Life, Right
+**Co-occurrences**: Time, Entropy, Form, These, Since, Therefore
 
 ---
 ### Line 523-531 (Match: 'Well')
@@ -290,7 +290,7 @@ The "Whale's Mouth" sign of intersecting arcs, which I viewed as representing cu
 
 It's possible that the Christian fish sign concealed these two geometric arcs, intentionally; the arcs would show that the unique event of Christ's First Coming was beyond any doubt to be followed by the second coming or intersection; this was conveyed and concealed and revealed all at once by the fish sign, making sense, too, out of there being both a first and second coming; the arc opened after the first, and each line seemed to separate from the other farther and farther (heaven and earth splitting futher and further apart) but a keen trained eye could discern in this simple drawing the return together lying inevitably ahead; the Promise was ad hoc true. Put another way, when viewed in this geometrical fashion, there was no way by which the Second Coming (together in time) could be averted. No force, delusion, lies or guile or threats could prevent it eventually coming (see Virgil's 4th Eclogue: The Age of Iron to give way to the Age of Gold. And the fish sign I saw was made of gold. And I saw around me a prison, a magnet like ring, of iron.
 ```
-**Co-occurrences**: Christ, Christian, Complete, Form, Fish, These, Perhaps, Maybe, Like, World, Therefore, Iron, Prison, Time, Earth, After, Even, Could, Anyhow, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Finally, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christ, Christian, Complete, Form, Fish, These, Perhaps, Maybe, Like, World, Therefore, Iron, Prison, Earth
 
 ---
 ### Line 555-563 (Match: 'Well')
@@ -307,7 +307,7 @@ Last edit over 5 years ago by Harpax
 35
 Needs Review
 ```
-**Co-occurrences**: These, Perhaps, Maybe, Time, Harpax, Even, Just, March, Either, More, Consider, Universe, Would, Information, Except
+**Co-occurrences**: Time, Information, These, Perhaps, Maybe
 
 ---
 ### Line 626-634 (Match: 'Well')
@@ -324,7 +324,7 @@ This is Absolute negantropic compression, the restoration of lost or waste (heat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Complete, Form, Kingdom, These, Parmenides, Time, Earth, Harpax, After, Himself, Part, Dokos, More, Would, Other, Back, Life, Absolute, Justice, Form One, Later, Having, Truth, Magic
+**Co-occurrences**: Time, Complete, Form, Kingdom, These, Parmenides, Earth
 
 ---
 ### Line 634-642 (Match: 'Well')
@@ -341,6 +341,6 @@ The tension view of bow and lyre (fr 51) would be a fine thing for structure-as-
 
 No, as mechanical bounce-back or even noos-reinforced (changed to act as deliberate responses) they are more archaic, language and concepts indicate if answers, then to signals sent out circa 400 B.C. By our species, not be me qua me. (Then about 1000 Light years away, twice two.)
 ```
-**Co-occurrences**: These, Only, Time, Harpax, Noos, Light, Even, Karma, Gospel, Could, Does, Taoism, Being, Nothing, Those, More, Real, Upon, Mother, Will, Would, Back, Whatever, Many, Have, Wise, Later, Testament, Dream, Doesn, Right
+**Co-occurrences**: Time, Entropy, These, Only
 
 ---

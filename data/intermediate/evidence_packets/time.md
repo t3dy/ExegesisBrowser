@@ -20,7 +20,7 @@ Maybe not. Maybe this is the counter time needed to create parity. I guess I sai
 
 I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Iron, Savior, Just, March, Platonic, Great, Still, Their, Heaven, Would, Other, Back, Whatever, Under, Have, Things, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Linear, Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Iron
 
 ---
 ### Line 8-16 (Match: 'Time')
@@ -37,7 +37,7 @@ I saw the Final Things (eschatology). There, all forms including us, including m
 
 I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Iron, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Linear, Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Iron
 
 ---
 ### Line 12-20 (Match: 'Time')
@@ -54,7 +54,7 @@ I never noticed this parallel:
 
 What Joe Chip saw: What I saw: FORM REVERSION ROME AGAIN (time reversion)
 ```
-**Co-occurrences**: Rome, Form, Kingdom, Parousia, Maybe, Iron, Savior, Could, Again, March, Great, Their, Through, Heaven, True, Finally, Would, Other, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Linear, Rome, Form, Kingdom, Parousia, Maybe, Iron
 
 ---
 ### Line 16-24 (Match: 'Time')
@@ -71,7 +71,7 @@ But this isn't "reversion"; it is completion. Actually I had
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Toso, Rome, Form, Kingdom, Could, Again, Through, Actually, True, Finally, Things, Claudia, Chip, Final
+**Co-occurrences**: Toso, Rome, Form, Kingdom
 
 ---
 ### Line 24-32 (Match: 'Time')
@@ -88,7 +88,7 @@ I saw the Parousia, and I couldn't have unless they actually took place (I didn'
 
 It has happened, the Prince of this World fell.
 ```
-**Co-occurrences**: Christ, Ubik, Toso, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Nixon, Even, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Christ, Ubik, Toso, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Nixon
 
 ---
 ### Line 32-40 (Match: 'Time')
@@ -105,7 +105,7 @@ Time didn't reach its completion as an entelechy does; it was pierced -- breache
 
 Yes, I see -- that rat was the instrument of saving me; I died with it, and I prayed for it when I killed it; and it's been transformed...in Rog's story, the rat operated a humanoid robot, an android; it could manage to say, "Mama" and "papa" and could recognize the two people who were testing it, the android. It worked pedals. When the boys removed it, it was trying to work the pedals, now gone, and Rog said, It was as if it were praying. I'm sorry, poor rat; Rog is dead; the rat is dead, and I must stop typing or Tessa will get me.
 ```
-**Co-occurrences**: Tears, King, Parousia, World, Could, Does, Just, Being, March, Great, Tessa, Part, Through, Dick, Before, Death, Will, Christopher, Were, Under, Things, Dead, Dream, Final, White
+**Co-occurrences**: Linear, Tears, King, Parousia, World
 
 ---
 ### Line 34-42 (Match: 'Time')
@@ -122,7 +122,7 @@ Yes, I see -- that rat was the instrument of saving me; I died with it, and I pr
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Tears, Toso, King, Parousia, Could, Does, Just, Being, March, Great, Tessa, Part, Through, Dick, Before, Death, Will, Christopher, Were, Under, Things, Dead, Dream, Final, White
+**Co-occurrences**: Linear, Tears, Toso, King, Parousia
 
 ---
 ### Line 46-54 (Match: 'Time')
@@ -139,7 +139,7 @@ Synchronized with this in time were: the publishing of TEARS, with the dream; an
 
 Ruffie Rat; that's what Tessa calls herself, also without realizing how these lives live on from the past.
 ```
-**Co-occurrences**: Tears, Ubik, These, Fall, Tony, Without, Tessa, Soul, Easter, Macro, Parsifal, Were, Many, Life, Blood, Dead, Dream, Salvation, Lamb
+**Co-occurrences**: Tears, Ubik, These, Fall
 
 ---
 ### Line 56-64 (Match: 'Time')
@@ -156,7 +156,7 @@ I forgot; only after that did I see anything else (e.g. Dionysos). My experience
 
 Yes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh.
 ```
-**Co-occurrences**: Rome, Kingdom, Well, Dionysos, Elijah, Like, Because, Iron, Only, After, Just, Again, Kingdom of God, March, Great, House, Before, Kingship, Were, Have, Tree, Dead
+**Co-occurrences**: Rome, Kingdom, Well, Dionysos, Elijah, Like, Because, Iron, Only
 
 ---
 ### Line 62-70 (Match: 'Time')
@@ -173,7 +173,7 @@ Last edit almost 3 years ago by jhordan
 4
 Complete
 ```
-**Co-occurrences**: Christ, Logos, Complete, Rome, Well, These, Elijah, Like, Iron, Just, Look, Being, March, More, Real, Upon, Universe, Creation
+**Co-occurrences**: Linear, Christ, Logos, Complete, Rome, Well, These, Elijah, Like, Iron
 
 ---
 ### Line 70-78 (Match: 'Time')
@@ -190,7 +190,7 @@ Time had to run out for me before the Final Things could take place. I at last r
 
 The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat I tossed the St. Christopher's medal into his grave with him, poor rat who only wanted to live. But you see how I had been educated by that dreadful morning: the rat had to be killed because of my little girls. It was a lesson for me, uniquely my lesson: that death was unavoidable in more than the descriptive way: that creatures do die. I saw that day that sometimes they should die; that it was of a moral necessity that I literally kill that rat. I never had that rat's
 ```
-**Co-occurrences**: Ubik, Spirit, Complete, Rome, Form, Parousia, Father, World, Since, Because, Only, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Ubik, Spirit, Complete, Rome, Form, Parousia, Father, World, Since, Because, Only
 
 ---
 ### Line 72-80 (Match: 'Time')
@@ -207,7 +207,7 @@ The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat 
 
 Last edit over 5 years ago by A23
 ```
-**Co-occurrences**: Ubik, Spirit, Rome, Form, Parousia, Father, World, Since, Because, Only, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Ubik, Spirit, Rome, Form, Parousia, Father, World, Since, Because, Only
 
 ---
 ### Line 82-90 (Match: 'Time')
@@ -224,7 +224,7 @@ I didn't draw a personal lesson though that I should shape up or ship outl my le
 
 I think that in 1974 my entelechy was completed, but I never heard of anyone having his entelechy completed (watch it, Claudia), be-cause this means that the time has ended, not by God intervening, but because the last frames ran through the film ended naturally. Well, see, here is your clue: when the last frames of my film (entelechy) passed faster and faster through the projector, I wasn't perfect; I'm still full of alll
 ```
-**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+**Co-occurrences**: Philip, Phil, Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only
 
 ---
 ### Line 86-94 (Match: 'Time')
@@ -241,7 +241,7 @@ Last edit over 5 years ago by FolkDevil
 
 6
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Maybe, Because, Only, Something, Again, Empedocles, Self, Divine, Philip, House, Without, Still, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Have, Things, Judgment, Claudia, Instead, Having, Except, During
+**Co-occurrences**: Philip, Phil, Spirit, Holy, Holy Spirit, Well, Maybe, Because, Only
 
 ---
 ### Line 91-99 (Match: 'Time')
@@ -257,7 +257,7 @@ I do not see where I am changed, but I was spared the Wrath and I was of use (ag
 
 Hey, I figured out (you laughed) Nixon is the best – beast.
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Nixon
 
 ---
 ### Line 93-101 (Match: 'Time')
@@ -273,7 +273,7 @@ Hey, I figured out (you laughed) Nixon is the best – beast.
 
 IX From nIXon That’s Latin for 9 IC from dICk That’s Latin for 99
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Dick, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Nixon
 
 ---
 ### Line 107-115 (Match: 'Time')
@@ -290,7 +290,7 @@ Forms have a point of completion. Like a novel. They don’t go on and on. That 
 
 And yet we experience it backward. It was, as you put it, our childhood. “We see – the universe – as by reflection from the bottom of a burnished metal pan, but now directly for a moment,” said St. Paul. This is all a flashback: our life, a post vitam. Like the squib, the interoffice memo before THREE STIGMATA which is the novel, and what takes place “after” it is really what took place before it, which is there to explain it. I, the little boy like Christopher; that’s me completed.
 ```
-**Co-occurrences**: Complete, Form, Paul, Parousia, Like, After, Stigmata, Zebrapedia, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life
+**Co-occurrences**: Zebrapedia, Complete, Form, Paul, Parousia, Like
 
 ---
 ### Line 109-117 (Match: 'Time')
@@ -307,7 +307,7 @@ And yet we experience it backward. It was, as you put it, our childhood. “We s
 
 Oh God, Claudia; the “explosion” is throwing is throwing us backward into lineal time away from the moment of completion/perfection of each of us. What age do you guess? The Savior didn’t say “babies.” I think about 3 or 4 years old, maybe up to 6.
 ```
-**Co-occurrences**: Complete, Form, Paul, Parousia, Maybe, Like, After, Stigmata, Savior, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life, Claudia
+**Co-occurrences**: Complete, Form, Paul, Parousia, Maybe, Like
 
 ---
 ### Line 113-121 (Match: 'Time')
@@ -324,7 +324,7 @@ One could say, Before the World took the little child and taught it to see and t
 
 Yes, maybe so, Claudia; while the teacher was still the universe. I remember how God, as body-of-God, the universe, taught me, through bugs and bees, the sight of an old blind lady in a great wheel chair. I knew about being bushwacked (by a bee) about old age and death; I knew about the Fish sign, too, the Savior: I called him “Tunny,” from a del Monte billboard for some canned food. We had to travel under the Oakland Estuary in the Alameda Tube, and I saw the tube like a can; at the end we emerged in the sunlight and I saw the billboard with “Tunny” on it. I loved ol’ Tunny, the great fish (like Charley the Tuna now must be to kids). Claudia, I tell you the truth: through (via, not from in, within) such shapes, the true living Archetypes speak to us, especially as children, but now, too, if we liksten. In my kids’ story book the figure of the old king… through him God actually moved toward me, later appearing in a “dream” about my story book,” If you see. I saw this last night, how the drawn figure of the old king is:
 ```
-**Co-occurrences**: Form, King, Paul, Fish, Maybe, Like, World, Only, After, Stigmata, Savior, Book, Could, Just, Reality, Being, Great, Without, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Christopher, Under, Have, Life, Body, Claudia, Later, Remember, Truth, Dream
+**Co-occurrences**: Form, King, Paul, Fish, Maybe, Like, World, Only
 
 ---
 ### Line 129-137 (Match: 'Time')
@@ -341,6 +341,6 @@ A little girl, Rosemary, was born, but the fairies came and they swept her away 
 
 The moral of the novel was that you can be different and the King will understand but no one else will, and if you show you can do magic they will be vexed in spirit to see this, but wow, is it a trip, to turn for instance a strip of cloth in deepest winter into a garland of poppies which sizzle when they hit the snow (locale: Sweden). Rosemary (no, Rose; the other was Mary; how clever); the fairy child here in mortaldom: she could make Spring come during the deep winter. This is what she did that I remember; the snow man who winked because she made him alive; anyone can cause a golem to come to life. But the sizzling rope of poppies, in winter, which had just been cloth, just pretend – that is a superacid trip, Claudia, and you know it. The heat (thermal units), the life (Dionysos, Kore, Demeter) – she had a boyfriend for me to identify with, in case some body kid read the book, like me. He was a fairy prince named Stephen. He knew (i.e. why she could do magic).
 ```
-**Co-occurrences**: Spirit, Complete, King, Well, Dionysos, Like, World, Because, Only, Book, Could, Does, Anyhow, Zebrapedia, Just, Girl, Their, Will, Other, Erasmus, Back, Life, Body, Claudia, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+**Co-occurrences**: Zebrapedia, Spirit, Complete, King, Well, Dionysos, Like, World, Because, Only
 
 ---

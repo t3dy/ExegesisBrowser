@@ -19,7 +19,7 @@ It is interesting, how we inadvertently (unknowngly) carry Zebra's mesages for I
 
 Since I qua human for a [limited] time could discern Zebra's messages I think it possible that other humans can + do too + perhaps continually as PTS of Zebra.
 ```
-**Co-occurrences**: These, Perhaps, Like, Since, Time, Could, Suppose, Both, Being, Although, Either, Brain, Ground, Certainly, Other, Back, Body, Information, Knowledge, Human, Doesn
+**Co-occurrences**: Time, Information, These, Perhaps, Like, Since
 
 ---
 ### Line 4386-4394 (Match: 'Zebra')
@@ -36,7 +36,7 @@ Since I qua human for a [limited] time could discern Zebra's messages I think it
 
 If PTS the Universe are not Zebra, then Zebra is not identical to the universe nor congruent with it as I saw it is fashioning itself out of the universe using it as raw material this is quite different from saying that The universe is alive" or "is God". It is as if the old universe is Zebra; antagonist (in the 2 player game).
 ```
-**Co-occurrences**: These, Perhaps, Like, Since, Time, Could, Suppose, Both, Being, Although, Either, Brain, Ground, Certainly, Universe, Other, Back, Body, Information, Knowledge, Human, Doesn
+**Co-occurrences**: Time, Information, These, Perhaps, Like, Since
 
 ---
 ### Line 4388-4396 (Match: 'Zebra')
@@ -53,7 +53,7 @@ If PTS the Universe are not Zebra, then Zebra is not identical to the universe n
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: These, Perhaps, Like, Since, Time, Could, Suppose, Both, Being, Although, Either, Brain, Ground, Certainly, Universe, Other, Back, Body, Information, Knowledge, Human, Doesn
+**Co-occurrences**: Time, Information, These, Perhaps, Like, Since
 
 ---
 ### Line 4390-4398 (Match: 'Zebra')
@@ -70,7 +70,7 @@ Last edit almost 5 years ago by svayambhu108
 2
 Needs Review
 ```
-**Co-occurrences**: These, Perhaps, Since, Time, Could, Suppose, Either, Certainly, Universe, Other, Back, Human, Doesn
+**Co-occurrences**: Time, These, Perhaps, Since
 
 ---
 ### Line 4396-4404 (Match: 'Zebra')
@@ -87,7 +87,7 @@ In other words the flow of steganographic information is not a further mystery, 
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Plato, Brahman, Golden, World, Iron, Prison, Earth, Nixon, Black, Good, Even, Could, Just, Both, Reality, Black Iron Prison, Either, Creator, Real, Certainly, True, Other, Very, Further, Things, Information, Evil, Human, Iron Prison, Ananke
+**Co-occurrences**: Information, Plato, Brahman, Golden, World, Iron, Prison, Earth, Nixon
 
 ---
 ### Line 4398-4406 (Match: 'Zebra')
@@ -104,7 +104,7 @@ Last edit almost 5 years ago by svayambhu108
 3
 Needs Review
 ```
-**Co-occurrences**: Plato, Brahman, Golden, World, Iron, Prison, Earth, Nixon, Black, Good, Even, Could, Just, Both, Reality, Black Iron Prison, Either, Creator, Real, Certainly, True, Other, Very, Further, Things, Information, Evil, Human, Iron Prison, Ananke
+**Co-occurrences**: Information, Plato, Brahman, Golden, World, Iron, Prison, Earth, Nixon
 
 ---
 ### Line 4408-4416 (Match: 'Zebra')
@@ -121,7 +121,7 @@ What is odd is that although the object "moved visibly it certainly did not need
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Greek, Wisdom, Time, Could, Although, Corpus, More, Certainly, Love, Universe, Will, Other, Have, Things, Justice, Information, Dead, Final, Right
+**Co-occurrences**: Time, Information, Christ, Greek, Wisdom
 
 ---
 ### Line 4416-4424 (Match: 'Zebra')
@@ -138,7 +138,7 @@ This growing, Corpus of Zebra is, like him, concealed by
 
 what I am tempted to call the same mimicking mechanism process by which Zebra conceal himself from us: it is Mundo Absconditus, but in our midst. Surely this is the "Kingdom of his son" spoken of in Col. I. If indeed 3-74 was my passing over into the new world, I reason there must be other humane already there, already incorporated -surely they can read the messages (which are a lot like those from Runciter in Ubik).
 ```
-**Co-occurrences**: Ubik, Kingdom, Maybe, Like, World, Runciter, Himself, Corpus, Those, Other, Surely
+**Co-occurrences**: Ubik, Kingdom, Maybe, Like, World
 
 ---
 ### Line 4418-4426 (Match: 'Zebra')
@@ -155,7 +155,7 @@ what I am tempted to call the same mimicking mechanism process by which Zebra co
 
 -Better put it: "all it can do is arrange things." Absolutely right Even its messages are arrangements of what already exists. So its process of assembling was an arranging But to produce what? To what effect (i.e. how will it differ from unarranged?) well, the definition of "unarranged is anomic or chaos - arranged equals kosmos. So Zebra is busy persuading arranging)) ananke; anomic into Noos Kosmos
 ```
-**Co-occurrences**: Ubik, Kingdom, Well, Maybe, Like, World, Noos, Even, Kosmos, Runciter, Himself, Corpus, Those, Will, Other, Surely, Things, Right, Ananke
+**Co-occurrences**: Ubik, Kingdom, Well, Maybe, Like, World
 
 ---
 ### Line 4420-4428 (Match: 'Zebra')
@@ -172,7 +172,7 @@ what I am tempted to call the same mimicking mechanism process by which Zebra co
 
 Zebra = Plato's noos = Holly wisdom = Christ
 ```
-**Co-occurrences**: Christ, Ubik, Plato, Kingdom, Well, Wisdom, Maybe, Like, World, Noos, Even, Kosmos, Runciter, Himself, Corpus, Those, Will, Other, Surely, Things, Right, Ananke
+**Co-occurrences**: Christ, Ubik, Plato, Kingdom, Well, Wisdom, Maybe, Like, World
 
 ---
 ### Line 4422-4430 (Match: 'Zebra')
@@ -189,7 +189,7 @@ Zebra = Plato's noos = Holly wisdom = Christ
 
 The cosmology of Timaeus is correct; our God (Christ) has wisdom + knows just how to arranged everything which James-James grinds out. Then we are not moving toward entropy but toward greater structure (form - in fact form of forms) no wonder I saw geometrical forms (Fibonacci, ratio [1 to .618032?]) But what are the actual (empirical) results? How does this growth of form over formless reveal itself? One [region?] occurs to me: the evolution of life forms. What Zebra is assembling is alive - perhaps a great composite brain (cf Teilhard - the noosphere Expressed in terms of grown, relatedness of consciousness by humans - all life - here on Earth + elsewhere. The great [collective?]
 ```
-**Co-occurrences**: Christ, Ubik, Form, Plato, Kingdom, Well, Wisdom, Perhaps, James, Like, World, Earth, Noos, Even, Does, Just, Kosmos, Teilhard, Runciter, Everything, Himself, Corpus, Great, Brain, Those, Timaeus, Will, Other, Surely, Things, Life, Greater, Right, Ananke
+**Co-occurrences**: Entropy, Christ, Ubik, Form, Plato, Kingdom, Well, Wisdom, Perhaps, James, Like, World, Earth
 
 ---
 ### Line 4424-4432 (Match: 'Zebra')
@@ -206,7 +206,7 @@ The cosmology of Timaeus is correct; our God (Christ) has wisdom + knows just ho
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Ubik, Form, Plato, Kingdom, Well, Wisdom, Perhaps, James, Like, World, Earth, Noos, Even, Does, Just, Kosmos, Teilhard, Runciter, Everything, Himself, Great, Brain, Those, Timaeus, Will, Other, Surely, Things, Life, Greater, Right, Ananke
+**Co-occurrences**: Entropy, Christ, Ubik, Form, Plato, Kingdom, Well, Wisdom, Perhaps, James, Like, World, Earth
 
 ---
 ### Line 4426-4434 (Match: 'Zebra')
@@ -223,7 +223,7 @@ Last edit almost 5 years ago by svayambhu108
 5
 Needs Review
 ```
-**Co-occurrences**: Christ, Form, Plato, Well, Wisdom, Perhaps, James, Earth, Noos, Even, Does, Just, Kosmos, Teilhard, Everything, Great, Brain, Timaeus, Will, Things, Life, Greater, Right, Ananke
+**Co-occurrences**: Entropy, Christ, Form, Plato, Well, Wisdom, Perhaps, James, Earth
 
 ---
 ### Line 4441-4449 (Match: 'Zebra')
@@ -239,7 +239,7 @@ Once I said I wanted to see the world of unchange behind the change. The way it 
 
 It may not be that He can't coerce- but just that he doesn't
 ```
-**Co-occurrences**: Xerox, Lord, World, Only, Mind, Just, Once, Heraclitus, Without, Dokos, Flux, Upon, Universe, Will, Whatever, Judgment, Doesn, Ananke
+**Co-occurrences**: Xerox, Lord, World, Only
 
 ---
 ### Line 4500-4508 (Match: 'Zebra')
@@ -255,7 +255,7 @@ Last edit almost 5 years ago by svayambhu108
 12
 Needs Review
 ```
-**Co-occurrences**: Kingdom, Paul, These, Like, Time, After, Even, Just, Being, Divine, Darkness, Creator, Actually, True, Universe, Would, Somehow, Very, Things, Life, Evil, Suddenly
+**Co-occurrences**: Time, Linear, Kingdom, Paul, These, Like
 
 ---
 ### Line 4508-4516 (Match: 'Zebra')
@@ -272,7 +272,7 @@ Last edit almost 5 years ago by svayambhu108
 13
 Needs Review
 ```
-**Co-occurrences**: Tears, Ubik, Fish, Maze, These, Like, Only, Time, Good, Even, Could, Just, Runciter, Brain, Still, Through, Gold, Would, Other, Were, Later, Magic, Evidently, Right
+**Co-occurrences**: Time, Tears, Ubik, Fish, Maze, These, Like, Only
 
 ---
 ### Line 4516-4524 (Match: 'Zebra')
@@ -289,7 +289,7 @@ Last edit almost 5 years ago by svayambhu108
 14
 Needs Review
 ```
-**Co-occurrences**: Xerox, Bible, Maybe, Iron, Prison, Only, Time, Black, Cosmic, Mind, Just, Something, Look, Being, Black Iron Prison, Great, More, Holt, True, Were, Very, Surely, Have, Things, Otherwise, Iron Prison, Dream
+**Co-occurrences**: Time, Xerox, Bible, Maybe, Iron, Prison, Only
 
 ---
 ### Line 4528-4536 (Match: 'Zebra')
@@ -306,7 +306,7 @@ Last edit almost 3 years ago by svayambhu108
 
 16
 ```
-**Co-occurrences**: Christian, Xerox, Fish, Golden, World, Because, Golden Fish, Iron, Prison, Time, Black, Anyhow, Black Iron Prison, Anamnesis, Still, More, Another, Gold, Love, Would, Other, Further, Have, Memory, Iron Prison, Right, Track
+**Co-occurrences**: Time, Anamnesis, Christian, Xerox, Fish, Golden, World, Because, Golden Fish, Iron, Prison
 
 ---
 ### Line 4533-4541 (Match: 'Zebra')
@@ -322,7 +322,7 @@ We hadn't been there (black I.P.) I had been. The whole uncut some - the Gold fi
 
 Whole new theory: Black iron prison world not memory but subspecia aeternitas of our world; the CP USSR secretly runs the whole world.
 ```
-**Co-occurrences**: Fish, World, Iron, Prison, Black, Mind, Girl, Black Iron Prison, Probably, Gold, Will, Were, Memory, Instead, Iron Prison, Right
+**Co-occurrences**: Fish, World, Iron, Prison
 
 ---
 ### Line 4541-4549 (Match: 'Zebra')
@@ -339,6 +339,6 @@ Last edit less than 10 seconds ago by Gabriel Mckee
 17
 Indexed
 ```
-**Co-occurrences**: Indexed, Christianity, Fish, Gnosticism, World, Iron, Prison, Only, Time, Black, Gabriel, Mckee, Gabriel Mckee, Christi, Black Iron Prison, Corpus, Great, Corpus Christi, Living, True, Have, Body, Memory, Magic, Iron Prison, Salvation, White
+**Co-occurrences**: Gnosticism, Time, Indexed, Christianity, Fish, World, Iron, Prison, Only
 
 ---

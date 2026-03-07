@@ -20,7 +20,7 @@ But of all that I understood, a union with God by means of the Logos meant most 
 
 I think that my seeing the Levant in Feb 1975 is as important, although less striking, as my seeing Rome in March 1974. In both cases, the thrall of time was removed, disclosing the eternal world, in Dante's sense. A transition had been made in that world (it is hard for someone unacquainted with Medieval thought to understand progression in eternity, but the basis would be a progression or procession of Platonic archetypes[.] The archetype in March 1974 was Rome and Iron and Slavery, with a corresponding need to fight for freedom, truth and justice; however, a year
 ```
-**Co-occurrences**: Logos, Rome, Sophia, Plato, However, Wisdom, These, Perhaps, Plotinus, World, Iron, Only, Time, Light, Could, Anyhow, Something, Both, March, Although, Dante, Platonic, Palm, Santa, Anamnesis, Nothing, Kathy, Soul, Most, Consider, Santa Sophia, Universe, Would, Erasmus, Back, Many, Have, Life, Body, Justice, Spring, Freedom, Truth, Someone
+**Co-occurrences**: Plotinus, Sophia, Time, Anamnesis, Santa Sophia, Logos, Rome, Plato, However, Wisdom, These, Perhaps, World, Iron, Only
 
 ---
 ### Line 5725-5733 (Match: 'Platonist')
@@ -37,7 +37,7 @@ Pinky wearing the scarf - dying + humiliated, + being somehow Christ, revealed t
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Christ, Tears, Toso, Rome, Form, Kingdom, These, Plotinus, Father, World, Iron, Prison, Time, Black, Buckman, Could, Pinky, Again, Being, Divine, Black Iron Prison, Himself, Great, More, Babylon, Real, Somehow, Were, Illustration, Very, Back, Beyond, Truth, Iron Prison, Until, August
+**Co-occurrences**: Plotinus, Time, Christ, Tears, Toso, Rome, Form, Kingdom, These, Father, World, Iron, Prison
 
 ---
 ### Line 5974-5982 (Match: 'Platonist')
@@ -54,7 +54,7 @@ Last edit almost 3 years ago by svayambhu108
 10
 Needs Review
 ```
-**Co-occurrences**: Ubik, Thomas, Rome, Form, However, Time, Even, Could, Does, Suppose, Reality, Without, Nothing, More, Through, Such, Would, Other, Were, Back, Whatever, Mani, Having, Evidently
+**Co-occurrences**: Thomas, Time, Linear, Ubik, Rome, Form, However
 
 ---
 ### Line 6126-6134 (Match: 'Platonist')
@@ -71,7 +71,7 @@ Last edit almost 3 years ago by svayambhu108
 
 36
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Plato, Satan, However, Maze, Wisdom, Advent, World, Because, Only, John, Time, Good, Light, Gospel, Does, Just, Once, Reality, Being, Jesus Christ, Although, Viewed, Darkness, Creator, Still, More, Through, Upon, Actually, Secret, Love, Before, True, Death, Universe, Were, Absolute, Justice, Having, Truth, Dead, Evidently, Pleroma, Sacred
+**Co-occurrences**: Time, Pleroma, Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Plato, Satan, However, Maze, Wisdom, Advent, World, Because, Only, John
 
 ---
 ### Line 11026-11034 (Match: 'Platonist')
@@ -88,7 +88,7 @@ Last edit almost 3 years ago by svayambhu108
 
 46
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Like, World, Fall, Time, Savior, Does, Divine, Anamnesis, Through, Living, Very, Life, Justice, Luther, Unless, Greater, Sacred
+**Co-occurrences**: Time, Anamnesis, Linear, Christ, Christian, Jesus, Like, World, Fall
 
 ---
 ### Line 14984-14992 (Match: 'Platonist')
@@ -105,9 +105,7 @@ Last edit over 5 years ago by Toso
 Folder 03 - 069
 Complete
 ```
-**Co-occurrences**: Christ, Tears, Acts, Ubik, Toso, Indexed, Holy, Zebra, Logos, Complete, Form, Kingdom, Well, Wisdom, These, World, Since, Because, Folder, Holy Wisdom, Could, Just, Realm, Heraclitus, Being, Obviously, Self, Toso
-Folder, Either, Indexed
-Folder, Bruno, Another, Most, Real, Kant, Have, Absolute, Magic
+**Co-occurrences**: Zebra, Kant, Christ, Tears, Acts, Ubik, Toso, Indexed, Holy, Logos, Complete, Form, Kingdom, Well, Wisdom, These, World, Since, Because
 
 ---
 ### Line 17300-17308 (Match: 'Platonist')
@@ -123,8 +121,7 @@ Last edit about 8 years ago by Toso
 folder 21 - 057
 Indexed
 ```
-**Co-occurrences**: Christian, Toso, Indexed, Plato, Gnostic, Well, Gnosticism, World, Gnosis, Prison, Earth, Folder, Just, Look, Divine, Toso
-Folder, Anamnesis, More, Soul, Real, Secret, True, Life, Remember, Pleroma, Right
+**Co-occurrences**: Gnosticism, Gnostic, Anamnesis, Pleroma, Christian, Toso, Indexed, Plato, Well, World, Gnosis, Prison, Earth
 
 ---
 ### Line 18109-18117 (Match: 'Platonist')
@@ -141,7 +138,7 @@ I just realized after writing the above, as I recall the perturbation in the rea
 
 But I stand with the formulation in "Valis," that rational intelligence did not create (give rise to) the universe but is either a product of it, or, more likely, has invaded it to combat its blind mechanistic striving. Thus it is pitted against the universe. My proof: that it is assembling itself from othe universe, which it uses as parts which it incorporates & arranges coherently & meaningfully. What this is in conventional theological terms I don't know, but I know what I experienced & I saw as it sees & knew what it knows - & that is enough.
 ```
-**Co-occurrences**: Valis, Complete, Gnostic, Like, World, After, Just, Realm, Reality, Either, More, Real, Universe, Were, Whatever, Dialectic, Upper, Truth, Qumran, Lower
+**Co-occurrences**: Valis, Gnostic, Dialectic, Complete, Like, World
 
 ---
 ### Line 20519-20527 (Match: 'Platonist')
@@ -157,7 +154,7 @@ Pythagorianism was shamanistic, placed emphasis on health, on Apollo + the Delph
 
 My revealed dialectic could be that of Empedocles.
 ```
-**Co-occurrences**: Valis, Form, Plato, Wisdom, Like, Pythagoras, Could, Reality, Kosmos, Being, Empedocles, Apollo, Sibyl, Anamnesis, More, Soul, Most, Orphism, Certainly, Things, Life, Having, Dialectic, Magic, Greater, Human
+**Co-occurrences**: Valis, Anamnesis, Dialectic, Form, Plato, Wisdom, Like
 
 ---
 ### Line 21321-21329 (Match: 'Platonist')
@@ -174,7 +171,7 @@ Last edit almost 3 years ago by svayambhu108
 114
 Needs Review
 ```
-**Co-occurrences**: Acts, Gnostic, Since, Time, Bardo, Thodol, Bardo Thodol, Being, Everything, Essene, Through, Soul, Shekhina, True, Will, Would, Other, Back, Tree, Life, Info, Until
+**Co-occurrences**: Gnostic, Time, Acts, Since
 
 ---
 ### Line 25512-25520 (Match: 'Platonist')
@@ -191,9 +188,7 @@ Last edit almost 7 years ago by Toso
 folder 48 - 129
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Plato, Spinoza, Plotinus, World, Parmenides, After, Folder, Pythagoras, Does, Just, Realm, Again, Heidegger, Reality, Platonic, Orphic, Toso
-Folder, Deus, Indexed
-Folder, Soul, Real, Death, Western, Deity, Other, Creation, Were, Back, Beyond, Have, Journey, Life, Body, Upper, Right
+**Co-occurrences**: Plotinus, Toso, Indexed, Plato, Spinoza, World, Parmenides
 
 ---
 ### Line 26185-26193 (Match: 'Platonist')
@@ -210,7 +205,7 @@ I have no real "now." Which curses me with high BP - but: I got to get up into t
 
 Last edit over 2 years ago by euxzebra
 ```
-**Co-occurrences**: Christian, Ubik, Indexed, Form, Greek, Maybe, Because, Time, Once, Realm, Being, Real, Finally, Have, Upper
+**Co-occurrences**: Time, Christian, Ubik, Indexed, Form, Greek, Maybe, Because
 
 ---
 ### Line 32081-32089 (Match: 'Platonist')
@@ -227,7 +222,7 @@ Of course, if the real is defined as "that which is eternal," which is one defin
 
 Last edit about 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Valis, Christian, Ubik, Form, Plato, However, These, Plotinus, World, Parmenides, Because, Platonism, Good, Mind, Does, Again, Being, Everything, Brain, More, Real, Flux, Will, Would, Were, Further, Have, Things, Form World, Right
+**Co-occurrences**: Plotinus, Valis, Christian, Ubik, Form, Plato, However, These, World, Parmenides, Because
 
 ---
 ### Line 32116-32124 (Match: 'Platonist')
@@ -244,7 +239,7 @@ Last edit about 5 years ago by svayambhu108
 52
 Needs Review
 ```
-**Co-occurrences**: Valis, Christian, Form, Spinoza, These, Plotinus, Like, World, Since, Noos, Pythagoras, Mind, Realm, Kosmos, Heraclitus, Being, Brain, Flux, Would, Somehow, Back, Many, Life, Apparently, Memory
+**Co-occurrences**: Plotinus, Valis, Christian, Form, Spinoza, These, Like, World, Since
 
 ---
 ### Line 32164-32172 (Match: 'Platonist')
@@ -261,7 +256,7 @@ Last edit about 5 years ago by svayambhu108
 
 56
 ```
-**Co-occurrences**: Form, Sophia, Plato, Gnostic, Gnosticism, However, Perhaps, Godhead, Plotinus, World, Since, Gnosis, Platonism, Could, Does, Just, Something, Realm, Both, Maya, Being, Hagia, Hagia Sophia, Jewish, Zoroaster, Still, Dokos, Their, More, Egypt, Real, Flux, Voice, Actually, Secret, Would, Egyptian, Campbell, Neither, Dialectic, Upper, Greater, Lower, Form World
+**Co-occurrences**: Gnosticism, Plotinus, Sophia, Gnostic, Hagia Sophia, Dialectic, Form, Plato, However, Perhaps, Godhead, World, Since, Gnosis
 
 ---
 ### Line 33503-33511 (Match: 'Platonist')
@@ -278,7 +273,7 @@ Well, frankly it would seem that I had a somewhat Platonized version of Taoist e
 
 And the Taoist alchemical events seem to correspond with my becoming revitalized and not dying; the union of the opposites within me; and, most of all, Firebright, "the mysterious embryo," the "infant,” the new immortal being that eventually leaves the mortal body through the occiput (the top of the skull) and ascends to heaven,” obviously when I die.
 ```
-**Co-occurrences**: Valis, Christian, Form, Plato, Brahman, Well, Godhead, Parmenides, Only, After, Yang, Firebright, Just, Taoism, Reality, Being, Obviously, Taoist, Through, Most, Heaven, Ground, Flux, Certainly, Universe, Would, Ching, Very, Under, Have, Absolute, Body, Dialectic
+**Co-occurrences**: Valis, Firebright, Dialectic, Christian, Form, Plato, Brahman, Well, Godhead, Parmenides, Only
 
 ---
 ### Line 33517-33525 (Match: 'Platonist')
@@ -295,7 +290,7 @@ The "Both is and is not" of Valis means, perhaps, that it is above being; it emb
 
 3-74, then, divides into two elements;
 ```
-**Co-occurrences**: Valis, Christian, Ubik, Logos, Perhaps, Since, Once, Taoism, Both, Being, Taoist, Absolute, Dialectic
+**Co-occurrences**: Valis, Dialectic, Christian, Ubik, Logos, Perhaps, Since
 
 ---
 ### Line 33842-33850 (Match: 'Platonist')
@@ -312,7 +307,7 @@ Last edit almost 5 years ago by svayambhu108
 183
 Needs Review
 ```
-**Co-occurrences**: Valis, Ubik, Spirit, Logos, Complete, Christianity, Form, These, Perhaps, Plotinus, World, Time, Platonism, Could, Again, Suppose, Reality, Kosmos, Being, Nous, Although, Great, More, Soul, Revelation, Universe, Would, Have, Greater, Form World
+**Co-occurrences**: Plotinus, Valis, Time, Ubik, Spirit, Logos, Complete, Christianity, Form, These, Perhaps, World
 
 ---
 ### Line 33854-33862 (Match: 'Platonist')
@@ -329,7 +324,7 @@ Last edit almost 5 years ago by svayambhu108
 184
 Needs Review
 ```
-**Co-occurrences**: Christ, Plato, Plotinus, World, Parmenides, Fall, Cosmic, Cosmic Christ, Does, Taoism, Realm, Again, Reality, Kosmos, Heraclitus, Anamnesis, Dokos, More, Another, Through, Orphism, Flux, Certainly, Revelation, Creation, Very, Have, Dialectic, Upper, Lower, Whereas
+**Co-occurrences**: Plotinus, Anamnesis, Dialectic, Christ, Plato, World, Parmenides, Fall
 
 ---
 ### Line 33997-34005 (Match: 'Platonist')
@@ -345,6 +340,6 @@ lacks the a priori knowledge of St. Sophia. Plotinus/Gnosticism/Paulline Xtianit
 {folder 01 - 007
 Indexed
 ```
-**Co-occurrences**: Ubik, Indexed, Rome, Christianity, Form, Sophia, Gnostic, Gnosticism, Plotinus, World, Fall, Folder, Platonism, Could, Just, Heidegger, Being, Nous, Brain, Most, Other, Knowledge, Dialectic, Human
+**Co-occurrences**: Gnosticism, Plotinus, Sophia, Gnostic, Dialectic, Ubik, Indexed, Rome, Christianity, Form, World, Fall
 
 ---

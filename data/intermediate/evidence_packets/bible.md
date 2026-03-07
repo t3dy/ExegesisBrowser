@@ -20,7 +20,7 @@ Last edit over 5 years ago by Zebrapedia
 7
 Complete
 ```
-**Co-occurrences**: Complete, Like, Nixon, Good, Anyhow, Zebrapedia, Just, Something, Look, Tessa, Wait, Dick, Universe, Will, Other, Page, Erasmus, Have
+**Co-occurrences**: Zebrapedia, Complete, Like, Nixon
 
 ---
 ### Line 157-165 (Match: 'Bible')
@@ -37,7 +37,7 @@ Ground equals WHERE Set equals WHAT
 
 The WHAT is Final Reckoning Time or Out-of-Time, and after accounts are settled, we get to go to the seashore. Okay? But first the poor rat has to die; poor creature; and then we’re released.
 ```
-**Co-occurrences**: Indexed, Like, Since, Time, After, Book, Okay, Zebrapedia, Ground, Will, Claudia, Testament, Chip, Final
+**Co-occurrences**: Time, Zebrapedia, Indexed, Like, Since
 
 ---
 ### Line 436-444 (Match: 'Bible')
@@ -54,7 +54,7 @@ The [Quamran] personality, who, for fictional purposes, I call Thomas, gradually
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Acts, Thomas, Holy, Jesus, Form, Well, Parousia, These, World, Because, Iron, Earth, Mind, Book, Zagreus, Self, Anamnesis, Essene, Their, Zeus, Most, Such, Secret, Will, Would, Other, Erasmus, Back, Have, Life, Testament, Days, Dead, Suddenly, Qumran, Final, Until
+**Co-occurrences**: Thomas, Anamnesis, Acts, Holy, Jesus, Form, Well, Parousia, These, World, Because, Iron, Earth
 
 ---
 ### Line 975-983 (Match: 'Bible')
@@ -71,7 +71,7 @@ What is involved is a restoring, a new life which is the igniting by means of th
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Logos, Rome, Fish, Roman, Advent, Maybe, Like, World, Because, Therefore, Only, Time, Harpax, Savior, Does, Just, Look, Both, Being, Although, Everything, Platonic, Probably, Those, Part, More, Fullerton, Secret, Before, Christopher, Would, Other, Were, Very, Back, Life, Body, Days, Knowledge, Cross, Evidently, Someone, Answer, Until
+**Co-occurrences**: Time, Christ, Christian, Logos, Rome, Fish, Roman, Advent, Maybe, Like, World, Because, Therefore, Only
 
 ---
 ### Line 990-998 (Match: 'Bible')
@@ -87,7 +87,7 @@ Not the physical sun that day had done out (had it, as in an eclipse, I wouldn't
 
 But more: what Laura and I saw must have been what Jesus himself, on the cross, saw: the Other Sun had gone out (time dysfunction). We saw what we saw. And He died, because of that darkness. When Laura and I saw that certainly not Laura and not me either could have understood the significance of what we saw; I mean, this is not faked, because for us to see that rushing band of darkness, and lacking on back our parts the highly sophisticated knowledge I now have, we did not see it because we "expected" to see it. That was around 1962. It has taken 13 or so years for me to understand what that meant, which certifies to the genuineness of the experience. Then indeed, as related in the Bible, the sun did go out that day on Calvery. The sun went out. Then, as in 1962. This proves the connection between Christ or anyhow Christ's power or origin and the sun, as stated in the "Decoded." I am witness to what must consist of a valid (scientifically valid) proof of this. And, just as Isa had the book dream and healing dream here, Laura was witness with me then. In each case a daughter of mine was witness, without comprehension ("a little child shall lead them," because it can't fake it).
 ```
-**Co-occurrences**: Christ, Holy, Jesus, Well, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Certainly, Doris, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+**Co-occurrences**: Time, Decoded, Christ, Holy, Jesus, Well, Maybe, Because
 
 ---
 ### Line 994-1002 (Match: 'Bible')
@@ -104,7 +104,7 @@ Last edit over 5 years ago by Harpax
 67
 Needs Review
 ```
-**Co-occurrences**: Christ, Holy, Jesus, Well, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Certainly, Doris, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+**Co-occurrences**: Time, Decoded, Christ, Holy, Jesus, Well, Maybe, Because
 
 ---
 ### Line 1065-1073 (Match: 'Bible')
@@ -121,7 +121,7 @@ This makes of the Trinity a great biological organism in its several stages or p
 
 I guess you could say, the total family is, God (JHWH), his impregnating self which comes to man (the Holy Spirit, sent by God) (as Christ said), and if Christ is the Son, the issue, it's pretty obvious that we humans are the mother; we're all Mary right now, until we receive an inner, Light-body transformation, into what they call Christ Consciousness. Our completion/perfection is not here on this Earth, but after our physical body perishes ("If a grain of wheat remain solitary, not sown then it --" etc. Well, [i] guess [i] got it. Albemuth: the star of Bethlehem, which I kept gazing up, seeking. Point of His (HS) origin?
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Form, Well, Maze, Father, Earth, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Certainly, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+**Co-occurrences**: Decoded, Christ, Spirit, Holy, Holy Spirit, Form, Well, Maze, Father, Earth
 
 ---
 ### Line 1075-1083 (Match: 'Bible')
@@ -138,7 +138,7 @@ In one sense Firebright is within me; in another (looking ahead, past the tyrann
 
 There was another entity in me, all right: thinking away in Attic Greek. (the [l]ogos?) (the father?) (Firebright?) (The Holy Spirit? Probably the HS. But it proves one was; and, as Apollo made the sibyl do this and that, it made me do this and that.
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Father, Maybe, Since, Only, Time, Harpax, After, Savior, Light, Firebright, Does, Jesus Christ, Although, Apollo, Probably, Sibyl, Part, More, Zeus, Another, Through, Upon, Fullerton, Certainly, Mother, True, Death, Will, Christopher, Would, Attic, Have, Body, Except, Human, Right, Mary
+**Co-occurrences**: Time, Firebright, Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Father, Maybe, Since, Only
 
 ---
 ### Line 1087-1095 (Match: 'Bible')
@@ -155,7 +155,7 @@ In connection with this, I wasn't just back in Rome; I was aware of two portions
 
 The "Dec N T" says that this time Christ won't appear in the form of one single man (as he did as Jesus before), because if he does, then they'll get him again and it'll be a failure again; therefore, as I understand it, this is what all this solar spermatika, the seeds, etc. talk has to do with; there will be many implantations, of persons already alive and walking around "at their regular tasks," and the births will be plural, and inside peoples' heads, and not out of a womb, as with Mary's. Gee, I finally understood it. There will be no one Savior born this time, but a different system. Vide St. Teresa of Avilia. "Now, Christ has no body but yours." Is before (at the First Advent) implantation will be done by the same spirit, the Holy Spirit, supra, and the same issue will occur: the Son, which explains Jesus' cryptic remarks about where the Kingdom would be (not here, not there, and Christ not here, not there). But: in you and among you. Yes indeed! Kingship, then, within given persons; the assumption of rule (this duplex personality) within various persons; this is the Second Advent, and not a mere anticipation, a la Elijah. This is the Second Coming itself, this Firebright implantations. I mean, these, not this. My God -- what happened to me (sic: to me) in 3 74 was the Second Advent, one of them, anyhow. Guess who Firebright is, viewed this way. This now resolves one mystery (mystery to me, anyhow): the relationship between Elijah and the Holy Spirit. What Malachi said would come back was the Spirit of Elijah (if you read about Elisha this is clear). Surely it wasn't the physical man. The Spirit of Elijah is the Old Testament Hebrew concept for the Christian Holy Spirit (remember, the Jews were absolute monotheists).
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Fish, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1096-1104 (Match: 'Bible')
@@ -171,7 +171,7 @@ Of course, their old actual bodies didn't reappear. My experience is that of how
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall
 
 ---
 ### Line 1676-1684 (Match: 'Bible')
@@ -188,7 +188,7 @@ What happened in 3 74 shows clearly the "Thy will not my will be done" aspect of
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Complete, Holy Spirit, Well, These, Perhaps, Like, Harpax, Mind, Book, Even, Could, Does, Anyhow, Something, Both, Reality, Although, Everything, Grace, More, Church, Through, Living, Certainly, Before, Universe, Finally, Will, Would, Other, Very, Back, Beyond, Under, Further, Have, Clearly, Things, Life, Testament, Knowledge, Sacred
+**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Complete, Holy Spirit, Well, These, Perhaps, Like
 
 ---
 ### Line 1686-1694 (Match: 'Bible')
@@ -205,7 +205,7 @@ My work of over one year was worth it. By means of it I can understand my experi
 
 "Saint Sophia will be reborn." This is God's promise to us. His Holy Wisdom will return to govern our world.
 ```
-**Co-occurrences**: Holy, Sophia, Kingdom, Wisdom, Lord, Elijah, World, Holy Wisdom, Good, Could, Being, Those, Most, Death, Will, Have, Wise
+**Co-occurrences**: Sophia, Saint Sophia, Holy, Kingdom, Wisdom, Lord, Elijah, World
 
 ---
 ### Line 1694-1702 (Match: 'Bible')
@@ -222,7 +222,7 @@ Would this be the Parousia? The dream in TEARS suggests it, as did all my dreams
 
 Also, "The Buddha is in the park."
 ```
-**Co-occurrences**: Tears, Holy, Sophia, King, Well, Parousia, Wisdom, Lord, Maybe, Like, World, Buddha, Holy Wisdom, Good, Book, Could, Does, Again, Santa, More, Before, Santa Sophia, Will, Would, Were, Have, Spring, Having, Israel, Dead, Dream, Salvation, Doesn
+**Co-occurrences**: Sophia, Santa Sophia, Saint Sophia, Tears, Holy, King, Well, Parousia, Wisdom, Lord, Maybe, Like, World
 
 ---
 ### Line 1708-1716 (Match: 'Bible')
@@ -239,7 +239,7 @@ I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sens
 
 . . . Re; TO SCARE THE DEAD. A character based on Jim Pike (with quite another name). Based on firsthand knowledge I had of his private life, e.g. with Maren in the Tenderloin, and the kind of man he was. This could be a major, if not the major character; but it would not be he who would have the Experience; that would be had by another, perhaps after
 ```
-**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Fish, Greek, Well, Roman, Perhaps, Advent, Like, World, Since, Therefore, Time, After, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Another, Pike, Such, Voice, Secret, Jim Pike, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During, Whereas
+**Co-occurrences**: Sophia, Time, Santa Sophia, Information, Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Paul, Fish, Greek, Well, Roman, Perhaps, Advent, Like, World, Since, Therefore
 
 ---
 ### Line 1939-1947 (Match: 'Bible')
@@ -256,7 +256,7 @@ It the Mission's Apostasy book is right ("Was, is not and yet is") then my visio
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Christian, Rome, Form, Fish, Greek, Perhaps, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Again, Reality, Being, Everything, Platonic, Viewed, Anamnesis, Nothing, Still, Dokos, Their, Another, Living, Real, True, Finally, Will, Would, Other, Mission, Somehow, Were, Very, Attic, Surely, Have, Spring, Likewise, Knowledge, Suddenly, Greater, Right
+**Co-occurrences**: Time, Anamnesis, Linear, Tears, Christian, Rome, Form, Fish, Greek, Perhaps, Like, World, Only
 
 ---
 ### Line 2101-2109 (Match: 'Bible')
@@ -273,7 +273,7 @@ Last edit over 5 years ago by Harpax
 
 156
 ```
-**Co-occurrences**: Christ, Tears, Rome, Kingdom, King, Felix, Well, Parousia, However, Perhaps, Maybe, Like, World, Since, Fall, Therefore, Iron, Only, Time, Harpax, After, Even, Could, Does, Kingdom of God, Although, Moses, Either, Still, Their, Egypt, Babylon, Revelation, Death, Will, Would, Angel, Were, Biblical, Have, Life, Wise, Evidently, Genesis, Free, Right, Until, August
+**Co-occurrences**: Time, Christ, Tears, Rome, Kingdom, King, Felix, Well, Parousia, However, Perhaps, Maybe, Like, World, Since, Fall, Therefore, Iron, Only
 
 ---
 ### Line 2114-2122 (Match: 'Bible')
@@ -290,7 +290,7 @@ If only I'd said plaintively to Father Rasch: "This man is a literate Greek, he'
 
 Luke lived a lot in Syria. A palm tree country, like what I saw in 2 75. His beloved homeland. His concept of springtime.
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Paul, Greek, Roman, However, Father, Like, Because, Only, Harpax, Good, Book, Gospel, Just, Something, Both, Luke, Obviously, Palm, More, Certainly, Angel, Page, Have, Tree, Testament, Except, Syria, Dream
+**Co-occurrences**: Christ, Tears, Acts, Christian, Paul, Greek, Roman, However, Father, Like, Because, Only
 
 ---
 ### Line 2130-2138 (Match: 'Bible')
@@ -307,7 +307,7 @@ In other words the black man whom Buckman meets is even more like the black man 
 
 The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
 ```
-**Co-occurrences**: Tears, Acts, Holy, Christianity, Felix, Like, World, Harpax, After, Black, Buckman, Book, Even, Anyhow, Just, Something, Reality, Kosmos, Obviously, Philip, More, Another, Through, Living, Before, Other, Later, Suddenly, Dream, Right
+**Co-occurrences**: Philip, Tears, Acts, Holy, Christianity, Felix, Like, World
 
 ---
 ### Line 2443-2451 (Match: 'Bible')
@@ -324,7 +324,7 @@ which is to say, uncaused. I would know, wouldn't I? I heard the voice of my "ph
 
 . . . It is strange. . .I just realized that TEARS is what's called an apocalyptic novel. And in the narrative the dream of the king enters just where the king enters in "Revelation," the apocalyptic book of the Bible. A Platonic archetype is printing out on us down here, evidently; another conformation of the Platonistic view of reality. These are edola -- form-impressions here on us from above (obviously); then these are the anticipated portents & signs just before the Parousia; certainly they would not occur unless the Parousia were virtually here!
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Holy, Holy Spirit, Form, Sophia, King, Parousia, Golden, Wisdom, These, Perhaps, Elijah, Like, World, Fall, Time, Earth, Garden, Book, Light, Could, Hebrew, Just, Something, Again, Both, Reality, Being, Obviously, Everything, Platonic, Great, Part, Wait, Another, Most, Real, Voice, Certainly, Before, Revelation, Finally, Will, Would, Mission, Were, Back, Tree, Life, Spring, Remember, Unless, Knowledge, Truth, Dream, Evidently, Until
+**Co-occurrences**: Sophia, Time, Christ, Tears, Spirit, Holy, Holy Spirit, Form, King, Parousia, Golden, Wisdom, These, Perhaps, Elijah, Like, World, Fall, Earth
 
 ---
 ### Line 2447-2455 (Match: 'Bible')
@@ -341,6 +341,6 @@ Last edit over 5 years ago by Harpax
 183
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Holy, Holy Spirit, Form, Sophia, King, Parousia, Golden, Wisdom, These, Perhaps, Elijah, Like, World, Fall, Time, Earth, Harpax, Garden, Book, Light, Hebrew, Just, Something, Again, Reality, Being, Obviously, Everything, Platonic, Great, Part, Wait, Another, Most, Real, Certainly, Before, Revelation, Finally, Will, Would, Mission, Were, Back, Tree, Life, Spring, Remember, Unless, Knowledge, Truth, Dream, Evidently, Until
+**Co-occurrences**: Sophia, Time, Christ, Tears, Spirit, Holy, Holy Spirit, Form, King, Parousia, Golden, Wisdom, These, Perhaps, Elijah, Like, World, Fall, Earth
 
 ---

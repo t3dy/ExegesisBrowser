@@ -20,7 +20,7 @@ Tessa's name for me (without her knowing all this, supra) is Rowie Rog. A combin
 
 My personal salvation was a lapidary work achieved throughout many steps, interlocking, in my life. I had to shed the poor rat, and acquire the fawn, via the (blood of) the lamb.
 ```
-**Co-occurrences**: Ubik, Toso, Could, Tony, Without, Tessa, Soul, Will, Were, Many, Life, Blood, Dead, Salvation, Lamb
+**Co-occurrences**: Ubik, Toso
 
 ---
 ### Line 66-74 (Match: 'Complete')
@@ -37,7 +37,7 @@ If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seein
 
 This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa quite different from the Day of Wrath under acid in 1964, ten years or so earlier. I saw the Day of Judgment this time, when it wsa real, only that Sunday night when the pale white light filled the room and I once more knew death was there, and began to pray frantically in Latin, exactly as I had done in 1964 under acid. I relived it; and this time, in 1974, my vision was authentic, because 4 days later my guide and friend the Pinky cat died of cancer. Thus, this was real in an existential way; I thought the pale white light, which exposed him and me, meant death had come for me; but the fact that I saw that light, and that light was real, that event was real, Pinky was going to die -- the rest has not been a mere head trip; I know the differencel the acid trip in 1964 was the head trip.
 ```
-**Co-occurrences**: Christ, Ubik, Logos, Rome, Form, Parousia, These, Like, World, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Look, Once, Both, Being, March, Either, Those, More, Real, Upon, Irae, Death, Universe, Creation, Beyond, Under, Things, Judgment, Later, Days, Dead, Chip, White
+**Co-occurrences**: Time, Linear, Christ, Ubik, Logos, Rome, Form, Parousia, These, Like, World, Because, Only
 
 ---
 ### Line 78-86 (Match: 'Complete')
@@ -54,7 +54,7 @@ karma on me, not really; I had that lesson in me, that understanding. Yet -- I f
 
 If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that "we can leave in time." And be spared.
 ```
-**Co-occurrences**: Spirit, Father, Like, Since, Because, Therefore, Only, Time, Karma, Could, Reality, House, Still, Their, More, Before, Death, Universe, Christopher, Would, Judge, Back, Have, Things, Judgment, Life, Later, Having
+**Co-occurrences**: Time, Spirit, Father, Like, Since, Because, Therefore, Only
 
 ---
 ### Line 91-99 (Match: 'Complete')
@@ -70,7 +70,7 @@ I do not see where I am changed, but I was spared the Wrath and I was of use (ag
 
 Hey, I figured out (you laughed) Nixon is the best – beast.
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Holy Spirit, Kingdom, Well, Maybe, Like, World, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Time, Tears, Spirit, Holy, Holy Spirit, Kingdom, Well, Maybe, Like, World, Nixon
 
 ---
 ### Line 105-113 (Match: 'Complete')
@@ -87,7 +87,7 @@ You know, if they do discover the orthogonal time axis (along which the Forms mo
 
 Forms have a point of completion. Like a novel. They don’t go on and on. That axis isn’t just “process time” like in GODOT. It goes to completion and then stops. It is retrograde to what we see (vide supra hoc libra). Our lineal time then is cyclic in the “spinning ones wheels” sense of going around and around without incorporating true growth; we are declutched, purely in this time; but in reality we partake of movement toward form completion, too.
 ```
-**Co-occurrences**: Form, Bible, Parousia, Like, Time, Anyhow, Zebrapedia, Just, Something, Look, Reality, Without, Tessa, Wait, True, Will, Page, Have
+**Co-occurrences**: Time, Zebrapedia, Form, Bible, Parousia, Like
 
 ---
 ### Line 127-135 (Match: 'Complete')
@@ -104,7 +104,7 @@ THE RED FEATHER by Dorothy Canfield Fisher (I had my copy until 1972 when I was 
 
 A little girl, Rosemary, was born, but the fairies came and they swept her away in a shower of sparks (this is what I saw when I was aware of Erasmus: magic fairy sparks). They put a changling baby in her place. Later, that changling grew up, a fairy child in the mortal world not knowing why she could not and then do magic which none of the other children could. Later, a wise old lady in a rocking chair showed her the doorway to fairyland, where Rosemary kept wanting and wanting to go, for some reason (oh yes – she felt alienated in the mortal world; unhappy, restless). She crosses to fairyland. There is the palace. The queen puts her to work in the scullery. She drudges and drudges, and the – oh yeah, now I remember. The whole idea was, the fairies stole the mortal baby to use in their fairy scullery because mortals are well-known to be better at housework. So the mortal Rosemary grows up in the PALACE and is unhappy, and not only that, she is lousy at dusting (the Queen is neverysatisfied, but the wise old king is gentle with Rosemary, saying “There are laws for some people to keep and some people to break.” The Queen always nags him and he says, “Coming, my dear.” He is always civil to her. A woman wrote this, so don’t get your feather in a twit, Claudia). Anyhow, the fairy girl in the mortal world (supra) does magic and can’t fathom why; the mortal girl in fairyland at the palace fucks up at scullering. They meet. It turns out that – I forget. Everyone fucked up. The mortal girl finds her way back to the actual world and is happy, but see, I didn’t dig the end; what I dug was the little – fairy – girl here in mortaldom doing magic by accident and wondering how come she was different. The rest is a lot of plot to make it come out.
 ```
-**Co-occurrences**: King, Well, World, Because, Only, Time, Could, Does, Anyhow, Zebrapedia, Girl, Tessa, Their, Other, Erasmus, Back, Claudia, Wise, Later, Remember, Magic, Final, Until
+**Co-occurrences**: Time, Zebrapedia, King, Well, World, Because, Only
 
 ---
 ### Line 274-282 (Match: 'Complete')
@@ -121,7 +121,7 @@ Complete
 
 Most cats fear the clattering arrival of the grabagemen each week, but Pinky really more detested them than feared them. He hit out under our bed about half an hour before we heard them coming every Monday. He didn’t show fear; we just saw the two unwinking green eyes under the bed where he waited the garbagemen out. There was no PInky, just the eyes, waiting them out, the Bastards.
 ```
-**Co-occurrences**: Pinky, Zebrapedia, Just, More, Most, Before, Under
+**Co-occurrences**: Zebrapedia
 
 ---
 ### Line 290-298 (Match: 'Complete')
@@ -138,7 +138,7 @@ Tuffy ooo Oy Zsssay yyhh Yi I love ye8 you NOTE:::::: YE::: Tuffy, you are the s
 
 Furry The one power of linear time is: it is accumulative; It scoops up the successive rings of experience, and By its very nature, unique, causes the superImposition of those rings to grow clearer, as they Register and re-register, often years apart. Dreams Help us see these identifies of rings (for superImposition the analog or right hem computer)
 ```
-**Co-occurrences**: These, Time, Light, Okay, Pinky, Zebrapedia, Being, Himself, Without, Those, Love, Very, Whatever, Later, Electric, Dream, Right
+**Co-occurrences**: Time, Zebrapedia, Linear, These
 
 ---
 ### Line 298-306 (Match: 'Complete')
@@ -155,7 +155,7 @@ Dear Claudia,
 
 I've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.
 ```
-**Co-occurrences**: However, These, Like, Time, Zebrapedia, Those, Very, Further, Claudia, Right
+**Co-occurrences**: Time, Zebrapedia, Linear, However, These, Like
 
 ---
 ### Line 312-320 (Match: 'Complete')
@@ -172,7 +172,7 @@ itself. The entire morphos within the seed is there --the entelechy waiting to u
 
 Claudia, you must read THE LATHE OF HEAVEN of Ursula le Guin. It is evident that the dream universe which she speaks of is uncannily like what l have written you about, concerning my experiences. We are, Ursula and I, being "dreamed awake" now; told to wake up. Our books mirror this strange experience; we are only forerunners, she and I: among the first. Ursula wouldn't agree, but a comparison by Ian Watson in SFS shows the similarity between THE LATHE OF HEAVEN and my own experiences which is so obvious as to exlude controversy. Aldemar or whatever her star is, that is Albemuth (Fomalhaut) for me.
 ```
-**Co-occurrences**: Thomas, Form, Well, However, Like, Since, Only, Time, Book, Could, Does, Something, Once, Zagreus, Being, Although, Self, Himself, Essene, Wait, More, Another, Star, Heaven, Ground, Real, Death, Universe, Finally, Will, Would, Other, Page, Whatever, Have, Life, Body, Claudia, Suddenly, During, Dream, Someone, Until
+**Co-occurrences**: Thomas, Time, Form, Well, However, Like, Since, Only
 
 ---
 ### Line 343-351 (Match: 'Complete')
@@ -189,7 +189,7 @@ After all, not all seeds are planted as wheat grains are... there are those conc
 
 We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus died as any man dies -- but another Christ, and probably another Paul were born out of and after that. Rebirth does nor mean to return as you were, in a mere cycle; this is where the wheat seed could not have been a wheat seed, because Jesus specifically says that on its own the grain of wheat leads a solitary life, and after it is thrown into the furrow (the grave) it is reborn differently, into a communal life. "Reborn in glory and no longer alone." A single vast plant "the mustard tree in which birds roost" will come about; I think this is what we call the noösphere, and I myself have already entered it.
 ```
-**Co-occurrences**: Christ, Jesus, Paul, These, Like, Fall, Because, After, Could, Does, Again, Zagreus, Christos, Probably, Anamnesis, Those, Another, Before, Death, Will, Would, Were, Have, Tree, Life
+**Co-occurrences**: Anamnesis, Christ, Jesus, Paul, These, Like, Fall, Because
 
 ---
 ### Line 359-367 (Match: 'Complete')
@@ -206,7 +206,7 @@ March 5, 1975
 
 Dear Ursula,
 ```
-**Co-occurrences**: Logos, Form, After, Even, Something, Once, Both, March, Although, True, Would, Were, Very, Later, Right
+**Co-occurrences**: Logos, Form
 
 ---
 ### Line 379-387 (Match: 'Complete')
@@ -223,7 +223,7 @@ in the daytime, benign and not to be feared, but still it is the True Dreamer dr
 
 Our reality can be manipulated retroactively; that is, our past can be rewoven, and without hesitation, as an automatic process, our several memory-systems will fill in the blanks and make smooth the reweaving (i.e. we won't realize that alterations in our lineal-time past took place).
 ```
-**Co-occurrences**: Form, These, Perhaps, Only, Time, Does, Just, Reality, Although, Without, Still, True, Universe, Will, Memory, Dream
+**Co-occurrences**: Time, Form, These, Perhaps, Only
 
 ---
 ### Line 399-407 (Match: 'Complete')
@@ -240,7 +240,7 @@ shock to us, when abruptly visible. What is disclosed is that the smaller cycle 
 
 (five) This landscape of Winter (200 B.C. to 1974 A.D.) has determined the quality or nature of the lives of all living beings within the lineal span which it underlies: like Kan as the trigram in Taoism, its aspects are Slavery, pain, hopelessness, ignorance, limitation, etc., the true darkness by which we have come to sense our past two thousand years as heavy, a burden, a tribulation, a condition of sin and ignorance, of being but off from God, etc.
 ```
-**Co-occurrences**: Well, Like, Time, Taoism, Being, Darkness, Living, True, Beyond, Have, Instead, Days, Greater
+**Co-occurrences**: Time, Well, Like
 
 ---
 ### Line 416-424 (Match: 'Complete')
@@ -257,7 +257,7 @@ From this is can be seen what Paul meant by such terms as "You are the first fru
 
 Sorry to take so much of your time here, Ursula, but in my dreams I saw the words CANTATA 4, and when I had read the text, I began to understand.
 ```
-**Co-occurrences**: Christ, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+**Co-occurrences**: Time, Christ, Paul, Well, Dionysos, These, Perhaps, Only
 
 ---
 ### Line 424-432 (Match: 'Complete')
@@ -274,7 +274,7 @@ March 4, 1975
 
 Dear Dr. Ornstein:
 ```
-**Co-occurrences**: Time, March
+**Co-occurrences**: Time
 
 ---
 ### Line 442-450 (Match: 'Complete')
@@ -291,7 +291,7 @@ consciously draw from it; these are the "Seas of Knowledge" which were known bac
 
 But in this novel, Thomas says, "The Final Days have come. The overthrown of the tyranny is that which, in lurid language, John described in 'Revelation.' Zagreus is seizing his own, now, one after another; he lives again."
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Rome, Christianity, Form, Parousia, Roman, Dionysos, These, Like, Because, Iron, Only, John, Earth, After, Again, Zagreus, Being, Sibyl, Anamnesis, Their, Another, Through, Real, Upon, Revelation, Will, Were, Erasmus, Back, Have, Life, Later, Days, Knowledge, Human, Final
+**Co-occurrences**: Thomas, Anamnesis, Christian, Jesus, Rome, Christianity, Form, Parousia, Roman, Dionysos, These, Like, Because, Iron, Only, John, Earth
 
 ---
 ### Line 456-464 (Match: 'Complete')
@@ -308,7 +308,7 @@ February 29, 1975
 
 Dear Henry,
 ```
-**Co-occurrences**: Philip, Dick, Fullerton, Calif
+**Co-occurrences**: Philip
 
 ---
 ### Line 478-486 (Match: 'Complete')
@@ -325,7 +325,7 @@ Jane Harrison in her PROLEGOMENA TO THE STUDY OF GREEK RELIGION, discusses the n
 
 Dionysos appeared to the Greeks in vegetable form (root, tree, vine) and animal form (bull). He could influx himself into a human being and be him or her as well, as you and I know. What are names? This is the god of in-toxification, taking in poisons in a quantity small enough not to kill you but large enough for you to be lifted up to see outside space and time, and to come into a relaitonship with those vast powers who run the universe.
 ```
-**Co-occurrences**: Jesus, Form, Greek, Well, Dionysos, These, Time, Could, Being, Himself, Those, More, Star, Death, Universe, Egyptian, Have, Tree, Human
+**Co-occurrences**: Time, Jesus, Form, Greek, Well, Dionysos, These
 
 ---
 ### Line 519-527 (Match: 'Complete')
@@ -342,6 +342,6 @@ If we watched a speeded-up film of a form developing, we would easily discern th
 
 What I noticed most was the total isomorphic relatedness between me and my environment, which I realized to be an animate and concerned entity guiding me by an endless series of engaging signals -- engaging with internal systems of my own; so I was and therefore am still, although the isomorphic relatedness is now invisible to me; it must be there yet, that envolving, living world of kindness and guidance on every side: I move along a narrow path well-marked with signs that I notice and respond to even though in a sense I do not (consciously) any more notice; they still guide me, just as well, like a gutter pipe directs rain water without the water being conscious of it.
 ```
-**Co-occurrences**: Form, Well, Maybe, Like, World, Because, Therefore, Only, Time, Even, Could, Anyhow, Just, Once, Being, Although, Without, Still, More, Most, Living, Certainly, Before, Finally, Would, Were, Back
+**Co-occurrences**: Time, Form, Well, Maybe, Like, World, Because, Therefore, Only
 
 ---

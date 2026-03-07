@@ -20,7 +20,7 @@ Last edit almost 5 years ago by svayambhu108
 234
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Xerox, Sophia, Gnostic, Greek, Gnosticism, Wisdom, Perhaps, World, Cosmic, Could, Once, Great, Sibyl, Jewish, Creator, Still, Part, Living, Voice, Before, True, Will, Would, Other, Were, Very, Back, Have, Body, Information, Wise, Aphrodite, Socrates, During, Dream, Evidently, Free
+**Co-occurrences**: Gnosticism, Sophia, Gnostic, Information, Christ, Tears, Christian, Ubik, Spirit, Xerox, Greek, Wisdom, Perhaps, World
 
 ---
 ### Line 3065-3073 (Match: 'Pleroma')
@@ -37,7 +37,7 @@ Last edit almost 5 years ago by svayambhu108
 235
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Gnosticism, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Orphic, Covenant, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Journey, Things, Body, Memory, Jungian, Truth, Magus, Doesn, Answer, Simon Magus
+**Co-occurrences**: Gnosticism, Thomas, Sophia, Gnostic, Time, Anamnesis, Christ, Christian, Spirit, Holy, Logos, Complete, Christianity, Plato, Kingdom, Paul, Greek, Well, Bible, Wisdom, Godhead, Father, Like, World, Fall
 
 ---
 ### Line 3071-3079 (Match: 'Pleroma')
@@ -54,7 +54,7 @@ The best statement I ever recall reading about the Kingdom was when Christ said 
 
 If it was myself (who assumed control in 3-74) then I am an immortal entity, stretching back thousands of years into the past, originally from another star, lasting on into the future, possessing the knowledge of the secrets of the universe, loyal to God and in touch with him, being mostly in eternity already, having been present near or around Christ as well as the great culture of Greece L Rome, one of the great healers and wise men of this race. How can that be? "For this mortal must put on immortality..."
 ```
-**Co-occurrences**: Christ, Tears, Rome, Kingdom, Gnostic, King, Greek, Well, Bible, Parousia, Advent, Plotinus, Like, World, Since, Gnosis, Only, Time, After, Could, Does, Bardo, Anyhow, Just, Thodol, Again, Suppose, Bardo Thodol, Being, Obviously, Himself, Great, Nothing, Their, More, Another, Star, Through, Love, Before, Greece, True, Death, Universe, Will, Would, Other, Mission, Were, Back, Have, Things, Wise, Having, God Himself, Except, Knowledge, Otherwise, Dream, Evidently, Doesn, Crete, Until
+**Co-occurrences**: Plotinus, Gnostic, Time, Christ, Tears, Rome, Kingdom, King, Greek, Well, Bible, Parousia, Advent, Like, World, Since, Gnosis, Only
 
 ---
 ### Line 3082-3090 (Match: 'Pleroma')
@@ -70,7 +70,7 @@ Last edit almost 5 years ago by svayambhu108
 237
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christianity, Form, Well, Golden, These, Perhaps, Maybe, World, Therefore, After, Light, Even, Could, Bardo, Just, Reality, Being, Self, Divine, Great, Sibyl, Anamnesis, Still, Part, Jung, Soul, Living, Such, Actually, Would, Mission, Were, Very, Have, Life, Instead, Jungian, Wise, Aphrodite, Having, Remember, Suddenly, Dream, Evidently, Right
+**Co-occurrences**: Anamnesis, Christ, Tears, Christianity, Form, Well, Golden, These, Perhaps, Maybe, World, Therefore
 
 ---
 ### Line 3090-3098 (Match: 'Pleroma')
@@ -87,7 +87,7 @@ Last edit almost 5 years ago by svayambhu108
 238
 Needs Review
 ```
-**Co-occurrences**: Logos, Xerox, Form, Sophia, King, Wisdom, These, Godhead, Like, World, Time, Good, Could, Just, Once, March, Although, Self, Girl, Divine, Probably, Sibyl, Part, More, Jung, Through, Soul, Such, Certainly, Mother, Death, Will, Would, Angel, Were, Whatever, Under, Have, Life, Jungian, Wise, Aphrodite, Days, Evidently, Free, Mary, White
+**Co-occurrences**: Sophia, Time, Logos, Xerox, Form, King, Wisdom, These, Godhead, Like, World
 
 ---
 ### Line 3122-3130 (Match: 'Pleroma')
@@ -104,7 +104,7 @@ Last edit almost 5 years ago by svayambhu108
 
 241
 ```
-**Co-occurrences**: Christ, Spirit, Sophia, King, Well, Empire, Bible, Parousia, Wisdom, Lord, Advent, Father, Maybe, World, Since, Because, Iron, Only, Time, After, Cosmic, Faith, Mind, Cosmic Christ, Pinky, Anyhow, Something, Divine, Bacchae, Daniel, Probably, Anamnesis, Those, Another, Through, Most, Heaven, Such, Actually, Certainly, Before, Revelation, Consider, Death, Will, Would, Hamlet, Angel, Judge, Were, Back, Further, Justice, Evil, Suddenly, Whereas, Chardin, Right
+**Co-occurrences**: Sophia, Time, Anamnesis, Christ, Spirit, King, Well, Empire, Bible, Parousia, Wisdom, Lord, Advent, Father, Maybe, World, Since, Because, Iron, Only
 
 ---
 ### Line 3885-3893 (Match: 'Pleroma')
@@ -121,7 +121,7 @@ which is "elsewhere. Meaning unsuspected, different Am I really in Rome C. AD 70
 
 Last edit almost 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Ubik, Rome, Maze, Wisdom, Maybe, James, World, Gnosis, Iron, Prison, Only, Time, Black, Stigmata, Savior, Good, Does, Anyhow, Just, Maya, Being, Self, Real, Such, Actually, True, Death, Deity, Were, Back, Information, Unless, Dead, Iron Prison, Dream
+**Co-occurrences**: Time, Information, Ubik, Rome, Maze, Wisdom, Maybe, James, World, Gnosis, Iron, Prison, Only
 
 ---
 ### Line 3939-3947 (Match: 'Pleroma')
@@ -137,7 +137,7 @@ Last edit almost 3 years ago by svayambhu108
 22
 Needs Review
 ```
-**Co-occurrences**: Christ, Ubik, Logos, Form, Sophia, Brahman, James, Like, World, Only, Savior, Just, Adam, Again, Reality, Being, Atman, Himself, Anamnesis, Creator, Through, Such, Upon, True, Will, Were, Whatever, Have, Life, Memory, God Himself, Knowledge, Dream, Free
+**Co-occurrences**: Sophia, Anamnesis, Christ, Ubik, Logos, Form, Brahman, James, Like, World, Only
 
 ---
 ### Line 5968-5976 (Match: 'Pleroma')
@@ -154,7 +154,7 @@ Last edit almost 3 years ago by svayambhu108
 9
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Thomas, Complete, Rome, Christianity, Gnostic, Brahman, Roman, Like, World, Gnosis, Only, Time, After, Savior, Both, Reality, Being, Divine, Anamnesis, Essene, More, Brahmanism, Through, Soul, Babylon, Most, Secret, Revelation, True, Death, Will, Would, Buddhist, Back, Have, Judgment, Life, Memory, Instead, Having, Knowledge, Dead, Salvation
+**Co-occurrences**: Thomas, Gnostic, Time, Anamnesis, Christ, Christian, Ubik, Complete, Rome, Christianity, Brahman, Roman, Like, World, Gnosis, Only
 
 ---
 ### Line 6003-6011 (Match: 'Pleroma')
@@ -171,7 +171,7 @@ Last edit almost 3 years ago by svayambhu108
 15
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Fish, Gnosticism, Golden, Perhaps, World, Gnosis, Fall, Golden Fish, Time, Even, Could, Pinky, Something, Realm, Again, Although, Buddhism, Divine, Probably, Part, Another, Through, Babylon, Real, Upon, Revelation, True, Will, Would, Other, Have, Life, Instead, Later, Having, Knowledge
+**Co-occurrences**: Gnosticism, Sophia, Time, Christ, Christian, Spirit, Holy, Rome, Holy Spirit, Fish, Golden, Perhaps, World, Gnosis, Fall, Golden Fish
 
 ---
 ### Line 6009-6017 (Match: 'Pleroma')
@@ -188,7 +188,7 @@ Last edit almost 3 years ago by svayambhu108
 
 16
 ```
-**Co-occurrences**: Christ, Acts, Christian, Thomas, Jesus, Sophia, Gnostic, Well, Perhaps, Advent, Like, World, Since, Prison, Only, Time, After, Cosmic, Savior, Light, Could, Does, Something, Once, Jesus Christ, Although, Self, Divine, Great, Zoroastrian, Essene, More, Another, Real, Secret, Before, Will, Mission, Very, Under, Have, Absolute, Impostor
+**Co-occurrences**: Thomas, Sophia, Gnostic, Time, Christ, Acts, Christian, Jesus, Well, Perhaps, Advent, Like, World, Since, Prison, Only
 
 ---
 ### Line 6126-6134 (Match: 'Pleroma')
@@ -205,7 +205,7 @@ Last edit almost 3 years ago by svayambhu108
 
 36
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Plato, Satan, However, Maze, Wisdom, Advent, World, Because, Only, John, Time, Platonist, Good, Light, Gospel, Does, Just, Once, Reality, Being, Jesus Christ, Although, Viewed, Darkness, Creator, Still, More, Through, Upon, Actually, Secret, Love, Before, True, Death, Universe, Were, Absolute, Justice, Having, Truth, Dead, Evidently, Sacred
+**Co-occurrences**: Time, Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Plato, Satan, However, Maze, Wisdom, Advent, World, Because, Only, John, Platonist
 
 ---
 ### Line 6999-7007 (Match: 'Pleroma')
@@ -222,7 +222,7 @@ Last edit over 9 years ago by carrifaery
 folder 32 - 002
 Indexed
 ```
-**Co-occurrences**: Ubik, Indexed, Spirit, Holy, Christianity, Holy Spirit, Gnostic, Well, Gnosticism, Parousia, Golden, Dionysos, These, Perhaps, James, Like, World, Fall, Because, Time, Folder, Paraclete, Good, Mind, Book, Could, Does, Just, Being, Either, Without, Creator, Those, Part, More, Through, Real, Such, Revelation, True, Will, Would, Other, Creation, Have, Instead, Wise, Days, Evil, Unless, Chip, Final
+**Co-occurrences**: Gnosticism, Gnostic, Time, Linear, Ubik, Indexed, Spirit, Holy, Christianity, Holy Spirit, Well, Parousia, Golden, Dionysos, These, Perhaps, James, Like, World, Fall, Because
 
 ---
 ### Line 7488-7496 (Match: 'Pleroma')
@@ -239,7 +239,7 @@ God / the savior is mimicking this ciunterfit cosmos with stealthily growing rea
 
 Last edit almost 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Valis, Zebra, Gnostic, Brahman, Well, Gnosticism, World, Prison, Cosmic, Savior, Cosmic Christ, Even, Zebrapedia, Just, Something, Maya, Being, Christi, Himself, Corpus, Part, More, Through, Corpus Christi, Real, Secret, Before, Revelation, True, Deity, Other, Fake, Later, Truth, Suddenly, Answer
+**Co-occurrences**: Gnosticism, Valis, Zebra, Gnostic, Zebrapedia, Christ, Brahman, Well, World, Prison
 
 ---
 ### Line 8041-8049 (Match: 'Pleroma')
@@ -256,7 +256,7 @@ Last edit almost 3 years ago by svayambhu108
 100
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Zebra, Complete, Gnostic, Gnosticism, World, Gnosis, Good, Just, Once, Reality, Divine, Nothing, Those, Part, More, Real, Before, Revelation, True, Deity, Other, Creation, Further, Have, Life, Wise, Evil, Dead
+**Co-occurrences**: Gnosticism, Zebra, Gnostic, Christ, Tears, Ubik, Complete, World, Gnosis
 
 ---
 ### Line 8163-8171 (Match: 'Pleroma')
@@ -273,7 +273,7 @@ place of mines which is to be expected. me Christ a
 
 Last edit almost 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Thomas, Spirit, Rome, Form, Well, Empire, Roman, World, Time, Cosmic, Mind, Even, Could, Just, Being, Christi, Corpus, Anamnesis, Those, Part, Pantocrator, Corpus Christi, Most, Will, Very, Back, Have, Clearly, Body, Memory, Otherwise, Syria
+**Co-occurrences**: Thomas, Time, Anamnesis, Christ, Spirit, Rome, Form, Well, Empire, Roman, World
 
 ---
 ### Line 8465-8473 (Match: 'Pleroma')
@@ -290,7 +290,7 @@ There were many widows in Israel, I can assure you, in Elijah's day, when heaven
 
 This is a poor answer. It states a what, not a why. We demand a why. More than that, we ask, "Why not? If the Godhead can abolish our condition (of suffering), why doesn't he?" There is implied here an ominous possibility. It has to do with the power of the artifact. The servant has become the master and is, perhaps, very strong. It is a chilling thought. Shiva, whose job it is to destroy it, may be baffled. I don't know. And no one, over all the thousands of years, has given a satisfactory answer. I submit that until there is a satisfactory answer, we must reject all others. If we do not know, let us not say. One possibility occurs to me, based on something I saw in 1974 that other people, by and large, did not see. I became aware that the wisdom and power of the Urgrund were actively at work ameliorating our situation by intervening in the historic process. Extrapolating from this, I reason that other invisible interventions have probably taken place without our awareness. The Urgrund does not advertise to the artifact that it is here. Suppose the Urgrund reasons -- and correctly -- that were the artifact to know that it has returned a second time, the artifact would step up its cruelty to a maximum degree. We are experiencing a subtle invasion, taking place in stealth; I have already mentioned this. Mass amelioration would disclose the Urgrund's presence, just as Christ's miracles made him a target at the time of the First Advent. Healing miracles are the credentials of the Savior and an indication of his presence. Once you have posited a strong adversary to the Urgrund, one so enormous that it is capable of projecting and sustaining an entire counterfeit universe, you have also put forth a possible clue to the need for stealth and concealment by the Urgrund. Its activities in this world resemble the covert advance of a secret, determined revolution against a powerful tyranny. The Urgrund is playing for ultimate stakes. It aims at nothing short of abolishing this world and its author entirely. I really don't know. I can envision its own agony at having to curtail its assistance to those in need, but it must win out against the artifact. It is aiming at the enemy's heart (or where its heart would be if it had one), and, upon success, all the pieces, the polyforms of pain throughout creation, will be spontaneously relieved. Maybe this is so; maybe not. In 1974 I saw it take aim at the center of tyranny in this country, and upon its successful attack there, the lesser evils fell into ruin, one by one. The Urgrund probably sees this counterfeit world as one Gestalt; it sees the polyform evils as stemming from a Quelle, a source. Aiming its arrow at the Source is the method of the warrior, and, beneath his cloak of mildness, our Savior Deity is a warrior. All this is conjecture. Perhaps in a certain real way he has one and only one arrow to release. It must hit or nothing is achieved; any cures, any ameliorations other than this, ultimately would be nullified by the surviving artifact. The Urgrund perceived its adversary clearly and we do not; therefore it sees its task clearly and we do not. An entire multistoried building is on fire and we are asking the firemen to water a dying flower. Should they change the direction of their thrust to water the dying flower? Doesn't one flower count? The Urgrund may be in agony over this: abandoning the flower in favor of the greater picture. Many humans have undergone that pain and so should understand it. Please remember that the Urgrund is here, too: suffering with us. Tat twam asi [Thou art that]. We are he, and he must extricate himself. In a very real sense the pain we feel as living creatures is the pain of waking up. Put this way, the proposition accounts for one of the most distressing aspects of suffering: that we are forced to suffer without knowing why. We do not know why precisely because we, as pluriforms of the Urgrund, are still virtually unconscious. It would be a paradox if an unconscious entity were aware of -- conscious of -- itself and the reasons behind its condition. Discerning the cause of our suffering equals fully waking up. It may be the final thing we learn. At this point the analogy of the artifact to a teaching machine fails. This is not a lesson the teaching machine -- if it is that -- can teach us, because it does not know the answer. But we ourselves, as pluriform images of the Urgrund, will a priori know the reason for our situation when we become adequately conscious; we will remember. Knowledge of this sort lies in our own intrinsic long-term inhibited memory circuits. Viewed as a puzzle we cannot at present answer, the reason for our condition of suffering (which involves all living things) -- this puzzle may well be the final step of retrieved knowledge. If there is an erasure of memory we can only assume that when that crucial erasure is overcome, we will understand this most baffling perplexity. Meanwhile, the pressure of this pain motivates us to seek an answer; which is to say, motivates us toward greater and greater consciousness. This does not mean that the "purpose" of suffering is to engender heightened consciousness; it merely means that a gradually heightened consciousness is the result. When the time arrives that we can explain the ubiquitous suffering of living creatures, we will, I am positive, have fully retrieved our lost memories and lost identities. Did we do it to ourselves? Was it inflicted on us against our will? One of the most intriguing explanations -- by the Gnostics -- is that the original fall of man (and hence creation -- in this model falling under the dominion of the world-projecting artifact) was not due to a moral error, but to the intellectual error of confusing the phenomenal world for the real. This theory dovetails with my proposition that our world is a counterfeit projection; to take it for something ontologically real would indeed constitute a dreadful intellectual error. Maybe this is the explanation. We got entangled in enchantment, a gingerbread cottage that beguiled us into enslavement and ruin. Perhaps a major premise of my cosmogony-cosmology is wrong; the Urgrund did not create the artifact, but somehow allowed itself or parts of itself to fall victim to a snare, an alluring trap. So we are not merely enslaved; we are trapped. The artifact deliberately projected an illusion that would entrance us and lead us in. Sometimes, however, a trap such as a spider's web (to cite only one of many) accidentally traps a deadly entity, capable of killing the trapmaker. This may be the case here. We may not be what we seem even to ourselves. Sometimes, but not often, the existence of evil is traced back to the dual nature of God himself. I have already discussed the dual nature of Shiva and Christ -- Shiva especially, who is often pictured as the god of death. Here are two examples. Jakob Bohme. "God goes through stages of self-development, he taught, and the world is merely the reflection of this process. Bohme anticipated Hegel in claiming that the divine self-development occurs by means of a continuing dialectic, or tension of opposites, and that it is the negative qualities of the dialectic that men experience as the evil of the world. Even though Bohme, for the most part, stressed absoluteness and relativity equally, his view that the world is a mere reflection of the divine -- apparently denying self-development on the part of creatures -- tends toward acosmic pantheism" (Encyclopaedia Britannica, "Pantheism and Panentheism"). During my enormous revelations and anamnesis in March 1974 I perceptually observed God and reality combined, and progressing through stages of evolution by means of a dialectic, but I did not experience what I called "the blind counterplayer," which is to say the dark side as part of God. However, although I perceived this dialectic between good and evil, I could not ascertain anything as to the source of the evil. However, I did see the good side making use of it against its will, since the dark counterplayer was blind and therefore could be made use of for good purposes. Hans Driesch (1867-1941). "My soul and my entelechy are One in the sphere of the Absolute." And it is at the level of the Absolute only that we can speak of "psychophysical interaction." But the Absolute, so understood, transcends all possibilities of our knowing, and it is "an error to take, as did Hegel, the sum of its traces for the Whole." All considerations of normal mental life lead us only to the threshold of the unconscious; it is in dreamlike and certain abnormal cases of mental life that we encounter "the depths of our soul." . . . My sense of duty indicates the general direction of the suprapersonal development. The ultimate goal, however, remains unknown. From this point of view, history took on its particular meaning for Driesch. Throughout his work Driesch's orientation is intended to be essentially empirical. Any argument concerning the nature of the ultimately Real will therefore have to be hypothetical only. It starts with the affirmation of the "given" as consequent of a conjectural "ground." His guiding principle in the realm of metaphysics amounts to this: The Real that I posit must be so constituted that it implicitly posits all our experiences. If we can conceive and posit such a Real, then all laws of nature, and all true principles and formulas of the sciences, will merge into it, and all our experiences will be "explained" by it. And since our experience is a mixture of wholeness (the organic and the mental realms) and nonwholeness (the material world), Reality itself must be such that I can posit a dualistic foundation of the totality of my experience. In fact, to bridge -- aw fuck. In fact, there is nothing -- not even within the ultimately Real -- to bridge the gap between wholeness and nonwholeness. And this means, for Driesch, that ultimately there is either God and "non-God," or a dualism within God himself. To put it differently, either the theism of the Judeo-Christian tradition or a pantheism of a God continually "making himself" and transcending his own earlier stages is ultimately reconcilable with the facts of experience. Driesch himself found it impossible to decide between these alternatives. He was sure, however, that a materialistic-mechanistic monism would not do (Encyclopedia of Philosophy, Vol. 2). It would appear that Bohme and T -- I'm at the end of my rope; I can't even type, let alone think. That Bohme and Driesch are talking about the same thing, and that both are process philosophers (or theologians, like Whitehead). Both stress dialectic quality in God; Driesch sees the dialectic working itself out in history. This is almost certainly the dialectic that I saw during my March 1974 revelations, and I am willing to admit that it is certainly possible that the blind, dark counterplayer against which the vitalistic good element worked could be "God's own earlier stages," as Driesch viewed it. One thing I like about Driesch is the fact that at a certain point he simply said, "I don't know." That's where I'm at and have been at for a long time; I just do not know. God created everything; evil exists as part of the everything; therefore God is the source of evil -- that is the logic, and in monotheism there is no escape from this argument. If you posit two (or more) gods, including an evil god, you have the problem of, Where did it come from? But that problem exists for monotheism, too; if there is only one god, where did he come from? Answer: from the same place the two gods of dualism came from. In other words, I see this problem of origin as equally difficult for monotheism to answer as it is for a dualism. We just don't know. If we regard evil as simply earlier stages of a god in process, which he is working to overcome -- well, that does fit my own personal revelations, and is syntonic to me. I was shown how the whole thing works but I did not comprehend what I was seeing; they were showing it to Mortimer Snerd. I did have the feeling that I was witnessing a cosmic two-person board game, with our world as the board, and that one side (the winning side) was benign, and the other was neither winning nor was it benign; it was just very powerful, but hindered by the fact that it was blind. The good side possessed absolute wisdom, could therefore absolutely foresee the future, and could lay down moves long in advance of payoffs that the evil, blind, dark counterplayer could not anticipate. It was an encouraging vision. In every trick the good won; it beat the dark antagonist unerringly. What more could I ask from an Ultimate Vision of Absolute Total Reality? What more do I need to know? The score reads: Evil zero; Good infinity. Let me stop there, satisfied; the final tally is explicit.
 ```
-**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Kingdom, Gnostic, King, Paul, Well, However, Wisdom, Dionysos, These, Perhaps, Advent, Godhead, Elijah, Father, Maybe, Like, World, Since, Fall, Because, Therefore, Prison, Only, John, Time, After, Noos, Cosmic, Faith, Savior, Urgrund, Good, Even, Gestalt, Gospel, Yang, Could, Does, Jakob Boehme, Just, Something, Once, Realm, Shiva, Suppose, Both, Reality, Luke, Being, March, Hegel, Although, Self, Everything, Divine, Himself, Either, Great, Bacchae, Gods, Probably, Viewed, Anamnesis, Without, Nothing, Creator, Those, Still, Part, Their, More, Another, Through, Soul, Most, Living, Heaven, Ground, Real, Such, Upon, Actually, Certainly, Secret, Love, Before, Revelation, Mother, True, Whitehead, Death, Universe, Finally, Will, Deity, Would, Other, Creation, Somehow, Were, Very, Back, Beyond, Under, Meanwhile, Many, Further, Have, Artifact, Clearly, Things, Life, Absolute, Apparently, Justice, Dark, Memory, Freedom, Neither, Evil, Having, Remember, God Himself, Except, Knowledge, Elisha, Israel, Dialectic, Truth, Suddenly, Greater, During, Otherwise, Human, Salvation, Doesn, Final, Right, Answer, Pilate, Until
+**Co-occurrences**: Jakob Boehme, Gnostic, Time, Hegel, Anamnesis, Dialectic, Christ, Tears, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Kingdom, King, Paul, Well, However, Wisdom, Dionysos, These, Perhaps, Advent, Godhead, Elijah, Father, Maybe, Like, World, Since, Fall, Because, Therefore, Prison, Only, John
 
 ---
 ### Line 9059-9067 (Match: 'Pleroma')
@@ -307,7 +307,7 @@ Last edit over 5 years ago by sekennedy62
 
 6
 ```
-**Co-occurrences**: Acts, Zebra, Form, Gnostic, Maybe, Like, World, Gnosis, Because, Therefore, Only, Could, Taoism, Both, Self, Anamnesis, Without, Essene, Living, True, Death, Calvin, Back, Have, Mani, Clearly, Memory, Human, Answer
+**Co-occurrences**: Zebra, Gnostic, Anamnesis, Acts, Form, Maybe, Like, World, Gnosis, Because, Therefore, Only
 
 ---
 ### Line 9590-9598 (Match: 'Pleroma')
@@ -324,7 +324,7 @@ Note: contrary to what I may have previously said, the fact is that the BIP is n
 
 ➀ 8) the knowledge that finally the BIP will fall. Giving way to the PTG.
 ```
-**Co-occurrences**: Christian, Ubik, Zebra, World, Fall, Obviously, Either, Part, Through, Secret, True, Finally, Will, Would, Have, Evil, Knowledge
+**Co-occurrences**: Zebra, Christian, Ubik, World, Fall
 
 ---
 ### Line 9624-9632 (Match: 'Pleroma')
@@ -341,6 +341,6 @@ Last edit about 5 years ago by sekennedy62
 45
 Complete
 ```
-**Co-occurrences**: Christ, Zebra, Complete, World, Because, Iron, Prison, Black, Urgrund, Yang, Diagram, Black Iron Prison, Corpus, Anamnesis, Darkness, Still, Part, Their, Through, Living, Revelation, True, Artifact, Dark, Remember, During, Iron Prison
+**Co-occurrences**: Zebra, Anamnesis, Christ, Complete, World, Because, Iron, Prison
 
 ---

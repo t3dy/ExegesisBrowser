@@ -20,7 +20,7 @@ For palintropos h. to exist, time must exist (since it is in oscillation or sequ
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Logos, Form, Kingdom, Well, Maybe, World, Since, Only, Time, Harpax, Cosmic, Mind, Yang, Hebrew, Great, Gods, Viewed, Creator, Their, Another, Through, Egypt, Real, Voice, Certainly, Secret, Before, Death, Will, Would, Creation, Were, Very, Beyond, Under, Campbell, Things, Life, Body, India, Except, Joseph, Dialectic, West, Whereas, Joseph Campbell
+**Co-occurrences**: Time, Dialectic, Logos, Form, Kingdom, Well, Maybe, World, Since, Only
 
 ---
 ### Line 2305-2313 (Match: 'Spinoza')
@@ -37,7 +37,7 @@ This is the real fabric of reality. What I saw was an extreme example, as the lo
 
 I must have made myself, or anyhow been, very receptive (Yinnish) to the forces active in the universe at that moment. When hex 36 changed to some other good one, I was carried along. I must have, as the Taoists or Zen people, somebody anyhow, says, made myself empty (wu).
 ```
-**Co-occurrences**: Greek, However, Like, Therefore, Only, Good, Mind, Even, Anyhow, Again, Reality, Everything, Divine, Part, Another, Real, Universe, Will, Other, Ching, Very, Have, Journey, Doesn
+**Co-occurrences**: Greek, However, Like, Therefore, Only
 
 ---
 ### Line 2616-2624 (Match: 'Spinoza')
@@ -54,7 +54,7 @@ Also, viewing the statements of God from within the burning bush (Moses asks wha
 
 It is evident that I experienced the other superior extra space-time universe by means of encountering events before they entered our matrix. I somehow assimilated material from the future, which by definition lies outside space time.
 ```
-**Co-occurrences**: These, Maybe, James, Like, Only, Time, Harpax, Light, Even, Could, Does, Look, Reality, Being, Obviously, Everything, Moses, Himself, Either, Without, Creator, Still, Part, Another, Real, Before, Macro, Universe, Finally, Would, Other, Creation, Somehow, Were, Very, Later, Days, Having, Dead, Dream, Final
+**Co-occurrences**: Time, Linear, These, Maybe, James, Like, Only
 
 ---
 ### Line 2896-2904 (Match: 'Spinoza')
@@ -71,7 +71,7 @@ As to my experience itself, in the initial four days I was seeing in the sense o
 
 (two) I was conscious of bells and a transformation of the landscape, especially the landscape, which both Goethe and Wagner describe as the "Good Friday Spell," in other words meaning that the Savior, in His transformed morphophos, was present.
 ```
-**Co-occurrences**: Christ, Logos, Sophia, Plato, Since, After, Buddha, Savior, Good, Again, Both, Reality, Being, March, Probably, Santa, Part, Another, Most, Voice, Actually, Before, Revelation, Santa Sophia, Universe, Will, Friday, Would, Other, Were, Later, Days, Having
+**Co-occurrences**: Sophia, Santa Sophia, Saint Sophia, Christ, Logos, Plato, Since
 
 ---
 ### Line 5158-5166 (Match: 'Spinoza')
@@ -88,7 +88,7 @@ Last edit almost 3 years ago by svayambhu108
 53
 Needs Review
 ```
-**Co-occurrences**: Christ, Jesus, Plato, Well, Like, World, Because, Only, Even, Could, Does, Once, Being, Hegel, Although, Everything, Moses, Himself, Viewed, Nothing, Leibnitz, More, Real, Such, Certainly, Revelation, Whitehead, Universe, Deity, Would, Other, Were, Back, Have, Things, Life, Except, Dialectic, Human
+**Co-occurrences**: Hegel, Dialectic, Christ, Jesus, Plato, Well, Like, World, Because, Only
 
 ---
 ### Line 5245-5253 (Match: 'Spinoza')
@@ -105,7 +105,7 @@ Last edit almost 3 years ago by svayambhu108
 68
 Needs Review
 ```
-**Co-occurrences**: Zebra, Form, Plato, These, Like, World, Prison, Only, Good, Could, Does, Either, Great, Without, Creator, Dokos, Real, Certainly, Universe, Would, Other, Have, Evil, Having, Answer
+**Co-occurrences**: Zebra, Form, Plato, These, Like, World, Prison, Only
 
 ---
 ### Line 5251-5259 (Match: 'Spinoza')
@@ -122,7 +122,7 @@ Last edit almost 3 years ago by svayambhu108
 69
 Needs Review
 ```
-**Co-occurrences**: Plato, Well, Bible, However, World, Mind, Could, Hegel, Divine, Himself, Either, Probably, More, Revelation, True, Would, Hegelian, Have, Things, Freedom, Having, Except, Truth, Suddenly, Until
+**Co-occurrences**: Hegel, Hegelian, Plato, Well, Bible, However, World
 
 ---
 ### Line 5286-5294 (Match: 'Spinoza')
@@ -139,7 +139,7 @@ Last edit almost 3 years ago by svayambhu108
 75
 Needs Review
 ```
-**Co-occurrences**: Christ, Zebra, Form, Paul, World, Since, Because, John, Time, Earth, Cosmic, Good, Gestalt, Does, Anyhow, Reality, Hegel, Himself, Living, Universe, Will, Under, Things, Body, Except
+**Co-occurrences**: Zebra, Time, Hegel, Christ, Form, Paul, World, Since, Because, John, Earth
 
 ---
 ### Line 5849-5857 (Match: 'Spinoza')
@@ -156,7 +156,7 @@ Last edit almost 3 years ago by svayambhu108
 13
 Needs Review
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Rome, Sophia, Kingdom, Lord, These, Perhaps, Advent, Elijah, World, Since, Fall, Because, Therefore, Iron, Prison, Time, Black, St Sophia, Something, Black Iron Prison, Still, Through, Babylon, Such, Voice, True, Will, Would, Were, Things, Judgment, Later, Suddenly, Iron Prison, Right
+**Co-occurrences**: Thomas, Sophia, Time, St Sophia, Linear, Christian, Jesus, Rome, Kingdom, Lord, These, Perhaps, Advent, Elijah, World, Since, Fall, Because, Therefore, Iron, Prison
 
 ---
 ### Line 5855-5863 (Match: 'Spinoza')
@@ -173,7 +173,7 @@ Last edit almost 3 years ago by svayambhu108
 14
 Needs Review
 ```
-**Co-occurrences**: Kingdom, King, Wisdom, Advent, World, Fall, Prison, Only, Time, Faith, Light, Even, Could, Does, Reality, Being, Himself, Gods, Deus, Creator, Their, Most, Such, Actually, Secret, Death, Very, Have, Life, Evil, Having, Knowledge, Dream
+**Co-occurrences**: Time, Kingdom, King, Wisdom, Advent, World, Fall, Prison, Only
 
 ---
 ### Line 5861-5869 (Match: 'Spinoza')
@@ -190,7 +190,7 @@ Last edit almost 3 years ago by svayambhu108
 15
 Needs Review
 ```
-**Co-occurrences**: Gnostic, Paul, Like, World, Good, Realm, Reality, Being, Aristotle, Leibnitz, Through, Most, Nonetheless, Such, Before, True, Artifact, Evil, Hermes, Right
+**Co-occurrences**: Gnostic, Hermes, Paul, Like, World
 
 ---
 ### Line 6243-6251 (Match: 'Spinoza')
@@ -207,7 +207,7 @@ Compare this to Spinoza's analysis that Christ was the still small voice which E
 
 835-3161 11,840.53
 ```
-**Co-occurrences**: Christ, Christian, Logos, King, Elijah, Like, After, Luke, Gods, Anamnesis, Still, Voice, Death, Have, Life, Later, Remember, Ptath
+**Co-occurrences**: Anamnesis, Christ, Christian, Logos, King, Elijah, Like
 
 ---
 ### Line 7013-7021 (Match: 'Spinoza')
@@ -224,7 +224,7 @@ Last edit over 9 years ago by cfr5005
 folder 32 - 004
 Indexed
 ```
-**Co-occurrences**: Indexed, Complete, Gnostic, Fish, Well, Golden, However, Perhaps, Father, James, World, Since, Fall, Golden Fish, Prison, Only, Time, Cosmic, Folder, Good, Even, Could, Anyhow, Zebrapedia, Something, Both, Reality, Obviously, Divine, Either, Creator, Before, True, Deity, Would, Creation, Were, Have, Later, Evil, Greater, Final, Answer, Sacred
+**Co-occurrences**: Gnostic, Time, Zebrapedia, Indexed, Complete, Fish, Well, Golden, However, Perhaps, Father, James, World, Since, Fall, Golden Fish, Prison, Only
 
 ---
 ### Line 7969-7977 (Match: 'Spinoza')
@@ -241,7 +241,7 @@ Last edit almost 3 years ago by svayambhu108
 89
 Needs Review
 ```
-**Co-occurrences**: Christ, Zebra, Plato, Gnosticism, Lord, World, Only, Mind, Does, Reality, Himself, Creator, Their, Such, Universe, Would, Other, Have, Life, Absolute, Body, Wise, Evil, Upper, Right
+**Co-occurrences**: Gnosticism, Zebra, Christ, Plato, Lord, World, Only
 
 ---
 ### Line 7992-8000 (Match: 'Spinoza')
@@ -257,7 +257,7 @@ Last edit almost 3 years ago by svayambhu108
 92
 Needs Review
 ```
-**Co-occurrences**: Zebra, Perhaps, Like, Only, Mind, Does, Just, Reality, Being, Obviously, Wait, Phil, Xenophanes, Such, Dick, True, Meanwhile, Things, Phil Dick, Answer
+**Co-occurrences**: Zebra, Phil, Phil Dick, Perhaps, Like, Only
 
 ---
 ### Line 8111-8119 (Match: 'Spinoza')
@@ -274,7 +274,7 @@ Last edit almost 3 years ago by svayambhu108
 
 111
 ```
-**Co-occurrences**: Christ, Zebra, Like, World, Time, Cosmic, Does, Shiva, Being, Frolix, Viewed, Another, Through, Most, Universe, Judge, Back, Meanwhile, Have, Judgment, Having, Final
+**Co-occurrences**: Zebra, Time, Christ, Like, World
 
 ---
 ### Line 8837-8845 (Match: 'Spinoza')
@@ -290,7 +290,7 @@ Last edit almost 3 years ago by svayambhu108
 27
 Needs Review
 ```
-**Co-occurrences**: Ubik, Perhaps, Only, Time, After, Book, Could, Does, Suppose, Either, Great, Without, Part, More, Another, Such, Upon, Certainly, True, Finally, Would, Very, Whatever, Have, Life, Knowledge, Dialectic, Truth, Final, Someone
+**Co-occurrences**: Time, Dialectic, Ubik, Perhaps, Only
 
 ---
 ### Line 8861-8869 (Match: 'Spinoza')
@@ -307,7 +307,7 @@ Last edit almost 3 years ago by svayambhu108
 
 31
 ```
-**Co-occurrences**: Brahman, Fish, Golden, Like, World, Golden Fish, Only, Noos, Mind, Just, Shiva, Reality, Being, Girl, Either, Probably, Anamnesis, Nothing, More, Real, Such, Actually, Before, Universe, Back, Under, Have, Things, Absolute, Final
+**Co-occurrences**: Anamnesis, Brahman, Fish, Golden, Like, World, Golden Fish, Only
 
 ---
 ### Line 8901-8909 (Match: 'Spinoza')
@@ -324,7 +324,7 @@ Last edit almost 3 years ago by svayambhu108
 38
 Needs Review
 ```
-**Co-occurrences**: Christ, Well, Like, World, Even, Could, Suppose, Reality, Being, Obviously, Living, Real, Before, Would, Other, Were, Have, Instead, Suddenly, Human, Whereas
+**Co-occurrences**: Christ, Well, Like, World
 
 ---
 ### Line 9703-9711 (Match: 'Spinoza')
@@ -341,6 +341,6 @@ Last edit almost 3 years ago by svayambhu108
 
 51
 ```
-**Co-occurrences**: Christ, Thomas, Perhaps, Time, Urgrund, Yang, Could, Something, Again, Reality, Divine, Corpus, More, Living, Death, Universe, Will, Would, Beyond, Have, Whether, Dead, Answer, Ananke
+**Co-occurrences**: Thomas, Time, Christ, Perhaps
 
 ---

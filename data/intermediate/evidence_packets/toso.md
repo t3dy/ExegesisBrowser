@@ -20,7 +20,7 @@ Indexed
 2
 never realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Orthogonal (i.e the Forms) yes; reversion, no. Now, when I saw what I saw, I had "died" in an actual sense; like those in UBIK I came to the end point of my lineal time-line. But I wasn't depleted; this "decay backward" to Rome which I saw wasn't an entropic process, or even decay at all.
 ```
-**Co-occurrences**: Ubik, Indexed, Rome, Form, Like, World, Time, Even, Again, Those, Actually, Chip, Crete
+**Co-occurrences**: Time, Ubik, Indexed, Rome, Form, Like, World
 
 ---
 ### Line 38-46 (Match: 'Toso')
@@ -37,7 +37,7 @@ Complete
 3
 Tessa's name for me (without her knowing all this, supra) is Rowie Rog. A combination of sounds which pierce to my soul, for evident reasons. Rog Phillips, by the way, was a friend of Tony Boucher, also dead...Ich Bin die liethe etc. Preface to UBIK.
 ```
-**Co-occurrences**: Tears, Ubik, Complete, Time, Could, Does, Just, March, Tony, Great, Without, Tessa, Part, Soul, Dick, Before, Death, Will, Christopher, Were, Under, Dead, Dream
+**Co-occurrences**: Time, Tears, Ubik, Complete
 
 ---
 ### Line 240-248 (Match: 'Toso')
@@ -54,7 +54,7 @@ Indexed
 14
 Handwritten notes in PKD’s hand: A Light struck meadow for Tony Hiss & the Real World. Hark! Each tree its silence breaks – Nicholas Brody 1692
 ```
-**Co-occurrences**: Indexed, World, Light, Tony, Philip, Real, Dick, Fullerton, Calif, Tree
+**Co-occurrences**: Philip, Indexed, World
 
 ---
 ### Line 5384-5392 (Match: 'Toso')
@@ -71,7 +71,7 @@ Indexed
 Page 4
 4
 ```
-**Co-occurrences**: Ubik, Indexed, Could, Before, Other, Page, Life
+**Co-occurrences**: Ubik, Indexed
 
 ---
 ### Line 5674-5682 (Match: 'Toso')
@@ -88,7 +88,7 @@ Indexed
 2
 2
 ```
-**Co-occurrences**: Christ, Christian, Indexed, Spirit, Holy, Holy Spirit, Paul, However, Wisdom, Lord, These, Father, World, Since, Because, Only, John, Even, Everything, Divine, Probably, Part, Voice, Universe, Will, Mission, Very, Have, Life, Instead, Trinity, Knowledge, Truth, Human
+**Co-occurrences**: Christ, Christian, Indexed, Spirit, Holy, Holy Spirit, Paul, However, Wisdom, Lord, These, Father, World, Since, Because, Only, John
 
 ---
 ### Line 5682-5690 (Match: 'Toso')
@@ -105,7 +105,7 @@ Indexed
 3
 3
 ```
-**Co-occurrences**: Christ, Tears, Indexed, Spirit, Holy, Zebra, Rome, Holy Spirit, Sophia, Bible, Wisdom, Like, Iron, Prison, John, Black, Holy Wisdom, Book, St Sophia, Anyhow, Again, Being, Everything, Black Iron Prison, Himself, Daniel, Those, Another, Babylon, Before, Universe, Finally, Will, Deity, Other, Back, Beyond, Have, Things, Trinity, Iron Prison, Dream
+**Co-occurrences**: Zebra, Sophia, St Sophia, Christ, Tears, Indexed, Spirit, Holy, Rome, Holy Spirit, Bible, Wisdom, Like, Iron, Prison, John
 
 ---
 ### Line 5690-5698 (Match: 'Toso')
@@ -122,7 +122,7 @@ Indexed
 4
 4
 ```
-**Co-occurrences**: Christ, Ubik, Indexed, Spirit, Holy, Holy Spirit, Bible, Wisdom, These, Like, Since, Only, Time, Stigmata, Holy Wisdom, Book, Even, Could, Does, Just, Something, Once, Both, Reality, Heraclitus, Christi, Everything, Divine, Corpus, Augustine, Christos, Gods, More, Church, Corpus Christi, Most, Such, Before, Other, Very, Things, Instead, Trinity, Knowledge, Kyrios, Doesn, Final, Answer
+**Co-occurrences**: Time, Christ, Ubik, Indexed, Spirit, Holy, Holy Spirit, Bible, Wisdom, These, Like, Since, Only
 
 ---
 ### Line 5698-5706 (Match: 'Toso')
@@ -139,7 +139,7 @@ Indexed
 5
 Since we could not reach up to (perceive, relate to) the real world, the word came here + subjected itself to the forces here, but, at the same time, this was its theophany to + for us, it came here + was visible; all we had to do was believe. He presented his credentials + then, later, conferred authority (out of himself; of himself) onto his disciples, so that the good news could propagate by divine authority. Perhaps even I directly received this authority or anyhow knowledge (of the truth, i.e. of him, who alone has full salvific power over us + for us, over this world as he reunites it into the self (himself) organism-entity inc. us. Scripture says that, trans-time, I speak with (or for a while did) the authority of the Parakletos. What took place was what is called adoption - I have become an adopted son of God (cf J. Bible). A very important aspect of the above realization (of how the deluding power of this world was broken for me) is the link with my 26 years or more of writing: my basic theme(s) prepared the way (for me) for that moment, + may well help others - if this is so, then my corpus of writing, esp. my "what is real?" theme may be serving salvifically - may do good. But my act of belief was related to memory - i.e. return. I attribute that to the spirit, which must already have been within me. The J. Bible says, "W. carries history to its goal." This is exactly what I saw. I deduce that I was made use of by W. in the history process, c. 3-74 to 8-74. Had I no historic role to play - would she have rescued me anyhow? There is an interesting answer to this: the trouble I was in was related to my historic role; the two can't be separated. I think it has to do with Tears. There is no uniform (in contrast to pluriform) use or purpose or involvement as we are accustomed to in normal human terms. This is part of the mystery of both the nature + purpose of the Trinity, this pluriform quality: multifaceted. I can date my initial experience with the deity in the "Palmer Eldritch" vision I had -saw in the sky- in the early sixties. But it was there even before, my sense of the (i.e. this) world as delusional. Interesting point: "Time Out of Joint" is a novel about it really being a different time than it seems. Like in Valis where it turns out to be 70 AD instead of 1974. Is there a clue in "Joint"?
 ```
-**Co-occurrences**: Christ, Valis, Tears, Indexed, Spirit, Logos, Plato, Fish, Well, Bible, Gnosticism, Golden, Wisdom, Perhaps, Plotinus, Like, World, Since, Because, Golden Fish, Time, Faith, Pythagoras, Good, Light, Even, Could, Joint, Anyhow, Both, Maya, Kosmos, Heraclitus, Being, Self, Eldritch, Divine, Himself, Palmer, Corpus, Daniel, Palmer Eldritch, Grace, Darkness, Part, Dokos, More, Soul, Babylon, Most, Real, Before, Deity, Would, Very, Have, Life, Memory, Instead, Neither, Later, Trinity, Knowledge, Truth, Human, Evidently, Answer
+**Co-occurrences**: Gnosticism, Plotinus, Valis, Time, Christ, Tears, Indexed, Spirit, Logos, Plato, Fish, Well, Bible, Golden, Wisdom, Perhaps, Like, World, Since, Because, Golden Fish
 
 ---
 ### Line 5704-5712 (Match: 'Toso')
@@ -155,7 +155,7 @@ Last edit over 5 years ago by Toso
 6
 In "Time Out of Joint" the world is a fake, + specifically the real world is another time-segment. My initial revelation in 3-74 was that the time was really around 70 AD - not later but earlier, a reversal of "Joint." Yet, the basic information is there, fully, in "Joint"; this is all a cunningly fabricated delusion, the world we see, + the basic delusion has to do with the true temporal locus. Since "Joint" was SF I naturally put the real time in the future, not the past. Damn it, I've overlooked the extraordinary parallels between "Joint" + my "it's really 70 AD!" experience. E.g. the dream I had of the dark, old-fashioned house with the archaic window shades, the cracked mirror - + realizing I couldn't get out of of that world without God's help. My incessantly-recurring dream of the 1126 Francisco St house - that's where I lived when I wrote "Joint" - that was the fake world of the novel, + resembles the miserable old house in Placentia dream. Is there some clue in my 1126 Francisco St dream? It was with Joan that I so recently saw it again, after many years. Maybe I have a soul which leaves my body in sleep + goes back in time (+, as in 3-74, forward). Back in the fifties when I lived at 1126 Francisco St actually, as expressed in "Joint" that world seemed unreal; in actuality, "it was decades later" (in "Joint"). But now that it is decades later, that past time + place seems real (or anyhow the past somehow) + this a fake. +, as I say, it is also astonishing how in '74 I foresaw the Sonoma events of the past 3 months! What is my real relationship to time? I experience the near past, the near future, + the very far past; a lot of my soul or psyche seems to be transtemporal ...maybe this is why any given present space time seems somehow unreal or delusional to me. I span across + hence beyond it; always have - + the transtemporal is the eternal, the divine, the immortal spirit. How long have I been here, + how many times? Who or what am I, + how old? Reality outside confronts me as a mystery, + so does my own inner identity, the two are fused. Who am I? When is it? Where am I? This sounds like madness. But when I read the scriptures I find myself in the world which is to me real, + I understand myself. The Bible is a door (3:5?)
 ```
-**Co-occurrences**: Valis, Tears, Indexed, Spirit, Well, Bible, Perhaps, Maybe, Like, World, Since, Time, After, Good, Even, Could, Joint, Does, Anyhow, Again, Both, Reality, Being, Self, Eldritch, Divine, Himself, Palmer, Corpus, House, Without, Palmer Eldritch, Part, More, Another, Soul, Real, Actually, Before, Revelation, True, Deity, Would, Somehow, Very, Back, Beyond, Many, Have, Body, Dark, Fake, Memory, Information, Instead, Later, Trinity, Knowledge, Truth, Human, Dream, Answer
+**Co-occurrences**: Valis, Time, Information, Tears, Indexed, Spirit, Well, Bible, Perhaps, Maybe, Like, World, Since
 
 ---
 ### Line 5709-5717 (Match: 'Toso')
@@ -171,7 +171,7 @@ Indexed
 7
 7
 ```
-**Co-occurrences**: Indexed, Spirit, Bible, Maybe, Like, World, Since, Time, After, Joint, Does, Anyhow, Again, Reality, Divine, House, Without, Another, Soul, Real, Actually, Revelation, True, Somehow, Very, Back, Beyond, Many, Have, Body, Dark, Fake, Information, Later, Dream
+**Co-occurrences**: Time, Information, Indexed, Spirit, Bible, Maybe, Like, World, Since
 
 ---
 ### Line 5717-5725 (Match: 'Toso')
@@ -188,7 +188,7 @@ Indexed
 8
 8
 ```
-**Co-occurrences**: Christ, Ubik, Indexed, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Bible, Wisdom, Elijah, Like, John, Time, After, Holy Wisdom, Hebrew, Just, Look, Zagreus, Being, Messianic, Sibyl, Babylon, Secret, Before, Revelation, Death, Will, Messiah, Were, Back, Caesar, Life, Body, Spring, Days, Having, Except, Otherwise, Lower, Until
+**Co-occurrences**: Time, Christ, Ubik, Indexed, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Bible, Wisdom, Elijah, Like, John
 
 ---
 ### Line 5729-5737 (Match: 'Toso')
@@ -205,7 +205,7 @@ Indexed
 9
 9
 ```
-**Co-occurrences**: Christ, Tears, Indexed, Rome, Form, Kingdom, These, Plotinus, Father, World, Iron, Prison, Time, Platonist, Black, Buckman, Could, Pinky, Again, Being, Divine, Black Iron Prison, Himself, Great, More, Babylon, Real, Somehow, Were, Illustration, Very, Back, Beyond, Truth, Iron Prison, Until, August
+**Co-occurrences**: Plotinus, Time, Christ, Tears, Indexed, Rome, Form, Kingdom, These, Father, World, Iron, Prison, Platonist
 
 ---
 ### Line 5739-5747 (Match: 'Toso')
@@ -222,7 +222,7 @@ Indexed
 10
 10
 ```
-**Co-occurrences**: Ubik, Indexed, Rome, Form, Fish, Well, Golden, However, World, Golden Fish, Time, Faith, Could, Does, Just, Something, Both, Reality, Platonic, Eucharist, Still, More, Babylon, True, Somehow, Back, Truth, Magic
+**Co-occurrences**: Time, Linear, Ubik, Indexed, Rome, Form, Fish, Well, Golden, However, World, Golden Fish
 
 ---
 ### Line 5747-5755 (Match: 'Toso')
@@ -238,7 +238,7 @@ Last edit over 5 years ago by Toso
 11
 11
 ```
-**Co-occurrences**: Tears, Christian, Complete, Xerox, Rome, Kingdom, King, Well, However, Maybe, Like, Iron, Prison, Time, Black, Could, Being, Although, Self, Black Iron Prison, Daniel, Those, Still, Jews, Part, Their, Babylon, Such, Before, Somehow, Were, Have, Iron Prison, Dream
+**Co-occurrences**: Time, Linear, Tears, Christian, Complete, Xerox, Rome, Kingdom, King, Well, However, Maybe, Like, Iron, Prison
 
 ---
 ### Line 5754-5762 (Match: 'Toso')
@@ -255,7 +255,7 @@ Indexed
 12
 12
 ```
-**Co-occurrences**: Christ, Tears, Christian, Indexed, Rome, Form, Sophia, King, Paul, Felix, Roman, Wisdom, Like, World, Fall, Prison, After, Buckman, Book, Could, Taverner, Obviously, Frolix, Daniel, House, Jason, Santa, Those, Their, More, Another, Through, Babylon, Most, Actually, Before, Were, Jason Taverner, Very, Have, Later, Remember, Truth, Dream
+**Co-occurrences**: Sophia, Christ, Tears, Christian, Indexed, Rome, Form, King, Paul, Felix, Roman, Wisdom, Like, World, Fall, Prison
 
 ---
 ### Line 5762-5770 (Match: 'Toso')
@@ -271,7 +271,7 @@ Last edit over 5 years ago by Toso
 1
 Im not emphasizing the real vocal. My primordial (original) facultus was restored, & I could [once again) see God, as is described in Genesis: when man walked and talked with God. I could hear him, too. Isnt this the most important aspect of the 3-74 transformation? (God, which is to say Zebra, transubstantiation within the-our-world.) I've realized this from the start, but not the magnitude of it. Also, it does fit in with what said about our primordial, original ancestors. In me & with me, that state (as well as the place) was restored, although temporary - I simply dont seem to have realized the significance of this (seeing him, ie Zebra). Mostly I concentrated on seeing him being proof of his existance, but if you postulate his existance, then seeing him ascends in importance, to the level of of being indication of restoration of our original start, which, from reading Calvin, I had conjectured was the case with me in 3-74; this new grasp of the meaning of what I saw seems to confirm it. The palm tree garden is the original garden; is this the same as the kingdom of God? If Milton is right in "Paradise Lost" & "P. Regained" this is exactly what Christ intended to achieve! It (if Calvin) can all be boiled down to a lost [higher] state restored, by the lifting of the curse - or occlusion ... was it a punishment? Yes. I must have served my sentence, over 1000's of years - worked my way back. The cardinal asked if the blindness (visual) is to no longer be about to see God. Hence the cardinal sign of restoration is to see him (once more). & to remember the Lost State.
 ```
-**Co-occurrences**: Christ, Spirit, Zebra, Kingdom, Paul, Well, Gnosticism, World, Because, Prison, Only, Time, Garden, Could, Does, Once, Again, Kingdom of God, Being, Although, Fate, Palm, Nothing, Their, More, Most, Real, Holt, Olive, Olive Holt, Calvin, Were, Back, Have, Tree, Days, Remember, Paradise, Genesis, Free, Right
+**Co-occurrences**: Gnosticism, Zebra, Time, Christ, Spirit, Kingdom, Paul, Well, World, Because, Prison, Only
 
 ---
 ### Line 6702-6710 (Match: 'Toso')
@@ -288,7 +288,7 @@ Indexed
 2
 2
 ```
-**Co-occurrences**: Christ, Valis, Acts, Christian, Thomas, Indexed, Jesus, Rome, Christianity, Form, Fish, Perhaps, Because, Time, Faith, Does, Just, Something, Both, Jesus Christ, Those, Pike, Pyth, Secret, Zoroastrianism, Revelation, Jim Pike, True, Have, Cross, Dialectic
+**Co-occurrences**: Valis, Thomas, Time, Dialectic, Christ, Acts, Christian, Indexed, Jesus, Rome, Christianity, Form, Fish, Perhaps, Because
 
 ---
 ### Line 6720-6728 (Match: 'Toso')
@@ -305,7 +305,7 @@ Indexed
 3
 3
 ```
-**Co-occurrences**: Valis, Christian, Indexed, Greek, Fall, Kosmos, Pyth, Yahweh, Illustration, Dialectic, Right
+**Co-occurrences**: Valis, Dialectic, Christian, Indexed, Greek, Fall
 
 ---
 ### Line 6730-6738 (Match: 'Toso')
@@ -322,7 +322,7 @@ Complete
 4
 4
 ```
-**Co-occurrences**: Christ, Valis, Christian, Complete, Rome, Form, Scanner, World, Something, Both, Maya, Kosmos, Being, Buddhism, Nothing, Death, Macro, Calvin, Illustration, Life, Neither, Knowledge, Dialectic
+**Co-occurrences**: Valis, Dialectic, Christ, Christian, Complete, Rome, Form, Scanner, World
 
 ---
 ### Line 6740-6748 (Match: 'Toso')
@@ -339,6 +339,6 @@ Indexed
 5
 5
 ```
-**Co-occurrences**: Valis, Indexed, Form, Kingdom, James, Since, Because, Cosmic, Light, Kingdom of God, Both, Maya, Kosmos, Apollo, Viewed, Nothing, Will, Illustration, Tree, Life, Dialectic
+**Co-occurrences**: Valis, Dialectic, Indexed, Form, Kingdom, James, Since, Because
 
 ---

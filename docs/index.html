@@ -1,155 +1,691 @@
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PKD Exegesis Knowledge Portal</title>
-    <link rel="stylesheet" href="assets/css/styles.css?v=1.0.2">
+    <link rel="stylesheet" href="assets/css/styles.css?v=1.0.3">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.26.0/cytoscape.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
-
 <body>
     <header>
         <h1>Exegesis Knowledge Portal</h1>
-        <p>A computational commentary on Philip K. Dick's intellectual network.</p>
+        <p>A computational commentary on <a href="cards/philip.html" class="exegesis-link">Philip</a> K. Dick's intellectual network.</p>
     </header>
-
+    
     <main>
-        <!-- Scholarly Introduction -->
         <section class="scholarly-intro">
             <h2>The Information Metaphysics of Philip K. Dick</h2>
             <p>
-                This portal provides a deterministic, evidence-backed reference system for Philip K. Dick's
-                <em>Exegesis</em>. Our methodology prioritizes strict corpus hygiene—enforcing SHA256-verified
-                whitelisting of source texts—and models Dick's thought not merely as a collection of terms,
-                but as a bidirectional network of passages and conceptual unit.
-            </p>
-            <p>
-                Dick's later work represents a radical synthesis of Hermetic initiation, Boehmean theosophy,
-                Neoplatonic participation, and 20th-century information theory. By modeling these relations
-                spatially, we reveal the "hinge passages" where these disparate traditions collide to form
-                his idiosyncratic visionary cosmology.
+                This portal provides a deterministic, evidence-backed reference system for <a href="cards/philip.html" class="exegesis-link">Philip</a> K. Dick's 
+                <em>Exegesis</em>. Our methodology prioritizes strict corpus hygiene and models Dick's thought 
+                as a bidirectional network of passages and conceptual units.
             </p>
         </section>
 
-        <!-- Tab Navigation -->
         <div class="tab-container">
             <button class="tab-btn active" onclick="switchTab('cards')">Relational Cards</button>
-            <button class="tab-btn" onclick="switchTab('source')">Source Structure</button>
             <button class="tab-btn" onclick="switchTab('analytics')">Analytics Dashboard</button>
-            <button class="tab-btn" onclick="switchTab('graph')">Knowledge Graph (Experimental)</button>
+            <button class="tab-btn" onclick="switchTab('source')">Source Structure</button>
+            <button class="tab-btn" onclick="switchTab('graph')">Knowledge Graph</button>
         </div>
 
-        <!-- RELATIONAL CARDS VIEW -->
         <div id="cards-view" class="view-active">
-            <div id="filter-bar">
-                <!-- Filter tags will be injected here -->
-            </div>
-
+            <div id="filter-bar"></div>
             <div class="search-container">
                 <input type="text" id="term-search" placeholder="Search concepts, figures, systems...">
             </div>
-
             <div class="cards-grid" id="cards-grid">
-                <!-- Cards will be injected here -->
+                
+        <a href="cards/unknown.html" class="card" data-title="Unknown" data-category="General Topic">
+            <span class="category">General Topic</span>
+            <h3>Unknown</h3>
+            <p>A critical concept within the general topic domain of PKD's Exegesis. Statistically significant with 0 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/platonist.html" class="card" data-title="Platonist" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Platonist</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 170 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/nixon.html" class="card" data-title="Nixon" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Nixon</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 170 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/earth.html" class="card" data-title="Earth" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Earth</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 178 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/john.html" class="card" data-title="John" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>John</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 180 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/only.html" class="card" data-title="Only" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Only</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 182 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/prison.html" class="card" data-title="Prison" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Prison</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 183 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/iron.html" class="card" data-title="Iron" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Iron</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 190 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/golden_fish.html" class="card" data-title="Golden Fish" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Golden Fish</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 190 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/malebranche.html" class="card" data-title="Malebranche" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Malebranche</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 194 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/therefore.html" class="card" data-title="Therefore" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Therefore</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 194 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/because.html" class="card" data-title="Because" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Because</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 195 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/fall.html" class="card" data-title="Fall" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Fall</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 196 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/gnosis.html" class="card" data-title="Gnosis" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Gnosis</h3>
+            <p>Knowledge through direct experience of the divine, contrasting with faith or dogma; central to the Gnostic deliverance from the material 'error'.</p>
+        </a>
+        
+        <a href="cards/since.html" class="card" data-title="Since" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Since</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 197 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/parmenides.html" class="card" data-title="Parmenides" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Parmenides</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 200 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/world.html" class="card" data-title="World" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>World</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 200 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/like.html" class="card" data-title="Like" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Like</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 207 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/scanner.html" class="card" data-title="Scanner" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Scanner</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 210 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/james.html" class="card" data-title="James" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>James</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 211 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/maybe.html" class="card" data-title="Maybe" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Maybe</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 225 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/tagore.html" class="card" data-title="Tagore" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Tagore</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 226 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/father.html" class="card" data-title="Father" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Father</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 229 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/elijah.html" class="card" data-title="Elijah" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Elijah</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 233 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/godhead.html" class="card" data-title="Godhead" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Godhead</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 257 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/advent.html" class="card" data-title="Advent" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Advent</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 259 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/perhaps.html" class="card" data-title="Perhaps" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Perhaps</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 259 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/these.html" class="card" data-title="These" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>These</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 263 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/lord.html" class="card" data-title="Lord" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Lord</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 267 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/dionysos.html" class="card" data-title="Dionysos" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Dionysos</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 273 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/wisdom.html" class="card" data-title="Wisdom" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Wisdom</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 274 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/maze.html" class="card" data-title="Maze" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Maze</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 279 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/spinoza.html" class="card" data-title="Spinoza" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Spinoza</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 293 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/however.html" class="card" data-title="However" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>However</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 293 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/roman.html" class="card" data-title="Roman" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Roman</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 295 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/golden.html" class="card" data-title="Golden" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Golden</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 303 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/parousia.html" class="card" data-title="Parousia" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Parousia</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 317 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/bible.html" class="card" data-title="Bible" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Bible</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 326 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/empire.html" class="card" data-title="Empire" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Empire</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 335 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/well.html" class="card" data-title="Well" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Well</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 342 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/satan.html" class="card" data-title="Satan" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Satan</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 343 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/ditheon.html" class="card" data-title="Ditheon" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Ditheon</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 346 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/greek.html" class="card" data-title="Greek" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Greek</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 354 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/felix.html" class="card" data-title="Felix" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Felix</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 355 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/fish.html" class="card" data-title="Fish" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Fish</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 372 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/paul.html" class="card" data-title="Paul" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Paul</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 400 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/brahman.html" class="card" data-title="Brahman" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Brahman</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 408 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/torah.html" class="card" data-title="Torah" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Torah</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 475 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/king.html" class="card" data-title="King" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>King</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 502 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/kingdom.html" class="card" data-title="Kingdom" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Kingdom</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 581 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/plato.html" class="card" data-title="Plato" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Plato</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 661 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/form.html" class="card" data-title="Form" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Form</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 707 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/holy_spirit.html" class="card" data-title="Holy Spirit" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Holy Spirit</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 713 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/christianity.html" class="card" data-title="Christianity" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Christianity</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 746 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/rome.html" class="card" data-title="Rome" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Rome</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 780 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/xerox.html" class="card" data-title="Xerox" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Xerox</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 815 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/complete.html" class="card" data-title="Complete" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Complete</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 851 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/jesus.html" class="card" data-title="Jesus" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Jesus</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 926 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/logos.html" class="card" data-title="Logos" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Logos</h3>
+            <p>The divine word or organizing principle, often viewed by Dick as a living information-entity (plasmate) that enters the world as an intruder.</p>
+        </a>
+        
+        <a href="cards/holy.html" class="card" data-title="Holy" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Holy</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1082 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/spirit.html" class="card" data-title="Spirit" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Spirit</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1097 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/indexed.html" class="card" data-title="Indexed" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Indexed</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1140 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/toso.html" class="card" data-title="Toso" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Toso</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1495 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/ubik.html" class="card" data-title="Ubik" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Ubik</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1527 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/christian.html" class="card" data-title="Christian" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Christian</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1745 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/acts.html" class="card" data-title="Acts" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Acts</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1801 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/tears.html" class="card" data-title="Tears" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Tears</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 2029 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/christ.html" class="card" data-title="Christ" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Christ</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 4853 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/entropy.html" class="card" data-title="Entropy" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Entropy</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 11 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/decoded.html" class="card" data-title="Decoded" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Decoded</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 15 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/yaldabaoth.html" class="card" data-title="Yaldabaoth" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Yaldabaoth</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 16 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/linear.html" class="card" data-title="Linear" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Linear</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 16 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/saint_sophia.html" class="card" data-title="Saint Sophia" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Saint Sophia</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 16 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/kantian.html" class="card" data-title="Kantian" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Kantian</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 21 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/phil_dick.html" class="card" data-title="Phil Dick" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Phil Dick</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 23 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/pleroma.html" class="card" data-title="Pleroma" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Pleroma</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 24 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/hermes.html" class="card" data-title="Hermes" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Hermes</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 25 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/dialectic.html" class="card" data-title="Dialectic" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Dialectic</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 27 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/information.html" class="card" data-title="Information" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Information</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 30 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/hegelian.html" class="card" data-title="Hegelian" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Hegelian</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 34 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/santa_sophia.html" class="card" data-title="Santa Sophia" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Santa Sophia</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 40 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/kant.html" class="card" data-title="Kant" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Kant</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 46 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/phil.html" class="card" data-title="Phil" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Phil</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 50 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/anamnesis.html" class="card" data-title="Anamnesis" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Anamnesis</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 61 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/philip.html" class="card" data-title="Philip" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Philip</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 69 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/hagia_sophia.html" class="card" data-title="Hagia Sophia" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Hagia Sophia</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 76 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/hegel.html" class="card" data-title="Hegel" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Hegel</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 83 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/zebrapedia.html" class="card" data-title="Zebrapedia" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Zebrapedia</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 108 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/philo.html" class="card" data-title="Philo" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Philo</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 109 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/firebright.html" class="card" data-title="Firebright" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Firebright</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 116 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/st_sophia.html" class="card" data-title="St Sophia" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>St Sophia</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 117 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/hermetic.html" class="card" data-title="Hermetic" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Hermetic</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 124 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/time.html" class="card" data-title="Time" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Time</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 178 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/gnostic.html" class="card" data-title="Gnostic" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Gnostic</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 541 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/sophia.html" class="card" data-title="Sophia" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Sophia</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 692 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/zebra.html" class="card" data-title="Zebra" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Zebra</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 999 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/thomas.html" class="card" data-title="Thomas" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Thomas</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1481 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/valis.html" class="card" data-title="Valis" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Valis</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 3934 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/jakob_boehme.html" class="card" data-title="Jakob Boehme" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Jakob Boehme</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 109 recorded mentions.</p>
+        </a>
+        
+        <a href="cards/plotinus.html" class="card" data-title="Plotinus" data-category="Top Term">
+            <span class="category">Top Term</span>
+            <h3>Plotinus</h3>
+            <p>A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 239 recorded mentions.</p>
+        </a>
+        
             </div>
         </div>
 
-        <!-- SOURCE STRUCTURE VIEW -->
-        <div id="source-view" class="view-hidden">
-            <div class="source-browser">
-                <aside class="segment-sidebar">
-                    <h3>Segments</h3>
-                    <div id="segment-list"></div>
-                </aside>
-                <section class="segment-content">
-                    <div id="segment-detail-placeholder">
-                        <p>Select a segment to view scholarly analysis and evidence anchors.</p>
-                    </div>
-                    <div id="segment-detail" class="view-hidden">
-                        <h2 id="seg-title"></h2>
-                        <div class="scholarly-box">
-                            <p id="seg-summary"></p>
-                        </div>
-                        <div class="scholarly-meta">
-                            <div class="meta-section">
-                                <h4>Core Theses</h4>
-                                <ul id="seg-theses"></ul>
-                            </div>
-                            <div class="meta-section">
-                                <h4>Visionary Peaks</h4>
-                                <ul id="seg-peaks"></ul>
-                            </div>
-                        </div>
-                        <h4>Evidence Anchors</h4>
-                        <div id="seg-anchors"></div>
-                    </div>
-                </section>
-            </div>
-        </div>
-
-        <!-- ANALYTICS VIEW -->
         <div id="analytics-view" class="view-hidden">
             <div class="analytics-container">
-                <div class="analytics-card">
-                    <h3>Top 10 Most Frequent Concepts</h3>
-                    <canvas id="chart-top-terms"></canvas>
-                </div>
-                <div class="analytics-card">
-                    <h3>Domain Distribution</h3>
-                    <canvas id="chart-categories"></canvas>
-                </div>
-                <div class="analytics-card">
-                    <h3>Key Historical Figures</h3>
-                    <canvas id="chart-figures"></canvas>
-                </div>
-                <div class="analytics-card">
-                    <h3>Theological / Metaphysical Themes</h3>
-                    <canvas id="chart-themes"></canvas>
+                <div class="analytics-card"><h3>Top 10 Most Frequent Concepts</h3><canvas id="chart-top-terms"></canvas></div>
+                <div class="analytics-card"><h3>Domain Distribution</h3><canvas id="chart-categories"></canvas></div>
+                <div class="analytics-card"><h3>Key Historical Figures</h3><canvas id="chart-figures"></canvas></div>
+                <div class="analytics-card"><h3>Theological / Metaphysical Themes</h3><canvas id="chart-themes"></canvas></div>
+            </div>
+        </div>
+
+        <div id="source-view" class="view-hidden">
+            <div class="source-browser">
+                <div id="source-list" class="source-list"></div>
+                <div id="segment-detail" class="segment-detail">
+                    <p class="placeholder-msg">Select a segment to view scholarly analysis.</p>
                 </div>
             </div>
         </div>
 
-        <!-- GRAPH VIEW -->
         <div id="graph-view" class="view-hidden">
             <div class="graph-explorer">
                 <div class="graph-legend">
                     <h4>Relational Explorer</h4>
                     <div class="legend-item"><span class="node-color concept"></span> Concept</div>
                     <div class="legend-item"><span class="node-color passage"></span> Passage Unit</div>
-                    <div class="legend-info">Scroll to zoom • Drag to pan • Click to pivot</div>
-
-                    <div class="graph-categories">
-                        <h5>Categories</h5>
-                        <div id="graph-category-list"></div>
-                    </div>
+                    <div id="graph-category-list"></div>
                 </div>
                 <div id="cy"></div>
                 <div id="node-info" class="node-info-panel view-hidden">
-                    <button class="close-btn"
-                        onclick="document.getElementById('node-info').classList.add('view-hidden')">&times;</button>
+                    <button class="close-btn" onclick="document.getElementById('node-info').classList.add('view-hidden')">&times;</button>
                     <div id="node-info-content"></div>
                 </div>
             </div>
         </div>
+    </main>
+ 
+    <footer>
+        <p>&copy; 2026 Exegesis Semantic Browser • <a href="https://github.com/t3dy/ExegesisBrowser" style="color:var(--highlight); text-decoration:none;">GitHub Repository</a></p>
+    </footer>
 
-        <footer>
-            <p>&copy; 2026 Exegesis Semantic Browser • Powered by Cytoscape.js & Chart.js • <a
-                    href="https://github.com/t3dy/ExegesisBrowser"
-                    style="color:var(--highlight); text-decoration:none;">GitHub Repository</a></p>
-        </footer>
-
-        <!-- Data Scripts (Fallback for local CORS) -->
-        <script src="assets/data/dictionary_expanded.js"></script>
-        <script src="assets/data/analytics_summary.js"></script>
-        <script src="assets/data/graph_data.js"></script>
-        <script src="assets/data/source_structure.js"></script>
-        <script src="assets/data/segment_summaries.js"></script>
-
-        <!-- App Logic -->
-        <script src="assets/js/app.js"></script>
+    <script src="assets/data/dictionary_expanded.js"></script>
+    <script src="assets/data/analytics_summary.js"></script>
+    <script src="assets/data/graph_data.js"></script>
+    <script src="assets/data/source_structure.js"></script>
+    <script src="assets/data/segment_summaries.js"></script>
+    <script src="assets/js/app.js"></script>
 </body>
-
 </html>

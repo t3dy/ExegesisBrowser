@@ -20,7 +20,7 @@ Last edit over 2 years ago by ratatosk
 34
 Needs Review
 ```
-**Co-occurrences**: Fish, Greek, Gnosticism, Wisdom, These, Plotinus, Maybe, Like, Mind, Could, Something, Again, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Many, Have, Absolute, Info, America, Magic, Dream, Someone
+**Co-occurrences**: Gnosticism, Plotinus, Fish, Greek, Wisdom, These, Maybe, Like
 
 ---
 ### Line 2514-2522 (Match: 'Hermes')
@@ -37,7 +37,7 @@ Last edit over 5 years ago by Harpax
 189
 Needs Review
 ```
-**Co-occurrences**: Christian, Spirit, Xerox, Rome, Christianity, Form, Sophia, King, Well, Empire, Wisdom, These, Advent, Father, Like, Fall, Because, Time, Earth, Harpax, Good, Hermetic, Just, Again, Being, Girl, Great, Gods, Sibyl, Santa, Nothing, Part, Their, More, Egypt, Heaven, Certainly, Love, Before, Greece, Santa Sophia, Macro, Will, Would, Other, Judge, Very, Back, Egyptian, Surely, Whatever, Have, Judgment, Justice, Information, Trinity, Evil, Human, Dream, Crete
+**Co-occurrences**: Sophia, Time, Hermetic, Santa Sophia, Information, Christian, Spirit, Xerox, Rome, Christianity, Form, King, Well, Empire, Wisdom, These, Advent, Father, Like, Fall, Because, Earth
 
 ---
 ### Line 4709-4717 (Match: 'Hermes')
@@ -54,7 +54,7 @@ Last edit almost 3 years ago by svayambhu108
 40
 Needs Review
 ```
-**Co-occurrences**: Christian, Sophia, Time, Mind, Even, Just, Divine, Great, Without, Their, Jung, Church, Another, True, Will, Were, Very, Back, Whatever, Many, Have, Life, Human
+**Co-occurrences**: Sophia, Time, Christian
 
 ---
 ### Line 4906-4914 (Match: 'Hermes')
@@ -71,7 +71,7 @@ Let's assume B: intensification, not interruption. At least here we can absolute
 
 What emerges most clearly is that God is guiding me through life, to + toward [final?] safety + that He loves me.
 ```
-**Co-occurrences**: World, Just, Something, Divine, Grace, Still, More, Through, Most, Other, Clearly, Life, Evil, Final
+**Co-occurrences**: World
 
 ---
 ### Line 5861-5869 (Match: 'Hermes')
@@ -88,7 +88,7 @@ Last edit almost 3 years ago by svayambhu108
 15
 Needs Review
 ```
-**Co-occurrences**: Gnostic, Paul, Spinoza, Like, World, Good, Realm, Reality, Being, Aristotle, Leibnitz, Through, Most, Nonetheless, Such, Before, True, Artifact, Evil, Right
+**Co-occurrences**: Gnostic, Paul, Spinoza, Like, World
 
 ---
 ### Line 6356-6364 (Match: 'Hermes')
@@ -105,7 +105,7 @@ Last edit almost 3 years ago by svayambhu108
 27
 Needs Review
 ```
-**Co-occurrences**: Christ, Thomas, Zebra, Xerox, Paul, Gnosticism, Like, World, Only, Time, Savior, Could, Once, Reality, Being, Still, Dokos, Through, Before, True, Deity, Other, Very, Back, Whatever, Have, Memory, Remember, Evidently, Until
+**Co-occurrences**: Gnosticism, Thomas, Zebra, Time, Linear, Christ, Xerox, Paul, Like, World, Only
 
 ---
 ### Line 6414-6422 (Match: 'Hermes')
@@ -121,7 +121,7 @@ Last edit almost 3 years ago by svayambhu108
 37
 Needs Review
 ```
-**Co-occurrences**: Xerox, Well, However, Advent, Like, World, Since, Fall, Because, Prison, Time, Savior, Again, Missive, Xerox Missive, Fate, Grace, Their, More, Through, Before, Deity, Would, Were, Have, Things, Memory, Unless, Karmic, Dream, Salvation
+**Co-occurrences**: Time, Linear, Xerox, Well, However, Advent, Like, World, Since, Fall, Because, Prison
 
 ---
 ### Line 7310-7318 (Match: 'Hermes')
@@ -138,7 +138,7 @@ Last edit almost 3 years ago by svayambhu108
 
 16
 ```
-**Co-occurrences**: Form, These, Like, Only, John, Time, Earth, Cosmic, Mind, Light, Just, Something, Teilhard, Although, Everything, Brain, Part, Their, Through, Universe, Ching, Beyond, Further, Have, Information, Magic, Right, Answer
+**Co-occurrences**: Time, Information, Form, These, Like, Only, John, Earth
 
 ---
 ### Line 7676-7684 (Match: 'Hermes')
@@ -154,7 +154,7 @@ Last edit almost 3 years ago by svayambhu108
 42
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Form, King, Felix, Greek, Well, However, Dionysos, Perhaps, Like, Since, Only, Time, Savior, Good, Does, Anyhow, Once, Shiva, Being, Himself, Bacchae, Fate, Wait, Real, Secret, Love, True, Will, Deity, Other, Back, Things, Body, Pentheus, Memory, Knowledge, Human, Evidently, Final
+**Co-occurrences**: Time, Christ, Tears, Spirit, Form, King, Felix, Greek, Well, However, Dionysos, Perhaps, Like, Since, Only
 
 ---
 ### Line 7895-7903 (Match: 'Hermes')
@@ -170,7 +170,7 @@ Last edit almost 3 years ago by svayambhu108
 77
 Needs Review
 ```
-**Co-occurrences**: Christ, Xerox, Well, Maze, Father, Therefore, Savior, Shiva, Missive, Everything, Dante, Xerox Missive, Anamnesis, Grace, Part, Pantocrator, Through, Upon, Were, Very, Back, Memory, Suddenly, Comforter, Salvation, Final
+**Co-occurrences**: Anamnesis, Christ, Xerox, Well, Maze, Father, Therefore
 
 ---
 ### Line 8226-8234 (Match: 'Hermes')
@@ -187,7 +187,7 @@ Last edit almost 3 years ago by svayambhu108
 
 126
 ```
-**Co-occurrences**: Christ, Gnostic, However, Godhead, World, Iron, Urgrund, Mind, Hermetic, Anyhow, Something, Again, Although, Everything, Divine, Anamnesis, Bruno, Consider, True, Macro, Universe, Have, Memory, Whether, Magic, Magus
+**Co-occurrences**: Gnostic, Hermetic, Anamnesis, Christ, However, Godhead, World, Iron
 
 ---
 ### Line 8231-8239 (Match: 'Hermes')
@@ -203,7 +203,7 @@ Last edit almost 3 years ago by svayambhu108
 127
 Needs Review
 ```
-**Co-occurrences**: Christian, Rome, Gnostic, Well, Godhead, Time, Mind, Hermetic, Orphic, Divine, Part, Most, Universe, Were, Memory, Aphrodite, Except, Syria
+**Co-occurrences**: Gnostic, Time, Hermetic, Christian, Rome, Well, Godhead
 
 ---
 ### Line 10060-10068 (Match: 'Hermes')
@@ -220,7 +220,7 @@ It is possible, too, that, as in "Ubik," the yin world can't review itself - it 
 
 With ground (Form II) analyzed as yin world it was evident that, from an a priori reasoning, there would have to be an interventive yang doing the exact kind of recontouring or "melting" which I saw. So there is no doubt that stigmatizing ground as yin world has to be accurate. + the presence of Zebra would follow of necessity; the yin world would run down like a clock eventually because nothing new could come into it or arise from it. So the interventive presence of Zebra is not electric (there can be no yin without yang, for they are complimentary antitheses.
 ```
-**Co-occurrences**: Christ, Ubik, Zebra, Form, Like, World, Because, Even, Yang, Could, Look, Once, Again, Obviously, Fate, Without, Nothing, Heaven, Ground, Would, Have, Instead, Electric, Salvation, Right
+**Co-occurrences**: Zebra, Christ, Ubik, Form, Like, World, Because
 
 ---
 ### Line 14344-14352 (Match: 'Hermes')
@@ -237,8 +237,7 @@ The AI voice is the voice of the brain / Noos / living information which we have
 
 Last edit over 9 years ago by Toso
 ```
-**Co-occurrences**: Toso, Thomas, Complete, Form, Roman, Wisdom, World, Fall, Because, Noos, Folder, Adam, Being, Toso
-Folder, Anamnesis, Brain, Their, Bruno, Through, Living, Voice, Before, Would, Were, Back, Have, Life, Memory, Information, Remember, Magic
+**Co-occurrences**: Thomas, Anamnesis, Information, Toso, Complete, Form, Roman, Wisdom, World, Fall, Because
 
 ---
 ### Line 14539-14547 (Match: 'Hermes')
@@ -255,8 +254,7 @@ E.B. on alchemy: "Some physicians + a few alchemists turned to the elixir of lif
 
 Last edit about 7 years ago by Toso
 ```
-**Co-occurrences**: Ubik, Toso, Indexed, Like, World, Only, Time, Folder, Book, Hermetic, Hebrew, Great, Jewish, Indexed
-Folder, Paracelsus, Bruno, Most, Actually, Macro, Very, Surely, Have, Life, German, Having
+**Co-occurrences**: Time, Hermetic, Ubik, Toso, Indexed, Like, World, Only
 
 ---
 ### Line 14549-14557 (Match: 'Hermes')
@@ -273,9 +271,7 @@ Last edit about 7 years ago by Toso
 Folder 03 - 015
 Indexed
 ```
-**Co-occurrences**: Christian, Ubik, Toso, Thomas, Indexed, Xerox, Gnosticism, Perhaps, Since, Gnosis, Time, Folder, Something, Once, Again, Luke, Missive, Xerox Missive, Toso
-Folder, Himself, Great, Indexed
-Folder, Still, Paracelsus, Through, Most, Such, Secret, Death, Macro, Would, Other, Were, Under, Have, Life, German, Knowledge, Human
+**Co-occurrences**: Gnosticism, Thomas, Time, Christian, Ubik, Toso, Indexed, Xerox, Perhaps, Since, Gnosis
 
 ---
 ### Line 14816-14824 (Match: 'Hermes')
@@ -292,8 +288,7 @@ Two points. Apollo as rightful king - his return is referred to. + - these are t
 
 Last edit over 7 years ago by Toso
 ```
-**Co-occurrences**: Toso, Indexed, King, Well, Golden, These, Fall, Because, Iron, Prison, Time, After, Folder, Mind, Just, Something, Everything, Himself, Apollo, Sibyl, Indexed
-Folder, Part, Heaven, Voice, Before, Macro, Will, Very, Have, Life, Iron Prison, Free, Final
+**Co-occurrences**: Time, Toso, Indexed, King, Well, Golden, These, Fall, Because, Iron, Prison
 
 ---
 ### Line 15927-15935 (Match: 'Hermes')
@@ -310,7 +305,7 @@ Yes - the "accretional human Noos which is transpersonal, (1) a homoplasmate, + 
 
 In a certain real sense the Holy Spirit is the workhorse as far as we are concerned. Christ, who i sunder a mandate of authority from the Father, designates for the Holy Spirit which of us is to be added to the supratemporal, -plasmal, -spacial mind + thus brought to Christ + hence delivered to the Father. We encounter this actually unitary Godhead via the Holy Spirit, but it is Christ who is speaking. The Holy Spirit, knowing everthing, including the Father, crossbonds with us in Love, based on the wise decision of the Logos, the power to do this coming from the Father. What must never be lost sight of is that it is the Logos who judges who is to be crossbonded to/by the Holy Spirit. Power drives wisdom which drives Love, + we are the recipients of this process of accretion; we are restored to the
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Holy Spirit, Wisdom, Godhead, Father, Time, Noos, Mind, Real, Actually, Love, Have, Information, Wise, Trinity, Cross, Human
+**Co-occurrences**: Time, Information, Christ, Spirit, Holy, Logos, Holy Spirit, Wisdom, Godhead, Father
 
 ---
 ### Line 16596-16604 (Match: 'Hermes')
@@ -326,8 +321,7 @@ Last edit over 8 years ago by Toso
 folder 20 - 032
 Indexed
 ```
-**Co-occurrences**: Christ, Toso, Indexed, Complete, Christianity, Kingdom, Gnosticism, These, Godhead, Prison, Only, Folder, Garden, Light, Yang, Once, Taoism, Realm, Both, Reality, Divine, Toso
-Folder, Corpus, Part, More, Brahmanism, Zoroastrianism, Macro, Other, Somehow, Very, Back, Dark, Upper, Otherwise, Lower
+**Co-occurrences**: Gnosticism, Christ, Toso, Indexed, Complete, Christianity, Kingdom, These, Godhead, Prison, Only
 
 ---
 ### Line 17285-17293 (Match: 'Hermes')
@@ -344,8 +338,6 @@ Last edit about 8 years ago by Toso
 folder 21 - 055
 Indexed
 ```
-**Co-occurrences**: Christ, Christian, Toso, Indexed, Zebra, Gnostic, Paul, Fish, Scanner, Like, Time, Folder, Savior, Book, Could, Does, Adam, Siddhartha, Toso
-Folder, Probably, Indexed
-Folder, Creator, Part, Secret, True, Messenger, Will, Very, Have, Life, Dream, Pleroma
+**Co-occurrences**: Zebra, Gnostic, Time, Pleroma, Christ, Christian, Toso, Indexed, Paul, Fish, Scanner, Like
 
 ---

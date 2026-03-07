@@ -20,7 +20,7 @@ Last edit over 5 years ago by Harpax
 37
 Needs Review
 ```
-**Co-occurrences**: Christ, Dionysos, These, Only, Time, Harpax, After, Even, Zagreus, Nothing, Kathy, Those, Their, More, Most, True, Will, Would, Have, Clearly, Life, Government, Suddenly, Dream
+**Co-occurrences**: Time, Christ, Dionysos, These, Only
 
 ---
 ### Line 683-691 (Match: 'Lord')
@@ -37,7 +37,7 @@ In his article, Dr. NK states that (1) Time is an energy which enters material s
 
 This is a description of the Logos.
 ```
-**Co-occurrences**: Spirit, Logos, Father, Like, Therefore, Time, Harpax, Even, Reality, Being, Everything, Divine, Probably, Through, Living, Such, Will, Were, Justice, Information, Knowledge, Truth, Human, Dream, Salvation
+**Co-occurrences**: Time, Information, Spirit, Logos, Father, Like, Therefore
 
 ---
 ### Line 736-744 (Match: 'Lord')
@@ -53,7 +53,7 @@ Dr. NK: "Time enters material systems." Maybe our dreams are time, as energy whi
 
 We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one of the RUs, one of the sources. This is very strange (paradigm is FLOW MY TEARS, in which 3 separate superimposed but somewhat different universes are lived in between first and final page of pt 1 to 3. How is this overlap achieved? How does one exit from one and into another? Who manages all this? Why?
 ```
-**Co-occurrences**: Christ, Tears, Complete, Form, Kingdom, Paul, Maybe, Only, Time, Harpax, Light, Does, Christos, Those, Still, Another, Universe, Will, Would, Page, Kingship, Very, Back, Info, Whether, Evidently, Whereas, Final
+**Co-occurrences**: Time, Christ, Tears, Complete, Form, Kingdom, Paul, Maybe, Only
 
 ---
 ### Line 807-815 (Match: 'Lord')
@@ -70,7 +70,7 @@ Last edit over 5 years ago by Harpax
 52
 Needs Review
 ```
-**Co-occurrences**: Jesus, King, Paul, Empire, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+**Co-occurrences**: Time, Jesus, King, Paul, Empire, Elijah, Like, World, Since, Because, Only
 
 ---
 ### Line 815-823 (Match: 'Lord')
@@ -87,7 +87,7 @@ Elijah, coming immediately before God, played a multiple role: he refined those 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Form, Well, These, Perhaps, Elijah, Father, Like, Since, Prison, Only, Time, Harpax, After, Even, Could, Just, Look, Once, Reality, Being, Although, Everything, Great, House, Without, Those, Their, Wait, More, Most, Before, True, Messenger, Death, Finally, Will, Would, Were, Back, Beyond, Under, Many, Have, Journey, Judgment, Life, Dark, Suddenly, Human, Evidently, Free
+**Co-occurrences**: Time, Form, Well, These, Perhaps, Elijah, Father, Like, Since, Prison, Only
 
 ---
 ### Line 837-845 (Match: 'Lord')
@@ -104,7 +104,7 @@ Let us consider the miracle involved. When God enters time, when he pierces our 
 
 I am a child trying to understand adult concepts.
 ```
-**Co-occurrences**: Christ, Jesus, Paul, Parousia, Perhaps, Maybe, World, Since, Because, John, Time, Good, Light, Does, Just, Once, Again, Both, Kosmos, Being, March, Everything, Divine, Viewed, Still, Living, Such, Love, Consider, True, Death, Will, Other, Were, Very, Back, Have, Judgment, Later, Whether, Cross, Suddenly
+**Co-occurrences**: Time, Christ, Jesus, Paul, Parousia, Perhaps, Maybe, World, Since, Because, John
 
 ---
 ### Line 1098-1106 (Match: 'Lord')
@@ -120,7 +120,7 @@ Last edit over 5 years ago by Harpax
 77
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Parousia, Roman, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Parousia, Roman, Elijah, Father, Like, World, Fall
 
 ---
 ### Line 1270-1278 (Match: 'Lord')
@@ -137,7 +137,7 @@ Now I've really got it, a very great clue. In "Acts," Paul says, that at Penterc
 
 I am lying in bed here and I am musing, "God can simulated the inanimate. Or rather, God can pretend to be anything he wants, any part of His creation. He can replace any part, be it." And then it came to me what you call this; you call it the Miracle of Transubstantiation. This is exactly what is believed to take place in the host, during the Communion. Exactly and precisely. What I saw that day in the alley and everything else I saw, God "immanent," I have for over one full year tried on my own to develop the concept of transsubstantiation. Well, it was not wasted time because what I did was prove the reality of the miracle of the Mass, and finally I pinned this down in terms of nomenclature and description. I just saw it on a wider scale; also, I did see it. I did see it. I saw it; the world as "this is my body and this is my blood. I am here." No wonder my tiny mind has juddered under the weight of trying to understand. This is the holy of holies, the miracle of miracles.
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Dionysos, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+**Co-occurrences**: Time, Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Dionysos, Maybe, Like, World, Because, Prison
 
 ---
 ### Line 1319-1327 (Match: 'Lord')
@@ -154,7 +154,7 @@ Last edit over 5 years ago by Harpax
 93
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Parousia, These, Advent, Elijah, Maybe, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Just, Once, Again, Reality, Being, Himself, Essene, More, Through, Most, Certainly, Death, Macro, Will, Would, Other, Mission, Somehow, Judge, Were, Very, Back, Have, Judgment, Testament, Evil, Pauline, Human, Sons, Dream, Lamb
+**Co-occurrences**: Time, Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Parousia, These, Advent, Elijah, Maybe, Like, World, Only
 
 ---
 ### Line 1437-1445 (Match: 'Lord')
@@ -170,7 +170,7 @@ One question I haven't seen any answer to is, How does the Cosmic Christ after t
 
 Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Perhaps, Plotinus, Like, World, Since, Time, Nixon, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+**Co-occurrences**: Plotinus, Sophia, Time, Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Plato, Well, Parousia, However, Wisdom, Perhaps, Like, World, Since, Nixon
 
 ---
 ### Line 1552-1560 (Match: 'Lord')
@@ -187,7 +187,7 @@ Last edit over 5 years ago by Harpax
 
 111
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, Satan, However, Like, World, Parmenides, Because, Therefore, Nixon, Harpax, After, Faith, Good, Even, Could, Just, Once, Both, Reality, Zagreus, Without, Creator, Another, Most, Living, Real, Certainly, Before, Easter, Friday, Creation, Were, Under, Many, Have, Evil, Knowledge, Magic, Whereas, Right, Grail
+**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, Satan, However, Like, World, Parmenides, Because, Therefore, Nixon
 
 ---
 ### Line 1652-1660 (Match: 'Lord')
@@ -204,7 +204,7 @@ As I previously conjectured, the white haired old King, so wise and stern, on hi
 
 But this year (2 75) -- maybe now I am seeing the Son more, the dythramb dancing, etc. I am evolving forward.
 ```
-**Co-occurrences**: Tears, Christian, Spirit, King, These, Perhaps, Elijah, Maybe, Like, Because, Harpax, Anyhow, Everything, More, Another, Universe, Would, Back, Wise, Testament, Having, Dream, Right, White
+**Co-occurrences**: Tears, Christian, Spirit, King, These, Perhaps, Elijah, Maybe, Like, Because
 
 ---
 ### Line 1686-1694 (Match: 'Lord')
@@ -221,7 +221,7 @@ My work of over one year was worth it. By means of it I can understand my experi
 
 "Saint Sophia will be reborn." This is God's promise to us. His Holy Wisdom will return to govern our world.
 ```
-**Co-occurrences**: Holy, Sophia, Kingdom, Bible, Wisdom, Elijah, World, Holy Wisdom, Good, Could, Being, Those, Most, Death, Will, Have, Wise
+**Co-occurrences**: Sophia, Saint Sophia, Holy, Kingdom, Bible, Wisdom, Elijah, World
 
 ---
 ### Line 1694-1702 (Match: 'Lord')
@@ -238,7 +238,7 @@ Would this be the Parousia? The dream in TEARS suggests it, as did all my dreams
 
 Also, "The Buddha is in the park."
 ```
-**Co-occurrences**: Tears, Holy, Sophia, King, Well, Bible, Parousia, Wisdom, Maybe, Like, World, Buddha, Holy Wisdom, Good, Book, Could, Does, Again, Santa, More, Before, Santa Sophia, Will, Would, Were, Have, Spring, Having, Israel, Dead, Dream, Salvation, Doesn
+**Co-occurrences**: Sophia, Santa Sophia, Saint Sophia, Tears, Holy, King, Well, Bible, Parousia, Wisdom, Maybe, Like, World
 
 ---
 ### Line 1719-1727 (Match: 'Lord')
@@ -254,7 +254,7 @@ I think the "Hamlet's father crying murder most foul" should turn out to be anot
 
 To shore up the plot: Brady inherits (why?) a lot of the Bishop's correspondence...oh sure, in his capacity for the government; he is power over it doing intelligence work (even though the bishop is dead, there may be something useful about the activity of others). Brady has told the widow that he wants the notes "to type them up" or some similar pretext. (This sounds like THE STRANGE CASE OF CHARLES DEXTER WARD, in a way. Anyhow, explanation is more djinn and bottle-like.)
 ```
-**Co-occurrences**: Spirit, Holy, Jesus, Holy Spirit, However, Elijah, Father, Maybe, Like, World, Since, Only, Time, After, Mind, Even, Anyhow, Something, Being, Although, Great, Without, Essene, Brain, Still, Part, More, Another, Most, Secret, Death, Would, Other, Hamlet, Back, Have, Life, Information, Instead, Later, Government, Truth, Dead, Suddenly, Qumran, Final, Right, Someone
+**Co-occurrences**: Time, Information, Spirit, Holy, Jesus, Holy Spirit, However, Elijah, Father, Maybe, Like, World, Since, Only
 
 ---
 ### Line 2024-2032 (Match: 'Lord')
@@ -271,7 +271,7 @@ I just can't get over this that I saw (the TV "Moses" program episode dealing wi
 
 (one) The situation obtaining was one of slavery. (two) Yahweh, from nature-outside the state, pitted himself against the state in their behalf, to free them. (three) The angel of death came as a plague, and I saw on the screen the moment of terrible silence at night, before it arrived, and then the dog howled, and we saw the dog running. (four) I finally understood about the lamb & the blood of the lamb. (five) I finally learned that the Passover Feast celebrates the Exodus; i.e. the Hebrews getting away from Egypt & slavery. (six) This is not to forget that it is a vernal equinox festival as well; thus springtime equals deliverance from slavery, which we get updated in Xtianity as Redemption.
 ```
-**Co-occurrences**: Christianity, Form, Well, Dionysos, Hebrew, Just, Realm, Again, Being, Moses, Covenant, Himself, Jews, Their, Egypt, Most, Love, Before, Yahweh, Death, Finally, Will, Deity, Angel, Were, Back, Justice, Passover, Remember, Blood, Lamb, Free, Right
+**Co-occurrences**: Christianity, Form, Well, Dionysos
 
 ---
 ### Line 2071-2079 (Match: 'Lord')
@@ -288,7 +288,7 @@ Last edit over 5 years ago by Harpax
 153
 Needs Review
 ```
-**Co-occurrences**: Christ, Well, Elijah, Maybe, World, Since, Because, Only, Time, Harpax, Good, Even, Could, Does, Pinky, Anyhow, Hebrew, Again, Suppose, Being, March, Moses, Covenant, Anamnesis, Part, Their, More, Egypt, Most, True, Easter, Death, Will, Deity, Would, Angel, Very, Back, Have, Memory, Passover, Blood, Lamb, Free, Final, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Well, Elijah, Maybe, World, Since, Because, Only
 
 ---
 ### Line 2108-2116 (Match: 'Lord')
@@ -304,7 +304,7 @@ Last edit over 5 years ago by Harpax
 157
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Jesus, Form, Felix, Well, These, Maybe, Only, Harpax, Black, Buckman, Book, Even, Gospel, Could, Taverner, Soviet, Both, Reality, Being, Self, Probably, Kathy, Their, Most, Such, Love, Revelation, Consider, Western, Finally, Other, Somehow, Very, Back, Beyond, Surely, Under, Many, Have, Life, Claudia, Cross, West, Dream, Doesn, Right, Until
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Jesus, Form, Felix, Well, These, Maybe, Only
 
 ---
 ### Line 2144-2152 (Match: 'Lord')
@@ -321,7 +321,7 @@ Plot breakdown:
 
 Ch before taken over (possession). Then take over. Mystery as to who took him over, to solution. (Lots of research.) Social meaning: who else has been taken over? Work in concert. Opposition (who? The establishment?) Ch must decide where he stands: the "hallucinations" or estab. Ch decides for the Messiah, whom he encounters externally: another person taken over. Final section: reprise of ist century AD, Xtians vs Rome, but with different outcome foreordained. End: the pale white light (where no shadows are) comes on; it is the Parousia. Ships huge ones begin to land.
 ```
-**Co-occurrences**: Christian, Rome, Parousia, Like, Because, Time, Earth, Mind, Light, Just, Luke, Being, Himself, Another, Before, Other, Messiah, Except, Truth, Final, Right, White
+**Co-occurrences**: Time, Christian, Rome, Parousia, Like, Because, Earth
 
 ---
 ### Line 2197-2205 (Match: 'Lord')
@@ -338,6 +338,6 @@ magician element is there, a madness-genius blend, as in the cartoon of people w
 
 . . . In glancing over CONFESSIONS again; I am astounded at the similarity between what Claudia Hambro (Connie Wheeler) says and what I would say/have said/intended to say regarding my 3 74 experience. As before I simply cannot account for this, except to note that it tends to indicate that (1) Connie and I are sick in the same way; or (2) this proves she was right after all and what she said was true, as impossible as it sounded to me in 58 or 59; or (3) my 3 74 experience was in some way a surfacing to consciousness in my mind of what Connie has said and what I had written -- and forgotten consciously. To me most interesting of all is Claudia Hambro saying the SEBs (superior evolved beings from outer space) would contact those whom they intended to save directly, but telepathy; which is to say, if there was anything to what Connie said, then some people would eventually get contacted telepathically by SEBs, and perhaps this is precisely what happened to me 16 or so years later (i.e. 3 74). There is even the healing surgery and implanting mentioned. Perhaps Connie, being part of the same culture as me, and having the same metal concepts and I have to interpret her experience, drew the same picture: a fusion of Christian eschatology and saucer people, that being all the concepts available to us.
 ```
-**Co-occurrences**: Christian, Perhaps, Maybe, Like, World, Harpax, After, Garden, Mind, Even, Just, Again, Both, Being, Himself, Probably, Tessa, Creator, Kathy, Those, Part, Another, Most, Real, Before, True, Finally, Would, Judge, Further, Have, Claudia, Later, Having, Except, West, Dream, Right, Someone
+**Co-occurrences**: Christian, Perhaps, Maybe, Like, World
 
 ---

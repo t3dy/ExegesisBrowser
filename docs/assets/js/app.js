@@ -88,12 +88,11 @@ function renderCards(entries) {
     grid.innerHTML = entries.map(entry => {
         const slug = entry.term.toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '');
         return `
-            <div class="card" data-category="${entry.category}">
+            <a href="cards/${slug}.html" class="card" data-title="${entry.term}" data-category="${entry.category}">
                 <span class="category">${entry.category}</span>
                 <h3>${entry.term}</h3>
-                <p>${entry.technical_definition || (entry.definition ? entry.definition.substring(0, 100) + '...' : 'Entry in the PKD Exegesis network.')}</p>
-                <a href="cards/${slug}.html" class="portal-btn">View Portal &rarr;</a>
-            </div>
+                <p>${entry.technical_definition || 'Entry in the PKD Exegesis network.'}</p>
+            </a>
         `;
     }).join('');
 }

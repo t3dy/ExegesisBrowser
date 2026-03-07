@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Book was",
+        "type": "Book",
+        "value": "was",
+        "start_line": 2972,
+        "end_line": 6997,
+        "segment_count": 1
+    },
+    {
+        "name": "Folder 32",
+        "type": "Folder",
+        "value": "32",
+        "start_line": 6998,
+        "end_line": 8395,
+        "segment_count": 12
+    },
+    {
+        "name": "Part 1",
+        "type": "Part",
+        "value": "1",
+        "start_line": 8396,
+        "end_line": 8431,
+        "segment_count": 1
+    },
+    {
+        "name": "Part 2",
+        "type": "Part",
+        "value": "2",
+        "start_line": 8434,
+        "end_line": 13808,
+        "segment_count": 1
+    },
+    {
+        "name": "Folder 02",
+        "type": "Folder",
+        "value": "02",
+        "start_line": 13809,
+        "end_line": 14441,
+        "segment_count": 85
+    },
+    {
+        "name": "Part one",
+        "type": "Part",
+        "value": "one",
+        "start_line": 14127,
+        "end_line": 14132,
+        "segment_count": 1
+    },
+    {
+        "name": "Folder 03",
+        "type": "Folder",
+        "value": "03",
+        "start_line": 14442,
+        "end_line": 15163,
+        "segment_count": 88
+    },
+    {
+        "name": "Folder 22",
+        "type": "Folder",
+        "value": "22",
+        "start_line": 15164,
+        "end_line": 16310,
+        "segment_count": 118
+    },
+    {
+        "name": "Folder 20",
+        "type": "Folder",
+        "value": "20",
+        "start_line": 16311,
+        "end_line": 16793,
+        "segment_count": 55
+    },
+    {
+        "name": "Folder 21",
+        "type": "Folder",
+        "value": "21",
+        "start_line": 16794,
+        "end_line": 19095,
+        "segment_count": 122
+    },
+    {
+        "name": "Folder 06",
+        "type": "Folder",
+        "value": "06",
+        "start_line": 19096,
+        "end_line": 19690,
+        "segment_count": 72
+    },
+    {
+        "name": "Folder 08",
+        "type": "Folder",
+        "value": "08",
+        "start_line": 19691,
+        "end_line": 24413,
+        "segment_count": 26
+    },
+    {
+        "name": "Folder 48",
+        "type": "Folder",
+        "value": "48",
+        "start_line": 24414,
+        "end_line": 27136,
+        "segment_count": 204
+    },
+    {
+        "name": "Part of",
+        "type": "Part",
+        "value": "of",
+        "start_line": 27137,
+        "end_line": 28244,
+        "segment_count": 1
+    },
+    {
+        "name": "Folder 49",
+        "type": "Folder",
+        "value": "49",
+        "start_line": 28245,
+        "end_line": 30248,
+        "segment_count": 164
+    },
+    {
+        "name": "Folder 82",
+        "type": "Folder",
+        "value": "82",
+        "start_line": 30249,
+        "end_line": 32015,
+        "segment_count": 135
+    },
+    {
+        "name": "Part two",
+        "type": "Part",
+        "value": "two",
+        "start_line": 32016,
+        "end_line": 33982,
+        "segment_count": 1
+    },
+    {
+        "name": "Folder 01",
+        "type": "Folder",
+        "value": "01",
+        "start_line": 33983,
+        "end_line": 38642,
+        "segment_count": 33
+    },
+    {
+        "name": "Folder 84",
+        "type": "Folder",
+        "value": "84",
+        "start_line": 38643,
+        "end_line": 38771,
+        "segment_count": 11
+    },
+    {
+        "name": "Folder 90",
+        "type": "Folder",
+        "value": "90",
+        "start_line": 38772,
+        "end_line": 44701,
+        "segment_count": 203
+    },
+    {
+        "name": "Folder 55",
+        "type": "Folder",
+        "value": "55",
+        "start_line": 44702,
+        "end_line": 45991,
+        "segment_count": 198
+    },
+    {
+        "name": "Folder 57",
+        "type": "Folder",
+        "value": "57",
+        "start_line": 45992,
+        "end_line": 47242,
+        "segment_count": 47
+    },
+    {
+        "name": "Folder 53",
+        "type": "Folder",
+        "value": "53",
+        "start_line": 47243,
+        "end_line": 48829,
+        "segment_count": 116
+    }
+]

@@ -19,7 +19,7 @@ If "VALIS" placed material (e.g. from "Acts" in TEARS, plus stuff in UBIK0 in my
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Tears, Acts, Christian, Xerox, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+**Co-occurrences**: Sophia, Anamnesis, Tears, Acts, Christian, Xerox, Christianity, Fish, Golden, Fall, Because, Golden Fish
 
 ---
 ### Line 2832-2840 (Match: 'Valis')
@@ -35,7 +35,7 @@ Last edit almost 5 years ago by svayambhu108
 217
 Needs Review
 ```
-**Co-occurrences**: Tears, Acts, Christian, Xerox, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+**Co-occurrences**: Sophia, Anamnesis, Tears, Acts, Christian, Xerox, Christianity, Fish, Golden, Fall, Because, Golden Fish
 
 ---
 ### Line 3531-3539 (Match: 'Valis')
@@ -52,7 +52,7 @@ Last edit almost 5 years ago by svayambhu108
 284
 Needs Review
 ```
-**Co-occurrences**: Christ, Form, King, Well, However, Wisdom, James, Since, Because, Therefore, Only, Time, Nixon, Good, Anyhow, Reality, Being, March, Although, Self, Great, Those, Still, Part, Living, Such, Fullerton, Universe, Will, Christopher, Would, Other, Were, Back, Have, Wise, Later, Days, Evil, Having, During
+**Co-occurrences**: Time, Christ, Form, King, Well, However, Wisdom, James, Since, Because, Therefore, Only, Nixon
 
 ---
 ### Line 3755-3763 (Match: 'Valis')
@@ -69,7 +69,7 @@ If "VALIS" placed material (e.g. from "Acts" in TEARS, plus stuff in UBIKO in my
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Tears, Acts, Christian, Xerox, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+**Co-occurrences**: Sophia, Anamnesis, Tears, Acts, Christian, Xerox, Christianity, Fish, Golden, Fall, Because, Golden Fish
 
 ---
 ### Line 3757-3765 (Match: 'Valis')
@@ -86,7 +86,7 @@ Last edit almost 5 years ago by svayambhu108
 308
 Needs Review
 ```
-**Co-occurrences**: Tears, Acts, Christian, Xerox, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+**Co-occurrences**: Sophia, Anamnesis, Tears, Acts, Christian, Xerox, Christianity, Fish, Golden, Fall, Because, Golden Fish
 
 ---
 ### Line 5257-5265 (Match: 'Valis')
@@ -103,7 +103,7 @@ Last edit almost 3 years ago by svayambhu108
 70
 Needs Review
 ```
-**Co-occurrences**: Zebra, Jesus, Form, Sophia, Gnostic, Father, James, World, Time, After, Great, Grace, Heaven, Such, Upon, Before, Revelation, Would, Very, Hegelian, Memory, Evil, Dialectic, Dream, Doesn, Track
+**Co-occurrences**: Zebra, Sophia, Gnostic, Time, Hegelian, Dialectic, Jesus, Form, Father, James, World
 
 ---
 ### Line 5478-5486 (Match: 'Valis')
@@ -120,7 +120,7 @@ Key: transfer of information (first geometric/ math graphics, then cosmological 
 
 My knowledge of Greek: transferred information, as from computer to computer, brain to brain. In fact, an entire mind ("Thomas") was transferred, but (1) by whom + (2) from where + (3) who?
 ```
-**Co-occurrences**: Thomas, Greek, Mind, Light, Everything, Brain, Universe, Information, Info, Knowledge
+**Co-occurrences**: Thomas, Information, Greek
 
 ---
 ### Line 5702-5710 (Match: 'Valis')
@@ -137,7 +137,7 @@ Last edit over 5 years ago by Toso
 
 6
 ```
-**Co-occurrences**: Tears, Toso, Indexed, Spirit, Well, Bible, Perhaps, Like, World, Since, Time, Good, Even, Could, Joint, Anyhow, Both, Being, Self, Eldritch, Divine, Himself, Palmer, Corpus, Palmer Eldritch, Part, More, Real, Before, Deity, Would, Very, Have, Memory, Instead, Later, Trinity, Knowledge, Truth, Human, Answer
+**Co-occurrences**: Time, Tears, Toso, Indexed, Spirit, Well, Bible, Perhaps, Like, World, Since
 
 ---
 ### Line 6213-6221 (Match: 'Valis')
@@ -154,7 +154,7 @@ Last edit over 4 years ago by Kfischer
 8
 Needs Review
 ```
-**Co-occurrences**: Christian, Ubik, Kingdom, Empire, Maze, Perhaps, Maybe, World, Iron, Prison, Only, Time, Earth, Black, Faith, Stigmata, Savior, Good, Even, Joint, Just, Kingdom of God, Maya, Reality, Eldritch, Black Iron Prison, Palmer, Frolix, Palmer Eldritch, Dokos, Their, Star, True, Will, Would, Were, Wars, Back, Have, Star Wars, Wise, Evil, Truth, Iron Prison
+**Co-occurrences**: Time, Christian, Ubik, Kingdom, Empire, Maze, Perhaps, Maybe, World, Iron, Prison, Only, Earth
 
 ---
 ### Line 6315-6323 (Match: 'Valis')
@@ -171,7 +171,7 @@ Last edit almost 3 years ago by svayambhu108
 20
 Needs Review
 ```
-**Co-occurrences**: Christ, Ubik, Zebra, Logos, Sophia, Well, Maze, Wisdom, World, Since, Fall, Prison, Only, After, Good, Book, Even, Does, Look, Reality, Everything, Frolix, Still, Part, More, Star, Babylon, Voice, Universe, Wars, Beyond, Have, Things, Star Wars, Info, Right, Track
+**Co-occurrences**: Zebra, Sophia, Christ, Ubik, Logos, Well, Maze, Wisdom, World, Since, Fall, Prison, Only
 
 ---
 ### Line 6362-6370 (Match: 'Valis')
@@ -188,7 +188,7 @@ Last edit almost 3 years ago by svayambhu108
 28
 Needs Review
 ```
-**Co-occurrences**: Christ, Thomas, Zebra, Xerox, Form, Lord, Advent, World, Because, Time, Savior, Could, Again, Being, Anamnesis, Still, Real, Before, Back, Later, During
+**Co-occurrences**: Thomas, Zebra, Time, Anamnesis, Linear, Christ, Xerox, Form, Lord, Advent, World, Because
 
 ---
 ### Line 6368-6376 (Match: 'Valis')
@@ -205,7 +205,7 @@ Last edit almost 3 years ago by svayambhu108
 29
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Zebra, Xerox, Empire, Lord, Like, World, Iron, Prison, Time, Nixon, After, Black, Savior, Good, Book, Could, Just, Luke, Although, Eldritch, Black Iron Prison, Palmer, Anamnesis, Palmer Eldritch, Their, Star, Before, Death, Will, Would, Somehow, Were, Wars, Meanwhile, Have, Memory, Star Wars, Evil, Remember, Iron Prison, Free
+**Co-occurrences**: Zebra, Time, Anamnesis, Linear, Christ, Tears, Christian, Xerox, Empire, Lord, Like, World, Iron, Prison, Nixon
 
 ---
 ### Line 6420-6428 (Match: 'Valis')
@@ -222,7 +222,7 @@ Last edit almost 3 years ago by svayambhu108
 38
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Zebra, Holy Spirit, Form, These, Advent, Like, World, Since, Only, Time, Noos, Savior, Even, Just, Reality, Himself, Their, Through, Real, Secret, Universe, Will, Would, Have, Body, During
+**Co-occurrences**: Zebra, Time, Linear, Christ, Spirit, Holy, Holy Spirit, Form, These, Advent, Like, World, Since, Only
 
 ---
 ### Line 6501-6509 (Match: 'Valis')
@@ -238,7 +238,7 @@ Last edit almost 3 years ago by svayambhu108
 52
 Needs Review
 ```
-**Co-occurrences**: Tears, Zebra, Sophia, Gnostic, Gnosticism, Perhaps, Advent, James, World, Fall, Prison, Only, Time, Good, St Sophia, Does, Philo, Being, Himself, Either, Grace, Creator, Through, Such, Secret, Revelation, True, Deity, Would, Other, Further, Knowledge, During, Dream, Evidently, Right
+**Co-occurrences**: Gnosticism, Zebra, Sophia, Gnostic, Time, St Sophia, Philo, Linear, Tears, Perhaps, Advent, James, World, Fall, Prison, Only
 
 ---
 ### Line 6507-6515 (Match: 'Valis')
@@ -255,7 +255,7 @@ Last edit almost 3 years ago by svayambhu108
 53
 Needs Review
 ```
-**Co-occurrences**: Ubik, Zebra, Sophia, Gnostic, Gnosticism, World, Fall, Prison, Savior, Being, Divine, Fate, Anamnesis, Creator, Part, Through, Certainly, True, Universe, Deity, Other, Knowledge
+**Co-occurrences**: Gnosticism, Zebra, Sophia, Gnostic, Anamnesis, Ubik, World, Fall, Prison
 
 ---
 ### Line 6577-6585 (Match: 'Valis')
@@ -272,7 +272,7 @@ Last edit almost 3 years ago by svayambhu108
 65
 Needs Review
 ```
-**Co-occurrences**: Spirit, Zebra, World, Prison, Time, Nixon, Good, Light, Even, Just, Self, Very, Beyond, Have, Life, Evil, Dead, Final
+**Co-occurrences**: Zebra, Time, Spirit, World, Prison, Nixon
 
 ---
 ### Line 6700-6708 (Match: 'Valis')
@@ -289,7 +289,7 @@ Last edit over 5 years ago by Toso
 2
 Indexed
 ```
-**Co-occurrences**: Christ, Acts, Christian, Toso, Thomas, Indexed, Jesus, Rome, Christianity, Form, Fish, Perhaps, Because, Time, Faith, Does, Just, Something, Both, Jesus Christ, Those, Pike, Pyth, Secret, Zoroastrianism, Revelation, Jim Pike, True, Have, Cross, Dialectic
+**Co-occurrences**: Thomas, Time, Dialectic, Christ, Acts, Christian, Toso, Indexed, Jesus, Rome, Christianity, Form, Fish, Perhaps, Because
 
 ---
 ### Line 6716-6724 (Match: 'Valis')
@@ -306,7 +306,7 @@ To shut off the scramble generator at the omphalos? Maya machine. The Fall: man'
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Christian, Toso, Greek, Maze, Scanner, Fall, Maya, Kosmos, Pyth, Yahweh, Calvin, Illustration, Dialectic, Right
+**Co-occurrences**: Dialectic, Christian, Toso, Greek, Maze, Scanner, Fall
 
 ---
 ### Line 6718-6726 (Match: 'Valis')
@@ -323,7 +323,7 @@ Last edit over 5 years ago by Toso
 3
 Indexed
 ```
-**Co-occurrences**: Christian, Toso, Indexed, Greek, Maze, Scanner, Fall, Maya, Kosmos, Pyth, Yahweh, Calvin, Illustration, Dialectic, Right
+**Co-occurrences**: Dialectic, Christian, Toso, Indexed, Greek, Maze, Scanner, Fall
 
 ---
 ### Line 6726-6734 (Match: 'Valis')
@@ -340,6 +340,6 @@ Indexed
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Christ, Christian, Toso, Indexed, Rome, Form, Scanner, World, Something, Both, Maya, Kosmos, Being, Buddhism, Nothing, Death, Macro, Calvin, Illustration, Life, Neither, Knowledge, Dialectic
+**Co-occurrences**: Dialectic, Christ, Christian, Toso, Indexed, Rome, Form, Scanner, World
 
 ---

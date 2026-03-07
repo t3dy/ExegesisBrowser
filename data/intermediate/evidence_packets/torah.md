@@ -20,7 +20,7 @@ Last edit almost 3 years ago by svayambhu108
 74
 Needs Review
 ```
-**Co-occurrences**: Christ, Acts, Ubik, Logos, Form, Sophia, King, Felix, Bible, Perhaps, Like, Joint, King Felix, Philo, Just, Reality, Being, Self, Girl, Divine, Great, Probably, Through, Soul, Shekhina, Most, Living, Would, Other, Journey, Life, Body, Dark, Information, Right
+**Co-occurrences**: Sophia, Philo, Information, Christ, Acts, Ubik, Logos, Form, King, Felix, Bible, Perhaps, Like
 
 ---
 ### Line 21106-21114 (Match: 'Torah')
@@ -36,7 +36,7 @@ Last edit almost 3 years ago by svayambhu108
 77
 Needs Review
 ```
-**Co-occurrences**: Tears, Thomas, Spirit, Xerox, Form, Like, World, Time, Nixon, Mind, Look, Being, Girl, Jewish, Without, Part, Another, Soul, Living, Real, Holt, Voice, Actually, Secret, Before, True, Olive, Olive Holt, Would, Were, Wars, Life, Dark, Info, Knowledge, Human
+**Co-occurrences**: Thomas, Time, Tears, Spirit, Xerox, Form, Like, World, Nixon
 
 ---
 ### Line 21147-21155 (Match: 'Torah')
@@ -53,7 +53,7 @@ Last edit almost 3 years ago by svayambhu108
 84
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Acts, Holy, Form, King, Bible, Dionysos, Advent, Like, Prison, Savior, Book, Could, Zagreus, Bacchae, Nothing, Living, Real, True, Will, Other, Caesar, Pentheus, Dream, Whereas
+**Co-occurrences**: Christ, Tears, Acts, Holy, Form, King, Bible, Dionysos, Advent, Like, Prison
 
 ---
 ### Line 23248-23256 (Match: 'Torah')
@@ -69,7 +69,7 @@ Last edit almost 3 years ago by svayambhu108
 12
 Needs Review
 ```
-**Co-occurrences**: Tears, Like, World, Only, Time, Soviet, Something, Again, Being, Probably, Palm, Brain, More, Would, Were, Memory, Information, Info, Electric, Knowledge, Cross, Impostor, Electric Ant, Dream, Free, Until
+**Co-occurrences**: Time, Information, Tears, Like, World, Only
 
 ---
 ### Line 23277-23285 (Match: 'Torah')
@@ -85,7 +85,7 @@ Last edit almost 3 years ago by svayambhu108
 17
 Needs Review
 ```
-**Co-occurrences**: Tears, Acts, Christian, Xerox, Form, Well, World, Because, Prison, Time, Pigspurt, Could, Just, Suppose, Missive, Xerox Missive, House, Still, Their, Wait, Real, Holt, Secret, True, Very, Have
+**Co-occurrences**: Time, Tears, Acts, Christian, Xerox, Form, Well, World, Because, Prison
 
 ---
 ### Line 25545-25553 (Match: 'Torah')
@@ -102,8 +102,7 @@ Two points: 1) My seeing Hebrew letters permutate until "Olive Holt" (presumably
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Valis, Tears, Toso, Indexed, King, Felix, Like, Folder, Could, King Felix, Hebrew, Both, Reality, Everything, Indexed
-Folder, More, Living, Real, Holt, Before, Olive, Olive Holt, Universe, Will, Other, Creation, Illustration, Have, Information, Info, Answer, Until
+**Co-occurrences**: Valis, Information, Tears, Toso, Indexed, King, Felix, Like
 
 ---
 ### Line 25547-25555 (Match: 'Torah')
@@ -120,8 +119,7 @@ Last edit over 5 years ago by Toso
 folder 48 - 133
 Complete
 ```
-**Co-occurrences**: Valis, Tears, Toso, Complete, King, Felix, Like, Folder, Could, King Felix, Hebrew, Both, Reality, Everything, Toso
-Folder, More, Living, Real, Holt, Before, Olive, Olive Holt, Universe, Will, Other, Creation, Illustration, Have, Information, Info, Answer, Until
+**Co-occurrences**: Valis, Information, Tears, Toso, Complete, King, Felix, Like
 
 ---
 ### Line 25555-25563 (Match: 'Torah')
@@ -138,7 +136,7 @@ Torah would remain -does remain- info until it enters the system (Valis). Torah 
 
 YHWH turns info (Torah) into reality. Thus YHWH creates reality out of Torah (info). Without YHWH it (Torah) would remain info. So ultimate revelation about reality would be to render it back into Torah: to see the Torah in it. (The info basis of reality.) Then Valis was feeding Torah into reality (in 3-74), which defined reality ("modulated" it). "Torah served as YHWH's blueprint for creation + contained the eternal divine formula for the world's future workings + thus the answers to all problems for all times + all people. God himself is depicted as studying the Torah, for even he cannot make decisions concerning the world that contradict it." 1) The huge books with their pages of info - answers (e.g. "the bichlorides") 2) Oral: the AI voice giving corrective answers 3) Answering -i.e. solving- the Xerox missive puzzle-trap-problem. What we have here is a problem-solving macro-entity. The key: "answers to all problems."
 ```
-**Co-occurrences**: Valis, Complete, Xerox, Like, World, Folder, Book, Even, Does, Reality, Missive, Self, Divine, Xerox Missive, Himself, Without, Their, Voice, Revelation, Macro, Would, Creation, Illustration, Back, Have, Info, God Himself, Right, Until
+**Co-occurrences**: Valis, Complete, Xerox, Like, World
 
 ---
 ### Line 25557-25565 (Match: 'Torah')
@@ -155,7 +153,7 @@ YHWH turns info (Torah) into reality. Thus YHWH creates reality out of Torah (in
 
 Last edit almost 7 years ago by Toso
 ```
-**Co-occurrences**: Valis, Toso, Xerox, Like, World, Book, Even, Does, Reality, Missive, Self, Divine, Xerox Missive, Himself, Without, Their, Voice, Revelation, Macro, Would, Creation, Illustration, Back, Have, Info, God Himself, Right, Until
+**Co-occurrences**: Valis, Toso, Xerox, Like, World
 
 ---
 ### Line 25559-25567 (Match: 'Torah')
@@ -172,8 +170,7 @@ Last edit almost 7 years ago by Toso
 folder 48 - 134
 Complete
 ```
-**Co-occurrences**: Valis, Toso, Complete, Xerox, Like, World, Folder, Book, Even, Does, Reality, Missive, Self, Divine, Xerox Missive, Toso
-Folder, Himself, Without, Their, Voice, Revelation, Macro, Would, Creation, Illustration, Back, Have, Info, God Himself, Right, Until
+**Co-occurrences**: Valis, Toso, Complete, Xerox, Like, World
 
 ---
 ### Line 25567-25575 (Match: 'Torah')
@@ -190,7 +187,7 @@ If I were to guess, I'd guess that reality is a storage mode for the information
 
 Last edit almost 7 years ago by Toso
 ```
-**Co-occurrences**: Toso, Complete, Xerox, Well, World, Folder, Light, Does, Just, Again, Reality, Missive, Xerox Missive, Real, Certainly, Were, Illustration, Back, Memory, Information, Info, Doesn, Chip, Answer
+**Co-occurrences**: Information, Toso, Complete, Xerox, Well, World
 
 ---
 ### Line 25569-25577 (Match: 'Torah')
@@ -207,8 +204,7 @@ Last edit almost 7 years ago by Toso
 folder 48 - 135
 Complete
 ```
-**Co-occurrences**: Toso, Complete, Xerox, Well, World, Folder, Light, Does, Just, Again, Reality, Missive, Xerox Missive, Toso
-Folder, Real, Certainly, Were, Illustration, Back, Memory, Information, Info, Doesn, Chip, Answer
+**Co-occurrences**: Information, Toso, Complete, Xerox, Well, World
 
 ---
 ### Line 25577-25585 (Match: 'Torah')
@@ -225,7 +221,7 @@ Last edit almost 7 years ago by Toso
 
 folder 48 - 136
 ```
-**Co-occurrences**: Toso, Complete, Perhaps, World, Folder, Mind, Just, Reality, Being, Anamnesis, Part, Through, Real, Would, Were, Under, Have, Absolute, Info, Whether, Having, Dead
+**Co-occurrences**: Anamnesis, Toso, Complete, Perhaps, World
 
 ---
 ### Line 25596-25604 (Match: 'Torah')
@@ -242,8 +238,7 @@ YHWH uses it. Doesn't this info processing fit in with the voice I hear being li
 
 5) The freighting of our communications media. 6) 2-part linking to form messages. Who is this info from? Whom to? It is processed here in our world. 7) The huge pages of books. The cereal package. 8) Cosmological knowledge inc. the dialectic
 ```
-**Co-occurrences**: Valis, Indexed, Xerox, Form, Like, World, Folder, Book, Hebrew, Being, Missive, Xerox Missive, Chrissy, Indexed
-Folder, Part, Living, Voice, Would, Information, Info, Knowledge, Dialectic, Doesn
+**Co-occurrences**: Valis, Information, Dialectic, Indexed, Xerox, Form, Like, World
 
 ---
 ### Line 25616-25624 (Match: 'Torah')
@@ -260,9 +255,7 @@ Last edit almost 7 years ago by Toso
 folder 48 - 139
 Indexed
 ```
-**Co-occurrences**: Christian, Toso, Indexed, Christianity, Form, King, Paul, Felix, Well, Bible, Roman, Wisdom, Maybe, World, Fall, Because, Folder, Judaism, Could, Does, Just, Self, Toso
-Folder, Either, Viewed, Indexed
-Folder, Those, Through, Voice, Certainly, Death, Many, Have, Information, Except, Knowledge, Dead, Human, Doesn
+**Co-occurrences**: Information, Christian, Toso, Indexed, Christianity, Form, King, Paul, Felix, Well, Bible, Roman, Wisdom, Maybe, World, Fall, Because
 
 ---
 ### Line 25632-25640 (Match: 'Torah')
@@ -279,8 +272,7 @@ I must assume that if I am an authentic early Xtian, I part company before Paul 
 
 Last edit almost 7 years ago by Toso
 ```
-**Co-occurrences**: Christ, Christian, Toso, Indexed, Holy, Jesus, Paul, Fish, Wisdom, Maybe, Time, Folder, Holy Wisdom, Something, Again, Without, Indexed
-Folder, Nothing, Part, Through, Before, Would, Other, Belial, Cross, Human, Free
+**Co-occurrences**: Time, Christ, Christian, Toso, Indexed, Holy, Jesus, Paul, Fish, Wisdom, Maybe
 
 ---
 ### Line 25665-25673 (Match: 'Torah')
@@ -297,9 +289,7 @@ Last edit almost 7 years ago by Toso
 folder 48 - 145
 Complete
 ```
-**Co-occurrences**: Valis, Toso, Indexed, Complete, Xerox, Well, Wisdom, Because, Only, Folder, Mind, Joint, Reality, Missive, Self, Xerox Missive, Toso
-Folder, Indexed
-Folder, Part, Living, Before, Somehow, Many, Unless, Answer
+**Co-occurrences**: Valis, Toso, Indexed, Complete, Xerox, Well, Wisdom, Because, Only
 
 ---
 ### Line 25680-25688 (Match: 'Torah')
@@ -315,8 +305,7 @@ Last edit almost 7 years ago by Toso
 folder 48 - 147
 Indexed
 ```
-**Co-occurrences**: Valis, Toso, Thomas, Indexed, Xerox, Fish, Since, Folder, Could, Reality, Missive, Xerox Missive, Toso
-Folder, Part, Wait, More, Another, Real, Voice, Somehow, Whatever
+**Co-occurrences**: Valis, Thomas, Toso, Indexed, Xerox, Fish, Since
 
 ---
 ### Line 25688-25696 (Match: 'Torah')
@@ -333,8 +322,7 @@ The book is a script that this world must follow (otherwise the answers would so
 
 Now I'm beginning to understand. This explains the "2 tape" determination, + also it would explain the several modes of occlusion; it is to keep us + the world on course.
 ```
-**Co-occurrences**: Indexed, Xerox, Fish, World, Time, Folder, Book, Even, Reality, Missive, Girl, Divine, Xerox Missive, Himself, Indexed
-Folder, Voice, Before, Would, Creation, Have, Likewise, Unless, God Himself, Otherwise
+**Co-occurrences**: Time, Indexed, Xerox, Fish, World
 
 ---
 ### Line 25700-25708 (Match: 'Torah')
@@ -351,8 +339,6 @@ Last edit almost 7 years ago by Toso
 folder 48 - 149
 Indexed
 ```
-**Co-occurrences**: Christ, Valis, Toso, Indexed, Christianity, Paul, Roman, Spinoza, World, Folder, Book, Judaism, Could, Joint, Reality, Toso
-Folder, Aristotle, Probably, Indexed
-Folder, Nothing, Greco, Still, More, Actually, Before, Will, Would, Back, Have, Absolute, Information, Right, Ananke
+**Co-occurrences**: Valis, Information, Christ, Toso, Indexed, Christianity, Paul, Roman, Spinoza, World
 
 ---

@@ -20,7 +20,7 @@ Last edit almost 5 years ago by svayambhu108
 213
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Maze, Perhaps, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Clearly, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Genesis, Final, White
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Maze, Perhaps, World, Because, Golden Fish, Only, Earth
 
 ---
 ### Line 3400-3408 (Match: 'Scanner')
@@ -37,7 +37,7 @@ Last edit almost 5 years ago by svayambhu108
 269
 Needs Review
 ```
-**Co-occurrences**: Tears, Spirit, Xerox, Perhaps, Like, World, Since, Because, Prison, Only, After, Book, Karma, Could, Just, Something, Once, Both, Everything, Probably, Deus, Without, Grace, Nothing, Part, More, Heaven, Such, Certainly, Irae, Will, Would, Other, Very, Have, Clearly, Things, Spring, Neither, Having, Except, Deus Irae, Dream, Whereas, Free
+**Co-occurrences**: Tears, Spirit, Xerox, Perhaps, Like, World, Since, Because, Prison, Only
 
 ---
 ### Line 3669-3677 (Match: 'Scanner')
@@ -53,7 +53,7 @@ Last edit almost 5 years ago by svayambhu108
 297
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Like, Only, Time, Mind, Even, Does, Anyhow, Soviet, Something, Both, Teilhard, Being, Although, Divine, Probably, Brain, Those, Their, Through, Real, Fullerton, Will, Would, Other, Somehow, Were, Under, Further, Have, Life, Information, Later, Government, Otherwise, Human, Dream, Chardin, Answer
+**Co-occurrences**: Time, Information, Spirit, Holy, Holy Spirit, Like, Only
 
 ---
 ### Line 3787-3795 (Match: 'Scanner')
@@ -70,7 +70,7 @@ Last edit almost 5 years ago by svayambhu108
 
 311
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Maze, Perhaps, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Clearly, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Genesis, Final, White
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Maze, Perhaps, World, Because, Golden Fish, Only, Earth
 
 ---
 ### Line 5909-5917 (Match: 'Scanner')
@@ -87,7 +87,7 @@ This whole realization about Pinky's sacrificial death, in my place - it gives m
 
 The power of evil is not yet destroyed; if it were, his sacrifice in my place would not have been necessary. Who, then, demanded the sacrifice, or rather a death, me or him-in-myplace? Not himself as God. God could not impose pain on himself - sacrifice himself to himself. The loving God must be embodied in the deity which sacrifices himself for us. But the inexorable, deterministic, blind, "astral" force, the mekkis or machinery. This is what Christ frees; saves us from. But such reasoning is Gnostic. & yet it was revealed to
 ```
-**Co-occurrences**: Christ, Zebra, Complete, Gnostic, Bible, Time, Light, Even, Could, Pinky, Just, Look, Himself, Fate, Grace, Part, Most, Such, Upon, Certainly, Love, Death, Calvin, Deity, Would, Were, Back, Have, Judgment, Freedom, Luther, Evil, Cross, Free, Final, White
+**Co-occurrences**: Zebra, Gnostic, Time, Christ, Complete, Bible
 
 ---
 ### Line 6303-6311 (Match: 'Scanner')
@@ -104,7 +104,7 @@ Last edit almost 3 years ago by svayambhu108
 18
 Needs Review
 ```
-**Co-occurrences**: Tears, Ubik, Rome, Maze, World, Iron, Prison, Only, Time, Black, Stigmata, Garden, Book, Light, Even, Could, Joint, Just, Reality, Self, Black Iron Prison, Deus, Another, Through, Real, Love, True, Irae, Finally, Further, Fake, Info, Having, Remember, Deus Irae, Truth, Impostor, Iron Prison
+**Co-occurrences**: Time, Tears, Ubik, Rome, Maze, World, Iron, Prison, Only
 
 ---
 ### Line 6455-6463 (Match: 'Scanner')
@@ -121,7 +121,7 @@ Last edit almost 3 years ago by svayambhu108
 44
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Zebra, Logos, Form, Sophia, Paul, Maze, Wisdom, These, Maybe, World, Time, Book, Even, St Sophia, Could, Something, Look, Deus, Still, Their, More, Another, Through, Heaven, Gold, Such, Universe, Other, Were, Very, Have, Things, Absolute, Freedom, Aphrodite, Human, Dream
+**Co-occurrences**: Zebra, Sophia, Time, St Sophia, Christ, Tears, Ubik, Logos, Form, Paul, Maze, Wisdom, These, Maybe, World
 
 ---
 ### Line 6637-6645 (Match: 'Scanner')
@@ -138,7 +138,7 @@ Last edit almost 3 years ago by svayambhu108
 75
 Needs Review
 ```
-**Co-occurrences**: Acts, Well, Like, Reality, Kosmos, Being, Although, Viewed, Deus, Anamnesis, Revelation, True, Universe, Finally, Would, Beyond, Artifact, Life, Information, Government, Otherwise, Evidently
+**Co-occurrences**: Anamnesis, Information, Acts, Well, Like
 
 ---
 ### Line 6654-6662 (Match: 'Scanner')
@@ -155,7 +155,7 @@ Last edit almost 3 years ago by svayambhu108
 78
 Needs Review
 ```
-**Co-occurrences**: Tears, Ubik, Perhaps, World, Therefore, Iron, Prison, Only, Time, Black, Mind, Book, Even, Reality, Being, Black Iron Prison, Part, Another, Through, Soul, Real, Upon, Before, True, Other, Very, Life, Information, Freedom, Info, Whether, Government, Iron Prison
+**Co-occurrences**: Time, Information, Tears, Ubik, Perhaps, World, Therefore, Iron, Prison, Only
 
 ---
 ### Line 6660-6668 (Match: 'Scanner')
@@ -172,7 +172,7 @@ Last edit almost 3 years ago by svayambhu108
 79
 Needs Review
 ```
-**Co-occurrences**: Tears, Perhaps, Father, Like, Faith, Gestalt, Something, Look, Again, Being, Himself, Frolix, Actually, Have, Things, Government, Evidently
+**Co-occurrences**: Tears, Perhaps, Father, Like
 
 ---
 ### Line 6666-6674 (Match: 'Scanner')
@@ -189,7 +189,7 @@ Last edit almost 3 years ago by svayambhu108
 80
 Needs Review
 ```
-**Co-occurrences**: Tears, Because, Only, Good, Book, Even, Something, Both, Being, More, Pyth, Actually, Were, Further, Have, Clearly, Things, Instead, Government
+**Co-occurrences**: Tears, Because, Only
 
 ---
 ### Line 6714-6722 (Match: 'Scanner')
@@ -206,7 +206,7 @@ To shut off the scramble generator at the omphalos? Maya machine. The Fall: man'
 
 {illustration: Square} BIP {with a seed at its centre, pointed to by arrow} Xtians / Pyth / OCCP penetrate barrier + deposit explosive seed which when it detonates grows into "fitting together" transubstantiation of irrational irreal scramble atelos. Devours it, from center outward. Grain of wheat planted. Of course: Generator of acosmic scramble is protected by a barrier. Scramble generator wasn't always here (hence the legend of the Fall). Yahweh: Scramble Generator. "Valis" is right: irrational but deliberately so (symbolized by "bichlorides of mercury - aspirin of mercury" : it deranges us. It must be shut off - this is done by planting seed (telos or limiting factor which grows into structuring. Ach! Dialectic is insane (atelos): leads to endless procession of impaired "truths" as in Greek philosophy which winds up saying,
 ```
-**Co-occurrences**: Valis, Christian, Greek, Maze, Fall, Maya, Kosmos, Pyth, Yahweh, Calvin, Illustration, Dialectic, Right
+**Co-occurrences**: Valis, Dialectic, Christian, Greek, Maze, Fall
 
 ---
 ### Line 6726-6734 (Match: 'Scanner')
@@ -223,7 +223,7 @@ Indexed
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Christ, Valis, Christian, Toso, Indexed, Rome, Form, World, Something, Both, Maya, Kosmos, Being, Buddhism, Nothing, Death, Macro, Calvin, Illustration, Life, Neither, Knowledge, Dialectic
+**Co-occurrences**: Valis, Dialectic, Christ, Christian, Toso, Indexed, Rome, Form, World
 
 ---
 ### Line 6927-6935 (Match: 'Scanner')
@@ -239,7 +239,7 @@ Last edit over 5 years ago by Toso
 27
 Complete
 ```
-**Co-occurrences**: Christ, Acts, Christian, Toso, Complete, Parousia, Like, World, Time, Does, Just, Anamnesis, Part, Living, Other, Were, Whatever, Many, Have, Fake, Remember, Suddenly
+**Co-occurrences**: Time, Anamnesis, Christ, Acts, Christian, Toso, Complete, Parousia, Like, World
 
 ---
 ### Line 7080-7088 (Match: 'Scanner')
@@ -256,8 +256,7 @@ Last edit over 5 years ago by Toso
 folder 32 - 010
 Indexed
 ```
-**Co-occurrences**: Acts, Ubik, Toso, Indexed, Gnostic, Well, Gnosticism, Maze, Wisdom, World, Folder, Stigmata, Suppose, Reality, Everything, Toso
-Folder, Frolix, Daniel, Anamnesis, Another, Through, Living, Such, Love, Deity, Other, Life, Fake, Information, Truth
+**Co-occurrences**: Gnosticism, Gnostic, Anamnesis, Information, Acts, Ubik, Toso, Indexed, Well, Maze, Wisdom, World
 
 ---
 ### Line 7333-7341 (Match: 'Scanner')
@@ -274,7 +273,7 @@ Last edit almost 3 years ago by svayambhu108
 20
 Needs Review
 ```
-**Co-occurrences**: Christ, Valis, Tears, Acts, Christian, Zebra, Logos, Rome, Christianity, Felix, Perhaps, World, Iron, Only, Nixon, Black, Buckman, Even, Himself, Deus, Another, Real, Secret, Love, Irae, Death, Universe, Would, Were, Freedom, Evil, God Himself, Deus Irae, Dream, Final, Until
+**Co-occurrences**: Valis, Zebra, Christ, Tears, Acts, Christian, Logos, Rome, Christianity, Felix, Perhaps, World, Iron, Only, Nixon
 
 ---
 ### Line 7404-7412 (Match: 'Scanner')
@@ -291,7 +290,7 @@ Last edit almost 3 years ago by svayambhu108
 5
 Needs Review
 ```
-**Co-occurrences**: Christ, Ubik, Gnostic, World, Since, Gnosis, Fall, Iron, Prison, Black, Book, Philo, Runciter, Although, Black Iron Prison, Those, Through, Real, Revelation, Judge, Were, Beyond, Things, Judgment, Information, Info, Days, Government, Knowledge, Iron Prison, Final, Sacred
+**Co-occurrences**: Gnostic, Philo, Information, Christ, Ubik, World, Since, Gnosis, Fall, Iron, Prison
 
 ---
 ### Line 7412-7420 (Match: 'Scanner')
@@ -308,7 +307,7 @@ Last edit almost 3 years ago by svayambhu108
 
 6
 ```
-**Co-occurrences**: Christ, Tears, Zebra, World, Gestalt, Just, Look, Obviously, Brain, Those, Part, Revelation, Very, Have, Judgment
+**Co-occurrences**: Zebra, Christ, Tears, World
 
 ---
 ### Line 7417-7425 (Match: 'Scanner')
@@ -324,7 +323,7 @@ Last edit almost 3 years ago by svayambhu108
 7
 Needs Review
 ```
-**Co-occurrences**: Thomas, Xerox, Rome, Like, Iron, Prison, Time, Black, Okay, Just, Once, Both, Missive, Self, Black Iron Prison, Xerox Missive, Anamnesis, Nothing, Would, Other, Were, Back, Have, Life, Info, Later, Remember, Suddenly, Iron Prison, Answer
+**Co-occurrences**: Thomas, Time, Anamnesis, Xerox, Rome, Like, Iron, Prison
 
 ---
 ### Line 7462-7470 (Match: 'Scanner')
@@ -341,6 +340,6 @@ What I notice is how many people wish me well. Look at what John Ross, a strange
 
 I am really very happy. Snuff, music and cats, friends and my exegesis, my studying and gradually more and more understanding my Gnosis, when in 3-74 the savior woke me to full consciousness, for the first time in my life and refound myself, knew who and what I was, remembered my celestial origin, was restored to what I had been before the fall. And saw the prison we are in, and knew I had done right
 ```
-**Co-occurrences**: Jesus, Xerox, Well, Gnosticism, Godhead, World, Gnosis, Fall, Prison, Only, John, Time, After, Savior, Good, Even, Does, Something, Look, Adam, Missive, Xerox Missive, Viewed, Those, Still, Part, More, Through, Before, Universe, Very, Back, Many, Have, Artifact, Life, Later, Days, Evil, Having, Right
+**Co-occurrences**: Gnosticism, Time, Jesus, Xerox, Well, Godhead, World, Gnosis, Fall, Prison, Only, John
 
 ---

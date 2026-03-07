@@ -20,7 +20,7 @@ Complete
 7
 You know, if they do discover the orthogonal time axis (along which the Forms move) they will find that it leads to the Parousia.
 ```
-**Co-occurrences**: Complete, Form, Bible, Parousia, Like, Time, Good, Anyhow, Just, Something, Look, Tessa, Wait, Universe, Will, Other, Page, Erasmus, Have
+**Co-occurrences**: Time, Complete, Form, Bible, Parousia, Like
 
 ---
 ### Line 125-133 (Match: 'Zebrapedia')
@@ -37,7 +37,7 @@ Complete
 8
 THE RED FEATHER by Dorothy Canfield Fisher (I had my copy until 1972 when I was in Canada and they robbed me a final time), that was what they call my Script.
 ```
-**Co-occurrences**: Complete, King, Well, Only, Time, Mind, Great, Tessa, Through, Will, Christopher, Other, Have, Things, Wise, During, Final, Until
+**Co-occurrences**: Time, Complete, King, Well, Only
 
 ---
 ### Line 139-147 (Match: 'Zebrapedia')
@@ -54,7 +54,7 @@ Indexed
 9
 It’s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the vestment of my saint statue – that was like it: the bursting forth into life of Spring, in the midst of stark winter. Now, this is obviously a mescaline type of experience. We know that. And I was loaded. And yet, perhaps Ms. Fisher who wrote THE RED FEATHER based that episode on something she experienced once, and in those days no one in the U.S. took mescaline; no one got loaded. The reproach, “Phil, you experienced that because you wanted to; i.e. the swirling vines of new life” is no better an argument than, “You experienced selling UBIK to Doubleday because you wanted to.” Also, “You experienced it because you read about something like that years ago in a child’s book” – of what real meaning is this argument, since we don’t know how the passage got into Ms. Fisher’s novel in the first place? It doesn’t explain why I recall that section, which was minor, which in the novel just showed the child that her difference from the other children included having strange powers; it was exciting, but not good. She didn’t want to be different. (We knew, because of the scene of the baby exchanging.) Obviously, in that scene, Ms. Fisher intentionally or otherwise incorporated something of the Fruhlingszauber: the magic of springtime, as it really would be: those poppies would have sizzled in the snow, being hot. They were hot with life; the fact that Ms. Fisher saw the equation death/winter/cold versus life/Spring/heat isn’t an invention of her head; it is an actual truth. She did, however, equate magic with springtime; fairy power used to turn the winter to spring, to bring life, and therein she touched on something very deep, at the heart of her small readers, like me, who were astonished and touched, but didn’t know why (we knew nothing of the mystery or fertility religions of Greece et al, did we?).
 ```
-**Co-occurrences**: Ubik, Indexed, However, Perhaps, Like, Since, Because, Good, Book, Just, Something, Once, Being, Obviously, Nothing, Those, Phil, Living, Real, Fullerton, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Truth, Magic, Otherwise, Doesn, Mary
+**Co-occurrences**: Phil, Ubik, Indexed, However, Perhaps, Like, Since, Because
 
 ---
 ### Line 153-161 (Match: 'Zebrapedia')
@@ -71,7 +71,7 @@ Indexed
 10
 They are going to find that orthogonal axis, Claudia, and when they do, they will find it retrograde and exactly what Joe Chip saw, and it is the time-stream I entered. And the effect of that – it looks like our past. But it is not; it is related to our past, since it moves in that direction. The Bible is a book of the future. The New Testament and the oracles of the Old Testament: they are about tomorrow. The setting, the backdrop, will be familiar to us; the events will be played out against that setting… but the events are new. We must separate set and ground, here. The ground is old; set is new. We are participants in the set.
 ```
-**Co-occurrences**: Thomas, Indexed, Bible, These, Like, Since, Time, Book, Anyhow, Something, Great, Ground, Will, Deity, Would, Were, Have, Life, Claudia, Spring, Testament, Otherwise, Chip
+**Co-occurrences**: Thomas, Time, Indexed, Bible, These, Like, Since
 
 ---
 ### Line 163-171 (Match: 'Zebrapedia')
@@ -87,7 +87,7 @@ Last edit over 5 years ago by Zebrapedia
 11
 Life- Spring - Zagreus March-June
 ```
-**Co-occurrences**: Time, After, Okay, Zagreus, March, Ground, Life, Spring, Final
+**Co-occurrences**: Time
 
 ---
 ### Line 210-218 (Match: 'Zebrapedia')
@@ -104,7 +104,7 @@ Indexed
 13
 Dear Tony,
 ```
-**Co-occurrences**: Indexed, Tony, Philip, Dick, Fullerton, Calif
+**Co-occurrences**: Philip, Indexed
 
 ---
 ### Line 252-260 (Match: 'Zebrapedia')
@@ -121,7 +121,7 @@ Indexed
 15
 food just when it’s ripe and perfect. The dog tries to warn the family, but it’s always early in the morning and his barking just annoys them. The story ends when the family decides they have to get rid of the dog, due to his barking, at which point one of the Roogs or garbagemen says to the dog, “We’ll be back to get the people pretty soon.” I never could understand why no one but Tony Boucher could understand the story (I sent it to him in 1951). I guess in those days my view of garbagemen was not shared universally, and now in 1971 when the high school class discussed it with me, I guess it is. “But garbagemen don’t eat people,” a lady editor pointed out to me in 1952. I had trouble answering that. Something comes and eats up people who are sleeping in tranquility. Like Tony. Something got him. I think the dog, who cried “Roog. Roog,” was trying to warn me and Tony. I got the warning and escaped – for a while, anyhow – but Tony stayed at his post. You see, when you’re so scared of the universe (or Roogs, if you will) to stay at your post takes courage the kind they can’t write about because (one) they don’t know how and (two) they didn’t notice in the first place, except maybe Ted Sturgeon, with all his own love, and his total lack of fear. He must have known how scared Tony was, and to be that scared and for the Roogs to get you – it’s so symmetric, isn’t it.
 ```
-**Co-occurrences**: Indexed, Roman, These, Maybe, Like, Fall, Because, Only, Time, After, Good, Even, Could, Anyhow, Just, Something, Catholic, Tony, Those, Still, Through, Love, Before, Universe, Will, Back, Have, Days, Remember, Except, Sturgeon, Dead, Until
+**Co-occurrences**: Time, Indexed, Roman, These, Maybe, Like, Fall, Because, Only
 
 ---
 ### Line 272-280 (Match: 'Zebrapedia')
@@ -138,7 +138,7 @@ Complete
 17
 (A)
 ```
-**Co-occurrences**: Complete, Because, Pinky, Just, Tony, Tessa, Part, Would, Back, Have, Body, Until
+**Co-occurrences**: Complete, Because
 
 ---
 ### Line 288-296 (Match: 'Zebrapedia')
@@ -155,7 +155,7 @@ Complete
 18
 Tuffy ooo Oy Zsssay yyhh Yi I love ye8 you NOTE:::::: YE::: Tuffy, you are the sweetest person north of here. I hope you are okay. Are you okay? I love you. Signed,
 ```
-**Co-occurrences**: Complete, Well, World, Light, Okay, Pinky, Anyhow, Just, Once, Being, Himself, Without, Those, Love, Death, Finally, Will, Were, Whatever, Later, Remember, Electric, Dream
+**Co-occurrences**: Complete, Well, World
 
 ---
 ### Line 296-304 (Match: 'Zebrapedia')
@@ -172,7 +172,7 @@ Complete
 19
 Dear Claudia,
 ```
-**Co-occurrences**: Complete, These, Time, Okay, Those, Love, Very, Claudia, Right
+**Co-occurrences**: Time, Linear, Complete, These
 
 ---
 ### Line 3198-3206 (Match: 'Zebrapedia')
@@ -189,7 +189,7 @@ Needs Review
 248
 -7-
 ```
-**Co-occurrences**: Spirit, King, Well, Wisdom, World, Since, Because, Time, Book, Light, Even, Could, Anyhow, Just, Everything, Great, Zoroastrian, Probably, Deus, Darkness, Zoroaster, Part, Their, More, Soul, Most, Such, Mother, Irae, Will, Would, Mission, Were, Whatever, Have, Life, Spring, Having, Deus Irae, Suddenly, Otherwise, Sons, Salvation, Doesn, Final, Until, White
+**Co-occurrences**: Time, Spirit, King, Well, Wisdom, World, Since, Because
 
 ---
 ### Line 4015-4023 (Match: 'Zebrapedia')
@@ -206,7 +206,7 @@ Indexed
 34
 34 much of my writing contains themes from the Gnostic vision, which i hadn't realized. Thus i now say that, without knowing it, I have been unfolding the Gnostic vision for years. Evidently this can be explained by the presence of the Buried memories in me released by anamnesis in 3-74.
 ```
-**Co-occurrences**: Tears, Ubik, Indexed, Form, Gnostic, Like, Iron, Time, Black, Good, Being, Everything, Himself, Frolix, Either, Palm, Anamnesis, Without, Most, Such, Actually, Certainly, True, Finally, Would, Mission, Were, Have, Tree, Remember, Knowledge, Today, Impostor, Evidently, Someone, Until
+**Co-occurrences**: Gnostic, Time, Anamnesis, Tears, Ubik, Indexed, Form, Like, Iron
 
 ---
 ### Line 4029-4037 (Match: 'Zebrapedia')
@@ -223,7 +223,7 @@ Indexed
 35
 35 In fact, once anamnesis occurs, the person expands to a near god-like level, with virtually supernatural powers + perception, evidently because he has been transformed to this High level, can pass easily + naturally back into the Garden, which he can (among other things) now see. So identity (ie. what you are), memory+ salvation are interwoven, all of which suggests Neo-Platonism with its concentric rings of emanation. But it also resembles Gnosticism doctrines about the divine spark remembering its origin in another better world, so that it can get out of here + return to its home, this also resembles the doctrines of India.
 ```
-**Co-occurrences**: Indexed, Gnosticism, Perhaps, Like, World, Fall, Because, Iron, Prison, After, Black, Garden, Platonism, Once, Divine, Black Iron Prison, Augustine, Palm, Anamnesis, Another, Such, Before, Death, Will, Other, Back, Whatever, Have, Tree, Things, Memory, India, Later, Iron Prison, Salvation, Evidently
+**Co-occurrences**: Gnosticism, Anamnesis, Indexed, Perhaps, Like, World, Fall, Because, Iron, Prison
 
 ---
 ### Line 4041-4049 (Match: 'Zebrapedia')
@@ -239,7 +239,7 @@ Last edit 8 months ago by Zebrapedia
 36
 36 who experiences this talks about it (no con talk about it) , I passed from one world + into another. I sum it up like that, +: I ceased to be one thing + became a better thing, +: I escaped illusion + reached reality.
 ```
-**Co-occurrences**: Well, Like, World, Does, Reality, Obviously, Self, Probably, Part, Another, Such, Will, Ching, Page, Answer
+**Co-occurrences**: Well, Like, World
 
 ---
 ### Line 4052-4060 (Match: 'Zebrapedia')
@@ -256,7 +256,7 @@ Needs Review
 37
 23 But ah! I was released from maya, bondage to which is due to Karma. Yes, the recover of memory, escape from the veil of delusion - But the ultimate release from Karmic burden is this: that one is freed from the wheel of rebirth - + all the ecstatic joy, the rapture - being taken into God, welcomed by him in his realm - return from birth + rebirth over + iner again in this world - this is it; this is what I'm free free; hence "vertical ascent" - leaving here + going hone to my original place at last - for the first time in thousands it years - finally. I can now go back. The recovered memories show me that I came here long ago + have been embroiled over + over; this, what I've been given now in this lifetime - I must have sought for it + not attained it ever before. Ah! The release is connected with my handling of the Xerox letter. I have an intuition: had I handled it wrong, I would not have found release. Every effort + talent + faculty had to be brought to bear - was brought to bear the great trans-identity real self in me knew, it knew. + I was not willing to fail; it bloomed to life fully in order to pass this final test; it tested the quality of the holy in me; only the holy part could have succeeded; no holy part, no release; it was for me the great assize indeed, but only an individual judgment on me me alone. So then I saw my name writter in the great ledger later on thought of Papagans + prince taming + ther + trials. Ah! The divinity was the total hosts of light coming to my defense - they did all they could to assist + extricate me, + they were successful; thus it is said that God wishe. to bring all men to salvation. Whether viewed in Indian or Christion - or even Egyption terms - the matter is the same.
 ```
-**Co-occurrences**: Holy, Xerox, Like, World, Since, Only, Time, Light, Even, Karma, Could, Does, Just, Something, Realm, Again, Maya, Being, Self, Great, Viewed, Anamnesis, Without, Part, Indian, Another, Real, Before, Death, Finally, Will, Would, Were, Very, Back, Beyond, Have, Judgment, Life, Memory, India, Later, Whether, Dead, Karmic, Salvation, Free, Final
+**Co-occurrences**: Time, Anamnesis, Holy, Xerox, Like, World, Since, Only
 
 ---
 ### Line 5335-5343 (Match: 'Zebrapedia')
@@ -273,7 +273,7 @@ Indexed
 Page 2
 How many humans in history have actually, even briefly, literally passed over into heaven while still alive (i.e. while the 2 realms are still sundered)? I now repeat exactly what I've written before:
 ```
-**Co-occurrences**: Indexed, Zebra, Complete, Kingdom, Well, Since, Only, Time, After, Mind, Even, Realm, Still, More, Heaven, Real, Actually, Dick, Before, Death, Universe, Page, Many, Have
+**Co-occurrences**: Zebra, Time, Indexed, Complete, Kingdom, Well, Since, Only
 
 ---
 ### Line 5345-5353 (Match: 'Zebrapedia')
@@ -290,7 +290,7 @@ Indexed
 Page 3
 3
 ```
-**Co-occurrences**: Christ, Indexed, Spirit, Holy, Christianity, Holy Spirit, Kingdom, Roman, Therefore, Only, Mind, Firebright, Just, Both, Although, Divine, Himself, Still, Their, Through, Heaven, Actually, Secret, True, Page, Back, Life, Evidently
+**Co-occurrences**: Firebright, Christ, Indexed, Spirit, Holy, Christianity, Holy Spirit, Kingdom, Roman, Therefore, Only
 
 ---
 ### Line 5414-5422 (Match: 'Zebrapedia')
@@ -306,7 +306,7 @@ Last edit about 6 years ago by Zebrapedia
 Page 6
 6
 ```
-**Co-occurrences**: Only, After, Both, Reality, Bureau, Their, True, Page, Were, Life, Government, Suddenly, Right
+**Co-occurrences**: Only
 
 ---
 ### Line 5903-5911 (Match: 'Zebrapedia')
@@ -322,7 +322,7 @@ Complete
 2
 context it is certainly easy to understand why I saw the sourceless white light (of death and judgement) fill our bedroom. It (death, judgement, wrath) would have come to me, had he not intervened.
 ```
-**Co-occurrences**: Christ, Zebra, Complete, Perhaps, Advent, Because, Time, After, Savior, Light, Pinky, Something, Reality, Being, Divine, Himself, Darkness, Most, Living, Heaven, Certainly, Death, Would, Were, Have, Instead, Dead, Lamb, Free, White
+**Co-occurrences**: Zebra, Time, Christ, Complete, Perhaps, Advent, Because
 
 ---
 ### Line 7009-7017 (Match: 'Zebrapedia')
@@ -339,6 +339,6 @@ Complete
 folder 32 - 003
 Spinoza, in his monism, foundered at this point and had to the deny the existence of miracles (intervention) altogether. Intervention signifies the existence of a powerful, all-knowing, all-caring (loving) divine deity, but then how did evil arise (as well as the above problem of explaining how we would come to intervene in his own world). The two questions derive from the same issue, and one answer handles both which is the Gnostic answer: the creator god is not the same God who intervenes. But I split with the Gnostics wherein I say, "The true divine good deity allowed or even encouraged the 'James-James' sick demiurge to create his tacky quasi-cosmos, his ersatz, counterfeit cosmos." We are graded, which is to say emancipated, according to what we find (if we do find anything) objectionable about this world. Thus we are not only confronted by a skillful teaching machine but one which grades our responses and thus either repeats an unlearned lesson or carries us upward to be the next in order. I think that in the final analysis, ethical considerations are salient. This involves ethical choices on our parts (existential view) and the perception of ethical disfigurement not of our own doing but not acceptable to us. The two interlink, the observation (analysis) that there is something wrong ethically with our world, and the ethical imperitives [sic] we feel to act or not act and in what way. Proper observation and action alienates us from the world, and puts us in the man and God vs the world situation of the Gnostic system. The fact is, this world presents us with ethical problems which for all intents and purposes admit to no solution; as Father Reed said to me when I was taking religious instruction, "We do not have a choice between good and evil but between greater and lesser evils." Thereby one knows this to be either a fallen world or a bungled (or even evil) world, since, as Father Reed pointed out, we are forced to do evil. I think, though that we fell before there was a cosmos here, that we rebelled against the True Vine and claimed we could get by on our own. Perhaps the demiurge who created this cosmos was our leader, the highest of us all. Anyhow, here we are, trying to determine which is the lesser of the evils presented to us. If the true benign God allowed creation to fall, then he obviously erred, and orthodoxy cannot give an adequate explanation of this, as the dualistic religions can. But if we, as parts of the true vine, revolted and were then lopped off, and our leader was permitted to create this world for us -- no questions remain, if the fall is presumed to be cosmic, and to precede creation. THe good God's role is (1) to extricate us from this world; (2) to transmute this world into a true cosmos, which is exactly what it has never been. In Feb of 1974 I momentarily withdrew assent to the reality of this world; a month later this world underwent visible changes, and its true nature became perceptible to me: it is, as the Gnostics said, a prison. It is there, but it is not as it appears to be. The immediate reaction to the anomie in the world is to say simply that it is out of control. If it is there in the world is to say simply that it is out of control. If it is there to reawaken us to our divine origins, however, its malign aspects serve a good purpose. What each of us must do is repudiate the world, which is to say, deny it while at the same time affirming a sanctified alternate reality, which I did vis-a-vis the golden fish sign; the false quasi-cosmos was denied and the true sacred reality was affirmed. It was a single act, a movement away from the first to the second. I think I've figured out the basic move necessary: an ethical balking. That is how the world-denying begins. That is the first step in
 ```
-**Co-occurrences**: Christian, Ubik, Complete, Plato, Gnostic, Fish, Well, Golden, However, Spinoza, Perhaps, Father, James, Like, World, Since, Fall, Because, Golden Fish, Prison, Only, Time, Cosmic, Folder, Good, Even, Could, Does, Anyhow, Just, Something, Once, Again, Both, Reality, Obviously, Although, Everything, Divine, Either, Without, Nothing, Creator, Soul, Real, Such, Timaeus, Before, Revelation, True, Messenger, Universe, Finally, Will, Deity, Would, Creation, Were, Back, Whatever, Have, Justice, Memory, Information, Later, Evil, Greater, Final, Answer, Ananke, Sacred
+**Co-occurrences**: Gnostic, Time, Information, Christian, Ubik, Complete, Plato, Fish, Well, Golden, However, Spinoza, Perhaps, Father, James, Like, World, Since, Fall, Because, Golden Fish, Prison, Only
 
 ---

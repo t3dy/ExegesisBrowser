@@ -20,7 +20,7 @@ The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat 
 
 Last edit over 5 years ago by A23
 ```
-**Co-occurrences**: Ubik, Spirit, Rome, Form, Parousia, Father, World, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Time, Ubik, Spirit, Rome, Form, Parousia, Father, World, Because, Only
 
 ---
 ### Line 80-88 (Match: 'Since')
@@ -37,7 +37,7 @@ If the fucking rat had only left the house I would have spared it. Thus we too, 
 
 I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
 ```
-**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Instead, Later, Having, Except, During
+**Co-occurrences**: Time, Philip, Phil, Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Therefore, Only
 
 ---
 ### Line 143-151 (Match: 'Since')
@@ -54,7 +54,7 @@ Magic equals life equals warmth equals poppies. Now, poppies are an exotic flowe
 
 Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
 ```
-**Co-occurrences**: Ubik, Indexed, However, Perhaps, Like, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+**Co-occurrences**: Zebrapedia, Phil, Ubik, Indexed, However, Perhaps, Like, Because, Only
 
 ---
 ### Line 157-165 (Match: 'Since')
@@ -71,7 +71,7 @@ Ground equals WHERE Set equals WHAT
 
 The WHAT is Final Reckoning Time or Out-of-Time, and after accounts are settled, we get to go to the seashore. Okay? But first the poor rat has to die; poor creature; and then we’re released.
 ```
-**Co-occurrences**: Indexed, Bible, Like, Time, After, Book, Okay, Zebrapedia, Ground, Will, Claudia, Testament, Chip, Final
+**Co-occurrences**: Time, Zebrapedia, Indexed, Bible, Like
 
 ---
 ### Line 200-208 (Match: 'Since')
@@ -88,7 +88,7 @@ You’ll note that I’m living in Southern California now, “north of Disneyla
 
 I’ve enclosed two or three pictures of us… I do hope all goes well with you, and I would so much enjoy hearing from you, and knowing about you these days. I’m into screenplay writing now… also Rolling Stone is doing a long article/interview with me, and, at long last, an experimental S-F novel of mine is coming out. But I will not go Vonnegut’s route and deny s-f if I make it literarily-experimentally; even my experimental novel, CONFESSIONS OF A CRAP ARTIST, is in the broadest sense, science-fiction. Dear Phyllis. How are you?
 ```
-**Co-occurrences**: Well, These, Like, World, Fall, Good, Even, Just, Both, Tony, Although, Tessa, Still, Through, Living, Real, Such, Love, Will, Christopher, Would, Very, Have, Memory, Days, Having
+**Co-occurrences**: Well, These, Like, World, Fall
 
 ---
 ### Line 246-254 (Match: 'Since')
@@ -105,7 +105,7 @@ Tony loved the universe and the universe frightened him, and I think I know wher
 
 We used to play poker. Tony loved opera and poker and science fiction and mystery stories. He had a little writing class – this was after he was famous and edited F&SF – and he charged on dollar a night when you showed up. He read your whole manuscript. He told you how rotten it was, and you sent away and wrote something good. I never figured out how he accomplished that. Criticisim like that is supposed to crush you. “Maybe it’s because when Tony reads your story it’s like he’s reading it in Latin,” somebody said. A whole dollar it cost. He taught me to write, and my first sale was to him. I still can remember that nobody understood the story but him, even after it was printed. Now it’s in a college-level s-f course manual put out by Ginn and Company. There’s only about 300 words to the story. After the printing of the story, Ginn and Company prints an impromptu discussion I had with a high school class about the story. All the kids understand the story. It’s about how a dog sees garbagemen coming to steal the precious food that the family stores up every day until the heavily constructed repository is full and then these Roogs come and steal the
 ```
-**Co-occurrences**: Indexed, Roman, These, Maybe, Like, World, Fall, Because, Only, Time, After, Good, Light, Even, Could, Just, Something, Once, Catholic, Tony, Although, Still, More, Through, Real, Love, Before, True, Universe, Will, Many, Tree, Remember, Electric, Sturgeon, Dead, Human, Right, Answer, Until
+**Co-occurrences**: Time, Indexed, Roman, These, Maybe, Like, World, Fall, Because, Only
 
 ---
 ### Line 308-316 (Match: 'Since')
@@ -122,7 +122,7 @@ Last edit over 5 years ago by Siegman
 20
 Complete
 ```
-**Co-occurrences**: Christ, Thomas, Complete, Form, Well, However, Dionysos, Perhaps, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Thomas, Time, Christ, Complete, Form, Well, However, Dionysos, Perhaps, Therefore, Only
 
 ---
 ### Line 407-415 (Match: 'Since')
@@ -139,7 +139,7 @@ Last edit almost 3 years ago by twsullivan
 
 26
 ```
-**Co-occurrences**: Ubik, Christianity, Dionysos, Like, Because, Only, Time, After, Soviet, Taoism, Again, Reality, Kosmos, Being, Runciter, Although, Great, Viewed, Without, Darkness, Those, More, Living, Real, Zoroastrianism, Greece, True, Death, Egyptian, Many, Have, Life, Spring, Days, Evil, Final, Right, Until
+**Co-occurrences**: Time, Ubik, Christianity, Dionysos, Like, Because, Only
 
 ---
 ### Line 430-438 (Match: 'Since')
@@ -156,7 +156,7 @@ By this I mean to say, Dr. Ornstein, ten months ago this took place, and for ten
 
 Nicholas Brady, an ordinary American citizen with contemporary worldly values and drives (money and power and prestige) suddenly has inside him a winking into life an entity which has slumbered for two thousand years. This entity is an Essene, who died knowing that he would be given the promised resurrection; he knew it because he and other [Qumran] individuals had in their possession secret formulae and medications and scientific practices to insure it. So suddenly our protagonist, Nicholas Brady, finds that there are two of him: his old self, at his secular job and goals, and this Essene from the [Qumarn] wadi back circa 45 A.D., a holy man with holy values and utter antagonism to the secular physical world, which he sees as the "City of Iron." The [Quamran] mind takes over and directs Brady in a complicated series of acts until it becomes evident that others such as this [Qummran] man are coming back to live here and there in the world.
 ```
-**Co-occurrences**: Acts, Holy, Form, Well, World, Because, Iron, Good, Mind, Book, March, Tony, Self, Essene, Brain, Their, Most, Such, Secret, Would, Other, Back, Have, Life, Having, Dead, Suddenly, Qumran, Right, Until
+**Co-occurrences**: Acts, Holy, Form, Well, World, Because, Iron
 
 ---
 ### Line 486-494 (Match: 'Since')
@@ -173,7 +173,7 @@ Now, did Dionysos let me know this because he has taken me, or did Erasmus whisp
 
 With warm personal regards,
 ```
-**Co-occurrences**: Christian, Jesus, Christianity, Form, Greek, Well, Dionysos, Like, Because, Time, Light, Could, Just, Look, Zagreus, Being, Divine, Himself, Without, Those, Such, Universe, Erasmus, Very, Back, Have, Tree, Wise, Later, Luther, Human, Lamb, Someone, Sacred
+**Co-occurrences**: Time, Christian, Jesus, Christianity, Form, Greek, Well, Dionysos, Like, Because
 
 ---
 ### Line 507-515 (Match: 'Since')
@@ -190,7 +190,7 @@ It cannot be that to move toward completion of form is to move toward disorder; 
 
 "Growth time" (movement of an entelechy toward completion) must be orthogonal to "decay time," or "wheel spinning time," even if our senses can't sort out these two times at work before us, in us and around us. Some sections (subparts) of the universe are moving backward, then, despite our occluded vision of a single forward lineal stream. We have a monovision in a sense. Blending two signals which should be discriminated.
 ```
-**Co-occurrences**: Form, Well, These, Therefore, Time, Even, More, Such, Before, Universe, Have, Life, Right
+**Co-occurrences**: Time, Entropy, Form, Well, These, Therefore
 
 ---
 ### Line 612-620 (Match: 'Since')
@@ -207,7 +207,7 @@ Last edit over 5 years ago by Harpax
 38
 Needs Review
 ```
-**Co-occurrences**: Form, Like, Parmenides, Only, Time, Harpax, Mind, Taoism, Again, Reality, Being, Their, More, Universe, Will, Other, Further, Things, Life, Apparently, Dead, Right
+**Co-occurrences**: Time, Form, Like, Parmenides, Only
 
 ---
 ### Line 640-648 (Match: 'Since')
@@ -224,7 +224,7 @@ Last edit over 5 years ago by Harpax
 40
 Needs Review
 ```
-**Co-occurrences**: Ubik, Form, Harpax, Noos, Light, Even, Could, Being, Those, More, Through, Mother, Universe, Would, Back, Have, Claudia, Wise, Dream, Chip, Right
+**Co-occurrences**: Entropy, Ubik, Form
 
 ---
 ### Line 677-685 (Match: 'Since')
@@ -241,7 +241,7 @@ Last edit over 5 years ago by Harpax
 43
 Needs Review
 ```
-**Co-occurrences**: Ubik, Logos, Like, Time, Harpax, Even, Anyhow, Being, Great, Probably, Their, More, Finally, Will, Would, Other, Were, Back, Surely, Under, Further, Have, Information, Info, Having, Truth, Someone
+**Co-occurrences**: Time, Information, Ubik, Logos, Like
 
 ---
 ### Line 731-739 (Match: 'Since')
@@ -258,7 +258,7 @@ Last edit over 5 years ago by Harpax
 
 46
 ```
-**Co-occurrences**: Complete, Form, Gnostic, These, Parmenides, Only, Time, Harpax, After, Good, Book, Yang, Firebright, Both, Being, Still, Part, Soul, Living, Real, Universe, Back, Whatever, Have, Form One, Unless, Dream, Doesn, Someone
+**Co-occurrences**: Gnostic, Time, Firebright, Complete, Form, These, Parmenides, Only
 
 ---
 ### Line 766-774 (Match: 'Since')
@@ -275,7 +275,7 @@ I think a tremendous principle of conservation and balance was expressed in this
 
 James James represented ruthless creative power. But a balance is needed, both in each individual and for our planet as a whole. It was not with malice but with zeal that James James (JHWH, I guess) shasmed Tessa's elbow (ulna, the crippled lamb limping along) (my right shoulder). But I threw my weight in on the balance-scale on the side of the injured, the minority, although I personally could only
 ```
-**Co-occurrences**: Form, Well, These, Perhaps, Maybe, James, Like, Fall, Because, Only, Time, Good, Even, Could, Anyhow, Both, Reality, March, Although, Tessa, Nothing, Kathy, Those, Most, Such, Certainly, Before, Universe, Will, Would, Creation, Very, Back, Surely, Have, Clearly, Life, Dream, Lamb, Right, Someone
+**Co-occurrences**: Time, Form, Well, These, Perhaps, Maybe, James, Like, Fall, Because, Only
 
 ---
 ### Line 778-786 (Match: 'Since')
@@ -292,7 +292,7 @@ But regarding possible time dysfunctions (due either to experiments at e.g. Pulk
 
 It's as if the merely potential (i.e. discarded at one or more critical junctions along the linear time-line) has come into a periodic shimmering realization, along side what is actual (vide William James on the sea of potential facts around each actualized fact -- each that, so to speak, makes it). Like in my story "The Commuter." Also, there is to me the real thought that adjustments (ala "Adjustment Team") are being made in our past, which are to an ever increasing degree making a certain "alternate present" (or time line) actual -- in place of the one we have, not along side it. I sense a series of minute tinkerings going on (vide Peter Mann's conversation with me recently on that idea). They are realigning our reality so it will conform to what the Plan (Logos) called for, thus losing the error fact, finally, which crept in. I suppose they could be making be making this critical correction back as far as 100 A.D. Just for story purposes, let us suppose a time-traveling team from our future has gone back to 45 A.D. to see to it that Jesus is not crucified. When the Parousia are finished with, the time line we have will not even be remembered; our memories will be retaped to fit our newly made past, as well as present, and, as in "Commuter," we will be relieved that "nothing has changed after all" (sic). I guess the realigned-correctly world will have California still the property of Spain-Mexico. Portugal will retain its States of America. The Catholi[c] Church will not have been re[?]nt asunder by the Reformers; this world will have only one huge Christian church/body, for all...
 ```
-**Co-occurrences**: Christian, Logos, Jesus, Well, Parousia, These, Perhaps, James, Like, World, Only, Time, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Nothing, Still, Their, More, Church, Most, Real, Voice, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+**Co-occurrences**: Time, Linear, Christian, Logos, Jesus, Well, Parousia, These, Perhaps, James, Like, World, Only
 
 ---
 ### Line 803-811 (Match: 'Since')
@@ -308,7 +308,7 @@ That this has happened I am positive. That so little has changed shows how sligh
 
 We have a concentric-ring society, and the innermost ring has been burned off by the fire, has now been replaced by light, by God, and this is parallelled by a discernment outside, by those on the rim, that the Lord of Hosts has in fact suddenly come to his temple, announced by the messenger of the covenant whom we delight in...as Malachi put it. There was a swift arrival (mainly by Elijah), a swift victory over the darkness, a tossing down of the tyranny, and then the enormous judging and destroying power was withdrawn and replaced by an assisting and healing power. Advocacy for the weak and oppressed is no longer necessary, now that God rules. Healing (as if after a battle which was won) has been in order, and so done. Finally, the freeing of the many
 ```
-**Co-occurrences**: Jesus, King, Paul, Empire, Lord, Elijah, Like, World, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+**Co-occurrences**: Time, Jesus, King, Paul, Empire, Lord, Elijah, Like, World, Because, Only
 
 ---
 ### Line 813-821 (Match: 'Since')
@@ -325,7 +325,7 @@ Or, more accurately, at one time the plant or organization had been well-run and
 
 Elijah, coming immediately before God, played a multiple role: he refined those whom God wished to save rather than destroy -- i.e. he got them into a fit condition so they would pass muster. I guess it's a form of tipping off those kids you wanted tipped off that you're about to reappear and check out everyone. You send a messenger in advance who
 ```
-**Co-occurrences**: Form, Well, Lord, These, Perhaps, Elijah, Father, Like, Prison, Only, Time, Harpax, After, Even, Could, Just, Look, Once, Reality, Being, Although, Everything, Great, House, Without, Those, Their, Wait, More, Most, Before, True, Messenger, Death, Finally, Will, Would, Were, Back, Beyond, Under, Many, Have, Journey, Judgment, Life, Dark, Suddenly, Human, Evidently, Free
+**Co-occurrences**: Time, Form, Well, Lord, These, Perhaps, Elijah, Father, Like, Prison, Only
 
 ---
 ### Line 823-831 (Match: 'Since')
@@ -342,6 +342,6 @@ The whole experience seems to take about one full cycle of the earth: one year, 
 
 This whole last year contained a lot of pain and shock and loss for me (I was hospitalized twice, my son once, I lost two cats in very sad ways, and had to get rid of my little dog, and was burned on my first screen play), but it was the best year of my life, because somehow within the illness and loss and pain I gained an inner reality to match the external reality. There is no point in merely establishing an external new real kingdom or kingsom. God must reign in the human heart and body as well. It is the ultimate growth: to turn into a portion of God ("that I might live in Him / Invisible and dim") and continue on, knowing that He is both inside and outside. I can say that although I have not seen God, I saw signs of Him, indubitable signs. And knew Him to be growing within me, as the new life Firebright, from the Sun...the Aton, I guess, which Iknaton spoke of, that good tender trembling frail brave man.
 ```
-**Co-occurrences**: Kingdom, Well, Elijah, Because, Earth, Harpax, Savior, Good, Even, Firebright, Pinky, Once, Both, Reality, Although, Great, Anamnesis, Without, Their, Heaven, Real, Actually, True, Messenger, Death, Somehow, Kingship, Very, Beyond, Have, Judgment, Life, Body, Spring, Having, Human, Lamb
+**Co-occurrences**: Firebright, Anamnesis, Kingdom, Well, Elijah, Because, Earth
 
 ---

@@ -20,7 +20,7 @@ I think that in 1974 my entelechy was completed, but I never heard of anyone hav
 
 Last edit over 5 years ago by FolkDevil
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, House, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+**Co-occurrences**: Time, Phil, Spirit, Holy, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Only
 
 ---
 ### Line 208-216 (Match: 'Philip')
@@ -37,7 +37,7 @@ Last edit over 5 years ago by Zebrapedia
 13
 Indexed
 ```
-**Co-occurrences**: Indexed, Well, These, Even, Zebrapedia, Dick, Fullerton, Calif, Will, Would, Days
+**Co-occurrences**: Zebrapedia, Indexed, Well, These
 
 ---
 ### Line 238-246 (Match: 'Philip')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by Toso
 14
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Dick, Fullerton, Calif, Will
+**Co-occurrences**: Toso, Indexed
 
 ---
 ### Line 452-460 (Match: 'Philip')
@@ -71,7 +71,7 @@ Last edit almost 3 years ago by twsullivan
 29
 Complete
 ```
-**Co-occurrences**: Complete, Christianity, Wisdom, Dionysos, James, World, Iron, Just, Zagreus, Being, Those, More, Through, Living, Ground, Such, Actually, Dick, Fullerton, Calif, Would, Under, Have, Life, Spring, Dead, During, Human, Right
+**Co-occurrences**: Complete, Christianity, Wisdom, Dionysos, James, World, Iron
 
 ---
 ### Line 1818-1826 (Match: 'Philip')
@@ -88,7 +88,7 @@ It is just as obvious that conscience is a social deposit as that Attic Greek is
 
 The long above discussion regarding historical forces shows the connection between the Holy Spirit and conscience, the latter being a small form of the former in my opinion. Since Rollo May shows that Socrates' daimon is conscience when thought of as more than mere social deposit, then that must be the same, too. Regarding conscience, we are talking about a holy force, divine in origin and absolutely binding, which does not arise from social conditioning but springs spontaneously; it is God teaching us and informing us. If conscience can be regarded as a historical, social force (esp. connected with the Reformers and toleration and freedom) then my 3 74 experience consisted of conscience changing over to the Holy Spirit, and the Holy Spirit advancing out into the realm of social action, in which the right of conscience was rightfully supposed to be; for the Holy Spirit to do that is to throw into the balance of social action against despotic society (identified with "the prince of this world") an ultimate force; conscience is shown then as a forerunner of a force more powerful because as well as moral knowledge it also carries knowledge of what is true (and what is mere lie). Conscience alone might dictate that I act (refuse to kill Vie[t]namese) but in no way does/did it provide me with any assistance of any sort. Not so with its more complete form, the Holy Spirit. The relationship between them reminds me of that between the First Advent (the lamb who is sacrificed) and the Second: the Powerful Judge who overthrows what is evil.
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Complete, Holy Spirit, Form, Sophia, Greek, Well, Perhaps, Advent, Plotinus, Like, World, Since, Because, Only, Could, Does, Just, Realm, Again, Being, Catholic, Divine, Aristotle, More, Such, Voice, True, Would, Judge, Attic, Surely, Have, Things, Information, Freedom, Instead, Evil, Socrates, Likewise, Knowledge, Truth, Reformers, Human, Lamb, Right, Answer
+**Co-occurrences**: Plotinus, Sophia, Information, Spirit, Holy, Logos, Complete, Holy Spirit, Form, Greek, Well, Perhaps, Advent, Like, World, Since, Because, Only
 
 ---
 ### Line 2130-2138 (Match: 'Philip')
@@ -105,7 +105,7 @@ In other words the black man whom Buckman meets is even more like the black man 
 
 The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
 ```
-**Co-occurrences**: Tears, Acts, Holy, Christianity, Felix, Bible, Like, World, Harpax, After, Black, Buckman, Book, Even, Anyhow, Just, Something, Reality, Kosmos, Obviously, More, Another, Through, Living, Before, Other, Later, Suddenly, Dream, Right
+**Co-occurrences**: Tears, Acts, Holy, Christianity, Felix, Bible, Like, World
 
 ---
 ### Line 2132-2140 (Match: 'Philip')
@@ -122,7 +122,7 @@ The greatest significance at the end of TEARS, though, is that all which was wro
 
 . . . For TO SCARE THE DEAD: let it turn out to be St. Luke who shaministically possessed him (a bridge thus established between 70 AD and our present), and the protag eventually discovers, though this assimilated inner contact that St. Luke (and probably also the others of the original cadre of Christians, the inner circle of Christ's) is what we call a (are you ready?) a non-terrestrial, of magnificent power and authority and wisdom. I think plotwise the protag eventually learns/decides that originially such men as St. Luke were ordinary humans, "born of woman," etc., but became this -- through such possession of them by the Holy Spirit, which is to say their Master, Christ (who was not an ordinary human being). And the purpose of this elevation comes through now, since our planet has had it (ecology wise, due to our using up and destroying and polluting); this is a system to get some of us, as many as possible "translated" out of here and hence saved; this is the true meaning of "being saved," saved from the holocaust. This too is the meaning of the now-arriving Parousia.
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Spirit, Holy, Christianity, Holy Spirit, Felix, Bible, Parousia, Wisdom, Like, World, Since, After, Black, Buckman, Book, Even, Anyhow, Just, Something, Reality, Luke, Kosmos, Being, Obviously, Probably, Their, More, Another, Through, Living, Such, Before, True, Other, Were, Many, Wise, Later, Dead, Suddenly, Human, Dream, Right
+**Co-occurrences**: Christ, Tears, Acts, Christian, Spirit, Holy, Christianity, Holy Spirit, Felix, Bible, Parousia, Wisdom, Like, World, Since
 
 ---
 ### Line 2709-2717 (Match: 'Philip')
@@ -139,7 +139,6 @@ Last edit over 5 years ago by Harpax
 
 206
 ```
-**Co-occurrences**: Harpax, After, Book, Santa, Dick, Fullerton, Calif, Very, Have, Today
 
 ---
 ### Line 2919-2927 (Match: 'Philip')
@@ -156,7 +155,7 @@ Last edit almost 5 years ago by svayambhu108
 222
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Sophia, Paul, Like, Since, Time, After, Light, Firebright, Anyhow, Being, Corpus, Probably, Santa, Wait, Pantocrator, Through, Most, Living, Such, Dick, Fullerton, Calif, True, Universe, Finally, Christopher, Would, Somehow, Have, Life, Body, Days, Knowledge, Until, Sacred
+**Co-occurrences**: Sophia, Time, Firebright, Saint Sophia, Christ, Spirit, Holy, Holy Spirit, Paul, Like, Since
 
 ---
 ### Line 3127-3135 (Match: 'Philip')
@@ -172,7 +171,7 @@ The dream in which on your Zenith TV set a circuit detects when Christ in his in
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Form, Bible, Like, Fall, Because, Only, Time, Light, Even, Could, Does, Anyhow, Just, Look, Again, Catholic, Himself, Probably, Without, Nothing, Darkness, More, Through, Most, Such, Certainly, Before, True, Will, Calvin, Were, Very, Back, Whatever, Further, Dark, Memory, Trinity, Remember, Unless, Dream, Doesn, Right, Until
+**Co-occurrences**: Time, Christ, Form, Bible, Like, Fall, Because, Only
 
 ---
 ### Line 4003-4011 (Match: 'Philip')
@@ -189,7 +188,7 @@ the dream sequence in years. But -also or what am I? We are now dreaming with a 
 
 themy[?]: A superior science of the mind taught me + then set up the inhibition block so that i passed [fit?] all these years, knowing + guessing nothing, until the time came. Hence my growing fears in early '74. I knew the time was coming (for which I had been trained + prepared). 9) the disinhibition Gold Fish sign.
 ```
-**Co-occurrences**: Fish, These, Maybe, Like, Time, Mind, Just, Something, Look, Again, Self, Either, Anamnesis, Nothing, Another, Real, Gold, True, Other, Back, Under, Have, Truth, London, Dream, Until
+**Co-occurrences**: Time, Anamnesis, Fish, These, Maybe, Like
 
 ---
 ### Line 4751-4759 (Match: 'Philip')
@@ -205,7 +204,7 @@ Last edit almost 3 years ago by svayambhu108
 47
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Zebra, Jesus, Holy Spirit, Gnostic, Dionysos, Perhaps, World, Since, Only, After, Gabriel, Paraclete, Mckee, Gabriel Mckee, Savior, Could, Look, Again, Zagreus, Great, Zeus, Through, Flux, Revelation, Easter, Would, Have, Days, Knowledge, Cross, London, Dream, Crete, Someone, Until
+**Co-occurrences**: Zebra, Gnostic, Christ, Spirit, Holy, Jesus, Holy Spirit, Dionysos, Perhaps, World, Since, Only
 
 ---
 ### Line 4922-4930 (Match: 'Philip')
@@ -222,7 +221,7 @@ Last edit almost 3 years ago by svayambhu108
 
 16
 ```
-**Co-occurrences**: Xerox, Plato, Fish, Golden, Since, Golden Fish, Time, Could, March, Girl, Probably, Viewed, Without, Still, More, Most, Such, Certainly, Would, Back, Have, Judgment, Life, Later, Evil, Otherwise, Right
+**Co-occurrences**: Time, Xerox, Plato, Fish, Golden, Since, Golden Fish
 
 ---
 ### Line 6026-6034 (Match: 'Philip')
@@ -239,7 +238,7 @@ Last edit almost 3 years ago by svayambhu108
 19
 Needs Review
 ```
-**Co-occurrences**: Christian, Spirit, Form, Kingdom, However, World, Gnosis, Time, Earth, Just, Both, Reality, Being, Corpus, Anamnesis, Those, More, Another, Real, Such, Upon, True, Will, Were, Back, Beyond, Things, Knowledge, Truth, London, Human, Dream, Until
+**Co-occurrences**: Time, Anamnesis, Linear, Christian, Spirit, Form, Kingdom, However, World, Gnosis, Earth
 
 ---
 ### Line 6980-6988 (Match: 'Philip')
@@ -256,7 +255,7 @@ Last edit over 5 years ago by Toso
 32
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Father, Dick
+**Co-occurrences**: Toso, Indexed, Father
 
 ---
 ### Line 7235-7243 (Match: 'Philip')
@@ -273,7 +272,7 @@ It seems to me that the import (thrust) of my actual "all night gas station scen
 
 "After Peter healed a lame man, he made a speech (ch 3) in which Jesus is proclaimed as the one appointed but who is now in heaven and who will come as the Christ at the Parousia (2nd coming). In his Pentecost speech (ch 2) Peter preached that God made Jesus Lord and Christ in his ressurection.
 ```
-**Co-occurrences**: Christ, Tears, Acts, Spirit, Jesus, Rome, Paul, Greek, Parousia, Lord, These, Time, After, Black, Maya, Church, Another, Heaven, Real, True, Will, Other, Mission, Later, Sacred, Pentecost
+**Co-occurrences**: Time, Linear, Christ, Tears, Acts, Spirit, Jesus, Rome, Paul, Greek, Parousia, Lord, These
 
 ---
 ### Line 7717-7725 (Match: 'Philip')
@@ -290,7 +289,7 @@ Last edit almost 3 years ago by svayambhu108
 49
 Needs Review
 ```
-**Co-occurrences**: Tears, Thomas, Zebra, Gnosis, Only, Time, After, Suppose, Reality, Gods, Anamnesis, Essene, Brain, Their, Upon, Certainly, True, Would, Other, Were, Very, Remember, Human, Until
+**Co-occurrences**: Thomas, Zebra, Time, Anamnesis, Tears, Gnosis, Only
 
 ---
 ### Line 10384-10392 (Match: 'Philip')
@@ -307,7 +306,7 @@ Last edit about 5 years ago by sekennedy62
 103
 Complete
 ```
-**Co-occurrences**: Acts, Christian, Complete, Perhaps, Time, Black, Mind, Again, Being, Either, More, Real, Secret, Back, Have, Things, Absolute, Truth, Final
+**Co-occurrences**: Time, Acts, Christian, Complete, Perhaps
 
 ---
 ### Line 11982-11990 (Match: 'Philip')
@@ -324,7 +323,7 @@ Last edit almost 5 years ago by sekennedy62
 43
 Complete
 ```
-**Co-occurrences**: Christ, Acts, Spirit, Holy, Complete, Holy Spirit, World, Time, Just, Body
+**Co-occurrences**: Time, Linear, Christ, Acts, Spirit, Holy, Complete, Holy Spirit, World
 
 ---
 ### Line 12033-12041 (Match: 'Philip')
@@ -341,6 +340,6 @@ One could poetically say, "in 2-74 I fell into my own book "Tears." But in 2-74 
 
 + the anamnesis occurred the very month perhaps the very week, the novel was published!
 ```
-**Co-occurrences**: Tears, Acts, Rome, Felix, Perhaps, Father, After, Black, Book, Even, Gospel, Could, Just, Anamnesis, Real, Secret, Finally, Biblical, Very, Later
+**Co-occurrences**: Anamnesis, Tears, Acts, Rome, Felix, Perhaps, Father
 
 ---

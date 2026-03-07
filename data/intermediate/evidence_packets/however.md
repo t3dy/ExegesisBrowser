@@ -20,7 +20,7 @@ Magic equals life equals warmth equals poppies. Now, poppies are an exotic flowe
 
 Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
 ```
-**Co-occurrences**: Ubik, Indexed, Perhaps, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+**Co-occurrences**: Zebrapedia, Phil, Ubik, Indexed, Perhaps, Like, Since, Because, Only
 
 ---
 ### Line 226-234 (Match: 'However')
@@ -37,7 +37,7 @@ Yes, CONFESSIONS OF A CRAP ARTIST is a fine novel, and I think Paul and David kn
 
 Tessa says in her raspy way,
 ```
-**Co-occurrences**: Tears, Form, Paul, Like, Tessa, Will, Other, Back, Have, Electric, Dead, Dream
+**Co-occurrences**: Tears, Form, Paul, Like
 
 ---
 ### Line 258-266 (Match: 'However')
@@ -52,7 +52,7 @@ However, Tony is still alive, I discovered last year. My cat had begun to behave
 
 I hadn’t realized Pinky was Tony Boucher, served up by the universe again, until I had this dream about Tony the Tiger – the cereal box character who offers you cocoa puffs. In my dream I stood at the one end of a light-struck glade, and at the other a great tiger came out slowly, with delight, and I knew we were together again, Tony the Tiger and me. My joy was unbounded. When I woke up I tried to think who I knew named Tony. I had other strange experiences after Pink died. I dreamed about “Mrs. Donlevy” who was incredibly tall – I could see only her feet and ankles – and she was serving me a place of milk on the back porch ? there was a vacant lot where I could roam at will, forever. It was ? Elysian Vacant Lot, which the Greeks believed in, but just my size.
 ```
-**Co-occurrences**: Indexed, Greek, Maybe, Like, Because, Only, After, Light, Could, Pinky, Anyhow, Just, Something, Once, Again, Tony, Himself, Great, Those, Still, Living, Love, Universe, Will, Would, Other, Were, Very, Back, Under, Have, Days, Except, Sturgeon, Suddenly, Dream, Until
+**Co-occurrences**: Indexed, Greek, Maybe, Like, Because, Only
 
 ---
 ### Line 266-274 (Match: 'However')
@@ -68,7 +68,7 @@ Tony, or Pinky, was my guide; he taught me to write, and he stayed with me when 
 
 Handwritten in PKD’s hand: To A & B P 4
 ```
-**Co-occurrences**: Like, Because, Time, Book, Pinky, Just, Tony, Tessa, Part, Their, More, Universe, Would, Were, Back, Have, Things, Life, Body, Dream, Final, Until
+**Co-occurrences**: Time, Like, Because
 
 ---
 ### Line 302-310 (Match: 'However')
@@ -85,7 +85,7 @@ Let me offer some further notes on the plot basis I mailed you for my book: I am
 
 In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: his job requires him to fake what he is, to be inauthentic inasmuch as he fronts for the government re the recording artists he deals with. This has produced a schism within him. There can be others, but basically he leads a typically modern inauthentic schismatic existence --note existence, not life. There is no growth, just the constant revolution of the wheel of lineal time which accumulates only dust. So:
 ```
-**Co-occurrences**: Christ, Complete, Dionysos, Perhaps, Like, Therefore, Only, Time, Book, Just, Zagreus, Great, Christos, Essene, More, Deity, Would, Were, Further, Life, Claudia, Spring, Fake, Government, Dead
+**Co-occurrences**: Time, Christ, Complete, Dionysos, Perhaps, Like, Therefore, Only
 
 ---
 ### Line 308-316 (Match: 'However')
@@ -102,7 +102,7 @@ Last edit over 5 years ago by Siegman
 20
 Complete
 ```
-**Co-occurrences**: Christ, Thomas, Complete, Form, Well, Dionysos, Perhaps, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Thomas, Time, Christ, Complete, Form, Well, Dionysos, Perhaps, Since, Therefore, Only
 
 ---
 ### Line 464-472 (Match: 'However')
@@ -119,7 +119,7 @@ To his credit, he was delighted when I abruptly guessed that it was him and not 
 
 I present you with the sort of evidence which deep within the heavy books I read seemed to indicate vast truths undisclosed to most men; viz.:
 ```
-**Co-occurrences**: Dionysos, Perhaps, Maybe, After, Book, March, Nothing, Still, Most, Universe, Deity, Would, Erasmus, Back, Beyond, Have
+**Co-occurrences**: Dionysos, Perhaps, Maybe
 
 ---
 ### Line 470-478 (Match: 'However')
@@ -136,7 +136,7 @@ In a dream I was shown that the word "Jesus" is a code, a word made up and not a
 
 "Of all the trees that are He hath his flock, and feedeth root by root, The Joy-god Dionysos, the pure star That shines amid the gathering of the fruit." (In Pindar, a favorite of Plutarch.)
 ```
-**Co-occurrences**: Jesus, Dionysos, These, Perhaps, Maybe, After, Book, Once, Zagreus, Himself, Nothing, Those, Still, Zeus, Star, Most, Revelation, Universe, Would, Erasmus, Dream, Right
+**Co-occurrences**: Jesus, Dionysos, These, Perhaps, Maybe
 
 ---
 ### Line 561-569 (Match: 'However')
@@ -153,7 +153,7 @@ The fish symbol didn't perhaps "disinhibit" me, i.e. act as a disinhibiting stim
 
 It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
 ```
-**Co-occurrences**: Logos, Gnostic, Fish, These, Perhaps, Plotinus, World, Because, Therefore, Only, Time, Harpax, Does, Reality, Being, Anamnesis, More, Most, Certainly, Universe, Back, Information, Freedom, Info, Human
+**Co-occurrences**: Plotinus, Gnostic, Time, Anamnesis, Information, Logos, Fish, These, Perhaps, World, Because, Therefore, Only
 
 ---
 ### Line 659-667 (Match: 'However')
@@ -170,7 +170,7 @@ This attempt, if indeed it took place, was more of a failure than a success, ina
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Ubik, Logos, Christianity, These, Perhaps, Maybe, Time, Harpax, Good, Even, Could, Does, Anyhow, Philo, Soviet, Again, Both, Being, March, Probably, Part, Their, More, Another, Such, Would, Back, Beyond, Under, Many, Have, Life, Information, Later, Knowledge, Dead, Salvation, Evidently
+**Co-occurrences**: Time, Philo, Information, Linear, Ubik, Logos, Christianity, These, Perhaps, Maybe
 
 ---
 ### Line 744-752 (Match: 'However')
@@ -187,7 +187,7 @@ Last edit over 5 years ago by Harpax
 47
 Needs Review
 ```
-**Co-occurrences**: Tears, Form, Well, Golden, These, Maybe, Like, World, Only, Time, Harpax, Light, Could, Does, Taoism, Again, Both, Great, Apollo, Still, Part, More, Another, True, Universe, Would, Other, Page, Very, Whatever, Many, Have, Tagomi, Form One, Dream, Evidently, Whereas, Final, Right
+**Co-occurrences**: Time, Tears, Form, Well, Golden, These, Maybe, Like, World, Only
 
 ---
 ### Line 849-857 (Match: 'However')
@@ -204,7 +204,7 @@ Each new child enjoys his sandbox as if sandboxes were first new and had never p
 
 If my world is one film then I am on film and hence immortal, like "Citizen Kane." The film can be stored and later rerun, and even other prints --and stills-- can be made. I do not joke, here.
 ```
-**Co-occurrences**: Christ, Ubik, Well, Like, World, Since, Harpax, Book, Even, Just, Once, Suppose, Reality, Being, Great, Without, Nothing, Those, More, Real, Before, True, Universe, Other, Were, Many, Have, Life, Instead, Later, Truth, Free, Until
+**Co-occurrences**: Christ, Ubik, Well, Like, World, Since
 
 ---
 ### Line 983-991 (Match: 'However')
@@ -221,7 +221,7 @@ I awoke abruptly to find myself with my Savior, and then entered Fellowship with
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Holy, Rome, Form, Sophia, Kingdom, Greek, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+**Co-occurrences**: Sophia, Time, Firebright, Anamnesis, Christ, Ubik, Holy, Rome, Form, Kingdom, Greek, Maze, Father, Like, Because, Only
 
 ---
 ### Line 1000-1008 (Match: 'However')
@@ -238,7 +238,7 @@ Nurturing. I am not, rather than merely being nurtured (by the Earth, etc.) but 
 
 The "receiving of the Holy Spirit" at Pentercost, in Acts, probably is this reception to the pineal body by this different light. What travels to the brain itself is only a by-product "Aurora" display.
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Christianity, Holy Spirit, Father, Like, Since, Because, Only, Earth, Harpax, After, Mind, Light, Gospel, Firebright, Does, Anyhow, Again, Both, Being, Himself, Probably, Grace, Brain, Part, Their, More, Actually, Certainly, Before, Mother, True, Would, Other, Were, Many, Things, Absolute, Body, God Himself, Today, Doesn, Final
+**Co-occurrences**: Firebright, Decoded, Acts, Spirit, Holy, Christianity, Holy Spirit, Father, Like, Since, Because, Only, Earth
 
 ---
 ### Line 1014-1022 (Match: 'However')
@@ -255,7 +255,7 @@ Last edit over 5 years ago by Harpax
 69
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Jesus, Form, Well, Roman, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Certainly, Before, Doris, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Information, Except, Dead, Today, Otherwise, Human, Doesn, Right
+**Co-occurrences**: Time, Information, Christ, Spirit, Jesus, Form, Well, Roman, These, Father, Since, Because, Only
 
 ---
 ### Line 1022-1030 (Match: 'However')
@@ -272,7 +272,7 @@ In reconciling this with Christianity, I was restored. To the former state I had
 
 Is it food for a seed already there? A seed which was never germinated? Been fed? ("Your ancestors ate manna in the desert and they are all dead; I give you bread of eternal life." This implies it is more a kind of food in the sunlight, packets of nourishment. But I think the mystery has to do with what I experienced as suddenly being back 2000 years in Rome, being in another space-time. It shows that we do not understand the nature of time. If a new seed, from without, were implanted, why (like Empedocles) would we remember? But we do. Here, we're dealing with the "divine spark," like that which is in us because our ancestors, the Titans, ate the infant Zagreus. The divine spark is the same as the logos spermatika. The spark or seed, being an immortal being, is not subject to time. The kind of transtemporal experience which I had is impossible to a being which is mortal and hence subject to time; as the Brit 3 says, mortality and being in thrall to time are identical. If a spermos logos were implanted from without, and then fed, I think the person would suddenly find himself no longer bounded by time (and also not bounded by space, but this would be a lesser release). It is time which grinds down and brings death. The divine seed being immortal would transcend time, and what I experienced (because of the nature of time, which is not known to me) would be the sort of natural result of the sudden release from thrall to it. I would imagine a time dysfunction; actually, it would more accurately be that I had become an entity not bound by time. I would think, "Something is wrong with time; I am no longer in Fullerton in 1974 but 2000 years back in the past, in Rom[e]." The change, though, was in me. No one else felt anything, anamnesis, recovery of memory, is a projection (in the Jungian sense) outward, upon the person receiving immortality (i.e. freedom from the thrall of time). THIS WOULD EXPLAIN WHY THERE ARE NO INTERVENING MEMORIES, AND WHY I KNEW IT WASN'T A REINCARNATION TYPE MEMORY, OF A FORMER LIFE. THAT I ONCE HAD BEEN IN ROME CIRCA 70 AD AND SUDDENLY REMEMBERED IT. Rome and Fullerton were fused, as if the element of time were withdrawn. I didn't remember; I was there. (At two points, A and B simultaneously; vide Dr NK's "universe projected from a single point," etc. This can't be understood unless time is understood. We are freed -- from what? What is time?
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Parousia, Elijah, Father, Like, Fall, Because, Time, After, Something, Once, Adam, Again, Zagreus, Being, Empedocles, Divine, Himself, Anamnesis, Without, More, Another, Upon, Actually, Fullerton, Certainly, Death, Universe, Would, Were, Back, Things, Life, Memory, Freedom, Jungian, Having, Remember, Unless, Dead, Suddenly, Mary
+**Co-occurrences**: Time, Anamnesis, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Parousia, Elijah, Father, Like, Fall, Because
 
 ---
 ### Line 1140-1148 (Match: 'However')
@@ -289,7 +289,7 @@ The transmission of the Light Creatures was somehow inturrupted (by accident, be
 
 Eyes of newborn babies: mercury drop. Also, dream of grape-colored cube: yogert, fruit, eternal. We must remember: old age is a disease; we are sick, not self-renewing, like yogert (it's a symbol, in dream, of renewal). The bichloride: to restore (i.e. project) new sight. However psychological, though, this is still what Christ taught us; it is still the arrival of God's Kingship (within).
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Sophia, King, Roman, Elijah, Father, Maybe, Like, World, Only, Time, After, Light, Even, Firebright, Okay, Look, Once, Again, Both, Zagreus, Being, March, Runciter, Self, Santa, Chrissy, Those, Still, More, Another, Through, Orphism, Actually, Santa Sophia, Will, Calvin, Would, Somehow, Kingship, Were, Back, Whatever, Life, Justice, Spring, Wise, Testament, Passover, Remember, Truth, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, King, Roman, Elijah, Father, Maybe, Like, World, Only
 
 ---
 ### Line 1144-1152 (Match: 'However')
@@ -306,7 +306,7 @@ Last edit over 5 years ago by Harpax
 80
 Needs Review
 ```
-**Co-occurrences**: Christ, Jesus, Roman, Maybe, Like, World, Time, Harpax, After, Light, Even, Once, Again, Being, Self, Chrissy, Still, More, Orphism, Somehow, Kingship, Were, Whatever, Testament, Remember, Dream
+**Co-occurrences**: Time, Christ, Jesus, Roman, Maybe, Like, World
 
 ---
 ### Line 1156-1164 (Match: 'However')
@@ -323,7 +323,7 @@ Last edit over 5 years ago by Harpax
 
 81
 ```
-**Co-occurrences**: Christ, Spirit, Logos, Sophia, Wisdom, These, Perhaps, Maybe, Since, Prison, Only, John, Earth, Harpax, Could, Anyhow, Philo, Just, Something, Again, Being, Although, Christos, Santa, Without, Nothing, Brain, Those, Part, More, Another, Heaven, Such, Certainly, Before, Consider, True, Santa Sophia, Will, Would, Other, Messiah, Were, Back, Whatever, Have, Later, Having, Knowledge, Suddenly, Dream, Free, Right, Mary
+**Co-occurrences**: Sophia, Philo, Santa Sophia, Decoded, Christ, Spirit, Logos, Wisdom, These, Perhaps, Maybe, Since, Prison, Only, John, Earth
 
 ---
 ### Line 1171-1179 (Match: 'However')
@@ -340,6 +340,6 @@ Last edit over 5 years ago by Harpax
 82
 Needs Review
 ```
-**Co-occurrences**: Logos, Rome, Plato, Wisdom, These, Perhaps, Plotinus, World, Iron, Only, Time, Platonist, Harpax, Could, Something, Both, March, Although, Dante, Platonic, Anamnesis, Nothing, Soul, Most, Consider, Universe, Would, Erasmus, Back, Many, Have, Life, Justice, Freedom, Truth, Someone
+**Co-occurrences**: Plotinus, Time, Anamnesis, Logos, Rome, Plato, Wisdom, These, Perhaps, World, Iron, Only, Platonist
 
 ---

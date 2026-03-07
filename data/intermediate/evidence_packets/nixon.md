@@ -20,7 +20,7 @@ It has happened, the Prince of this World fell.
 
 This all has been an unfolding process. A revealing or disclosing of Being.
 ```
-**Co-occurrences**: Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Time, Even, Being, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only
 
 ---
 ### Line 95-103 (Match: 'Nixon')
@@ -37,7 +37,7 @@ IX From nIXon That’s Latin for 9 IC from dICk That’s Latin for 99
 
 The universe must be read backward; so the three 9s are 666; its’ a – ohhhhhhh. The other night, “Erasmus” laughing. All the codes and number codes (a lot I haven’t told you, but hope to some day). Seeing the numbers. I saw 555555555 a “good” number.
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Time, After, Black, Good, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Dick, Fullerton, Before, Universe, Will, Would, Other, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Time, Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World
 
 ---
 ### Line 97-105 (Match: 'Nixon')
@@ -54,7 +54,7 @@ The universe must be read backward; so the three 9s are 666; its’ a – ohhhhh
 
 (Tessa just pointed out that the “d” in Latin is 500. So RMN;s number is 9-599, which just goes to show you. Oh I have it. The “d” shows that he will be destroyed in the 500th year of his reign. He did reign for 500 years; anyhow it seemed like it. Or its page 500 of my Bible, or something. Wait. You read vertically. Look above. The IX is above the IC. It’s a grid code (see “Cryptology” in Brit 3.)
 ```
-**Co-occurrences**: Tears, Kingdom, Bible, Maybe, Like, Time, After, Black, Good, Could, Anyhow, Just, Something, Look, Both, Being, Tessa, Those, Still, Wait, Zeus, Living, Dick, Fullerton, Universe, Will, Would, Other, Page, Erasmus, Back, Have, Things, Claudia, During, Final, Right
+**Co-occurrences**: Time, Tears, Kingdom, Bible, Maybe, Like
 
 ---
 ### Line 1408-1416 (Match: 'Nixon')
@@ -71,7 +71,7 @@ Last edit over 5 years ago by Harpax
 99
 Needs Review
 ```
-**Co-occurrences**: Tears, Christian, Logos, Xerox, Rome, Sophia, King, Well, Parousia, Like, World, Since, Because, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Secret, Before, True, Santa Sophia, Finally, Will, Somehow, Back, Have, Tree, Things, Justice, Freedom, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+**Co-occurrences**: Sophia, Santa Sophia, Tears, Christian, Logos, Xerox, Rome, King, Well, Parousia, Like, World, Since, Because
 
 ---
 ### Line 1441-1449 (Match: 'Nixon')
@@ -88,7 +88,7 @@ Last edit over 5 years ago by Harpax
 102
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Harpax, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+**Co-occurrences**: Plotinus, Sophia, Time, Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Like, World, Since
 
 ---
 ### Line 1552-1560 (Match: 'Nixon')
@@ -105,7 +105,7 @@ Last edit over 5 years ago by Harpax
 
 111
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, Satan, However, Lord, Like, World, Parmenides, Because, Therefore, Harpax, After, Faith, Good, Even, Could, Just, Once, Both, Reality, Zagreus, Without, Creator, Another, Most, Living, Real, Certainly, Before, Easter, Friday, Creation, Were, Under, Many, Have, Evil, Knowledge, Magic, Whereas, Right, Grail
+**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, Satan, However, Lord, Like, World, Parmenides, Because, Therefore
 
 ---
 ### Line 2059-2067 (Match: 'Nixon')
@@ -122,7 +122,7 @@ Last edit over 5 years ago by Harpax
 152
 Needs Review
 ```
-**Co-occurrences**: Parousia, Like, Time, Harpax, Light, Even, Pinky, Hebrew, Being, Moses, House, Through, Egypt, Upon, Before, Death, Finally, Will, Angel, Egyptian, Have, Judgment, Later, Days, Passover, Except, Israel, Blood, Sons, Lamb, Someone, August, White
+**Co-occurrences**: Time, Parousia, Like
 
 ---
 ### Line 2065-2073 (Match: 'Nixon')
@@ -139,7 +139,7 @@ But God ordained Passover to be an annual festival of celebration: that one was 
 
 Did I experience a re-enactment of the original pass over by the destroying angel, or an actual reoccurence of it? The latter, since Pinky did die; it was not an anamnesis celebration. This is important, to determine this; if it was only a replay --a memory thing that rolled in my head, or an enternity date outside of time, not an actual current event in our space-time world-- then the tyranny, the modern slavery equal to Egypt's, was untouched. It was only a head trip on my part. Pinky's death proves it wasn't a head trip. I had no idea he was even sick. Maybe he hadn't been. The destroying angel was there that Sunday night in our bedroom. But I suppose I could be wrong; it could have been a re-enactment, playing the role of the Paschal lamb. This, if true, would point to Pinky as already being more than a mere cat/animal, which I was convinced of anyhow; in any case, I had encountered the Deity for sure back in March, and there unfolded for me, supra, as I say, the very steps (or some of them) unfolded for Moses, ending with the final most dreadful plague, the destroying angel at the tyrant's throats, and then - FREIHEIT! As with the Israelites, their deliverance didn't take place easily or over night.
 ```
-**Co-occurrences**: Maybe, World, Since, Only, Time, Harpax, Even, Could, Pinky, Anyhow, Suppose, Being, March, Moses, Anamnesis, Part, Their, More, Egypt, Most, Real, Before, True, Death, Deity, Christopher, Would, Angel, Very, Back, Have, Memory, Passover, Blood, Lamb, Free, Final
+**Co-occurrences**: Time, Anamnesis, Maybe, World, Since, Only
 
 ---
 ### Line 2530-2538 (Match: 'Nixon')
@@ -156,7 +156,7 @@ Last edit over 5 years ago by Harpax
 
 191
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Rome, Form, Kingdom, King, Empire, Dionysos, These, Like, World, Iron, Prison, Only, Time, Harpax, After, Light, Does, Anyhow, Just, Something, Kingdom of God, Both, Being, Runciter, Without, Their, More, Through, Voice, Before, Death, Would, Hamlet, Were, Back, Surely, Have, Clearly, Life, Body, Spring, Pentheus, Instead, Days, Dead, Human, Iron Prison, Dream, Salvation
+**Co-occurrences**: Time, Christ, Tears, Ubik, Rome, Form, Kingdom, King, Empire, Dionysos, These, Like, World, Iron, Prison, Only
 
 ---
 ### Line 2547-2555 (Match: 'Nixon')
@@ -173,7 +173,7 @@ Well, the events didn't pass unnoticed; what passed unnoticed was the spiritual 
 
 Just too too close (mid March) and too too much to be coincidence. The latter half of March 74 was the precise time of the great counter-attack; it was then or never.
 ```
-**Co-occurrences**: Christianity, Form, Sophia, Kingdom, King, Well, Parousia, Wisdom, Perhaps, Maybe, Like, World, Since, Only, Time, Earth, Harpax, Good, Even, Anyhow, Just, Again, Being, March, Divine, Great, Santa, Nothing, Those, Their, More, Another, Most, Real, Such, Certainly, Secret, Before, Santa Sophia, Death, Finally, Will, Other, Very, Back, Have, Justice, Later, Knowledge, Dead, Suddenly, Salvation, Final, Someone
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christianity, Form, Kingdom, King, Well, Parousia, Wisdom, Perhaps, Maybe, Like, World, Since, Only, Earth
 
 ---
 ### Line 2549-2557 (Match: 'Nixon')
@@ -190,7 +190,7 @@ Just too too close (mid March) and too too much to be coincidence. The latter ha
 
 But my visions pointed to something beyond this world; that no matter how much this world is transformed for the better, another better world, a spiritual Unity with God remains there for us, as the ultimate goal (as for the Neoplatonists).
 ```
-**Co-occurrences**: Christianity, Form, Sophia, Kingdom, King, Well, Parousia, Wisdom, Perhaps, Maybe, Like, World, Since, Only, Time, Earth, Good, Even, Anyhow, Just, Something, Again, Being, March, Divine, Great, Santa, Nothing, Those, Their, More, Another, Most, Real, Such, Certainly, Secret, Before, Santa Sophia, Death, Finally, Will, Other, Very, Back, Beyond, Have, Justice, Later, Knowledge, Dead, Suddenly, Salvation, Final, Someone
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christianity, Form, Kingdom, King, Well, Parousia, Wisdom, Perhaps, Maybe, Like, World, Since, Only, Earth
 
 ---
 ### Line 2718-2726 (Match: 'Nixon')
@@ -207,7 +207,7 @@ Thumbs up. So as foretold, despite what happened before Christ will return - for
 
 at the time of that white light He (God) assessed it, whether he would save or destroy (or let get destroyed) the world, because of Elijah's work he acceded to redeem it - St Sophia being reborn is the instrument of that redemption [uninteligible?]
 ```
-**Co-occurrences**: Christ, Sophia, Elijah, World, Because, Time, After, Light, St Sophia, Again, Being, March, Viewed, Before, Will, Would, Whether, August, White
+**Co-occurrences**: Sophia, Time, St Sophia, Christ, Elijah, World, Because
 
 ---
 ### Line 2797-2805 (Match: 'Nixon')
@@ -224,7 +224,7 @@ Now, take what Eric was saying about the American Founding Fathers and tneir bel
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Advent, Father, Like, World, Time, Holy Wisdom, Good, Yang, Could, Joint, Just, Something, Taoism, Again, Suppose, Reality, Empedocles, Himself, Great, Bacchae, Probably, Nothing, Kathy, Their, Such, Love, Greece, Would, Other, Hamlet, Were, Back, Whatever, Evil, Remember, Cross, Dialectic, Dead, Otherwise, Dream, Lamb, Right, Answer, Until
+**Co-occurrences**: Time, Dialectic, Linear, Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Advent, Father, Like, World
 
 ---
 ### Line 2968-2976 (Match: 'Nixon')
@@ -240,7 +240,7 @@ As it was an invisible tyrannt, like in THE MARBLE CLIFFS, what was needed was t
 
 "During part of its cycle Brahmin sleeps; in part it dances. We think it is dancing now, but actually it is asleep, and therefore what we see isn't real." Maybe in 3-74 Brahmin awoke briefly (the theophany). Certainly I did see us within a great living body.
 ```
-**Co-occurrences**: Tears, Acts, Spirit, However, Maybe, Like, World, Since, Because, Therefore, Only, Time, After, Black, Buckman, Book, Even, Could, Just, Although, Great, Probably, Jason, Part, Their, More, Another, Most, Living, Real, Actually, Certainly, True, Death, Would, Other, Somehow, Very, Have, Things, Body, Later, Government, During, Dream, Until
+**Co-occurrences**: Time, Tears, Acts, Spirit, However, Maybe, Like, World, Since, Because, Therefore, Only
 
 ---
 ### Line 3041-3049 (Match: 'Nixon')
@@ -257,7 +257,7 @@ It is of note that the (1) language & (2) knowledge of 3-74 that was revealed to
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, King, Fish, Greek, Bible, Golden, Roman, Wisdom, Perhaps, Maybe, Like, World, Golden Fish, Only, John, Time, After, Holy Wisdom, Could, Once, Heraclitus, Being, Great, Bacchae, Sibyl, Dionysus, Those, Church, Star, Through, Most, Such, Before, Mother, Death, Universe, Would, Hamlet, Were, Very, Back, Many, Further, Have, Tree, Later, America, Except, Knowledge, Today, During, Human, Someone
+**Co-occurrences**: Time, Christ, Christian, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, King, Fish, Greek, Bible, Golden, Roman, Wisdom, Perhaps, Maybe, Like, World, Golden Fish, Only, John
 
 ---
 ### Line 3237-3245 (Match: 'Nixon')
@@ -274,7 +274,7 @@ Last edit almost 5 years ago by svayambhu108
 252
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Holy, Form, Kingdom, Paul, Satan, Well, Bible, Wisdom, Lord, Like, World, Parmenides, Prison, Only, Time, Faith, Garden, Good, Book, Pinky, Anyhow, Just, Look, Luke, Everything, Great, Probably, Palm, Deus, Still, Another, Such, Actually, Secret, Before, True, Irae, Universe, Will, Would, Back, Many, Have, Tree, Things, Life, Absolute, Form One, Deus Irae, Dream, Final
+**Co-occurrences**: Time, Christ, Tears, Holy, Form, Kingdom, Paul, Satan, Well, Bible, Wisdom, Lord, Like, World, Parmenides, Prison, Only
 
 ---
 ### Line 3245-3253 (Match: 'Nixon')
@@ -291,7 +291,7 @@ Last edit almost 5 years ago by svayambhu108
 253
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Spirit, Rome, Christianity, Form, King, Satan, Well, Empire, Bible, Parousia, Lord, Perhaps, Like, World, Only, Time, After, Good, Even, Could, Does, Anyhow, Soviet, Again, Self, Himself, Either, Probably, Without, Those, Through, Most, Real, Such, Secret, Before, Revelation, Death, Will, Would, Were, Very, Beyond, Further, Have, Life, Absolute, Memory, Evil, Government, Greater, Evidently, Right
+**Co-occurrences**: Time, Christ, Tears, Christian, Spirit, Rome, Christianity, Form, King, Satan, Well, Empire, Bible, Parousia, Lord, Perhaps, Like, World, Only
 
 ---
 ### Line 3286-3294 (Match: 'Nixon')
@@ -308,7 +308,7 @@ Last edit almost 5 years ago by svayambhu108
 257
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Rome, Christianity, Form, These, Perhaps, Advent, Godhead, World, Since, Because, Only, Time, After, Cosmic, Faith, Savior, Platonism, Good, Mind, Even, Just, Both, Reality, Being, Although, Self, Gods, Nothing, Their, Wait, More, Through, Flux, Actually, Revelation, Universe, Will, Would, Other, Angel, Very, Back, Many, Have, Things, Absolute
+**Co-occurrences**: Time, Linear, Christ, Christian, Spirit, Rome, Christianity, Form, These, Perhaps, Advent, Godhead, World, Since, Because, Only
 
 ---
 ### Line 3296-3304 (Match: 'Nixon')
@@ -325,7 +325,7 @@ Last edit almost 5 years ago by svayambhu108
 258
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Rome, Christianity, Form, Satan, Well, Empire, Roman, John, Earth, Being, Bacchae, Palm, Still, Most, Will, Justice, Freedom, Cross, Truth, During
+**Co-occurrences**: Christ, Spirit, Rome, Christianity, Form, Satan, Well, Empire, Roman, John, Earth
 
 ---
 ### Line 3314-3322 (Match: 'Nixon')
@@ -342,6 +342,6 @@ I remember the exact second when I personally felt the oppres¬ sion lift. It wa
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Ubik, Spirit, Xerox, Rome, Form, Satan, Well, Bible, Parousia, Wisdom, Perhaps, Maybe, Like, Since, Because, Only, Time, After, Mind, Even, Could, Anyhow, Just, Look, Once, Again, Teilhard, Being, March, Platonic, Either, Great, Without, Still, More, Church, Another, Through, Heaven, Real, Fullerton, Before, Universe, Finally, Were, Very, Back, Whatever, Under, Have, Things, Memory, Instead, Remember, Government, Someone, August
+**Co-occurrences**: Time, Christ, Ubik, Spirit, Xerox, Rome, Form, Satan, Well, Bible, Parousia, Wisdom, Perhaps, Maybe, Like, Since, Because, Only
 
 ---

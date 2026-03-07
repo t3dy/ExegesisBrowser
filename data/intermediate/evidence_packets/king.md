@@ -20,7 +20,7 @@ Time didn't reach its completion as an entelechy does; it was pierced -- breache
 
 Yes, I see -- that rat was the instrument of saving me; I died with it, and I prayed for it when I killed it; and it's been transformed...in Rog's story, the rat operated a humanoid robot, an android; it could manage to say, "Mama" and "papa" and could recognize the two people who were testing it, the android. It worked pedals. When the boys removed it, it was trying to work the pedals, now gone, and Rog said, It was as if it were praying. I'm sorry, poor rat; Rog is dead; the rat is dead, and I must stop typing or Tessa will get me.
 ```
-**Co-occurrences**: Tears, Parousia, World, Time, Could, Does, Just, Being, March, Great, Tessa, Part, Through, Dick, Before, Death, Will, Christopher, Were, Under, Things, Dead, Dream, Final, White
+**Co-occurrences**: Time, Linear, Tears, Parousia, World
 
 ---
 ### Line 117-125 (Match: 'King')
@@ -37,7 +37,7 @@ The drawing your parent an archetype
 
 The mind receives so well during young childhood. It was wonderful, enchantment, when things spoke, pictures and bugs. Well, God spoke through them via, by means of, them. Utilized them as conduits of resemblances; there we encountered the Queen, the King – and the pieces of the chessboard. I realized the other night, And now, that Christopher is born, I am the wise old king. I will never find him; I can only become him. Bummer. Sad. But I looked at my great arms (I have great arms) and I thought, One must eventually become ones own parent.
 ```
-**Co-occurrences**: Fish, Well, Maybe, Like, World, Only, Time, Savior, Mind, Book, Could, Being, Great, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Will, Christopher, Other, Under, Have, Things, Body, Claudia, Wise, Later, Remember, Truth, During, Dream
+**Co-occurrences**: Time, Fish, Well, Maybe, Like, World, Only
 
 ---
 ### Line 121-129 (Match: 'King')
@@ -54,7 +54,7 @@ And the beautiful cruel queen is Tessa, of course. That story,
 
 Last edit over 5 years ago by Zebrapedia
 ```
-**Co-occurrences**: Fish, Well, Maybe, Like, Only, Savior, Mind, Book, Zebrapedia, Being, Great, Tessa, Still, Through, Living, Such, Actually, True, Death, Universe, Will, Christopher, Other, Under, Have, Things, Body, Claudia, Wise, Later, Remember, Truth, During, Dream
+**Co-occurrences**: Zebrapedia, Fish, Well, Maybe, Like, Only
 
 ---
 ### Line 131-139 (Match: 'King')
@@ -71,7 +71,7 @@ The moral of the novel was that you can be different and the King will understan
 
 Rose: “Stephen, how come I can do magic and I’m living here in Fullerton like everyone else, eating at McDonald’s and knowing Willis McNelly.”
 ```
-**Co-occurrences**: Spirit, Complete, Well, Dionysos, Like, World, Because, Only, Time, Book, Could, Does, Anyhow, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Claudia, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+**Co-occurrences**: Time, Spirit, Complete, Well, Dionysos, Like, World, Because, Only
 
 ---
 ### Line 133-141 (Match: 'King')
@@ -88,7 +88,7 @@ Rose: “Stephen, how come I can do magic and I’m living here in Fullerton lik
 
 Stephen: (MYSTEROUSLY, BUT AMUSED) “I can’t tell you yet, Rose, or Mary, or Rosemary, whaterver.” (EROTIC INTERCHANGE OF GLANCES BETWEENB THEM: SHE FALLS FOR HIM. HE IS A NEAT DUE, SHARP DRESSER, ETC. OLDER)
 ```
-**Co-occurrences**: Spirit, Well, Dionysos, Like, World, Because, Only, Time, Book, Could, Does, Anyhow, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Claudia, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+**Co-occurrences**: Time, Spirit, Well, Dionysos, Like, World, Because, Only
 
 ---
 ### Line 803-811 (Match: 'King')
@@ -104,7 +104,7 @@ That this has happened I am positive. That so little has changed shows how sligh
 
 We have a concentric-ring society, and the innermost ring has been burned off by the fire, has now been replaced by light, by God, and this is parallelled by a discernment outside, by those on the rim, that the Lord of Hosts has in fact suddenly come to his temple, announced by the messenger of the covenant whom we delight in...as Malachi put it. There was a swift arrival (mainly by Elijah), a swift victory over the darkness, a tossing down of the tyranny, and then the enormous judging and destroying power was withdrawn and replaced by an assisting and healing power. Advocacy for the weak and oppressed is no longer necessary, now that God rules. Healing (as if after a battle which was won) has been in order, and so done. Finally, the freeing of the many
 ```
-**Co-occurrences**: Jesus, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+**Co-occurrences**: Time, Jesus, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only
 
 ---
 ### Line 1136-1144 (Match: 'King')
@@ -121,7 +121,7 @@ In my dreams last night: Nick was jolted to discover that I had discerned patter
 
 But I am still in touch with him. He is, however, now in this world. I guess again (after a time dysjunction). (I.E. There was a period when he wasn't.)
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Holy Spirit, Form, Sophia, However, Elijah, Father, Maybe, Like, World, Only, Time, Harpax, After, Firebright, Okay, Look, Again, Both, Zagreus, March, Runciter, Santa, Those, Still, More, Another, Through, Actually, Santa Sophia, Will, Calvin, Would, Kingship, Back, Life, Justice, Spring, Wise, Testament, Passover, Truth, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Holy Spirit, Form, However, Elijah, Father, Maybe, Like, World, Only
 
 ---
 ### Line 1138-1146 (Match: 'King')
@@ -138,7 +138,7 @@ But I am still in touch with him. He is, however, now in this world. I guess aga
 
 The transmission of the Light Creatures was somehow inturrupted (by accident, be martyrdom, design, etc.) around 100 AD, or maybe even earlier (Jesus being the last one), so that a two thousand year breach had to be leaped to restored the Light Creatures to our world once more. This is what the New Testament is talking about, and Orphism. They are in need of us to transmit themselves, and all of us who "contained" any of them were (by the Romans!!) destroyed...hence my fear, my dreadul urgency and secrecy esp re Chrissy. Nobody else was left who knew how to receive (and harbor & shelter & incubate, whatever) a Light Creature.
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Sophia, Roman, However, Elijah, Father, Maybe, Like, World, Only, Time, After, Light, Even, Firebright, Okay, Look, Once, Again, Both, Zagreus, Being, March, Runciter, Santa, Chrissy, Those, Still, More, Another, Through, Orphism, Actually, Santa Sophia, Will, Calvin, Would, Somehow, Kingship, Were, Back, Whatever, Life, Justice, Spring, Wise, Testament, Passover, Truth, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Roman, However, Elijah, Father, Maybe, Like, World, Only
 
 ---
 ### Line 1187-1195 (Match: 'King')
@@ -155,7 +155,7 @@ Certainly during spring 74 I was personally aware of my need to survive, and tha
 
 Also, what I experienced was ad Adjustment, in terms of the palintonos, and palintropos harmonie systems. The great entity which we call God, Immanent Mind being better a term, adjusted imbalances at that time, and this started up a lot of signalling. Probably I was part of a palintropos change, an oscillation outward (expanding) with what had been in the Taoist sense "too filled up," also the Greek sense (hubris) forced back, made Yinnish, retractile; this contributed to maintaining the total palintonos harmonie of the Universe/Mind. I was made into an active (Yangish) station of that change, and felt it, felt the signals coming to me; this is what appeared to be --or was-- possession by the God or Elijah, also divine intervention (to restore harmonie). Of course this is a constant process, but usually I am not a part of it in that sense, being shifted from retractile (Yinnish) so abruptly on signals; this served the purposes of justice (to aid me) and of justice (to deal out defeat to the haughty, whoever they were). A whole subsystem in the total universe must have started firing abruptly -- just as my brain did when I took the w.s. vitamins. Where this gave me the unique chance to see that the universe is not the sum total of all the objects in it, but the laws governing it (the harmonie systems, etc.) is that: between me and my environment (read establishment) there was a severe imbalance. If no God, Immanent Mind, Unbounded or Logos existed, the restitution of equilibrium between me and this environment would have had to be brought about by one or more of the objects which fill this universe -- me, or other people, etc., or visible forces. One or more of us would have had to act deliberately to bring about equilibrium. No one did; in fact, the imbalance was pushed further and further. What acted was the Immanent Mind which carries within it (the Container of all the objects) me and everyone else including my total environment. That this realm exists is not an object of knowledge to our society; it used to be called The Gods, in the Greek sense, not in the Hebrew sense (vide all studies thereon). Well, our society, inadequately informed on what the pre-Socratics knew, and the mystery religions and other Greek thinkers knew, continues on unaware of the forces which ultimately govern.
 ```
-**Co-occurrences**: Logos, Sophia, Greek, Well, Elijah, World, Only, Time, Harpax, Mind, Firebright, Hebrew, Just, Realm, Being, Divine, Great, Gods, Probably, Taoist, Brain, Part, More, Star, Certainly, Before, Universe, Would, Other, Somehow, Were, Back, Further, Have, Life, Body, Justice, Spring, Except, Knowledge, During
+**Co-occurrences**: Sophia, Time, Firebright, Logos, Greek, Well, Elijah, World, Only
 
 ---
 ### Line 1272-1280 (Match: 'King')
@@ -172,7 +172,7 @@ I am lying in bed here and I am musing, "God can simulated the inanimate. Or rat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Holy Spirit, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+**Co-occurrences**: Time, Acts, Spirit, Holy, Holy Spirit, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison
 
 ---
 ### Line 1319-1327 (Match: 'King')
@@ -189,7 +189,7 @@ Last edit over 5 years ago by Harpax
 93
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Rome, Kingdom, Satan, Parousia, Lord, These, Advent, Elijah, Maybe, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Just, Once, Again, Reality, Being, Himself, Essene, More, Through, Most, Certainly, Death, Macro, Will, Would, Other, Mission, Somehow, Judge, Were, Very, Back, Have, Judgment, Testament, Evil, Pauline, Human, Sons, Dream, Lamb
+**Co-occurrences**: Time, Christ, Tears, Spirit, Rome, Kingdom, Satan, Parousia, Lord, These, Advent, Elijah, Maybe, Like, World, Only
 
 ---
 ### Line 1335-1343 (Match: 'King')
@@ -206,7 +206,7 @@ In reading Helen Wadell's THE DESERT FATHERS -- from her definition it is sure t
 
 I have experienced what Jesus predicted: the change from one aeon to the next; and the next is rightful kingship, an improvement, a lifting of thrall by a[n] ursurper, somehow connected with C[h]ronos, Father Time (maybe the game of dr[o]ughts is ending; vide Heraclitus: the old child God, Chronos, playing a game of draughts in defined --regulated-- moves. That is the aeon which is ending; I saw that game, too, the player and counterplayer. This fulfills what Zoroaster foresaw: the end of the two-Person game, finally, in a victory of justice, truth, regulation, for ma'at; for Form One; for Light. This is the period Jesus, Paul and John compared to birthpangs, a laboring of bring forth; the whole universe and each sorrowing man being in such labor and pain...but if he could see the issue ahead! The Christian is he thinks of this world now, with its ursurpacious rule, feels bad; if he thinks of the rightful kingdom coming, he feels good -- thinks I mean of the future. But I say, this future is materializing, rising up as if a second new archetypal aeon "slide" were being projected: springtime. We can thus being to sense it lift now and rejoice now.
 ```
-**Co-occurrences**: Tears, Christian, Jesus, Form, Kingdom, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John, Time, Harpax, Good, Light, Could, Again, Heraclitus, Being, Divine, Himself, Zoroaster, Those, Their, Most, Such, Secret, True, Universe, Finally, Will, Other, Somehow, Kingship, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+**Co-occurrences**: Time, Tears, Christian, Jesus, Form, Kingdom, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John
 
 ---
 ### Line 1363-1371 (Match: 'King')
@@ -223,7 +223,7 @@ I guess (by this metaphor, if it is a metaphor) in 3 74 I germinated, the second
 
 My whole vision of Spring and the Corn King is, then, a sort of entering a parable of Jesus', a vision of His Epiphany; it is He, then, who I saw back earlier this year: the slender beardless (nearly) king.
 ```
-**Co-occurrences**: Jesus, Light, Through, Back, Under, Spring, Sacred
+**Co-occurrences**: Jesus
 
 ---
 ### Line 1367-1375 (Match: 'King')
@@ -240,7 +240,7 @@ The other night I realized that if what I experienced was the specific miracle w
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Jesus, Well, Maybe, Only, Harpax, Light, Anyhow, Just, Although, Through, Other, Were, Back, Under, Spring, Sacred
+**Co-occurrences**: Jesus, Well, Maybe, Only
 
 ---
 ### Line 1408-1416 (Match: 'King')
@@ -257,7 +257,7 @@ Last edit over 5 years ago by Harpax
 99
 Needs Review
 ```
-**Co-occurrences**: Tears, Christian, Logos, Xerox, Rome, Sophia, Well, Parousia, Like, World, Since, Because, Nixon, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Secret, Before, True, Santa Sophia, Finally, Will, Somehow, Back, Have, Tree, Things, Justice, Freedom, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+**Co-occurrences**: Sophia, Santa Sophia, Tears, Christian, Logos, Xerox, Rome, Well, Parousia, Like, World, Since, Because, Nixon
 
 ---
 ### Line 1418-1426 (Match: 'King')
@@ -274,7 +274,7 @@ Last edit over 5 years ago by jbpjackson
 100
 Needs Review
 ```
-**Co-occurrences**: Christ, Jesus, Form, Kingdom, Gnostic, Well, Dionysos, Maybe, Like, World, Only, Time, Good, Mind, Book, Even, Just, Something, Again, Both, Being, Obviously, Platonic, Bacchae, Apollo, Gods, Creator, Those, Still, Their, Real, Finally, Would, Somehow, Were, Very, Back, Many, Have, Life, Otherwise, Dream, Evidently, Right, Someone, Answer, Until
+**Co-occurrences**: Gnostic, Time, Christ, Jesus, Form, Kingdom, Well, Dionysos, Maybe, Like, World, Only
 
 ---
 ### Line 1449-1457 (Match: 'King')
@@ -291,7 +291,7 @@ Small short insight: the wise old king on horseback seen in my TEARS dream -- it
 
 All the trillions of written pages I've seen in sleep...I'm sure they're equivalent to the spoken answers I heard in my head in my high school physics class (where I was awake and so couldn't dream). This is information of the highest kind, from the ultimate source: the S[p]irit of Truth, as Jesus explained it. "Who sweeps out and knows even the heart of the Father." Mainly it gave me absolutely correct information (and insight) plus the zeal to put into action Handlungstreie based on that knowledge. Also, it seems likely that my preview of Fullerton (dream for 8 hours while awake back in 1971 of "Mexico") plus the TEARS dream, both of which had permanent effects on me, came from this source; there has been one source throughout and I think this is the historic name for it, and historic promise. Here are 4 examples of absolute for sure intervention. Maybe there have been others I never was
 ```
-**Co-occurrences**: Tears, Jesus, Form, Father, Maybe, John, Earth, After, Good, Even, Both, Everything, Without, Still, Part, More, Another, Most, Such, Voice, Fullerton, Finally, Will, Other, Very, Back, Have, Things, Life, Absolute, Information, Wise, Later, Knowledge, Truth, Suddenly, Today, Comforter, Dream, Evidently, Right, Grail
+**Co-occurrences**: Information, Tears, Jesus, Form, Father, Maybe, John, Earth
 
 ---
 ### Line 1479-1487 (Match: 'King')
@@ -308,7 +308,7 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 . . . I had an initial complex insight today that it is just as easy to think of the future pushing the present into the past as to think of the past generating the present and moving toward the future;
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, Fish, Empire, Elijah, Father, Maybe, Iron, John, Time, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Phil, Gold, Such, Voice, Secret, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Dialectic, Truth, Today, Evidently
+**Co-occurrences**: Time, Anamnesis, Phil, Dialectic, Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, Fish, Empire, Elijah, Father, Maybe, Iron, John
 
 ---
 ### Line 1481-1489 (Match: 'King')
@@ -325,7 +325,7 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, Fish, Empire, Elijah, Father, Maybe, Iron, John, Time, Harpax, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Phil, Gold, Such, Voice, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Truth, Today, Evidently
+**Co-occurrences**: Time, Anamnesis, Phil, Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, Fish, Empire, Elijah, Father, Maybe, Iron, John
 
 ---
 ### Line 1654-1662 (Match: 'King')
@@ -342,6 +342,6 @@ But this year (2 75) -- maybe now I am seeing the Son more, the dythramb dancing
 
 Since I was aware of the total entity (Immanent Mind) perhaps it was the total entity (Immanent Mind or God) who assisted me.
 ```
-**Co-occurrences**: Tears, Christian, Spirit, Lord, These, Perhaps, Elijah, Maybe, Like, Since, Because, Mind, Anyhow, Everything, More, Another, Universe, Would, Back, Wise, Testament, Having, Dream, Right, White
+**Co-occurrences**: Tears, Christian, Spirit, Lord, These, Perhaps, Elijah, Maybe, Like, Since, Because
 
 ---

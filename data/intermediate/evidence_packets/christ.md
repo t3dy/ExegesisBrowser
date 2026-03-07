@@ -20,7 +20,7 @@ It has happened, the Prince of this World fell.
 
 This all has been an unfolding process. A revealing or disclosing of Being.
 ```
-**Co-occurrences**: Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Time, Nixon, Even, Being, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Nixon
 
 ---
 ### Line 62-70 (Match: 'Christ')
@@ -37,7 +37,7 @@ Last edit almost 3 years ago by jhordan
 4
 Complete
 ```
-**Co-occurrences**: Logos, Complete, Rome, Well, These, Elijah, Like, Iron, Time, Just, Look, Being, March, More, Real, Upon, Universe, Creation
+**Co-occurrences**: Time, Linear, Logos, Complete, Rome, Well, These, Elijah, Like, Iron
 
 ---
 ### Line 304-312 (Match: 'Christ')
@@ -54,7 +54,7 @@ In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: hi
 
 When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
 ```
-**Co-occurrences**: Thomas, Form, Well, However, Dionysos, Perhaps, Like, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Claudia, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Thomas, Time, Form, Well, However, Dionysos, Perhaps, Like, Since, Therefore, Only
 
 ---
 ### Line 347-355 (Match: 'Christ')
@@ -71,7 +71,7 @@ In March it took me over totally; I was a spectator to my dream in waking life, 
 
 If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
 ```
-**Co-occurrences**: Logos, Jesus, Complete, Paul, These, Because, Only, After, Could, Does, Again, Zagreus, March, Runciter, Probably, Those, More, Another, Living, Real, Voice, Death, Will, Deity, Would, Were, Have, Tree, Life, Claudia, Testament, Dream
+**Co-occurrences**: Logos, Jesus, Complete, Paul, These, Because, Only
 
 ---
 ### Line 414-422 (Match: 'Christ')
@@ -87,7 +87,7 @@ That the Final Days should be in fact a springing up into full life, complete li
 
 From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
 ```
-**Co-occurrences**: Complete, Paul, Well, Dionysos, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+**Co-occurrences**: Time, Complete, Paul, Well, Dionysos, These, Perhaps, Only
 
 ---
 ### Line 527-535 (Match: 'Christ')
@@ -104,7 +104,7 @@ Last edit almost 3 years ago by twsullivan
 33
 Complete
 ```
-**Co-occurrences**: Christian, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Iron, Prison, Time, Earth, After, Even, Could, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christian, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Iron, Prison, Earth
 
 ---
 ### Line 567-575 (Match: 'Christ')
@@ -121,7 +121,7 @@ Isn't this what the Christian fish sign is supposed to do? Representing Christ, 
 
 He corrected that error. (In my case -- and how many others has He freed? And how long had this freeing been going on? Is this the Parousia?????)
 ```
-**Co-occurrences**: Christian, Logos, Form, Fish, Parousia, Perhaps, Father, World, Because, Therefore, Time, Savior, Does, Something, Reality, Girl, Nothing, More, Through, Were, Very, Back, Many, Freedom
+**Co-occurrences**: Time, Christian, Logos, Form, Fish, Parousia, Perhaps, Father, World, Because, Therefore
 
 ---
 ### Line 590-598 (Match: 'Christ')
@@ -138,7 +138,7 @@ Last edit over 5 years ago by Harpax
 37
 Needs Review
 ```
-**Co-occurrences**: Dionysos, Lord, These, Only, Time, Harpax, After, Even, Zagreus, Nothing, Kathy, Those, Their, More, Most, True, Will, Would, Have, Clearly, Life, Government, Suddenly, Dream
+**Co-occurrences**: Time, Dionysos, Lord, These, Only
 
 ---
 ### Line 736-744 (Match: 'Christ')
@@ -154,7 +154,7 @@ Dr. NK: "Time enters material systems." Maybe our dreams are time, as energy whi
 
 We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one of the RUs, one of the sources. This is very strange (paradigm is FLOW MY TEARS, in which 3 separate superimposed but somewhat different universes are lived in between first and final page of pt 1 to 3. How is this overlap achieved? How does one exit from one and into another? Who manages all this? Why?
 ```
-**Co-occurrences**: Tears, Complete, Form, Kingdom, Paul, Lord, Maybe, Only, Time, Harpax, Light, Does, Christos, Those, Still, Another, Universe, Will, Would, Page, Kingship, Very, Back, Info, Whether, Evidently, Whereas, Final
+**Co-occurrences**: Time, Tears, Complete, Form, Kingdom, Paul, Lord, Maybe, Only
 
 ---
 ### Line 839-847 (Match: 'Christ')
@@ -171,7 +171,7 @@ I am a child trying to understand adult concepts.
 
 As in FROLIX 8 -- the change rushes across the world, the way I saw the black band rush across the sky on Good Friday: the band that joined the old universe with the new...and in that instant as I and Laura watched, I understood that we were on film, on a loop. This 3 - hour strip rushing at so high a speed -- it tied the two ends together. And started the sequence anew. Thus, back in 1962, my first mystic (sic) understanding of Easter, and of the Death on Christ, the dead god -- in the bonds of dear "Christ lag in Todesbanded," etc. I saw it then. What I saw then was real and I knew it then to be real; what I experienced in 1974, which was maybe 12 year later -- at the same time of year...it was real, too. We can maybe resolve this when we ask, Then you play your LP of Beethoven's 7th symphony, is it a different performance each time? Does von Karajan repeat it? One hears it again and again, but it is the same: like the archetype, printing out: the die stamping. What we hear is the "print."
 ```
-**Co-occurrences**: Jesus, Paul, Parousia, Lord, Perhaps, Maybe, Like, World, Since, Because, John, Time, Black, Good, Light, Does, Just, Once, Again, Both, Kosmos, Being, March, Everything, Divine, Frolix, Viewed, Beethoven, Still, Living, Real, Such, Laura, Love, Consider, True, Easter, Death, Universe, Will, Friday, Other, Were, Very, Back, Have, Judgment, Later, Whether, Cross, Dead, Suddenly
+**Co-occurrences**: Time, Jesus, Paul, Parousia, Lord, Perhaps, Maybe, Like, World, Since, Because, John
 
 ---
 ### Line 843-851 (Match: 'Christ')
@@ -188,7 +188,7 @@ Last edit over 5 years ago by Harpax
 55
 Needs Review
 ```
-**Co-occurrences**: Maybe, Like, World, Time, Harpax, Black, Good, Does, Just, Once, Again, Both, March, Frolix, Beethoven, Still, Real, Laura, Consider, True, Easter, Death, Universe, Will, Friday, Were, Back, Later, Cross, Dead
+**Co-occurrences**: Time, Maybe, Like, World
 
 ---
 ### Line 849-857 (Match: 'Christ')
@@ -205,7 +205,7 @@ Each new child enjoys his sandbox as if sandboxes were first new and had never p
 
 If my world is one film then I am on film and hence immortal, like "Citizen Kane." The film can be stored and later rerun, and even other prints --and stills-- can be made. I do not joke, here.
 ```
-**Co-occurrences**: Ubik, Well, However, Like, World, Since, Harpax, Book, Even, Just, Once, Suppose, Reality, Being, Great, Without, Nothing, Those, More, Real, Before, True, Universe, Other, Were, Many, Have, Life, Instead, Later, Truth, Free, Until
+**Co-occurrences**: Ubik, Well, However, Like, World, Since
 
 ---
 ### Line 906-914 (Match: 'Christ')
@@ -222,7 +222,7 @@ Last edit over 5 years ago by Harpax
 60
 Needs Review
 ```
-**Co-occurrences**: Complete, Form, Maybe, Like, World, Parmenides, Because, Only, Harpax, Good, Even, Gestalt, Could, Just, March, Either, Probably, Tessa, Creator, Kathy, Those, Still, Dokos, More, Another, Such, Universe, Finally, Will, Would, Were, Many, Have, Life, Dream, Lamb, Final
+**Co-occurrences**: Complete, Form, Maybe, Like, World, Parmenides, Because, Only
 
 ---
 ### Line 912-920 (Match: 'Christ')
@@ -239,7 +239,7 @@ NB: The difference between Ghosticism and Neoplatonism is basically that (one) t
 
 . . I finally tied it all up: the phosphene graphics were exactly like the Auroras. Probably I thought of this already, but the significance escaped me. Pattern or blueprint -- the Logos. The Aurora is energy, in the ionosphere, is plasmic, and is involved with solar flares: is radiation. It acted as a cathode ray tube with my optic nerve as screen.
 ```
-**Co-occurrences**: Logos, Gnostic, Plotinus, Maybe, Like, Since, Fall, Harpax, Could, Something, Probably, Grace, Those, Still, Universe, Finally, Will, Creation, Were, Have, Whereas, Final
+**Co-occurrences**: Plotinus, Gnostic, Logos, Maybe, Like, Since, Fall
 
 ---
 ### Line 975-983 (Match: 'Christ')
@@ -256,7 +256,7 @@ What is involved is a restoring, a new life which is the igniting by means of th
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christian, Logos, Rome, Fish, Bible, Roman, Advent, Maybe, Like, World, Because, Therefore, Only, Time, Harpax, Savior, Does, Just, Look, Both, Being, Although, Everything, Platonic, Probably, Those, Part, More, Fullerton, Secret, Before, Christopher, Would, Other, Were, Very, Back, Life, Body, Days, Knowledge, Cross, Evidently, Someone, Answer, Until
+**Co-occurrences**: Time, Christian, Logos, Rome, Fish, Bible, Roman, Advent, Maybe, Like, World, Because, Therefore, Only
 
 ---
 ### Line 983-991 (Match: 'Christ')
@@ -273,7 +273,7 @@ I awoke abruptly to find myself with my Savior, and then entered Fellowship with
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Ubik, Holy, Rome, Form, Sophia, Kingdom, Greek, However, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+**Co-occurrences**: Sophia, Time, Firebright, Anamnesis, Ubik, Holy, Rome, Form, Kingdom, Greek, However, Maze, Father, Like, Because, Only
 
 ---
 ### Line 990-998 (Match: 'Christ')
@@ -289,7 +289,7 @@ Not the physical sun that day had done out (had it, as in an eclipse, I wouldn't
 
 But more: what Laura and I saw must have been what Jesus himself, on the cross, saw: the Other Sun had gone out (time dysfunction). We saw what we saw. And He died, because of that darkness. When Laura and I saw that certainly not Laura and not me either could have understood the significance of what we saw; I mean, this is not faked, because for us to see that rushing band of darkness, and lacking on back our parts the highly sophisticated knowledge I now have, we did not see it because we "expected" to see it. That was around 1962. It has taken 13 or so years for me to understand what that meant, which certifies to the genuineness of the experience. Then indeed, as related in the Bible, the sun did go out that day on Calvery. The sun went out. Then, as in 1962. This proves the connection between Christ or anyhow Christ's power or origin and the sun, as stated in the "Decoded." I am witness to what must consist of a valid (scientifically valid) proof of this. And, just as Isa had the book dream and healing dream here, Laura was witness with me then. In each case a daughter of mine was witness, without comprehension ("a little child shall lead them," because it can't fake it).
 ```
-**Co-occurrences**: Holy, Jesus, Well, Bible, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Certainly, Doris, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+**Co-occurrences**: Time, Decoded, Holy, Jesus, Well, Bible, Maybe, Because
 
 ---
 ### Line 994-1002 (Match: 'Christ')
@@ -306,7 +306,7 @@ Last edit over 5 years ago by Harpax
 67
 Needs Review
 ```
-**Co-occurrences**: Holy, Jesus, Well, Bible, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Certainly, Doris, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+**Co-occurrences**: Time, Decoded, Holy, Jesus, Well, Bible, Maybe, Because
 
 ---
 ### Line 1012-1020 (Match: 'Christ')
@@ -323,7 +323,7 @@ It doesn't seem to me that it's just speculation that it was my pineal gland to 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Certainly, Before, Doris, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Information, Except, Dead, Today, Otherwise, Human, Doesn, Right
+**Co-occurrences**: Time, Information, Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only
 
 ---
 ### Line 1014-1022 (Match: 'Christ')
@@ -340,6 +340,6 @@ Last edit over 5 years ago by Harpax
 69
 Needs Review
 ```
-**Co-occurrences**: Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Certainly, Before, Doris, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Information, Except, Dead, Today, Otherwise, Human, Doesn, Right
+**Co-occurrences**: Time, Information, Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only
 
 ---

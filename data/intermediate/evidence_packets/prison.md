@@ -20,7 +20,7 @@ Last edit almost 3 years ago by twsullivan
 33
 Complete
 ```
-**Co-occurrences**: Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Iron, Time, Earth, After, Even, Could, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Iron, Earth
 
 ---
 ### Line 813-821 (Match: 'Prison')
@@ -37,7 +37,7 @@ Or, more accurately, at one time the plant or organization had been well-run and
 
 Elijah, coming immediately before God, played a multiple role: he refined those whom God wished to save rather than destroy -- i.e. he got them into a fit condition so they would pass muster. I guess it's a form of tipping off those kids you wanted tipped off that you're about to reappear and check out everyone. You send a messenger in advance who
 ```
-**Co-occurrences**: Form, Well, Lord, These, Perhaps, Elijah, Father, Like, Since, Only, Time, Harpax, After, Even, Could, Just, Look, Once, Reality, Being, Although, Everything, Great, House, Without, Those, Their, Wait, More, Most, Before, True, Messenger, Death, Finally, Will, Would, Were, Back, Beyond, Under, Many, Have, Journey, Judgment, Life, Dark, Suddenly, Human, Evidently, Free
+**Co-occurrences**: Time, Form, Well, Lord, These, Perhaps, Elijah, Father, Like, Since, Only
 
 ---
 ### Line 1154-1162 (Match: 'Prison')
@@ -54,7 +54,7 @@ I just had a thought: when the words came to me, "Santa Sophia is going to be re
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Logos, Form, Sophia, Fish, However, Wisdom, These, Perhaps, Father, Maybe, Like, Since, Only, John, Earth, Harpax, Good, Light, Firebright, Could, Anyhow, Philo, Just, Something, Again, Being, Although, Christos, Santa, Without, Tessa, Nothing, Brain, Those, Part, More, Another, Through, Heaven, Such, Certainly, Before, Mother, Consider, True, Santa Sophia, Will, Deity, Would, Other, Messiah, Were, Back, Whatever, Have, Body, Later, Having, Knowledge, Suddenly, Human, Dream, Free, Right, Mary
+**Co-occurrences**: Sophia, Firebright, Philo, Santa Sophia, Decoded, Christ, Spirit, Logos, Form, Fish, However, Wisdom, These, Perhaps, Father, Maybe, Like, Since, Only, John, Earth
 
 ---
 ### Line 1272-1280 (Match: 'Prison')
@@ -71,7 +71,7 @@ I am lying in bed here and I am musing, "God can simulated the inanimate. Or rat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+**Co-occurrences**: Time, Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because
 
 ---
 ### Line 1967-1975 (Match: 'Prison')
@@ -88,7 +88,7 @@ Last edit over 5 years ago by Harpax
 144
 Needs Review
 ```
-**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Empire, Roman, World, Fall, Because, Only, Earth, Harpax, House, Sibyl, Those, Still, Their, Heaven, Real, Actually, Secret, Would, Other, Have, Evil, Government, Suddenly, Dream, Until
+**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Empire, Roman, World, Fall, Because, Only, Earth
 
 ---
 ### Line 2187-2195 (Match: 'Prison')
@@ -105,7 +105,7 @@ The core tubes are at right angles to the prison walls. They are possibl[y] very
 
 . . . In the dream, James-James is amazingly like a magician, who is dazzling us with his act. What kind of Creator is this? Certainly the
 ```
-**Co-occurrences**: Form, Sophia, Plato, Well, These, Perhaps, Maybe, James, Like, World, Only, Time, After, Light, Anyhow, Something, Both, Self, Himself, Great, Creator, Still, Their, Through, Real, Certainly, Secret, Will, Other, Were, Very, Beyond, Many, Have, Tree, Life, Fake, Information, Neither, Knowledge, Dead, Dream, Free, Right
+**Co-occurrences**: Sophia, Time, Information, Form, Plato, Well, These, Perhaps, Maybe, James, Like, World, Only
 
 ---
 ### Line 2189-2197 (Match: 'Prison')
@@ -122,7 +122,7 @@ The core tubes are at right angles to the prison walls. They are possibl[y] very
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Form, Sophia, Well, These, Perhaps, Maybe, James, Like, Only, Time, Harpax, Light, Anyhow, Something, Great, Creator, Still, Their, Through, Certainly, Secret, Will, Were, Very, Many, Have, Life, Information, Neither, Dream, Free, Right
+**Co-occurrences**: Sophia, Time, Information, Form, Well, These, Perhaps, Maybe, James, Like, Only
 
 ---
 ### Line 2530-2538 (Match: 'Prison')
@@ -139,7 +139,7 @@ Last edit over 5 years ago by Harpax
 
 191
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Rome, Form, Kingdom, King, Empire, Dionysos, These, Like, World, Iron, Only, Time, Nixon, Harpax, After, Light, Does, Anyhow, Just, Something, Kingdom of God, Both, Being, Runciter, Without, Their, More, Through, Voice, Before, Death, Would, Hamlet, Were, Back, Surely, Have, Clearly, Life, Body, Spring, Pentheus, Instead, Days, Dead, Human, Iron Prison, Dream, Salvation
+**Co-occurrences**: Time, Christ, Tears, Ubik, Rome, Form, Kingdom, King, Empire, Dionysos, These, Like, World, Iron, Only, Nixon
 
 ---
 ### Line 2866-2874 (Match: 'Prison')
@@ -156,7 +156,7 @@ Reason I couldn't figure this out for one whole year is fear. Everything is drea
 
 -- Watch also [meant?]: time of the essence: urgen[cy?] placed in breast pocket, [means?] heart or heart attack or attack or death; anyhow ticking aaway, like bomb.
 ```
-**Co-occurrences**: Xerox, Like, John, Time, Anyhow, Again, Everything, House, Death, Somehow, Fake, Dream
+**Co-occurrences**: Time, Xerox, Like, John
 
 ---
 ### Line 3226-3234 (Match: 'Prison')
@@ -173,7 +173,7 @@ Last edit almost 5 years ago by svayambhu108
 
 251
 ```
-**Co-occurrences**: Christ, King, Satan, Well, Parousia, Lord, These, Father, Like, World, Since, Only, John, Time, Faith, Good, Book, Light, Even, Could, Pinky, Just, Being, Daniel, Nothing, Those, Part, Their, More, Another, Through, Heaven, Such, Mother, Death, Will, Would, Angel, Were, Very, Back, Have, Judgment, Absolute, Whether, Evil, Suddenly, Greater, Otherwise, Human, Right, White
+**Co-occurrences**: Time, Christ, King, Satan, Well, Parousia, Lord, These, Father, Like, World, Since, Only, John
 
 ---
 ### Line 3237-3245 (Match: 'Prison')
@@ -190,7 +190,7 @@ Last edit almost 5 years ago by svayambhu108
 252
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Holy, Form, Kingdom, Paul, Satan, Well, Bible, Wisdom, Lord, Like, World, Parmenides, Only, Time, Nixon, Faith, Garden, Good, Book, Pinky, Anyhow, Just, Look, Luke, Everything, Great, Probably, Palm, Deus, Still, Another, Such, Actually, Secret, Before, True, Irae, Universe, Will, Would, Back, Many, Have, Tree, Things, Life, Absolute, Form One, Deus Irae, Dream, Final
+**Co-occurrences**: Time, Christ, Tears, Holy, Form, Kingdom, Paul, Satan, Well, Bible, Wisdom, Lord, Like, World, Parmenides, Only, Nixon
 
 ---
 ### Line 3357-3365 (Match: 'Prison')
@@ -207,7 +207,7 @@ Last edit almost 5 years ago by svayambhu108
 264
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Logos, Christianity, Sophia, King, Well, Empire, Parousia, Roman, Maybe, World, Since, Because, Earth, Does, Anyhow, Once, Realm, Again, Catholic, Great, Daniel, Nothing, Kathy, Their, More, Another, Through, Most, Love, Revelation, Will, Would, Other, Were, Beyond, Have, Clearly, Judgment, Life, Body, Justice, Wise, Days, Evil, Knowledge, Dream, Until
+**Co-occurrences**: Sophia, Decoded, Christ, Tears, Christian, Logos, Christianity, King, Well, Empire, Parousia, Roman, Maybe, World, Since, Because, Earth
 
 ---
 ### Line 3382-3390 (Match: 'Prison')
@@ -223,7 +223,7 @@ Last edit almost 5 years ago by svayambhu108
 267
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Sophia, Kingdom, Well, Parousia, However, These, Advent, James, World, Since, Iron, Only, John, Time, Cosmic, Garden, Cosmic Christ, Light, Even, Does, Again, Suppose, Heraclitus, Teilhard, Being, Daniel, Augustine, Probably, Palm, Nothing, Still, Through, Real, Such, Upon, Finally, Will, Would, Other, Back, Beyond, Further, Have, Tree, Clearly, Judgment, Body, Later, Dream, Whereas, Chardin, Lamb, White, Sacred
+**Co-occurrences**: Sophia, Time, Linear, Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Kingdom, Well, Parousia, However, These, Advent, James, World, Since, Iron, Only, John
 
 ---
 ### Line 3392-3400 (Match: 'Prison')
@@ -240,7 +240,7 @@ Last edit almost 5 years ago by svayambhu108
 268
 Needs Review
 ```
-**Co-occurrences**: Christ, Ubik, Logos, Jesus, Xerox, Kingdom, Parousia, These, Fall, Only, Time, Good, Even, Could, Just, Soviet, Look, Once, Realm, Again, Kingdom of God, Kosmos, Heraclitus, Being, March, Obviously, Self, Himself, Either, Anamnesis, Without, Part, Their, More, Real, Such, Upon, Certainly, Before, True, Will, Would, Other, Mission, Judge, Were, Under, Have, Clearly, Spring, Memory, Later, Today, Evidently, Final
+**Co-occurrences**: Time, Anamnesis, Christ, Ubik, Logos, Jesus, Xerox, Kingdom, Parousia, These, Fall, Only
 
 ---
 ### Line 3400-3408 (Match: 'Prison')
@@ -257,7 +257,7 @@ Last edit almost 5 years ago by svayambhu108
 269
 Needs Review
 ```
-**Co-occurrences**: Tears, Spirit, Xerox, Perhaps, Scanner, Like, World, Since, Because, Only, After, Book, Karma, Could, Just, Something, Once, Both, Everything, Probably, Deus, Without, Grace, Nothing, Part, More, Heaven, Such, Certainly, Irae, Will, Would, Other, Very, Have, Clearly, Things, Spring, Neither, Having, Except, Deus Irae, Dream, Whereas, Free
+**Co-occurrences**: Tears, Spirit, Xerox, Perhaps, Scanner, Like, World, Since, Because, Only
 
 ---
 ### Line 3410-3418 (Match: 'Prison')
@@ -274,7 +274,7 @@ Last edit almost 5 years ago by svayambhu108
 270
 Needs Review
 ```
-**Co-occurrences**: Christian, Rome, Kingdom, Satan, Empire, Bible, Parousia, Roman, These, Like, Only, John, Time, Earth, Just, Being, Great, Without, Nothing, Those, Their, More, Most, Such, Revelation, True, Angel, Back, Under, Have, Judgment, Body, Dream, Evidently, Lamb
+**Co-occurrences**: Time, Linear, Christian, Rome, Kingdom, Satan, Empire, Bible, Parousia, Roman, These, Like, Only, John, Earth
 
 ---
 ### Line 3418-3426 (Match: 'Prison')
@@ -291,7 +291,7 @@ I have the feeling that as linear times moves along, the full complement of the 
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Jesus, Rome, Form, Kingdom, Satan, Parousia, These, Like, World, Since, Because, Only, John, Time, Earth, After, Garden, Does, Anyhow, Reality, Although, Everything, Platonic, Zoroastrian, Daniel, Probably, Palm, Their, Through, Most, Real, True, Death, Will, Would, Were, Back, Meanwhile, Have, Evil, Dream, Lamb
+**Co-occurrences**: Time, Linear, Christ, Jesus, Rome, Form, Kingdom, Satan, Parousia, These, Like, World, Since, Because, Only, John, Earth
 
 ---
 ### Line 3537-3545 (Match: 'Prison')
@@ -308,7 +308,7 @@ The entity transported me from what is called secular time to sacred time (or et
 
 I have wanted to write you about all this for some time; for one thing I was shown old friends, now departed, such as Nick and Tony Boucher and Jim Pike, still living on, but not separately — they had become aspects of God. Again and again I have wondered why I was picked for these revelations, but can find no answer; a Catholic priest with whom I spoke said that the Holy Spirit favors writers, but that hardly explains it; there are many writers, perhaps the severity of my
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Rome, Holy Spirit, Greek, Bible, Parousia, However, Wisdom, These, Perhaps, World, Since, Iron, Only, Time, After, Cosmic, Savior, Book, Cosmic Christ, Light, Could, Does, Again, Being, March, Catholic, Tony, Although, Himself, Bureau, Anamnesis, Creator, Still, Part, Their, Pike, Living, Heaven, Such, Jim Pike, True, Death, Universe, Will, Christopher, Would, Very, Back, Many, Have, Life, Memory, Evil, Having, Remember, Truth, During, Iron Prison, Evidently, Answer, August, Sacred
+**Co-occurrences**: Time, Anamnesis, Christ, Spirit, Holy, Logos, Rome, Holy Spirit, Greek, Bible, Parousia, However, Wisdom, These, Perhaps, World, Since, Iron, Only
 
 ---
 ### Line 3539-3547 (Match: 'Prison')
@@ -325,7 +325,7 @@ I have wanted to write you about all this for some time; for one thing I was sho
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Rome, Holy Spirit, Greek, Bible, Parousia, However, Wisdom, These, Perhaps, World, Since, Iron, Only, Time, After, Cosmic, Savior, Book, Cosmic Christ, Light, Could, Does, Again, Being, March, Catholic, Tony, Although, Himself, Bureau, Anamnesis, Creator, Still, Part, Their, Pike, Living, Heaven, Such, Jim Pike, True, Death, Universe, Will, Christopher, Would, Very, Back, Many, Have, Life, Memory, Evil, Having, Remember, Truth, During, Iron Prison, Evidently, Answer, August, Sacred
+**Co-occurrences**: Time, Anamnesis, Christ, Spirit, Holy, Logos, Rome, Holy Spirit, Greek, Bible, Parousia, However, Wisdom, These, Perhaps, World, Since, Iron, Only
 
 ---
 ### Line 3551-3559 (Match: 'Prison')
@@ -342,6 +342,6 @@ P.S. By the way — my bloodpressure is now normal for the first time in my adul
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Holy Spirit, Sophia, King, Wisdom, Lord, These, Perhaps, Father, World, Since, Fall, Iron, Only, Time, Nixon, After, Cosmic, Holy Wisdom, Good, Book, Cosmic Christ, Even, Gospel, Realm, Again, Being, Either, Probably, Creator, Still, More, Voice, Love, Before, Greece, Universe, Will, Would, Judge, Very, Have, Judgment, Life, Memory, Days, Having, During, Human, Free, Until
+**Co-occurrences**: Sophia, Time, Christ, Spirit, Holy, Logos, Holy Spirit, King, Wisdom, Lord, These, Perhaps, Father, World, Since, Fall, Iron, Only, Nixon
 
 ---

@@ -20,7 +20,7 @@ Magic equals life equals warmth equals poppies. Now, poppies are an exotic flowe
 
 Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
 ```
-**Co-occurrences**: Ubik, Indexed, However, Like, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+**Co-occurrences**: Zebrapedia, Phil, Ubik, Indexed, However, Like, Since, Because, Only
 
 ---
 ### Line 306-314 (Match: 'Perhaps')
@@ -37,7 +37,7 @@ When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas B
 
 Last edit over 5 years ago by Siegman
 ```
-**Co-occurrences**: Christ, Thomas, Form, Well, However, Dionysos, Like, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Thomas, Time, Christ, Form, Well, However, Dionysos, Like, Since, Therefore, Only
 
 ---
 ### Line 367-375 (Match: 'Perhaps')
@@ -54,7 +54,7 @@ Once I read somewhere: "We do not dream; we are dreamed." That is, someone or so
 
 I quote from page 32 in Fred Jameson's article in the same issue of SFS:
 ```
-**Co-occurrences**: Like, Only, Does, Anyhow, Something, Once, Suppose, Reality, March, Most, Heaven, Dick, Somehow, Page, Whatever, Under, Many, Have, Tagomi, Whether, Having, London, During, Dream, Someone
+**Co-occurrences**: Like, Only
 
 ---
 ### Line 369-377 (Match: 'Perhaps')
@@ -71,7 +71,7 @@ I quote from page 32 in Fred Jameson's article in the same issue of SFS:
 
 "Every reader of Dick is familiar with this nightmarish uncertainty, this reality fluctuation, sometimes accounted for by drugs, by schizophrenia, and sometimes by new SF powers, in which the psychic world as it were goes outside, and reappears in the form of simulacra or of some photographically cunning reproduction of the external."
 ```
-**Co-occurrences**: Form, Like, World, Only, Does, Anyhow, Something, Once, Suppose, Reality, March, Most, Heaven, Dick, Somehow, Page, Were, Whatever, Under, Many, Have, Tagomi, Whether, Having, London, During, Dream, Someone
+**Co-occurrences**: Form, Like, World, Only
 
 ---
 ### Line 375-383 (Match: 'Perhaps')
@@ -88,7 +88,7 @@ Last edit almost 3 years ago by twsullivan
 24
 Complete
 ```
-**Co-occurrences**: Complete, Form, World, Reality, Dick, Universe, Page, Were, Dream
+**Co-occurrences**: Complete, Form, World
 
 ---
 ### Line 385-393 (Match: 'Perhaps')
@@ -105,7 +105,7 @@ In a meaningful sense, portions of our reality extensive in time and space are f
 
 (one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, and wihtout it, there would be nothing but illusion, nothing but Maya, so to speak.
 ```
-**Co-occurrences**: Form, These, Like, World, Because, Therefore, Only, Time, After, Mind, Even, Does, Just, Both, Maya, Reality, Being, March, Although, Without, Nothing, Still, Real, True, Will, Would, Other, Back, Have, Memory, Truth, Dream
+**Co-occurrences**: Time, Form, These, Like, World, Because, Therefore, Only
 
 ---
 ### Line 414-422 (Match: 'Perhaps')
@@ -121,7 +121,7 @@ That the Final Days should be in fact a springing up into full life, complete li
 
 From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
 ```
-**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, These, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+**Co-occurrences**: Time, Christ, Complete, Paul, Well, Dionysos, These, Only
 
 ---
 ### Line 466-474 (Match: 'Perhaps')
@@ -138,7 +138,7 @@ I present you with the sort of evidence which deep within the heavy books I read
 
 In a dream I was shown that the word "Jesus" is a code, a word made up and not a name at all; those reading the text who knew (the Quamran men, for instance) would see "ZEUS" and "ZAGREUS" combined into the integer "JESUS". It is a substitution code, I think they call it. These idle games of Erasmus, however, had grown stale to me once it was revealed how I'd been taken in by my own proclivity for profundity...however, as I went to get a spelling right for this letter, I found these remarkably similar textual passages:
 ```
-**Co-occurrences**: Jesus, However, Dionysos, These, Maybe, After, Book, Once, Zagreus, March, Nothing, Those, Still, Zeus, Most, Universe, Deity, Would, Erasmus, Back, Beyond, Have, Dream, Right
+**Co-occurrences**: Jesus, However, Dionysos, These, Maybe
 
 ---
 ### Line 525-533 (Match: 'Perhaps')
@@ -155,7 +155,7 @@ It's possible that the Christian fish sign concealed these two geometric arcs, i
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Christ, Christian, Form, Fish, Well, These, Maybe, Like, World, Therefore, Iron, Prison, Time, Earth, After, Even, Could, Anyhow, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Finally, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christ, Christian, Form, Fish, Well, These, Maybe, Like, World, Therefore, Iron, Prison, Earth
 
 ---
 ### Line 551-559 (Match: 'Perhaps')
@@ -172,7 +172,7 @@ If this is so, then we must consider that for a moment Dr. Kozyrev [libereted] u
 
 See what you think: as you read his paper consider what I've told you about my experiences, and see if you don't agree that here-with may exist a theoretical possibility to account as to why I had these experiences (I am what might be [x] called "a sensitive" re time fields). Well, jeez; I am so excited. In his paper he says just about what would fit my theory (except that I think either there is a retrograde time, which he expressly denies, or temporarily he allowed a retrograde time to take place, a sort of backlash, due to his experiments; maybe he so to speak created retrograde time.
 ```
-**Co-occurrences**: Xerox, Well, These, Maybe, Time, Even, Just, March, Either, More, Consider, Universe, Would, Claudia, Information, Except
+**Co-occurrences**: Time, Information, Xerox, Well, These, Maybe
 
 ---
 ### Line 563-571 (Match: 'Perhaps')
@@ -189,7 +189,7 @@ It broke certain chains. Certain powers over me. Therefore the delusional (defor
 
 Isn't this what the Christian fish sign is supposed to do? Representing Christ, it is Christ; and this is what He does for a person, a very desperate person: He breaks that earthyl thrall. He, through his emblematic sign.
 ```
-**Co-occurrences**: Christ, Christian, Logos, Gnostic, Fish, However, These, Plotinus, World, Because, Therefore, Only, Time, Does, Reality, Being, Anamnesis, More, Through, Most, Certainly, Universe, Very, Back, Information, Freedom, Info, Human
+**Co-occurrences**: Plotinus, Gnostic, Time, Anamnesis, Information, Christ, Christian, Logos, Fish, However, These, World, Because, Therefore, Only
 
 ---
 ### Line 659-667 (Match: 'Perhaps')
@@ -206,7 +206,7 @@ This attempt, if indeed it took place, was more of a failure than a success, ina
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Ubik, Logos, Christianity, However, These, Maybe, Time, Harpax, Good, Even, Could, Does, Anyhow, Philo, Soviet, Again, Both, Being, March, Probably, Part, Their, More, Another, Such, Would, Back, Beyond, Under, Many, Have, Life, Information, Later, Knowledge, Dead, Salvation, Evidently
+**Co-occurrences**: Time, Philo, Information, Linear, Ubik, Logos, Christianity, However, These, Maybe
 
 ---
 ### Line 661-669 (Match: 'Perhaps')
@@ -223,7 +223,7 @@ Last edit over 5 years ago by Harpax
 42
 Needs Review
 ```
-**Co-occurrences**: Ubik, Logos, However, Maybe, Time, Harpax, Good, Even, Could, Does, Anyhow, Soviet, Again, Both, Being, March, Probably, Part, Their, More, Another, Such, Would, Beyond, Under, Have, Life, Information, Later, Knowledge, Dead, Salvation, Evidently
+**Co-occurrences**: Time, Information, Linear, Ubik, Logos, However, Maybe
 
 ---
 ### Line 715-723 (Match: 'Perhaps')
@@ -240,7 +240,7 @@ Last edit over 5 years ago by Harpax
 45
 Needs Review
 ```
-**Co-occurrences**: Ubik, Logos, Jesus, Well, These, Because, Time, Harpax, Mind, Even, Does, Anyhow, Just, Again, Both, Being, Self, Himself, Without, Brain, Part, More, Will, Would, Beyond, Have, Things, Information, Testament, Knowledge, Today, During
+**Co-occurrences**: Time, Information, Ubik, Logos, Jesus, Well, These, Because
 
 ---
 ### Line 721-729 (Match: 'Perhaps')
@@ -257,7 +257,7 @@ I think I've shown not just that the Logos (or Immanent Mind) might enter, could
 
 Voila! For Magdeburg jars read moist soul-dry soul (and the related external worlds). Read filters/scramblers/monism/v. FLOW MY TEARS; v. March 74. In all this, the moist-soul, dry-soul, plus any combinations (proportions) of mixture. Binomial therum A plus B all squared. How many possibilities? Two pure (one heaven, one hell), then two mixed (the middle).
 ```
-**Co-occurrences**: Tears, Logos, Like, Time, Harpax, Mind, Even, Could, Just, Being, March, Self, Soul, Most, Heaven, Would, Many, Information, Having
+**Co-occurrences**: Time, Information, Tears, Logos, Like
 
 ---
 ### Line 768-776 (Match: 'Perhaps')
@@ -274,7 +274,7 @@ James James represented ruthless creative power. But a balance is needed, both i
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Form, Well, These, Maybe, James, Like, Since, Fall, Because, Only, Time, Harpax, Good, Even, Could, Anyhow, Both, Reality, March, Although, Tessa, Nothing, Kathy, Those, Most, Such, Certainly, Before, Universe, Will, Would, Creation, Very, Back, Surely, Have, Clearly, Life, Dream, Lamb, Right, Someone
+**Co-occurrences**: Time, Form, Well, These, Maybe, James, Like, Since, Fall, Because, Only
 
 ---
 ### Line 780-788 (Match: 'Perhaps')
@@ -291,7 +291,7 @@ It's as if the merely potential (i.e. discarded at one or more critical junction
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christian, Logos, Jesus, Well, Parousia, These, James, Like, World, Since, Only, Time, Harpax, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Nothing, Still, Their, More, Church, Most, Real, Voice, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+**Co-occurrences**: Time, Linear, Christian, Logos, Jesus, Well, Parousia, These, James, Like, World, Since, Only
 
 ---
 ### Line 815-823 (Match: 'Perhaps')
@@ -308,7 +308,7 @@ Elijah, coming immediately before God, played a multiple role: he refined those 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Form, Well, Lord, These, Elijah, Father, Like, Since, Prison, Only, Time, Harpax, After, Even, Could, Just, Look, Once, Reality, Being, Although, Everything, Great, House, Without, Those, Their, Wait, More, Most, Before, True, Messenger, Death, Finally, Will, Would, Were, Back, Beyond, Under, Many, Have, Journey, Judgment, Life, Dark, Suddenly, Human, Evidently, Free
+**Co-occurrences**: Time, Form, Well, Lord, These, Elijah, Father, Like, Since, Prison, Only
 
 ---
 ### Line 837-845 (Match: 'Perhaps')
@@ -325,7 +325,7 @@ Let us consider the miracle involved. When God enters time, when he pierces our 
 
 I am a child trying to understand adult concepts.
 ```
-**Co-occurrences**: Christ, Jesus, Paul, Parousia, Lord, Maybe, World, Since, Because, John, Time, Good, Light, Does, Just, Once, Again, Both, Kosmos, Being, March, Everything, Divine, Viewed, Still, Living, Such, Love, Consider, True, Death, Will, Other, Were, Very, Back, Have, Judgment, Later, Whether, Cross, Suddenly
+**Co-occurrences**: Time, Christ, Jesus, Paul, Parousia, Lord, Maybe, World, Since, Because, John
 
 ---
 ### Line 900-908 (Match: 'Perhaps')
@@ -342,6 +342,6 @@ In terms of Parmenides basic point about appearance versus substance, you could 
 
 If we ask, "Why do I see Mickey Mouse and not Teddy Roosevelt, when I know it should be Teddy Roosevelt?" I point it that there is a piece missing and that when it is added probably the discrepincy between what you see (MM) and what you should see (TR) will be abolished, and only the Gute-Forme TR will remain. Thus, the dokos will finally lift.
 ```
-**Co-occurrences**: Complete, Form, Maybe, Like, Parmenides, Because, Only, Harpax, After, Even, Gestalt, Could, Either, Probably, Still, Dokos, More, Another, Finally, Will, Have, Final
+**Co-occurrences**: Complete, Form, Maybe, Like, Parmenides, Because, Only
 
 ---

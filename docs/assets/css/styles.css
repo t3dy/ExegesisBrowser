@@ -64,25 +64,27 @@ main {
     box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
 }
 
-/* Version: 1.0.2 - Resized Cards Grid Fix */
 #cards-grid,
 .cards-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.5rem;
 }
 
 .card {
     background: var(--card-bg);
     border: 1px solid var(--border-color);
-    padding: 1.25rem;
+    padding: 1.5rem;
     border-radius: 12px;
-    transition: transform 0.2s, border-color 0.2s;
+    transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
     display: flex;
     flex-direction: column;
     aspect-ratio: 1 / 1;
     overflow: hidden;
     position: relative;
+    text-decoration: none;
+    /* For wrapped links */
+    color: inherit;
 }
 
 .card:hover {
@@ -92,11 +94,12 @@ main {
 }
 
 .card .category {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.1em;
     color: var(--accent-color);
-    margin-bottom: 0.4rem;
+    margin-bottom: 0.5rem;
+    opacity: 0.8;
 }
 
 .card h3 {
@@ -107,25 +110,18 @@ main {
 }
 
 .card p {
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     color: var(--meta-color);
-    line-height: 1.4;
+    line-height: 1.5;
     flex-grow: 1;
     overflow: hidden;
     display: -webkit-box;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 6;
     -webkit-box-orient: vertical;
 }
 
 .portal-btn {
-    margin-top: 1.5rem;
-    text-decoration: none;
-    color: var(--accent-color);
-    font-weight: 600;
-    font-size: 0.9rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+    display: none;
 }
 
 section {

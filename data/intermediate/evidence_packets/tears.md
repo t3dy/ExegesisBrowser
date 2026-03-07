@@ -20,7 +20,7 @@ Time didn't reach its completion as an entelechy does; it was pierced -- breache
 
 Yes, I see -- that rat was the instrument of saving me; I died with it, and I prayed for it when I killed it; and it's been transformed...in Rog's story, the rat operated a humanoid robot, an android; it could manage to say, "Mama" and "papa" and could recognize the two people who were testing it, the android. It worked pedals. When the boys removed it, it was trying to work the pedals, now gone, and Rog said, It was as if it were praying. I'm sorry, poor rat; Rog is dead; the rat is dead, and I must stop typing or Tessa will get me.
 ```
-**Co-occurrences**: King, Parousia, World, Time, Could, Does, Just, Being, March, Great, Tessa, Part, Through, Dick, Before, Death, Will, Christopher, Were, Under, Things, Dead, Dream, Final, White
+**Co-occurrences**: Time, Linear, King, Parousia, World
 
 ---
 ### Line 34-42 (Match: 'Tears')
@@ -37,7 +37,7 @@ Yes, I see -- that rat was the instrument of saving me; I died with it, and I pr
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Toso, King, Parousia, Time, Could, Does, Just, Being, March, Great, Tessa, Part, Through, Dick, Before, Death, Will, Christopher, Were, Under, Things, Dead, Dream, Final, White
+**Co-occurrences**: Time, Linear, Toso, King, Parousia
 
 ---
 ### Line 46-54 (Match: 'Tears')
@@ -54,7 +54,7 @@ Synchronized with this in time were: the publishing of TEARS, with the dream; an
 
 Ruffie Rat; that's what Tessa calls herself, also without realizing how these lives live on from the past.
 ```
-**Co-occurrences**: Ubik, These, Fall, Time, Tony, Without, Tessa, Soul, Easter, Macro, Parsifal, Were, Many, Life, Blood, Dead, Dream, Salvation, Lamb
+**Co-occurrences**: Time, Ubik, These, Fall
 
 ---
 ### Line 48-56 (Match: 'Tears')
@@ -71,7 +71,7 @@ Ruffie Rat; that's what Tessa calls herself, also without realizing how these li
 
 I think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND IN THE WILLOWS, to God. ("A motorcar???")
 ```
-**Co-occurrences**: These, Like, Fall, Time, Without, Tessa, Easter, Macro, Parsifal, Were, Many, Life, Blood, Dream, Salvation, Lamb
+**Co-occurrences**: Time, These, Like, Fall
 
 ---
 ### Line 93-101 (Match: 'Tears')
@@ -87,7 +87,7 @@ Hey, I figured out (you laughed) Nixon is the best – beast.
 
 IX From nIXon That’s Latin for 9 IC from dICk That’s Latin for 99
 ```
-**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Dick, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Time, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, World, Nixon
 
 ---
 ### Line 218-226 (Match: 'Tears')
@@ -104,7 +104,7 @@ Enclosed is the piece I’ve been working my ass off for The Real World. I’m g
 
 I proofed like mad on this, as you’ll see, to cut down on your work. On author to editor grammar query; you’ll note.
 ```
-**Co-occurrences**: Like, World, Because, After, Okay, Could, Anyhow, Just, Tony, Tessa, More, Through, Real, Page, Today, Final
+**Co-occurrences**: Like, World, Because
 
 ---
 ### Line 226-234 (Match: 'Tears')
@@ -121,7 +121,7 @@ Yes, CONFESSIONS OF A CRAP ARTIST is a fine novel, and I think Paul and David kn
 
 Tessa says in her raspy way,
 ```
-**Co-occurrences**: Form, Paul, However, Like, Tessa, Will, Other, Back, Have, Electric, Dead, Dream
+**Co-occurrences**: Form, Paul, However, Like
 
 ---
 ### Line 725-733 (Match: 'Tears')
@@ -138,7 +138,7 @@ How? The "Selectric rotating ball lens filter" system.
 
 The only real explanation lies in linking Parmenides' moist versus dry soul (and the two monisoms) with the Zimmer Magedburg bell jar, or whatever. The Gnostic report on the binary (du[e]l) system: "the Unreal God and His Unreal Cosmos, a book of aspects." It doesn't exist, unless you have a moist soul. Firebright must have been what Hericlitus meant by a dry soul, a fiery soul.
 ```
-**Co-occurrences**: Logos, Gnostic, Perhaps, Like, Parmenides, Only, Time, Mind, Book, Even, Firebright, Could, Just, Being, March, Self, Soul, Most, Heaven, Real, Would, Whatever, Many, Have, Information, Having, Unless, Doesn
+**Co-occurrences**: Gnostic, Time, Firebright, Information, Logos, Perhaps, Like, Parmenides, Only
 
 ---
 ### Line 740-748 (Match: 'Tears')
@@ -155,7 +155,7 @@ For all I know, there are many more RUs than two. It could be like the Selectric
 
 However, on this Rhipidon model, 3 RUs would suffice, and still explain like my 3 lives dream (poor, like I have, rich). Also, this would equate the mid or Tao with Apollo's Golden Means, his Harmony and Balance. So our world is stabilized from dual sources, like the two-rotor system I saw, in the clock face, with the tiller. This is still the model; our universe is maintained in equilibrium, fed by the two sources; my god, this is the other interpretation of Hericlitus, of palinthropos harmonie: this is the static harmony of the strung bow, or simultaneous tension, rather than successive oscillation; see outside time --seen I guess "correctly," i.e. sub specia eternitatis-- it's the strung bow. Oh jeez. Maybe the two interpretations of Fr. 51 are themselves examples of balance and equilibrium: both are true (a[n] example of itself right there; what is true of all sentences, etc.). This is one vast great point that Hericlitus wanted us to understand, along with the fact that Form One and Two meld into each other, so that these two interpretations are themselves meldable into a single -- whatever.
 ```
-**Co-occurrences**: Christ, Complete, Form, Kingdom, Paul, Well, Golden, However, Lord, These, Maybe, Like, World, Only, Time, Light, Could, Does, Taoism, Again, Both, Great, Christos, Apollo, Those, Still, Part, More, Another, True, Universe, Will, Would, Other, Page, Kingship, Very, Back, Whatever, Many, Have, Tagomi, Info, Form One, Whether, Dream, Evidently, Whereas, Final, Right
+**Co-occurrences**: Time, Christ, Complete, Form, Kingdom, Paul, Well, Golden, However, Lord, These, Maybe, Like, World, Only
 
 ---
 ### Line 1319-1327 (Match: 'Tears')
@@ -172,7 +172,7 @@ Last edit over 5 years ago by Harpax
 93
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Rome, Kingdom, King, Satan, Parousia, Lord, These, Advent, Elijah, Maybe, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Just, Once, Again, Reality, Being, Himself, Essene, More, Through, Most, Certainly, Death, Macro, Will, Would, Other, Mission, Somehow, Judge, Were, Very, Back, Have, Judgment, Testament, Evil, Pauline, Human, Sons, Dream, Lamb
+**Co-occurrences**: Time, Christ, Spirit, Rome, Kingdom, King, Satan, Parousia, Lord, These, Advent, Elijah, Maybe, Like, World, Only
 
 ---
 ### Line 1335-1343 (Match: 'Tears')
@@ -189,7 +189,7 @@ In reading Helen Wadell's THE DESERT FATHERS -- from her definition it is sure t
 
 I have experienced what Jesus predicted: the change from one aeon to the next; and the next is rightful kingship, an improvement, a lifting of thrall by a[n] ursurper, somehow connected with C[h]ronos, Father Time (maybe the game of dr[o]ughts is ending; vide Heraclitus: the old child God, Chronos, playing a game of draughts in defined --regulated-- moves. That is the aeon which is ending; I saw that game, too, the player and counterplayer. This fulfills what Zoroaster foresaw: the end of the two-Person game, finally, in a victory of justice, truth, regulation, for ma'at; for Form One; for Light. This is the period Jesus, Paul and John compared to birthpangs, a laboring of bring forth; the whole universe and each sorrowing man being in such labor and pain...but if he could see the issue ahead! The Christian is he thinks of this world now, with its ursurpacious rule, feels bad; if he thinks of the rightful kingdom coming, he feels good -- thinks I mean of the future. But I say, this future is materializing, rising up as if a second new archetypal aeon "slide" were being projected: springtime. We can thus being to sense it lift now and rejoice now.
 ```
-**Co-occurrences**: Christian, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John, Time, Harpax, Good, Light, Could, Again, Heraclitus, Being, Divine, Himself, Zoroaster, Those, Their, Most, Such, Secret, True, Universe, Finally, Will, Other, Somehow, Kingship, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+**Co-occurrences**: Time, Christian, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John
 
 ---
 ### Line 1408-1416 (Match: 'Tears')
@@ -206,7 +206,7 @@ Last edit over 5 years ago by Harpax
 99
 Needs Review
 ```
-**Co-occurrences**: Christian, Logos, Xerox, Rome, Sophia, King, Well, Parousia, Like, World, Since, Because, Nixon, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Secret, Before, True, Santa Sophia, Finally, Will, Somehow, Back, Have, Tree, Things, Justice, Freedom, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+**Co-occurrences**: Sophia, Santa Sophia, Christian, Logos, Xerox, Rome, King, Well, Parousia, Like, World, Since, Because, Nixon
 
 ---
 ### Line 1441-1449 (Match: 'Tears')
@@ -223,7 +223,7 @@ Last edit over 5 years ago by Harpax
 102
 Needs Review
 ```
-**Co-occurrences**: Christ, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, Harpax, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+**Co-occurrences**: Plotinus, Sophia, Time, Christ, Acts, Christian, Holy, Rome, Christianity, Form, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Like, World, Since, Nixon
 
 ---
 ### Line 1449-1457 (Match: 'Tears')
@@ -240,7 +240,7 @@ Small short insight: the wise old king on horseback seen in my TEARS dream -- it
 
 All the trillions of written pages I've seen in sleep...I'm sure they're equivalent to the spoken answers I heard in my head in my high school physics class (where I was awake and so couldn't dream). This is information of the highest kind, from the ultimate source: the S[p]irit of Truth, as Jesus explained it. "Who sweeps out and knows even the heart of the Father." Mainly it gave me absolutely correct information (and insight) plus the zeal to put into action Handlungstreie based on that knowledge. Also, it seems likely that my preview of Fullerton (dream for 8 hours while awake back in 1971 of "Mexico") plus the TEARS dream, both of which had permanent effects on me, came from this source; there has been one source throughout and I think this is the historic name for it, and historic promise. Here are 4 examples of absolute for sure intervention. Maybe there have been others I never was
 ```
-**Co-occurrences**: Jesus, Form, King, Father, Maybe, John, Earth, After, Good, Even, Both, Everything, Without, Still, Part, More, Another, Most, Such, Voice, Fullerton, Finally, Will, Other, Very, Back, Have, Things, Life, Absolute, Information, Wise, Later, Knowledge, Truth, Suddenly, Today, Comforter, Dream, Evidently, Right, Grail
+**Co-occurrences**: Information, Jesus, Form, King, Father, Maybe, John, Earth
 
 ---
 ### Line 1453-1461 (Match: 'Tears')
@@ -257,7 +257,7 @@ Last edit over 5 years ago by Harpax
 103
 Needs Review
 ```
-**Co-occurrences**: Jesus, Form, King, Father, Maybe, John, Earth, Harpax, After, Even, Both, Everything, Without, Still, Part, Another, Most, Voice, Fullerton, Finally, Will, Very, Back, Have, Things, Life, Absolute, Information, Wise, Later, Knowledge, Truth, Suddenly, Today, Comforter, Dream, Evidently
+**Co-occurrences**: Information, Jesus, Form, King, Father, Maybe, John, Earth
 
 ---
 ### Line 1459-1467 (Match: 'Tears')
@@ -274,7 +274,7 @@ An analysis of TEARS shows the KKK type posse[e] which comes to kill Taverner to
 
 Maybe this is the message, the revealed message, in TEARS. There was also a message about the eternal world (outside time and space), but the space-time message is as above.
 ```
-**Co-occurrences**: Perhaps, Maybe, Like, World, Time, Harpax, After, Buckman, Even, Taverner, Does, Something, Again, House, Fate, Probably, Another, Most, Real, Such, Actually, Revelation, Mother, Death, Other, Judge, Whatever, Under, Have, Life, Information, Dream, Answer
+**Co-occurrences**: Time, Information, Perhaps, Maybe, Like, World
 
 ---
 ### Line 1461-1469 (Match: 'Tears')
@@ -291,7 +291,7 @@ Maybe this is the message, the revealed message, in TEARS. There was also a mess
 
 . . . . Today I read the JW's booklet on the Logos and God. They successfully analyze away the doctrine of the Trinity (by making use exclusively of John) and replace it with a God-Logos, or Father-Son two entity system...which, when I finished, resembled my own experiences and revelations much more than the Trinity Doctrine. What is also amazing is that virtually everything they say about the Father-Logos is right out of the concept of faith in Egypt: the heart (mind) and tongue (word) of the gods, and also the architect of the universe! It is only the names that are changed. In John, the single deity is divided into heart (God the Father who created his First Born, the Logos) and then after that the Logos created everything else. God created his son and gave him the power to give life, same as He (God) had; passed, then, from Jehova to his Son and from his Son to us, to the world. So it is the Logos or Son with whom we deal and whom we encounter; evidently He, the Logos, created our world for God. (Using the plan in God's mind, which I guess is immanent mind.) Christ, the giver of life.
 ```
-**Co-occurrences**: Christ, Logos, Perhaps, Father, Maybe, Like, World, Only, John, Time, After, Faith, Mind, Buckman, Even, Taverner, Does, Something, Again, Everything, House, Gods, Fate, Probably, More, Another, Egypt, Most, Real, Such, Actually, Revelation, Mother, Death, Universe, Deity, Other, Judge, Whatever, Under, Have, Life, Information, Trinity, Today, Dream, Evidently, Right, Answer
+**Co-occurrences**: Time, Information, Christ, Logos, Perhaps, Father, Maybe, Like, World, Only, John
 
 ---
 ### Line 1463-1471 (Match: 'Tears')
@@ -308,7 +308,7 @@ Maybe this is the message, the revealed message, in TEARS. There was also a mess
 
 Thought: back 20 pages, where Joseph Campbell says, "You can view God as being every thing or every where." If everywhere, then we have Ubik again, who is everywhere. Must see which I settled on, where or thing. Hope it was where. (Ho on: Greek for I AM, a title of God. The Logos is the agency of creation, but creation is continual, still going on; hence the Logos must still be present, guiding, giving life, informing. Moving it, us, toward the finish: the Kingdom of God, at which point -- well, creation I guess has been completed.
 ```
-**Co-occurrences**: Christ, Ubik, Logos, Kingdom, Greek, Well, Perhaps, Father, Maybe, Like, World, Only, John, Time, After, Faith, Mind, Buckman, Even, Taverner, Does, Something, Again, Kingdom of God, Being, Everything, House, Gods, Fate, Probably, Still, More, Another, Egypt, Most, Real, Such, Actually, Revelation, Mother, Death, Universe, Deity, Other, Creation, Judge, Back, Whatever, Under, Campbell, Have, Life, Information, Trinity, Joseph, Today, Dream, Evidently, Joseph Campbell, Right, Answer
+**Co-occurrences**: Time, Information, Christ, Ubik, Logos, Kingdom, Greek, Well, Perhaps, Father, Maybe, Like, World, Only, John
 
 ---
 ### Line 1540-1548 (Match: 'Tears')
@@ -325,7 +325,7 @@ evident that a tutulary god lies within, dormant maybe most of the time, but alw
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Logos, Jesus, Form, Sophia, Kingdom, Paul, Well, However, Maybe, Like, World, Time, Harpax, After, Book, Even, Gospel, Could, Does, Anyhow, Again, Kingdom of God, Both, Reality, Being, Obviously, Everything, Divine, Great, Probably, Santa, Kathy, Still, Their, Another, Through, Most, Certainly, Before, Santa Sophia, Universe, Finally, Will, Other, Were, Very, Back, Beyond, Many, Absolute, Evil, Socrates, Government, Except
+**Co-occurrences**: Sophia, Time, Santa Sophia, Logos, Jesus, Form, Kingdom, Paul, Well, However, Maybe, Like, World
 
 ---
 ### Line 1552-1560 (Match: 'Tears')
@@ -342,6 +342,6 @@ Last edit over 5 years ago by Harpax
 
 111
 ```
-**Co-occurrences**: Christ, Spirit, Logos, Complete, Xerox, Satan, However, Lord, Like, World, Parmenides, Because, Therefore, Nixon, Harpax, After, Faith, Good, Even, Could, Just, Once, Both, Reality, Zagreus, Without, Creator, Another, Most, Living, Real, Certainly, Before, Easter, Friday, Creation, Were, Under, Many, Have, Evil, Knowledge, Magic, Whereas, Right, Grail
+**Co-occurrences**: Christ, Spirit, Logos, Complete, Xerox, Satan, However, Lord, Like, World, Parmenides, Because, Therefore, Nixon
 
 ---

@@ -20,7 +20,7 @@ Last edit over 5 years ago by Harpax
 88
 Needs Review
 ```
-**Co-occurrences**: Logos, Form, Kingdom, Well, Spinoza, Maybe, World, Since, Only, Time, Harpax, Cosmic, Mind, Yang, Hebrew, Great, Gods, Viewed, Creator, Another, Egypt, Real, Voice, Certainly, Secret, Before, Death, Will, Would, Creation, Were, Very, Beyond, Under, Campbell, Things, Life, Body, India, Except, Joseph, West, Whereas, Joseph Campbell
+**Co-occurrences**: Time, Logos, Form, Kingdom, Well, Spinoza, Maybe, World, Since, Only
 
 ---
 ### Line 1475-1483 (Match: 'Dialectic')
@@ -37,7 +37,7 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 . . . I didn't enter the Kingdom of God by moving forward in time; I entered it by remembering (anamnesis). This is very important, this return in order to enter: remembering that I am or was in it already, and so hence must be new. Also, in John (I think 14:25 or 26) Jesus says that the Holy Spirit will cause "them to have remembrance of me and what I have said." The Holy Spirit brings us to Christ and hence to His Kingdom, by uniting us with him, evidently either outside of time, but anyhow remembering him. And our relationship to Him. (The Spirit of Truth discerns the future; the Holy Spirit recalls to us, teaches us, about the past.) My whole view is not that someday we will find the Kingdom but that we had it and lost it; maybe it was overthrown and the Rightful King killed, etc. "The overthrown kingdom, to be restored," as the M[M?]ission people say. That is the message. The King has returned. Once more he is here!
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, King, Maybe, John, Time, Does, Anyhow, Once, Again, Kingdom of God, Either, Anamnesis, Creator, More, Secret, Will, Would, Very, Back, Have, Truth, Evidently
+**Co-occurrences**: Time, Anamnesis, Christ, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, King, Maybe, John
 
 ---
 ### Line 2799-2807 (Match: 'Dialectic')
@@ -54,7 +54,7 @@ Last edit almost 5 years ago by svayambhu108
 214
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Advent, Father, Like, World, Time, Nixon, Holy Wisdom, Good, Yang, Could, Joint, Just, Something, Taoism, Again, Suppose, Reality, Empedocles, Himself, Great, Bacchae, Probably, Nothing, Kathy, Their, Such, Love, Greece, Would, Other, Hamlet, Were, Back, Whatever, Evil, Remember, Cross, Dead, Otherwise, Dream, Lamb, Right, Answer, Until
+**Co-occurrences**: Time, Linear, Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Advent, Father, Like, World, Nixon
 
 ---
 ### Line 2811-2819 (Match: 'Dialectic')
@@ -71,7 +71,7 @@ That there is another (eternal, i.e. outside of time, unchanging) universe (Plat
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Parmenides, Since, Only, Time, After, Gestalt, Yang, Could, Does, Hebrew, Both, Kosmos, Being, Empedocles, Although, Self, Everything, Either, Augustine, Probably, Viewed, Those, Their, Another, Real, Love, Death, Universe, Finally, Will, Would, Other, Somehow, Were, Many, Have, Clearly, Things, Life, Form One, Whether, Right
+**Co-occurrences**: Time, Linear, Entropy, Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Parmenides, Since, Only
 
 ---
 ### Line 3175-3183 (Match: 'Dialectic')
@@ -88,7 +88,7 @@ Last edit almost 5 years ago by svayambhu108
 
 246
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Sophia, Plato, Fish, Roman, Wisdom, James, World, Because, Time, After, Savior, Could, Does, Just, Look, Suppose, Both, Reality, Divine, Palm, Chrissy, Without, Grace, Still, More, Through, Most, Such, Actually, Certainly, Revelation, Universe, Would, Very, Whatever, Under, Have, Tree, Information, Later, Dream, Salvation, Final, Until, Ananke
+**Co-occurrences**: Sophia, Time, Information, Christ, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Plato, Fish, Roman, Wisdom, James, World, Because
 
 ---
 ### Line 3453-3461 (Match: 'Dialectic')
@@ -105,7 +105,7 @@ Last edit almost 5 years ago by svayambhu108
 275
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Xerox, Rome, Christianity, Holy Spirit, Plato, Kingdom, Fish, Well, Golden, Roman, Wisdom, Perhaps, Like, Because, Golden Fish, Only, Noos, Cosmic, Holy Wisdom, Good, Cosmic Christ, Even, Anyhow, Just, Soviet, Something, Kingdom of God, Being, Obviously, Although, Everything, Orphic, Probably, Anamnesis, Without, Grace, Still, Their, Through, Most, Secret, Before, Will, Would, Other, Were, Very, Many, Roogna, Have, Things, Neither, Having, Knowledge, Evidently, Whereas, Doesn, Final, Right, Ananke
+**Co-occurrences**: Anamnesis, Christ, Christian, Spirit, Holy, Jesus, Xerox, Rome, Christianity, Holy Spirit, Plato, Kingdom, Fish, Well, Golden, Roman, Wisdom, Perhaps, Like, Because, Golden Fish, Only
 
 ---
 ### Line 3765-3773 (Match: 'Dialectic')
@@ -122,7 +122,7 @@ Within the total structure are two opposite motions, which may be the same as th
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Ubik, Form, Kingdom, Paul, Parousia, These, Maybe, Like, Because, Therefore, Time, Good, Could, Bardo, Again, Both, Being, Empedocles, Great, Gods, Viewed, Without, Their, Real, Upon, Death, Universe, Other, Back, Beyond, Whatever, Have, Things, Life, Cross, Dead
+**Co-occurrences**: Time, Ubik, Form, Kingdom, Paul, Parousia, These, Maybe, Like, Because, Therefore
 
 ---
 ### Line 3796-3804 (Match: 'Dialectic')
@@ -139,7 +139,7 @@ Last edit almost 5 years ago by svayambhu108
 312
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Advent, Father, Like, World, Time, Nixon, Holy Wisdom, Good, Yang, Could, Joint, Just, Something, Taoism, Again, Suppose, Reality, Empedocles, Himself, Great, Bacchae, Probably, Nothing, Kathy, Their, Such, Love, Greece, Would, Other, Hamlet, Back, Whatever, Evil, Remember, Cross, Dead, Otherwise, Dream, Lamb, Right, Answer, Until
+**Co-occurrences**: Time, Linear, Christ, Christian, Holy, Rome, Christianity, King, Well, Parousia, Wisdom, These, Advent, Father, Like, World, Nixon
 
 ---
 ### Line 3808-3816 (Match: 'Dialectic')
@@ -156,7 +156,7 @@ That there is another (eternal, i.e. outside of time, unchanging) universe (Plat
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Parmenides, Since, Only, Time, After, Gestalt, Yang, Could, Does, Hebrew, Both, Kosmos, Being, Empedocles, Although, Self, Everything, Either, Augustine, Probably, Viewed, Those, Their, Another, Real, Love, Death, Universe, Finally, Will, Would, Other, Somehow, Were, Many, Have, Clearly, Things, Life, Form One, Whether, Right
+**Co-occurrences**: Time, Linear, Entropy, Christ, Logos, Form, Plato, Well, These, Perhaps, Like, World, Parmenides, Since, Only
 
 ---
 ### Line 4153-4161 (Match: 'Dialectic')
@@ -173,7 +173,7 @@ Last edit almost 3 years ago by svayambhu108
 53
 Needs Review
 ```
-**Co-occurrences**: Christ, Logos, Kingdom, Gnostic, However, Wisdom, Perhaps, Like, World, Because, Time, Nixon, Savior, Good, Just, Being, Great, Without, Their, Through, Love, Before, True, Death, Will, Deity, Other, Creation, Back, Evil, Remember, Truth, Final, Track
+**Co-occurrences**: Gnostic, Time, Linear, Christ, Logos, Kingdom, However, Wisdom, Perhaps, Like, World, Because, Nixon
 
 ---
 ### Line 4159-4167 (Match: 'Dialectic')
@@ -190,7 +190,7 @@ Last edit almost 3 years ago by svayambhu108
 54
 Needs Review
 ```
-**Co-occurrences**: Tears, Logos, Sophia, Brahman, Well, Advent, Father, World, Only, Time, Earth, Nixon, Garden, Mind, Everything, Himself, Probably, Palm, Part, More, Voice, True, Will, Would, Other, Creation, Have, Tree, Things, Memory, God Himself, Final, Track
+**Co-occurrences**: Sophia, Time, Tears, Logos, Brahman, Well, Advent, Father, World, Only, Earth, Nixon
 
 ---
 ### Line 4469-4477 (Match: 'Dialectic')
@@ -207,7 +207,7 @@ Anyhow, wisdom is winning + will inevitably complete its/his/her final Krasis. T
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Complete, Brahman, Wisdom, Perhaps, James, Like, Since, Only, After, Savior, Yang, Could, Anyhow, Shiva, Both, Empedocles, Everything, Either, Creator, Such, Secret, Love, Before, Will, Egyptian, Campbell, Have, Joseph, Joseph Campbell, Final
+**Co-occurrences**: Complete, Brahman, Wisdom, Perhaps, James, Like, Since, Only
 
 ---
 ### Line 4575-4583 (Match: 'Dialectic')
@@ -224,7 +224,7 @@ Needs Review
 
 2) the creator of this world doesnt care what happens to us, and kills and maims us recklessly.
 ```
-**Co-occurrences**: Acts, Zebra, Gnostic, Gnosticism, However, World, Since, Because, Iron, Prison, Only, Black, Savior, Good, Just, Everything, Black Iron Prison, Without, Creator, Through, Certainly, Secret, Revelation, True, Will, Would, Other, Creation, Very, Meanwhile, Have, Freedom, Evil, Knowledge, Otherwise, Iron Prison, Salvation, Whereas, Free
+**Co-occurrences**: Gnosticism, Zebra, Gnostic, Acts, However, World, Since, Because, Iron, Prison, Only
 
 ---
 ### Line 4622-4630 (Match: 'Dialectic')
@@ -241,7 +241,7 @@ Last edit almost 3 years ago by svayambhu108
 25
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Zebra, Jesus, Gnostic, Brahman, Gnosticism, However, Lord, Plotinus, Maybe, World, Since, Prison, Only, After, Savior, Even, Yang, Just, Shiva, Maya, Reality, Being, Although, Divine, Creator, Most, Certainly, Secret, Before, Revelation, Universe, Creation, Have, Clearly, Later, Knowledge, Dead, Comforter, Impostor, Right, Until
+**Co-occurrences**: Gnosticism, Plotinus, Zebra, Gnostic, Christ, Tears, Ubik, Jesus, Brahman, However, Lord, Maybe, World, Since, Prison, Only
 
 ---
 ### Line 4686-4694 (Match: 'Dialectic')
@@ -258,7 +258,7 @@ Last edit almost 3 years ago by svayambhu108
 
 36
 ```
-**Co-occurrences**: Christian, Zebra, Kingdom, Gnostic, Well, Maybe, Since, Only, Time, Good, Even, Does, Being, Part, Another, Real, Revelation, True, Will, Deity, Mission, Were, Have, Evil, Having, Greater, Human, Dream
+**Co-occurrences**: Zebra, Gnostic, Time, Christian, Kingdom, Well, Maybe, Since, Only
 
 ---
 ### Line 4947-4955 (Match: 'Dialectic')
@@ -275,7 +275,7 @@ Last edit almost 3 years ago by svayambhu108
 19
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Holy, Zebra, Logos, Xerox, Fish, Well, Wisdom, These, James, World, Since, Time, After, Noos, Holy Wisdom, Does, Being, Everything, Those, More, Another, Death, Will, Very, Have, Life, Memory, During, White
+**Co-occurrences**: Zebra, Time, Linear, Christ, Christian, Holy, Logos, Xerox, Fish, Well, Wisdom, These, James, World, Since
 
 ---
 ### Line 5040-5048 (Match: 'Dialectic')
@@ -292,7 +292,7 @@ Last edit almost 3 years ago by svayambhu108
 33
 Needs Review
 ```
-**Co-occurrences**: Tears, Form, Well, Perhaps, Iron, Prison, Black, Light, Even, Both, Being, Hegel, Self, Black Iron Prison, Beethoven, More, Such, Voice, Upon, Hegelian, Have, Absolute, German, Freedom, Iron Prison, Right
+**Co-occurrences**: Hegel, Hegelian, Tears, Form, Well, Perhaps, Iron, Prison
 
 ---
 ### Line 5129-5137 (Match: 'Dialectic')
@@ -309,7 +309,7 @@ Last edit almost 3 years ago by svayambhu108
 48
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Zebra, Holy Spirit, Brahman, Bible, These, Perhaps, Maybe, Like, Only, Gabriel, Mckee, Gabriel Mckee, Light, Even, Just, Again, Hegel, Atman, Self, Viewed, Still, More, Such, True, Will, Would, Very, Back, Under, Have, Absolute, Having, Human, Final, Right, Until, Sacred
+**Co-occurrences**: Zebra, Hegel, Spirit, Holy, Holy Spirit, Brahman, Bible, These, Perhaps, Maybe, Like, Only
 
 ---
 ### Line 5135-5143 (Match: 'Dialectic')
@@ -326,7 +326,7 @@ Last edit almost 3 years ago by svayambhu108
 49
 Needs Review
 ```
-**Co-occurrences**: Acts, Zebra, Well, These, Perhaps, Like, Only, Good, Empedocles, Hegel, Divine, Great, Viewed, Creator, Still, More, Another, Living, Such, Love, Universe, Were, Many, Have, Life, Greater, Human, Final
+**Co-occurrences**: Zebra, Hegel, Acts, Well, These, Perhaps, Like, Only
 
 ---
 ### Line 5141-5149 (Match: 'Dialectic')
@@ -343,6 +343,6 @@ Last edit almost 3 years ago by svayambhu108
 50
 Needs Review
 ```
-**Co-occurrences**: Zebra, However, James, Like, Only, Time, Does, Being, Divine, Part, Such, Voice, Other, Were, Very, Whatever, Under, Have, Life, Until
+**Co-occurrences**: Zebra, Time, However, James, Like, Only
 
 ---

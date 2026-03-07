@@ -20,7 +20,7 @@ I was reading about the analogy of the kosmoi to animals (each to an animal), wh
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Logos, Christianity, Greek, Perhaps, Like, World, Harpax, Mind, Does, Anyhow, Something, Both, Kosmos, Being, Probably, Nothing, True, Universe, Were, Hindu, Suddenly, Dream, Right
+**Co-occurrences**: Decoded, Logos, Christianity, Greek, Perhaps, Like, World
 
 ---
 ### Line 1315-1323 (Match: 'Satan')
@@ -37,7 +37,7 @@ That was as supernatural as anything -- evil. But it signalled the ushering-in o
 
 I keep forgetting the dream of the king on horseback in TEARS; all the Pauline material in TEARS, which was published just as this hit me, these sequences of Parousia experiences! I forever think of my "toiling in the vinyard of the Lord" as starting with my letters of 3 & 4 74; but TEARS! What about TEARS? Was that not that I most of all did, and somehow knew it all the time? As important as the letters may have been (or may not), the book certainly was/is.
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Rome, Kingdom, King, Parousia, Lord, These, Advent, Elijah, Maybe, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Just, Once, Again, Reality, Being, Himself, Essene, More, Through, Most, Certainly, Death, Macro, Will, Would, Other, Mission, Somehow, Judge, Were, Very, Back, Have, Judgment, Testament, Evil, Pauline, Human, Sons, Dream, Lamb
+**Co-occurrences**: Time, Christ, Tears, Spirit, Rome, Kingdom, King, Parousia, Lord, These, Advent, Elijah, Maybe, Like, World, Only
 
 ---
 ### Line 1327-1335 (Match: 'Satan')
@@ -54,7 +54,7 @@ When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Felix, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+**Co-occurrences**: Time, Christ, Logos, Jesus, Kingdom, Felix, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John
 
 ---
 ### Line 1552-1560 (Match: 'Satan')
@@ -71,7 +71,7 @@ Last edit over 5 years ago by Harpax
 
 111
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, However, Lord, Like, World, Parmenides, Because, Therefore, Nixon, Harpax, After, Faith, Good, Even, Could, Just, Once, Both, Reality, Zagreus, Without, Creator, Another, Most, Living, Real, Certainly, Before, Easter, Friday, Creation, Were, Under, Many, Have, Evil, Knowledge, Magic, Whereas, Right, Grail
+**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, However, Lord, Like, World, Parmenides, Because, Therefore, Nixon
 
 ---
 ### Line 3212-3220 (Match: 'Satan')
@@ -88,7 +88,7 @@ I, too, had the spirit not opened my eyes; I realize that. I saw only because it
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Tears, Acts, Spirit, Holy, King, Well, Empire, Bible, Parousia, These, Perhaps, Like, World, Fall, Because, Only, John, Time, Earth, After, Book, Even, Could, Does, Pinky, Anyhow, Being, Either, Great, Daniel, House, Nothing, Jews, More, Through, Egypt, Babylon, Most, Heaven, Real, Such, Greece, Will, Would, Other, Judge, Were, Surely, Many, Have, Clearly, Judgment, Life, Memory, Later, Whether, Except, Dream, Evidently, Final, Right, Answer
+**Co-occurrences**: Time, Christ, Tears, Acts, Spirit, Holy, King, Well, Empire, Bible, Parousia, These, Perhaps, Like, World, Fall, Because, Only, John, Earth
 
 ---
 ### Line 3226-3234 (Match: 'Satan')
@@ -105,7 +105,7 @@ Last edit almost 5 years ago by svayambhu108
 
 251
 ```
-**Co-occurrences**: Christ, King, Well, Parousia, Lord, These, Father, Like, World, Since, Prison, Only, John, Time, Faith, Good, Book, Light, Even, Could, Pinky, Just, Being, Daniel, Nothing, Those, Part, Their, More, Another, Through, Heaven, Such, Mother, Death, Will, Would, Angel, Were, Very, Back, Have, Judgment, Absolute, Whether, Evil, Suddenly, Greater, Otherwise, Human, Right, White
+**Co-occurrences**: Time, Christ, King, Well, Parousia, Lord, These, Father, Like, World, Since, Prison, Only, John
 
 ---
 ### Line 3237-3245 (Match: 'Satan')
@@ -122,7 +122,7 @@ Last edit almost 5 years ago by svayambhu108
 252
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Holy, Form, Kingdom, Paul, Well, Bible, Wisdom, Lord, Like, World, Parmenides, Prison, Only, Time, Nixon, Faith, Garden, Good, Book, Pinky, Anyhow, Just, Look, Luke, Everything, Great, Probably, Palm, Deus, Still, Another, Such, Actually, Secret, Before, True, Irae, Universe, Will, Would, Back, Many, Have, Tree, Things, Life, Absolute, Form One, Deus Irae, Dream, Final
+**Co-occurrences**: Time, Christ, Tears, Holy, Form, Kingdom, Paul, Well, Bible, Wisdom, Lord, Like, World, Parmenides, Prison, Only, Nixon
 
 ---
 ### Line 3245-3253 (Match: 'Satan')
@@ -139,7 +139,7 @@ Last edit almost 5 years ago by svayambhu108
 253
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Spirit, Rome, Christianity, Form, King, Well, Empire, Bible, Parousia, Lord, Perhaps, Like, World, Only, Time, Nixon, After, Good, Even, Could, Does, Anyhow, Soviet, Again, Self, Himself, Either, Probably, Without, Those, Through, Most, Real, Such, Secret, Before, Revelation, Death, Will, Would, Were, Very, Beyond, Further, Have, Life, Absolute, Memory, Evil, Government, Greater, Evidently, Right
+**Co-occurrences**: Time, Christ, Tears, Christian, Spirit, Rome, Christianity, Form, King, Well, Empire, Bible, Parousia, Lord, Perhaps, Like, World, Only, Nixon
 
 ---
 ### Line 3294-3302 (Match: 'Satan')
@@ -156,7 +156,7 @@ The parameters are visible now of the struggle, and where God stands in the stru
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Rome, Christianity, Form, Well, Empire, Roman, John, Earth, Nixon, Being, Bacchae, Palm, Still, Most, Will, Justice, Freedom, Cross, Truth, During
+**Co-occurrences**: Christ, Spirit, Rome, Christianity, Form, Well, Empire, Roman, John, Earth, Nixon
 
 ---
 ### Line 3304-3312 (Match: 'Satan')
@@ -173,7 +173,7 @@ It is a shame that Christianity & Neoplatonism couldn't reconcile each to the ot
 
 Yes sir; Platonism made it through to the modern world in the form of revealed religion: Christianity as encised on our minds pertually anew from the archetypes of archetypes, the form Summum Bonuum, without us suspecting. Plotinus and Origen were both right: the first form, the second content. So I know now that as fast as the eikons die, the eidos (eidola?) will renew everything as the encise downward into our world. It is the lives, the lives, the lives that die.
 ```
-**Co-occurrences**: Ubik, Christianity, Form, These, Plotinus, World, Since, Because, Only, Platonism, Both, March, Everything, Platonic, Without, Darkness, Their, More, Through, Real, Secret, Revelation, Death, Universe, Will, Other, Were, Have, Absolute, Information, Evil, Final, Right
+**Co-occurrences**: Plotinus, Information, Ubik, Christianity, Form, These, World, Since, Because, Only
 
 ---
 ### Line 3314-3322 (Match: 'Satan')
@@ -190,7 +190,7 @@ I remember the exact second when I personally felt the oppres¬ sion lift. It wa
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Ubik, Spirit, Xerox, Rome, Form, Well, Bible, Parousia, Wisdom, Perhaps, Maybe, Like, Since, Because, Only, Time, Nixon, After, Mind, Even, Could, Anyhow, Just, Look, Once, Again, Teilhard, Being, March, Platonic, Either, Great, Without, Still, More, Church, Another, Through, Heaven, Real, Fullerton, Before, Universe, Finally, Were, Very, Back, Whatever, Under, Have, Things, Memory, Instead, Remember, Government, Someone, August
+**Co-occurrences**: Time, Christ, Ubik, Spirit, Xerox, Rome, Form, Well, Bible, Parousia, Wisdom, Perhaps, Maybe, Like, Since, Because, Only, Nixon
 
 ---
 ### Line 3367-3375 (Match: 'Satan')
@@ -207,7 +207,7 @@ Last edit almost 5 years ago by svayambhu108
 265
 Needs Review
 ```
-**Co-occurrences**: Tears, Xerox, Like, World, Fall, Only, Nixon, After, Black, Self, Probably, More, Most, Heaven, Love, Finally, Will, Judgment, Freedom, Later, Evil, Right
+**Co-occurrences**: Tears, Xerox, Like, World, Fall, Only, Nixon
 
 ---
 ### Line 3410-3418 (Match: 'Satan')
@@ -224,7 +224,7 @@ Last edit almost 5 years ago by svayambhu108
 270
 Needs Review
 ```
-**Co-occurrences**: Christian, Rome, Kingdom, Empire, Bible, Parousia, Roman, These, Like, Prison, Only, John, Time, Earth, Just, Being, Great, Without, Nothing, Those, Their, More, Most, Such, Revelation, True, Angel, Back, Under, Have, Judgment, Body, Dream, Evidently, Lamb
+**Co-occurrences**: Time, Linear, Christian, Rome, Kingdom, Empire, Bible, Parousia, Roman, These, Like, Prison, Only, John, Earth
 
 ---
 ### Line 3418-3426 (Match: 'Satan')
@@ -241,7 +241,7 @@ I have the feeling that as linear times moves along, the full complement of the 
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Since, Because, Prison, Only, John, Time, Earth, After, Garden, Does, Anyhow, Reality, Although, Everything, Platonic, Zoroastrian, Daniel, Probably, Palm, Their, Through, Most, Real, True, Death, Will, Would, Were, Back, Meanwhile, Have, Evil, Dream, Lamb
+**Co-occurrences**: Time, Linear, Christ, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Since, Because, Prison, Only, John, Earth
 
 ---
 ### Line 4062-4070 (Match: 'Satan')
@@ -258,7 +258,7 @@ Last edit almost 3 years ago by svayambhu108
 39
 Needs Review
 ```
-**Co-occurrences**: Acts, Xerox, Because, Mind, Light, Just, Once, Maya, Being, Grace, Wait, Through, Such, Love, Before, True, Finally, Deity, Were, Back, Have, Clearly, Things, Life, Dark, Memory, Evil, Remember, Unless, Karmic, Right
+**Co-occurrences**: Acts, Xerox, Because
 
 ---
 ### Line 4763-4771 (Match: 'Satan')
@@ -275,7 +275,7 @@ Last edit almost 3 years ago by svayambhu108
 49
 Needs Review
 ```
-**Co-occurrences**: Christ, Zebra, Logos, Jesus, Brahman, Wisdom, These, Perhaps, Plotinus, Father, Like, World, Since, Because, Paraclete, Even, Could, Does, Shiva, Himself, Through, Soul, Actually, Secret, Before, Will, Creation, Very, Many, Mani, Evil, Human
+**Co-occurrences**: Plotinus, Zebra, Christ, Logos, Jesus, Brahman, Wisdom, These, Perhaps, Father, Like, World, Since, Because
 
 ---
 ### Line 5943-5951 (Match: 'Satan')
@@ -292,7 +292,7 @@ The acient belief: Jesus was not God become man, but a man who (through adoptian
 
 In Zoroastrianism (cf the Essenes) the spirit of truth is not only identified with light but also Justice.
 ```
-**Co-occurrences**: Indexed, Spirit, Holy, Jesus, Xerox, Holy Spirit, Form, Well, World, Because, Only, Time, After, Savior, Light, Essene, Through, Zoroastrianism, Death, Would, Have, Life, Justice, Evil, Truth
+**Co-occurrences**: Time, Indexed, Spirit, Holy, Jesus, Xerox, Holy Spirit, Form, Well, World, Because, Only
 
 ---
 ### Line 5991-5999 (Match: 'Satan')
@@ -309,7 +309,7 @@ Last edit almost 3 years ago by svayambhu108
 13
 Needs Review
 ```
-**Co-occurrences**: Thomas, Spirit, Holy, Rome, Holy Spirit, Form, These, Since, Prison, Time, Garden, Light, Just, Something, Again, Being, Zoroastrian, Anamnesis, Essene, Darkness, Part, Their, More, Another, Through, Babylon, Most, Before, Will, Would, Memory, Otherwise, Evidently, Free, Final
+**Co-occurrences**: Thomas, Time, Anamnesis, Linear, Spirit, Holy, Rome, Holy Spirit, Form, These, Since, Prison
 
 ---
 ### Line 6114-6122 (Match: 'Satan')
@@ -326,7 +326,7 @@ Last edit almost 3 years ago by svayambhu108
 34
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Jesus, Gnostic, Bible, Maze, World, Since, Gnosis, Prison, Time, Black, Savior, Mind, Just, Something, Again, Suppose, Maya, Reality, Obviously, Although, Divine, Corpus, Either, Dokos, Another, Most, Real, Secret, Revelation, True, Will, Would, Other, Were, Back, Evil, Knowledge, Truth, Human, Salvation, Doesn, Right, Someone
+**Co-occurrences**: Gnostic, Time, Christ, Spirit, Jesus, Bible, Maze, World, Since, Gnosis, Prison
 
 ---
 ### Line 6126-6134 (Match: 'Satan')
@@ -343,6 +343,6 @@ Last edit almost 3 years ago by svayambhu108
 
 36
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Plato, However, Maze, Wisdom, Advent, World, Because, Only, John, Time, Platonist, Good, Light, Gospel, Does, Just, Once, Reality, Being, Jesus Christ, Although, Viewed, Darkness, Creator, Still, More, Through, Upon, Actually, Secret, Love, Before, True, Death, Universe, Were, Absolute, Justice, Having, Truth, Dead, Evidently, Pleroma, Sacred
+**Co-occurrences**: Time, Pleroma, Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Plato, However, Maze, Wisdom, Advent, World, Because, Only, John, Platonist
 
 ---

@@ -20,7 +20,7 @@ Last edit almost 3 years ago by twsullivan
 
 31
 ```
-**Co-occurrences**: Christian, Dionysos, Because, Divine, Phil, Such, Dick, Fullerton, Calif, Erasmus, Wise, Someone
+**Co-occurrences**: Phil, Christian, Dionysos, Because
 
 ---
 ### Line 4703-4711 (Match: 'Phil Dick')
@@ -37,7 +37,7 @@ Last edit almost 3 years ago by svayambhu108
 39
 Needs Review
 ```
-**Co-occurrences**: Christian, Holy, Zebra, Xerox, King, Perhaps, World, Time, Good, Gospel, Just, Realm, Being, Self, Himself, Great, Probably, Deus, Without, Still, Wait, Phil, Real, Dick, Certainly, Before, True, Irae, Will, Would, Were, Very, Have, Life, Days, Evil, Deus Irae, Final, Until
+**Co-occurrences**: Zebra, Time, Phil, Christian, Holy, Xerox, King, Perhaps, World
 
 ---
 ### Line 6297-6305 (Match: 'Phil Dick')
@@ -53,7 +53,7 @@ Last edit almost 3 years ago by svayambhu108
 17
 Needs Review
 ```
-**Co-occurrences**: Tears, Acts, Ubik, Brahman, Maze, Advent, World, Therefore, Time, After, Stigmata, Book, Even, Could, Joint, Does, Again, Kosmos, Divine, Frolix, Those, Another, Star, Phil, Through, Real, Such, Dick, Certainly, True, Will, Would, Were, Wars, Have, Information, Star Wars, Info, Truth, Dream
+**Co-occurrences**: Time, Phil, Information, Tears, Acts, Ubik, Brahman, Maze, Advent, World, Therefore
 
 ---
 ### Line 7577-7585 (Match: 'Phil Dick')
@@ -70,7 +70,7 @@ Last edit almost 3 years ago by svayambhu108
 27
 Needs Review
 ```
-**Co-occurrences**: Thomas, Xerox, Like, Since, Time, Mind, Even, Just, Missive, Xerox Missive, Their, Phil, Dick, Before, Back, Many, Have, Memory
+**Co-occurrences**: Thomas, Time, Phil, Linear, Xerox, Like, Since
 
 ---
 ### Line 7589-7597 (Match: 'Phil Dick')
@@ -87,7 +87,7 @@ Last edit almost 3 years ago by svayambhu108
 29
 Needs Review
 ```
-**Co-occurrences**: Zebra, Form, Brahman, However, Only, Time, Just, Something, Being, Hegel, Atman, Self, Part, More, Phil, Through, Real, Dick, True, Were, Beyond, Mani, Except, Greater
+**Co-occurrences**: Zebra, Time, Hegel, Phil, Linear, Form, Brahman, However, Only
 
 ---
 ### Line 7688-7696 (Match: 'Phil Dick')
@@ -104,7 +104,7 @@ Last edit almost 3 years ago by svayambhu108
 44
 Needs Review
 ```
-**Co-occurrences**: Christ, Zebra, Rome, Form, Well, Since, Time, Just, Something, Shiva, Both, Being, Although, Himself, Either, Anamnesis, Those, Part, Phil, Through, Actually, Dick, Before, Will, Judge, Were, Back, Life, Body, Human, Lamb, Right
+**Co-occurrences**: Zebra, Time, Anamnesis, Phil, Christ, Rome, Form, Well, Since
 
 ---
 ### Line 7694-7702 (Match: 'Phil Dick')
@@ -121,7 +121,7 @@ Last edit almost 3 years ago by svayambhu108
 45
 Needs Review
 ```
-**Co-occurrences**: Rome, These, Advent, Like, World, Only, Time, After, Good, Could, Just, Again, Shiva, Both, Those, Still, Another, Phil, Actually, Dick, Death, Other, Very, Life, Body, Information, Later, Whereas, Lamb, Answer, Until
+**Co-occurrences**: Time, Phil, Information, Rome, These, Advent, Like, World, Only
 
 ---
 ### Line 7810-7818 (Match: 'Phil Dick')
@@ -138,7 +138,7 @@ Last edit almost 3 years ago by svayambhu108
 64
 Needs Review
 ```
-**Co-occurrences**: Xerox, World, Time, Could, Does, Just, Reality, Missive, Xerox Missive, Those, Wait, More, Phil, Through, Real, Such, Dick, Before, Were, Very, Beyond, Have, Instead, Having, Greater, Human, Someone
+**Co-occurrences**: Time, Phil, Xerox, World
 
 ---
 ### Line 7992-8000 (Match: 'Phil Dick')
@@ -154,7 +154,7 @@ Last edit almost 3 years ago by svayambhu108
 92
 Needs Review
 ```
-**Co-occurrences**: Zebra, Spinoza, Perhaps, Like, Only, Mind, Does, Just, Reality, Being, Obviously, Wait, Phil, Xenophanes, Such, Dick, True, Meanwhile, Things, Answer
+**Co-occurrences**: Zebra, Phil, Spinoza, Perhaps, Like, Only
 
 ---
 ### Line 8187-8195 (Match: 'Phil Dick')
@@ -171,7 +171,7 @@ Last edit almost 3 years ago by svayambhu108
 120
 Needs Review
 ```
-**Co-occurrences**: Zebra, Plato, Gnostic, World, Time, Urgrund, Could, Once, Reality, Fate, Santa, Phil, Living, Real, Dick, Calif, Finally, Will, Artifact, Otherwise, Final, Until
+**Co-occurrences**: Zebra, Gnostic, Time, Phil, Plato, World
 
 ---
 ### Line 17849-17857 (Match: 'Phil Dick')
@@ -187,8 +187,7 @@ Last edit about 8 years ago by Toso
 folder 21 - 122
 Complete
 ```
-**Co-occurrences**: Ubik, Toso, Zebra, Complete, Gnostic, However, Like, Prison, Cosmic, Folder, Stigmata, Savior, Just, Reality, Being, Toso
-Folder, Himself, More, Phil, Living, Nonetheless, Dick, True, Back, Have, Later, Free, Right
+**Co-occurrences**: Zebra, Gnostic, Phil, Ubik, Toso, Complete, However, Like, Prison
 
 ---
 ### Line 23066-23074 (Match: 'Phil Dick')
@@ -205,7 +204,7 @@ Last edit almost 3 years ago by svayambhu108
 190
 Needs Review
 ```
-**Co-occurrences**: Valis, Tears, Acts, Christian, Thomas, Lord, Iron, Good, Even, Just, Missive, Philip, House, Anamnesis, Phil, Through, Voice, Dick, Secret, True, Macro, Very, Things, Information, Likewise, Remember, Kyrios, Dialectic, Suddenly, Impostor, Dream, Right
+**Co-occurrences**: Valis, Thomas, Philip, Anamnesis, Phil, Information, Dialectic, Tears, Acts, Christian, Lord, Iron
 
 ---
 ### Line 23840-23848 (Match: 'Phil Dick')
@@ -222,7 +221,7 @@ Last edit almost 3 years ago by svayambhu108
 113
 Needs Review
 ```
-**Co-occurrences**: Valis, Thomas, These, Even, Himself, Chrissy, More, Phil, Through, Ground, Real, Dick, Under, Information, Info, Human, Doesn
+**Co-occurrences**: Valis, Thomas, Phil, Information, These
 
 ---
 ### Line 24799-24807 (Match: 'Phil Dick')
@@ -239,8 +238,7 @@ Last edit about 7 years ago by Toso
 folder 48 - 044
 Indexed
 ```
-**Co-occurrences**: Valis, Toso, Indexed, Complete, Wisdom, World, Since, Because, Time, Folder, Good, Could, Just, Something, Reality, Being, Self, Everything, Toso
-Folder, Nothing, Part, More, Phil, Living, Dick, Calif, True, Yahweh, Universe, Will, Would, Creation, Whatever, Have, Life
+**Co-occurrences**: Valis, Time, Phil, Toso, Indexed, Complete, Wisdom, World, Since, Because
 
 ---
 ### Line 27227-27235 (Match: 'Phil Dick')
@@ -257,7 +255,7 @@ I know there are other immortals. The material -- [inc] cypher -- was to them. T
 
 Christ's disciples and Valis is Christ. That's {continues off bottom of image}
 ```
-**Co-occurrences**: Christ, Valis, Tears, Acts, Thomas, Fish, Well, Golden, Golden Fish, Time, Could, Does, Just, Reality, Obviously, Girl, Himself, Wait, Phil, Dick, Other, Have, Later, Someone
+**Co-occurrences**: Valis, Thomas, Time, Phil, Christ, Tears, Acts, Fish, Well, Golden, Golden Fish
 
 ---
 ### Line 34421-34429 (Match: 'Phil Dick')
@@ -274,7 +272,7 @@ I have continually asked, "Where is this reticulated arborizing meta-soma?" well
 
 10-20-80 9
 ```
-**Co-occurrences**: Christ, Valis, Tears, Acts, Christian, Ubik, Thomas, Jesus, Complete, Rome, Form, Fish, Satan, Well, Parousia, Roman, Maze, Like, World, Because, Iron, Prison, Time, Black, Folder, Just, Simon, Again, Kosmos, Being, Black Iron Prison, Probably, Nothing, Still, Phil, Living, Real, Voice, Dick, Consider, Belial, Were, Frozen, Under, Have, Information, Truth, Magus, Iron Prison, Form World, Final, Right, Simon Magus
+**Co-occurrences**: Valis, Thomas, Time, Phil, Information, Christ, Tears, Acts, Christian, Ubik, Jesus, Complete, Rome, Form, Fish, Satan, Well, Parousia, Roman, Maze, Like, World, Because, Iron, Prison
 
 ---
 ### Line 37991-37999 (Match: 'Phil Dick')
@@ -291,7 +289,7 @@ Last edit about 3 years ago by svayambhu108
 158
 Needs Review
 ```
-**Co-occurrences**: Christianity, Perhaps, Because, John, After, Does, Just, Phil, Pike, Dick, Jim Pike, True, Death, Back, Further, Truth, Doesn
+**Co-occurrences**: Phil, Christianity, Perhaps, Because, John
 
 ---
 ### Line 38417-38425 (Match: 'Phil Dick')
@@ -308,7 +306,7 @@ Last edit about 3 years ago by svayambhu108
 230
 Needs Review
 ```
-**Co-occurrences**: Valis, Form, Sophia, Dionysos, World, Since, Because, Therefore, John, Savior, Book, Himself, Dionysus, More, Phil, Through, Real, Dick, Revelation, True, Universe, Will, Judge, Very, Have, Horselover, Final
+**Co-occurrences**: Valis, Sophia, Phil, Form, Dionysos, World, Since, Because, Therefore, John
 
 ---
 ### Line 38428-38436 (Match: 'Phil Dick')
@@ -324,7 +322,7 @@ Last edit about 3 years ago by svayambhu108
 232
 Needs Review
 ```
-**Co-occurrences**: Valis, Tears, Sophia, Well, Dionysos, Perhaps, Only, Obviously, Self, Himself, Bacchae, Gods, Phil, Dick, Certainly, Would, Other, Messiah, Very, Back, Have, Nancy, Horselover, Human
+**Co-occurrences**: Valis, Sophia, Phil, Tears, Well, Dionysos, Perhaps, Only
 
 ---
 ### Line 38446-38454 (Match: 'Phil Dick')
@@ -341,6 +339,6 @@ Last edit about 3 years ago by svayambhu108
 235
 Needs Review
 ```
-**Co-occurrences**: Valis, Well, Dionysos, Father, Savior, Light, Once, Although, Self, Corpus, Dionysus, Zeus, Phil, Real, Nonetheless, Dick, Certainly, True, Would, Judge, Under, Artifact, Spring, Human, Right
+**Co-occurrences**: Valis, Phil, Well, Dionysos, Father
 
 ---

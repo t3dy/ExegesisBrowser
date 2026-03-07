@@ -20,7 +20,7 @@
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: These, Time, Suppose, Both, Maya, Reality, Being, Grace, Nothing, Ground, Real, Upon, Would, Back, Have, Absolute
+**Co-occurrences**: Time, These
 
 ---
 ### Line 444-452 (Match: 'Christians')
@@ -37,7 +37,7 @@ But in this novel, Thomas says, "The Final Days have come. The overthrown of the
 
 During Winter, it was believed that Dionysos, the god of the vine plant, of vegetation, of the crop, slumbered. It was known that no matter how dead he seemed (James Joyce's FINNIGANS WAKE is a wonderful acount of this) he was actually alive, though you'd never know it. And then, --not to the surprise of those who understood him and believed in him-- he was reborn. His followers knew he would be. We are speaking here of the mystery religions, all of them -- including Christianity. Our God has been sleeping, during the long winter of the human culture ([x] not for one year's rotational cycle of seasons, but from 45 A.D. through the centuries of mental winter to now); just when Winter holds all in its grip, the snow of despair and defeat (in our case, political chaos, moral ruin, economic ruin -- the winter of our planet, our world, our civilization) then the vine, which was gnarled and old and seemingly dead, breaks into new life, and our God is reborn -- not outside us as such, but in each of us. Slumbering not under the snow over the ground-surface but within the right hemispheres of our brains. We have been waiting, we didn't know what for. This is it: this is Spring for our planet, in a deeper more fundamental way. The cold chains of iron are being thrown off, but by what a miracle. As with my character, Nicholas Brady -- I've had Zagreus awaken in my right hemisphere, and felt the flooding of renewed life, his vigor, his personality, and his godlike wisdom: he hated the injustice he saw around him, and remembered "the dear lone lands untroubled by men, where amid the shadowy green / The little ones of the forest live unseen." (Eurypides) Dr. Ornstein, thank you for helping bring Winter to an end, and ushering in --not just Spring-- but the living life of Spring alive but [xl] asleep inside us.
 ```
-**Co-occurrences**: Thomas, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John
 
 ---
 ### Line 488-496 (Match: 'Christian')
@@ -54,7 +54,7 @@ With warm personal regards,
 
 Phil Dick 1405 Cameo Lane #4 Fullerton, Calif 92631 (N. of Disneyland)
 ```
-**Co-occurrences**: Jesus, Christianity, Dionysos, Like, Since, Because, Light, Could, Just, Look, Zagreus, Divine, Without, Those, Phil, Such, Dick, Fullerton, Calif, Erasmus, Very, Back, Have, Wise, Later, Luther, Lamb, Phil Dick, Someone, Sacred
+**Co-occurrences**: Phil, Phil Dick, Jesus, Christianity, Dionysos, Like, Since, Because
 
 ---
 ### Line 527-535 (Match: 'Christian')
@@ -71,7 +71,7 @@ Last edit almost 3 years ago by twsullivan
 33
 Complete
 ```
-**Co-occurrences**: Christ, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Iron, Prison, Time, Earth, After, Even, Could, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christ, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Iron, Prison, Earth
 
 ---
 ### Line 567-575 (Match: 'Christian')
@@ -88,7 +88,7 @@ Isn't this what the Christian fish sign is supposed to do? Representing Christ, 
 
 He corrected that error. (In my case -- and how many others has He freed? And how long had this freeing been going on? Is this the Parousia?????)
 ```
-**Co-occurrences**: Christ, Logos, Form, Fish, Parousia, Perhaps, Father, World, Because, Therefore, Time, Savior, Does, Something, Reality, Girl, Nothing, More, Through, Were, Very, Back, Many, Freedom
+**Co-occurrences**: Time, Christ, Logos, Form, Fish, Parousia, Perhaps, Father, World, Because, Therefore
 
 ---
 ### Line 782-790 (Match: 'Christian')
@@ -105,7 +105,7 @@ Last edit over 5 years ago by Harpax
 50
 Needs Review
 ```
-**Co-occurrences**: Logos, Jesus, Well, Parousia, These, Perhaps, James, Like, World, Since, Only, Time, Harpax, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Nothing, Still, Their, More, Church, Most, Real, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+**Co-occurrences**: Time, Linear, Logos, Jesus, Well, Parousia, These, Perhaps, James, Like, World, Since, Only
 
 ---
 ### Line 975-983 (Match: 'Christians')
@@ -122,7 +122,7 @@ What is involved is a restoring, a new life which is the igniting by means of th
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Logos, Rome, Fish, Bible, Roman, Advent, Maybe, Like, World, Because, Therefore, Only, Time, Harpax, Savior, Does, Just, Look, Both, Being, Although, Everything, Platonic, Probably, Those, Part, More, Fullerton, Secret, Before, Christopher, Would, Other, Were, Very, Back, Life, Body, Days, Knowledge, Cross, Evidently, Someone, Answer, Until
+**Co-occurrences**: Time, Christ, Logos, Rome, Fish, Bible, Roman, Advent, Maybe, Like, World, Because, Therefore, Only
 
 ---
 ### Line 1059-1067 (Match: 'Christian')
@@ -139,7 +139,7 @@ Last edit over 5 years ago by Harpax
 73
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World, Time, Harpax, Cosmic, Even, Gospel, Yang, Firebright, Does, Just, Something, Again, Reality, Zagreus, Being, Jesus Christ, Great, Those, Still, More, Zeus, Most, Upon, Certainly, Love, Before, Doris, True, Death, Universe, Deity, Would, Were, Very, Back, Whatever, Have, Things, Life, Justice, Spring, Fake, Information, Freedom, Days, Sturgeon, Knowledge, Truth, Today, Human, Dream, Crete, Right, Mary
+**Co-occurrences**: Time, Firebright, Information, Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World
 
 ---
 ### Line 1075-1083 (Match: 'Christians')
@@ -156,7 +156,7 @@ In one sense Firebright is within me; in another (looking ahead, past the tyrann
 
 There was another entity in me, all right: thinking away in Attic Greek. (the [l]ogos?) (the father?) (Firebright?) (The Holy Spirit? Probably the HS. But it proves one was; and, as Apollo made the sibyl do this and that, it made me do this and that.
 ```
-**Co-occurrences**: Christ, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Father, Maybe, Since, Only, Time, Harpax, After, Savior, Light, Firebright, Does, Jesus Christ, Although, Apollo, Probably, Sibyl, Part, More, Zeus, Another, Through, Upon, Fullerton, Certainly, Mother, True, Death, Will, Christopher, Would, Attic, Have, Body, Except, Human, Right, Mary
+**Co-occurrences**: Time, Firebright, Christ, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Greek, Bible, Father, Maybe, Since, Only
 
 ---
 ### Line 1089-1097 (Match: 'Christians')
@@ -173,7 +173,7 @@ The "Dec N T" says that this time Christ won't appear in the form of one single 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1091-1099 (Match: 'Christian')
@@ -190,7 +190,7 @@ Last edit over 5 years ago by Harpax
 
 76
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1096-1104 (Match: 'Christian')
@@ -206,7 +206,7 @@ Of course, their old actual bodies didn't reappear. My experience is that of how
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall
 
 ---
 ### Line 1138-1146 (Match: 'Christians')
@@ -223,7 +223,7 @@ But I am still in touch with him. He is, however, now in this world. I guess aga
 
 The transmission of the Light Creatures was somehow inturrupted (by accident, be martyrdom, design, etc.) around 100 AD, or maybe even earlier (Jesus being the last one), so that a two thousand year breach had to be leaped to restored the Light Creatures to our world once more. This is what the New Testament is talking about, and Orphism. They are in need of us to transmit themselves, and all of us who "contained" any of them were (by the Romans!!) destroyed...hence my fear, my dreadul urgency and secrecy esp re Chrissy. Nobody else was left who knew how to receive (and harbor & shelter & incubate, whatever) a Light Creature.
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Jesus, Holy Spirit, Form, Sophia, King, Roman, However, Elijah, Father, Maybe, Like, World, Only, Time, After, Light, Even, Firebright, Okay, Look, Once, Again, Both, Zagreus, Being, March, Runciter, Santa, Chrissy, Those, Still, More, Another, Through, Orphism, Actually, Santa Sophia, Will, Calvin, Would, Somehow, Kingship, Were, Back, Whatever, Life, Justice, Spring, Wise, Testament, Passover, Truth, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Spirit, Holy, Jesus, Holy Spirit, Form, King, Roman, However, Elijah, Father, Maybe, Like, World, Only
 
 ---
 ### Line 1223-1231 (Match: 'Christian')
@@ -240,7 +240,7 @@ Dream about Dodger statium and low class Mexican type US celebrations of every s
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Logos, Christianity, Greek, Dionysos, These, Perhaps, Father, Like, Since, Time, Harpax, After, Light, Even, Yang, Firebright, Could, Does, Again, Both, Zagreus, Being, Everything, Divine, Moses, Great, Bacchae, Gods, Those, More, Zeus, Another, Egypt, Such, Mother, Deity, Would, Somehow, Were, Have, Body, Justice, Otherwise, Dream
+**Co-occurrences**: Time, Firebright, Logos, Christianity, Greek, Dionysos, These, Perhaps, Father, Like, Since
 
 ---
 ### Line 1339-1347 (Match: 'Christian')
@@ -257,7 +257,7 @@ I have experienced what Jesus predicted: the change from one aeon to the next; a
 
 Another thing I saw, which I must not forget, is that I saw that I had been seeing the universe backward, esp. in time; which I finally decided meant that I was seeing "the reflection, as in the bottom of a polished metal pan," but had begun to see the Real Universe, which of course is reversed from the mere cave image. Thus, the picture is of winter; the slide itself the reverse: springtime (vide the trigram wheel of opposites). In Dante's schema: if it is winter here, it is springtime there in the Real World.
 ```
-**Co-occurrences**: Tears, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John, Time, Good, Light, Could, Again, Heraclitus, Being, Dante, Divine, Himself, Zoroaster, Those, Their, Another, Most, Real, Such, Secret, True, Universe, Finally, Will, Other, Somehow, Kingship, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+**Co-occurrences**: Time, Tears, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John
 
 ---
 ### Line 1374-1382 (Match: 'Christian')
@@ -273,7 +273,7 @@ Tesse points out to me that (in a dream) I was shown that "Jesus" is stenographi
 
 Anamnesis would mean, "Nothing is concealed any longer, from the beginning," which also implies everything lost has been restored (a wider definition of memory, but emphasizing not merely to gain but to regain). (Not rise, but rise back.)
 ```
-**Co-occurrences**: Christ, Jesus, Rome, Plato, John, Time, Harpax, Does, Just, Both, Zagreus, Empedocles, Everything, Great, Anamnesis, Nothing, Still, Zeus, Before, Would, Other, Creation, Somehow, Back, Memory, Remember, Dream
+**Co-occurrences**: Time, Anamnesis, Christ, Jesus, Rome, Plato, John
 
 ---
 ### Line 1376-1384 (Match: 'Christian')
@@ -289,7 +289,7 @@ Anamnesis would mean, "Nothing is concealed any longer, from the beginning," whi
 
 It seems to me that anamnesis (actually experienced, with perceptual awareness of the Real Presence, etc.) must be the last stage or nearly so in a long chain which is ultrapersonal. It must mean --not that I am unusual-- but that the Parousia have indeed begun.
 ```
-**Co-occurrences**: Christ, Jesus, Rome, Plato, Parousia, John, Time, Does, Just, Both, Zagreus, Empedocles, Everything, Great, Anamnesis, Nothing, Still, Zeus, Real, Actually, Before, Would, Other, Creation, Somehow, Back, Have, Memory, Remember, Dream
+**Co-occurrences**: Time, Anamnesis, Christ, Jesus, Rome, Plato, Parousia, John
 
 ---
 ### Line 1408-1416 (Match: 'Christian')
@@ -306,7 +306,7 @@ Last edit over 5 years ago by Harpax
 99
 Needs Review
 ```
-**Co-occurrences**: Tears, Logos, Xerox, Rome, Sophia, King, Well, Parousia, Like, World, Since, Because, Nixon, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Secret, Before, True, Santa Sophia, Finally, Will, Somehow, Back, Have, Tree, Things, Justice, Freedom, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+**Co-occurrences**: Sophia, Santa Sophia, Tears, Logos, Xerox, Rome, King, Well, Parousia, Like, World, Since, Because, Nixon
 
 ---
 ### Line 1441-1449 (Match: 'Christians')
@@ -323,7 +323,7 @@ Last edit over 5 years ago by Harpax
 102
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Acts, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, Harpax, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+**Co-occurrences**: Plotinus, Sophia, Time, Christ, Tears, Acts, Holy, Rome, Christianity, Form, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Like, World, Since, Nixon
 
 ---
 ### Line 1557-1565 (Match: 'Christians')
@@ -339,6 +339,6 @@ Yet this still seems strange to me; if God through a demiurge can do this, why d
 
 There is one more possibility...perhaps for instance the records of the 17th century Reformers contain accounts, but these are dismissed, even suppressed, by a totally secular age, now. As Ursula dismissed my account. There transfigurations happen but are denied by the world!
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Well, However, Wisdom, These, Perhaps, Elijah, Maybe, World, Since, Because, Only, Harpax, Mind, Book, Even, Could, Anyhow, Just, Something, Look, Being, Himself, Either, Without, Still, More, Another, Through, Most, Heaven, Such, Greece, Will, Other, Mission, Somehow, Were, Attic, Back, Under, Many, Have, Life, Neither, Evil, Socrates, Having, Reformers, Human, Doesn, Until
+**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Well, However, Wisdom, These, Perhaps, Elijah, Maybe, World, Since, Because, Only
 
 ---

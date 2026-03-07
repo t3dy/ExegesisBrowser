@@ -20,7 +20,7 @@ I saw the Final Things (eschatology). There, all forms including us, including m
 
 I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe, Time, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Time, Linear, Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Parousia, Maybe
 
 ---
 ### Line 58-66 (Match: 'Iron')
@@ -37,7 +37,7 @@ Yes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh.
 
 First, the "Artist" (logos) is drawing you (or universe is fashioning you) more and more like Christ. These are first kinds of changes: you're made to look i.e. be like him. But the real thing is when you can see the likeness. First, see him seated there, being drawn, then see that you the 1.5 minute sketch resemble Him; its when you see that affinity, that's the last transformation, in you. That follows in linear time what the artist (continual creation) is doing: upon completion, of the entelechy; when time stops, being "filled up" or rrealized.
 ```
-**Co-occurrences**: Christ, Logos, Rome, Kingdom, Well, Dionysos, These, Elijah, Like, Because, Only, Time, After, Just, Look, Again, Kingdom of God, Being, March, Great, House, More, Real, Upon, Before, Universe, Creation, Kingship, Were, Have, Tree, Dead
+**Co-occurrences**: Time, Linear, Christ, Logos, Rome, Kingdom, Well, Dionysos, These, Elijah, Like, Because, Only
 
 ---
 ### Line 434-442 (Match: 'Iron')
@@ -54,7 +54,7 @@ Studying the Bible, along with this [Quamran] personality, Brady finds that the 
 
 The [Quamran] personality, who, for fictional purposes, I call Thomas, gradually informs Brady that these are the Parousia, the Final Days. And to be prepared; Thomas will prepare him by reminding him of his own divinity -- anamnesis, Thomas calls it. Thomas develops a special parity relationship with Brady, but evolves as a source of teaching for the incredibly ignorant Brady the entity known as Erasmus, who is in fact a station in the noösphere, which is now so fully charged around Earth that if you are aware of it you can consciously, rather than un-
 ```
-**Co-occurrences**: Acts, Thomas, Holy, Jesus, Form, Well, Bible, Parousia, These, World, Since, Because, Earth, Good, Mind, Book, Zagreus, Tony, Self, Anamnesis, Essene, Brain, Their, Zeus, Most, Such, Secret, Will, Would, Other, Erasmus, Back, Have, Life, Testament, Days, Having, Dead, Suddenly, Qumran, Final, Right, Until
+**Co-occurrences**: Thomas, Anamnesis, Acts, Holy, Jesus, Form, Well, Bible, Parousia, These, World, Since, Because, Earth
 
 ---
 ### Line 444-452 (Match: 'Iron')
@@ -71,7 +71,7 @@ But in this novel, Thomas says, "The Final Days have come. The overthrown of the
 
 During Winter, it was believed that Dionysos, the god of the vine plant, of vegetation, of the crop, slumbered. It was known that no matter how dead he seemed (James Joyce's FINNIGANS WAKE is a wonderful acount of this) he was actually alive, though you'd never know it. And then, --not to the surprise of those who understood him and believed in him-- he was reborn. His followers knew he would be. We are speaking here of the mystery religions, all of them -- including Christianity. Our God has been sleeping, during the long winter of the human culture ([x] not for one year's rotational cycle of seasons, but from 45 A.D. through the centuries of mental winter to now); just when Winter holds all in its grip, the snow of despair and defeat (in our case, political chaos, moral ruin, economic ruin -- the winter of our planet, our world, our civilization) then the vine, which was gnarled and old and seemingly dead, breaks into new life, and our God is reborn -- not outside us as such, but in each of us. Slumbering not under the snow over the ground-surface but within the right hemispheres of our brains. We have been waiting, we didn't know what for. This is it: this is Spring for our planet, in a deeper more fundamental way. The cold chains of iron are being thrown off, but by what a miracle. As with my character, Nicholas Brady -- I've had Zagreus awaken in my right hemisphere, and felt the flooding of renewed life, his vigor, his personality, and his godlike wisdom: he hated the injustice he saw around him, and remembered "the dear lone lands untroubled by men, where amid the shadowy green / The little ones of the forest live unseen." (Eurypides) Dr. Ornstein, thank you for helping bring Winter to an end, and ushering in --not just Spring-- but the living life of Spring alive but [xl] asleep inside us.
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Only, John, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Christian, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Only, John
 
 ---
 ### Line 448-456 (Match: 'Iron')
@@ -88,7 +88,7 @@ Cordially,
 
 Philip K. Dick 1405 Cameo Lane 4 Fullerton Calif 92631
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Only, John, After, Just, Again, Zagreus, Being, Philip, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Dick, Fullerton, Calif, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Philip, Christian, Jesus, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Only, John
 
 ---
 ### Line 527-535 (Match: 'Iron')
@@ -105,7 +105,7 @@ Last edit almost 3 years ago by twsullivan
 33
 Complete
 ```
-**Co-occurrences**: Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Prison, Time, Earth, After, Even, Could, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Prison, Earth
 
 ---
 ### Line 1171-1179 (Match: 'Iron')
@@ -122,7 +122,7 @@ Last edit over 5 years ago by Harpax
 82
 Needs Review
 ```
-**Co-occurrences**: Logos, Rome, Plato, However, Wisdom, These, Perhaps, Plotinus, World, Only, Time, Platonist, Harpax, Could, Something, Both, March, Although, Dante, Platonic, Anamnesis, Nothing, Soul, Most, Consider, Universe, Would, Erasmus, Back, Many, Have, Life, Justice, Freedom, Truth, Someone
+**Co-occurrences**: Plotinus, Time, Anamnesis, Logos, Rome, Plato, However, Wisdom, These, Perhaps, World, Only, Platonist
 
 ---
 ### Line 1181-1189 (Match: 'Iron')
@@ -139,7 +139,7 @@ Last edit over 5 years ago by Harpax
 83
 Needs Review
 ```
-**Co-occurrences**: Rome, Sophia, Fish, Greek, Roman, These, Perhaps, Maybe, Like, World, Since, Therefore, Only, Time, Harpax, Firebright, Could, Anyhow, Just, Look, Both, Palm, Those, Their, Real, Such, Certainly, Would, Were, Erasmus, Further, Have, Life, Later, Days, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Saint Sophia, Rome, Fish, Greek, Roman, These, Perhaps, Maybe, Like, World, Since, Therefore, Only
 
 ---
 ### Line 1481-1489 (Match: 'Iron')
@@ -156,7 +156,7 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, John, Time, Harpax, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Phil, Gold, Such, Voice, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Truth, Today, Evidently
+**Co-occurrences**: Time, Anamnesis, Phil, Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, John
 
 ---
 ### Line 2014-2022 (Match: 'Iron')
@@ -173,7 +173,7 @@ Last edit over 5 years ago by Harpax
 148
 Needs Review
 ```
-**Co-occurrences**: Jesus, Sophia, Like, World, Only, Earth, Harpax, Good, Light, Yang, Just, Something, Empedocles, Everything, Santa, Darkness, Another, True, Santa Sophia, Have, Artifact, Absolute, Justice, Evil, Having, Knowledge, Greater, Sons
+**Co-occurrences**: Sophia, Santa Sophia, Jesus, Like, World, Only, Earth
 
 ---
 ### Line 2030-2038 (Match: 'Iron')
@@ -190,7 +190,7 @@ Last edit over 5 years ago by Harpax
 149
 Needs Review
 ```
-**Co-occurrences**: Christianity, Well, Harpax, Could, Hebrew, Just, Moses, Himself, Their, More, Egypt, Before, Yahweh, Death, Finally, Angel, Passover, Blood, Lamb, Free
+**Co-occurrences**: Christianity, Well
 
 ---
 ### Line 2101-2109 (Match: 'Iron')
@@ -207,7 +207,7 @@ Last edit over 5 years ago by Harpax
 
 156
 ```
-**Co-occurrences**: Christ, Tears, Rome, Kingdom, King, Felix, Well, Bible, Parousia, However, Perhaps, Maybe, Like, World, Since, Fall, Therefore, Only, Time, Harpax, After, Even, Could, Does, Kingdom of God, Although, Moses, Either, Still, Their, Egypt, Babylon, Revelation, Death, Will, Would, Angel, Were, Biblical, Have, Life, Wise, Evidently, Genesis, Free, Right, Until, August
+**Co-occurrences**: Time, Christ, Tears, Rome, Kingdom, King, Felix, Well, Bible, Parousia, However, Perhaps, Maybe, Like, World, Since, Fall, Therefore, Only
 
 ---
 ### Line 2297-2305 (Match: 'Iron')
@@ -224,7 +224,7 @@ Last edit over 5 years ago by Harpax
 173
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Rome, Holy Spirit, However, World, Therefore, Time, Harpax, Even, Yang, Anyhow, Something, Taoism, Suppose, Reality, Being, Empedocles, Obviously, Although, Either, More, Actually, True, Will, Other, Mission, Further, Have, Evil
+**Co-occurrences**: Time, Spirit, Holy, Rome, Holy Spirit, However, World, Therefore
 
 ---
 ### Line 2477-2485 (Match: 'Iron')
@@ -241,7 +241,7 @@ Last edit over 5 years ago by Harpax
 
 186
 ```
-**Co-occurrences**: Tears, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Plato, Greek, Bible, Parousia, Wisdom, Dionysos, These, Perhaps, Father, James, Since, Because, Time, Harpax, Could, Does, Once, Again, Zagreus, Being, Divine, Himself, Apollo, Gods, Fate, Deus, Grace, Nothing, Those, Still, Part, More, Zeus, Most, Death, Macro, Will, Would, Other, Biblical, Erasmus, Back, Beyond, Surely, Whatever, Under, Many, Have, Life, Evil, Magic, Right, Ananke, Grail
+**Co-occurrences**: Time, Tears, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Plato, Greek, Bible, Parousia, Wisdom, Dionysos, These, Perhaps, Father, James, Since, Because
 
 ---
 ### Line 2530-2538 (Match: 'Iron')
@@ -258,7 +258,7 @@ Last edit over 5 years ago by Harpax
 
 191
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Rome, Form, Kingdom, King, Empire, Dionysos, These, Like, World, Prison, Only, Time, Nixon, Harpax, After, Light, Does, Anyhow, Just, Something, Kingdom of God, Both, Being, Runciter, Without, Their, More, Through, Voice, Before, Death, Would, Hamlet, Were, Back, Surely, Have, Clearly, Life, Body, Spring, Pentheus, Instead, Days, Dead, Human, Iron Prison, Dream, Salvation
+**Co-occurrences**: Time, Christ, Tears, Ubik, Rome, Form, Kingdom, King, Empire, Dionysos, These, Like, World, Prison, Only, Nixon
 
 ---
 ### Line 2535-2543 (Match: 'Iron')
@@ -274,7 +274,7 @@ Last edit over 5 years ago by Harpax
 192
 Needs Review
 ```
-**Co-occurrences**: Christ, Complete, Sophia, Kingdom, Paul, Greek, Golden, Plotinus, Like, World, Because, Only, Time, Harpax, After, Mind, Even, Could, Pinky, Just, Something, Again, Kingdom of God, Although, Everything, Either, Santa, More, Another, Through, Real, Actually, Santa Sophia, Death, Universe, Will, Would, Other, Creation, Back, Beyond, Have, Things, Life, Body, Spring, Later, Remember
+**Co-occurrences**: Plotinus, Sophia, Time, Santa Sophia, Christ, Complete, Kingdom, Paul, Greek, Golden, Like, World, Because, Only
 
 ---
 ### Line 2541-2549 (Match: 'Iron')
@@ -291,7 +291,7 @@ Last edit over 5 years ago by Harpax
 193
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Spirit, Holy, Jesus, Xerox, Rome, Holy Spirit, Sophia, Kingdom, King, Paul, Well, Parousia, Dionysos, These, Perhaps, Like, World, Because, Harpax, After, Book, Light, Even, Pinky, Anyhow, Just, Once, Kingdom of God, Zagreus, Being, March, Either, Jewish, Darkness, Still, Jews, Part, Their, Another, Through, Most, Greece, Death, Messiah, Mission, Were, Very, Back, Beyond, Under, Many, Have, Things, Judgment, Life, Body, Spring, Pentheus, Testament, Evil, Dream, Evidently, Final, Crete, Until, August
+**Co-occurrences**: Sophia, Christ, Tears, Acts, Christian, Spirit, Holy, Jesus, Xerox, Rome, Holy Spirit, Kingdom, King, Paul, Well, Parousia, Dionysos, These, Perhaps, Like, World, Because
 
 ---
 ### Line 2575-2583 (Match: 'Iron')
@@ -308,7 +308,7 @@ The Battle of Armageddon must occur before Christ returns (which I believe is wh
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Holy Spirit, Sophia, Kingdom, King, Paul, Well, Bible, Parousia, Perhaps, Advent, Elijah, Like, World, Only, Time, Earth, Harpax, After, Does, Anyhow, Just, Once, Again, Kingdom of God, Kosmos, Being, Either, Great, Santa, Still, Part, More, Through, Heaven, Certainly, Before, True, Santa Sophia, Will, Would, Other, Back, Have, Things, Judgment, Life, Body, Except, Dead, Dream, Doesn, Final, Answer, Until
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christ, Tears, Christian, Ubik, Spirit, Holy, Holy Spirit, Kingdom, King, Paul, Well, Bible, Parousia, Perhaps, Advent, Elijah, Like, World, Only, Earth
 
 ---
 ### Line 2610-2618 (Match: 'Iron')
@@ -325,7 +325,7 @@ Last edit over 5 years ago by Harpax
 199
 Needs Review
 ```
-**Co-occurrences**: These, Like, Since, Because, Harpax, After, Book, Again, Obviously, Moses, Tessa, Another, Egypt, True, Very, Life, German, Salvation, Final
+**Co-occurrences**: These, Like, Since, Because
 
 ---
 ### Line 2783-2791 (Match: 'Iron')
@@ -342,6 +342,6 @@ And she always wins, in each play of the game. What is this adversary and how di
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Jesus, Sophia, Like, World, Only, Earth, Good, Light, Yang, Just, Something, Empedocles, Everything, Santa, Darkness, Another, True, Santa Sophia, Have, Artifact, Absolute, Justice, Evil, Having, Knowledge, Greater, Sons
+**Co-occurrences**: Sophia, Santa Sophia, Jesus, Like, World, Only, Earth
 
 ---

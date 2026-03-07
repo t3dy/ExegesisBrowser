@@ -20,8 +20,7 @@ The ostensible king is a fool (Narr). The ostensible Torr fool is a king and mak
 
 The two main sources of information are: the bible and the plays of Shakespeare; they may be in fact one source.
 ```
-**Co-occurrences**: Indexed, King, Bible, Like, World, Only, Folder, Reality, Everything, Indexed
-Folder, Part, Real, Hamlet, Judge, Have, Women, Information
+**Co-occurrences**: Information, Indexed, King, Bible, Like, World, Only
 
 ---
 ### Line 43849-43857 (Match: 'Tagore')
@@ -38,7 +37,7 @@ ach; This perforce makes me a Biblical prophet: "cease your evil ways or God wil
 
 Last edit over 4 years ago by PaigeH99
 ```
-**Co-occurrences**: Holy, Jesus, Gnostic, Well, Wisdom, Lord, These, Like, World, Gnosis, Only, Time, Holy Wisdom, Good, Suppose, Both, Maya, Being, Zoroastrian, Krishna, Indian, Through, Real, Death, Will, Other, Creation, Biblical, Have, Things, Life, Evil, Israel
+**Co-occurrences**: Gnostic, Time, Holy, Jesus, Well, Wisdom, Lord, These, Like, World, Gnosis, Only
 
 ---
 ### Line 43861-43869 (Match: 'Tagore')
@@ -55,7 +54,7 @@ My perception of this in terms of Teilhard: point omega and the noosphere correl
 
 But the final ultimate purpose of "Valis" and "DI" is not to analyze or report but to predict, as John the Baptist (Elijah) did 2000 years ago: the imminent coming - ie return- of the savior. This is clear from the internal evidence of the two novels. What this makes me think 1): remember how when Tom Disch visited me in 1974 I strongly suspected that it was Elijah whose spirit had taken me over (Being then also the Baptist)? (1) and I very soon realized the utterance derived from scripture. Elijah will return shortly before Christ returns, preparing the way. Well, hence Elijah shows up in "Divine Invasion" and his ability repeatedly to incarnate himself is discussed!
 ```
-**Co-occurrences**: Christ, Valis, Christian, Spirit, Form, Well, Lord, Elijah, John, Savior, Again, Teilhard, Being, Divine, Himself, Krishna, Still, Indian, Before, True, Death, Will, Mission, Very, Beyond, Evil, Remember, Baptist, Final
+**Co-occurrences**: Valis, Christ, Christian, Spirit, Form, Well, Lord, Elijah, John
 
 ---
 ### Line 43863-43871 (Match: 'Tagore')
@@ -72,7 +71,7 @@ But the final ultimate purpose of "Valis" and "DI" is not to analyze or report b
 
 (1) ie "Thomas" who so feared the Romans - well, they killed the Baptist. Garroted themes
 ```
-**Co-occurrences**: Christ, Valis, Christian, Thomas, Spirit, Form, Well, Roman, Lord, Elijah, John, Savior, Again, Teilhard, Being, Divine, Himself, Krishna, Still, Indian, Before, True, Death, Will, Mission, Very, Beyond, Evil, Remember, Baptist, Final
+**Co-occurrences**: Valis, Thomas, Christ, Christian, Spirit, Form, Well, Roman, Lord, Elijah, John
 
 ---
 ### Line 43879-43887 (Match: 'Tagore')
@@ -89,7 +88,7 @@ It was not up to the Baptist to teach the Christian Kerygma but, rather, to anno
 
 There was too much info in that dream about Tagore to be just a dream: Krishna, Christ, Yhwh and the O.T., the Kerygma it self (which I soon correlated to Teilhard's concepts and thereby back to 2-3-74 and "Valis")
 ```
-**Co-occurrences**: Christ, Valis, Christian, Spirit, Sophia, Well, Advent, Elijah, Like, World, Since, Only, Savior, Good, Even, Anyhow, Just, Kerygma, Both, Teilhard, Self, Krishna, Still, Voice, Before, Other, Messiah, Back, Have, Info, Passover, Greater, Dream, Baptist
+**Co-occurrences**: Valis, Sophia, Christ, Christian, Spirit, Well, Advent, Elijah, Like, World, Since, Only
 
 ---
 ### Line 43883-43891 (Match: 'Tagore')
@@ -106,7 +105,7 @@ Last edit 6 months ago by Zebrapedia
 5
 Indexed
 ```
-**Co-occurrences**: Christ, Valis, Christian, Indexed, Spirit, Sophia, Well, Advent, Elijah, Like, World, Since, Only, Savior, Good, Even, Anyhow, Zebrapedia, Just, Kerygma, Both, Teilhard, Self, Krishna, Still, Before, Other, Messiah, Back, Have, Info, Greater, Dream, Baptist
+**Co-occurrences**: Valis, Sophia, Zebrapedia, Christ, Christian, Indexed, Spirit, Well, Advent, Elijah, Like, World, Since, Only
 
 ---
 ### Line 43891-43899 (Match: 'Tagore')
@@ -123,7 +122,7 @@ Last edit 8 months ago by Zebrapedia
 
 6
 ```
-**Co-occurrences**: Valis, Indexed, These, Like, World, Even, Could, Does, Zebrapedia, Kerygma, Both, Teilhard, Although, Fate, Krishna, Most, Real, Actually, Revelation, Will, Would, Biblical, Evil, Otherwise
+**Co-occurrences**: Valis, Zebrapedia, Indexed, These, Like, World
 
 ---
 ### Line 43900-43908 (Match: 'Tagore')
@@ -140,7 +139,7 @@ Social Services Barry Spatz 834-2780 547-6767 Child Welfare 2030 E 4th 834 2583 
 
 Let me ask: Did Jesus' crucifixion possess the effacacy or the news of it? And does Tagore's passion and death in themselves possess effacacy or the news of them? I don't know. And what would the effacacy be? Surely it lies in awakening us to what we are doing so that we cease (the nuclear waste dumping) then it is the news, the Kerygma, the ecosphere cries out in pain! These are the new peccata mundi. Oh my God; Tagore suffers and dies to abolish the Karma we humans have acquired due to our crimes against the ecosphere: his passion and death replace - serve as surrogates - for ours; thus his death is more than cautionary. It is salvific in two ways: (1) it causes us to cease our acts of destruction (2) it spares us from the Divine punishing wrath.
 ```
-**Co-occurrences**: Tears, Acts, Christian, Jesus, These, Karma, Does, Kerygma, Divine, Viewed, More, Secret, True, Death, Would, Surely, Have, Life
+**Co-occurrences**: Tears, Acts, Christian, Jesus, These
 
 ---
 ### Line 43904-43912 (Match: 'Tagore')
@@ -157,7 +156,7 @@ The ecosphere is Christ. This is what we must learn: when we wound the ecosphere
 
 Last edit 8 months ago by Zebrapedia
 ```
-**Co-occurrences**: Christ, Valis, Tears, Acts, Christian, Holy, Jesus, These, Because, Karma, Does, Zebrapedia, Kerygma, Divine, More, Another, Living, Secret, True, Death, Will, Would, Surely, Have
+**Co-occurrences**: Valis, Zebrapedia, Christ, Tears, Acts, Christian, Holy, Jesus, These, Because
 
 ---
 ### Line 43916-43924 (Match: 'Tagore')
@@ -174,7 +173,7 @@ But perhaps this "crucifixion" must naturally occur, as part of the soteriologic
 
 Last edit over 4 years ago by PaigeH99
 ```
-**Co-occurrences**: Christ, Valis, Logos, Well, Perhaps, Advent, World, Since, Noos, Cosmic, Savior, Mind, Cosmic Christ, Just, Once, Again, Both, Teilhard, Christi, Himself, Corpus, Without, Darkness, Still, Part, Corpus Christi, Actually, Death, Macro, Will, Would, Body, Human, Right
+**Co-occurrences**: Valis, Christ, Logos, Well, Perhaps, Advent, World, Since
 
 ---
 ### Line 43928-43936 (Match: 'Tagore')
@@ -191,7 +190,7 @@ So for this revelation of/about Tagore it was necessary for me to experience the
 
 Last edit 8 months ago by Zebrapedia
 ```
-**Co-occurrences**: Christ, Valis, Logos, Jesus, Complete, Form, Kingdom, Advent, Time, Zebrapedia, Kerygma, Himself, Russ, Ground, Revelation, Death, Macro, Will, Would, Were
+**Co-occurrences**: Valis, Time, Zebrapedia, Christ, Logos, Jesus, Complete, Form, Kingdom, Advent
 
 ---
 ### Line 43930-43938 (Match: 'Tagore')
@@ -208,7 +207,7 @@ Last edit 8 months ago by Zebrapedia
 9
 Indexed
 ```
-**Co-occurrences**: Christ, Valis, Indexed, Logos, Jesus, Complete, Form, Kingdom, Advent, Time, Zebrapedia, Kerygma, Himself, Russ, Ground, Revelation, Death, Macro, Will, Would, Were
+**Co-occurrences**: Valis, Time, Zebrapedia, Christ, Indexed, Logos, Jesus, Complete, Form, Kingdom, Advent
 
 ---
 ### Line 43942-43950 (Match: 'Tagore')
@@ -225,7 +224,7 @@ Last edit 8 months ago by Zebrapedia
 10
 Indexed
 ```
-**Co-occurrences**: Christ, Valis, Indexed, Logos, Only, Savior, Gospel, Could, Zebrapedia, Just, Once, Kerygma, Again, Part, Another, Upon, Before, Will, Would, Very, Beyond, Have, Later, Human
+**Co-occurrences**: Valis, Zebrapedia, Christ, Indexed, Logos, Only
 
 ---
 ### Line 43952-43960 (Match: 'Tagore')
@@ -242,7 +241,7 @@ So the 9-81 revelation tells me what this is all about and has been about from t
 
 This explains my vision of Pinky's death as the death of the savior, and my extrapolation that when each living creature dies, it is Christ dying. I said, "Christ
 ```
-**Co-occurrences**: Christ, Valis, Spirit, Holy, Wisdom, Lord, Elijah, Like, World, Because, Savior, Holy Wisdom, Pinky, Kerygma, Moses, Himself, Darkness, Krishna, Those, Their, Living, Upon, Revelation, Death, Will, Further, Have, Baptist
+**Co-occurrences**: Valis, Christ, Spirit, Holy, Wisdom, Lord, Elijah, Like, World, Because
 
 ---
 ### Line 43954-43962 (Match: 'Tagore')
@@ -259,7 +258,7 @@ This explains my vision of Pinky's death as the death of the savior, and my extr
 
 Last edit over 4 years ago by PaigeH99
 ```
-**Co-occurrences**: Christ, Valis, Spirit, Holy, Wisdom, Lord, Elijah, Like, World, Because, Savior, Holy Wisdom, Pinky, Kerygma, Moses, Himself, Darkness, Krishna, Those, Their, Living, Upon, Revelation, Death, Will, Further, Have, Baptist
+**Co-occurrences**: Valis, Christ, Spirit, Holy, Wisdom, Lord, Elijah, Like, World, Because
 
 ---
 ### Line 43973-43981 (Match: 'Tagore')
@@ -276,7 +275,7 @@ Last edit almost 3 years ago by svayambhu108
 14
 Needs Review
 ```
-**Co-occurrences**: Christ, Acts, Christian, World, Prison, Time, Light, Could, Hebrew, Kerygma, Teilhard, Buddhism, Great, Nothing, Krishna, Will, Would, Hindu, Back, Life, Today, Otherwise, Human, Pleroma
+**Co-occurrences**: Time, Pleroma, Christ, Acts, Christian, World, Prison
 
 ---
 ### Line 43979-43987 (Match: 'Tagore')
@@ -293,7 +292,7 @@ Last edit almost 3 years ago by svayambhu108
 15
 Needs Review
 ```
-**Co-occurrences**: Christ, These, World, After, Mind, Kerygma, Again, Eldritch, Palmer, Great, Palmer Eldritch, Grace, Through, Living, Death, Would, Have, Life, Body, Free
+**Co-occurrences**: Christ, These, World
 
 ---
 ### Line 43985-43993 (Match: 'Tagore')
@@ -310,7 +309,7 @@ Last edit almost 3 years ago by svayambhu108
 
 16
 ```
-**Co-occurrences**: Christ, Valis, Logos, Perhaps, Even, Reality, Being, Great, Without, Krishna, More, Another, Through, True, Death, Will, Were, Very, Absolute, Answer
+**Co-occurrences**: Valis, Christ, Logos, Perhaps
 
 ---
 ### Line 44002-44010 (Match: 'Tagore')
@@ -327,7 +326,7 @@ Last edit almost 3 years ago by svayambhu108
 19
 Needs Review
 ```
-**Co-occurrences**: Christ, Elijah, World, Only, John, Just, Both, Great, Those, Their, Love, Before, Will, Suddenly, Baptist, Final
+**Co-occurrences**: Christ, Elijah, World, Only, John
 
 ---
 ### Line 44014-44022 (Match: 'Tagore')
@@ -344,6 +343,6 @@ Last edit almost 3 years ago by svayambhu108
 
 21
 ```
-**Co-occurrences**: Christ, Valis, Thomas, Parousia, Lord, Like, World, Only, Stigmata, Light, Does, Divine, Himself, Part, Through, Real, Will, Very, Further, Information, Later, Today, Horselover, Dream, Final, Someone
+**Co-occurrences**: Valis, Thomas, Information, Christ, Parousia, Lord, Like, World, Only
 
 ---

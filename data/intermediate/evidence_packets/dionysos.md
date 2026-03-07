@@ -20,7 +20,7 @@ I forgot; only after that did I see anything else (e.g. Dionysos). My experience
 
 Yes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh.
 ```
-**Co-occurrences**: Rome, Kingdom, Well, Elijah, Like, Because, Iron, Only, Time, After, Just, Again, Kingdom of God, March, Great, House, Before, Kingship, Were, Have, Tree, Dead
+**Co-occurrences**: Time, Rome, Kingdom, Well, Elijah, Like, Because, Iron, Only
 
 ---
 ### Line 133-141 (Match: 'Dionysos')
@@ -37,7 +37,7 @@ Rose: “Stephen, how come I can do magic and I’m living here in Fullerton lik
 
 Stephen: (MYSTEROUSLY, BUT AMUSED) “I can’t tell you yet, Rose, or Mary, or Rosemary, whaterver.” (EROTIC INTERCHANGE OF GLANCES BETWEENB THEM: SHE FALLS FOR HIM. HE IS A NEAT DUE, SHARP DRESSER, ETC. OLDER)
 ```
-**Co-occurrences**: Spirit, King, Well, Like, World, Because, Only, Time, Book, Could, Does, Anyhow, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Claudia, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+**Co-occurrences**: Time, Spirit, King, Well, Like, World, Because, Only
 
 ---
 ### Line 304-312 (Match: 'Dionysos')
@@ -54,7 +54,7 @@ In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: hi
 
 When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
 ```
-**Co-occurrences**: Christ, Thomas, Form, Well, However, Perhaps, Like, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Claudia, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Thomas, Time, Christ, Form, Well, However, Perhaps, Like, Since, Therefore, Only
 
 ---
 ### Line 405-413 (Match: 'Dionysos')
@@ -71,7 +71,7 @@ shock to us, when abruptly visible. What is disclosed is that the smaller cycle 
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Ubik, Christianity, Well, Like, Since, Because, Only, Time, After, Soviet, Taoism, Again, Reality, Kosmos, Being, Runciter, Although, Great, Viewed, Without, Darkness, Those, More, Living, Real, Zoroastrianism, Greece, True, Death, Egyptian, Beyond, Many, Have, Life, Spring, Instead, Days, Evil, Greater, Final, Right, Until
+**Co-occurrences**: Time, Ubik, Christianity, Well, Like, Since, Because, Only
 
 ---
 ### Line 414-422 (Match: 'Dionysos')
@@ -87,7 +87,7 @@ That the Final Days should be in fact a springing up into full life, complete li
 
 From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
 ```
-**Co-occurrences**: Christ, Complete, Paul, Well, These, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+**Co-occurrences**: Time, Christ, Complete, Paul, Well, These, Perhaps, Only
 
 ---
 ### Line 444-452 (Match: 'Dionysos')
@@ -104,7 +104,7 @@ But in this novel, Thomas says, "The Final Days have come. The overthrown of the
 
 During Winter, it was believed that Dionysos, the god of the vine plant, of vegetation, of the crop, slumbered. It was known that no matter how dead he seemed (James Joyce's FINNIGANS WAKE is a wonderful acount of this) he was actually alive, though you'd never know it. And then, --not to the surprise of those who understood him and believed in him-- he was reborn. His followers knew he would be. We are speaking here of the mystery religions, all of them -- including Christianity. Our God has been sleeping, during the long winter of the human culture ([x] not for one year's rotational cycle of seasons, but from 45 A.D. through the centuries of mental winter to now); just when Winter holds all in its grip, the snow of despair and defeat (in our case, political chaos, moral ruin, economic ruin -- the winter of our planet, our world, our civilization) then the vine, which was gnarled and old and seemingly dead, breaks into new life, and our God is reborn -- not outside us as such, but in each of us. Slumbering not under the snow over the ground-surface but within the right hemispheres of our brains. We have been waiting, we didn't know what for. This is it: this is Spring for our planet, in a deeper more fundamental way. The cold chains of iron are being thrown off, but by what a miracle. As with my character, Nicholas Brady -- I've had Zagreus awaken in my right hemisphere, and felt the flooding of renewed life, his vigor, his personality, and his godlike wisdom: he hated the injustice he saw around him, and remembered "the dear lone lands untroubled by men, where amid the shadowy green / The little ones of the forest live unseen." (Eurypides) Dr. Ornstein, thank you for helping bring Winter to an end, and ushering in --not just Spring-- but the living life of Spring alive but [xl] asleep inside us.
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, These, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Christian, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, These, James, Like, World, Because, Iron, Only, John
 
 ---
 ### Line 448-456 (Match: 'Dionysos')
@@ -121,7 +121,7 @@ Cordially,
 
 Philip K. Dick 1405 Cameo Lane 4 Fullerton Calif 92631
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Rome, Christianity, Form, Roman, Wisdom, These, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Philip, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Dick, Fullerton, Calif, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Philip, Christian, Jesus, Rome, Christianity, Form, Roman, Wisdom, These, James, Like, World, Because, Iron, Only, John
 
 ---
 ### Line 462-470 (Match: 'Dionysos')
@@ -138,7 +138,7 @@ However, I have discovered that I have been tricked. It is not the ancient Phryg
 
 To his credit, he was delighted when I abruptly guessed that it was him and not Dionysos. Still, after I had enjoyed realization of the clues which Erasmus had left along the way (all of them puns, double puns, and which I always saw solemn and heavy meaning in -- the wrong meaning leading me astray), I discovered that there are in the universe always layers below layers, and that the universe resembles nothing so much as an onion the innermost layer of which is also the outer. For instance, perhaps it filled Dionysos with mirth to pretend to be Erasmus. Would not the god of mirth get off on that? Maybe it is Dionysos pretending to be Erasmus pretending to be Dionysos. Maybe they are the same.
 ```
-**Co-occurrences**: However, Perhaps, Maybe, After, Book, March, Nothing, Still, Universe, Deity, Would, Erasmus, Back, Beyond, Have
+**Co-occurrences**: However, Perhaps, Maybe
 
 ---
 ### Line 464-472 (Match: 'Dionysos')
@@ -155,7 +155,7 @@ To his credit, he was delighted when I abruptly guessed that it was him and not 
 
 I present you with the sort of evidence which deep within the heavy books I read seemed to indicate vast truths undisclosed to most men; viz.:
 ```
-**Co-occurrences**: However, Perhaps, Maybe, After, Book, March, Nothing, Still, Most, Universe, Deity, Would, Erasmus, Back, Beyond, Have
+**Co-occurrences**: However, Perhaps, Maybe
 
 ---
 ### Line 466-474 (Match: 'Dionysos')
@@ -172,7 +172,7 @@ I present you with the sort of evidence which deep within the heavy books I read
 
 In a dream I was shown that the word "Jesus" is a code, a word made up and not a name at all; those reading the text who knew (the Quamran men, for instance) would see "ZEUS" and "ZAGREUS" combined into the integer "JESUS". It is a substitution code, I think they call it. These idle games of Erasmus, however, had grown stale to me once it was revealed how I'd been taken in by my own proclivity for profundity...however, as I went to get a spelling right for this letter, I found these remarkably similar textual passages:
 ```
-**Co-occurrences**: Jesus, However, These, Perhaps, Maybe, After, Book, Once, Zagreus, March, Nothing, Those, Still, Zeus, Most, Universe, Deity, Would, Erasmus, Back, Beyond, Have, Dream, Right
+**Co-occurrences**: Jesus, However, These, Perhaps, Maybe
 
 ---
 ### Line 474-482 (Match: 'Dionysos')
@@ -189,7 +189,7 @@ Last edit almost 3 years ago by twsullivan
 30
 Complete
 ```
-**Co-occurrences**: Jesus, Complete, However, These, Once, Zagreus, Himself, Those, Zeus, Star, Revelation, Would, Erasmus, Dream, Right
+**Co-occurrences**: Jesus, Complete, However, These
 
 ---
 ### Line 480-488 (Match: 'Dionysos')
@@ -206,7 +206,7 @@ Dionysos appeared to the Greeks in vegetable form (root, tree, vine) and animal 
 
 And then later, "...He is drunken with music, not with wine." (Jane Harrision.) By stealthy degrees Dionysos became Zagreus and then Orpheus. The trouble with Jesus is that he isn't musical. I guess they could use lipsynch, but the fact is, Jesus is Orpheus, and Christianity is the next mirthful dodge which the Loving Dodger has worked on us, those whom he loves. I have this vision of Him: much like the Hurdy-Gurdy Man: I see Him invisible to us behind us as the flock moves on, and I see small stragglers and old stragglers and stupid stragglers and sick stragglers and stragglers in general who have given up hope or lost energy and have given up to perish as the flock or pack or herd or culture or race marches on, without a look back. And sparkling with light and silently, He emerges and without breaking stride gathers up all the stragglers.
 ```
-**Co-occurrences**: Jesus, Complete, Christianity, Form, Greek, Well, These, Like, Time, Light, Could, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Back, Egyptian, Have, Tree, Later, Human
+**Co-occurrences**: Time, Jesus, Complete, Christianity, Form, Greek, Well, These, Like
 
 ---
 ### Line 482-490 (Match: 'Dionysos')
@@ -223,7 +223,7 @@ And then later, "...He is drunken with music, not with wine." (Jane Harrision.) 
 
 Since the flock never looks back or turns back it never sees Him. This is why Luther accurately called our God the "God of the very desperate." This is why the image of the flock and the lamb which has wandered off appear in our sacred writings, and others which refer to this archtypal rescue in stealth. Because of course if the flock knew, they'd stop trudging along and just stand or go back. They're not to know.
 ```
-**Co-occurrences**: Jesus, Complete, Christianity, Form, Greek, Well, These, Like, Since, Because, Time, Light, Could, Just, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Very, Back, Egyptian, Have, Tree, Later, Luther, Human, Lamb, Sacred
+**Co-occurrences**: Time, Jesus, Complete, Christianity, Form, Greek, Well, These, Like, Since, Because
 
 ---
 ### Line 484-492 (Match: 'Dionysos')
@@ -240,7 +240,7 @@ Since the flock never looks back or turns back it never sees Him. This is why Lu
 
 Now, did Dionysos let me know this because he has taken me, or did Erasmus whisper this to me in dreams because he was such a wise Christian divine and had his own theories, and I'm fronting for him? I know I'm fronting for someone. God or wise old man.
 ```
-**Co-occurrences**: Christian, Jesus, Christianity, Form, Greek, Well, These, Like, Since, Because, Time, Light, Could, Just, Look, Zagreus, Being, Divine, Himself, Without, Those, More, Star, Such, Death, Universe, Erasmus, Very, Back, Egyptian, Have, Tree, Wise, Later, Luther, Human, Lamb, Someone, Sacred
+**Co-occurrences**: Time, Christian, Jesus, Christianity, Form, Greek, Well, These, Like, Since, Because
 
 ---
 ### Line 488-496 (Match: 'Dionysos')
@@ -257,7 +257,7 @@ With warm personal regards,
 
 Phil Dick 1405 Cameo Lane #4 Fullerton, Calif 92631 (N. of Disneyland)
 ```
-**Co-occurrences**: Christian, Jesus, Christianity, Like, Since, Because, Light, Could, Just, Look, Zagreus, Divine, Without, Those, Phil, Such, Dick, Fullerton, Calif, Erasmus, Very, Back, Have, Wise, Later, Luther, Lamb, Phil Dick, Someone, Sacred
+**Co-occurrences**: Phil, Phil Dick, Christian, Jesus, Christianity, Like, Since, Because
 
 ---
 ### Line 590-598 (Match: 'Dionysos')
@@ -274,7 +274,7 @@ Last edit over 5 years ago by Harpax
 37
 Needs Review
 ```
-**Co-occurrences**: Christ, Lord, These, Only, Time, Harpax, After, Even, Zagreus, Nothing, Kathy, Those, Their, More, Most, True, Will, Would, Have, Clearly, Life, Government, Suddenly, Dream
+**Co-occurrences**: Time, Christ, Lord, These, Only
 
 ---
 ### Line 1045-1053 (Match: 'Dionysos')
@@ -290,7 +290,7 @@ This borders on the Sufi: becoming God. One does "become" God while he possesses
 
 Well, I have certainly (through Doris' help) made a distinction
 ```
-**Co-occurrences**: Christianity, Form, Well, Gnosticism, Plotinus, Elijah, Father, Like, Time, After, Cosmic, Savior, Good, Light, Firebright, Okay, Could, Does, Just, Something, Look, Being, Self, Orphic, Divine, Himself, Sibyl, Viewed, Grace, More, Through, Orphism, Such, Certainly, Doris, True, Would, Other, Were, Beyond, Have, Life, Body, Justice, Truth, Human, Doesn
+**Co-occurrences**: Gnosticism, Plotinus, Time, Firebright, Decoded, Christianity, Form, Well, Elijah, Father, Like
 
 ---
 ### Line 1223-1231 (Match: 'Dionysos')
@@ -307,7 +307,7 @@ Dream about Dodger statium and low class Mexican type US celebrations of every s
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christian, Logos, Christianity, Greek, These, Perhaps, Father, Like, Since, Time, Harpax, After, Light, Even, Yang, Firebright, Could, Does, Again, Both, Zagreus, Being, Everything, Divine, Moses, Great, Bacchae, Gods, Those, More, Zeus, Another, Egypt, Such, Mother, Deity, Would, Somehow, Were, Have, Body, Justice, Otherwise, Dream
+**Co-occurrences**: Time, Firebright, Christian, Logos, Christianity, Greek, These, Perhaps, Father, Like, Since
 
 ---
 ### Line 1272-1280 (Match: 'Dionysos')
@@ -324,7 +324,7 @@ I am lying in bed here and I am musing, "God can simulated the inanimate. Or rat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Lord, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+**Co-occurrences**: Time, Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Golden, Lord, Maybe, Like, World, Because, Prison
 
 ---
 ### Line 1414-1422 (Match: 'Dionysos')
@@ -341,6 +341,6 @@ The Neoplatonist (yes? no?) theory that the gods were what is it? [?] or somethi
 
 ... I had a difficult & complex intellectual model insight last night. Back to my “loaded” insight: there stands Christ; there stand a very large number of persons rapidly sketching him. We are the sketches. We can’t see the model, Christ, “in whose style we are all drawn.” It came into my head last night that every now and then one of us —the sketches— reaches the so-to-speak Christ point, something like a liquid being heated reaching flashpoint. Then I remembered what Angus Taylor points out about my story “Pay of the Printer” in which there are 3 elements: (one) the [?] [?] [?] glass. (two) the fucked-up sketches of it which the printer must make. (three) the still clumbsy but on-the-right-path [?] cups which people are building using the [?] [?] [?] — which is concealed from their sight, wrapped up and put away; otherwise, they’d merely sketch or print it: capture the mere appearance [?] mere copy. This way, knowing that the Steuben cup exists, [?] must merely go by recall of it, and the result is that “A million paths,” so to speak, open as they seek different ways by which to capture the only glimpsed goal (or Platonic ideal). Well, I hazard this different thought: we are merely like (three) than (two). Thus we take quite different forms... proof we’re not merely copied. Then I remembered the Gnostic story of the creator angels copying man, but being unable to make their copies good enough; the copies wouldn’t come to life, and out of mercy God brought them to life. What we seem to have going is a system to promote the diversification of the ontology of Christ into as many Varient forms as can be produced (the “open market,” so to speak). The advantages are mainly this, that virtually anything, anyone or any object, can be built (three-system supre) until eventually, if the work goes right, it finally reaches Christ-point.” This would indicate, evidently, animals and men, then maybe the world with even inanimte objects in it. A total kingdom in the image of the King, and thus the sterility of mere copying (sketching) is abolished in favor of a time-consuming, laborious task, but one with extraordinary promise. Wow.Now I’m writing my own theological myths! Imagine the low-born and the base elements, and the unusual combinations (stones rejected, etc) which might result in successful Christpoints in many of the constructs! (This myth would equate the forces of nature with the creator angels or those who’re sketching, a step down from God, obviously, but doing HIs work
 ```
-**Co-occurrences**: Christ, Jesus, Form, Kingdom, Gnostic, King, Well, Maybe, Like, World, Only, Time, Harpax, Good, Mind, Book, Even, Just, Something, Again, Both, Being, Obviously, Platonic, Bacchae, Apollo, Gods, Creator, Those, Still, Their, Real, Finally, Would, Somehow, Were, Very, Back, Many, Have, Life, Otherwise, Dream, Evidently, Right, Someone, Answer, Until
+**Co-occurrences**: Gnostic, Time, Christ, Jesus, Form, Kingdom, King, Well, Maybe, Like, World, Only
 
 ---

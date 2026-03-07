@@ -20,7 +20,7 @@ Last edit over 5 years ago by Harpax
 189
 Needs Review
 ```
-**Co-occurrences**: Christian, Spirit, Xerox, Rome, Christianity, Form, Sophia, King, Well, Empire, Wisdom, These, Advent, Father, Like, Fall, Because, Time, Earth, Harpax, Good, Just, Again, Being, Girl, Great, Gods, Sibyl, Santa, Nothing, Part, Their, More, Egypt, Heaven, Certainly, Love, Before, Greece, Santa Sophia, Macro, Will, Would, Other, Judge, Very, Back, Egyptian, Surely, Whatever, Have, Judgment, Justice, Information, Trinity, Evil, Hermes, Human, Dream, Crete
+**Co-occurrences**: Sophia, Time, Santa Sophia, Information, Hermes, Christian, Spirit, Xerox, Rome, Christianity, Form, King, Well, Empire, Wisdom, These, Advent, Father, Like, Fall, Because, Earth
 
 ---
 ### Line 2520-2528 (Match: 'Hermetic')
@@ -37,7 +37,7 @@ These Hermetic-Thoth texts were used by the alchemists of the Renaissance. The c
 
 . . . Christ told them that He had to die before the Second Comforter could come to them; perhaps, almost certainly, this is because it was his own spirit he was speaking of. This too is why he told them they'd be better off, not worse off, when he died/left, because then, really, he meant, he could return to them in spirit form (as he did at Pentercost) and enter them, through the third eye and make them both immortal and also part of his corporate body. He undoubtedly had, in his esoteric instructions, told them how to prepare to receive him back into themselves. . .this is what was lost later, when the Romans killed them, although by that time probably thousands had received him back into them in the ever widening circles. But you had to know how to recieve his spirit back in through the third eye, and that knowledge, so carefully guarded, so bad people wouldn't learn to do it -- that knowledge was lost. (In my opinion this is what happened with me in 3 74; I received his spirit through my third eye or pineal gland, and learned all this. To repeat: the Paraclete then is the spirit of life of the Last Adam or Christ, returning after his resurrection.
 ```
-**Co-occurrences**: Christ, Ubik, Spirit, Holy, Jesus, Complete, Christianity, Holy Spirit, Form, Sophia, Kingdom, King, Paul, Bible, Roman, Wisdom, These, Perhaps, Maybe, World, Because, Time, Earth, Harpax, After, Paraclete, Savior, Could, Anyhow, Just, Adam, Again, Kingdom of God, Both, Being, Although, Himself, Gods, Probably, Santa, Part, More, Another, Through, Most, Voice, Certainly, Before, Santa Sophia, Death, Universe, Other, Creation, Were, Back, Egyptian, Have, Life, Body, Instead, Later, Testament, Trinity, Knowledge, Dead, Comforter, Human, Someone
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christ, Ubik, Spirit, Holy, Jesus, Complete, Christianity, Holy Spirit, Form, Kingdom, King, Paul, Bible, Roman, Wisdom, These, Perhaps, Maybe, World, Because, Earth
 
 ---
 ### Line 6828-6836 (Match: 'Hermetic')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by Toso
 15
 Complete
 ```
-**Co-occurrences**: Valis, Toso, Indexed, Logos, Complete, Form, Plato, Perhaps, Like, Cosmic, Something, Suppose, Reality, Kosmos, Being, Orphic, Great, Taoist, Have, Justice
+**Co-occurrences**: Valis, Toso, Indexed, Logos, Complete, Form, Plato, Perhaps, Like
 
 ---
 ### Line 8226-8234 (Match: 'Hermetics')
@@ -71,7 +71,7 @@ Last edit almost 3 years ago by svayambhu108
 
 126
 ```
-**Co-occurrences**: Christ, Gnostic, However, Godhead, World, Iron, Urgrund, Mind, Anyhow, Something, Again, Although, Everything, Divine, Anamnesis, Bruno, Consider, True, Macro, Universe, Have, Memory, Whether, Magic, Magus, Hermes
+**Co-occurrences**: Gnostic, Anamnesis, Hermes, Christ, However, Godhead, World, Iron
 
 ---
 ### Line 8231-8239 (Match: 'Hermetic')
@@ -87,7 +87,7 @@ Last edit almost 3 years ago by svayambhu108
 127
 Needs Review
 ```
-**Co-occurrences**: Christian, Rome, Gnostic, Well, Godhead, Time, Mind, Orphic, Divine, Part, Most, Universe, Were, Memory, Aphrodite, Except, Hermes, Syria
+**Co-occurrences**: Gnostic, Time, Hermes, Christian, Rome, Well, Godhead
 
 ---
 ### Line 8257-8265 (Match: 'Hermetics')
@@ -104,7 +104,7 @@ Last edit almost 3 years ago by svayambhu108
 
 131
 ```
-**Co-occurrences**: Christ, Thomas, Spirit, Holy, Rome, Christianity, Holy Spirit, Kingdom, Well, Wisdom, World, Because, After, Holy Wisdom, Good, Mind, Could, Simon, Kingdom of God, Empedocles, Although, Their, Bruno, Another, Living, Secret, Consider, True, Death, Other, Erasmus, Very, Back, Many, Have, Absolute, Wise, Having, Knowledge, Greater, Magus, Human, Simon Magus, Until
+**Co-occurrences**: Thomas, Christ, Spirit, Holy, Rome, Christianity, Holy Spirit, Kingdom, Well, Wisdom, World, Because
 
 ---
 ### Line 8421-8429 (Match: 'Hermetic')
@@ -121,7 +121,7 @@ The kind of memory that Bruno was cultivating -- and teaching techniques by whic
 
 1. On the surface, the universe consists of a spurious projected reality, under which lies an authentic substratum of the divine. It is difficult to penetrate to this substratum. 2. On the surface, the human mind consists of a short-term limited ego that is born and dies and comprehends very little, but behind this human ego lies the divine infinitude of absolute mind. It is difficult to penetrate to this substratum.
 ```
-**Co-occurrences**: Acts, Christian, Gnostic, Well, Perhaps, World, Since, Because, Therefore, Only, Time, Urgrund, Mind, Does, Once, Again, Reality, Being, Although, Self, Divine, Himself, Anamnesis, Brain, Creator, Those, Their, Bruno, Church, Through, Most, True, Universe, Finally, Will, Would, Other, Somehow, Very, Under, Many, Have, Artifact, Life, Absolute, Memory, Freedom, Later, Magic, Magus, Human, Right, Until
+**Co-occurrences**: Gnostic, Time, Anamnesis, Acts, Christian, Well, Perhaps, World, Since, Because, Therefore, Only
 
 ---
 ### Line 8431-8439 (Match: 'Hermetics')
@@ -138,7 +138,7 @@ Urgrund creates artifact which projects universe which gives rise to life forms 
 
 This reflects the sequence of stages envisioned in the Hindu religion. First there is creation by Brahma, then Vishnu sustains the universe; then Shiva destroys it, which should be understood as receiving it back into its origin. A full cycle of birth, life, and then return is enacted. When the universe has reached the evolutionary stage where it can faithfully replicate the Urgrund, it is ready to be absorbed back. Thus I say, the deity that reigns now is Shiva/Dionysos/Cernunnos/Christ, who restores us to our Urgrund or Father: our source of being. That Shiva the destroyer god is now active signals the fact that the cycle of creation has returned to its source, or rather, that the life forms of it are ready to return to their source. Shiva possesses a third or Ajna eye, which, when turned inwardly, gives him understanding to an absolute degree; when turned outward, it destroys. The manifestation of Shiva (of the Hindu system) is equated with the Day of Wrath in the Christian systern. What must be understood about this world-destroying deity is that it is also the herdsman of souls. With one of his four hands, Shiva is shown expressing reassurance that he will not harm the virtuous man. The same is true of Christ as Lord and Judge of the Universe. Although the world (the spurious projection of the artifact) is to be abolished, the good man need fear nothing. Nonetheless, judgment is being pronounced. The division of mankind into two parts by Christ is taking place. These are the same divisions expressed in the Egyptian system (as ruled by Osiris and Ma'at) and in the Iranian (by the Wise Mind). Through the total insight given him by his Ajna eye, Shiva the destroyer perceives that which he must destroy in the service of justice. Through that total insight he also perceives those whom he must protect. Thus he has a dual nature: destroyer of the wicked, protector of the weak, the victims of the world, the helpless. Christ possesses precisely these two natures, as Divine Judge and Good Shepherd. Cernunnos is both a warrior god and a healer god. It is difficult for humans to comprehend how these apparently opposite qualities can be combined into one deity. However, if attention is turned to the situation, it can be understood. The artifact's projected world has begun to serve its final and sole real purpose. Now, with the artifact about to be destroyed, that world will end; it was never real in the first place. (This reflects the quality of destroyer assigned to Christ/Shiva/Dionysos.) But the elements of the world that have done their task will be selected out -- that is saved -- exactly as Dionysos is depicted as the protector of small, helpless wild animals. Dionysos is the destroyer of prisons, of tyrannical rulers, and the savior of the small, the weak. These attributes are assigned to Shiva/Cernunnos/Christ/Dionysos because of the nature of the task now required: a twin task, one of destroying, one of saving.
 ```
-**Co-occurrences**: Christ, Christian, Indexed, Rome, Form, Gnostic, Well, However, Dionysos, Lord, These, Perhaps, Godhead, Father, Like, World, Since, Because, Time, Earth, After, Noos, Savior, Urgrund, Good, Mind, Even, Could, Does, Jakob Boehme, Zebrapedia, Just, Again, Shiva, Suppose, Both, Reality, Being, Christi, Although, Self, Orphic, Divine, Himself, Corpus, Either, Viewed, Nothing, Those, Part, Their, Bruno, Another, Through, Corpus Christi, Living, Xenophanes, Heaven, Real, Nonetheless, Such, Actually, Secret, Before, True, Death, Universe, Finally, Will, Deity, Would, Other, Creation, Somehow, Judge, Hindu, Back, Egyptian, Many, Have, Artifact, Judgment, Life, Absolute, Body, Apparently, Justice, Memory, Wise, Aphrodite, Remember, Except, West, Human, Syria, Evidently, Final
+**Co-occurrences**: Jakob Boehme, Gnostic, Time, Zebrapedia, Christ, Christian, Indexed, Rome, Form, Well, However, Dionysos, Lord, These, Perhaps, Godhead, Father, Like, World, Since, Because, Earth
 
 ---
 ### Line 14416-14424 (Match: 'Hermetic')
@@ -155,9 +155,7 @@ Last edit about 9 years ago by carrifaery
 folder 02 - 088
 Complete
 ```
-**Co-occurrences**: Ubik, Toso, Thomas, Indexed, Holy, Logos, Complete, Form, Wisdom, Lord, World, Noos, Folder, Holy Wisdom, Even, Does, Reality, Self, Toso
-Folder, Indexed
-Folder, Those, Paracelsus, Bruno, Soul, Living, Such, Secret, Would, Erasmus, Information, Dialectic, Dream, Right, Someone, Answer
+**Co-occurrences**: Thomas, Information, Dialectic, Ubik, Toso, Indexed, Holy, Logos, Complete, Form, Wisdom, Lord, World
 
 ---
 ### Line 14422-14430 (Match: 'Hermetic')
@@ -174,8 +172,7 @@ Last edit over 9 years ago by Toso
 folder 02 - 089
 Complete
 ```
-**Co-occurrences**: Ubik, Toso, Complete, Gnostic, Well, Perhaps, Because, Folder, Book, Even, Okay, Just, Suppose, Although, Self, Orphic, Toso
-Folder, Bruno, Another, Through, Such, Finally, Other, Were, Have, Having, Right, Someone
+**Co-occurrences**: Gnostic, Ubik, Toso, Complete, Well, Perhaps, Because
 
 ---
 ### Line 14457-14465 (Match: 'Hermetic')
@@ -192,8 +189,7 @@ Ah! If the macrocosm has a phylogeny, and it is contained in its ontogeny, then 
 
 Last edit almost 7 years ago by Toso
 ```
-**Co-occurrences**: Ubik, Toso, Indexed, Zebra, Logos, Form, Well, Like, World, Only, Time, Cosmic, Folder, Mind, Could, Just, Both, Great, Indexed
-Folder, Brain, More, Through, Soul, Voice, Secret, Love, Macro, Universe, Would, Very, Under, Have, Information, Info, Dialectic, Truth, Human
+**Co-occurrences**: Zebra, Time, Information, Dialectic, Entropy, Ubik, Toso, Indexed, Logos, Form, Well, Like, World, Only
 
 ---
 ### Line 14475-14483 (Match: 'Hermetics')
@@ -210,8 +206,7 @@ Last edit over 4 years ago by Toso
 
 Folder 03 - 006
 ```
-**Co-occurrences**: Christ, Christian, Toso, Indexed, Rome, Empire, Like, World, Time, Nixon, Folder, Jakob Boehme, Being, Catholic, Without, Indexed
-Folder, Bruno, Church, Voice, Actually, Secret, True, Would, Were, Very, Back, Have, Instead, America, Otherwise
+**Co-occurrences**: Jakob Boehme, Time, Christ, Christian, Toso, Indexed, Rome, Empire, Like, World, Nixon
 
 ---
 ### Line 14508-14516 (Match: 'Hermetic')
@@ -228,9 +223,7 @@ Last edit almost 7 years ago by Toso
 Folder 03 - 010
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Complete, Gnostic, These, World, Therefore, Only, Folder, Mind, Book, Even, Could, Divine, Toso
-Folder, Himself, Indexed
-Folder, Bruno, Death, Universe, Very, Have, Clearly, Things, Memory, Days, Magic, Magus, Right
+**Co-occurrences**: Gnostic, Toso, Indexed, Complete, These, World, Therefore, Only
 
 ---
 ### Line 14516-14524 (Match: 'Hermetic')
@@ -247,8 +240,7 @@ Last edit about 7 years ago by Toso
 
 Folder 03 - 011
 ```
-**Co-occurrences**: Ubik, Toso, Thomas, Indexed, Spirit, Holy, Holy Spirit, Form, Gnostic, Like, Folder, Mind, Even, Could, Jakob Boehme, Luke, Being, Empedocles, Although, Chrissy, Indexed
-Folder, Paracelsus, Bruno, Macro, Erasmus, Very
+**Co-occurrences**: Jakob Boehme, Thomas, Gnostic, Ubik, Toso, Indexed, Spirit, Holy, Holy Spirit, Form, Like
 
 ---
 ### Line 14523-14531 (Match: 'Hermetics')
@@ -264,8 +256,7 @@ Last edit over 7 years ago by Toso
 Folder 03 - 012
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Gnosticism, Perhaps, Plotinus, Like, Time, Folder, Being, Toso
-Folder, Himself, Paracelsus, Heaven, Real, Gold, Secret, True, Macro, Universe, Erasmus, Very, Back, Life, German, Evil, Human
+**Co-occurrences**: Gnosticism, Plotinus, Time, Toso, Indexed, Perhaps, Like
 
 ---
 ### Line 14541-14549 (Match: 'Hermetic')
@@ -282,8 +273,7 @@ Last edit about 7 years ago by Toso
 Folder 03 - 014
 Indexed
 ```
-**Co-occurrences**: Ubik, Toso, Indexed, Like, World, Only, Time, Folder, Book, Hebrew, Toso
-Folder, Great, Jewish, Paracelsus, Bruno, Most, Actually, Macro, Very, Surely, Have, Life, German, Having, Hermes
+**Co-occurrences**: Time, Hermes, Ubik, Toso, Indexed, Like, World, Only
 
 ---
 ### Line 14557-14565 (Match: 'Hermetics')
@@ -300,8 +290,7 @@ Last edit over 7 years ago by Toso
 
 Folder 03 - 016
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Toso, Thomas, Indexed, Rome, Roman, Gnosis, Only, Folder, Book, Anamnesis, Indexed
-Folder, Greco, Still, Their, Bruno, Jung, Through, Real, Actually, Secret, True, Macro, Finally, Have, Memory, Jungian, America, Cross, Truth, Magic, Until
+**Co-occurrences**: Thomas, Anamnesis, Christ, Christian, Ubik, Toso, Indexed, Rome, Roman, Gnosis, Only
 
 ---
 ### Line 14580-14588 (Match: 'Hermetic')
@@ -318,9 +307,7 @@ Last edit over 7 years ago by Toso
 Folder 03 - 019
 Indexed
 ```
-**Co-occurrences**: Christian, Ubik, Toso, Thomas, Indexed, These, Therefore, Time, Folder, Okay, Does, Jakob Boehme, Being, Toso
-Folder, Indexed
-Folder, Living, Certainly, Macro, Universe, Other, Many, Further, Have, Things, Except, Cross, Answer
+**Co-occurrences**: Jakob Boehme, Thomas, Time, Christian, Ubik, Toso, Indexed, These, Therefore
 
 ---
 ### Line 14588-14596 (Match: 'Hermetic')
@@ -337,9 +324,7 @@ Last edit over 7 years ago by Toso
 Folder 03 - 020
 Indexed
 ```
-**Co-occurrences**: Christian, Ubik, Toso, Thomas, Indexed, Spirit, These, Perhaps, Like, World, Since, Only, Time, Folder, Even, Anyhow, Obviously, Toso
-Folder, Indexed
-Folder, Still, Wait, Paracelsus, Such, Macro, Other, Were, Apparently, Having, During
+**Co-occurrences**: Thomas, Time, Christian, Ubik, Toso, Indexed, Spirit, These, Perhaps, Like, World, Since, Only
 
 ---
 ### Line 14611-14619 (Match: 'Hermetic')
@@ -356,8 +341,6 @@ Last edit over 5 years ago by Toso
 Folder 03 - 023
 Complete
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Ubik, Toso, Indexed, Complete, Rome, Form, Well, Wisdom, World, Gnosis, Time, Nixon, Folder, Urgrund, Mind, Karma, Just, Being, Catholic, Everything, Toso
-Folder, Anamnesis, Indexed
-Folder, Paracelsus, Church, Soul, Living, Actually, Secret, True, Macro, Finally, Very, Have, Information, Later, Except, Knowledge, Dialectic, Otherwise, Human
+**Co-occurrences**: Time, Anamnesis, Information, Dialectic, Christ, Tears, Acts, Christian, Ubik, Toso, Indexed, Complete, Rome, Form, Well, Wisdom, World, Gnosis, Nixon
 
 ---

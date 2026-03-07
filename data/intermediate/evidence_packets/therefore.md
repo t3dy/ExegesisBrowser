@@ -20,7 +20,7 @@ If the fucking rat had only left the house I would have spared it. Thus we too, 
 
 I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
 ```
-**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Instead, Later, Having, Except, During
+**Co-occurrences**: Time, Philip, Phil, Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Only
 
 ---
 ### Line 304-312 (Match: 'Therefore')
@@ -37,7 +37,7 @@ In the novel, Nicholas Brady is depressed and suicidal (reasons, perhaps are: hi
 
 When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas Brady is saved from approaching self-destruction. This could take a dramatic form: He is cyclothemic, and entering a suicidal period. (I will exclude all psychiatrists from this book as a trite and shopworn theme, although in real life he would be seeing one. I guess his gov snoop job makes it unallowed for him to see anyone he can talk candidly to.) Suddenly another person is inside him, moving him as he once moved his own body; it is as in dreams where we do not so much dream but are dreamed. The dreamer in him who dreams him is now awake and moving him during wake-time as well . This means new life here and now for Brady. there can be scene in which he had set up his suicide; dramatically this is more exciting, and also or is more accurate, since the winter-death element of our total past is made more clear. I am sending a page of notes to show you what I mean. Nicholas realizes finally that the "sheep cersus goats, the wheat seeds versus the tares" are all expressions that there exists in this planet TWO races, one if which was planted by Our God; the other by the other. He has found himself to be planted here -- literally planted, in the biosphere here, and among the tares. Although he had thought of himself as wicked, his desire to destroy himself shows a schism...but a schism, with what. This implied, he realizes, that something or someone else lived him, which would not succumb to the death process. However: the seed does nor awaken
 ```
-**Co-occurrences**: Christ, Thomas, Form, Well, However, Dionysos, Perhaps, Like, Since, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Claudia, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Thomas, Time, Christ, Form, Well, However, Dionysos, Perhaps, Like, Since, Only
 
 ---
 ### Line 385-393 (Match: 'Therefore')
@@ -54,7 +54,7 @@ In a meaningful sense, portions of our reality extensive in time and space are f
 
 (one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, and wihtout it, there would be nothing but illusion, nothing but Maya, so to speak.
 ```
-**Co-occurrences**: Form, These, Perhaps, Like, World, Because, Only, Time, After, Mind, Even, Does, Just, Both, Maya, Reality, Being, March, Although, Without, Nothing, Still, Real, True, Will, Would, Other, Back, Have, Memory, Truth, Dream
+**Co-occurrences**: Time, Form, These, Perhaps, Like, World, Because, Only
 
 ---
 ### Line 501-509 (Match: 'Therefore')
@@ -71,7 +71,7 @@ Forms are order.
 
 That which is moving toward form, or completion of form, is moving against disorder or against entropy.
 ```
-**Co-occurrences**: Form, Universe
+**Co-occurrences**: Entropy, Form
 
 ---
 ### Line 507-515 (Match: 'Therefore')
@@ -88,7 +88,7 @@ It cannot be that to move toward completion of form is to move toward disorder; 
 
 "Growth time" (movement of an entelechy toward completion) must be orthogonal to "decay time," or "wheel spinning time," even if our senses can't sort out these two times at work before us, in us and around us. Some sections (subparts) of the universe are moving backward, then, despite our occluded vision of a single forward lineal stream. We have a monovision in a sense. Blending two signals which should be discriminated.
 ```
-**Co-occurrences**: Form, Well, These, Since, Time, Even, More, Such, Before, Universe, Have, Life, Right
+**Co-occurrences**: Time, Entropy, Form, Well, These, Since
 
 ---
 ### Line 523-531 (Match: 'Therefore')
@@ -105,7 +105,7 @@ The "Whale's Mouth" sign of intersecting arcs, which I viewed as representing cu
 
 It's possible that the Christian fish sign concealed these two geometric arcs, intentionally; the arcs would show that the unique event of Christ's First Coming was beyond any doubt to be followed by the second coming or intersection; this was conveyed and concealed and revealed all at once by the fish sign, making sense, too, out of there being both a first and second coming; the arc opened after the first, and each line seemed to separate from the other farther and farther (heaven and earth splitting futher and further apart) but a keen trained eye could discern in this simple drawing the return together lying inevitably ahead; the Promise was ad hoc true. Put another way, when viewed in this geometrical fashion, there was no way by which the Second Coming (together in time) could be averted. No force, delusion, lies or guile or threats could prevent it eventually coming (see Virgil's 4th Eclogue: The Age of Iron to give way to the Age of Gold. And the fish sign I saw was made of gold. And I saw around me a prison, a magnet like ring, of iron.
 ```
-**Co-occurrences**: Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Maybe, Like, World, Iron, Prison, Time, Earth, After, Even, Could, Anyhow, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Finally, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Maybe, Like, World, Iron, Prison, Earth
 
 ---
 ### Line 565-573 (Match: 'Therefore')
@@ -122,7 +122,7 @@ Isn't this what the Christian fish sign is supposed to do? Representing Christ, 
 
 [Itwas] He, no metal sign; no object, but The Savior, expressed in His presence. He came to the door manifest in [a] emblematic form, which was verbally (the Logos?) identified. We grow; we reach a certain point; we stop growing; we decline and die. What did it all up to? Nothing, because we were blocked --limited-- at a certain point. He expressed as emblematic pin broke that hold or limit, and growth resumed in me, at enormous speed, as if to make up for lost time. She, the girl, wore/bore a message to me, from Him (my heavenly father). What I became afterwards were all supposed to be...but something went wrong; error slipped in, for us all.
 ```
-**Co-occurrences**: Christ, Christian, Logos, Form, Gnostic, Fish, However, These, Perhaps, Plotinus, Father, World, Because, Only, Time, Savior, Does, Something, Reality, Being, Girl, Anamnesis, Nothing, More, Through, Most, Certainly, Universe, Were, Very, Back, Information, Freedom, Info, Human
+**Co-occurrences**: Plotinus, Gnostic, Time, Anamnesis, Information, Christ, Christian, Logos, Form, Fish, However, These, Perhaps, Father, World, Because, Only
 
 ---
 ### Line 685-693 (Match: 'Therefore')
@@ -139,7 +139,7 @@ This is a description of the Logos.
 
 Energy plus information which is everywhere.
 ```
-**Co-occurrences**: Spirit, Logos, Lord, Father, Like, Time, Even, Reality, Being, Everything, Divine, Probably, Through, Living, Such, Will, Were, Justice, Information, Knowledge, Truth, Human, Dream, Salvation
+**Co-occurrences**: Time, Information, Spirit, Logos, Lord, Father, Like
 
 ---
 ### Line 874-882 (Match: 'Therefore')
@@ -156,7 +156,7 @@ Last edit over 5 years ago by Harpax
 58
 Needs Review
 ```
-**Co-occurrences**: Complete, Xerox, Form, These, Maybe, Because, Only, Time, Harpax, After, Mind, Even, Gestalt, Could, Anyhow, Suppose, Reality, Being, Although, Himself, Their, More, Most, Real, Holt, Such, True, Olive, Olive Holt, Universe, Finally, Will, Would, Other, Creation, Were, Very, Things, Life, Memory, Later, God Himself, Dream, Final, Someone, Until
+**Co-occurrences**: Time, Linear, Complete, Xerox, Form, These, Maybe, Because, Only
 
 ---
 ### Line 894-902 (Match: 'Therefore')
@@ -173,7 +173,7 @@ Last edit over 5 years ago by Harpax
 59
 Needs Review
 ```
-**Co-occurrences**: Well, Only, Harpax, Suppose, Both, Would, Were, Back, Have, Free, Final, Someone, Answer, Until
+**Co-occurrences**: Well, Only
 
 ---
 ### Line 975-983 (Match: 'Therefore')
@@ -190,7 +190,7 @@ What is involved is a restoring, a new life which is the igniting by means of th
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Logos, Rome, Fish, Bible, Roman, Advent, Maybe, Like, World, Because, Only, Time, Harpax, Savior, Does, Just, Look, Both, Being, Although, Everything, Platonic, Probably, Those, Part, More, Fullerton, Secret, Before, Christopher, Would, Other, Were, Very, Back, Life, Body, Days, Knowledge, Cross, Evidently, Someone, Answer, Until
+**Co-occurrences**: Time, Christ, Christian, Logos, Rome, Fish, Bible, Roman, Advent, Maybe, Like, World, Because, Only
 
 ---
 ### Line 1091-1099 (Match: 'Therefore')
@@ -207,7 +207,7 @@ Last edit over 5 years ago by Harpax
 
 76
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Only
 
 ---
 ### Line 1181-1189 (Match: 'Therefore')
@@ -224,7 +224,7 @@ Last edit over 5 years ago by Harpax
 83
 Needs Review
 ```
-**Co-occurrences**: Rome, Sophia, Fish, Greek, Roman, These, Perhaps, Maybe, Like, World, Since, Iron, Only, Time, Harpax, Firebright, Could, Anyhow, Just, Look, Both, Palm, Those, Their, Real, Such, Certainly, Would, Were, Erasmus, Further, Have, Life, Later, Days, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Saint Sophia, Rome, Fish, Greek, Roman, These, Perhaps, Maybe, Like, World, Since, Iron, Only
 
 ---
 ### Line 1548-1556 (Match: 'Therefore')
@@ -241,7 +241,7 @@ What could there possible be that I did not see? I saw at first the living prese
 
 As to the daimon possessing me in 3 74 because I could be useful in pulling down the tyranny -- in point of fact it is certainly grandoise to believe I did anything important ([.]e.g. writing to Charles Wiggins, etc. After all, the daimon could have inspired Mr. Wiggins direct, with no need of my letters to him, etc., or the the Wall St. Journal. If I did do anything, it was prior to 3 74 -- for instance, TEARS -- I mean, in my professional writing in general, like in my Vancouver speech. So if I did do any work in the "vinyard of the lord," with social import, it had been done before and came to me in 3 74. In any case, the amount of aid to me (as in extricating me from the Xerox pincers, that threat to my autonomy, plus the COINTELPRO threat) -- the aid to me was enormous, and completely out of proportion to what I rendered in social aid. What I received was most of the thing; so I assume, thinking about the relative proportion here of aid to me, and aid I rendered under the dominion/inspiration of the spirit as of 3 74 and after -- it was certainly the main goal of the daimon to assist me; I was not valuable; I was just in a desperate situation. It was my need, not any fancied ability I had. Any worth to the spirit. Despite the fact that 74 was a crucial period, in which the tyranny foil, despite what I said in my UK speech about the spirit moving to overthrow the tyranny -- I don't think that was why it came to me. The danger from the Xerox conglomerate was solely to me; a private matter, whereas the Nixon thing was public. Social action was not the intent of the daimon; I was not a soldier thrown into a crucial battle between God and Satan. However, once inspired, I was given the assistance I needed to attack my own foes on both the left and right; I attacked them not because they were evil but because both were menacing me. The common denominator between the Xerox thing and COINTELPRO was the plight, the bind, they'd put me in; crushed inbetween, with no place to go, and no one to turn to.
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, Satan, However, Lord, Like, World, Parmenides, Because, Nixon, Harpax, After, Faith, Good, Even, Could, Just, Once, Both, Reality, Zagreus, Without, Creator, Another, Most, Living, Real, Certainly, Before, Easter, Friday, Creation, Were, Under, Many, Have, Evil, Knowledge, Magic, Whereas, Right, Grail
+**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Xerox, Satan, However, Lord, Like, World, Parmenides, Because, Nixon
 
 ---
 ### Line 1627-1635 (Match: 'Therefore')
@@ -258,7 +258,7 @@ Therefore it is not correct to say, "It was a th[ru]st upward or forward by me,"
 
 . . . Paul Tillish once said that you can see the Fall written on the faces on (the) animals. What I see on their faces, and in their manner, now, it the expression of the Actual Presence; am I to assume that I read right, as Tillich read a former message equally right? "Break a stick, break open a rock, and there I am," as Thoman quotes Him. (Pinky, Ralph, Misty -- I don't read "Fall," I read "Restoration.")
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Logos, Holy Spirit, Form, Paul, However, These, Elijah, Since, Fall, Time, Harpax, Pinky, Once, Reality, Everything, Their, Through, Living, Certainly, Other, Mission, Were, Very, Back, Life, Reformers, Right
+**Co-occurrences**: Time, Tears, Spirit, Holy, Logos, Holy Spirit, Form, Paul, However, These, Elijah, Since, Fall
 
 ---
 ### Line 1633-1641 (Match: 'Therefore')
@@ -275,7 +275,7 @@ Ah! He is infusing (transubstantiating) the world more and more! Ontologically, 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Logos, Form, Sophia, Kingdom, Paul, Golden, However, Wisdom, Like, World, Fall, Because, Only, Time, Harpax, After, Savior, Light, Pinky, Once, Again, Kingdom of God, Reality, Kosmos, Everything, Santa, Their, More, Through, Most, Living, Love, Santa Sophia, Universe, Would, Other, Back, Have, Absolute, Cross, Greater, Dream, Right
+**Co-occurrences**: Sophia, Time, Santa Sophia, Logos, Form, Kingdom, Paul, Golden, However, Wisdom, Like, World, Fall, Because, Only
 
 ---
 ### Line 1640-1648 (Match: 'Therefore')
@@ -291,7 +291,7 @@ Did I go into psalm 116?
 
 I saw the meaningful structure of reality (the logos), and there was constant change in it (everything around me) because it is ALIVE and possess activity because it possesses mind. We ask, Why do we experience time (i.e. change)? And the answer is, This living reality is evolving -- perfecting itself. We're within it so I guess we are a subpart of it, also alive and also changing --evolving-- toward completion; it is a great entelechy. "I am the breath of my Creator, and as He inhales and exhales, I live." (PKD 1967, in Latin, under LSD).
 ```
-**Co-occurrences**: Christ, Logos, Kingdom, Like, World, Since, Because, Time, Harpax, After, Savior, Mind, Even, Could, Reality, Being, Everything, Great, Probably, Without, Creator, Those, Part, More, Through, Living, Real, Will, Would, Under, Have, Having, Except, Answer
+**Co-occurrences**: Time, Christ, Logos, Kingdom, Like, World, Since, Because
 
 ---
 ### Line 1706-1714 (Match: 'Therefore')
@@ -308,7 +308,7 @@ The linking, too, of even one fragment of the Greek to the Bible, as was done wi
 
 I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sense. In that area, the Levant, they were still part of the Hellenistic World and so wrote & spoke Greek. I had erroneously been supposing that the spoke/written language of that time would of couse be Latin. Then in 2 75 I did see the Levant for sure. In 3 74 I saw the hurrying secret Christians underground, at their work; they of a proven certainty at least wrote in Greek, and I think spoke Greek; yes, I'm sure. So this adds up: what I saw, and then later what in my head I heard. Yes, the fish sign, composed out of Greek letters and into a Greek word, proves it. I was back, auditorily as well as visually, among the apostles and early followers. And such dreams as "my friend Paul" holding up a prophetic galleyproof text: in which I was mentioned! And "Santa Sophia will be reborn, etc." was what they were into; the Savior has been born once already (obviously, since the Christian fish underground, them, existed); but I recall that I knew they were anticipating him returning, which is to say, Santa Sophia. This was what all their activity was in preparation for. This was their hope and their expectation: the Second Advent. So this is all of a piece. But, I believe, the voice I heard was not a voice from them but rather to them (to us?). This is the news I have; this is the news they had. We are linked together, and with us our two time-space periods. Li[n]ked by that anticipation (and that voice). Whoever it speaks to, and delivers that message, is somehow made one with them, outside time and space and all distances. This Christian underground much itself lie outside of time, like that which it awaits.
 ```
-**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Time, Harpax, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Such, Voice, Secret, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Information, Later, Testament, During, Whereas
+**Co-occurrences**: Sophia, Time, Santa Sophia, Information, Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since
 
 ---
 ### Line 1733-1741 (Match: 'Therefore')
@@ -325,7 +325,7 @@ I have really known from virtually the start that it was the Holy Spirit, the Co
 
 What must be faced is that, as ISS says, Rome won; we lost -- hence, "She was not acceptable before." Maybe salvation --the Word-- must be entirely voluntarily accepted, and men rejected it. God does not force it on us; men found it unacceptable, to them. Maybe Rome won by default; men chose Rome over the Word, rather then Rome suppressing
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Sophia, Plato, Fish, Greek, Well, Parousia, Maybe, Since, John, Could, Does, Just, Obviously, Although, Girl, Everything, Anamnesis, Still, More, Real, Gold, Such, Actually, Before, Finally, Will, Would, Mission, Have, Things, Judgment, Life, Memory, Truth, Comforter, Salvation, Someone, Until
+**Co-occurrences**: Sophia, Anamnesis, Saint Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Plato, Fish, Greek, Well, Parousia, Maybe, Since, John
 
 ---
 ### Line 1775-1783 (Match: 'Therefore')
@@ -342,6 +342,6 @@ So what I've done (supra) is change the question from, How come I could experien
 
 . . The pyramid with the eye -- the eye through which the light body re-enters a human body; only one (Christ) was needed to start it.
 ```
-**Co-occurrences**: Christ, Ubik, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, However, Wisdom, Perhaps, Like, World, Parmenides, Fall, Only, Paraclete, Book, Light, Could, Again, Kingdom of God, Reality, Kosmos, Being, Although, Great, Viewed, Without, Still, Their, More, Through, Most, Living, Heaven, Real, Actually, Before, Will, Would, Other, Somehow, Back, Many, Campbell, Have, Body, Instead, Having, Joseph, Dead, During, Human, Joseph Campbell, Right, Answer
+**Co-occurrences**: Thomas, Sophia, Saint Sophia, Christ, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, However, Wisdom, Perhaps, Like, World, Parmenides, Fall, Only
 
 ---

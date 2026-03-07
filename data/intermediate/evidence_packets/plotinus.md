@@ -20,7 +20,7 @@ The absolute height of wisdom and the goal of its search would be this computer 
 
 It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese States of America" dream is typical. I dreamed all manner of explicit alchemical symbols (the homonculus, the retorts interwoven...flask of Hermes, the fish, etc.), out of Jung's description of the self in the process of psychic integration experiencing noetically these prior consciously arrived at symbols (prior in terms of centuries -- thus his theory of the Collective Unconscious, that such symbols could arise in a modern man who did not know them, who had no way of knowing them -- like me with the Greek. But this
 ```
-**Co-occurrences**: Complete, Fish, Greek, Gnosticism, Wisdom, These, Maybe, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, America, Magic, Hermes, Human, Dream, Someone
+**Co-occurrences**: Gnosticism, Hermes, Complete, Fish, Greek, Wisdom, These, Maybe, Like, World, Earth
 
 ---
 ### Line 561-569 (Match: 'Plotinus')
@@ -37,7 +37,7 @@ The fish symbol didn't perhaps "disinhibit" me, i.e. act as a disinhibiting stim
 
 It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
 ```
-**Co-occurrences**: Logos, Gnostic, Fish, However, These, Perhaps, World, Because, Therefore, Only, Time, Harpax, Does, Reality, Being, Anamnesis, More, Most, Certainly, Universe, Back, Information, Freedom, Info, Human
+**Co-occurrences**: Gnostic, Time, Anamnesis, Information, Logos, Fish, However, These, Perhaps, World, Because, Therefore, Only
 
 ---
 ### Line 580-588 (Match: 'Neoplatonism')
@@ -54,7 +54,7 @@ V. Tagomi in the park. Was there anything special about Mr. Tagomi? He was inten
 
 He was not a great man.
 ```
-**Co-occurrences**: Christianity, Fish, Gnosticism, World, Gnosis, Only, Even, Could, Just, Reality, Although, Orphic, Great, Anamnesis, Grace, Part, Will, Other, Have, Tagomi, Knowledge, Human, Free
+**Co-occurrences**: Gnosticism, Anamnesis, Christianity, Fish, World, Gnosis, Only
 
 ---
 ### Line 914-922 (Match: 'Neoplatonism')
@@ -71,7 +71,7 @@ NB: The difference between Ghosticism and Neoplatonism is basically that (one) t
 
 . . On the "Decoded New Testament": It agrees with my experiences of the whole last year. They say it comes via the sun; the sun acts as a transducer (so to speak) between Creator and visible universe, a sort of nexus. There is the solar spermatikos, which impregnate men's souls, which enter us as divine immortal seeds. (One to a person.) That would make God the father; is the human being, then, merely the host for this, for Firebright, as I understand to call mine? Or am I the other parent? (The second birth of the New Testament.) It is also me born again; the second birth is mine; so I am a parent, not merely a host. We have here a true duplex entity, not a parasite. I merge with and gradually, by degrees, become Firebright, who is growing. I --physically speaking-- can get sick and be killed; not so Firebright (the karmic body, so-called).
 ```
-**Co-occurrences**: Christ, Acts, Logos, Gnostic, Father, Maybe, Like, Since, Fall, Firebright, Could, Something, Again, Being, Divine, Probably, Grace, Creator, Those, Still, True, Universe, Finally, Will, Would, Other, Creation, Were, Have, Body, Testament, Human, Karmic, Whereas, Final
+**Co-occurrences**: Gnostic, Firebright, Decoded, Christ, Acts, Logos, Father, Maybe, Like, Since, Fall
 
 ---
 ### Line 1036-1044 (Match: 'Plotinus')
@@ -88,7 +88,7 @@ Recall in "Autofac" how the automatic factory creates seeds of itself to survive
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Ubik, Well, Perhaps, Like, World, Fall, Only, Time, Harpax, Could, Look, Again, Reality, Being, Everything, Divine, Himself, Great, Anamnesis, Nothing, Those, Their, Indian, Another, Through, Real, Secret, Death, Universe, Would, Angel, Were, Very, Back, Things, Body, Freedom, Dream, Track, Sacred
+**Co-occurrences**: Time, Anamnesis, Decoded, Ubik, Well, Perhaps, Like, World, Fall, Only
 
 ---
 ### Line 1043-1051 (Match: 'Neoplatonism')
@@ -104,7 +104,7 @@ You are to be "meek," i.e. Yinnish, humble, receptive, but what overpowers you (
 
 This borders on the Sufi: becoming God. One does "become" God while he possesses you, but then he leaves. But -- well, it's like poor Leda. Vide Yeat's poem. But look at the progeny: Helen of Troy.
 ```
-**Co-occurrences**: Christianity, Form, Well, Gnosticism, Dionysos, Elijah, Father, Like, Time, Harpax, After, Cosmic, Savior, Good, Light, Firebright, Okay, Could, Does, Just, Something, Look, Being, Self, Orphic, Divine, Himself, Sibyl, Viewed, Grace, More, Orphism, Such, Certainly, True, Would, Other, Were, Beyond, Have, Life, Body, Justice, Truth, Human, Doesn
+**Co-occurrences**: Gnosticism, Time, Firebright, Decoded, Christianity, Form, Well, Dionysos, Elijah, Father, Like
 
 ---
 ### Line 1167-1175 (Match: 'Neoplatonism')
@@ -121,7 +121,7 @@ But of all that I understood, a union with God by means of the Logos meant most 
 
 I think that my seeing the Levant in Feb 1975 is as important, although less striking, as my seeing Rome in March 1974. In both cases, the thrall of time was removed, disclosing the eternal world, in Dante's sense. A transition had been made in that world (it is hard for someone unacquainted with Medieval thought to understand progression in eternity, but the basis would be a progression or procession of Platonic archetypes[.] The archetype in March 1974 was Rome and Iron and Slavery, with a corresponding need to fight for freedom, truth and justice; however, a year
 ```
-**Co-occurrences**: Logos, Rome, Sophia, Plato, However, Wisdom, These, Perhaps, World, Iron, Only, Time, Platonist, Light, Could, Anyhow, Something, Both, March, Although, Dante, Platonic, Palm, Santa, Anamnesis, Nothing, Kathy, Soul, Most, Consider, Santa Sophia, Universe, Would, Erasmus, Back, Many, Have, Life, Body, Justice, Spring, Freedom, Truth, Someone
+**Co-occurrences**: Sophia, Time, Anamnesis, Santa Sophia, Logos, Rome, Plato, However, Wisdom, These, Perhaps, World, Iron, Only, Platonist
 
 ---
 ### Line 1435-1443 (Match: 'Plotinus')
@@ -137,7 +137,7 @@ We could perhaps equate the One with God; Nous with Christ as Pantocrator, but S
 
 One question I haven't seen any answer to is, How does the Cosmic Christ after the Incarnation differ from his prior existence (as evidently St. Sophia)? Bigger? Stronger? But the pre-Incarnation Cosmic Christ created the universe; how much more powerful could he/she get? Anyhow, is the Cosmic Christ subject to time? Perhaps as with Nous in the system of Plato & Plotinus, it is a fixed constant; but nonetheless we have this whole momentum and drive to assimilate the sublunar space-time world to the supralunar world of God.
 ```
-**Co-occurrences**: Christ, Acts, Holy, Form, Sophia, Plato, However, Wisdom, Lord, Perhaps, Like, World, Time, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Reality, Nous, Their, More, Pantocrator, Soul, Nonetheless, Universe, Would, Have, Trinity, Evidently, Whereas, Answer
+**Co-occurrences**: Sophia, Time, Christ, Acts, Holy, Form, Plato, However, Wisdom, Lord, Perhaps, Like, World
 
 ---
 ### Line 1437-1445 (Match: 'Plotinus')
@@ -153,7 +153,7 @@ One question I haven't seen any answer to is, How does the Cosmic Christ after t
 
 Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Like, World, Since, Time, Nixon, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+**Co-occurrences**: Sophia, Time, Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Like, World, Since, Nixon
 
 ---
 ### Line 1439-1447 (Match: 'Plotinus')
@@ -170,7 +170,7 @@ Once the paradigm of Rome had been superimposed on the reality of 1974 I could s
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Like, World, Since, Time, Nixon, Harpax, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+**Co-occurrences**: Sophia, Time, Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Plato, Well, Parousia, However, Wisdom, Lord, Perhaps, Like, World, Since, Nixon
 
 ---
 ### Line 1489-1497 (Match: 'Plotinus')
@@ -187,7 +187,7 @@ since we don't remember the future the way we do the past we don't discern these
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Spirit, Greek, However, Dionysos, These, Perhaps, Like, Since, Because, Only, Time, Harpax, After, Something, Look, Again, Suppose, Both, Reality, Everything, Divine, Great, Gods, Brain, Part, More, Another, Real, Voice, Actually, Love, True, Universe, Will, Would, Other, Somehow, Were, Attic, Beyond, Whatever, Have, Life, Memory, India, Socrates, Having, Remember, Human, Dream, Track
+**Co-occurrences**: Time, Linear, Spirit, Greek, However, Dionysos, These, Perhaps, Like, Since, Because, Only
 
 ---
 ### Line 1816-1824 (Match: 'Neoplatonism')
@@ -204,7 +204,7 @@ It is just as obvious that conscience is a social deposit as that Attic Greek is
 
 . . . It seems to be inside things (inc. men): as the sap to the branch.
 ```
-**Co-occurrences**: Logos, Sophia, Greek, Perhaps, Like, Only, Could, Does, Just, Again, Being, Catholic, Philip, Aristotle, Such, Voice, Would, Attic, Surely, Have, Things, Information, Instead, Likewise, Knowledge, Truth, Reformers, Human, Right, Answer
+**Co-occurrences**: Sophia, Philip, Information, Logos, Greek, Perhaps, Like, Only
 
 ---
 ### Line 2248-2256 (Match: 'Neoplatonism')
@@ -221,7 +221,7 @@ I've again read the EB article on Mystery Religions; those religions, esp. the O
 
 . . . "Tumbled stones," natural laws the same for all living things; would tend to wear them down into similarity. Living things must thrust up against the ubiquitious shaping force to attain diversity.
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Christianity, Plato, Kingdom, Greek, Well, Perhaps, Like, World, Since, Fall, Because, Time, Savior, Does, Anyhow, Just, Again, Kingdom of God, Being, Jesus Christ, Although, Orphic, Divine, Himself, Gods, Probably, Deus, Anamnesis, Without, Those, Most, Orphism, Living, Secret, Deity, Would, Were, Back, Egyptian, Beyond, Have, Things, Body, Eckehart, Memory, Later, Having, Remember, Knowledge, Ptath
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Jesus, Christianity, Plato, Kingdom, Greek, Well, Perhaps, Like, World, Since, Fall, Because
 
 ---
 ### Line 2535-2543 (Match: 'Neoplatonism')
@@ -237,7 +237,7 @@ Last edit over 5 years ago by Harpax
 192
 Needs Review
 ```
-**Co-occurrences**: Christ, Complete, Sophia, Kingdom, Paul, Greek, Golden, Like, World, Because, Iron, Only, Time, Harpax, After, Mind, Even, Could, Pinky, Just, Something, Again, Kingdom of God, Although, Everything, Either, Santa, More, Another, Through, Real, Actually, Santa Sophia, Death, Universe, Will, Would, Other, Creation, Back, Beyond, Have, Things, Life, Body, Spring, Later, Remember
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christ, Complete, Kingdom, Paul, Greek, Golden, Like, World, Because, Iron, Only
 
 ---
 ### Line 2945-2953 (Match: 'Neoplatonism')
@@ -254,7 +254,7 @@ Last edit almost 5 years ago by svayambhu108
 225
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Logos, Jesus, Form, Sophia, Well, However, Wisdom, These, Like, World, Since, Fall, John, Earth, Savior, Book, Light, Even, Okay, Could, Just, Look, Once, Realm, Again, Being, Although, Aristotle, Great, Deus, Grace, More, Through, Heaven, Real, Such, Upon, Before, Irae, Death, Will, Would, Other, Further, Have, Fake, Information, Freedom, Deus Irae, During, Lower, Someone
+**Co-occurrences**: Sophia, Information, Christ, Christian, Logos, Jesus, Form, Well, However, Wisdom, These, Like, World, Since, Fall, John, Earth
 
 ---
 ### Line 2986-2994 (Match: 'Plotinus')
@@ -271,7 +271,7 @@ Events fell into a deterministic frame of reference, and I could see how they co
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Tears, Ubik, Logos, Form, Sophia, Plato, Greek, These, Like, World, Time, Good, Could, Just, Realm, Both, Reality, Being, Christi, Although, Corpus, Great, Grace, Part, Their, Another, Through, Corpus Christi, Real, Such, Certainly, Before, Universe, Will, Would, Back, Many, Have, Things, Freedom, Later, Whether, Unless, Dream
+**Co-occurrences**: Sophia, Time, Tears, Ubik, Logos, Form, Plato, Greek, These, Like, World
 
 ---
 ### Line 3071-3079 (Match: 'Neoplatonism')
@@ -288,7 +288,7 @@ The best statement I ever recall reading about the Kingdom was when Christ said 
 
 If it was myself (who assumed control in 3-74) then I am an immortal entity, stretching back thousands of years into the past, originally from another star, lasting on into the future, possessing the knowledge of the secrets of the universe, loyal to God and in touch with him, being mostly in eternity already, having been present near or around Christ as well as the great culture of Greece L Rome, one of the great healers and wise men of this race. How can that be? "For this mortal must put on immortality..."
 ```
-**Co-occurrences**: Christ, Tears, Rome, Kingdom, Gnostic, King, Greek, Well, Bible, Parousia, Advent, Like, World, Since, Gnosis, Only, Time, After, Could, Does, Bardo, Anyhow, Just, Thodol, Again, Suppose, Bardo Thodol, Being, Obviously, Himself, Great, Nothing, Their, More, Another, Star, Through, Love, Before, Greece, True, Death, Universe, Will, Would, Other, Mission, Were, Back, Have, Things, Wise, Having, God Himself, Except, Knowledge, Otherwise, Dream, Evidently, Doesn, Pleroma, Crete, Until
+**Co-occurrences**: Gnostic, Time, Pleroma, Christ, Tears, Rome, Kingdom, King, Greek, Well, Bible, Parousia, Advent, Like, World, Since, Gnosis, Only
 
 ---
 ### Line 3306-3314 (Match: 'Neoplatonism')
@@ -305,7 +305,7 @@ Yes sir; Platonism made it through to the modern world in the form of revealed r
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Ubik, Christianity, Form, Satan, These, World, Since, Because, Only, Platonism, Both, March, Everything, Platonic, Without, Darkness, Their, More, Through, Real, Secret, Revelation, Death, Universe, Will, Other, Were, Have, Absolute, Information, Evil, Final, Right
+**Co-occurrences**: Information, Ubik, Christianity, Form, Satan, These, World, Since, Because, Only
 
 ---
 ### Line 3308-3316 (Match: 'Plotinus')
@@ -322,7 +322,7 @@ Last edit almost 5 years ago by svayambhu108
 259
 Needs Review
 ```
-**Co-occurrences**: Ubik, Christianity, Form, Satan, These, World, Since, Because, Only, Platonism, Both, March, Everything, Platonic, Without, Darkness, Their, More, Through, Real, Secret, Revelation, Death, Universe, Will, Other, Were, Have, Absolute, Information, Evil, Final, Right
+**Co-occurrences**: Information, Ubik, Christianity, Form, Satan, These, World, Since, Because, Only
 
 ---
 ### Line 3574-3582 (Match: 'Neoplatonism')
@@ -339,6 +339,6 @@ Last edit almost 5 years ago by svayambhu108
 288
 Needs Review
 ```
-**Co-occurrences**: Christian, Christianity, Fish, Greek, Gnosticism, These, Perhaps, Parmenides, Time, After, Platonism, Mind, Light, Gestalt, Could, Bardo, Just, Soviet, Thodol, Bardo Thodol, Reality, Empedocles, Girl, Divine, Probably, Jewish, Nothing, Brain, Those, Still, Dokos, More, Another, Through, Real, Gold, Such, Kant, Love, Before, Easter, Universe, Would, Were, Very, Under, Many, Have, Mani, Journey, Things, Life, Absolute, Aphrodite, Later, Passover, Suddenly, Human, Right, Answer
+**Co-occurrences**: Gnosticism, Time, Kant, Christian, Christianity, Fish, Greek, These, Perhaps, Parmenides
 
 ---

@@ -20,7 +20,7 @@ Last edit over 5 years ago by Harpax
 47
 Needs Review
 ```
-**Co-occurrences**: Tears, Form, Well, However, These, Maybe, Like, World, Only, Time, Harpax, Light, Could, Does, Taoism, Again, Both, Great, Apollo, Still, Part, More, Another, True, Universe, Would, Other, Page, Very, Whatever, Many, Have, Tagomi, Form One, Dream, Evidently, Whereas, Final, Right
+**Co-occurrences**: Time, Tears, Form, Well, However, These, Maybe, Like, World, Only
 
 ---
 ### Line 1272-1280 (Match: 'Golden')
@@ -37,7 +37,7 @@ I am lying in bed here and I am musing, "God can simulated the inanimate. Or rat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Dionysos, Lord, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+**Co-occurrences**: Time, Acts, Spirit, Holy, Holy Spirit, King, Paul, Greek, Well, Dionysos, Lord, Maybe, Like, World, Because, Prison
 
 ---
 ### Line 1534-1542 (Match: 'Golden')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by Harpax
 109
 Needs Review
 ```
-**Co-occurrences**: Acts, Spirit, Sophia, Greek, Wisdom, Dionysos, Perhaps, Elijah, Like, World, Since, Only, Time, Harpax, Even, Does, Just, Once, Again, Both, Being, Although, Everything, Dante, Divine, Aristotle, Either, Gods, Anamnesis, Part, Their, More, Another, Soul, Ground, Actually, Certainly, Before, Consider, Greece, True, Universe, Will, Deity, Would, Very, Attic, Whatever, Have, Life, Body, Memory, Whether, Knowledge, Upper, During, Human, Lower, Evidently, Right
+**Co-occurrences**: Sophia, Time, Anamnesis, Acts, Spirit, Greek, Wisdom, Dionysos, Perhaps, Elijah, Like, World, Since, Only
 
 ---
 ### Line 1575-1583 (Match: 'Golden')
@@ -71,7 +71,7 @@ I imagine these jumps forward, back to the Cambrian Period, are associated with 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christian, Form, Fish, These, Maybe, Like, Golden Fish, Time, Harpax, After, Light, Anyhow, Once, Everything, Great, Jewish, Still, Wait, Through, Ground, Finally, Would, Back, Under, Have, Life, Unless, Lower, Right
+**Co-occurrences**: Time, Christian, Form, Fish, These, Maybe, Like, Golden Fish
 
 ---
 ### Line 1621-1629 (Match: 'Golden')
@@ -88,7 +88,7 @@ Last edit over 5 years ago by Harpax
 115
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Greek, Dionysos, These, Perhaps, Like, World, Since, Because, Time, Harpax, Mind, Anyhow, Both, Zagreus, Dante, Great, Gods, Nothing, Another, Most, Greece, Will, Other, Were, Erasmus, Attic, Things, Later, Socrates, Human
+**Co-occurrences**: Time, Spirit, Holy, Holy Spirit, Greek, Dionysos, These, Perhaps, Like, World, Since, Because
 
 ---
 ### Line 1633-1641 (Match: 'Golden')
@@ -105,7 +105,7 @@ Ah! He is infusing (transubstantiating) the world more and more! Ontologically, 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Logos, Form, Sophia, Kingdom, Paul, However, Wisdom, Like, World, Fall, Because, Therefore, Only, Time, Harpax, After, Savior, Light, Pinky, Once, Again, Kingdom of God, Reality, Kosmos, Everything, Santa, Their, More, Through, Most, Living, Love, Santa Sophia, Universe, Would, Other, Back, Have, Absolute, Cross, Greater, Dream, Right
+**Co-occurrences**: Sophia, Time, Santa Sophia, Logos, Form, Kingdom, Paul, However, Wisdom, Like, World, Fall, Because, Therefore, Only
 
 ---
 ### Line 1798-1806 (Match: 'Golden')
@@ -122,7 +122,7 @@ Last edit over 5 years ago by Harpax
 128
 Needs Review
 ```
-**Co-occurrences**: Christian, Spirit, Holy, Christianity, Holy Spirit, Form, Sophia, Plato, Fish, Greek, Parousia, These, Perhaps, Like, World, Parmenides, Therefore, Golden Fish, Only, Time, Harpax, After, Paraclete, Faith, Light, Anyhow, Something, Reality, Being, Although, Everything, Aristotle, Great, Anamnesis, Without, Part, Their, More, Through, Soul, Living, Such, Certainly, Before, Will, Mission, Have, Things, Life, Memory, Neither, Form One, Having, Remember, Knowledge, Comforter, Doesn, Right, Until
+**Co-occurrences**: Sophia, Time, Anamnesis, Christian, Spirit, Holy, Christianity, Holy Spirit, Form, Plato, Fish, Greek, Parousia, These, Perhaps, Like, World, Parmenides, Therefore, Golden Fish, Only
 
 ---
 ### Line 2443-2451 (Match: 'Golden')
@@ -139,7 +139,7 @@ which is to say, uncaused. I would know, wouldn't I? I heard the voice of my "ph
 
 . . . It is strange. . .I just realized that TEARS is what's called an apocalyptic novel. And in the narrative the dream of the king enters just where the king enters in "Revelation," the apocalyptic book of the Bible. A Platonic archetype is printing out on us down here, evidently; another conformation of the Platonistic view of reality. These are edola -- form-impressions here on us from above (obviously); then these are the anticipated portents & signs just before the Parousia; certainly they would not occur unless the Parousia were virtually here!
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Holy, Holy Spirit, Form, Sophia, King, Bible, Parousia, Wisdom, These, Perhaps, Elijah, Like, World, Fall, Time, Earth, Garden, Book, Light, Could, Hebrew, Just, Something, Again, Both, Reality, Being, Obviously, Everything, Platonic, Great, Part, Wait, Another, Most, Real, Voice, Certainly, Before, Revelation, Finally, Will, Would, Mission, Were, Back, Tree, Life, Spring, Remember, Unless, Knowledge, Truth, Dream, Evidently, Until
+**Co-occurrences**: Sophia, Time, Christ, Tears, Spirit, Holy, Holy Spirit, Form, King, Bible, Parousia, Wisdom, These, Perhaps, Elijah, Like, World, Fall, Earth
 
 ---
 ### Line 2535-2543 (Match: 'Golden')
@@ -155,7 +155,7 @@ Last edit over 5 years ago by Harpax
 192
 Needs Review
 ```
-**Co-occurrences**: Christ, Complete, Sophia, Kingdom, Paul, Greek, Plotinus, Like, World, Because, Iron, Only, Time, Harpax, After, Mind, Even, Could, Pinky, Just, Something, Again, Kingdom of God, Although, Everything, Either, Santa, More, Another, Through, Real, Actually, Santa Sophia, Death, Universe, Will, Would, Other, Creation, Back, Beyond, Have, Things, Life, Body, Spring, Later, Remember
+**Co-occurrences**: Plotinus, Sophia, Time, Santa Sophia, Christ, Complete, Kingdom, Paul, Greek, Like, World, Because, Iron, Only
 
 ---
 ### Line 2791-2799 (Match: 'Golden')
@@ -172,7 +172,7 @@ Last edit almost 5 years ago by svayambhu108
 213
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Clearly, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Genesis, Final, White
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth
 
 ---
 ### Line 2830-2838 (Match: 'Golden')
@@ -188,7 +188,7 @@ If "VALIS" placed material (e.g. from "Acts" in TEARS, plus stuff in UBIK0 in my
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Valis, Tears, Acts, Christian, Xerox, Christianity, Sophia, Fish, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+**Co-occurrences**: Valis, Sophia, Anamnesis, Tears, Acts, Christian, Xerox, Christianity, Fish, Fall, Because, Golden Fish
 
 ---
 ### Line 3031-3039 (Match: 'Golden')
@@ -205,7 +205,7 @@ Heraclitus says the Logos can be heard. My goodness.
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Logos, Jesus, Kingdom, Greek, Well, Maybe, Like, Since, Only, Time, Even, Gospel, Could, Anyhow, Just, Once, Again, Kingdom of God, Heraclitus, Obviously, Girl, Everything, Divine, Covenant, Probably, Their, Soul, Living, Ground, Real, Before, True, Will, Would, Creation, Judge, Were, Back, Egyptian, Beyond, Under, Life, Body, Dark, Wise, Whether, Remember, Except, Cross, Evidently, Someone
+**Co-occurrences**: Time, Logos, Jesus, Kingdom, Greek, Well, Maybe, Like, Since, Only
 
 ---
 ### Line 3043-3051 (Match: 'Golden')
@@ -222,7 +222,7 @@ Last edit almost 5 years ago by svayambhu108
 233
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, King, Fish, Greek, Bible, Roman, Wisdom, Perhaps, Maybe, Like, World, Golden Fish, Only, John, Time, Nixon, After, Holy Wisdom, Could, Once, Heraclitus, Being, Great, Bacchae, Sibyl, Dionysus, Those, Church, Star, Through, Most, Such, Before, Mother, Death, Universe, Would, Hamlet, Were, Very, Back, Many, Further, Have, Tree, Later, America, Except, Knowledge, Today, During, Human, Someone
+**Co-occurrences**: Time, Christ, Christian, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, King, Fish, Greek, Bible, Roman, Wisdom, Perhaps, Maybe, Like, World, Golden Fish, Only, John, Nixon
 
 ---
 ### Line 3051-3059 (Match: 'Golden')
@@ -239,7 +239,7 @@ Here is a better explanation: I have a daimon, as Socrates had, a guardian (tute
 
 Item. A porno subtrack on an LP buried unaer other tracks is stegenographia. I was beginning to traneliminate accurately when I heard the filth on KNX-FM; nobody else could hear it...it prepared the way to (1) transliminate the daimon, and (2) the Xerox information. The veil, inside and outside, was off.
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Xerox, Sophia, Fish, Greek, Wisdom, Perhaps, World, Golden Fish, Time, After, Cosmic, Could, Something, Once, Again, Great, Sibyl, Anamnesis, Creator, Still, Part, Living, Voice, Before, True, Will, Would, Other, Were, Very, Back, Have, Life, Body, Information, Wise, Aphrodite, Socrates, Except, Dead, During, Dream, Evidently, Doesn
+**Co-occurrences**: Sophia, Time, Anamnesis, Information, Christ, Tears, Christian, Ubik, Spirit, Xerox, Fish, Greek, Wisdom, Perhaps, World, Golden Fish
 
 ---
 ### Line 3082-3090 (Match: 'Golden')
@@ -255,7 +255,7 @@ Last edit almost 5 years ago by svayambhu108
 237
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christianity, Form, Well, These, Perhaps, Maybe, World, Therefore, After, Light, Even, Could, Bardo, Just, Reality, Being, Self, Divine, Great, Sibyl, Anamnesis, Still, Part, Jung, Soul, Living, Such, Actually, Would, Mission, Were, Very, Have, Life, Instead, Jungian, Wise, Aphrodite, Having, Remember, Suddenly, Dream, Evidently, Pleroma, Right
+**Co-occurrences**: Anamnesis, Pleroma, Christ, Tears, Christianity, Form, Well, These, Perhaps, Maybe, World, Therefore
 
 ---
 ### Line 3098-3106 (Match: 'Golden')
@@ -272,7 +272,7 @@ Last edit almost 5 years ago by svayambhu108
 239
 Needs Review
 ```
-**Co-occurrences**: Christ, Xerox, Empire, Maybe, Like, World, Because, Therefore, Only, Time, Cosmic, Mind, Light, Firebright, Could, Does, Just, Once, Again, Reality, Being, Self, Everything, Orphic, Divine, Himself, Great, Probably, Without, Zeus, Through, Soul, Such, Before, Death, Will, Would, Were, Very, Back, Life, Information, Remember, Knowledge, Greater, During, Right, White
+**Co-occurrences**: Time, Firebright, Information, Christ, Xerox, Empire, Maybe, Like, World, Because, Therefore, Only
 
 ---
 ### Line 3139-3147 (Match: 'Golden')
@@ -289,7 +289,7 @@ Last edit almost 5 years ago by svayambhu108
 243
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Brahman, Parousia, Lord, Perhaps, World, Since, Because, Time, After, Good, Mind, Light, Even, Karma, Could, Something, Once, Obviously, Self, Everything, Without, Grace, Brain, Still, Part, Another, Through, Such, Voice, Upon, Before, Universe, Finally, Will, Would, Other, Were, Back, Have, Later, Dream, Until
+**Co-occurrences**: Time, Christ, Spirit, Holy, Holy Spirit, Brahman, Parousia, Lord, Perhaps, World, Since, Because
 
 ---
 ### Line 3326-3334 (Match: 'Golden')
@@ -306,7 +306,7 @@ Last edit almost 5 years ago by svayambhu108
 
 261
 ```
-**Co-occurrences**: Tears, Christian, Ubik, Rome, Christianity, Form, Plato, Fish, Greek, Well, These, Perhaps, World, Fall, Golden Fish, Time, Book, Could, Anyhow, Something, Once, Again, Both, Self, Girl, Everything, Either, Great, Anamnesis, Nothing, More, Another, Through, Real, Fullerton, Would, Other, Were, Back, Beyond, Have, Later, Days, Whether, Likewise, Remember, Chip, Until
+**Co-occurrences**: Time, Anamnesis, Tears, Christian, Ubik, Rome, Christianity, Form, Plato, Fish, Greek, Well, These, Perhaps, World, Fall, Golden Fish
 
 ---
 ### Line 3453-3461 (Match: 'Golden')
@@ -323,7 +323,7 @@ Last edit almost 5 years ago by svayambhu108
 275
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Xerox, Rome, Christianity, Holy Spirit, Plato, Kingdom, Fish, Well, Roman, Wisdom, Perhaps, Like, Because, Golden Fish, Only, Noos, Cosmic, Holy Wisdom, Good, Cosmic Christ, Even, Anyhow, Just, Soviet, Something, Kingdom of God, Being, Obviously, Although, Everything, Orphic, Probably, Anamnesis, Without, Grace, Still, Their, Through, Most, Secret, Before, Will, Would, Other, Were, Very, Many, Roogna, Have, Things, Neither, Having, Knowledge, Dialectic, Evidently, Whereas, Doesn, Final, Right, Ananke
+**Co-occurrences**: Anamnesis, Dialectic, Christ, Christian, Spirit, Holy, Jesus, Xerox, Rome, Christianity, Holy Spirit, Plato, Kingdom, Fish, Well, Roman, Wisdom, Perhaps, Like, Because, Golden Fish, Only
 
 ---
 ### Line 3468-3476 (Match: 'Golden')
@@ -339,6 +339,6 @@ Last edit almost 5 years ago by svayambhu108
 277
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Kingdom, King, Fish, Well, Bible, Roman, These, Elijah, Maybe, Like, Since, Golden Fish, Only, Time, After, Paraclete, Faith, Even, Could, Just, Look, Realm, Again, Kingdom of God, Both, Divine, Their, More, Upon, Certainly, True, Death, Would, Somehow, Kingship, Were, Back, Beyond, Further, Have, Life, Body, Whether, Elisha, Cross, Blood, Dead, Comforter, During, Human, Doesn
+**Co-occurrences**: Time, Christ, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Kingdom, King, Fish, Well, Bible, Roman, These, Elijah, Maybe, Like, Since, Golden Fish, Only
 
 ---

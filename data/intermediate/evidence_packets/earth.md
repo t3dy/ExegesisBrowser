@@ -20,7 +20,7 @@ Greco Roman times (esp. Attic Greece[)] Spring Jesus
 
 From then on: dead winter 100 AD to 1970 AD
 ```
-**Co-occurrences**: Jesus, Roman, Zagreus, March, Greco, Greece, Attic, Under, Spring, Dead
+**Co-occurrences**: Jesus, Roman
 
 ---
 ### Line 182-190 (Match: 'Earth')
@@ -37,7 +37,7 @@ Locale: the earth
 
 What accretions I saw rolled back, making me imagine I saw the world of 2000 years ago - was the analog of the snow melting to reveal the Earth below - as it was before the layers of snow covered it i.e. the world of appearances is the world of "snow" (along "orthogonal time axis")
 ```
-**Co-occurrences**: Jesus, These, World, Time, Through, Before, Will, Back, Under, Life, Spring, Dead, During
+**Co-occurrences**: Time, Jesus, These, World
 
 ---
 ### Line 186-194 (Match: 'Earth')
@@ -54,7 +54,7 @@ Last edit less than 20 seconds ago by Gabriel Mckee
 12
 Indexed
 ```
-**Co-occurrences**: Indexed, World, Time, Gabriel, Mckee, Gabriel Mckee, Through, Before, Will, Back, Under, Life, Spring, Dead
+**Co-occurrences**: Time, Indexed, World
 
 ---
 ### Line 327-335 (Match: 'Earth')
@@ -70,7 +70,7 @@ This is what I saw; what I saw rolled back was the "snow" of that long winter. B
 
 I saw that it can melt away in an instant, and reveal the original "season" or being or reality.
 ```
-**Co-occurrences**: Jesus, These, Like, Only, Reality, Zagreus, Being, True, Back, Under, Spring, Dead
+**Co-occurrences**: Jesus, These, Like, Only
 
 ---
 ### Line 438-446 (Match: 'Earth')
@@ -87,7 +87,7 @@ Last edit almost 3 years ago by twsullivan
 28
 Complete
 ```
-**Co-occurrences**: Acts, Thomas, Holy, Jesus, Complete, Form, Bible, Parousia, These, World, Because, Iron, Mind, Zagreus, Self, Anamnesis, Essene, Their, Zeus, Such, Secret, Will, Would, Other, Erasmus, Back, Life, Testament, Days, Suddenly, Qumran, Final, Until
+**Co-occurrences**: Thomas, Anamnesis, Acts, Holy, Jesus, Complete, Form, Bible, Parousia, These, World, Because, Iron
 
 ---
 ### Line 527-535 (Match: 'Earth')
@@ -104,7 +104,7 @@ Last edit almost 3 years ago by twsullivan
 33
 Complete
 ```
-**Co-occurrences**: Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Iron, Prison, Time, After, Even, Could, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Like, World, Therefore, Iron, Prison
 
 ---
 ### Line 533-541 (Match: 'Earth')
@@ -121,7 +121,7 @@ It certainly shows that the alchemists were seeking a symbolic transmutation of 
 
 The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
 ```
-**Co-occurrences**: Complete, Fish, Gnosticism, Wisdom, Plotinus, Maybe, Like, World, After, Mind, Could, Something, Simon, Again, Reality, Being, Grace, Jung, Gold, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, Magic, Human, Dream, Someone
+**Co-occurrences**: Gnosticism, Plotinus, Complete, Fish, Wisdom, Maybe, Like, World
 
 ---
 ### Line 626-634 (Match: 'Earth')
@@ -138,7 +138,7 @@ This is Absolute negantropic compression, the restoration of lost or waste (heat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Complete, Form, Kingdom, Well, These, Parmenides, Time, Harpax, After, Himself, Part, Dokos, More, Would, Other, Back, Life, Absolute, Justice, Form One, Later, Having, Truth, Magic
+**Co-occurrences**: Time, Complete, Form, Kingdom, Well, These, Parmenides
 
 ---
 ### Line 792-800 (Match: 'Earth')
@@ -155,7 +155,7 @@ Also, I could be pre-coging the Parousia, and they will manifest themselves as E
 
 Dear Claudia,
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Parousia, Like, World, Only, Time, After, Savior, Could, Both, March, Sibyl, More, Another, Star, Most, True, Will, Other, Back, Have, Claudia, Dream, Doesn
+**Co-occurrences**: Time, Spirit, Holy, Holy Spirit, Parousia, Like, World, Only
 
 ---
 ### Line 825-833 (Match: 'Earth')
@@ -172,7 +172,7 @@ This whole last year contained a lot of pain and shock and loss for me (I was ho
 
 The criticism that Elijah's coming first and shaping certain folk up so they'd be acceptable was somehow cheating -- this misses the point of it all. God's desire is to save, not to co[n]d[em]n; he wished that as many as possible could be ready for acceptance. The object was not to judge; the object was to save. Thus, before he judged he prompted, so to speak, everyone who needed it or would benefit from it. I certainly wouldn't have passed muster without prior help. The exam per se was not the main purpose of God's coming; He intervened, entered time, and it was necessary to make swift judgment the moment he resumed Kingship. If anyone objects to God's desire to have as many people as possible fir for acceptance when judgement came -- that is an odd objection, and makes the judgment a sort of end in itself, which it is not. It is as if one were to construe the purpose of school to be to give exams and flunk people. The purpose of school is to teach, and to teach in order to prepare the
 ```
-**Co-occurrences**: Kingdom, Well, Elijah, Since, Because, Time, Savior, Good, Even, Firebright, Could, Pinky, Once, Both, Reality, Although, Great, Anamnesis, Without, Their, Heaven, Real, Actually, Certainly, Before, True, Messenger, Death, Would, Somehow, Kingship, Judge, Were, Very, Beyond, Many, Have, Judgment, Life, Body, Spring, Having, Human, Lamb
+**Co-occurrences**: Time, Firebright, Anamnesis, Kingdom, Well, Elijah, Since, Because
 
 ---
 ### Line 1002-1010 (Match: 'Earth')
@@ -189,7 +189,7 @@ The "receiving of the Holy Spirit" at Pentercost, in Acts, probably is this rece
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Christianity, Holy Spirit, However, Father, Like, Since, Because, Only, Harpax, After, Mind, Light, Gospel, Firebright, Does, Anyhow, Again, Both, Being, Himself, Probably, Grace, Brain, Part, Their, More, Actually, Certainly, Before, Mother, True, Would, Other, Were, Many, Things, Absolute, Body, God Himself, Today, Doesn, Final
+**Co-occurrences**: Firebright, Decoded, Acts, Spirit, Holy, Christianity, Holy Spirit, However, Father, Like, Since, Because, Only
 
 ---
 ### Line 1067-1075 (Match: 'Earth')
@@ -206,7 +206,7 @@ I guess you could say, the total family is, God (JHWH), his impregnating self wh
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Maze, Father, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Certainly, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+**Co-occurrences**: Decoded, Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Maze, Father
 
 ---
 ### Line 1069-1077 (Match: 'Earth')
@@ -223,7 +223,7 @@ Last edit over 5 years ago by Harpax
 74
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Maze, Father, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Certainly, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+**Co-occurrences**: Decoded, Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Maze, Father
 
 ---
 ### Line 1152-1160 (Match: 'Earth')
@@ -240,7 +240,7 @@ Two other points: (one) On the aspects designated as those which the "Christ tra
 
 I just had a thought: when the words came to me, "Santa Sophia is going to be reborn; she was not acceptable before," I interpreted this 'Santa Sophia' to refer to the Christos, making use of the concept in John of Christ being the Logos. But in fact, uninterpreted, what I heard simply states that the "Wisdom of God," which is the Firstborn Son of God, or the Logos, or the Word, will be reborn -- not the Christ, although that may be true; it's an additional interpretation, however, and may have misled me. It is the Logos which is back for sure, according to those words that I heard, and the emphasis should be on that. What is more striking would be Logos...born which seems now to have referred me back to "Logos spermatika," the fertilizing or creating Logos, and to the entire doctrine of the "Dec N T" and Philo's ideas, without necessarily involving the Messiah (another concept entirely; the Persians had the Logo spermatikos, for example). I certainly should consider this view first.
 ```
-**Co-occurrences**: Christ, Spirit, Logos, Form, Sophia, Fish, However, Wisdom, These, Perhaps, Father, Maybe, Like, Since, Prison, Only, John, Good, Light, Firebright, Could, Anyhow, Philo, Just, Something, Again, Being, Although, Christos, Santa, Without, Tessa, Nothing, Brain, Those, Part, More, Another, Through, Heaven, Such, Certainly, Before, Mother, Consider, True, Santa Sophia, Will, Deity, Would, Other, Messiah, Were, Back, Whatever, Have, Body, Later, Having, Knowledge, Suddenly, Human, Dream, Free, Right, Mary
+**Co-occurrences**: Sophia, Firebright, Philo, Santa Sophia, Decoded, Christ, Spirit, Logos, Form, Fish, However, Wisdom, These, Perhaps, Father, Maybe, Like, Since, Prison, Only, John
 
 ---
 ### Line 1451-1459 (Match: 'Earth')
@@ -257,7 +257,7 @@ All the trillions of written pages I've seen in sleep...I'm sure they're equival
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Jesus, Form, King, Father, Maybe, John, Harpax, After, Good, Even, Both, Everything, Without, Still, Part, More, Another, Most, Such, Voice, Fullerton, Finally, Will, Other, Very, Back, Have, Things, Life, Absolute, Information, Wise, Later, Knowledge, Truth, Suddenly, Today, Comforter, Dream, Evidently, Right, Grail
+**Co-occurrences**: Information, Tears, Jesus, Form, King, Father, Maybe, John
 
 ---
 ### Line 1516-1524 (Match: 'Earth')
@@ -274,7 +274,7 @@ Know thyself, meaning, know you are only a man, and what you do you do by me.
 
 I'm not much compared with the [e]lohim.
 ```
-**Co-occurrences**: Christ, Greek, Only, Does, Both, Love, Before, Angel, Creation, Under, Life
+**Co-occurrences**: Christ, Greek, Only
 
 ---
 ### Line 1828-1836 (Match: 'Earth')
@@ -291,7 +291,7 @@ Last edit over 5 years ago by Harpax
 
 131
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Well, These, Perhaps, Like, Because, Therefore, Only, Harpax, Mind, Light, Even, Could, Anyhow, Again, Both, Being, Himself, Probably, Kathy, Still, Their, More, Most, Such, Voice, Actually, Certainly, Will, Would, Other, Surely, Have, Clearly, Later, Truth, Suddenly, Evidently
+**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Well, These, Perhaps, Like, Because, Therefore, Only
 
 ---
 ### Line 1933-1941 (Match: 'Earth')
@@ -308,7 +308,7 @@ Last edit over 5 years ago by Harpax
 142
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Logos, Xerox, Rome, Christianity, Sophia, Kingdom, Fish, Well, Parousia, Wisdom, Perhaps, Like, Since, Gnosis, Only, Time, Harpax, Savior, Book, Even, Does, Pinky, Look, Being, Although, Himself, Daniel, More, Another, Most, Heaven, Real, Such, Actually, Love, Revelation, Consider, Death, Finally, Would, Other, Mission, Were, Have, Life, Justice, Spring, Freedom, Instead, Having, God Himself, Truth, Greater, Lamb, Until
+**Co-occurrences**: Sophia, Time, Christ, Christian, Spirit, Logos, Xerox, Rome, Christianity, Kingdom, Fish, Well, Parousia, Wisdom, Perhaps, Like, Since, Gnosis, Only
 
 ---
 ### Line 1963-1971 (Match: 'Earth')
@@ -325,7 +325,7 @@ This would explain the "Is but is not" as follows: the tangible secular evil was
 
 . . . Now I know the meaning of my dream of the old encyclopedias, as Kleo's family's house. In them there had been the speeches of General Sherman in which he set forth the (new) Roman totalitarianism. In my dream it was said that "Andrew Jackson," dated 1837, hadn't ever actually dies, was in fact still alive. This meant still alive are the ideas of Sherman; and those ideas are a radical, vicious romanism-centralism. It was then, in 1863 or so, that the rebirth of Rome took place; here, then carried to Germany. This was the same Washington government and same army generals who exterminated the Indians. This can now be seen to dovetail with my dreams of the sibyl and other Roman constructs. There dreams, and my experience, let me in on the (mystical, metaphysical) Secret (about the world; as said regarding Gibbon: "Rome never really did fall. To think it fell is an error."). The Secret: we are in a Roman prison. And help is on the way. This is the meaning behind the idea of the Kingdom of Heaven --the return of the rightful King-- to suddenly come. First, you must understand our desperate situation.
 ```
-**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Empire, Roman, World, Fall, Because, Prison, Only, House, Sibyl, Those, Still, Their, Most, Heaven, Real, Actually, Secret, Would, Other, Have, Evil, Government, Truth, Suddenly, Human, Dream, Until
+**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Empire, Roman, World, Fall, Because, Prison, Only
 
 ---
 ### Line 2000-2008 (Match: 'Earth')
@@ -342,6 +342,6 @@ Last edit over 5 years ago by Harpax
 147
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Christianity, Holy Spirit, Sophia, Paul, Greek, However, Wisdom, World, Because, Only, Harpax, Good, Book, Even, Could, Does, Anyhow, Just, Both, Although, Probably, Santa, Nothing, Those, Another, Most, Actually, Secret, Santa Sophia, Death, Will, Would, Other, Beyond, Whatever, Under, Many, Have, Things, Body, Truth, Human, Doesn
+**Co-occurrences**: Thomas, Sophia, Santa Sophia, Christ, Christian, Spirit, Holy, Logos, Christianity, Holy Spirit, Paul, Greek, However, Wisdom, World, Because, Only
 
 ---

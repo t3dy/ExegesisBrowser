@@ -20,7 +20,7 @@ at the time of that white light He (God) assessed it, whether he would save or d
 
 Last edit half a minute ago by Gabriel Mckee
 ```
-**Co-occurrences**: Sophia, Elijah, World, Because, Time, Nixon, After, Gabriel, Mckee, Gabriel Mckee, Light, Again, Being, March, Viewed, Will, Would, Whether, August, White
+**Co-occurrences**: Sophia, Time, Elijah, World, Because, Nixon
 
 ---
 ### Line 2722-2730 (Match: 'St Sophia')
@@ -37,7 +37,7 @@ Last edit half a minute ago by Gabriel Mckee
 207
 Needs Review
 ```
-**Co-occurrences**: Sophia, Elijah, World, Because, Time, Nixon, After, Gabriel, Mckee, Gabriel Mckee, Light, Again, Being, Viewed, Will, Would, Whether, August, White
+**Co-occurrences**: Sophia, Time, Elijah, World, Because, Nixon
 
 ---
 ### Line 3006-3014 (Match: 'St Sophia')
@@ -54,7 +54,7 @@ The ICC doesn't seem to realize that Christ will not merely be reborn as he was 
 
 In rereading the ICC DECODED NEW TESTAMENT I discover it is based on a false premise; viz., that the gospels date from the Fourth Century and no earlier, and are therefore cut off by time, space and corruption from the original gospel; but in point of fact John for instance dates from only 30 years after the apostles. What the ICC is is a Gnostic group peddling Gnostic doctrines as the alleged original lost authentic gospel; specifically, you can only attain salvation by esoteric knowledge. "A closed, secret society," as they call themselves, claiming Xtianity to have been that originally (it was not). The original gospel was preached to whoever would accept it, openly; as many were converted as could be.
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Christianity, Holy Spirit, Sophia, Gnostic, Advent, Because, Therefore, Only, John, Time, After, Mind, Even, Gospel, Could, Just, Soviet, Both, Being, Without, Grace, Their, Through, Such, Secret, Before, Will, Would, Were, Many, Have, German, Testament, Days, Knowledge, Dream, Salvation, Doesn, Free, Answer
+**Co-occurrences**: Sophia, Gnostic, Time, Decoded, Christ, Spirit, Holy, Christianity, Holy Spirit, Advent, Because, Therefore, Only, John
 
 ---
 ### Line 4314-4322 (Match: 'St Sophia')
@@ -71,7 +71,7 @@ Last edit almost 3 years ago by svayambhu108
 80
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Sophia, King, Greek, Bible, Golden, These, Maybe, World, Time, Nixon, Book, Could, Anyhow, Again, Being, Himself, Anamnesis, Another, Greece, Finally, Will, Other, Were, Back, Whatever, Things, Dream, Ptath
+**Co-occurrences**: Sophia, Time, Anamnesis, Christ, Tears, Spirit, King, Greek, Bible, Golden, These, Maybe, World, Nixon
 
 ---
 ### Line 4628-4636 (Match: 'St Sophia')
@@ -88,7 +88,7 @@ Last edit almost 3 years ago by svayambhu108
 
 26
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Zebra, Holy Spirit, Form, Sophia, Gnostic, King, Perhaps, Advent, Maybe, Because, Only, Time, Good, Even, Does, March, Great, Chrissy, Jews, Living, Secret, True, Will, Back, Further
+**Co-occurrences**: Zebra, Sophia, Gnostic, Time, Christ, Spirit, Holy, Holy Spirit, Form, King, Perhaps, Advent, Maybe, Because, Only
 
 ---
 ### Line 5106-5114 (Match: 'St Sophia')
@@ -105,7 +105,7 @@ Last edit almost 3 years ago by svayambhu108
 44
 Needs Review
 ```
-**Co-occurrences**: Christian, Zebra, Form, Sophia, Time, Mind, Even, Does, Being, Hegel, Nous, Self, Divine, Their, Actually, Certainly, Revelation, Whitehead, Universe, Creation, Have, Later
+**Co-occurrences**: Zebra, Sophia, Time, Hegel, Christian, Form
 
 ---
 ### Line 5239-5247 (Match: 'St Sophia')
@@ -121,7 +121,7 @@ Last edit almost 3 years ago by svayambhu108
 67
 Needs Review
 ```
-**Co-occurrences**: Tears, Spirit, Zebra, Sophia, Well, World, Since, Iron, Prison, Only, Time, After, Black, Again, Hegel, Black Iron Prison, Either, Daniel, Sibyl, Through, Before, True, Have, Absolute, Human, Iron Prison, Dream, Right
+**Co-occurrences**: Zebra, Sophia, Time, Hegel, Linear, Tears, Spirit, Well, World, Since, Iron, Prison, Only
 
 ---
 ### Line 5297-5305 (Match: 'St Sophia')
@@ -137,7 +137,7 @@ Last edit almost 3 years ago by svayambhu108
 77
 Needs Review
 ```
-**Co-occurrences**: Christ, Sophia, Kingdom, Well, Like, World, Only, After, Even, Just, Realm, Again, Being, Hegel, Divine, Himself, Part, More, Another, Heaven, Certainly, Death, Will, Would, Further, Instead, Human, Answer
+**Co-occurrences**: Sophia, Hegel, Christ, Kingdom, Well, Like, World, Only
 
 ---
 ### Line 5321-5329 (Match: 'St Sophia')
@@ -154,7 +154,7 @@ Last edit almost 3 years ago by svayambhu108
 
 81
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Thomas, Zebra, Logos, Sophia, Like, World, Because, Only, Time, Noos, Mind, Could, Anyhow, Just, Again, Both, Reality, Teilhard, Christi, Hegel, Although, Corpus, Santa, Still, Part, Another, Corpus Christi, Living, Ground, Before, Whitehead, Universe, Deity, Would, Very, Surely, Have, Dream, Right, Until
+**Co-occurrences**: Thomas, Zebra, Sophia, Time, Hegel, Christ, Tears, Ubik, Logos, Like, World, Because, Only
 
 ---
 ### Line 5680-5688 (Match: 'St Sophia')
@@ -171,7 +171,7 @@ Last edit over 5 years ago by Toso
 3
 Indexed
 ```
-**Co-occurrences**: Christ, Tears, Toso, Indexed, Spirit, Holy, Zebra, Rome, Holy Spirit, Sophia, Bible, Wisdom, Like, Iron, Prison, John, Black, Holy Wisdom, Book, Anyhow, Again, Being, Everything, Black Iron Prison, Himself, Daniel, Those, Another, Babylon, Before, Universe, Finally, Will, Deity, Other, Back, Beyond, Have, Things, Trinity, Iron Prison, Dream
+**Co-occurrences**: Zebra, Sophia, Christ, Tears, Toso, Indexed, Spirit, Holy, Rome, Holy Spirit, Bible, Wisdom, Like, Iron, Prison, John
 
 ---
 ### Line 5849-5857 (Match: 'St Sophia')
@@ -188,7 +188,7 @@ Last edit almost 3 years ago by svayambhu108
 13
 Needs Review
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Rome, Sophia, Kingdom, Spinoza, Lord, These, Perhaps, Advent, Elijah, World, Since, Fall, Because, Therefore, Iron, Prison, Time, Black, Something, Black Iron Prison, Still, Through, Babylon, Such, Voice, True, Will, Would, Were, Things, Judgment, Later, Suddenly, Iron Prison, Right
+**Co-occurrences**: Thomas, Sophia, Time, Linear, Christian, Jesus, Rome, Kingdom, Spinoza, Lord, These, Perhaps, Advent, Elijah, World, Since, Fall, Because, Therefore, Iron, Prison
 
 ---
 ### Line 6020-6028 (Match: 'St Sophia')
@@ -205,7 +205,7 @@ Last edit almost 3 years ago by svayambhu108
 18
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Zebra, Holy Spirit, Sophia, Bible, Gnosticism, Parousia, Like, World, Because, Prison, Only, Time, Garden, Could, Does, Just, Something, Everything, Corpus, Probably, Those, Still, More, Church, Ground, Real, Such, Before, True, Would, Mission, Were, Very, Back, Evil, Having, Knowledge
+**Co-occurrences**: Gnosticism, Zebra, Sophia, Time, Christ, Christian, Spirit, Holy, Holy Spirit, Bible, Parousia, Like, World, Because, Prison, Only
 
 ---
 ### Line 6108-6116 (Match: 'St Sophia')
@@ -222,7 +222,7 @@ Last edit almost 3 years ago by svayambhu108
 33
 Needs Review
 ```
-**Co-occurrences**: Christ, Ubik, Spirit, Rome, Sophia, However, Maze, Perhaps, Advent, Because, Only, Time, Anyhow, Again, Reality, Being, Either, Through, True, Will, Would, Somehow, Page, Very, Back, Further, Until
+**Co-occurrences**: Sophia, Time, Christ, Ubik, Spirit, Rome, However, Maze, Perhaps, Advent, Because, Only
 
 ---
 ### Line 6120-6128 (Match: 'St Sophia')
@@ -239,7 +239,7 @@ Last edit almost 3 years ago by svayambhu108
 35
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Thomas, Holy, Rome, Form, Sophia, Bible, Maze, Wisdom, These, Advent, Like, World, Gnosis, Only, John, Time, Holy Wisdom, Could, Just, Reality, Being, Runciter, Either, Dokos, Through, Real, Calif, Secret, Revelation, Will, Would, Were, Very, Back, Further, Artifact, Info, Final
+**Co-occurrences**: Thomas, Sophia, Time, Christ, Christian, Ubik, Holy, Rome, Form, Bible, Maze, Wisdom, These, Advent, Like, World, Gnosis, Only, John
 
 ---
 ### Line 6292-6300 (Match: 'St Sophia')
@@ -256,7 +256,7 @@ Last edit almost 3 years ago by svayambhu108
 
 16
 ```
-**Co-occurrences**: Rome, Form, Sophia, Kingdom, Advent, World, Only, Time, Could, Again, Reality, Being, Anamnesis, Nothing, Still, Part, Dokos, Through, Babylon, Heaven, Before, True, Will, Other, Many, Have, Fake, Memory, Later, Evidently, Until
+**Co-occurrences**: Sophia, Time, Anamnesis, Linear, Rome, Form, Kingdom, Advent, World, Only
 
 ---
 ### Line 6455-6463 (Match: 'St Sophia')
@@ -273,7 +273,7 @@ Last edit almost 3 years ago by svayambhu108
 44
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Zebra, Logos, Form, Sophia, Paul, Maze, Wisdom, These, Maybe, Scanner, World, Time, Book, Even, Could, Something, Look, Deus, Still, Their, More, Another, Through, Heaven, Gold, Such, Universe, Other, Were, Very, Have, Things, Absolute, Freedom, Aphrodite, Human, Dream
+**Co-occurrences**: Zebra, Sophia, Time, Christ, Tears, Ubik, Logos, Form, Paul, Maze, Wisdom, These, Maybe, Scanner, World
 
 ---
 ### Line 6478-6486 (Match: 'St Sophia')
@@ -290,7 +290,7 @@ Last edit almost 3 years ago by svayambhu108
 48
 Needs Review
 ```
-**Co-occurrences**: Form, Sophia, Gnostic, Gnosticism, Plotinus, World, Time, Could, Just, Once, Again, Being, Obviously, Still, Ground, True, Death, Will, Would, Messiah, Fake, Greater, Human
+**Co-occurrences**: Gnosticism, Plotinus, Sophia, Gnostic, Time, Form, World
 
 ---
 ### Line 6501-6509 (Match: 'St Sophia')
@@ -306,7 +306,7 @@ Last edit almost 3 years ago by svayambhu108
 52
 Needs Review
 ```
-**Co-occurrences**: Valis, Tears, Zebra, Sophia, Gnostic, Gnosticism, Perhaps, Advent, James, World, Fall, Prison, Only, Time, Good, Does, Philo, Being, Himself, Either, Grace, Creator, Through, Such, Secret, Revelation, True, Deity, Would, Other, Further, Knowledge, During, Dream, Evidently, Right
+**Co-occurrences**: Gnosticism, Valis, Zebra, Sophia, Gnostic, Time, Philo, Linear, Tears, Perhaps, Advent, James, World, Fall, Prison, Only
 
 ---
 ### Line 6542-6550 (Match: 'St Sophia')
@@ -323,7 +323,7 @@ Last edit almost 3 years ago by svayambhu108
 59
 Needs Review
 ```
-**Co-occurrences**: Christ, Acts, Spirit, Holy, Holy Spirit, Sophia, Gnostic, James, Because, Savior, Good, Book, Even, Does, Creator, Part, Most, True, Will, Other, Many, Have, Absolute, Final
+**Co-occurrences**: Sophia, Gnostic, Christ, Acts, Spirit, Holy, Holy Spirit, James, Because
 
 ---
 ### Line 6900-6908 (Match: 'St Sophia')
@@ -340,6 +340,6 @@ This is the key: Q: Acts - where/when is/was Acts? A: Acts is where we true Xtia
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Toso, Indexed, Xerox, Sophia, Satan, Empire, Like, World, Because, Therefore, Only, Okay, Could, Both, Being, Missive, Xerox Missive, Part, Star, Living, Real, True, Will, Other, Creation, Wars, Have, Star Wars, Evil
+**Co-occurrences**: Sophia, Christ, Tears, Acts, Christian, Toso, Indexed, Xerox, Satan, Empire, Like, World, Because, Therefore, Only
 
 ---

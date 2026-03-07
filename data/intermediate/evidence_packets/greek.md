@@ -20,7 +20,7 @@ I hadn’t realized Pinky was Tony Boucher, served up by the universe again, unt
 16
 Also, the day Pinky died, at the vet’s, that evening as I stood in the bathroom I felt my wife put her hand on my shoulder, firmly, to console me. Turning, I saw no one. I also dreamed this dream: I had the album notes for “Don Pasquale” and at the end the conductor had added a note: five string of cat gut, like a stave. It was a final hello from Pinky who was Tony Boucher; in the dram the album was an old 78 one, a favorite of Tony’s.
 ```
-**Co-occurrences**: However, Maybe, Like, Because, Only, After, Light, Could, Pinky, Anyhow, Just, Something, Once, Again, Tony, Himself, Great, Those, Still, Living, Love, Universe, Will, Would, Other, Were, Very, Back, Under, Have, Days, Except, Sturgeon, Suddenly, Dream, Final, Until
+**Co-occurrences**: However, Maybe, Like, Because, Only
 
 ---
 ### Line 480-488 (Match: 'Greek')
@@ -37,7 +37,7 @@ Dionysos appeared to the Greeks in vegetable form (root, tree, vine) and animal 
 
 And then later, "...He is drunken with music, not with wine." (Jane Harrision.) By stealthy degrees Dionysos became Zagreus and then Orpheus. The trouble with Jesus is that he isn't musical. I guess they could use lipsynch, but the fact is, Jesus is Orpheus, and Christianity is the next mirthful dodge which the Loving Dodger has worked on us, those whom he loves. I have this vision of Him: much like the Hurdy-Gurdy Man: I see Him invisible to us behind us as the flock moves on, and I see small stragglers and old stragglers and stupid stragglers and sick stragglers and stragglers in general who have given up hope or lost energy and have given up to perish as the flock or pack or herd or culture or race marches on, without a look back. And sparkling with light and silently, He emerges and without breaking stride gathers up all the stragglers.
 ```
-**Co-occurrences**: Jesus, Complete, Christianity, Form, Well, Dionysos, These, Like, Time, Light, Could, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Back, Egyptian, Have, Tree, Later, Human
+**Co-occurrences**: Time, Jesus, Complete, Christianity, Form, Well, Dionysos, These, Like
 
 ---
 ### Line 482-490 (Match: 'Greeks')
@@ -54,7 +54,7 @@ And then later, "...He is drunken with music, not with wine." (Jane Harrision.) 
 
 Since the flock never looks back or turns back it never sees Him. This is why Luther accurately called our God the "God of the very desperate." This is why the image of the flock and the lamb which has wandered off appear in our sacred writings, and others which refer to this archtypal rescue in stealth. Because of course if the flock knew, they'd stop trudging along and just stand or go back. They're not to know.
 ```
-**Co-occurrences**: Jesus, Complete, Christianity, Form, Well, Dionysos, These, Like, Since, Because, Time, Light, Could, Just, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Very, Back, Egyptian, Have, Tree, Later, Luther, Human, Lamb, Sacred
+**Co-occurrences**: Time, Jesus, Complete, Christianity, Form, Well, Dionysos, These, Like, Since, Because
 
 ---
 ### Line 539-547 (Match: 'Greek')
@@ -71,7 +71,7 @@ Last edit over 2 years ago by ratatosk
 34
 Needs Review
 ```
-**Co-occurrences**: Fish, Gnosticism, Wisdom, These, Plotinus, Maybe, Like, Mind, Could, Something, Again, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Many, Have, Absolute, Info, America, Magic, Hermes, Dream, Someone
+**Co-occurrences**: Gnosticism, Plotinus, Hermes, Fish, Wisdom, These, Maybe, Like
 
 ---
 ### Line 855-863 (Match: 'Greek')
@@ -88,7 +88,7 @@ Last edit over 5 years ago by Harpax
 
 56
 ```
-**Co-occurrences**: Ubik, Well, Like, World, Since, Harpax, Book, Even, Does, Just, Once, Suppose, Reality, Being, Everything, Divine, Great, Viewed, Without, Nothing, Those, More, Through, Living, Real, Before, True, Universe, Finally, Would, Other, Were, Very, Back, Many, Have, Things, Life, Instead, Later, Days, Truth, Otherwise, Free
+**Co-occurrences**: Ubik, Well, Like, World, Since
 
 ---
 ### Line 983-991 (Match: 'Greeks')
@@ -105,7 +105,7 @@ I awoke abruptly to find myself with my Savior, and then entered Fellowship with
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Holy, Rome, Form, Sophia, Kingdom, However, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+**Co-occurrences**: Sophia, Time, Firebright, Anamnesis, Christ, Ubik, Holy, Rome, Form, Kingdom, However, Maze, Father, Like, Because, Only
 
 ---
 ### Line 1079-1087 (Match: 'Greek')
@@ -122,7 +122,7 @@ Perhaps, when the Moment of Restoration comes (which could work equally for all 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Bible, Perhaps, Advent, Father, Maybe, Like, Since, Only, Time, Harpax, After, Savior, Light, Even, Firebright, Could, Does, Just, Once, Again, Both, Reality, Jesus Christ, Although, Apollo, Probably, Sibyl, Part, Their, More, Zeus, Another, Through, Upon, Fullerton, Certainly, Mother, True, Death, Will, Christopher, Would, Attic, Back, Under, Have, Absolute, Body, Except, Human, Right, Mary
+**Co-occurrences**: Time, Firebright, Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Bible, Perhaps, Advent, Father, Maybe, Like, Since, Only
 
 ---
 ### Line 1112-1120 (Match: 'Greek')
@@ -139,7 +139,7 @@ He is both building and He is perfecting what He has already built. He animates 
 
 Ursula accuses me of getting away from "Taoistic balance" when I get into Christianity. The Logos and balance (of Fr. 51 of Hericlitus) are intimitely connected, with the Logos implementing balance or harmony everywhere, it being the Plan. It is hard to imagine the Logos out of balance. Also, when conditions on our world were out of balance, it was the Logos which brought what we experienced as relief, but which, on a supraterrestrial scale, was probably a restitution of harmonie. Also, there is my "Rhipidon" fan dream of the left-right-with the center as God's balanced perfection in any situation (and the material in "Decoded" about Satan as the unreal to left and to right.
 ```
-**Co-occurrences**: Christ, Logos, Complete, Christianity, Form, Sophia, Satan, Like, World, Mind, Firebright, Does, Just, Something, Both, Being, Probably, Santa, Without, Nothing, Santa Sophia, Were, Life, Human, Dream, Right
+**Co-occurrences**: Sophia, Firebright, Santa Sophia, Decoded, Christ, Logos, Complete, Christianity, Form, Satan, Like, World
 
 ---
 ### Line 1124-1132 (Match: 'Greeks')
@@ -156,7 +156,7 @@ One of the best points in Hussey's book is where he says that one of the ancient
 
 I note that Parmenides' Form I is equated, by him, with light: This is exciting, since as I understand Parmenides, he saw Form II as a mere mirror reflection, and urged a monism on us (the fiery or dry soul) which made us relate only to Form I, or to light.
 ```
-**Co-occurrences**: Form, Well, These, Advent, Maybe, Like, Parmenides, Since, Because, Only, Time, Harpax, Book, Light, Could, Does, Just, Suppose, Kosmos, Although, Everything, Orphic, Either, Without, Nothing, More, Another, Soul, Real, Certainly, Universe, Deity, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+**Co-occurrences**: Time, Form, Well, These, Advent, Maybe, Like, Parmenides, Since, Because, Only
 
 ---
 ### Line 1126-1134 (Match: 'Greeks')
@@ -173,7 +173,7 @@ I note that Parmenides' Form I is equated, by him, with light: This is exciting,
 
 The Orphic egg. If the universe is born from something for which the eff is a paradigm, then maybe, as the individual is, then both are reborn from something like an egg -- a light egg. Maybe this was the exoteric teachings of the Orphic: rebirth. Rejuvination (eternal life).
 ```
-**Co-occurrences**: Form, Well, These, Advent, Maybe, Like, Parmenides, Since, Because, Only, Time, Book, Light, Could, Does, Just, Something, Suppose, Both, Kosmos, Although, Everything, Orphic, Either, Without, Nothing, More, Another, Soul, Real, Certainly, Universe, Deity, Would, Other, Were, Very, Beyond, Whatever, Things, Life, Babylonian, Suddenly, Right, Ananke
+**Co-occurrences**: Time, Form, Well, These, Advent, Maybe, Like, Parmenides, Since, Because, Only
 
 ---
 ### Line 1177-1185 (Match: 'Greek')
@@ -190,7 +190,7 @@ These are like scene changes for a play. They take place outside of the drama, a
 
 Which brings up my "schlockmeister" movie dream: our world as a set, of valleys and rivers and trees, which the schlockmeisters have polluted, and how angry the "owner of the property" is. They, the director, cameraman, producer, were to do His property, and look at the schlock job they're doing; hence his ire. The first time, in 3 74, the pure springtime was tainted by the ring of iron; but in 75 it was gone! And so I felt pure springtime those days, and marvelled much. But -- the instincts (and certainly what were fired at me as signals were what, when animals recieve them, we call instincts) the instincts that appear in springtime are those connected with the vast cycle of reproduction, of mating and giving birth. For me it was a metabirth, or spiritual, but the timing of these instincts is further proof (indication, maybe) of their nature. Also, they were mixed with survival instincts of a metanature, but leading ultimately to reproduction, arising out of my survival; that is, I survived (and had the instincts for that, first) that I could reproduce in a spiritual or meta fashion. Survival-to-reproduce-to-survive is normally a closed system, which baffles us as to what is means and what is ends; but in this, the reproduction is the goal, since it is higher; this was not a closed cycle. What was born (Firebright) was not a mere replica of what had formerly survived (me). Perhaps Firebright was formed in 75; it was in 75 that I had the "Saint Sophia" experience, for personal life; but this was followed gently and easily in 75 by the Saint Sophia Second Birth, the non-defensive metasystems. I think there was no taint of personal survival and the meta instincts therefore in 75, but in 74 certainly of primary need were the instincts
 ```
-**Co-occurrences**: Rome, Sophia, Fish, Roman, These, Perhaps, Maybe, Like, World, Since, Therefore, Iron, Only, Time, Harpax, Firebright, Could, Anyhow, Just, Look, Both, Palm, Those, Their, Real, Such, Certainly, Would, Were, Erasmus, Further, Have, Life, Later, Days, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Saint Sophia, Rome, Fish, Roman, These, Perhaps, Maybe, Like, World, Since, Therefore, Iron, Only
 
 ---
 ### Line 1191-1199 (Match: 'Greek')
@@ -207,7 +207,7 @@ Last edit over 5 years ago by Harpax
 84
 Needs Review
 ```
-**Co-occurrences**: Logos, Sophia, King, Well, Elijah, World, Only, Time, Harpax, Mind, Firebright, Hebrew, Just, Realm, Being, Divine, Great, Gods, Probably, Taoist, Brain, Part, More, Star, Certainly, Before, Universe, Would, Other, Somehow, Were, Back, Further, Have, Life, Body, Justice, Spring, Except, Knowledge, During
+**Co-occurrences**: Sophia, Time, Firebright, Logos, King, Well, Elijah, World, Only
 
 ---
 ### Line 1211-1219 (Match: 'Greek')
@@ -224,7 +224,7 @@ Last edit over 5 years ago by Harpax
 85
 Needs Review
 ```
-**Co-occurrences**: Well, Because, Harpax, Mind, Okay, Could, Does, Hebrew, Look, Both, Kosmos, Being, Everything, Jews, Their, Zeus, Another, Certainly, Greece, Deity, Have, Body
+**Co-occurrences**: Well, Because
 
 ---
 ### Line 1219-1227 (Match: 'Greeks')
@@ -241,7 +241,7 @@ What I experienced was the restitution of balance, and since it was on such a va
 
 In reading THE BACCHAE. The material about Dytherambus, taken by his father Zeus and placed in a "male womb" by Zeus and called by Zeus "Dytherambus," etc.; it is so like Firebright...what am I to think? And it was out of this, from the worship of Dionysos, that the entire Christian religion came. Here is the "male womb" which the solar spermatikos could enter; is not this the same myth, somehow? I mean, the same story or concept? Another kind of birth - a second birth? Dionysos was born of Semele, then taken by Zeus; after leaving the "male womb" on Zeus' thigh, Dytherambus or Dionysos would have experienced a second birth; i.e. be born again! And is even renamed. The resemblance to the story of Zagreus: where Zeus does everything possible to protect him. What is "psychologically" meant by this "male womb"? This second birth with a new name? The second birth is the motherless birth. But also this expresses a maternal quality of the Deity, His being protective, His taking on the entire role associated with the mother (and Hera being cruel and lethal). So that metaphorically (or "psychologically") it is shown that the Deity, God, can and does have all characteristics, that He is in fact not "He" as we understand "he" (i.e. Yang to the exclusion of Yin). He is They or both. The story of Deity as possessing all parental characteristics and escaping the limiting label of gender with the implied limitations; this is more sophisticated, this Dythrambus story, that would first appear. Zeus can do it all. Those Greek thinkers, or the culture as a whole, inspired perhaps by the Logos itself, was trying to get away from gender and sex-characteristics; have we anything in Judiasm or Christianity about Jehovah which is as sophisticated? No. We don't. This is a total being (also a total view). It shows, too, that to[o] take on divine characteristics one must take on the quality of totality.
 ```
-**Co-occurrences**: Christian, Logos, Christianity, Dionysos, These, Perhaps, Father, Like, Since, After, Even, Yang, Firebright, Could, Does, Again, Both, Heraclitus, Zagreus, Being, Everything, Divine, Moses, Bacchae, Gods, Those, More, Zeus, Another, Egypt, Such, Mother, Deity, Would, Somehow, Were, Have, Body, Justice, Testament
+**Co-occurrences**: Firebright, Christian, Logos, Christianity, Dionysos, These, Perhaps, Father, Like, Since
 
 ---
 ### Line 1223-1231 (Match: 'Greek')
@@ -258,7 +258,7 @@ Dream about Dodger statium and low class Mexican type US celebrations of every s
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christian, Logos, Christianity, Dionysos, These, Perhaps, Father, Like, Since, Time, Harpax, After, Light, Even, Yang, Firebright, Could, Does, Again, Both, Zagreus, Being, Everything, Divine, Moses, Great, Bacchae, Gods, Those, More, Zeus, Another, Egypt, Such, Mother, Deity, Would, Somehow, Were, Have, Body, Justice, Otherwise, Dream
+**Co-occurrences**: Time, Firebright, Christian, Logos, Christianity, Dionysos, These, Perhaps, Father, Like, Since
 
 ---
 ### Line 1240-1248 (Match: 'Greeks')
@@ -275,7 +275,7 @@ I've just read Joseph Campbell on Patch, and I find what I had been [h]oping to 
 
 This is 2,000 years before India. "The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator." Also, Ptah did it by speaking the word (the tongue). This anticipates the Logos doctrine. Heart is creative intent; tongue utters or expresses, gives voice to (I'll bet ka and voice and breath are closely identified).
 ```
-**Co-occurrences**: Logos, Well, World, Noos, Black, Cosmic, Mind, Just, Look, Once, Again, Great, Gods, Creator, Part, Their, Brahmanism, Through, Voice, Before, Universe, Deity, Campbell, Body, India, Joseph, Dream, Ptath, Joseph Campbell, White
+**Co-occurrences**: Logos, Well, World
 
 ---
 ### Line 1272-1280 (Match: 'Greeks')
@@ -292,7 +292,7 @@ I am lying in bed here and I am musing, "God can simulated the inanimate. Or rat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Holy Spirit, King, Paul, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+**Co-occurrences**: Time, Acts, Spirit, Holy, Holy Spirit, King, Paul, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison
 
 ---
 ### Line 1467-1475 (Match: 'Greek')
@@ -309,7 +309,7 @@ Last edit over 5 years ago by Harpax
 104
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Logos, Kingdom, Well, Father, Maybe, World, Only, John, Time, Harpax, After, Faith, Mind, Again, Kingdom of God, Being, Everything, Gods, Still, More, Egypt, Universe, Deity, Creation, Back, Campbell, Have, Life, Trinity, Joseph, Today, Evidently, Joseph Campbell, Right
+**Co-occurrences**: Time, Christ, Tears, Ubik, Logos, Kingdom, Well, Father, Maybe, World, Only, John
 
 ---
 ### Line 1491-1499 (Match: 'Greek')
@@ -326,7 +326,7 @@ Last edit over 5 years ago by Harpax
 
 106
 ```
-**Co-occurrences**: Spirit, However, Dionysos, These, Perhaps, Plotinus, Like, Since, Because, Only, Time, Harpax, After, Something, Look, Again, Suppose, Both, Reality, Everything, Divine, Great, Gods, Brain, Part, More, Another, Real, Voice, Actually, Love, True, Universe, Will, Would, Other, Somehow, Were, Attic, Beyond, Whatever, Have, Life, Memory, India, Socrates, Having, Remember, Human, Dream, Track
+**Co-occurrences**: Plotinus, Time, Linear, Spirit, However, Dionysos, These, Perhaps, Like, Since, Because, Only
 
 ---
 ### Line 1496-1504 (Match: 'Greek')
@@ -342,6 +342,6 @@ This is 2400 years later; it's still talking -- to me, at least. Also I guess to
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Spirit, Form, Plato, Well, Like, Since, Only, Harpax, After, Mind, Book, Does, Hebrew, Just, Something, Look, Again, Being, Although, Everything, Himself, Apollo, Without, Tessa, Those, Still, Most, Real, Voice, Before, Death, Will, Would, Were, Very, Attic, Many, Have, Life, Later, Socrates, Likewise, Today, Doesn, Final, Right, Answer
+**Co-occurrences**: Christ, Ubik, Spirit, Form, Plato, Well, Like, Since, Only
 
 ---

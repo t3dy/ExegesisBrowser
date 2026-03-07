@@ -20,7 +20,7 @@ In rereading the Brit 3 article on "Jesus Christ" I'm reminded that although the
 
 When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life, I get a single impression, one story underlying all, but not that visible until all 3 are compared. It is the story of a kingdom where reg[n]icide took place; the throne is occupied by a ursurper; now the rightful heir has returned (the stranger, Hamlet, Jesus), and holds no power, but speaks in strange riddle. The brutal ursurpacious ruler has him imprisoned and possibly killed; nonetheless the young stranger
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+**Co-occurrences**: Time, Christ, Logos, Jesus, Kingdom, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John
 
 ---
 ### Line 2101-2109 (Match: 'Felix')
@@ -37,7 +37,7 @@ Last edit over 5 years ago by Harpax
 
 156
 ```
-**Co-occurrences**: Christ, Tears, Rome, Kingdom, King, Well, Bible, Parousia, However, Perhaps, Maybe, Like, World, Since, Fall, Therefore, Iron, Only, Time, Harpax, After, Even, Could, Does, Kingdom of God, Although, Moses, Either, Still, Their, Egypt, Babylon, Revelation, Death, Will, Would, Angel, Were, Biblical, Have, Life, Wise, Evidently, Genesis, Free, Right, Until, August
+**Co-occurrences**: Time, Christ, Tears, Rome, Kingdom, King, Well, Bible, Parousia, However, Perhaps, Maybe, Like, World, Since, Fall, Therefore, Iron, Only
 
 ---
 ### Line 2106-2114 (Match: 'Felix')
@@ -53,7 +53,7 @@ My very recent book dream, the masterpiece novel gummed into the encyclopedea --
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Jesus, Form, Well, Lord, These, Maybe, Only, Harpax, Black, Buckman, Book, Even, Gospel, Could, Taverner, Soviet, Both, Reality, Being, Self, Probably, Kathy, Their, Most, Such, Love, Revelation, Consider, Western, Finally, Other, Somehow, Very, Back, Beyond, Surely, Under, Many, Have, Life, Claudia, Cross, West, Dream, Doesn, Right, Until
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Jesus, Form, Well, Lord, These, Maybe, Only
 
 ---
 ### Line 2130-2138 (Match: 'Felix')
@@ -70,7 +70,7 @@ In other words the black man whom Buckman meets is even more like the black man 
 
 The greatest significance at the end of TEARS, though, is that all which was wrong is at last set right. The sterilized black is no longer restricted. Later, Tavener is found innocent (correctly). The repressive society fades away. The change is inaugerated by Buckman's dream of the company of saints on horseback; after that the change starts with him drawing the heart pierced by the arrow and giving it to the black man as a mute message (agape).
 ```
-**Co-occurrences**: Tears, Acts, Holy, Christianity, Bible, Like, World, Harpax, After, Black, Buckman, Book, Even, Anyhow, Just, Something, Reality, Kosmos, Obviously, Philip, More, Another, Through, Living, Before, Other, Later, Suddenly, Dream, Right
+**Co-occurrences**: Philip, Tears, Acts, Holy, Christianity, Bible, Like, World
 
 ---
 ### Line 2132-2140 (Match: 'Felix')
@@ -87,7 +87,7 @@ The greatest significance at the end of TEARS, though, is that all which was wro
 
 . . . For TO SCARE THE DEAD: let it turn out to be St. Luke who shaministically possessed him (a bridge thus established between 70 AD and our present), and the protag eventually discovers, though this assimilated inner contact that St. Luke (and probably also the others of the original cadre of Christians, the inner circle of Christ's) is what we call a (are you ready?) a non-terrestrial, of magnificent power and authority and wisdom. I think plotwise the protag eventually learns/decides that originially such men as St. Luke were ordinary humans, "born of woman," etc., but became this -- through such possession of them by the Holy Spirit, which is to say their Master, Christ (who was not an ordinary human being). And the purpose of this elevation comes through now, since our planet has had it (ecology wise, due to our using up and destroying and polluting); this is a system to get some of us, as many as possible "translated" out of here and hence saved; this is the true meaning of "being saved," saved from the holocaust. This too is the meaning of the now-arriving Parousia.
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Spirit, Holy, Christianity, Holy Spirit, Bible, Parousia, Wisdom, Like, World, Since, After, Black, Buckman, Book, Even, Anyhow, Just, Something, Reality, Luke, Kosmos, Being, Obviously, Philip, Probably, Their, More, Another, Through, Living, Such, Before, True, Other, Were, Many, Wise, Later, Dead, Suddenly, Human, Dream, Right
+**Co-occurrences**: Philip, Christ, Tears, Acts, Christian, Spirit, Holy, Christianity, Holy Spirit, Bible, Parousia, Wisdom, Like, World, Since
 
 ---
 ### Line 2260-2268 (Match: 'Felix')
@@ -104,7 +104,7 @@ I note that Jung says that the AMORC rose represents Dionysos. Since it is place
 
 . . . The Eb's article on "Monotheism" says: "Monotheism presumes two entities: God and the universe. But God's relationship to the universe is not merely that of prime mover. He still approaches it, and the manifestations of his continual activity toward it are expressed in history," I am paraphrasing; I guess it means in historical events and certain trends or directions which the flow of history takes. It doesn't have to be all history, but (1) He does manifest himself to us still and (2) we find that in what we call "history" and (3) certain historical events can be said to be manifestations of God or from God. This does not mean that we can discern which events are from him, or which trends, but if the premises are true, then they do exist. I now recall my vivid discernment in 3 74, when I saw not only Rome around me but the brisk rushing of the Christian underground as they arranged certain things to happen, specifically the fall of the tyranny. I must have seen exactly what
 ```
-**Co-occurrences**: Christian, Jesus, Rome, Christianity, Kingdom, King, Dionysos, Perhaps, Like, World, Since, Fall, Because, Only, Harpax, Savior, Even, Does, Look, Once, Kingdom of God, Both, Zagreus, Being, Everything, Himself, Bacchae, Probably, Anamnesis, Those, Still, More, Jung, Another, Soul, Most, Such, Secret, True, Universe, Will, Other, Many, Have, Things, Life, Eckehart, Pentheus, Later, Having, Sturgeon, Cross, Dead, Genesis, Doesn
+**Co-occurrences**: Anamnesis, Christian, Jesus, Rome, Christianity, Kingdom, King, Dionysos, Perhaps, Like, World, Since, Fall, Because, Only
 
 ---
 ### Line 2732-2740 (Match: 'Felix')
@@ -121,7 +121,7 @@ It has been said that (as in PALMER ELDRITCH) I am a precog, in which case the 3
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Tears, Jesus, Kingdom, Gnostic, Parousia, Perhaps, World, Since, Therefore, Time, After, Mind, Book, Kingdom of God, Kosmos, Being, Eldritch, Divine, Palmer, Palmer Eldritch, Still, Part, Another, Through, Heaven, Macro, Universe, Finally, Would, Angel, Very, Back, Beyond, Have, Things, Knowledge, Suddenly, Dream, Evidently, Genesis, Answer, Until
+**Co-occurrences**: Gnostic, Time, Linear, Tears, Jesus, Kingdom, Parousia, Perhaps, World, Since, Therefore
 
 ---
 ### Line 2791-2799 (Match: 'Felix')
@@ -138,7 +138,7 @@ Last edit almost 5 years ago by svayambhu108
 213
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Well, Bible, Parousia, Golden, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Clearly, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Genesis, Final, White
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Well, Bible, Parousia, Golden, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth
 
 ---
 ### Line 3787-3795 (Match: 'Felix')
@@ -155,7 +155,7 @@ Last edit almost 5 years ago by svayambhu108
 
 311
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Well, Bible, Parousia, Golden, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Clearly, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Genesis, Final, White
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Well, Bible, Parousia, Golden, Maze, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth
 
 ---
 ### Line 4147-4155 (Match: 'Felix')
@@ -171,7 +171,7 @@ Last edit almost 3 years ago by svayambhu108
 52
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Xerox, Gnostic, Roman, Maze, Like, World, Because, Iron, Only, Nixon, Black, Faith, Stigmata, Good, Mind, Book, Just, Soviet, Something, Suppose, Self, Divine, Without, Creator, Those, Still, Another, Most, Real, Secret, Revelation, Universe, Would, Other, Creation, Were, Back, Whatever, Absolute, Truth, Dream, Evidently
+**Co-occurrences**: Gnostic, Christ, Tears, Christian, Ubik, Xerox, Roman, Maze, Like, World, Because, Iron, Only, Nixon
 
 ---
 ### Line 5752-5760 (Match: 'Felix')
@@ -187,7 +187,7 @@ Last edit over 5 years ago by Toso
 12
 Indexed
 ```
-**Co-occurrences**: Christ, Tears, Christian, Toso, Indexed, Rome, Form, Sophia, King, Paul, Roman, Wisdom, Like, World, Fall, Prison, After, Buckman, Book, Could, Taverner, Obviously, Frolix, Daniel, House, Jason, Santa, Those, Their, More, Another, Through, Babylon, Most, Actually, Before, Were, Jason Taverner, Very, Have, Later, Remember, Truth, Dream
+**Co-occurrences**: Sophia, Christ, Tears, Christian, Toso, Indexed, Rome, Form, King, Paul, Roman, Wisdom, Like, World, Fall, Prison
 
 ---
 ### Line 7251-7259 (Match: 'Felix')
@@ -204,7 +204,7 @@ of the risen Lord and given a vocatin for which he had been born and was instruc
 
 "The interest in Acts is not in the Fates of Peter and Paul; the gospel had finally reached Rome, the center of "the inhabited world" and thus the ending is suitable to the book- Paul is left 'preaching the Kingdom of God and teaching about the Lord Jesus Christ quite openly and unhindered."
 ```
-**Co-occurrences**: Christ, Acts, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Kingdom, Paul, Roman, Lord, World, Because, After, Book, Gospel, Just, Kingdom of God, Jesus Christ, Viewed, Their, More, Finally, Would, Other, Were, Many, Later, Having, Pentecost
+**Co-occurrences**: Christ, Acts, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Kingdom, Paul, Roman, Lord, World, Because
 
 ---
 ### Line 7267-7275 (Match: 'Felix')
@@ -221,7 +221,7 @@ The success of the persecuted innocent is assured. What has been done. The chang
 
 In essence there has been a successful invasion of the mundane world (of power) by the divine as judge: the outcome is grief (of King Pentheus) to agape. Which reveals the inauguration of the reign of the spirit. Love even excells wisdom.
 ```
-**Co-occurrences**: Tears, Acts, Christian, Spirit, Rome, King, Wisdom, World, Fall, Because, John, After, Even, Gospel, Just, Look, Divine, Jason, More, Church, Real, Love, Judge, Under, Have, Things, Pentheus
+**Co-occurrences**: Tears, Acts, Christian, Spirit, Rome, King, Wisdom, World, Fall, Because, John
 
 ---
 ### Line 7333-7341 (Match: 'Felix')
@@ -238,7 +238,7 @@ Last edit almost 3 years ago by svayambhu108
 20
 Needs Review
 ```
-**Co-occurrences**: Christ, Valis, Tears, Acts, Christian, Zebra, Logos, Rome, Christianity, Perhaps, Scanner, World, Iron, Only, Nixon, Black, Buckman, Even, Himself, Deus, Another, Real, Secret, Love, Irae, Death, Universe, Would, Were, Freedom, Evil, God Himself, Deus Irae, Dream, Final, Until
+**Co-occurrences**: Valis, Zebra, Christ, Tears, Acts, Christian, Logos, Rome, Christianity, Perhaps, Scanner, World, Iron, Only, Nixon
 
 ---
 ### Line 7595-7603 (Match: 'Felix')
@@ -255,7 +255,7 @@ Last edit almost 3 years ago by svayambhu108
 30
 Needs Review
 ```
-**Co-occurrences**: Paul, However, Since, Even, Does, Something, Both, Being, Although, Self, Divine, Deus, Anamnesis, Without, More, Another, Most, Real, Such, Before, True, Will, Very, Have, Memory, Remember, Until
+**Co-occurrences**: Anamnesis, Paul, However, Since
 
 ---
 ### Line 7630-7638 (Match: 'Felix')
@@ -272,7 +272,7 @@ Last edit almost 3 years ago by svayambhu108
 35
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Zebra, Holy Spirit, Form, Greek, Time, Paraclete, Book, Even, Could, Again, Being, Obviously, Without, Grace, Through, Real, Certainly, Secret, Love, Revelation, True, Will, Would, Were, Very, Justice, Freedom, Having, Truth, Dream, Evidently, Answer
+**Co-occurrences**: Zebra, Time, Christ, Spirit, Holy, Holy Spirit, Form, Greek
 
 ---
 ### Line 7638-7646 (Match: 'Felix')
@@ -289,7 +289,7 @@ Last edit almost 3 years ago by svayambhu108
 
 36
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Zebra, Sophia, Since, Therefore, Black, Buckman, Divine, House, Part, More, Another, Real, Love, Deity, Would, Somehow, Were, Have, Life, Knowledge, Otherwise, Dream
+**Co-occurrences**: Zebra, Sophia, Christ, Tears, Ubik, Since, Therefore
 
 ---
 ### Line 7671-7679 (Match: 'Felix')
@@ -306,7 +306,7 @@ Last edit almost 3 years ago by svayambhu108
 
 41
 ```
-**Co-occurrences**: Tears, Form, Kingdom, King, Well, Scanner, Like, World, Prison, Good, Could, Anyhow, Something, Kingdom of God, Reality, Although, Divine, Those, Part, Most, Real, Finally, Will, Other, Were, Very, Back, Freedom, Evil, Government, Dream, Free, Final, Right
+**Co-occurrences**: Tears, Form, Kingdom, King, Well, Scanner, Like, World, Prison
 
 ---
 ### Line 7676-7684 (Match: 'Felix')
@@ -322,7 +322,7 @@ Last edit almost 3 years ago by svayambhu108
 42
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Form, King, Greek, Well, However, Dionysos, Perhaps, Like, Since, Only, Time, Savior, Good, Does, Anyhow, Once, Shiva, Being, Himself, Bacchae, Fate, Wait, Real, Secret, Love, True, Will, Deity, Other, Back, Things, Body, Pentheus, Memory, Knowledge, Hermes, Human, Evidently, Final
+**Co-occurrences**: Time, Hermes, Christ, Tears, Spirit, Form, King, Greek, Well, However, Dionysos, Perhaps, Like, Since, Only
 
 ---
 ### Line 7711-7719 (Match: 'Felix')
@@ -339,6 +339,6 @@ Last edit almost 3 years ago by svayambhu108
 48
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, King, Only, Mind, Again, Shiva, Divine, Gods, Church, Voice, True, Would, Back, Wise, Right
+**Co-occurrences**: Christ, Tears, King, Only
 
 ---

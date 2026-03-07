@@ -1,0 +1,6782 @@
+{
+    "SEG_0000": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0001": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0003": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0005": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0007": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0009": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0010": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0012": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0014": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0016": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0018": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0019": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0020": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0021": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0023": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0024": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0026": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0028": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0030": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0033": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0035": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0037": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0039": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0042": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0044": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0046": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0048": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0051": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0053": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0055": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0057": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0060": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0062": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0064": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0066": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0068": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0069": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0071": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0073": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0075": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0077": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0078": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0080": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0082": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0084": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0086": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0087": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0089": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0091": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0093": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0095": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0096": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0098": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0100": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0102": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0104": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0105": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0107": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0109": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0111": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0114": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0115": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0117": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0119": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0121": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0123": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0124": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0126": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0128": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0130": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0132": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0133": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0135": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0137": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0139": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0141": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0142": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0144": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0146": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0148": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0150": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0151": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0153": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0155": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0157": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0159": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0160": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0162": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0164": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0166": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0168": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0169": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0171": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0173": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0175": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0177": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0178": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0180": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0182": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0184": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0186": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0187": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0189": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0191": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0193": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0195": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0196": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0198": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0200": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0202": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0204": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0205": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0207": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0209": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0211": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0213": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0214": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0216": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0218": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0220": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0222": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0223": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0225": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0227": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0229": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0231": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0232": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0234": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0236": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0238": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0240": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0241": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0243": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0245": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0247": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0249": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0250": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0252": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0254": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0256": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0258": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0259": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0261": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0263": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0265": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0267": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0268": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0270": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0272": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0274": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0276": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0277": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0279": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0281": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0283": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0285": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0286": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0288": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0290": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0292": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0294": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0295": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0297": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0299": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0301": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0303": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0304": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0306": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0308": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0310": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0312": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0313": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0315": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0317": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0319": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0321": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0322": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0324": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0326": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0328": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0330": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0331": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0333": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0335": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0337": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0339": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0340": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0342": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0344": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0345": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0347": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0349": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0351": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0353": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0354": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0356": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0358": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0360": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0362": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0363": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0365": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0367": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0369": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0371": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0372": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0374": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0376": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0378": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0380": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0381": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0383": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0385": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0387": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0389": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0390": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0392": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0394": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0396": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0398": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0399": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0401": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0403": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0405": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0407": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0408": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0410": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0412": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0414": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0416": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0417": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0419": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0421": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0423": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0425": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0426": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0428": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0430": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0432": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0434": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0435": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0437": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0439": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0441": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0443": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0444": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0446": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0448": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0450": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0452": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0453": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0455": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0457": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0459": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0461": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0462": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0464": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0466": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0468": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0470": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0471": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0473": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0475": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0477": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0479": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0480": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0482": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0484": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0486": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0488": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0489": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0491": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0493": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0495": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0497": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0498": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0500": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0502": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0504": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0506": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0507": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0509": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0511": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0513": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0515": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0516": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0518": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0520": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0522": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0524": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0525": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0527": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0529": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0531": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0533": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0534": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0536": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0538": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0540": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0542": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0543": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0545": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0547": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0549": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0551": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0552": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0554": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0556": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0557": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0559": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0561": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0563": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0565": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0566": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0568": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0570": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0572": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0574": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0575": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0577": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0579": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0581": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0583": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0584": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0586": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0588": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0590": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0592": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0593": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0595": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0597": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0599": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0601": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0602": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0604": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0606": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0608": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0610": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0611": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0613": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0615": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0617": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0619": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0620": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0622": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0624": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0626": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0628": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0629": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0631": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0633": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0635": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0637": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0638": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0640": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0642": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0644": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0646": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0647": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0649": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0651": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0653": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0655": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0656": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0658": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0660": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0662": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0664": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0665": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0667": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0669": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0671": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0673": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0674": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0676": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0678": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0680": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0682": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0683": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0685": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0687": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0689": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0691": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0692": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0694": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0696": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0698": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0700": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0701": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0703": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0705": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0707": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0709": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0710": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0712": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0714": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0716": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0718": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0719": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0721": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0723": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0725": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0727": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0728": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0730": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0732": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0734": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0736": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0737": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0739": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0741": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0743": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0745": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0746": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0748": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0750": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0752": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0754": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0755": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0757": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0759": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0761": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0763": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0764": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0766": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0768": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0770": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0772": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0773": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0775": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0777": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0779": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0781": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0782": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0784": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0786": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0788": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0790": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0792": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0794": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0796": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0798": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0799": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0801": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0803": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0805": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0807": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0808": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0810": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0812": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0814": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0816": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0817": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0819": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0821": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0823": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0825": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0826": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0828": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0830": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0832": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0834": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0835": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0837": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0839": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0841": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0843": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0844": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0846": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0848": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0850": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0852": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0853": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0855": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0857": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0859": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0861": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0862": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0864": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0866": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0868": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0870": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0871": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0873": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0875": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0876": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0878": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0880": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0882": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0884": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0885": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0887": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0889": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0891": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0893": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0894": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0896": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0898": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0900": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0902": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0903": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0905": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0907": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0909": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0911": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0912": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0914": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0916": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0918": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0920": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0921": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0923": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0925": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0927": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0929": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0930": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0932": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0934": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0936": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0938": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0939": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0941": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0943": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0945": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0947": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0948": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0950": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0952": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0954": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0956": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0957": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0959": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0961": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0963": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0965": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0966": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0968": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0970": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0972": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0974": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0975": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0977": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0979": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0981": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0983": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0984": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0986": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0988": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0990": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0992": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0993": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0995": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0997": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_0999": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1001": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1002": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1004": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1005": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1007": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1009": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1011": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1013": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1014": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1016": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1018": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1020": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1022": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1023": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1025": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1027": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1029": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1031": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1032": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1034": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1036": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1038": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1040": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1041": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1043": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1045": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1047": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1049": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1050": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1051": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1053": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1055": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1057": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1059": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1060": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1062": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1064": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1066": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1068": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1069": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1071": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1073": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1075": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1077": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1078": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1080": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1082": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1084": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1086": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1087": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1089": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1091": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1093": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1095": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1096": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1098": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1100": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1102": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1104": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1105": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1107": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1109": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1111": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1113": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1114": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1116": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1118": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1120": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1122": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1123": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1125": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1127": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1129": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1131": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1132": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1134": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1136": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1138": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1140": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1141": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1143": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1145": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1147": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1149": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1150": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1152": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1154": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1156": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1158": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1159": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1161": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1163": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1165": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1167": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1168": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1170": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1172": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1174": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1176": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1177": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1179": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1181": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1183": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1185": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1186": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1188": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1190": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1192": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1194": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1195": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1197": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1199": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1201": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1203": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1204": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1206": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1208": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1210": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1212": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1213": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1215": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1217": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1219": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1221": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1222": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1224": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1226": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1228": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1230": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1231": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1233": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1235": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1237": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1239": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1240": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1242": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1244": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1246": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1248": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1249": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1251": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1253": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1255": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1257": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1258": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1260": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1262": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1264": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1266": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1267": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1269": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1271": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1273": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1275": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1276": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1278": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1280": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1282": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1284": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1285": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1287": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1289": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1291": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1293": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1294": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1296": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1298": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1300": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1302": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1303": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1305": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1307": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1309": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1311": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1312": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1314": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1316": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1318": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1320": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1321": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1323": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1325": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1327": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1329": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1330": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1332": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1334": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1336": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1338": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1339": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1341": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1343": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1345": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1347": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1348": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1350": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1352": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1354": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1356": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1357": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1359": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1361": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1363": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1365": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1366": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1368": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1370": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1372": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1374": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1375": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1377": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1379": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1381": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1383": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1384": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1386": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1388": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1390": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1392": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1393": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1395": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1397": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1399": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1401": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1402": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1404": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1406": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1408": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1410": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1411": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1413": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1415": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1417": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1418": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1419": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1421": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1423": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1425": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1427": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1428": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1430": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1432": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1434": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1436": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1437": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1439": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1441": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1443": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1445": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1446": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1448": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1450": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1452": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1454": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1455": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1457": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1459": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1461": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1463": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1464": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1466": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1468": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1470": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1472": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1473": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1475": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1477": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1479": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1481": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1482": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1484": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1486": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1488": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1490": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1491": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1493": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1495": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1497": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1499": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1500": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1502": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1504": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1506": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1508": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1509": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1511": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1513": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1515": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1517": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1518": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1520": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1522": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1524": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1526": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1527": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1529": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1531": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1533": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1535": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1536": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1538": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1540": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1542": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1544": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1545": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1547": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1549": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1551": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1553": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1554": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1556": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1558": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1560": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1562": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1563": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1565": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1567": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1569": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1571": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1572": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1574": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1576": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1578": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1580": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1581": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1583": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1585": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1587": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1589": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1590": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1592": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1594": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1596": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1598": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1599": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1601": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1603": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1605": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1607": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1608": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1610": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1612": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1614": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1616": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1617": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1619": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1621": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1623": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1625": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1626": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1628": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1630": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1632": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1634": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1635": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1637": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1639": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1641": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1643": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1644": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1646": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1648": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1650": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1652": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1653": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1655": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1657": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1659": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1661": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1662": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1664": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1666": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1668": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1670": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1671": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1673": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1675": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1677": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1679": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1680": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1682": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1684": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1686": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1688": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1689": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1691": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1693": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1695": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1697": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1698": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1700": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1702": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1704": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1706": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1707": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1709": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1711": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1713": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1714": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1716": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1718": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1720": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1722": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1723": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1725": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1727": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1729": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1731": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1732": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1734": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1736": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1738": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1740": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1741": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1743": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1745": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1747": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1749": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1750": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1752": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1754": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1756": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1758": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1759": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1761": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1763": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1765": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1767": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1768": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1770": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1772": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1774": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1776": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1777": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1779": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1781": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1783": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1785": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1786": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1788": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1790": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1792": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1794": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1795": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1797": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1799": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1801": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1803": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1804": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1806": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1808": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1810": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1812": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1813": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1815": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1817": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1819": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1821": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1822": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1824": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1826": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1828": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1830": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1831": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1833": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1835": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1837": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1839": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1840": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1842": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1844": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1846": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1848": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1849": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1851": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1853": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1855": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1857": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1858": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1860": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1862": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1864": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1866": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1867": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1869": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1871": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1873": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1875": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1876": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1878": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1880": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1882": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1884": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1885": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1887": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1889": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1891": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1893": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1894": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1896": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1898": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1900": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1902": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1903": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1905": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1907": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1909": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1911": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1912": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1914": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1916": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1918": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1920": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1921": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1923": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1925": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1927": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1929": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1930": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1932": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1934": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1936": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1938": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1939": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1941": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1943": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1945": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1947": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1948": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1950": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1952": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1954": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1956": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1957": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1958": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1959": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1960": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1961": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1962": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1963": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1964": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1965": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1966": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1967": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1968": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1969": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1970": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1971": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1972": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1973": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1974": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1975": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1976": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1977": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1978": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1979": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1980": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1981": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1982": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1983": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1984": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1985": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1986": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1987": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1988": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1989": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1990": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1991": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1993": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1995": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1997": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_1999": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2000": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2002": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2004": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2006": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2008": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2009": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2010": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2012": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2014": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2016": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2018": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2019": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2021": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2023": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2025": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2027": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2028": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2030": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2032": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2034": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2036": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2037": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2039": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2041": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2043": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2045": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2046": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2048": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2050": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2052": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2054": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2055": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2057": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2059": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2061": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2063": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2064": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2066": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2068": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2070": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2072": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2073": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2075": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2077": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2079": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2081": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2082": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2084": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2086": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2088": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2090": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2091": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2093": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2095": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2097": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2099": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2100": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2102": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2104": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2106": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2108": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2109": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2111": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2113": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2115": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2117": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2118": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2120": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2122": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2124": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2126": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2127": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2129": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2131": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2133": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2135": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2136": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2138": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2140": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2142": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2144": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2145": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2147": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2149": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2151": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2153": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2154": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2156": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2158": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2160": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2162": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2163": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2165": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2167": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2169": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2171": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2172": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2174": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2176": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2178": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2180": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2181": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2183": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2185": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2187": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2189": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2190": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2192": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2194": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2196": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2198": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2199": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2201": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2203": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2205": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2207": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2208": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2210": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2212": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2214": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2216": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2217": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2219": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2221": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2223": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2225": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2226": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2228": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2230": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2232": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2234": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2235": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2237": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2239": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2241": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2243": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2244": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2246": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2248": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2250": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2252": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2253": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2255": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2257": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2259": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2261": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2262": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2264": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2266": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2268": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2270": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2271": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2273": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2275": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2277": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2279": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2280": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2282": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2284": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2286": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2288": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2289": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2291": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2293": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2295": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2297": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2298": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2300": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2302": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2304": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2306": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2307": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2309": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2311": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2313": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2315": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2316": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2318": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2320": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2322": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2324": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2325": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2327": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2329": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2331": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2333": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2334": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2336": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2338": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2340": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2342": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2343": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2345": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2347": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2349": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2351": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2352": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2354": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2356": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2358": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2360": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2361": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2363": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2365": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2367": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2369": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2370": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2372": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2374": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2375": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2377": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2379": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2381": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2383": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2384": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2386": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2388": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2390": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2392": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2393": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2395": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2397": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2399": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2401": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2402": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2404": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2406": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2408": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2410": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2411": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2413": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2415": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2417": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2419": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2420": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2422": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2424": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2426": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2428": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2429": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2431": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2433": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2435": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2437": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2438": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2440": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2442": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2444": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2446": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2447": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2449": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2451": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2453": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2455": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2456": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2458": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2460": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2462": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2464": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2465": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2467": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2469": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2471": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2473": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2474": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2476": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2478": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2480": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2482": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2483": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2485": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2487": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2489": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2491": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2492": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2494": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2496": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2498": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2500": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2501": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2503": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2505": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2507": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2509": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2510": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2512": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2514": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2516": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2518": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2519": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2521": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2523": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2525": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2527": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2528": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2530": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2532": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2534": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2536": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2537": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2539": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2541": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2543": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2545": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2546": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2548": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2550": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2552": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2554": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2555": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2557": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2559": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2561": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2563": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2564": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2566": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2568": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2570": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2572": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2573": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2575": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2577": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2579": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2581": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2582": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2584": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2586": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2588": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2590": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2591": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2593": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2595": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2597": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2599": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2600": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2602": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2604": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2606": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2608": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2609": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2611": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2613": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2615": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2617": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2618": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2620": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2622": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2624": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2626": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2627": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2629": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2631": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2633": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2635": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2636": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2638": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2640": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2642": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2644": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2645": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2647": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2649": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2651": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2653": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2654": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2656": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2658": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2660": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2662": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2663": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2665": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2667": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2669": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2671": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2672": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2674": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2676": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2678": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2680": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2681": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2683": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2685": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2687": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2689": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2690": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2692": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2694": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2696": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2698": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2699": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2701": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2703": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2705": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2707": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2708": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2710": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2712": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2714": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2716": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2717": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2719": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2721": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2723": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2725": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2726": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2728": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2730": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2731": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2733": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2735": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2737": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2739": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2740": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2742": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2744": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2746": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2748": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2749": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2751": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2753": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2755": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2757": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2758": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2760": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2765": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2767": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2768": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2770": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2772": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2774": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2776": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2777": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2779": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2781": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2783": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2785": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2786": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2788": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2790": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2792": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2794": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2795": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2797": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2799": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2801": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2803": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2804": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2806": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2808": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2810": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2812": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2813": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2815": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2817": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2818": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2820": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2822": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2824": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2826": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2827": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2829": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2831": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2833": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2835": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2836": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2838": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2840": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2842": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2844": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2845": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2847": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2849": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2851": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2853": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2854": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2856": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2858": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2860": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2862": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2863": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2865": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2867": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2869": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2871": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2872": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2874": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2876": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2878": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2880": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2881": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2883": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2885": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2887": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2889": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2890": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2892": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2894": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2896": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2898": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2899": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2901": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2903": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2905": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2907": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2908": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2910": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2912": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2914": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2916": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2917": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2919": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2921": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2923": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2925": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2926": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2928": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2930": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2932": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2934": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2935": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2937": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2939": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2941": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2943": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2944": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2946": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2948": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2950": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2952": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2953": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2958": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2960": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2962": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2963": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2965": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2967": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2969": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2971": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2972": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2974": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2976": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2978": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2980": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2981": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2983": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2985": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2987": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2989": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2990": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2992": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2994": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2996": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2998": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_2999": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3001": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3003": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3005": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3007": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3008": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3010": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3012": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3014": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3016": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3017": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3019": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3021": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3023": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3025": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3026": {
+        "term_density": 0,
+        "priority_terms": []
+    },
+    "SEG_3028": {
+        "term_density": 0,
+        "priority_terms": []
+    }
+}

@@ -20,7 +20,7 @@ Last edit almost 3 years ago by svayambhu108
 
 31
 ```
-**Co-occurrences**: Christ, Tears, Holy, Jesus, Rome, James, Like, Iron, Prison, Only, Nixon, Black, Book, Just, Reality, Black Iron Prison, Himself, Great, Probably, Palm, Without, Tessa, More, Through, Most, Certainly, Before, Would, Were, Hegelian, Tree, Clearly, Dark, Freedom, Evil, West, Human, Iron Prison, Dream, Lamb, Someone, Until
+**Co-occurrences**: Hegelian, Christ, Tears, Holy, Jesus, Rome, James, Like, Iron, Prison, Only, Nixon
 
 ---
 ### Line 5034-5042 (Match: 'Hegel')
@@ -36,7 +36,7 @@ Last edit almost 3 years ago by svayambhu108
 32
 Needs Review
 ```
-**Co-occurrences**: Xerox, Kingdom, World, Since, Only, Hebrew, Reality, Moses, Himself, Gods, Revelation, Very, Freedom, Human, Final
+**Co-occurrences**: Xerox, Kingdom, World, Since, Only
 
 ---
 ### Line 5040-5048 (Match: 'Hegel')
@@ -53,7 +53,7 @@ Last edit almost 3 years ago by svayambhu108
 33
 Needs Review
 ```
-**Co-occurrences**: Tears, Form, Well, Perhaps, Iron, Prison, Black, Light, Even, Both, Being, Self, Black Iron Prison, Beethoven, More, Such, Voice, Upon, Hegelian, Have, Absolute, German, Freedom, Dialectic, Iron Prison, Right
+**Co-occurrences**: Hegelian, Dialectic, Tears, Form, Well, Perhaps, Iron, Prison
 
 ---
 ### Line 5052-5060 (Match: 'Hegel')
@@ -70,7 +70,7 @@ Last edit almost 3 years ago by svayambhu108
 35
 Needs Review
 ```
-**Co-occurrences**: Well, Like, World, Prison, Mind, Book, Just, Again, Reality, Self, Himself, Those, More, Phil, Real, Such, Before, Revelation, Were, Beyond, Have, Dream, Evidently
+**Co-occurrences**: Phil, Linear, Well, Like, World, Prison
 
 ---
 ### Line 5065-5073 (Match: 'Hegel')
@@ -86,7 +86,7 @@ Last edit almost 3 years ago by svayambhu108
 37
 Needs Review
 ```
-**Co-occurrences**: Christ, Acts, Christian, Zebra, Logos, World, Iron, Prison, Time, Black, Good, Could, Just, Once, Both, Maya, Being, Black Iron Prison, Great, Probably, Church, Real, Secret, Love, Revelation, True, Will, Deity, Would, Other, Beyond, Have, Freedom, Greater, Iron Prison, Someone
+**Co-occurrences**: Zebra, Time, Christ, Acts, Christian, Logos, World, Iron, Prison
 
 ---
 ### Line 5089-5097 (Match: 'Hegel')
@@ -103,7 +103,7 @@ Last edit almost 3 years ago by svayambhu108
 
 41
 ```
-**Co-occurrences**: Spirit, However, Like, World, Platonism, Good, Mind, Something, Reality, Being, Self, Everything, Nothing, Their, Another, Most, Real, Certainly, Universe, Were, Very, Things, Berkeley, Unless, Human
+**Co-occurrences**: Spirit, However, Like, World
 
 ---
 ### Line 5094-5102 (Match: 'Hegel')
@@ -119,7 +119,7 @@ Last edit almost 3 years ago by svayambhu108
 42
 Needs Review
 ```
-**Co-occurrences**: Zebra, Form, However, World, Mind, Even, Does, Self, Phil, Such, Whitehead, Would, Creation, Hegelian, Beyond, Have, Likewise
+**Co-occurrences**: Zebra, Phil, Hegelian, Form, However, World
 
 ---
 ### Line 5100-5108 (Match: 'Hegel')
@@ -136,7 +136,7 @@ Last edit almost 3 years ago by svayambhu108
 43
 Needs Review
 ```
-**Co-occurrences**: Spirit, Zebra, Like, World, Only, Time, Good, Does, Both, Reality, Being, Divine, Himself, More, Timaeus, Whitehead, Universe, Hegelian, Things, Absolute, Days, Human, Whereas, Until
+**Co-occurrences**: Zebra, Time, Hegelian, Spirit, Like, World, Only
 
 ---
 ### Line 5106-5114 (Match: 'Hegel')
@@ -153,7 +153,7 @@ Last edit almost 3 years ago by svayambhu108
 44
 Needs Review
 ```
-**Co-occurrences**: Christian, Zebra, Form, Sophia, Time, Mind, Even, St Sophia, Does, Being, Nous, Self, Divine, Their, Actually, Certainly, Revelation, Whitehead, Universe, Creation, Have, Later
+**Co-occurrences**: Zebra, Sophia, Time, St Sophia, Christian, Form
 
 ---
 ### Line 5112-5120 (Match: 'Hegel')
@@ -170,7 +170,7 @@ Last edit over 4 years ago by sbrow1
 45
 Needs Review
 ```
-**Co-occurrences**: Spirit, Well, Since, Therefore, Only, Time, Mind, Even, Does, Reality, Everything, Death, Universe, Finally, Have, Life
+**Co-occurrences**: Time, Spirit, Well, Since, Therefore, Only
 
 ---
 ### Line 5123-5131 (Match: 'Hegel')
@@ -186,7 +186,7 @@ Last edit less than 10 seconds ago by Gabriel Mckee
 47
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Zebra, Complete, Christianity, Form, Greek, Well, Roman, Like, Only, Gabriel, Mckee, Gabriel Mckee, Reality, Self, Himself, Great, Through, Upon, Revelation, True, Beyond, Further, Absolute, Freedom, Greater, Human
+**Co-occurrences**: Zebra, Christ, Spirit, Complete, Christianity, Form, Greek, Well, Roman, Like, Only
 
 ---
 ### Line 5129-5137 (Match: 'Hegel')
@@ -203,7 +203,7 @@ Last edit almost 3 years ago by svayambhu108
 48
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Zebra, Holy Spirit, Brahman, Bible, These, Perhaps, Maybe, Like, Only, Gabriel, Mckee, Gabriel Mckee, Light, Even, Just, Again, Atman, Self, Viewed, Still, More, Such, True, Will, Would, Very, Back, Under, Have, Absolute, Having, Dialectic, Human, Final, Right, Until, Sacred
+**Co-occurrences**: Zebra, Dialectic, Spirit, Holy, Holy Spirit, Brahman, Bible, These, Perhaps, Maybe, Like, Only
 
 ---
 ### Line 5135-5143 (Match: 'Hegel')
@@ -220,7 +220,7 @@ Last edit almost 3 years ago by svayambhu108
 49
 Needs Review
 ```
-**Co-occurrences**: Acts, Zebra, Well, These, Perhaps, Like, Only, Good, Empedocles, Divine, Great, Viewed, Creator, Still, More, Another, Living, Such, Love, Universe, Were, Many, Have, Life, Dialectic, Greater, Human, Final
+**Co-occurrences**: Zebra, Dialectic, Acts, Well, These, Perhaps, Like, Only
 
 ---
 ### Line 5158-5166 (Match: 'Hegel')
@@ -237,7 +237,7 @@ Last edit almost 3 years ago by svayambhu108
 53
 Needs Review
 ```
-**Co-occurrences**: Christ, Jesus, Plato, Well, Spinoza, Like, World, Because, Only, Even, Could, Does, Once, Being, Although, Everything, Moses, Himself, Viewed, Nothing, Leibnitz, More, Real, Such, Certainly, Revelation, Whitehead, Universe, Deity, Would, Other, Were, Back, Have, Things, Life, Except, Dialectic, Human
+**Co-occurrences**: Dialectic, Christ, Jesus, Plato, Well, Spinoza, Like, World, Because, Only
 
 ---
 ### Line 5170-5178 (Match: 'Hegel')
@@ -254,7 +254,7 @@ Last edit almost 3 years ago by svayambhu108
 55
 Needs Review
 ```
-**Co-occurrences**: These, Maybe, Since, Good, Even, Could, Does, Look, Once, Reality, Self, Beethoven, Those, More, Through, Most, True, Would, Back, Under, Further, Have, Freedom, Greater, Human
+**Co-occurrences**: These, Maybe, Since
 
 ---
 ### Line 5210-5218 (Match: 'Hegel')
@@ -270,7 +270,7 @@ Last edit almost 3 years ago by svayambhu108
 62
 Needs Review
 ```
-**Co-occurrences**: Spirit, Zebra, Plato, Brahman, World, Parmenides, Only, Time, Even, Once, Again, Reality, Being, Self, Anamnesis, Without, Nothing, Still, More, Through, Real, Upon, Whitehead, Other, Very, Absolute, Freedom, Unless, Free, Right
+**Co-occurrences**: Zebra, Time, Anamnesis, Spirit, Plato, Brahman, World, Parmenides, Only
 
 ---
 ### Line 5222-5230 (Match: 'Hegel')
@@ -287,7 +287,7 @@ Last edit almost 3 years ago by svayambhu108
 64
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Like, World, Therefore, Mind, Even, Philo, Something, Again, Being, Divine, Without, Nothing, Still, More, Through, Most, Before, Would, Back, Beyond, Things, Absolute, Freedom, Unless, Knowledge, Truth, Human, Until
+**Co-occurrences**: Philo, Christ, Spirit, Like, World, Therefore
 
 ---
 ### Line 5228-5236 (Match: 'Hegel')
@@ -304,7 +304,7 @@ Last edit almost 3 years ago by svayambhu108
 65
 Needs Review
 ```
-**Co-occurrences**: Thomas, Spirit, Holy, Zebra, Wisdom, Plotinus, World, Since, Because, Mind, Even, Does, Just, Being, Everything, Divine, Either, Those, More, Most, Upon, Revelation, Universe, Would, Were, Hegelian, Under, Have, Absolute, Freedom, Dialectic, Greater, Human, Right
+**Co-occurrences**: Plotinus, Thomas, Zebra, Hegelian, Dialectic, Spirit, Holy, Wisdom, World, Since, Because
 
 ---
 ### Line 5234-5242 (Match: 'Hegel')
@@ -321,7 +321,7 @@ Last edit almost 3 years ago by svayambhu108
 
 66
 ```
-**Co-occurrences**: Christ, Spirit, Zebra, Well, World, Since, Fall, Because, Only, Time, After, Cosmic, Cosmic Christ, Even, Once, Both, Although, Divine, Either, Part, Heaven, Before, Revelation, Back, Have, Absolute, During, Human, Right
+**Co-occurrences**: Zebra, Time, Christ, Spirit, Well, World, Since, Fall, Because, Only
 
 ---
 ### Line 5239-5247 (Match: 'Hegel')
@@ -337,6 +337,6 @@ Last edit almost 3 years ago by svayambhu108
 67
 Needs Review
 ```
-**Co-occurrences**: Tears, Spirit, Zebra, Sophia, Well, World, Since, Iron, Prison, Only, Time, After, Black, St Sophia, Again, Black Iron Prison, Either, Daniel, Sibyl, Through, Before, True, Have, Absolute, Human, Iron Prison, Dream, Right
+**Co-occurrences**: Zebra, Sophia, Time, St Sophia, Linear, Tears, Spirit, Well, World, Since, Iron, Prison, Only
 
 ---

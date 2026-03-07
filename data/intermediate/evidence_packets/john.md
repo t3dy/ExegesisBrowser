@@ -20,7 +20,7 @@ During Winter, it was believed that Dionysos, the god of the vine plant, of vege
 
 Cordially,
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Christian, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only
 
 ---
 ### Line 837-845 (Match: 'John')
@@ -37,7 +37,7 @@ Let us consider the miracle involved. When God enters time, when he pierces our 
 
 I am a child trying to understand adult concepts.
 ```
-**Co-occurrences**: Christ, Jesus, Paul, Parousia, Lord, Perhaps, Maybe, World, Since, Because, Time, Good, Light, Does, Just, Once, Again, Both, Kosmos, Being, March, Everything, Divine, Viewed, Still, Living, Such, Love, Consider, True, Death, Will, Other, Were, Very, Back, Have, Judgment, Later, Whether, Cross, Suddenly
+**Co-occurrences**: Time, Christ, Jesus, Paul, Parousia, Lord, Perhaps, Maybe, World, Since, Because
 
 ---
 ### Line 1156-1164 (Match: 'John')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by Harpax
 
 81
 ```
-**Co-occurrences**: Christ, Spirit, Logos, Sophia, However, Wisdom, These, Perhaps, Maybe, Since, Prison, Only, Earth, Harpax, Could, Anyhow, Philo, Just, Something, Again, Being, Although, Christos, Santa, Without, Nothing, Brain, Those, Part, More, Another, Heaven, Such, Certainly, Before, Consider, True, Santa Sophia, Will, Would, Other, Messiah, Were, Back, Whatever, Have, Later, Having, Knowledge, Suddenly, Dream, Free, Right, Mary
+**Co-occurrences**: Sophia, Philo, Santa Sophia, Decoded, Christ, Spirit, Logos, However, Wisdom, These, Perhaps, Maybe, Since, Prison, Only, Earth
 
 ---
 ### Line 1309-1317 (Match: 'John')
@@ -71,7 +71,7 @@ Last edit over 5 years ago by Harpax
 92
 Needs Review
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Perhaps, World, Time, Harpax, After, Could, Kingdom of God, Both, Reality, Being, Church, Real, Before, Will, Would, Were, Back, Have, During, Right
+**Co-occurrences**: Time, Christ, Logos, Jesus, Kingdom, Perhaps, World
 
 ---
 ### Line 1327-1335 (Match: 'John')
@@ -88,7 +88,7 @@ When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+**Co-occurrences**: Time, Christ, Logos, Jesus, Kingdom, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only
 
 ---
 ### Line 1339-1347 (Match: 'John')
@@ -105,7 +105,7 @@ I have experienced what Jesus predicted: the change from one aeon to the next; a
 
 Another thing I saw, which I must not forget, is that I saw that I had been seeing the universe backward, esp. in time; which I finally decided meant that I was seeing "the reflection, as in the bottom of a polished metal pan," but had begun to see the Real Universe, which of course is reversed from the mere cave image. Thus, the picture is of winter; the slide itself the reverse: springtime (vide the trigram wheel of opposites). In Dante's schema: if it is winter here, it is springtime there in the Real World.
 ```
-**Co-occurrences**: Tears, Christian, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, Time, Good, Light, Could, Again, Heraclitus, Being, Dante, Divine, Himself, Zoroaster, Those, Their, Another, Most, Real, Such, Secret, True, Universe, Finally, Will, Other, Somehow, Kingship, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+**Co-occurrences**: Time, Tears, Christian, Jesus, Form, Kingdom, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because
 
 ---
 ### Line 1376-1384 (Match: 'John')
@@ -121,7 +121,7 @@ Anamnesis would mean, "Nothing is concealed any longer, from the beginning," whi
 
 It seems to me that anamnesis (actually experienced, with perceptual awareness of the Real Presence, etc.) must be the last stage or nearly so in a long chain which is ultrapersonal. It must mean --not that I am unusual-- but that the Parousia have indeed begun.
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Rome, Plato, Parousia, Time, Does, Just, Both, Zagreus, Empedocles, Everything, Great, Anamnesis, Nothing, Still, Zeus, Real, Actually, Before, Would, Other, Creation, Somehow, Back, Have, Memory, Remember, Dream
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Jesus, Rome, Plato, Parousia
 
 ---
 ### Line 1451-1459 (Match: 'John')
@@ -138,7 +138,7 @@ All the trillions of written pages I've seen in sleep...I'm sure they're equival
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Jesus, Form, King, Father, Maybe, Earth, Harpax, After, Good, Even, Both, Everything, Without, Still, Part, More, Another, Most, Such, Voice, Fullerton, Finally, Will, Other, Very, Back, Have, Things, Life, Absolute, Information, Wise, Later, Knowledge, Truth, Suddenly, Today, Comforter, Dream, Evidently, Right, Grail
+**Co-occurrences**: Information, Tears, Jesus, Form, King, Father, Maybe, Earth
 
 ---
 ### Line 1465-1473 (Match: 'John')
@@ -155,7 +155,7 @@ Thought: back 20 pages, where Joseph Campbell says, "You can view God as being e
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Logos, Kingdom, Greek, Well, Perhaps, Father, Maybe, World, Only, Time, Harpax, After, Faith, Mind, Buckman, Even, Taverner, Does, Again, Kingdom of God, Being, Everything, Gods, Probably, Still, More, Another, Egypt, Real, Such, Actually, Revelation, Universe, Deity, Creation, Judge, Back, Whatever, Campbell, Have, Life, Information, Trinity, Joseph, Today, Evidently, Joseph Campbell, Right
+**Co-occurrences**: Time, Information, Christ, Tears, Ubik, Logos, Kingdom, Greek, Well, Perhaps, Father, Maybe, World, Only
 
 ---
 ### Line 1479-1487 (Match: 'John')
@@ -172,7 +172,7 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 . . . I had an initial complex insight today that it is just as easy to think of the future pushing the present into the past as to think of the past generating the present and moving toward the future;
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron, Time, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Phil, Gold, Such, Voice, Secret, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Dialectic, Truth, Today, Evidently
+**Co-occurrences**: Time, Anamnesis, Phil, Dialectic, Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron
 
 ---
 ### Line 1733-1741 (Match: 'John')
@@ -189,7 +189,7 @@ I have really known from virtually the start that it was the Holy Spirit, the Co
 
 What must be faced is that, as ISS says, Rome won; we lost -- hence, "She was not acceptable before." Maybe salvation --the Word-- must be entirely voluntarily accepted, and men rejected it. God does not force it on us; men found it unacceptable, to them. Maybe Rome won by default; men chose Rome over the Word, rather then Rome suppressing
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Sophia, Plato, Fish, Greek, Well, Parousia, Maybe, Since, Therefore, Could, Does, Just, Obviously, Although, Girl, Everything, Anamnesis, Still, More, Real, Gold, Such, Actually, Before, Finally, Will, Would, Mission, Have, Things, Judgment, Life, Memory, Truth, Comforter, Salvation, Someone, Until
+**Co-occurrences**: Sophia, Anamnesis, Saint Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Plato, Fish, Greek, Well, Parousia, Maybe, Since, Therefore
 
 ---
 ### Line 1743-1751 (Match: 'John')
@@ -206,7 +206,7 @@ The above problem could be resolved this way: the Holy Spirit came to remind men
 
 . . . It is evident that the Holy Spirit could induce remembrance where formal knowledge, buy the person, was absent; i.e. to perform the mass one has formal knowledge. But suppose no mass is performed and no formal knowledge (memory of as handed down in traditional ways) remains? The el[l]ipsis can be abolished by the Holy Spirit, who informs inwardly of what has been totally and truly forgotten; the break is healed. Remembrance out of nothing, so to speak; it teaches what is not known. Does, sui generis, the work --efficacy-- of the mass; this could be for other cultures who never knew of or heard of Christ (which explains my original obsession with the realization, my recognition of its overwhelming importance, that a priori I had discovered the forms of a religion, Christianity, which seemed impossible. "As if a native of South America had begun carving crucifixes," I kept saying, "and talking about Galgotha." Without having any way of ever having heard of Galgotha, etc. What a miracle -- how extraordinary, opening up a totally new view of the universe, that these forms and this knowledge could arise a priori in a human mind as a category of thought.
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Sophia, Roman, Wisdom, These, Perhaps, Like, World, Because, Only, Harpax, Faith, Good, Mind, Could, Does, Anyhow, Suppose, Luke, Being, Either, Without, Nothing, Those, Their, Church, Another, Through, Secret, Love, Universe, Finally, Other, Mission, Were, Very, Have, Memory, America, Having, Unless, Knowledge, Human, Free, Right
+**Co-occurrences**: Sophia, Saint Sophia, Christ, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Roman, Wisdom, These, Perhaps, Like, World, Because, Only
 
 ---
 ### Line 1749-1757 (Match: 'John')
@@ -223,7 +223,7 @@ Last edit over 5 years ago by Harpax
 124
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Roman, Wisdom, These, Only, Time, Harpax, Good, Mind, Could, Does, Anyhow, Suppose, Everything, Either, Without, Nothing, Church, Through, Secret, Universe, Finally, Will, Would, Other, Mission, Were, Have, Memory, America, Having, Knowledge, Comforter, Human, Evidently, Free
+**Co-occurrences**: Time, Christ, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Roman, Wisdom, These, Only
 
 ---
 ### Line 1763-1771 (Match: 'John')
@@ -240,7 +240,7 @@ I realized this when I saw him more recently in my dreams, sterner and older; pe
 
 . . . Reading all this religious literature I can see now that for everyone, God is simply the explanation of how the universe got here -- i.e. how it came into being; someone had to create it, the First Cause Uncaused which "set it spinning." Viewed this way (also, God called into existence as a concept this way, simply to explain how the universe came into being) there would be no reason to suppose Him to be here. For one thing, the absolute sunstantiality of this world is taken for granted. But all my life I've felt it is not, that something truly real lies behind it; thus over my entire adult life I have prepared myself to encounter an immanent God emerging from within this world.
 ```
-**Co-occurrences**: Christ, Tears, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, King, Roman, However, Perhaps, Like, World, After, Just, Something, Suppose, Being, Catholic, Either, Viewed, Santa, Without, More, Church, Another, Real, Santa Sophia, Universe, Finally, Will, Would, Mission, Back, Have, Life, Absolute, Spring, Wise, Comforter, Dream, Salvation, Right, Someone
+**Co-occurrences**: Thomas, Sophia, Santa Sophia, Christ, Tears, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, King, Roman, However, Perhaps, Like, World
 
 ---
 ### Line 1882-1890 (Match: 'John')
@@ -256,7 +256,7 @@ The strangest idea, though, of all that comes to me is to envision a group of fo
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Sophia, Fish, Greek, These, Perhaps, Maybe, World, Because, Time, Harpax, After, Buddha, Good, Even, Just, Being, Fate, Palm, Santa, Those, Part, Egypt, Pike, Real, Such, Actually, Before, Consider, Jim Pike, True, Santa Sophia, Universe, Finally, Would, Other, Angel, Were, Back, Beyond, Under, Have, Except, During, Human, Dream, Evidently, Right
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Fish, Greek, These, Perhaps, Maybe, World, Because
 
 ---
 ### Line 2209-2217 (Match: 'John')
@@ -273,7 +273,7 @@ In all this, to decode one must ask, What does this term resemble? I'm dreaming 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Acts, Form, Fish, Father, Like, Therefore, Time, Harpax, Savior, Could, Does, Something, Again, Both, Teilhard, Being, March, Girl, Himself, Viewed, Kathy, Those, Their, Star, Through, Real, Gold, Such, Before, Death, Finally, Other, Were, Very, Back, Whatever, Many, Have, Life, Body, Dark, Later, God Himself, Cross, Today, During, Dream, Chardin, Final, Right, Someone
+**Co-occurrences**: Time, Christ, Acts, Form, Fish, Father, Like, Therefore
 
 ---
 ### Line 2431-2439 (Match: 'John')
@@ -289,7 +289,7 @@ Four years in that strange underwater world...from shock and grief, wandering li
 
 Also, it must be realized that the journey part (1970/74) was characterized by acute primitivism of outlook on my part, the mystique thing Levy-Broul talks about (I think I'M talking about schizophrenia, here, not manic depression). But this indicates that the 3 74 experience, which was re-entry, is non-psychotic, a healed experience, and the withdrawn projections indicate a sophisticated non-primitive viewpoint or functioning. As Jung says re Meister Eckehart, by withdrawing my projections I experienced God psychologically, as an inner event not entangled with external objects, but purely so: authentically. Put another way, starting with the chromatic graphics, I evolved up through 2000 years of human history-evolution-psychological-growth. Thus a very archaic personality came awake in me, suddenly, which is to say, the adult I had never been in all my life. Buried deep in my collective unconscious all these years, it possessed spiritual and practical wisdom acquired from the archetypes. Therefore I say this new personality or person was created from the deepest levels of my psyche, a child or rather new man from the collective experience and wisdom of the race, and has an incontestable superiority over my original ego self. This fits the description of "born again" as certainly as could be. From madness to sanity and a new, better self. I think I should feel free to attribute the blind man to see: it shows God's love. Certainly I did not heal myself, and it is hard to rationalize that it somehow was spontaneous,
 ```
-**Co-occurrences**: Paul, Greek, Wisdom, These, Perhaps, Like, World, Because, Therefore, Only, Time, Harpax, Mind, Light, Could, Bardo, Thodol, Again, Bardo Thodol, Self, Great, Those, Part, Jung, Another, Through, Certainly, Love, Before, True, Universe, Somehow, Very, Back, Have, Journey, Life, Eckehart, Jungian, Nancy, Suddenly, During, Human, Free, Right, Until
+**Co-occurrences**: Time, Paul, Greek, Wisdom, These, Perhaps, Like, World, Because, Therefore, Only
 
 ---
 ### Line 2663-2671 (Match: 'John')
@@ -306,7 +306,7 @@ Well, dear, I hope you get some comfort from what I've quoted. I have been readi
 
 ". . .For in wisdom there is a spirit intelligent and holy, unique in its kind yet made up of many parts, subtle, free-moving, lucid, spotless, clear, invulnerable, loving what is good, eager, unhindered, beneficent, kindly towards men, steadfast, unerring, untouched by care, all-powerful, all-surveying, and permeating all intelligent, pure and delicate spirits. For wisdom moves more easily than motion itself, she pervades and permeates all things because she is so pure. Like a fine mist she rises from the power of God, a pure effluence from the glory of the Almighty; so nothing defiled can enter her by stealth. She is the brightness that streams from everlasting light, the flawless mirror of the active power of God and the image of his goodness. She is but one, yet can do everything; herself unchanging, she makes all things new; age after age she enters into holy souls, and makes them God's friends and prophets, for nothing is acceptable to God but the man who makes his home with wisdom. . ."
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Form, Sophia, Greek, Well, Wisdom, Like, Because, Time, Earth, After, Holy Wisdom, Good, Book, Light, Philo, Hebrew, Just, Something, Again, Jesus Christ, Everything, Great, Nothing, Their, More, Gold, Love, True, Will, Many, Have, Things, Dead, Free, Right
+**Co-occurrences**: Sophia, Time, Philo, Christ, Spirit, Holy, Logos, Jesus, Form, Greek, Well, Wisdom, Like, Because, Earth
 
 ---
 ### Line 2868-2876 (Match: 'John')
@@ -323,7 +323,7 @@ Reason I couldn't figure this out for one whole year is fear. Everything is drea
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Xerox, Like, Prison, Time, Anyhow, Again, Everything, House, Death, Somehow, Fake, Dream
+**Co-occurrences**: Time, Xerox, Like, Prison
 
 ---
 ### Line 2945-2953 (Match: 'John')
@@ -340,6 +340,6 @@ Last edit almost 5 years ago by svayambhu108
 225
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Logos, Jesus, Form, Sophia, Well, However, Wisdom, These, Plotinus, Like, World, Since, Fall, Earth, Savior, Book, Light, Even, Okay, Could, Just, Look, Once, Realm, Again, Being, Although, Aristotle, Great, Deus, Grace, More, Through, Heaven, Real, Such, Upon, Before, Irae, Death, Will, Would, Other, Further, Have, Fake, Information, Freedom, Deus Irae, During, Lower, Someone
+**Co-occurrences**: Plotinus, Sophia, Information, Christ, Christian, Logos, Jesus, Form, Well, However, Wisdom, These, Like, World, Since, Fall, Earth
 
 ---

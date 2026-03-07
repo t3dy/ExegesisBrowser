@@ -20,7 +20,7 @@ It has happened, the Prince of this World fell.
 
 This all has been an unfolding process. A revealing or disclosing of Being.
 ```
-**Co-occurrences**: Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, Like, World, Only, Time, Nixon, Even, Being, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, Like, World, Only, Nixon
 
 ---
 ### Line 50-58 (Match: 'These')
@@ -37,7 +37,7 @@ I think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND 
 
 God has returned. Resumed his Kingship (the Kingdom of God has been restored, here). I saw it --him-- in the alley, as I walked. I never saw that before because He was gone from her; or rather, our eyes were "dead," i.e. we were blind. He is with us again, as last night revealed; as soon as I got stoned and wint in to pray when I glanced up I saw two huge tree-trunk legs and shoes/feet -- a Great Man standing between me and my shrine. He was there...like I saw Mrs. Donlevy. ("God of the House of Levi".) (Discarded shoes on the beach...tennis shoes -- but huge and filled, but mostly the tree trunk legs. So dense. He remains here.)
 ```
-**Co-occurrences**: Tears, Kingdom, Like, Fall, Because, Time, Again, Kingdom of God, Great, House, Without, Tessa, Before, Easter, Macro, Parsifal, Kingship, Were, Tree, Life, Dead, Dream
+**Co-occurrences**: Time, Tears, Kingdom, Like, Fall, Because
 
 ---
 ### Line 62-70 (Match: 'These')
@@ -54,7 +54,7 @@ Last edit almost 3 years ago by jhordan
 4
 Complete
 ```
-**Co-occurrences**: Christ, Logos, Complete, Rome, Well, Elijah, Like, Iron, Time, Just, Look, Being, March, More, Real, Upon, Universe, Creation
+**Co-occurrences**: Time, Linear, Christ, Logos, Complete, Rome, Well, Elijah, Like, Iron
 
 ---
 ### Line 149-157 (Match: 'These')
@@ -71,7 +71,7 @@ Taking a leaf from Marlo Thomas – the best thing a child’s book can do is te
 
 Last edit over 5 years ago by Zebrapedia
 ```
-**Co-occurrences**: Thomas, Only, Book, Even, Anyhow, Zebrapedia, Something, Being, Great, Those, Still, Deity, Would, Were, Have, Life, Spring, Remember, Magic, Otherwise
+**Co-occurrences**: Thomas, Zebrapedia, Only
 
 ---
 ### Line 180-188 (Match: 'These')
@@ -88,7 +88,7 @@ Locale: the earth
 
 "and when I, the root of the vine, slumbering under the snow of winter, seemingly dead - when I return to life, you who follow me (are me, possessed by me) - while that spring day (- you will return to life with me + share the spring with me. My endless rebirth will be yours too - through the flood [...]
 ```
-**Co-occurrences**: Jesus, Roman, Earth, Greco, Through, Greece, Will, Attic, Under, Life, Spring, Dead, During
+**Co-occurrences**: Jesus, Roman, Earth
 
 ---
 ### Line 204-212 (Match: 'These')
@@ -105,7 +105,7 @@ With deep personal regards,
 
 Philip K. Dick 1405 Cameo Lane #4 Fullerton, Calif 92631, USA
 ```
-**Co-occurrences**: Well, Like, Since, Fall, Good, Even, Just, Both, Tony, Philip, Tessa, Still, Through, Living, Dick, Fullerton, Calif, Will, Christopher, Would, Very, Have, Days
+**Co-occurrences**: Philip, Well, Like, Since, Fall
 
 ---
 ### Line 250-258 (Match: 'These')
@@ -122,7 +122,7 @@ Last edit over 5 years ago by Zebrapedia
 15
 Indexed
 ```
-**Co-occurrences**: Indexed, Roman, Maybe, Like, Since, Fall, Because, Only, Time, After, Good, Even, Could, Zebrapedia, Just, Something, Once, Catholic, Tony, Although, Still, More, Through, Love, Before, True, Universe, Will, Many, Remember, Electric, Sturgeon, Dead, Human, Right, Answer, Until
+**Co-occurrences**: Time, Zebrapedia, Indexed, Roman, Maybe, Like, Since, Fall, Because, Only
 
 ---
 ### Line 294-302 (Match: 'These')
@@ -139,7 +139,7 @@ Last edit over 5 years ago by Zebrapedia
 19
 Complete
 ```
-**Co-occurrences**: Complete, Time, Okay, Zebrapedia, Those, Love, Very, Right
+**Co-occurrences**: Time, Zebrapedia, Linear, Complete
 
 ---
 ### Line 327-335 (Match: 'These')
@@ -155,7 +155,7 @@ This is what I saw; what I saw rolled back was the "snow" of that long winter. B
 
 I saw that it can melt away in an instant, and reveal the original "season" or being or reality.
 ```
-**Co-occurrences**: Jesus, Like, Only, Earth, Reality, Zagreus, Being, True, Back, Under, Spring, Dead
+**Co-occurrences**: Jesus, Like, Only, Earth
 
 ---
 ### Line 329-337 (Match: 'These')
@@ -171,7 +171,7 @@ I saw that it can melt away in an instant, and reveal the original "season" or b
 
 Look: the seeds, dormant, slumbering in the winter of their species, are helpless and need the protection of concealment. They are pressed down into the snow (the manifold Maya) which camoflauges them, and protects them. They lie unknown even to themselves, mixed with the "tares" sewn there along with them, indistinguishable until all sprout -- wheat and tares together (we must wait, and then divide). Until that day, they cannot be discerned, found, discovered, destroyed; mimicry and concealment, during 2000 year winter of their half-life slumber. Then, in Spring (which has now come) those real wheat seeds here the voice calling them (from the bright morning star) and come to life. Are revealed suddenly (the cuckoo egg in the nest) but, at the moment revealed suddenly, then simultaneously now safe; by virtue of the power remembered (anamnesis). They are Zagreus or can call on him; he will answer his "flock." They know him/ he knows them.
 ```
-**Co-occurrences**: Jesus, Like, Only, Earth, Even, Look, Maya, Reality, Zagreus, Being, Anamnesis, Those, Their, Wait, Star, Real, Voice, True, Will, Back, Under, Life, Spring, Dead, Suddenly, During, Answer, Until
+**Co-occurrences**: Anamnesis, Jesus, Like, Only, Earth
 
 ---
 ### Line 339-347 (Match: 'These')
@@ -188,7 +188,7 @@ Last edit over 5 years ago by Siegman
 22
 Complete
 ```
-**Co-occurrences**: Complete, Kingdom, Like, Fall, Could, Zagreus, Christos, Anamnesis, Those, Their, Before, Would, Kingship, Things, Body, Suddenly
+**Co-occurrences**: Anamnesis, Complete, Kingdom, Like, Fall
 
 ---
 ### Line 347-355 (Match: 'These')
@@ -205,7 +205,7 @@ In March it took me over totally; I was a spectator to my dream in waking life, 
 
 If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Complete, Paul, Because, Only, After, Could, Does, Again, Zagreus, March, Runciter, Probably, Those, More, Another, Living, Real, Voice, Death, Will, Deity, Would, Were, Have, Tree, Life, Claudia, Testament, Dream
+**Co-occurrences**: Christ, Logos, Jesus, Complete, Paul, Because, Only
 
 ---
 ### Line 381-389 (Match: 'These')
@@ -222,7 +222,7 @@ Our reality can be manipulated retroactively; that is, our past can be rewoven, 
 
 A certain portion of the phenomenal world which we encounter is hologram-like, projected and false, to fill in missing spaces, as in the time extension, missing elements are filling in along similar lines. Therefore we see total continuity in both extensions, time and space, without awareness of dysfunction or rupture. But in truth, there are dysfunctions which (to return to my former term) the Dreamer causes us to gloss over, or allows us to -- perhaps it is less a manipulation that a permission, if you see what I mean.
 ```
-**Co-occurrences**: Complete, Form, Perhaps, Like, World, Therefore, Only, Time, Does, Just, Both, Reality, Although, Without, Still, True, Will, Memory, Truth, Dream
+**Co-occurrences**: Time, Complete, Form, Perhaps, Like, World, Therefore, Only
 
 ---
 ### Line 387-395 (Match: 'These')
@@ -239,7 +239,7 @@ In a meaningful sense, portions of our reality extensive in time and space are f
 
 (two) Lineal time is mere process or accumulative time, which conceals orthogonal time from our gaze.
 ```
-**Co-occurrences**: Perhaps, Like, World, Because, Therefore, Time, After, Mind, Even, Both, Maya, Reality, Being, March, Without, Nothing, Real, True, Will, Would, Other, Back, Have, Memory, Truth
+**Co-occurrences**: Time, Perhaps, Like, World, Because, Therefore
 
 ---
 ### Line 393-401 (Match: 'These')
@@ -256,7 +256,7 @@ In a meaningful sense, portions of our reality extensive in time and space are f
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Christian, Time, Suppose, Both, Maya, Reality, Being, Grace, Nothing, Ground, Real, Upon, Would, Back, Have, Absolute
+**Co-occurrences**: Time, Christian
 
 ---
 ### Line 414-422 (Match: 'These')
@@ -272,7 +272,7 @@ That the Final Days should be in fact a springing up into full life, complete li
 
 From this is can be seen what Paul meant by such terms as "You are the first fruits of the harvest." We read this and assume mere poetry. That is was literally meant -- did that occur to us? But to take it literally we had to grasp the existence of (1) lineal time versus orthogonal time; and (2) the Active Dreamer who instead of saying, Dream on, dream on, sleep on, suddenly begins in our dreams to say, Die Stunde ist da! Throw off the chains, the net of thorns; it is Cantata 140 and Cantata 4 together. The Bonds of death (the thrall of Winter equals the bonds of death) have relaxed, and as exemplar, the Christos leads us into full-life, out of the half-life we've been in.
 ```
-**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+**Co-occurrences**: Time, Christ, Complete, Paul, Well, Dionysos, Perhaps, Only
 
 ---
 ### Line 416-424 (Match: 'These')
@@ -289,7 +289,7 @@ From this is can be seen what Paul meant by such terms as "You are the first fru
 
 Sorry to take so much of your time here, Ursula, but in my dreams I saw the words CANTATA 4, and when I had read the text, I began to understand.
 ```
-**Co-occurrences**: Christ, Complete, Paul, Well, Dionysos, Perhaps, Only, Time, Platonism, Both, Reality, Orphic, Aristotle, Christos, Nothing, Those, More, Real, Such, Voice, Death, Would, Other, Under, Many, Have, Life, Spring, Instead, Neither, Days, Except, Dead, Suddenly, Pauline, Dream, Final
+**Co-occurrences**: Time, Christ, Complete, Paul, Well, Dionysos, Perhaps, Only
 
 ---
 ### Line 438-446 (Match: 'These')
@@ -306,7 +306,7 @@ Last edit almost 3 years ago by twsullivan
 28
 Complete
 ```
-**Co-occurrences**: Acts, Thomas, Holy, Jesus, Complete, Form, Bible, Parousia, World, Because, Iron, Earth, Mind, Zagreus, Self, Anamnesis, Essene, Their, Zeus, Such, Secret, Will, Would, Other, Erasmus, Back, Life, Testament, Days, Suddenly, Qumran, Final, Until
+**Co-occurrences**: Thomas, Anamnesis, Acts, Holy, Jesus, Complete, Form, Bible, Parousia, World, Because, Iron, Earth
 
 ---
 ### Line 444-452 (Match: 'These')
@@ -323,7 +323,7 @@ But in this novel, Thomas says, "The Final Days have come. The overthrown of the
 
 During Winter, it was believed that Dionysos, the god of the vine plant, of vegetation, of the crop, slumbered. It was known that no matter how dead he seemed (James Joyce's FINNIGANS WAKE is a wonderful acount of this) he was actually alive, though you'd never know it. And then, --not to the surprise of those who understood him and believed in him-- he was reborn. His followers knew he would be. We are speaking here of the mystery religions, all of them -- including Christianity. Our God has been sleeping, during the long winter of the human culture ([x] not for one year's rotational cycle of seasons, but from 45 A.D. through the centuries of mental winter to now); just when Winter holds all in its grip, the snow of despair and defeat (in our case, political chaos, moral ruin, economic ruin -- the winter of our planet, our world, our civilization) then the vine, which was gnarled and old and seemingly dead, breaks into new life, and our God is reborn -- not outside us as such, but in each of us. Slumbering not under the snow over the ground-surface but within the right hemispheres of our brains. We have been waiting, we didn't know what for. This is it: this is Spring for our planet, in a deeper more fundamental way. The cold chains of iron are being thrown off, but by what a miracle. As with my character, Nicholas Brady -- I've had Zagreus awaken in my right hemisphere, and felt the flooding of renewed life, his vigor, his personality, and his godlike wisdom: he hated the injustice he saw around him, and remembered "the dear lone lands untroubled by men, where amid the shadowy green / The little ones of the forest live unseen." (Eurypides) Dr. Ornstein, thank you for helping bring Winter to an end, and ushering in --not just Spring-- but the living life of Spring alive but [xl] asleep inside us.
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Christian, Jesus, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, James, Like, World, Because, Iron, Only, John
 
 ---
 ### Line 470-478 (Match: 'These')
@@ -340,6 +340,6 @@ In a dream I was shown that the word "Jesus" is a code, a word made up and not a
 
 "Of all the trees that are He hath his flock, and feedeth root by root, The Joy-god Dionysos, the pure star That shines amid the gathering of the fruit." (In Pindar, a favorite of Plutarch.)
 ```
-**Co-occurrences**: Jesus, However, Dionysos, Perhaps, Maybe, After, Book, Once, Zagreus, Himself, Nothing, Those, Still, Zeus, Star, Most, Revelation, Universe, Would, Erasmus, Dream, Right
+**Co-occurrences**: Jesus, However, Dionysos, Perhaps, Maybe
 
 ---

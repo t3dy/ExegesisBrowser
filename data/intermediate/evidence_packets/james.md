@@ -20,7 +20,7 @@ Cordially,
 
 Philip K. Dick 1405 Cameo Lane 4 Fullerton Calif 92631
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Philip, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Dick, Fullerton, Calif, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Philip, Christian, Jesus, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, Like, World, Because, Iron, Only, John
 
 ---
 ### Line 758-766 (Match: 'James')
@@ -37,7 +37,7 @@ Last edit over 5 years ago by Harpax
 48
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Form, Maybe, Because, Only, Time, Harpax, Good, Light, Anyhow, Again, Both, Although, Either, Great, Christos, Tessa, Darkness, Creator, Kathy, More, Another, Through, Real, Certainly, Universe, Would, Other, Creation, Were, Surely, Under, Many, Life, Dream
+**Co-occurrences**: Time, Linear, Spirit, Holy, Logos, Holy Spirit, Form, Maybe, Because, Only
 
 ---
 ### Line 764-772 (Match: 'James')
@@ -54,7 +54,7 @@ The universe has now successfully progresses along far enough so that forward-mo
 
 I think a tremendous principle of conservation and balance was expressed in this dream. Kathy represented what I would deem the higher form of form-evolution; even so, I halted the forward-motion because the casuality was not acceptable to me. I noticed, and steeped forward. That time has come (e.g. "No, we will not allow our mentally deficient, our weaker races, our poor, our old, our helpless in general, to be sacrificed; the day of Rule by the Strong and healthy is over; the sick must be cared for, although perhaps not by the healthy but by someone coming here from Elsewhere.
 ```
-**Co-occurrences**: Form, Well, These, Perhaps, Maybe, Like, Since, Fall, Because, Time, Harpax, Good, Even, Could, Anyhow, Reality, March, Although, Nothing, Kathy, Those, Most, Such, Certainly, Before, Universe, Will, Would, Creation, Very, Back, Surely, Have, Clearly, Life, Dream, Someone
+**Co-occurrences**: Time, Form, Well, These, Perhaps, Maybe, Like, Since, Fall, Because
 
 ---
 ### Line 770-778 (Match: 'James')
@@ -71,7 +71,7 @@ Last edit over 5 years ago by Harpax
 49
 Needs Review
 ```
-**Co-occurrences**: Form, Well, These, Perhaps, Like, Since, Because, Only, Time, Harpax, Even, Could, Anyhow, Both, Reality, March, Although, Tessa, Kathy, Universe, Will, Would, Very, Have, Life, Dream, Lamb, Right, Someone
+**Co-occurrences**: Time, Form, Well, These, Perhaps, Like, Since, Because, Only
 
 ---
 ### Line 782-790 (Match: 'James')
@@ -88,7 +88,7 @@ Last edit over 5 years ago by Harpax
 50
 Needs Review
 ```
-**Co-occurrences**: Christian, Logos, Jesus, Well, Parousia, These, Perhaps, Like, World, Since, Only, Time, Harpax, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Nothing, Still, Their, More, Church, Most, Real, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+**Co-occurrences**: Time, Linear, Christian, Logos, Jesus, Well, Parousia, These, Perhaps, Like, World, Since, Only
 
 ---
 ### Line 2175-2183 (Match: 'James')
@@ -105,7 +105,7 @@ The expression of God's creative force is visible as the universe itself; but Hi
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Sophia, Plato, Fish, Greek, Wisdom, These, Like, World, Therefore, Only, Time, Harpax, Buddha, Savior, Light, Anyhow, Something, Again, Self, Daniel, Probably, Palm, Santa, Without, Creator, Still, Their, More, Another, Through, Most, Real, Voice, Before, Santa Sophia, Universe, Will, Would, Were, Back, Beyond, Further, Have, Tree, Later, Days, Cross, Otherwise, Dream, Right
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christ, Plato, Fish, Greek, Wisdom, These, Like, World, Therefore, Only
 
 ---
 ### Line 2189-2197 (Match: 'James')
@@ -122,7 +122,7 @@ The core tubes are at right angles to the prison walls. They are possibl[y] very
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Form, Sophia, Well, These, Perhaps, Maybe, Like, Prison, Only, Time, Harpax, Light, Anyhow, Something, Great, Creator, Still, Their, Through, Certainly, Secret, Will, Were, Very, Many, Have, Life, Information, Neither, Dream, Free, Right
+**Co-occurrences**: Sophia, Time, Information, Form, Well, These, Perhaps, Maybe, Like, Prison, Only
 
 ---
 ### Line 2191-2199 (Match: 'James')
@@ -139,7 +139,7 @@ Last edit over 5 years ago by Harpax
 163
 Needs Review
 ```
-**Co-occurrences**: Form, Sophia, Well, These, Perhaps, Maybe, Like, Prison, Only, Time, Harpax, Light, Anyhow, Something, Great, Creator, Still, Their, Through, Certainly, Secret, Will, Were, Very, Many, Have, Life, Information, Neither, Dream, Free, Right
+**Co-occurrences**: Sophia, Time, Information, Form, Well, These, Perhaps, Maybe, Like, Prison, Only
 
 ---
 ### Line 2226-2234 (Match: 'James')
@@ -155,7 +155,7 @@ One clearcut indication that this is indeed the next step up is its informationa
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Logos, Form, Roman, Wisdom, Godhead, Father, Like, World, Only, Time, Earth, Harpax, After, Good, Mind, Book, Does, Something, Once, Being, Atman, Self, Everything, Divine, Himself, Great, Without, Kathy, Their, More, Soul, Gold, Before, Macro, Will, Would, Somehow, Were, Very, Back, Have, Things, Life, Instead, Wise, Having, God Himself, Knowledge, Greater, Human, Lower, Dream, Ptath, Right, Someone
+**Co-occurrences**: Time, Logos, Form, Roman, Wisdom, Godhead, Father, Like, World, Only, Earth
 
 ---
 ### Line 2254-2262 (Match: 'James')
@@ -172,7 +172,7 @@ Last edit over 5 years ago by Harpax
 169
 Needs Review
 ```
-**Co-occurrences**: World, Harpax, Anyhow, Just, Himself, Gods, Deus, Jung, Through, Soul, Living, Secret, Would, Erasmus, Egyptian, Things, Body, Wise, Ptath
+**Co-occurrences**: World
 
 ---
 ### Line 2356-2364 (Match: 'James')
@@ -189,7 +189,7 @@ Jesus also said, "Verily, verily, I say unto you, Except a man be born of water 
 
 It would appear from this that the first the spirit comes, from above, which is a sort of fire, and then there is paligge: new birth, the renewal of life, the resurrection. "He according to his mercy has saved us, by the washing of regeneration, and renewing the Holy Spirit, which he shed (sic) on us abundantly through Jesus Christ our Savior." (Titus 3:4-6.)
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Jesus, Holy Spirit, Kingdom, Savior, Again, Kingdom of God, Jesus Christ, Through, Before, Mother, Would, Mission, Life, Information, Except, Truth
+**Co-occurrences**: Information, Christ, Spirit, Holy, Jesus, Holy Spirit, Kingdom
 
 ---
 ### Line 2477-2485 (Match: 'James')
@@ -206,7 +206,7 @@ Last edit over 5 years ago by Harpax
 
 186
 ```
-**Co-occurrences**: Tears, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Plato, Greek, Bible, Parousia, Wisdom, Dionysos, These, Perhaps, Father, Since, Because, Iron, Time, Harpax, Could, Does, Once, Again, Zagreus, Being, Divine, Himself, Apollo, Gods, Fate, Deus, Grace, Nothing, Those, Still, Part, More, Zeus, Most, Death, Macro, Will, Would, Other, Biblical, Erasmus, Back, Beyond, Surely, Whatever, Under, Many, Have, Life, Evil, Magic, Right, Ananke, Grail
+**Co-occurrences**: Time, Tears, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Plato, Greek, Bible, Parousia, Wisdom, Dionysos, These, Perhaps, Father, Since, Because, Iron
 
 ---
 ### Line 2498-2506 (Match: 'James')
@@ -223,7 +223,7 @@ Last edit over 5 years ago by Harpax
 
 . . . St. Sophia -- Sophianism: my Vancouver speech (the third stage
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Holy Spirit, Sophia, These, Father, Since, Only, Time, Anyhow, Although, Probably, Part, Jung, Such, Macro, Finally, Body, Unless, Dream, Right
+**Co-occurrences**: Sophia, Time, Christ, Christian, Spirit, Holy, Holy Spirit, These, Father, Since, Only
 
 ---
 ### Line 2500-2508 (Match: 'James')
@@ -240,7 +240,7 @@ Last edit over 5 years ago by Harpax
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Holy Spirit, Sophia, These, Since, Only, Time, Harpax, Anyhow, Although, Probably, Part, Jung, Such, Macro, Finally, Body, Unless, Dream, Right
+**Co-occurrences**: Sophia, Time, Christ, Christian, Spirit, Holy, Holy Spirit, These, Since, Only
 
 ---
 ### Line 2616-2624 (Match: 'James')
@@ -257,7 +257,7 @@ Also, viewing the statements of God from within the burning bush (Moses asks wha
 
 It is evident that I experienced the other superior extra space-time universe by means of encountering events before they entered our matrix. I somehow assimilated material from the future, which by definition lies outside space time.
 ```
-**Co-occurrences**: Spinoza, These, Maybe, Like, Only, Time, Harpax, Light, Even, Could, Does, Look, Reality, Being, Obviously, Everything, Moses, Himself, Either, Without, Creator, Still, Part, Another, Real, Before, Macro, Universe, Finally, Would, Other, Creation, Somehow, Were, Very, Later, Days, Having, Dead, Dream, Final
+**Co-occurrences**: Time, Linear, Spinoza, These, Maybe, Like, Only
 
 ---
 ### Line 3173-3181 (Match: 'James')
@@ -274,7 +274,7 @@ Plato's Timeus: divine intelligence prevailing (teleologically) over ananke, cha
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Sophia, Plato, Fish, Roman, Wisdom, World, Because, Time, After, Savior, Could, Does, Just, Look, Suppose, Both, Reality, Divine, Palm, Chrissy, Without, Grace, Still, More, Through, Most, Such, Actually, Certainly, Revelation, Universe, Would, Very, Whatever, Under, Have, Tree, Information, Later, Dialectic, Dream, Salvation, Final, Until, Ananke
+**Co-occurrences**: Sophia, Time, Information, Dialectic, Christ, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Form, Plato, Fish, Roman, Wisdom, World, Because
 
 ---
 ### Line 3382-3390 (Match: 'James')
@@ -290,7 +290,7 @@ Last edit almost 5 years ago by svayambhu108
 267
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Sophia, Kingdom, Well, Parousia, However, These, Advent, World, Since, Iron, Prison, Only, John, Time, Cosmic, Garden, Cosmic Christ, Light, Even, Does, Again, Suppose, Heraclitus, Teilhard, Being, Daniel, Augustine, Probably, Palm, Nothing, Still, Through, Real, Such, Upon, Finally, Will, Would, Other, Back, Beyond, Further, Have, Tree, Clearly, Judgment, Body, Later, Dream, Whereas, Chardin, Lamb, White, Sacred
+**Co-occurrences**: Sophia, Time, Linear, Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Kingdom, Well, Parousia, However, These, Advent, World, Since, Iron, Prison, Only, John
 
 ---
 ### Line 3531-3539 (Match: 'James')
@@ -307,7 +307,7 @@ Last edit almost 5 years ago by svayambhu108
 284
 Needs Review
 ```
-**Co-occurrences**: Christ, Valis, Form, King, Well, However, Wisdom, Since, Because, Therefore, Only, Time, Nixon, Good, Anyhow, Reality, Being, March, Although, Self, Great, Those, Still, Part, Living, Such, Fullerton, Universe, Will, Christopher, Would, Other, Were, Back, Have, Wise, Later, Days, Evil, Having, During
+**Co-occurrences**: Valis, Time, Christ, Form, King, Well, However, Wisdom, Since, Because, Therefore, Only, Nixon
 
 ---
 ### Line 3868-3876 (Match: 'James')
@@ -324,7 +324,7 @@ Last edit almost 3 years ago by svayambhu108
 10
 Needs Review
 ```
-**Co-occurrences**: Christ, Brahman, Well, However, Perhaps, World, Because, Only, Savior, Even, Anyhow, Divine, Either, Without, Creator, Part, Brahmanism, Real, Certainly, Secret, Will, Somehow, Very, Have, Right
+**Co-occurrences**: Christ, Brahman, Well, However, Perhaps, World, Because, Only
 
 ---
 ### Line 3879-3887 (Match: 'James')
@@ -340,6 +340,6 @@ Last edit almost 3 years ago by svayambhu108
 12
 Needs Review
 ```
-**Co-occurrences**: Ubik, Kingdom, Brahman, Roman, Perhaps, Like, World, Since, Iron, Prison, Only, Black, Kingdom of God, Both, Maya, Reality, Runciter, Black Iron Prison, Either, Palm, Their, Through, Living, Real, Actually, Universe, Creation, Have, Tree, Claudia, Evil, Iron Prison, Dream
+**Co-occurrences**: Ubik, Kingdom, Brahman, Roman, Perhaps, Like, World, Since, Iron, Prison, Only
 
 ---

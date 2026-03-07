@@ -20,7 +20,7 @@ The drawing your parent an archetype
 
 The mind receives so well during young childhood. It was wonderful, enchantment, when things spoke, pictures and bugs. Well, God spoke through them via, by means of, them. Utilized them as conduits of resemblances; there we encountered the Queen, the King – and the pieces of the chessboard. I realized the other night, And now, that Christopher is born, I am the wise old king. I will never find him; I can only become him. Bummer. Sad. But I looked at my great arms (I have great arms) and I thought, One must eventually become ones own parent.
 ```
-**Co-occurrences**: King, Well, Maybe, Like, World, Only, Time, Savior, Mind, Book, Could, Being, Great, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Will, Christopher, Other, Under, Have, Things, Body, Claudia, Wise, Later, Remember, Truth, During, Dream
+**Co-occurrences**: Time, King, Well, Maybe, Like, World, Only
 
 ---
 ### Line 527-535 (Match: 'Fish')
@@ -37,7 +37,7 @@ Last edit almost 3 years ago by twsullivan
 33
 Complete
 ```
-**Co-occurrences**: Christ, Christian, Complete, Form, Well, These, Perhaps, Like, World, Therefore, Iron, Prison, Time, Earth, After, Even, Could, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christ, Christian, Complete, Form, Well, These, Perhaps, Like, World, Therefore, Iron, Prison, Earth
 
 ---
 ### Line 533-541 (Match: 'Fish')
@@ -54,7 +54,7 @@ It certainly shows that the alchemists were seeking a symbolic transmutation of 
 
 The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
 ```
-**Co-occurrences**: Complete, Gnosticism, Wisdom, Plotinus, Maybe, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Grace, Jung, Gold, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, Magic, Human, Dream, Someone
+**Co-occurrences**: Gnosticism, Plotinus, Complete, Wisdom, Maybe, Like, World, Earth
 
 ---
 ### Line 539-547 (Match: 'Fish')
@@ -71,7 +71,7 @@ Last edit over 2 years ago by ratatosk
 34
 Needs Review
 ```
-**Co-occurrences**: Greek, Gnosticism, Wisdom, These, Plotinus, Maybe, Like, Mind, Could, Something, Again, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Many, Have, Absolute, Info, America, Magic, Hermes, Dream, Someone
+**Co-occurrences**: Gnosticism, Plotinus, Hermes, Greek, Wisdom, These, Maybe, Like
 
 ---
 ### Line 563-571 (Match: 'Fish')
@@ -88,7 +88,7 @@ It broke certain chains. Certain powers over me. Therefore the delusional (defor
 
 Isn't this what the Christian fish sign is supposed to do? Representing Christ, it is Christ; and this is what He does for a person, a very desperate person: He breaks that earthyl thrall. He, through his emblematic sign.
 ```
-**Co-occurrences**: Christ, Christian, Logos, Gnostic, However, These, Perhaps, Plotinus, World, Because, Therefore, Only, Time, Does, Reality, Being, Anamnesis, More, Through, Most, Certainly, Universe, Very, Back, Information, Freedom, Info, Human
+**Co-occurrences**: Plotinus, Gnostic, Time, Anamnesis, Information, Christ, Christian, Logos, However, These, Perhaps, World, Because, Therefore, Only
 
 ---
 ### Line 567-575 (Match: 'Fish')
@@ -105,7 +105,7 @@ Isn't this what the Christian fish sign is supposed to do? Representing Christ, 
 
 He corrected that error. (In my case -- and how many others has He freed? And how long had this freeing been going on? Is this the Parousia?????)
 ```
-**Co-occurrences**: Christ, Christian, Logos, Form, Parousia, Perhaps, Father, World, Because, Therefore, Time, Savior, Does, Something, Reality, Girl, Nothing, More, Through, Were, Very, Back, Many, Freedom
+**Co-occurrences**: Time, Christ, Christian, Logos, Form, Parousia, Perhaps, Father, World, Because, Therefore
 
 ---
 ### Line 576-584 (Match: 'Fish')
@@ -121,7 +121,7 @@ This distinction defines the difference between the purpose and meaning of the m
 
 The latter against all Neoplatonism and ever gnosticism, although less so. And against all mystery religions, although based on the awareness of submerged (blinded) inner spark.
 ```
-**Co-occurrences**: Christianity, Gnosticism, Plotinus, World, Gnosis, Only, Harpax, Even, Could, Just, Reality, Although, Orphic, Anamnesis, Grace, Part, Will, Other, Have, Knowledge, Free
+**Co-occurrences**: Gnosticism, Plotinus, Anamnesis, Christianity, World, Gnosis, Only
 
 ---
 ### Line 975-983 (Match: 'Fish')
@@ -138,7 +138,7 @@ What is involved is a restoring, a new life which is the igniting by means of th
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Logos, Rome, Bible, Roman, Advent, Maybe, Like, World, Because, Therefore, Only, Time, Harpax, Savior, Does, Just, Look, Both, Being, Although, Everything, Platonic, Probably, Those, Part, More, Fullerton, Secret, Before, Christopher, Would, Other, Were, Very, Back, Life, Body, Days, Knowledge, Cross, Evidently, Someone, Answer, Until
+**Co-occurrences**: Time, Christ, Christian, Logos, Rome, Bible, Roman, Advent, Maybe, Like, World, Because, Therefore, Only
 
 ---
 ### Line 1089-1097 (Match: 'Fish')
@@ -155,7 +155,7 @@ The "Dec N T" says that this time Christ won't appear in the form of one single 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1150-1158 (Match: 'Fish')
@@ -172,7 +172,7 @@ There is no doubt that, what with my right hemisphere experiments, I was trying 
 
 Two other points: (one) On the aspects designated as those which the "Christ transformation" confers according to the "Decoded N T," all that can be verified now (e.g. higher intelligence, better health, prosperity, etc. whatever) I've obtained; now, there is no intrinsic relationship which link these various "gifts." No one would draw up such a list a priori, since they appear unrelated. They are leaps forward in various areas. Others listed by the "Decoded N T" such as immorality I can't check on, of course, but I will infer that this too was acquired, if the others were. (two) My left eye suddenly resolving better than my right: this may refer to feature extractors in the cerebral cortex, and be brain improvements, allied with the sense of "having been blind but no longer being so." Again, this is linked with the prophecies given in the N T to those who receive the Spirit (i.e. become Christ). Vide my dream of last night: a theraphist named Mary is washed --healing-- my ankles and feet. At first I thought nothing of this dream, but on later refle[x]ion, it certain[ly] seems to me religious in nature; not only am I having "weak legs," as Red Foxx puts it, but recall Mary Magdelane vis-a-vis the desciples. Maybe this dream (following by one in which I escape from prison, am not followed and am free to run and run) are reassurances that my improved state is permanent.
 ```
-**Co-occurrences**: Christ, Spirit, Form, These, Perhaps, Father, Maybe, Like, Since, Prison, Only, Earth, Harpax, Good, Light, Firebright, Could, Anyhow, Something, Again, Being, Tessa, Nothing, Brain, Those, Part, Through, Heaven, Such, Certainly, Mother, Will, Deity, Would, Other, Were, Whatever, Have, Body, Later, Having, Knowledge, Suddenly, Human, Dream, Free, Right, Mary
+**Co-occurrences**: Firebright, Decoded, Christ, Spirit, Form, These, Perhaps, Father, Maybe, Like, Since, Prison, Only, Earth
 
 ---
 ### Line 1177-1185 (Match: 'Fish')
@@ -189,7 +189,7 @@ These are like scene changes for a play. They take place outside of the drama, a
 
 Which brings up my "schlockmeister" movie dream: our world as a set, of valleys and rivers and trees, which the schlockmeisters have polluted, and how angry the "owner of the property" is. They, the director, cameraman, producer, were to do His property, and look at the schlock job they're doing; hence his ire. The first time, in 3 74, the pure springtime was tainted by the ring of iron; but in 75 it was gone! And so I felt pure springtime those days, and marvelled much. But -- the instincts (and certainly what were fired at me as signals were what, when animals recieve them, we call instincts) the instincts that appear in springtime are those connected with the vast cycle of reproduction, of mating and giving birth. For me it was a metabirth, or spiritual, but the timing of these instincts is further proof (indication, maybe) of their nature. Also, they were mixed with survival instincts of a metanature, but leading ultimately to reproduction, arising out of my survival; that is, I survived (and had the instincts for that, first) that I could reproduce in a spiritual or meta fashion. Survival-to-reproduce-to-survive is normally a closed system, which baffles us as to what is means and what is ends; but in this, the reproduction is the goal, since it is higher; this was not a closed cycle. What was born (Firebright) was not a mere replica of what had formerly survived (me). Perhaps Firebright was formed in 75; it was in 75 that I had the "Saint Sophia" experience, for personal life; but this was followed gently and easily in 75 by the Saint Sophia Second Birth, the non-defensive metasystems. I think there was no taint of personal survival and the meta instincts therefore in 75, but in 74 certainly of primary need were the instincts
 ```
-**Co-occurrences**: Rome, Sophia, Greek, Roman, These, Perhaps, Maybe, Like, World, Since, Therefore, Iron, Only, Time, Harpax, Firebright, Could, Anyhow, Just, Look, Both, Palm, Those, Their, Real, Such, Certainly, Would, Were, Erasmus, Further, Have, Life, Later, Days, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Saint Sophia, Rome, Greek, Roman, These, Perhaps, Maybe, Like, World, Since, Therefore, Iron, Only
 
 ---
 ### Line 1481-1489 (Match: 'Fish')
@@ -206,7 +206,7 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Empire, Elijah, Father, Maybe, Iron, John, Time, Harpax, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Phil, Gold, Such, Voice, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Truth, Today, Evidently
+**Co-occurrences**: Time, Anamnesis, Phil, Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Empire, Elijah, Father, Maybe, Iron, John
 
 ---
 ### Line 1575-1583 (Match: 'Fish')
@@ -223,7 +223,7 @@ I imagine these jumps forward, back to the Cambrian Period, are associated with 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christian, Form, Golden, These, Maybe, Like, Golden Fish, Time, Harpax, After, Light, Anyhow, Once, Everything, Great, Jewish, Still, Wait, Through, Ground, Finally, Would, Back, Under, Have, Life, Unless, Lower, Right
+**Co-occurrences**: Time, Christian, Form, Golden, These, Maybe, Like, Golden Fish
 
 ---
 ### Line 1710-1718 (Match: 'Fish')
@@ -240,7 +240,7 @@ I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sens
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore, Time, Harpax, After, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Another, Pike, Such, Voice, Secret, Jim Pike, Santa Sophia, Will, Would, Other, Somehow, Were, Attic, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During, Whereas
+**Co-occurrences**: Sophia, Time, Santa Sophia, Information, Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Paul, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore
 
 ---
 ### Line 1731-1739 (Match: 'Fish')
@@ -257,7 +257,7 @@ I still want to retain the gold fish-necklace which disinhibits him. But now whe
 
 I have really known from virtually the start that it was the Holy Spirit, the Comforter, who came to me (vide my letter of May 74 to Peter Fitting); but by deliberately suspending judgment in terms of identifying or naming it finally, I have had the chance to do over one full year's intellectual investigation on the whole topic, immersing myself in everything I could read remotely pertaining. Now the Spirit has withdrawn -- but what a wonderful 14 months! More than the rest of all my life! Gold shining and infused into the cardboard of the gutter!
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Sophia, Plato, Greek, Well, Parousia, Since, Therefore, John, Harpax, Could, Just, Obviously, Although, Girl, Everything, Anamnesis, Still, More, Real, Gold, Such, Actually, Before, Finally, Will, Would, Mission, Have, Things, Judgment, Life, Memory, Truth, Comforter, Someone, Until
+**Co-occurrences**: Sophia, Anamnesis, Saint Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Plato, Greek, Well, Parousia, Since, Therefore, John
 
 ---
 ### Line 1798-1806 (Match: 'Fish')
@@ -274,7 +274,7 @@ Last edit over 5 years ago by Harpax
 128
 Needs Review
 ```
-**Co-occurrences**: Christian, Spirit, Holy, Christianity, Holy Spirit, Form, Sophia, Plato, Greek, Parousia, Golden, These, Perhaps, Like, World, Parmenides, Therefore, Golden Fish, Only, Time, Harpax, After, Paraclete, Faith, Light, Anyhow, Something, Reality, Being, Although, Everything, Aristotle, Great, Anamnesis, Without, Part, Their, More, Through, Soul, Living, Such, Certainly, Before, Will, Mission, Have, Things, Life, Memory, Neither, Form One, Having, Remember, Knowledge, Comforter, Doesn, Right, Until
+**Co-occurrences**: Sophia, Time, Anamnesis, Christian, Spirit, Holy, Christianity, Holy Spirit, Form, Plato, Greek, Parousia, Golden, These, Perhaps, Like, World, Parmenides, Therefore, Golden Fish, Only
 
 ---
 ### Line 1855-1863 (Match: 'Fish')
@@ -291,7 +291,7 @@ Last edit over 5 years ago by Harpax
 134
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Holy, Jesus, Well, Roman, Dionysos, Maybe, World, Because, Therefore, Only, Time, Harpax, After, Could, Anyhow, Once, Again, Zagreus, Jesus Christ, Himself, Either, Gods, Still, Part, Their, More, Through, Most, Such, Actually, Death, Will, Other, Were, Very, Back, Under, Campbell, Have, Life, Days, Likewise, Joseph, Blood, Dead, Today, During, Doesn, Free, Joseph Campbell
+**Co-occurrences**: Time, Christ, Christian, Holy, Jesus, Well, Roman, Dionysos, Maybe, World, Because, Therefore, Only
 
 ---
 ### Line 1882-1890 (Match: 'Fish')
@@ -307,7 +307,7 @@ The strangest idea, though, of all that comes to me is to envision a group of fo
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Sophia, Greek, These, Perhaps, Maybe, World, Because, John, Time, Harpax, After, Buddha, Good, Even, Just, Being, Fate, Palm, Santa, Those, Part, Egypt, Pike, Real, Such, Actually, Before, Consider, Jim Pike, True, Santa Sophia, Universe, Finally, Would, Other, Angel, Were, Back, Beyond, Under, Have, Except, During, Human, Dream, Evidently, Right
+**Co-occurrences**: Sophia, Time, Santa Sophia, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Greek, These, Perhaps, Maybe, World, Because, John
 
 ---
 ### Line 1933-1941 (Match: 'Fish')
@@ -324,7 +324,7 @@ Last edit over 5 years ago by Harpax
 142
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Logos, Xerox, Rome, Christianity, Sophia, Kingdom, Well, Parousia, Wisdom, Perhaps, Like, Since, Gnosis, Only, Time, Earth, Harpax, Savior, Book, Even, Does, Pinky, Look, Being, Although, Himself, Daniel, More, Another, Most, Heaven, Real, Such, Actually, Love, Revelation, Consider, Death, Finally, Would, Other, Mission, Were, Have, Life, Justice, Spring, Freedom, Instead, Having, God Himself, Truth, Greater, Lamb, Until
+**Co-occurrences**: Sophia, Time, Christ, Christian, Spirit, Logos, Xerox, Rome, Christianity, Kingdom, Well, Parousia, Wisdom, Perhaps, Like, Since, Gnosis, Only, Earth
 
 ---
 ### Line 1941-1949 (Match: 'Fish')
@@ -341,6 +341,6 @@ Last edit over 5 years ago by Harpax
 143
 Needs Review
 ```
-**Co-occurrences**: Tears, Christian, Rome, Form, Greek, Bible, Perhaps, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Again, Reality, Being, Everything, Platonic, Viewed, Anamnesis, Nothing, Still, Dokos, Their, Another, Living, Real, True, Finally, Will, Would, Other, Mission, Somehow, Were, Very, Attic, Surely, Have, Spring, Likewise, Knowledge, Suddenly, Greater, Right
+**Co-occurrences**: Time, Anamnesis, Linear, Tears, Christian, Rome, Form, Greek, Bible, Perhaps, Like, World, Only
 
 ---

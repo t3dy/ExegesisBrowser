@@ -20,7 +20,7 @@ Maybe not. Maybe this is the counter time needed to create parity. I guess I sai
 
 I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Form, Kingdom, Parousia, Maybe, Iron, Time, Savior, Just, March, Platonic, Great, Still, Their, Heaven, Would, Other, Back, Whatever, Under, Have, Things, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Time, Linear, Ubik, Spirit, Holy, Form, Kingdom, Parousia, Maybe, Iron
 
 ---
 ### Line 84-92 (Match: 'Holy Spirit')
@@ -37,7 +37,7 @@ I think that in 1974 my entelechy was completed, but I never heard of anyone hav
 
 Last edit over 5 years ago by FolkDevil
 ```
-**Co-occurrences**: Spirit, Holy, Well, Father, Maybe, Like, Since, Because, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+**Co-occurrences**: Time, Philip, Phil, Spirit, Holy, Well, Father, Maybe, Like, Since, Because, Therefore, Only
 
 ---
 ### Line 91-99 (Match: 'Holy Spirit')
@@ -53,7 +53,7 @@ I do not see where I am changed, but I was spared the Wrath and I was of use (ag
 
 Hey, I figured out (you laughed) Nixon is the best – beast.
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Complete, Kingdom, Well, Maybe, Like, World, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Time, Tears, Spirit, Holy, Complete, Kingdom, Well, Maybe, Like, World, Nixon
 
 ---
 ### Line 758-766 (Match: 'Holy Spirit')
@@ -70,7 +70,7 @@ Last edit over 5 years ago by Harpax
 48
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Form, Maybe, James, Because, Only, Time, Harpax, Good, Light, Anyhow, Again, Both, Although, Either, Great, Christos, Tessa, Darkness, Creator, Kathy, More, Another, Through, Real, Certainly, Universe, Would, Other, Creation, Were, Surely, Under, Many, Life, Dream
+**Co-occurrences**: Time, Linear, Spirit, Holy, Logos, Form, Maybe, James, Because, Only
 
 ---
 ### Line 788-796 (Match: 'Holy Spirit')
@@ -87,7 +87,7 @@ Note: "The scouts" who enter the big building where we all live -- this may not 
 
 My original dreams back in 3 and 4 1975 indictated ETI more than anything else (the cyclops and sibyl dreams). Yet, they could have represented Earth's distant past.
 ```
-**Co-occurrences**: Spirit, Holy, Parousia, Only, Time, Earth, Harpax, After, Savior, Could, March, Sibyl, More, Another, Star, Will, Back, Have, Doesn
+**Co-occurrences**: Time, Spirit, Holy, Parousia, Only, Earth
 
 ---
 ### Line 1004-1012 (Match: 'Holy Spirit')
@@ -104,7 +104,7 @@ Last edit over 5 years ago by Harpax
 68
 Needs Review
 ```
-**Co-occurrences**: Acts, Spirit, Holy, Christianity, However, Father, Like, Since, Because, Only, Earth, Harpax, After, Mind, Light, Gospel, Firebright, Does, Anyhow, Again, Both, Being, Himself, Probably, Grace, Brain, Part, Their, More, Actually, Certainly, Before, Mother, True, Would, Other, Were, Many, Things, Absolute, Body, God Himself, Today, Doesn, Final
+**Co-occurrences**: Firebright, Decoded, Acts, Spirit, Holy, Christianity, However, Father, Like, Since, Because, Only, Earth
 
 ---
 ### Line 1020-1028 (Match: 'Holy Spirit')
@@ -121,7 +121,7 @@ However, against this is set my experience of anamnesis, the neoplatonistic reco
 
 In reconciling this with Christianity, I was restored. To the former state I had lost (the myth of Adam, the Fall). In the Parousia, there is the Restoration of all things, specifically, man is restored to his intended, divine state. The Second Birth (born again or saved, found after having been lost)
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Christianity, Form, Parousia, However, Elijah, Father, Like, Fall, Harpax, After, Adam, Again, Divine, Anamnesis, Certainly, Things, Memory, Having, Mary
+**Co-occurrences**: Anamnesis, Spirit, Holy, Logos, Christianity, Form, Parousia, However, Elijah, Father, Like, Fall
 
 ---
 ### Line 1059-1067 (Match: 'Holy Spirit')
@@ -138,7 +138,7 @@ Last edit over 5 years ago by Harpax
 73
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Form, Father, Like, World, Time, Harpax, Cosmic, Even, Gospel, Yang, Firebright, Does, Just, Something, Again, Reality, Zagreus, Being, Jesus Christ, Great, Those, Still, More, Zeus, Most, Upon, Certainly, Love, Before, Doris, True, Death, Universe, Deity, Would, Were, Very, Back, Whatever, Have, Things, Life, Justice, Spring, Fake, Information, Freedom, Days, Sturgeon, Knowledge, Truth, Today, Human, Dream, Crete, Right, Mary
+**Co-occurrences**: Time, Firebright, Information, Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Form, Father, Like, World
 
 ---
 ### Line 1065-1073 (Match: 'Holy Spirit')
@@ -155,7 +155,7 @@ This makes of the Trinity a great biological organism in its several stages or p
 
 I guess you could say, the total family is, God (JHWH), his impregnating self which comes to man (the Holy Spirit, sent by God) (as Christ said), and if Christ is the Son, the issue, it's pretty obvious that we humans are the mother; we're all Mary right now, until we receive an inner, Light-body transformation, into what they call Christ Consciousness. Our completion/perfection is not here on this Earth, but after our physical body perishes ("If a grain of wheat remain solitary, not sown then it --" etc. Well, [i] guess [i] got it. Albemuth: the star of Bethlehem, which I kept gazing up, seeking. Point of His (HS) origin?
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Form, Well, Bible, Maze, Father, Earth, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Certainly, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+**Co-occurrences**: Decoded, Christ, Spirit, Holy, Form, Well, Bible, Maze, Father, Earth
 
 ---
 ### Line 1069-1077 (Match: 'Holy Spirit')
@@ -172,7 +172,7 @@ Last edit over 5 years ago by Harpax
 74
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Form, Well, Bible, Maze, Father, Earth, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Certainly, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+**Co-occurrences**: Decoded, Christ, Spirit, Holy, Form, Well, Bible, Maze, Father, Earth
 
 ---
 ### Line 1079-1087 (Match: 'Holy Spirit')
@@ -189,7 +189,7 @@ Perhaps, when the Moment of Restoration comes (which could work equally for all 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Greek, Bible, Perhaps, Advent, Father, Maybe, Like, Since, Only, Time, Harpax, After, Savior, Light, Even, Firebright, Could, Does, Just, Once, Again, Both, Reality, Jesus Christ, Although, Apollo, Probably, Sibyl, Part, Their, More, Zeus, Another, Through, Upon, Fullerton, Certainly, Mother, True, Death, Will, Christopher, Would, Attic, Back, Under, Have, Absolute, Body, Except, Human, Right, Mary
+**Co-occurrences**: Time, Firebright, Christ, Christian, Ubik, Spirit, Holy, Jesus, Rome, Christianity, Greek, Bible, Perhaps, Advent, Father, Maybe, Like, Since, Only
 
 ---
 ### Line 1091-1099 (Match: 'Holy Spirit')
@@ -206,7 +206,7 @@ Last edit over 5 years ago by Harpax
 
 76
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Form, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1096-1104 (Match: 'Holy Spirit')
@@ -222,7 +222,7 @@ Of course, their old actual bodies didn't reappear. My experience is that of how
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Form, Paul, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Spirit, Holy, Logos, Jesus, Form, Paul, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall
 
 ---
 ### Line 1138-1146 (Match: 'Holy Spirit')
@@ -239,7 +239,7 @@ But I am still in touch with him. He is, however, now in this world. I guess aga
 
 The transmission of the Light Creatures was somehow inturrupted (by accident, be martyrdom, design, etc.) around 100 AD, or maybe even earlier (Jesus being the last one), so that a two thousand year breach had to be leaped to restored the Light Creatures to our world once more. This is what the New Testament is talking about, and Orphism. They are in need of us to transmit themselves, and all of us who "contained" any of them were (by the Romans!!) destroyed...hence my fear, my dreadul urgency and secrecy esp re Chrissy. Nobody else was left who knew how to receive (and harbor & shelter & incubate, whatever) a Light Creature.
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Form, Sophia, King, Roman, However, Elijah, Father, Maybe, Like, World, Only, Time, After, Light, Even, Firebright, Okay, Look, Once, Again, Both, Zagreus, Being, March, Runciter, Santa, Chrissy, Those, Still, More, Another, Through, Orphism, Actually, Santa Sophia, Will, Calvin, Would, Somehow, Kingship, Were, Back, Whatever, Life, Justice, Spring, Wise, Testament, Passover, Truth, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Form, King, Roman, However, Elijah, Father, Maybe, Like, World, Only
 
 ---
 ### Line 1272-1280 (Match: 'Holy Spirit')
@@ -256,7 +256,7 @@ I am lying in bed here and I am musing, "God can simulated the inanimate. Or rat
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Acts, Spirit, Holy, King, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison, Time, Harpax, Good, Mind, Even, Gospel, Does, Just, Look, Reality, Being, Obviously, Everything, Himself, Either, Great, Bacchae, Part, Actually, Finally, Would, Hamlet, Creation, Were, Erasmus, Very, Under, Have, Body, Pentheus, Evil, Eastern, Blood, Truth, Suddenly, During, Evidently, Pilate
+**Co-occurrences**: Time, Acts, Spirit, Holy, King, Paul, Greek, Well, Golden, Dionysos, Lord, Maybe, Like, World, Because, Prison
 
 ---
 ### Line 1303-1311 (Match: 'Holy Spirit')
@@ -272,7 +272,7 @@ The factor or act or reality of "possesstion" is the factor, act, moment or even
 
 Gosh, what if Christ transubstantiated the whole world? Or entered into union with everyone? Or both? This will fulfill: "The Kingdom of God is within you/among you, but you can't exactly see it; it has arrived within you/among you mysteriously..." There is already made clear as Church dogma a direct connection between the Kingdom (one being able to enter it, and also perhaps its arrival) and transubstantiation, if one were to think about it (the mustard seed). (The leaven in the bread.) To each of us, "inner-outer" may seem real distinctions, but to God it's all monism.
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Kingdom, Well, Perhaps, Maybe, World, Time, After, Good, Even, Could, Something, Kingdom of God, Both, Reality, Being, Although, Himself, Great, Probably, Tessa, More, Church, Another, Real, Before, Will, Other, Were, Many, Further, Have, Things, Neither, Days, Unless, During
+**Co-occurrences**: Time, Christ, Spirit, Holy, Kingdom, Well, Perhaps, Maybe, World
 
 ---
 ### Line 1394-1402 (Match: 'Holy Spirit')
@@ -289,7 +289,7 @@ It is not "possession," then, but waking from the game and the playing of the ga
 
 The arrival of the Xerox made me aware that the game existed, made me conscious of the game, that "reality" was/is a game, between vast forces mostly obscured. I saw the world qua game, and was then liberated from seeing it any other way (i.e. I saw it correctly, for what it actually is). I understood the mechanism of what I saw and was involved in, the transcendent aspect (sub specia aeternitatis). To see is to be released, although one must still act (i.e. make ones move, although now consciously making a move in a game, to defeat an invisible counterplayer) I distinguished the paradigm; it wasn't so much that God came to me but that the blinders ceased to blind. Probably at no other time had I ever been so solidly locked into the game and move against; seeing it coming, I began to disinhibit (the phosphene activity) to prepare only because I could properly discern it as such, and make use of it. It attempted to camo[l]flage itself, but failed to do so; it didn't blend. Thus I became aware of it as piece in pattern, hence of whole pattern,
 ```
-**Co-occurrences**: Spirit, Holy, Xerox, Well, Perhaps, Father, Maybe, Like, World, Because, Only, Time, Faith, Could, Reality, Being, Although, Everything, Zoroastrian, Probably, Viewed, Nothing, Darkness, Still, More, Most, Real, Such, Actually, Before, Universe, Other, Days
+**Co-occurrences**: Time, Spirit, Holy, Xerox, Well, Perhaps, Father, Maybe, Like, World, Because, Only
 
 ---
 ### Line 1473-1481 (Match: 'Holy Spirit')
@@ -306,7 +306,7 @@ Logos as the dialectic, and as The Secret Partnership.
 
 Logos as the two men working a two-man saw: [i]scillation back and forth -- palintropos harmonie.
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Time, Harpax, Does, Again, Either, Creator, Secret, Will, Would, Back, Dialectic
+**Co-occurrences**: Time, Dialectic, Spirit, Holy, Logos
 
 ---
 ### Line 1479-1487 (Match: 'Holy Spirit')
@@ -323,7 +323,7 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 . . . I had an initial complex insight today that it is just as easy to think of the future pushing the present into the past as to think of the past generating the present and moving toward the future;
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron, John, Time, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Phil, Gold, Such, Voice, Secret, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Dialectic, Truth, Today, Evidently
+**Co-occurrences**: Time, Anamnesis, Phil, Dialectic, Christ, Spirit, Holy, Logos, Jesus, Rome, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron, John
 
 ---
 ### Line 1557-1565 (Match: 'Holy Spirit')
@@ -339,6 +339,6 @@ Yet this still seems strange to me; if God through a demiurge can do this, why d
 
 There is one more possibility...perhaps for instance the records of the 17th century Reformers contain accounts, but these are dismissed, even suppressed, by a totally secular age, now. As Ursula dismissed my account. There transfigurations happen but are denied by the world!
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Well, However, Wisdom, These, Perhaps, Elijah, Maybe, World, Since, Because, Only, Harpax, Mind, Book, Even, Could, Anyhow, Just, Something, Look, Being, Himself, Either, Without, Still, More, Another, Through, Most, Heaven, Such, Greece, Will, Other, Mission, Somehow, Were, Attic, Back, Under, Many, Have, Life, Neither, Evil, Socrates, Having, Reformers, Human, Doesn, Until
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Well, However, Wisdom, These, Perhaps, Elijah, Maybe, World, Since, Because, Only
 
 ---

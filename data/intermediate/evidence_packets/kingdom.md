@@ -20,7 +20,7 @@ I saw the Final Things (eschatology). There, all forms including us, including m
 
 I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Parousia, Maybe, Iron, Time, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Time, Linear, Ubik, Spirit, Holy, Holy Spirit, Form, Parousia, Maybe, Iron
 
 ---
 ### Line 12-20 (Match: 'Kingdom')
@@ -37,7 +37,7 @@ I never noticed this parallel:
 
 What Joe Chip saw: What I saw: FORM REVERSION ROME AGAIN (time reversion)
 ```
-**Co-occurrences**: Rome, Form, Parousia, Maybe, Iron, Time, Savior, Could, Again, March, Great, Their, Through, Heaven, True, Finally, Would, Other, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Time, Linear, Rome, Form, Parousia, Maybe, Iron
 
 ---
 ### Line 26-34 (Match: 'Kingdom')
@@ -54,7 +54,7 @@ It has happened, the Prince of this World fell.
 
 This all has been an unfolding process. A revealing or disclosing of Being.
 ```
-**Co-occurrences**: Christ, Ubik, Indexed, Jesus, Rome, Form, Parousia, These, Like, World, Only, Time, Nixon, Even, Being, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Indexed, Jesus, Rome, Form, Parousia, These, Like, World, Only, Nixon
 
 ---
 ### Line 54-62 (Match: 'Kingdom')
@@ -71,7 +71,7 @@ I forgot; only after that did I see anything else (e.g. Dionysos). My experience
 
 (N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.
 ```
-**Co-occurrences**: Rome, Well, Dionysos, These, Like, Because, Iron, Only, Time, After, Just, Again, Kingdom of God, March, Great, House, Without, Tessa, Before, Kingship, Were, Have, Tree, Dead
+**Co-occurrences**: Time, Rome, Well, Dionysos, These, Like, Because, Iron, Only
 
 ---
 ### Line 93-101 (Match: 'Kingdom')
@@ -87,7 +87,7 @@ Hey, I figured out (you laughed) Nixon is the best – beast.
 
 IX From nIXon That’s Latin for 9 IC from dICk That’s Latin for 99
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Well, Maybe, Like, World, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Dick, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Time, Tears, Spirit, Holy, Complete, Holy Spirit, Well, Maybe, Like, World, Nixon
 
 ---
 ### Line 337-345 (Match: 'Kingdom')
@@ -104,7 +104,7 @@ Zagreus-Christos stressed that we had to die first before we could be reborn-dif
 
 Last edit over 5 years ago by Siegman
 ```
-**Co-occurrences**: These, Like, Fall, Even, Could, Look, Maya, Zagreus, Christos, Anamnesis, Those, Their, Wait, Star, Real, Voice, Before, Will, Would, Kingship, Things, Life, Body, Spring, Suddenly, During, Answer, Until
+**Co-occurrences**: Anamnesis, These, Like, Fall
 
 ---
 ### Line 624-632 (Match: 'Kingdom')
@@ -121,7 +121,7 @@ I am going to state a truly extraordinary premise: that long ago, when Earth fel
 
 This is Absolute negantropic compression, the restoration of lost or waste (heat). Time (energy) is Form One. Space (empty, hollow, Yin, cold) is Form Two (but these are expressions of a Sameness; v. Parmenides.
 ```
-**Co-occurrences**: Complete, Form, Well, These, Parmenides, Time, Earth, After, Just, Self, Himself, Anamnesis, Part, Dokos, More, Would, Other, Back, Life, Absolute, Justice, Form One, Later, Having, Truth, Magic
+**Co-occurrences**: Time, Anamnesis, Complete, Form, Well, These, Parmenides, Earth
 
 ---
 ### Line 736-744 (Match: 'Kingdom')
@@ -137,7 +137,7 @@ Dr. NK: "Time enters material systems." Maybe our dreams are time, as energy whi
 
 We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one of the RUs, one of the sources. This is very strange (paradigm is FLOW MY TEARS, in which 3 separate superimposed but somewhat different universes are lived in between first and final page of pt 1 to 3. How is this overlap achieved? How does one exit from one and into another? Who manages all this? Why?
 ```
-**Co-occurrences**: Christ, Tears, Complete, Form, Paul, Lord, Maybe, Only, Time, Harpax, Light, Does, Christos, Those, Still, Another, Universe, Will, Would, Page, Kingship, Very, Back, Info, Whether, Evidently, Whereas, Final
+**Co-occurrences**: Time, Christ, Tears, Complete, Form, Paul, Lord, Maybe, Only
 
 ---
 ### Line 823-831 (Match: 'Kingdom')
@@ -154,7 +154,7 @@ The whole experience seems to take about one full cycle of the earth: one year, 
 
 This whole last year contained a lot of pain and shock and loss for me (I was hospitalized twice, my son once, I lost two cats in very sad ways, and had to get rid of my little dog, and was burned on my first screen play), but it was the best year of my life, because somehow within the illness and loss and pain I gained an inner reality to match the external reality. There is no point in merely establishing an external new real kingdom or kingsom. God must reign in the human heart and body as well. It is the ultimate growth: to turn into a portion of God ("that I might live in Him / Invisible and dim") and continue on, knowing that He is both inside and outside. I can say that although I have not seen God, I saw signs of Him, indubitable signs. And knew Him to be growing within me, as the new life Firebright, from the Sun...the Aton, I guess, which Iknaton spoke of, that good tender trembling frail brave man.
 ```
-**Co-occurrences**: Well, Elijah, Since, Because, Earth, Harpax, Savior, Good, Even, Firebright, Pinky, Once, Both, Reality, Although, Great, Anamnesis, Without, Their, Heaven, Real, Actually, True, Messenger, Death, Somehow, Kingship, Very, Beyond, Have, Judgment, Life, Body, Spring, Having, Human, Lamb
+**Co-occurrences**: Firebright, Anamnesis, Well, Elijah, Since, Because, Earth
 
 ---
 ### Line 827-835 (Match: 'Kingdom')
@@ -171,7 +171,7 @@ The criticism that Elijah's coming first and shaping certain folk up so they'd b
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Well, Elijah, Since, Because, Time, Earth, Harpax, Savior, Good, Even, Firebright, Could, Pinky, Once, Both, Reality, Although, Great, Anamnesis, Without, Their, Heaven, Real, Actually, Certainly, Before, True, Messenger, Death, Would, Somehow, Kingship, Judge, Were, Very, Beyond, Many, Have, Judgment, Life, Body, Spring, Having, Human, Lamb
+**Co-occurrences**: Time, Firebright, Anamnesis, Well, Elijah, Since, Because, Earth
 
 ---
 ### Line 983-991 (Match: 'Kingdom')
@@ -188,7 +188,7 @@ I awoke abruptly to find myself with my Savior, and then entered Fellowship with
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Holy, Rome, Form, Sophia, Greek, However, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+**Co-occurrences**: Sophia, Time, Firebright, Anamnesis, Christ, Ubik, Holy, Rome, Form, Greek, However, Maze, Father, Like, Because, Only
 
 ---
 ### Line 1091-1099 (Match: 'Kingdom')
@@ -205,7 +205,7 @@ Last edit over 5 years ago by Harpax
 
 76
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1246-1254 (Match: 'Kingdom')
@@ -222,7 +222,7 @@ For palintropos h. to exist, time must exist (since it is in oscillation or sequ
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Logos, Form, Well, Spinoza, Maybe, World, Since, Only, Time, Harpax, Cosmic, Mind, Yang, Hebrew, Great, Gods, Viewed, Creator, Their, Another, Through, Egypt, Real, Voice, Certainly, Secret, Before, Death, Will, Would, Creation, Were, Very, Beyond, Under, Campbell, Things, Life, Body, India, Except, Joseph, Dialectic, West, Whereas, Joseph Campbell
+**Co-occurrences**: Time, Dialectic, Logos, Form, Well, Spinoza, Maybe, World, Since, Only
 
 ---
 ### Line 1307-1315 (Match: 'Kingdom')
@@ -239,7 +239,7 @@ My experience at the time (3 74) seemed to be of the Logos, and this would indic
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Holy Spirit, Perhaps, World, John, Time, Harpax, After, Could, Kingdom of God, Both, Reality, Being, Tessa, Church, Real, Before, Will, Would, Other, Were, Back, Have, Neither, Unless, During, Right
+**Co-occurrences**: Time, Christ, Spirit, Holy, Logos, Jesus, Holy Spirit, Perhaps, World, John
 
 ---
 ### Line 1315-1323 (Match: 'Kingdom')
@@ -256,7 +256,7 @@ That was as supernatural as anything -- evil. But it signalled the ushering-in o
 
 I keep forgetting the dream of the king on horseback in TEARS; all the Pauline material in TEARS, which was published just as this hit me, these sequences of Parousia experiences! I forever think of my "toiling in the vinyard of the Lord" as starting with my letters of 3 & 4 74; but TEARS! What about TEARS? Was that not that I most of all did, and somehow knew it all the time? As important as the letters may have been (or may not), the book certainly was/is.
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Rome, King, Satan, Parousia, Lord, These, Advent, Elijah, Maybe, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Just, Once, Again, Reality, Being, Himself, Essene, More, Through, Most, Certainly, Death, Macro, Will, Would, Other, Mission, Somehow, Judge, Were, Very, Back, Have, Judgment, Testament, Evil, Pauline, Human, Sons, Dream, Lamb
+**Co-occurrences**: Time, Christ, Tears, Spirit, Rome, King, Satan, Parousia, Lord, These, Advent, Elijah, Maybe, Like, World, Only
 
 ---
 ### Line 1325-1333 (Match: 'Kingdom')
@@ -273,7 +273,7 @@ In rereading the Brit 3 article on "Jesus Christ" I'm reminded that although the
 
 When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life, I get a single impression, one story underlying all, but not that visible until all 3 are compared. It is the story of a kingdom where reg[n]icide took place; the throne is occupied by a ursurper; now the rightful heir has returned (the stranger, Hamlet, Jesus), and holds no power, but speaks in strange riddle. The brutal ursurpacious ruler has him imprisoned and possibly killed; nonetheless the young stranger
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+**Co-occurrences**: Time, Christ, Logos, Jesus, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John
 
 ---
 ### Line 1329-1337 (Match: 'Kingdom')
@@ -290,7 +290,7 @@ Last edit over 5 years ago by Harpax
 94
 Needs Review
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+**Co-occurrences**: Time, Christ, Logos, Jesus, Felix, Satan, Parousia, Perhaps, Advent, Father, Maybe, Since, Only, John
 
 ---
 ### Line 1335-1343 (Match: 'Kingdom')
@@ -307,7 +307,7 @@ In reading Helen Wadell's THE DESERT FATHERS -- from her definition it is sure t
 
 I have experienced what Jesus predicted: the change from one aeon to the next; and the next is rightful kingship, an improvement, a lifting of thrall by a[n] ursurper, somehow connected with C[h]ronos, Father Time (maybe the game of dr[o]ughts is ending; vide Heraclitus: the old child God, Chronos, playing a game of draughts in defined --regulated-- moves. That is the aeon which is ending; I saw that game, too, the player and counterplayer. This fulfills what Zoroaster foresaw: the end of the two-Person game, finally, in a victory of justice, truth, regulation, for ma'at; for Form One; for Light. This is the period Jesus, Paul and John compared to birthpangs, a laboring of bring forth; the whole universe and each sorrowing man being in such labor and pain...but if he could see the issue ahead! The Christian is he thinks of this world now, with its ursurpacious rule, feels bad; if he thinks of the rightful kingdom coming, he feels good -- thinks I mean of the future. But I say, this future is materializing, rising up as if a second new archetypal aeon "slide" were being projected: springtime. We can thus being to sense it lift now and rejoice now.
 ```
-**Co-occurrences**: Tears, Christian, Jesus, Form, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John, Time, Harpax, Good, Light, Could, Again, Heraclitus, Being, Divine, Himself, Zoroaster, Those, Their, Most, Such, Secret, True, Universe, Finally, Will, Other, Somehow, Kingship, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+**Co-occurrences**: Time, Tears, Christian, Jesus, Form, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John
 
 ---
 ### Line 1339-1347 (Match: 'Kingdom')
@@ -324,7 +324,7 @@ I have experienced what Jesus predicted: the change from one aeon to the next; a
 
 Another thing I saw, which I must not forget, is that I saw that I had been seeing the universe backward, esp. in time; which I finally decided meant that I was seeing "the reflection, as in the bottom of a polished metal pan," but had begun to see the Real Universe, which of course is reversed from the mere cave image. Thus, the picture is of winter; the slide itself the reverse: springtime (vide the trigram wheel of opposites). In Dante's schema: if it is winter here, it is springtime there in the Real World.
 ```
-**Co-occurrences**: Tears, Christian, Jesus, Form, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John, Time, Good, Light, Could, Again, Heraclitus, Being, Dante, Divine, Himself, Zoroaster, Those, Their, Another, Most, Real, Such, Secret, True, Universe, Finally, Will, Other, Somehow, Kingship, Were, Very, Have, Justice, Wise, Form One, Days, Truth, During, Dream, Free, Right
+**Co-occurrences**: Time, Tears, Christian, Jesus, Form, King, Paul, Perhaps, Father, Maybe, Like, World, Fall, Because, John
 
 ---
 ### Line 1418-1426 (Match: 'Kingdom')
@@ -341,6 +341,6 @@ Last edit over 5 years ago by jbpjackson
 100
 Needs Review
 ```
-**Co-occurrences**: Christ, Jesus, Form, Gnostic, King, Well, Dionysos, Maybe, Like, World, Only, Time, Good, Mind, Book, Even, Just, Something, Again, Both, Being, Obviously, Platonic, Bacchae, Apollo, Gods, Creator, Those, Still, Their, Real, Finally, Would, Somehow, Were, Very, Back, Many, Have, Life, Otherwise, Dream, Evidently, Right, Someone, Answer, Until
+**Co-occurrences**: Gnostic, Time, Christ, Jesus, Form, King, Well, Dionysos, Maybe, Like, World, Only
 
 ---

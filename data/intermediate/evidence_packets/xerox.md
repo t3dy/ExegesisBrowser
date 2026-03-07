@@ -20,7 +20,7 @@ I've briefly glanced over this paper of his, and I am sure that in March 1974 he
 
 If this is so, then we must consider that for a moment Dr. Kozyrev [libereted] us from the tyranny which time exerts over us (experienced by us an unending causality). I am more convinced that ever that behind my own experiences in March 1974 lay this man's work near [lei] - aw fuck it. Near Leningrad.
 ```
-**Co-occurrences**: Rome, Perhaps, Only, Time, Even, March, More, Consider, Universe, Back, Journey, Claudia, Information, Knowledge
+**Co-occurrences**: Time, Information, Rome, Perhaps, Only
 
 ---
 ### Line 872-880 (Match: 'Xerox')
@@ -37,7 +37,7 @@ This is an example of a process which I saw in 3 74 as a major process in the un
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Complete, Form, These, Maybe, Because, Therefore, Only, Time, Harpax, After, Mind, Even, Gestalt, Could, Anyhow, Suppose, Reality, Being, Although, Himself, Their, More, Most, Real, Holt, Such, True, Olive, Olive Holt, Universe, Finally, Will, Would, Other, Creation, Were, Very, Things, Life, Memory, Later, God Himself, Dream, Final, Someone, Until
+**Co-occurrences**: Time, Linear, Complete, Form, These, Maybe, Because, Therefore, Only
 
 ---
 ### Line 1394-1402 (Match: 'Xerox')
@@ -54,7 +54,7 @@ It is not "possession," then, but waking from the game and the playing of the ga
 
 The arrival of the Xerox made me aware that the game existed, made me conscious of the game, that "reality" was/is a game, between vast forces mostly obscured. I saw the world qua game, and was then liberated from seeing it any other way (i.e. I saw it correctly, for what it actually is). I understood the mechanism of what I saw and was involved in, the transcendent aspect (sub specia aeternitatis). To see is to be released, although one must still act (i.e. make ones move, although now consciously making a move in a game, to defeat an invisible counterplayer) I distinguished the paradigm; it wasn't so much that God came to me but that the blinders ceased to blind. Probably at no other time had I ever been so solidly locked into the game and move against; seeing it coming, I began to disinhibit (the phosphene activity) to prepare only because I could properly discern it as such, and make use of it. It attempted to camo[l]flage itself, but failed to do so; it didn't blend. Thus I became aware of it as piece in pattern, hence of whole pattern,
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Perhaps, Father, Maybe, Like, World, Because, Only, Time, Faith, Could, Reality, Being, Although, Everything, Zoroastrian, Probably, Viewed, Nothing, Darkness, Still, More, Most, Real, Such, Actually, Before, Universe, Other, Days
+**Co-occurrences**: Time, Spirit, Holy, Holy Spirit, Well, Perhaps, Father, Maybe, Like, World, Because, Only
 
 ---
 ### Line 1398-1406 (Match: 'Xerox')
@@ -71,7 +71,7 @@ Last edit over 5 years ago by Harpax
 98
 Needs Review
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Well, Father, World, Because, Only, Time, Harpax, Faith, Could, Reality, Although, Everything, Zoroastrian, Probably, Darkness, Still, Such, Actually, Before, Other
+**Co-occurrences**: Time, Spirit, Holy, Holy Spirit, Well, Father, World, Because, Only
 
 ---
 ### Line 1408-1416 (Match: 'Xerox')
@@ -88,7 +88,7 @@ Last edit over 5 years ago by Harpax
 99
 Needs Review
 ```
-**Co-occurrences**: Tears, Christian, Logos, Rome, Sophia, King, Well, Parousia, Like, World, Since, Because, Nixon, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Secret, Before, True, Santa Sophia, Finally, Will, Somehow, Back, Have, Tree, Things, Justice, Freedom, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+**Co-occurrences**: Sophia, Santa Sophia, Tears, Christian, Logos, Rome, King, Well, Parousia, Like, World, Since, Because, Nixon
 
 ---
 ### Line 1552-1560 (Match: 'Xerox')
@@ -105,7 +105,7 @@ Last edit over 5 years ago by Harpax
 
 111
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Satan, However, Lord, Like, World, Parmenides, Because, Therefore, Nixon, Harpax, After, Faith, Good, Even, Could, Just, Once, Both, Reality, Zagreus, Without, Creator, Another, Most, Living, Real, Certainly, Before, Easter, Friday, Creation, Were, Under, Many, Have, Evil, Knowledge, Magic, Whereas, Right, Grail
+**Co-occurrences**: Christ, Tears, Spirit, Logos, Complete, Satan, However, Lord, Like, World, Parmenides, Because, Therefore, Nixon
 
 ---
 ### Line 1924-1932 (Match: 'Xerox')
@@ -122,7 +122,7 @@ Last edit over 5 years ago by Harpax
 
 141
 ```
-**Co-occurrences**: Christ, Tears, Holy, Jesus, King, Well, Wisdom, These, Maybe, World, Because, Therefore, Time, Harpax, After, Good, Could, Does, Just, Again, Being, Obviously, Although, Everything, Himself, Either, Still, Wait, More, Another, Through, Ground, Real, Such, Voice, Before, Will, Would, Judge, Very, Back, Under, Have, Life, Spring, Wise, Trinity, God Himself, Greater, Otherwise, Dream, Whereas, Doesn, Someone, Answer, Until, White
+**Co-occurrences**: Time, Christ, Tears, Holy, Jesus, King, Well, Wisdom, These, Maybe, World, Because, Therefore
 
 ---
 ### Line 1929-1937 (Match: 'Xerox')
@@ -138,7 +138,7 @@ In that case, the gnosis or sophia aspect would predominate; I can see all three
 
 . . . About the only useful test of a vision ever established is, How does it conform (essentially to other visions by other people)? Now having read the "Apostasy" Mission book I now know to the exact extent possible how well my Rome vision conforms to the eschatological view of non-establishment Christianity; it is exact in every detail, and so fits a lesser but real view of other people. (It is not the majority view.) I guess there are few questions left for me to ask. This is the view of the "Kingdom on Earth," not heaven, people, who look forward to the Parousia, as I've been doing. Since I am even more certain now as to the authenticity and authentic source of my vision (which also includes the vision of spring following Rome) then I conclude that the "Parousia people," not the establishment people, are correct, and that as the Mission says, the veil is being removed from the Book now, so that we can readily grasp, via the power of the Spirit, the "fantasy" of Daniel and of Revelation. We have suffered 1500 years of tyranny; but if God is with us, who can stand against us? Die Himmel erzahlen...the glory of God. Like the year of the signing of the Magna Carta, 1974 was a date in the history of man's return to truth, justice and freedom. I did not understand that the throwing down of the remains of Rome is our prime task, inseparable from being an authentic (fish) Christian; this is our task, here, aided by the Spirit, as I saw. It is not a side-
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Logos, Rome, Christianity, Sophia, Kingdom, Fish, Well, Parousia, Wisdom, Perhaps, Like, Since, Gnosis, Only, Time, Earth, Harpax, Savior, Book, Even, Does, Pinky, Look, Being, Although, Himself, Daniel, More, Another, Most, Heaven, Real, Such, Actually, Love, Revelation, Consider, Death, Finally, Would, Other, Mission, Were, Have, Life, Justice, Spring, Freedom, Instead, Having, God Himself, Truth, Greater, Lamb, Until
+**Co-occurrences**: Sophia, Time, Christ, Christian, Spirit, Logos, Rome, Christianity, Kingdom, Fish, Well, Parousia, Wisdom, Perhaps, Like, Since, Gnosis, Only, Earth
 
 ---
 ### Line 1965-1973 (Match: 'Xerox')
@@ -155,7 +155,7 @@ This would explain the "Is but is not" as follows: the tangible secular evil was
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Rome, Form, Kingdom, King, Empire, Roman, World, Fall, Because, Prison, Only, Earth, Harpax, House, Sibyl, Those, Still, Their, Heaven, Real, Actually, Secret, Would, Other, Have, Evil, Government, Truth, Suddenly, Dream, Until
+**Co-occurrences**: Rome, Form, Kingdom, King, Empire, Roman, World, Fall, Because, Prison, Only, Earth
 
 ---
 ### Line 2510-2518 (Match: 'Xerox')
@@ -172,7 +172,7 @@ in human civilization ahead (first Earth Mother; then masculine Solar Deities; n
 
 . . . Hermes Trismegistos (Thrice Great Thoth). "Thoth was the repository of all wisdom." The Hermetic writings: revealed (from Thoth). Part of the pre-Christiam mystery religions; their texts.
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Sophia, King, Well, Empire, Wisdom, These, Perhaps, Advent, Father, Maybe, Like, World, Fall, Because, Time, Earth, Good, Hermetic, Just, Again, Being, Girl, Great, Gods, Sibyl, Santa, Nothing, Part, Their, More, Egypt, Living, Heaven, Certainly, Love, Before, Mother, Greece, Santa Sophia, Macro, Universe, Will, Would, Other, Creation, Judge, Very, Back, Egyptian, Surely, Whatever, Have, Judgment, Justice, Information, Trinity, Evil, Hermes, Human, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Hermetic, Santa Sophia, Information, Hermes, Saint Sophia, Christ, Christian, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, King, Well, Empire, Wisdom, These, Perhaps, Advent, Father, Maybe, Like, World, Fall, Because, Earth
 
 ---
 ### Line 2541-2549 (Match: 'Xerox')
@@ -189,7 +189,7 @@ Last edit over 5 years ago by Harpax
 193
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Sophia, Kingdom, King, Paul, Well, Parousia, Dionysos, These, Perhaps, Like, World, Because, Iron, Harpax, After, Book, Light, Even, Pinky, Anyhow, Just, Once, Kingdom of God, Zagreus, Being, March, Either, Jewish, Darkness, Still, Jews, Part, Their, Another, Through, Most, Greece, Death, Messiah, Mission, Were, Very, Back, Beyond, Under, Many, Have, Things, Judgment, Life, Body, Spring, Pentheus, Testament, Evil, Dream, Evidently, Final, Crete, Until, August
+**Co-occurrences**: Sophia, Christ, Tears, Acts, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Kingdom, King, Paul, Well, Parousia, Dionysos, These, Perhaps, Like, World, Because, Iron
 
 ---
 ### Line 2825-2833 (Match: 'Xerox')
@@ -206,7 +206,7 @@ Last edit almost 5 years ago by svayambhu108
 
 216
 ```
-**Co-occurrences**: Christ, Logos, Complete, Christianity, Like, World, Parmenides, Because, Time, Mind, Light, Reality, Heraclitus, Being, Either, Zoroastrian, Probably, Viewed, Grace, Darkness, Their, Through, Most, Actually, True, Would, Very, Back, Under, Many, Information, Instead, Days, Sons, Dream, Salvation, Evidently
+**Co-occurrences**: Time, Information, Christ, Logos, Complete, Christianity, Like, World, Parmenides, Because
 
 ---
 ### Line 2830-2838 (Match: 'Xerox')
@@ -222,7 +222,7 @@ If "VALIS" placed material (e.g. from "Acts" in TEARS, plus stuff in UBIK0 in my
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Valis, Tears, Acts, Christian, Christianity, Sophia, Fish, Golden, Fall, Because, Golden Fish, Light, Anyhow, Hebrew, Once, Being, Girl, Divine, Deus, Anamnesis, Grace, Their, More, Another, Living, Gold, Such, Before, Irae, Calvin, Would, Were, Back, Beyond, Under, Have, Instead, Remember, Deus Irae, Sons, Evidently, Right
+**Co-occurrences**: Valis, Sophia, Anamnesis, Tears, Acts, Christian, Christianity, Fish, Golden, Fall, Because, Golden Fish
 
 ---
 ### Line 2840-2848 (Match: 'Xerox')
@@ -239,7 +239,6 @@ The Money, "Cabillaro" dream.
 
 "Cabillaro" means The Man, or, The Police. It is on a plane ticket. With a watch (Being watched). It belongs to some people in Placentia -- i.e. the phone company -- the [relay?] phone in the next apartment. I Returned it to them. Then, when I went outdoors, I didn't fear the police.
 ```
-**Co-occurrences**: Being, Dream
 
 ---
 ### Line 2846-2854 (Match: 'Xerox')
@@ -256,7 +255,7 @@ Recall: the two saints (Elias + Jeramiah) grieving Because the money was "lost,"
 
 Watch. (Command[ing?]) [on?] me. The establishment: Marx said of it, "You have no heart, just a ticking watch." I put it in my Breast Pocket. Watch + Money, esp. monopoly money, means: the capitalist establishment. It is the "You" which has no heart: i.e. monopoly capitalism.
 ```
-**Co-occurrences**: Like, Because, Iron, Just, Something, Being, Have, Dream
+**Co-occurrences**: Like, Because, Iron
 
 ---
 ### Line 2868-2876 (Match: 'Xerox')
@@ -273,7 +272,7 @@ Reason I couldn't figure this out for one whole year is fear. Everything is drea
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Like, Prison, John, Time, Anyhow, Again, Everything, House, Death, Somehow, Fake, Dream
+**Co-occurrences**: Time, Like, Prison, John
 
 ---
 ### Line 3051-3059 (Match: 'Xerox')
@@ -290,7 +289,7 @@ Here is a better explanation: I have a daimon, as Socrates had, a guardian (tute
 
 Item. A porno subtrack on an LP buried unaer other tracks is stegenographia. I was beginning to traneliminate accurately when I heard the filth on KNX-FM; nobody else could hear it...it prepared the way to (1) transliminate the daimon, and (2) the Xerox information. The veil, inside and outside, was off.
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Sophia, Fish, Greek, Golden, Wisdom, Perhaps, World, Golden Fish, Time, After, Cosmic, Could, Something, Once, Again, Great, Sibyl, Anamnesis, Creator, Still, Part, Living, Voice, Before, True, Will, Would, Other, Were, Very, Back, Have, Life, Body, Information, Wise, Aphrodite, Socrates, Except, Dead, During, Dream, Evidently, Doesn
+**Co-occurrences**: Sophia, Time, Anamnesis, Information, Christ, Tears, Christian, Ubik, Spirit, Fish, Greek, Golden, Wisdom, Perhaps, World, Golden Fish
 
 ---
 ### Line 3055-3063 (Match: 'Xerox')
@@ -307,7 +306,7 @@ Gnosticism: "The true purpose of Gnostic develation was to free spiritual man fr
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Sophia, Gnostic, Fish, Greek, Gnosticism, Golden, Wisdom, Perhaps, World, Golden Fish, Time, After, Cosmic, Could, Something, Once, Again, Great, Sibyl, Anamnesis, Jewish, Creator, Still, Part, Living, Voice, Before, True, Will, Would, Other, Were, Very, Back, Have, Life, Body, Information, Wise, Aphrodite, Socrates, Except, Dead, During, Dream, Evidently, Doesn, Free, Pleroma
+**Co-occurrences**: Gnosticism, Sophia, Gnostic, Time, Anamnesis, Information, Pleroma, Christ, Tears, Christian, Ubik, Spirit, Fish, Greek, Golden, Wisdom, Perhaps, World, Golden Fish
 
 ---
 ### Line 3090-3098 (Match: 'Xerox')
@@ -324,7 +323,7 @@ Last edit almost 5 years ago by svayambhu108
 238
 Needs Review
 ```
-**Co-occurrences**: Logos, Form, Sophia, King, Wisdom, These, Godhead, Like, World, Time, Good, Could, Just, Once, March, Although, Self, Girl, Divine, Probably, Sibyl, Part, More, Jung, Through, Soul, Such, Certainly, Mother, Death, Will, Would, Angel, Were, Whatever, Under, Have, Life, Jungian, Wise, Aphrodite, Days, Evidently, Free, Pleroma, Mary, White
+**Co-occurrences**: Sophia, Time, Pleroma, Logos, Form, King, Wisdom, These, Godhead, Like, World
 
 ---
 ### Line 3098-3106 (Match: 'Xerox')
@@ -341,6 +340,6 @@ Last edit almost 5 years ago by svayambhu108
 239
 Needs Review
 ```
-**Co-occurrences**: Christ, Empire, Golden, Maybe, Like, World, Because, Therefore, Only, Time, Cosmic, Mind, Light, Firebright, Could, Does, Just, Once, Again, Reality, Being, Self, Everything, Orphic, Divine, Himself, Great, Probably, Without, Zeus, Through, Soul, Such, Before, Death, Will, Would, Were, Very, Back, Life, Information, Remember, Knowledge, Greater, During, Right, White
+**Co-occurrences**: Time, Firebright, Information, Christ, Empire, Golden, Maybe, Like, World, Because, Therefore, Only
 
 ---

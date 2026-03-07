@@ -20,7 +20,7 @@ It is now too late to destroy them; their helplessness is past. They are awake!
 
 "They kingdom come" slightly misleading: "They kingship come," but, "come to," that is, kingship enter each temple/body of the flock, those who are his; he suddenly enters his temple and claims/becomes it. This could remain invisible externally; yet some fundamental change, cause unknown, would rock the established order of things.
 ```
-**Co-occurrences**: Kingdom, These, Only, Even, Could, Look, Maya, Reality, Zagreus, Being, Those, Their, Wait, Star, Real, Voice, Will, Would, Kingship, Back, Things, Life, Body, Spring, Dead, Suddenly, During, Answer, Until
+**Co-occurrences**: Kingdom, These, Only
 
 ---
 ### Line 339-347 (Match: 'Anamnesis')
@@ -37,7 +37,7 @@ Last edit over 5 years ago by Siegman
 22
 Complete
 ```
-**Co-occurrences**: Complete, Kingdom, These, Like, Fall, Could, Zagreus, Christos, Those, Their, Before, Would, Kingship, Things, Body, Suddenly
+**Co-occurrences**: Complete, Kingdom, These, Like, Fall
 
 ---
 ### Line 438-446 (Match: 'Anamnesis')
@@ -54,7 +54,7 @@ Last edit almost 3 years ago by twsullivan
 28
 Complete
 ```
-**Co-occurrences**: Acts, Thomas, Holy, Jesus, Complete, Form, Bible, Parousia, These, World, Because, Iron, Earth, Mind, Zagreus, Self, Essene, Their, Zeus, Such, Secret, Will, Would, Other, Erasmus, Back, Life, Testament, Days, Suddenly, Qumran, Final, Until
+**Co-occurrences**: Thomas, Acts, Holy, Jesus, Complete, Form, Bible, Parousia, These, World, Because, Iron, Earth
 
 ---
 ### Line 561-569 (Match: 'Anamnesis')
@@ -71,7 +71,7 @@ The fish symbol didn't perhaps "disinhibit" me, i.e. act as a disinhibiting stim
 
 It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
 ```
-**Co-occurrences**: Logos, Gnostic, Fish, However, These, Perhaps, Plotinus, World, Because, Therefore, Only, Time, Harpax, Does, Reality, Being, More, Most, Certainly, Universe, Back, Information, Freedom, Info, Human
+**Co-occurrences**: Plotinus, Gnostic, Time, Information, Logos, Fish, However, These, Perhaps, World, Because, Therefore, Only
 
 ---
 ### Line 578-586 (Match: 'Anamnesis')
@@ -87,7 +87,7 @@ The latter against all Neoplatonism and ever gnosticism, although less so. And a
 
 V. Tagomi in the park. Was there anything special about Mr. Tagomi? He was intensely human, and in need.
 ```
-**Co-occurrences**: Christianity, Fish, Gnosticism, Plotinus, World, Gnosis, Only, Even, Could, Just, Reality, Although, Orphic, Grace, Part, Will, Other, Have, Tagomi, Knowledge, Human, Free
+**Co-occurrences**: Gnosticism, Plotinus, Christianity, Fish, World, Gnosis, Only
 
 ---
 ### Line 620-628 (Match: 'Anamnesis')
@@ -104,7 +104,7 @@ These are answers -- responses, to him. By whom? This is the m[y]stery; who is h
 
 What is expressed here is an extraordinary demonstration of the principles of conservation and symmetry (Hericlitus and Parmenides, plus our thermal laws). What was dispatched tiny and weak and frail and ignorant has returned with moral and spiritual authority, capable of working "magic," i.e. casting and removing dokos. Originally it fled Kali and has now returned, cowl-masked, robed and in d[u]sguise, the "unknown person" of Zeno's paradox who is himself, to break the power (thrall) of Kali (the deformed kingdom; desiccated kingdom of Set). So, more correctly, it can break spells, not cast them; it is parity within the Kundry Klingsor) versus the Redeemer axis.
 ```
-**Co-occurrences**: Complete, Plato, Kingdom, These, Parmenides, Only, Time, Just, Again, Self, Himself, Either, Probably, Part, Dokos, More, Will, Other, Back, Journey, Life, Later, Having, Magic
+**Co-occurrences**: Time, Complete, Plato, Kingdom, These, Parmenides, Only
 
 ---
 ### Line 823-831 (Match: 'Anamnesis')
@@ -121,7 +121,7 @@ The whole experience seems to take about one full cycle of the earth: one year, 
 
 This whole last year contained a lot of pain and shock and loss for me (I was hospitalized twice, my son once, I lost two cats in very sad ways, and had to get rid of my little dog, and was burned on my first screen play), but it was the best year of my life, because somehow within the illness and loss and pain I gained an inner reality to match the external reality. There is no point in merely establishing an external new real kingdom or kingsom. God must reign in the human heart and body as well. It is the ultimate growth: to turn into a portion of God ("that I might live in Him / Invisible and dim") and continue on, knowing that He is both inside and outside. I can say that although I have not seen God, I saw signs of Him, indubitable signs. And knew Him to be growing within me, as the new life Firebright, from the Sun...the Aton, I guess, which Iknaton spoke of, that good tender trembling frail brave man.
 ```
-**Co-occurrences**: Kingdom, Well, Elijah, Since, Because, Earth, Harpax, Savior, Good, Even, Firebright, Pinky, Once, Both, Reality, Although, Great, Without, Their, Heaven, Real, Actually, True, Messenger, Death, Somehow, Kingship, Very, Beyond, Have, Judgment, Life, Body, Spring, Having, Human, Lamb
+**Co-occurrences**: Firebright, Kingdom, Well, Elijah, Since, Because, Earth
 
 ---
 ### Line 983-991 (Match: 'Anamnesis')
@@ -138,7 +138,7 @@ I awoke abruptly to find myself with my Savior, and then entered Fellowship with
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Holy, Rome, Form, Sophia, Kingdom, Greek, However, Maze, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+**Co-occurrences**: Sophia, Time, Firebright, Christ, Ubik, Holy, Rome, Form, Kingdom, Greek, However, Maze, Father, Like, Because, Only
 
 ---
 ### Line 1022-1030 (Match: 'Anamnesis')
@@ -155,7 +155,7 @@ In reconciling this with Christianity, I was restored. To the former state I had
 
 Is it food for a seed already there? A seed which was never germinated? Been fed? ("Your ancestors ate manna in the desert and they are all dead; I give you bread of eternal life." This implies it is more a kind of food in the sunlight, packets of nourishment. But I think the mystery has to do with what I experienced as suddenly being back 2000 years in Rome, being in another space-time. It shows that we do not understand the nature of time. If a new seed, from without, were implanted, why (like Empedocles) would we remember? But we do. Here, we're dealing with the "divine spark," like that which is in us because our ancestors, the Titans, ate the infant Zagreus. The divine spark is the same as the logos spermatika. The spark or seed, being an immortal being, is not subject to time. The kind of transtemporal experience which I had is impossible to a being which is mortal and hence subject to time; as the Brit 3 says, mortality and being in thrall to time are identical. If a spermos logos were implanted from without, and then fed, I think the person would suddenly find himself no longer bounded by time (and also not bounded by space, but this would be a lesser release). It is time which grinds down and brings death. The divine seed being immortal would transcend time, and what I experienced (because of the nature of time, which is not known to me) would be the sort of natural result of the sudden release from thrall to it. I would imagine a time dysfunction; actually, it would more accurately be that I had become an entity not bound by time. I would think, "Something is wrong with time; I am no longer in Fullerton in 1974 but 2000 years back in the past, in Rom[e]." The change, though, was in me. No one else felt anything, anamnesis, recovery of memory, is a projection (in the Jungian sense) outward, upon the person receiving immortality (i.e. freedom from the thrall of time). THIS WOULD EXPLAIN WHY THERE ARE NO INTERVENING MEMORIES, AND WHY I KNEW IT WASN'T A REINCARNATION TYPE MEMORY, OF A FORMER LIFE. THAT I ONCE HAD BEEN IN ROME CIRCA 70 AD AND SUDDENLY REMEMBERED IT. Rome and Fullerton were fused, as if the element of time were withdrawn. I didn't remember; I was there. (At two points, A and B simultaneously; vide Dr NK's "universe projected from a single point," etc. This can't be understood unless time is understood. We are freed -- from what? What is time?
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Parousia, However, Elijah, Father, Like, Fall, Because, Time, After, Something, Once, Adam, Again, Zagreus, Being, Empedocles, Divine, Himself, Without, More, Another, Upon, Actually, Fullerton, Certainly, Death, Universe, Would, Were, Back, Things, Life, Memory, Freedom, Jungian, Having, Remember, Unless, Dead, Suddenly, Mary
+**Co-occurrences**: Time, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Parousia, However, Elijah, Father, Like, Fall, Because
 
 ---
 ### Line 1026-1034 (Match: 'Anamnesis')
@@ -172,7 +172,7 @@ Last edit over 5 years ago by Harpax
 70
 Needs Review
 ```
-**Co-occurrences**: Logos, Rome, Christianity, Parousia, However, Like, Fall, Because, Time, Harpax, After, Something, Once, Adam, Again, Zagreus, Being, Empedocles, Divine, Himself, Without, More, Another, Upon, Actually, Fullerton, Death, Universe, Would, Were, Back, Things, Life, Memory, Freedom, Jungian, Having, Remember, Unless, Dead, Suddenly
+**Co-occurrences**: Time, Logos, Rome, Christianity, Parousia, However, Like, Fall, Because
 
 ---
 ### Line 1032-1040 (Match: 'Anamnesis')
@@ -189,7 +189,7 @@ The transient quality of things, the loss of them into the past, is a diminution
 
 Like in the 3 pages I sent Angus. Palimpset. Well, if the past is within what we see (smaller concentric rings, constricted) perhaps one can reason that the future consists of larger rings that that which makes up our perceptual present; vide Plotinus. The next concentric ring of emanation would be the future...strange. Which we reach toward, and which recoprically reaches down to assist us (as I inferred about the "space people": they're from the past, to give help. Angels. They would come to us in dream-time, with visions of what is ahead, and this is why dreams are prophetic. And less dense, less constricted that the daytime Now ring.
 ```
-**Co-occurrences**: Ubik, Well, Perhaps, Plotinus, Like, World, Fall, Only, Time, Harpax, Could, Look, Again, Reality, Being, Everything, Himself, Great, Nothing, Those, Their, Indian, Another, Real, Secret, Death, Universe, Would, Angel, Were, Very, Back, Things, Freedom, Dream, Track, Sacred
+**Co-occurrences**: Plotinus, Time, Decoded, Ubik, Well, Perhaps, Like, World, Fall, Only
 
 ---
 ### Line 1098-1106 (Match: 'Anamnesis')
@@ -205,7 +205,7 @@ Last edit over 5 years ago by Harpax
 77
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall
 
 ---
 ### Line 1167-1175 (Match: 'Anamnesis')
@@ -222,7 +222,7 @@ But of all that I understood, a union with God by means of the Logos meant most 
 
 I think that my seeing the Levant in Feb 1975 is as important, although less striking, as my seeing Rome in March 1974. In both cases, the thrall of time was removed, disclosing the eternal world, in Dante's sense. A transition had been made in that world (it is hard for someone unacquainted with Medieval thought to understand progression in eternity, but the basis would be a progression or procession of Platonic archetypes[.] The archetype in March 1974 was Rome and Iron and Slavery, with a corresponding need to fight for freedom, truth and justice; however, a year
 ```
-**Co-occurrences**: Logos, Rome, Sophia, Plato, However, Wisdom, These, Perhaps, Plotinus, World, Iron, Only, Time, Platonist, Light, Could, Anyhow, Something, Both, March, Although, Dante, Platonic, Palm, Santa, Nothing, Kathy, Soul, Most, Consider, Santa Sophia, Universe, Would, Erasmus, Back, Many, Have, Life, Body, Justice, Spring, Freedom, Truth, Someone
+**Co-occurrences**: Plotinus, Sophia, Time, Santa Sophia, Logos, Rome, Plato, However, Wisdom, These, Perhaps, World, Iron, Only, Platonist
 
 ---
 ### Line 1374-1382 (Match: 'Anamnesis')
@@ -238,7 +238,7 @@ Tesse points out to me that (in a dream) I was shown that "Jesus" is stenographi
 
 Anamnesis would mean, "Nothing is concealed any longer, from the beginning," which also implies everything lost has been restored (a wider definition of memory, but emphasizing not merely to gain but to regain). (Not rise, but rise back.)
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Rome, Plato, John, Time, Harpax, Does, Just, Both, Zagreus, Empedocles, Everything, Great, Nothing, Still, Zeus, Before, Would, Other, Creation, Somehow, Back, Memory, Remember, Dream
+**Co-occurrences**: Time, Christ, Christian, Jesus, Rome, Plato, John
 
 ---
 ### Line 1376-1384 (Match: 'Anamnesis')
@@ -254,7 +254,7 @@ Anamnesis would mean, "Nothing is concealed any longer, from the beginning," whi
 
 It seems to me that anamnesis (actually experienced, with perceptual awareness of the Real Presence, etc.) must be the last stage or nearly so in a long chain which is ultrapersonal. It must mean --not that I am unusual-- but that the Parousia have indeed begun.
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Rome, Plato, Parousia, John, Time, Does, Just, Both, Zagreus, Empedocles, Everything, Great, Nothing, Still, Zeus, Real, Actually, Before, Would, Other, Creation, Somehow, Back, Have, Memory, Remember, Dream
+**Co-occurrences**: Time, Christ, Christian, Jesus, Rome, Plato, Parousia, John
 
 ---
 ### Line 1378-1386 (Match: 'Anamnesis')
@@ -271,7 +271,7 @@ It seems to me that anamnesis (actually experienced, with perceptual awareness o
 
 Anamnesis such as mine must be the pay-off stage. What follows now is immediately tied to it (see "Message," the adversities which shape, the fruits of the harvest shaped, etc.). ("Message" suggests that God selects those who have proved fit, who have survived a lot. I have felt I underwent a lot, like Prince Tamino in "The Magic Flute," and that if I survived (chose well) then finally (vide my dream in Vancouver) the darkness would lift and I would understand...but this would only come at the end; when it was all over. I also believed that the Dark-Haired Girl would show up, at the end; either her or death. The Messenger.
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Rome, Plato, Well, Parousia, Like, Only, John, Time, Does, Just, Both, Zagreus, Empedocles, Girl, Everything, Either, Great, Nothing, Darkness, Those, Still, Zeus, Real, Such, Actually, Before, Messenger, Death, Finally, Would, Other, Creation, Somehow, Back, Have, Dark, Memory, Remember, Magic, Dream
+**Co-occurrences**: Time, Christ, Christian, Jesus, Rome, Plato, Well, Parousia, Like, Only, John
 
 ---
 ### Line 1380-1388 (Match: 'Anamnesis')
@@ -288,7 +288,7 @@ Anamnesis such as mine must be the pay-off stage. What follows now is immediatel
 
 What I experienced was not so much an acausal timelessness, but cause operating along "spacial" lines, that is, simultaneous causes, rather than moving along before-after temporal lines. It is as if I saw causes, mutually interacting, manifest (the jungle gym model of the universe). All which produced effects (i.e. all causes) were present and perceptible. All reality lay in the present, the Augenblick. There was still cause; this wasn't acausality, like synchronicity. It was almost a pushrod system, except that much was done through signalling. It was an intricate series of mutually adjusting elements producing together a harmony. It was all mutual and reciprocal.
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Well, Parousia, Like, Only, John, Time, After, Just, Reality, Zagreus, Empedocles, Girl, Everything, Either, Great, Nothing, Darkness, Those, Still, Zeus, Through, Real, Such, Actually, Before, Messenger, Death, Universe, Finally, Would, Other, Creation, Somehow, Were, Back, Have, Dark, Memory, Remember, Except, Magic, Dream
+**Co-occurrences**: Time, Christ, Christian, Jesus, Well, Parousia, Like, Only, John
 
 ---
 ### Line 1382-1390 (Match: 'Anamnesis')
@@ -305,7 +305,7 @@ What I experienced was not so much an acausal timelessness, but cause operating 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Well, Parousia, Like, Only, Harpax, After, Reality, Girl, Everything, Either, Nothing, Darkness, Those, Still, Through, Real, Such, Actually, Before, Messenger, Death, Universe, Finally, Would, Were, Back, Have, Dark, Memory, Except, Magic, Dream
+**Co-occurrences**: Well, Parousia, Like, Only
 
 ---
 ### Line 1426-1434 (Match: 'Anamnesis')
@@ -322,7 +322,7 @@ I think the miracle born out of pity (when the sketches failed to come to life o
 
 This dovetails with Tielhard's nation of all mankind moving along the route to the cross; we undergo His passion, but finally His transfiguration; add to this Pascals' ”All mankind can be viewad as a single selfsame man who perpetually learns from generation to generation" and you've got it. We are all tegethar an entity ("Alle Menschen werden brüder"). I saw this entity and knew myself to be a subsection of it, within it. So the whole universe rolls along, from one station of the cross to tne next (we are surely not in synch in time; we don’t arrive at it all together but rather like many runners). (Still "No man is an island," which means we all already partake of Him reaching it, as well as those others who have; the saints with long polws reaching down to assist us...those who are dead and are (up) there. We form a [typewriter crossout] corpora[?] body with them. It’s as if a problem-solving entity has set itself the task of finding out how many different solutions (paths, ways) yielded (ended at) the same result. This really could be a task assigned to just one section of the universe (as Peter Mann said); maybe only our world. This is maybe why we feel continually we're on trial; in a maze; sent here "for a definite purpose"; this is the time of labor, with a reward to come after (for those who “pass"). It's partly a guessing game; we are to develop a "correct" picture of something we aren’t --deliberately aren’t, for good reason-- allowed ever to see clearly, because as I say if we saw it clearly we'd simply copy, and all copies would be alike.
 ```
-**Co-occurrences**: Christ, Form, Well, Maze, Perhaps, Maybe, Like, World, Because, Only, Time, After, Good, Light, Could, Anyhow, Just, Something, Look, Again, Reality, Being, Self, Himself, Grace, Those, Still, Wait, Most, Nonetheless, True, Death, Universe, Finally, Would, Very, Surely, Many, Have, Clearly, Life, Body, Having, Remember, Cross, Dead, Answer
+**Co-occurrences**: Time, Christ, Form, Well, Maze, Perhaps, Maybe, Like, World, Because, Only
 
 ---
 ### Line 1479-1487 (Match: 'Anamnesis')
@@ -339,6 +339,6 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 . . . I had an initial complex insight today that it is just as easy to think of the future pushing the present into the past as to think of the past generating the present and moving toward the future;
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron, John, Time, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Part, More, Phil, Gold, Such, Voice, Secret, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Dialectic, Truth, Today, Evidently
+**Co-occurrences**: Time, Phil, Dialectic, Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Empire, Elijah, Father, Maybe, Iron, John
 
 ---

@@ -20,7 +20,7 @@ Last edit almost 3 years ago by svayambhu108
 17
 Needs Review
 ```
-**Co-occurrences**: Acts, Spirit, Torah, Well, Bible, These, Perhaps, Like, World, Since, Because, Both, Although, Self, Great, Viewed, Creator, Most, True, Info, Dream, Salvation
+**Co-occurrences**: Acts, Spirit, Torah, Well, Bible, These, Perhaps, Like, World, Since, Because
 
 ---
 ### Line 40559-40567 (Match: 'Ditheon')
@@ -37,7 +37,7 @@ Last edit almost 3 years ago by svayambhu108
 18
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Greek, Parousia, Like, World, Because, After, Mind, Could, Teilhard, Divine, Probably, Bill, Russ, More, Upon, Certainly, Will, Very, Nancy, Human, Dream
+**Co-occurrences**: Christ, Tears, Greek, Parousia, Like, World, Because
 
 ---
 ### Line 40565-40573 (Match: 'Ditheon')
@@ -54,7 +54,7 @@ Last edit almost 3 years ago by svayambhu108
 19
 Needs Review
 ```
-**Co-occurrences**: Christ, Valis, Logos, Form, Bible, World, Only, Cosmic, Cosmic Christ, Could, Just, Both, Reality, Teilhard, Great, Russ, Their, More, Living, Universe, Back, Have, Information, Instead, Info, Dialectic, Human
+**Co-occurrences**: Valis, Information, Dialectic, Christ, Logos, Form, Bible, World, Only
 
 ---
 ### Line 40571-40579 (Match: 'Ditheon')
@@ -71,7 +71,7 @@ Last edit almost 3 years ago by svayambhu108
 20
 Needs Review
 ```
-**Co-occurrences**: Valis, However, These, Like, Because, Time, Even, Could, Something, Both, Being, Brain, More, Real, Clearly
+**Co-occurrences**: Valis, Time, However, These, Like, Because
 
 ---
 ### Line 40577-40585 (Match: 'Ditheon')
@@ -88,7 +88,7 @@ Last edit almost 3 years ago by svayambhu108
 
 21
 ```
-**Co-occurrences**: Christ, Acts, Spirit, Holy, Jesus, Holy Spirit, Plato, Because, Only, Time, After, Jesus Christ, Divine, Probably, Anamnesis, Certainly, Before, Other, Were, Beyond, Whether, Human
+**Co-occurrences**: Time, Anamnesis, Christ, Acts, Spirit, Holy, Jesus, Holy Spirit, Plato, Because, Only
 
 ---
 ### Line 40582-40590 (Match: 'Ditheon')
@@ -104,7 +104,7 @@ Last edit almost 3 years ago by svayambhu108
 22
 Needs Review
 ```
-**Co-occurrences**: Christ, Wisdom, These, Because, Pythagoras, Does, Just, Although, Bill, Russ, Will, Were, Very, Back, Whatever, Human, Dream
+**Co-occurrences**: Christ, Wisdom, These, Because
 
 ---
 ### Line 40588-40596 (Match: 'Ditheon')
@@ -121,7 +121,7 @@ Last edit almost 3 years ago by svayambhu108
 23
 Needs Review
 ```
-**Co-occurrences**: Plato, Greek, Perhaps, Because, Time, Just, Both, Reality, Although, Self, Their, More, Were, Beyond, Absolute, Freedom, Today
+**Co-occurrences**: Time, Plato, Greek, Perhaps, Because
 
 ---
 ### Line 40600-40608 (Match: 'Ditheon')
@@ -138,7 +138,7 @@ Last edit almost 3 years ago by svayambhu108
 25
 Needs Review
 ```
-**Co-occurrences**: Valis, These, World, Because, Time, Joint, Does, Both, Everything, Either, Brain, Flux, True, Other, Were, Have, Judgment, Body, Memory, Info
+**Co-occurrences**: Valis, Time, These, World, Because
 
 ---
 ### Line 40611-40619 (Match: 'Ditheon')
@@ -154,7 +154,7 @@ Last edit almost 3 years ago by svayambhu108
 27
 Needs Review
 ```
-**Co-occurrences**: Christ, Valis, Logos, King, Torah, Felix, World, Therefore, Time, Mind, Suppose, Both, Reality, Living, True, Universe, Finally, Creation, Information, Info, Blood
+**Co-occurrences**: Valis, Time, Information, Christ, Logos, King, Torah, Felix, World, Therefore
 
 ---
 ### Line 40617-40625 (Match: 'Ditheon')
@@ -171,7 +171,7 @@ Last edit almost 3 years ago by svayambhu108
 28
 Needs Review
 ```
-**Co-occurrences**: Christ, Logos, Form, Sophia, Brahman, Wisdom, Like, Time, Even, Could, Does, Both, Reality, Being, Creator, Real, Universe, Creation, Hindu, Back, Information, Lower, Final
+**Co-occurrences**: Sophia, Time, Information, Saint Sophia, Christ, Logos, Form, Brahman, Wisdom, Like
 
 ---
 ### Line 40623-40631 (Match: 'Ditheon')
@@ -188,7 +188,7 @@ Last edit almost 3 years ago by svayambhu108
 29
 Needs Review
 ```
-**Co-occurrences**: Christ, Valis, Logos, Plato, Torah, Well, Wisdom, Like, World, Because, Time, Does, Reality, Being, Their, Living, Real, Universe, Will, Information, Info, Doesn
+**Co-occurrences**: Valis, Time, Information, Christ, Logos, Plato, Torah, Well, Wisdom, Like, World, Because
 
 ---
 ### Line 40629-40637 (Match: 'Ditheon')
@@ -205,7 +205,7 @@ Last edit almost 3 years ago by svayambhu108
 30
 Needs Review
 ```
-**Co-occurrences**: Christ, Valis, Logos, Plato, Torah, Perhaps, Like, World, Since, Iron, Only, Mind, Just, Both, More, Ground, Real, Universe, Would, Creation, Beyond, Have, Information, Dream
+**Co-occurrences**: Valis, Information, Christ, Logos, Plato, Torah, Perhaps, Like, World, Since, Iron, Only
 
 ---
 ### Line 40635-40643 (Match: 'Ditheons')
@@ -222,7 +222,7 @@ Last edit almost 3 years ago by svayambhu108
 
 31
 ```
-**Co-occurrences**: Christ, Logos, Brahman, Godhead, World, Because, Only, Does, Reality, Himself, Viewed, Universe, Would, Creation, Were, Have, Clearly, Lower
+**Co-occurrences**: Christ, Logos, Brahman, Godhead, World, Because, Only
 
 ---
 ### Line 40640-40648 (Match: 'Ditheon')
@@ -238,7 +238,7 @@ Last edit almost 3 years ago by svayambhu108
 32
 Needs Review
 ```
-**Co-occurrences**: Christ, Valis, Logos, Gnostic, Well, Empire, Gnosticism, World, Iron, Prison, Black, Does, Just, Black Iron Prison, Viewed, Without, Darkness, Through, Would, Were, Iron Prison, Salvation, Free
+**Co-occurrences**: Gnosticism, Valis, Gnostic, Christ, Logos, Well, Empire, World, Iron, Prison
 
 ---
 ### Line 40646-40654 (Match: 'Ditheons')
@@ -255,7 +255,7 @@ Last edit almost 3 years ago by svayambhu108
 33
 Needs Review
 ```
-**Co-occurrences**: Christ, Jesus, Well, Maybe, Since, Because, Only, Mind, Being, Jesus Christ, Himself, Without, Still, Part, Through, Soul, Certainly, True, Would, Other, Very, Life, Otherwise, Human
+**Co-occurrences**: Christ, Jesus, Well, Maybe, Since, Because, Only
 
 ---
 ### Line 40652-40660 (Match: 'Ditheon')
@@ -272,7 +272,7 @@ Last edit almost 3 years ago by svayambhu108
 34
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Logos, Jesus, Form, Sophia, Plato, Fish, Well, Golden, World, Since, Golden Fish, Only, Does, Reality, Hagia, Jesus Christ, Hagia Sophia, Philip, Bill, Viewed, Certainly, Would, Clearly, Nancy, Human, Dream
+**Co-occurrences**: Sophia, Hagia Sophia, Philip, Christ, Tears, Logos, Jesus, Form, Plato, Fish, Well, Golden, World, Since, Golden Fish, Only
 
 ---
 ### Line 40658-40666 (Match: 'Ditheon')
@@ -289,7 +289,7 @@ Last edit almost 3 years ago by svayambhu108
 35
 Needs Review
 ```
-**Co-occurrences**: Christ, Valis, Thomas, Spirit, Holy, Holy Spirit, Lord, These, Father, Like, Because, Once, Being, Obviously, Divine, Bill, More, True, Were, Very, Beyond, Have, Body, Having, Nancy, Human, Dream
+**Co-occurrences**: Valis, Thomas, Christ, Spirit, Holy, Holy Spirit, Lord, These, Father, Like, Because
 
 ---
 ### Line 40675-40683 (Match: 'Ditheon')
@@ -306,7 +306,7 @@ Last edit almost 3 years ago by svayambhu108
 38
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Perhaps, Maybe, World, Since, Only, Paraclete, Anyhow, Once, Reality, Being, Although, Everything, Christos, Wait, More, Would, Were, Have, Clearly, Sons, Dream, Someone
+**Co-occurrences**: Thomas, Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Perhaps, Maybe, World, Since, Only
 
 ---
 ### Line 40681-40689 (Match: 'Ditheon')
@@ -323,7 +323,7 @@ Last edit almost 3 years ago by svayambhu108
 39
 Needs Review
 ```
-**Co-occurrences**: Christian, Jesus, Christianity, Well, Perhaps, Like, Because, Only, Could, Just, Something, Once, Kerygma, Again, Bill, Through, Upon, Archer, True, Death, Will, Other, Back, Have, Clearly, Later, Knowledge, Dream
+**Co-occurrences**: Christian, Jesus, Christianity, Well, Perhaps, Like, Because, Only
 
 ---
 ### Line 40687-40695 (Match: 'Ditheon')
@@ -340,6 +340,6 @@ Last edit almost 3 years ago by svayambhu108
 40
 Needs Review
 ```
-**Co-occurrences**: Christ, Jesus, Perhaps, Since, Because, Only, Adam, Self, Probably, Part, Memory, Knowledge, During, Right
+**Co-occurrences**: Christ, Jesus, Perhaps, Since, Because, Only
 
 ---

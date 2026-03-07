@@ -21,6 +21,10 @@ def hyperlink_site(docs_dir, data_dir):
     with open(alias_file, 'r', encoding='utf-8') as f:
         alias_map = json.load(f)
 
+    # Blacklist internal terms
+    blacklist = ["Evidence Packet Index", "Indexed Folder", "Toso Folder"]
+    entries = [e for e in entries if e['term'] not in blacklist]
+
     # All terms and aliases (longest first)
     all_terms = sorted([e['term'] for e in entries] + list(alias_map.keys()), key=len, reverse=True)
     
@@ -33,47 +37,42 @@ def hyperlink_site(docs_dir, data_dir):
         if canonical.lower() in term_to_slug:
             term_to_slug[alias.lower()] = term_to_slug[canonical.lower()]
 
-    def link_callback(match):
-        term = match.group(0)
-        slug = term_to_slug.get(term.lower())
-        if slug:
-            # We determine relative path based on the file's depth.
-            # Simplified: Just return span for now or a path that works.
-            # In docs/index.html, path is cards/slug.html.
-            # In docs/cards/slug.html, path is slug.html (or ../cards/slug.html).
-            return f'<a href="cards/{slug}.html" class="exegesis-link">{term}</a>'
-        return term
-
     # Scan all HTML files in docs/
     for html_file in docs_path.rglob("*.html"):
+        # Determine depth relative to docs/
+        rel_path = html_file.relative_to(docs_path)
+        depth = len(rel_path.parts) - 1
+        prefix = "../" * depth if depth > 0 else ""
+        cards_prefix = f"{prefix}cards/" if depth == 0 else "" # If at root (index.html), link to cards/
+        if depth > 0 and rel_path.parts[0] == "cards":
+            cards_prefix = "" # If already in cards/, link directly
+        
         with open(html_file, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        # Scan all HTML files in docs/
-    for html_file in docs_path.rglob("*.html"):
-        with open(html_file, 'r', encoding='utf-8') as f:
-            content = f.read()
-        
-        # We only want to hyperlink in certain sections (e.g., <p>, <div class="extended-def">, etc.)
-        # For simplicity in this script, we'll exclude blocks that shouldn't be touched.
-        
-        # 1. Protect <script>, <style>, <title>, <button>, <h1>, <h2> tags
-        # We replace them with placeholders
+        # 1. Protect <script>, <style>, <title>, <button>, <h1>, <h2>, <a> tags
         placeholders = []
         def hide_tags(match):
             placeholders.append(match.group(0))
             return f"__TAG_PLACEHOLDER_{len(placeholders)-1}__"
         
-        protected_content = re.sub(r'<(script|style|title|button|h1|h2|h3|a)[^>]*>.*?</\1>', hide_tags, content, flags=re.DOTALL | re.IGNORECASE)
+        protected_content = re.sub(r'<(script|style|title|button|h1|h2|h3|a|iframe)[^>]*>.*?</\1>', hide_tags, content, flags=re.DOTALL | re.IGNORECASE)
         
         # 2. Re-apply linking to the remaining content
-        for t in all_terms[:100]:
+        # We use a larger chunk of terms now (or even all of them)
+        for t in all_terms:
             slug = term_to_slug.get(t.lower())
             if not slug: continue
             
             # Simple word boundary replacement
+            # Note: We must be careful not to double-link. 
+            # We'll use a temporary placeholder for the link to avoid matching it in later loops.
             pattern = rf'\b({re.escape(t)})\b'
-            protected_content = re.sub(pattern, lambda m: f'<a href="cards/{slug}.html" class="exegesis-link">{m.group(0)}</a>', protected_content)
+            
+            # Context-aware path
+            link_path = f"{cards_prefix}{slug}.html"
+            
+            protected_content = re.sub(pattern, lambda m: f'<a href="{link_path}" class="exegesis-link">{m.group(0)}</a>', protected_content)
 
         # 3. Restore placeholders
         for i, tag in enumerate(placeholders):
@@ -82,7 +81,7 @@ def hyperlink_site(docs_dir, data_dir):
         with open(html_file, 'w', encoding='utf-8') as f:
             f.write(protected_content)
 
-    print(f"Hyperlinked {len(all_terms)} possible terms across {docs_path}")
+    print(f"Hyperlinked {len(all_terms)} terms across {docs_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Hyperlink terms in the static site.")

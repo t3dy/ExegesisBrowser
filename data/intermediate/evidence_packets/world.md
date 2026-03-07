@@ -20,7 +20,7 @@ I saw the Parousia, and I couldn't have unless they actually took place (I didn'
 
 It has happened, the Prince of this World fell.
 ```
-**Co-occurrences**: Christ, Ubik, Toso, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, Only, Time, Nixon, Even, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Toso, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, Only, Nixon
 
 ---
 ### Line 28-36 (Match: 'World')
@@ -37,7 +37,7 @@ This all has been an unfolding process. A revealing or disclosing of Being.
 
 The Final Things (Parousia) is this: when God and his forces break through, penetrate into, linear time, and intervene for us. This took place. (March 1974.) This did happen. And the sign of its approach, and symbol, was the dream in FLOW MY TEARS; the old white haired king on horseback -- imminent approach of Our King to assist us.
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Jesus, Rome, Form, Kingdom, King, Parousia, These, Like, Only, Time, Nixon, Even, Being, March, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Things, Unless, Dream, Final, Crete, White
+**Co-occurrences**: Time, Linear, Christ, Tears, Ubik, Jesus, Rome, Form, Kingdom, King, Parousia, These, Like, Only, Nixon
 
 ---
 ### Line 68-76 (Match: 'World')
@@ -54,7 +54,7 @@ This is why (uniquely for me) my thoughts and phosphene activity speeded up in M
 
 Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
 ```
-**Co-occurrences**: Ubik, Complete, Rome, Form, Parousia, Father, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Time, Ubik, Complete, Rome, Form, Parousia, Father, Since, Because, Only
 
 ---
 ### Line 91-99 (Match: 'World')
@@ -70,7 +70,7 @@ I do not see where I am changed, but I was spared the Wrath and I was of use (ag
 
 Hey, I figured out (you laughed) Nixon is the best – beast.
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Time, Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, Like, Nixon
 
 ---
 ### Line 115-123 (Match: 'World')
@@ -87,7 +87,7 @@ Yes, maybe so, Claudia; while the teacher was still the universe. I remember how
 
 The drawing your parent an archetype
 ```
-**Co-occurrences**: King, Paul, Fish, Maybe, Like, Only, Time, After, Stigmata, Savior, Book, Could, Being, Great, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Christopher, Under, Life, Body, Claudia, Later, Remember, Truth, Dream
+**Co-occurrences**: Time, King, Paul, Fish, Maybe, Like, Only
 
 ---
 ### Line 131-139 (Match: 'World')
@@ -104,7 +104,7 @@ The moral of the novel was that you can be different and the King will understan
 
 Rose: “Stephen, how come I can do magic and I’m living here in Fullerton like everyone else, eating at McDonald’s and knowing Willis McNelly.”
 ```
-**Co-occurrences**: Spirit, Complete, King, Well, Dionysos, Like, Because, Only, Time, Book, Could, Does, Anyhow, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Claudia, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+**Co-occurrences**: Time, Spirit, Complete, King, Well, Dionysos, Like, Because, Only
 
 ---
 ### Line 186-194 (Match: 'World')
@@ -121,7 +121,7 @@ Last edit less than 20 seconds ago by Gabriel Mckee
 12
 Indexed
 ```
-**Co-occurrences**: Indexed, Time, Earth, Gabriel, Mckee, Gabriel Mckee, Through, Before, Will, Back, Under, Life, Spring, Dead
+**Co-occurrences**: Time, Indexed, Earth
 
 ---
 ### Line 198-206 (Match: 'World')
@@ -138,7 +138,7 @@ I hope that you like this piece (they may not). They just accepted a poem by my 
 
 You’ll note that I’m living in Southern California now, “north of Disneyland,” as Tony Hiss put it when he interviewed me for the New Yorker. I’m still writing s-f. I’ve got a lovely little 1.5 year-old son named Christopher, my wife Tessa is incredibly beautiful and very young (the pressure is on me, always, in all ways, to keep going, to not fall behind… alas, we all do eventually, I guess, but then, I have developed strongly religious convictions that Our Good Friend is watching to reach out and scoop us up, when we fall behind).
 ```
-**Co-occurrences**: Well, Like, Since, Fall, Good, Just, Both, Tony, Although, Tessa, Still, Through, Living, Real, Such, Calif, Love, Christopher, Very, Have, Berkeley, Memory, Having
+**Co-occurrences**: Well, Like, Since, Fall
 
 ---
 ### Line 216-224 (Match: 'World')
@@ -155,7 +155,7 @@ Enclosed is the piece I’ve been working my ass off for The Real World. I’m g
 
 (two) Okay – on my MS page 6: you could end the piece after line 10. (Final printed sentence: “That was my friend.”) But it’s a different piece this way, with the Day of Wrath scene missing; much limiteder, more milder.
 ```
-**Co-occurrences**: Tears, Indexed, Like, Because, After, Okay, Could, Anyhow, Just, Tony, Tessa, More, Through, Real, Page, Today, Final
+**Co-occurrences**: Tears, Indexed, Like, Because
 
 ---
 ### Line 244-252 (Match: 'World')
@@ -172,7 +172,7 @@ When I met Theodore Surgeon, who wrote MORE THAN HUMAN, this good man said to me
 
 Tony loved the universe and the universe frightened him, and I think I know where his head was at. A lot of people who are timid are that way because they love too much. They’re afraid it’ll all fall through. Naturally, it did with Tony. He died in middle-age. Now, I ask you, what good did it do him to be scared? He used to carry his rare old 78 records to radio station KPFA every week wrapping them up in a towel so they wouldn’t get broken. One time I decided to give Tony all my rare opera and vocal records, just plain give plain give them to him as a gift of my loving him. I phoned him up. “got Tisne Lemnitz records and Gerhard Husch,” I told him. Tony replied shyly, “They are my idols.” We was a Roman Catholic – the only one we knew – and that was a strong statement. Before I could get the records to him he was dead. “I feel tired half the day,” he had added. “I can’t work as much as I used to. I think I’m sick.” I explained I had the same thing. That was eight or so years ago. The doctor told him he had a bruised rib and taped it up. Someday I will meet that doctor on the street. Tony got bad advice from everyone who could talk.
 ```
-**Co-occurrences**: Toso, Indexed, Roman, Like, Since, Fall, Because, Only, Time, Good, Light, Could, Just, Once, Catholic, Tony, Although, More, Through, Real, Love, Before, True, Universe, Will, Many, Tree, Electric, Sturgeon, Dead, Human, Right, Answer
+**Co-occurrences**: Time, Toso, Indexed, Roman, Like, Since, Fall, Because, Only
 
 ---
 ### Line 284-292 (Match: 'World')
@@ -189,7 +189,7 @@ Pinky never noticed the pale light; he seemed awake, but dozing. I think he was 
 
 Last edit over 5 years ago by Zebrapedia
 ```
-**Co-occurrences**: Well, Like, Light, Even, Pinky, Anyhow, Zebrapedia, Just, Once, Being, Himself, Without, Tessa, Those, Before, Death, Finally, Will, Angel, Were, Whatever, Under, Later, Having, Remember, Electric, Dream
+**Co-occurrences**: Zebrapedia, Well, Like
 
 ---
 ### Line 322-330 (Match: 'World')
@@ -206,7 +206,7 @@ Last edit over 5 years ago by Siegman
 
 21
 ```
-**Co-occurrences**: Well, Maybe, Like, Because, Only, Could, Being, Runciter, House, Creator, Still, More, Voice, Actually, True, Universe, Finally, Christopher, Would, Other, Back, Have, Life, Claudia, Spring, Later, Except, Cross, Blood, Truth, Dream, Right
+**Co-occurrences**: Well, Maybe, Like, Because, Only
 
 ---
 ### Line 373-381 (Match: 'World')
@@ -223,7 +223,7 @@ Now, Ursula, this is the dream-universe cast over us perhaps,
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Form, Perhaps, Like, Does, Something, Once, Reality, Dick, Universe, Page, Were, Under, During, Dream, Someone
+**Co-occurrences**: Form, Perhaps, Like
 
 ---
 ### Line 385-393 (Match: 'World')
@@ -240,7 +240,7 @@ In a meaningful sense, portions of our reality extensive in time and space are f
 
 (one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, and wihtout it, there would be nothing but illusion, nothing but Maya, so to speak.
 ```
-**Co-occurrences**: Form, These, Perhaps, Like, Because, Therefore, Only, Time, After, Mind, Even, Does, Just, Both, Maya, Reality, Being, March, Although, Without, Nothing, Still, Real, True, Will, Would, Other, Back, Have, Memory, Truth, Dream
+**Co-occurrences**: Time, Form, These, Perhaps, Like, Because, Therefore, Only
 
 ---
 ### Line 434-442 (Match: 'World')
@@ -257,7 +257,7 @@ Studying the Bible, along with this [Quamran] personality, Brady finds that the 
 
 The [Quamran] personality, who, for fictional purposes, I call Thomas, gradually informs Brady that these are the Parousia, the Final Days. And to be prepared; Thomas will prepare him by reminding him of his own divinity -- anamnesis, Thomas calls it. Thomas develops a special parity relationship with Brady, but evolves as a source of teaching for the incredibly ignorant Brady the entity known as Erasmus, who is in fact a station in the noösphere, which is now so fully charged around Earth that if you are aware of it you can consciously, rather than un-
 ```
-**Co-occurrences**: Acts, Thomas, Holy, Jesus, Form, Well, Bible, Parousia, These, Since, Because, Iron, Earth, Good, Mind, Book, Zagreus, Tony, Self, Anamnesis, Essene, Brain, Their, Zeus, Most, Such, Secret, Will, Would, Other, Erasmus, Back, Have, Life, Testament, Days, Having, Dead, Suddenly, Qumran, Final, Right, Until
+**Co-occurrences**: Thomas, Anamnesis, Acts, Holy, Jesus, Form, Well, Bible, Parousia, These, Since, Because, Iron, Earth
 
 ---
 ### Line 448-456 (Match: 'World')
@@ -274,7 +274,7 @@ Cordially,
 
 Philip K. Dick 1405 Cameo Lane 4 Fullerton Calif 92631
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Philip, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Dick, Fullerton, Calif, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Philip, Christian, Jesus, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, Because, Iron, Only, John
 
 ---
 ### Line 523-531 (Match: 'World')
@@ -291,7 +291,7 @@ The "Whale's Mouth" sign of intersecting arcs, which I viewed as representing cu
 
 It's possible that the Christian fish sign concealed these two geometric arcs, intentionally; the arcs would show that the unique event of Christ's First Coming was beyond any doubt to be followed by the second coming or intersection; this was conveyed and concealed and revealed all at once by the fish sign, making sense, too, out of there being both a first and second coming; the arc opened after the first, and each line seemed to separate from the other farther and farther (heaven and earth splitting futher and further apart) but a keen trained eye could discern in this simple drawing the return together lying inevitably ahead; the Promise was ad hoc true. Put another way, when viewed in this geometrical fashion, there was no way by which the Second Coming (together in time) could be averted. No force, delusion, lies or guile or threats could prevent it eventually coming (see Virgil's 4th Eclogue: The Age of Iron to give way to the Age of Gold. And the fish sign I saw was made of gold. And I saw around me a prison, a magnet like ring, of iron.
 ```
-**Co-occurrences**: Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Maybe, Like, Therefore, Iron, Prison, Time, Earth, After, Even, Could, Anyhow, Just, Once, Again, Both, Being, Although, Viewed, Without, Brain, Still, More, Another, Most, Living, Heaven, Gold, Before, True, Finally, Would, Other, Were, Very, Beyond, Further, Later, Human
+**Co-occurrences**: Time, Christ, Christian, Complete, Form, Fish, Well, These, Perhaps, Maybe, Like, Therefore, Iron, Prison, Earth
 
 ---
 ### Line 533-541 (Match: 'World')
@@ -308,7 +308,7 @@ It certainly shows that the alchemists were seeking a symbolic transmutation of 
 
 The absolute height of wisdom and the goal of its search would be this computer AI system...which is exactly what I'm hooked into, as of 3 74. This was what you got when you were transmuted, this linking up with the infra galactic info grid.
 ```
-**Co-occurrences**: Complete, Fish, Gnosticism, Wisdom, Plotinus, Maybe, Like, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Grace, Jung, Gold, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, Magic, Human, Dream, Someone
+**Co-occurrences**: Gnosticism, Plotinus, Complete, Fish, Wisdom, Maybe, Like, Earth
 
 ---
 ### Line 563-571 (Match: 'World')
@@ -325,7 +325,7 @@ It broke certain chains. Certain powers over me. Therefore the delusional (defor
 
 Isn't this what the Christian fish sign is supposed to do? Representing Christ, it is Christ; and this is what He does for a person, a very desperate person: He breaks that earthyl thrall. He, through his emblematic sign.
 ```
-**Co-occurrences**: Christ, Christian, Logos, Gnostic, Fish, However, These, Perhaps, Plotinus, Because, Therefore, Only, Time, Does, Reality, Being, Anamnesis, More, Through, Most, Certainly, Universe, Very, Back, Information, Freedom, Info, Human
+**Co-occurrences**: Plotinus, Gnostic, Time, Anamnesis, Information, Christ, Christian, Logos, Fish, However, These, Perhaps, Because, Therefore, Only
 
 ---
 ### Line 565-573 (Match: 'World')
@@ -342,6 +342,6 @@ Isn't this what the Christian fish sign is supposed to do? Representing Christ, 
 
 [Itwas] He, no metal sign; no object, but The Savior, expressed in His presence. He came to the door manifest in [a] emblematic form, which was verbally (the Logos?) identified. We grow; we reach a certain point; we stop growing; we decline and die. What did it all up to? Nothing, because we were blocked --limited-- at a certain point. He expressed as emblematic pin broke that hold or limit, and growth resumed in me, at enormous speed, as if to make up for lost time. She, the girl, wore/bore a message to me, from Him (my heavenly father). What I became afterwards were all supposed to be...but something went wrong; error slipped in, for us all.
 ```
-**Co-occurrences**: Christ, Christian, Logos, Form, Gnostic, Fish, However, These, Perhaps, Plotinus, Father, Because, Therefore, Only, Time, Savior, Does, Something, Reality, Being, Girl, Anamnesis, Nothing, More, Through, Most, Certainly, Universe, Were, Very, Back, Information, Freedom, Info, Human
+**Co-occurrences**: Plotinus, Gnostic, Time, Anamnesis, Information, Christ, Christian, Logos, Form, Fish, However, These, Perhaps, Father, Because, Therefore, Only
 
 ---

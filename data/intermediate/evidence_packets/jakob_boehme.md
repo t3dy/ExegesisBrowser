@@ -20,7 +20,7 @@ Last edit 25 days ago by Gabriel Mckee
 20
 Needs Review
 ```
-**Co-occurrences**: Ubik, Well, Maze, Maybe, Like, World, Iron, Time, Noos, Gabriel, Folder, Mckee, Gabriel Mckee, Mind, Does, Reality, Being, Self, Everything, Divine, Great, Essene, Brain, Part, More, Most, Living, Upon, Actually, Finally, Will, Other, Back, Under, Further, Have, Memory, Later, Days, Dream, Salvation, Final
+**Co-occurrences**: Time, Ubik, Well, Maze, Maybe, Like, World, Iron
 
 ---
 ### Line 7924-7932 (Match: 'Boehme')
@@ -36,7 +36,7 @@ Last edit almost 3 years ago by svayambhu108
 82
 Needs Review
 ```
-**Co-occurrences**: Valis, Zebra, Form, Brahman, Like, Fall, Only, Mind, Even, Just, Suppose, Either, Those, More, Xenophanes, Will, Were, Things, Neither, Right
+**Co-occurrences**: Valis, Zebra, Form, Brahman, Like, Fall, Only
 
 ---
 ### Line 7934-7942 (Match: 'Boehme')
@@ -53,7 +53,7 @@ Last edit almost 3 years ago by svayambhu108
 83
 Needs Review
 ```
-**Co-occurrences**: Scanner, Time, Black, Urgrund, Book, Even, Just, Divine, Probably, Without, Those, Their, Most, Voice, Back, Have, Life, Today, Human
+**Co-occurrences**: Time, Scanner
 
 ---
 ### Line 7940-7948 (Match: 'Boehme')
@@ -70,7 +70,7 @@ Last edit almost 3 years ago by svayambhu108
 84
 Needs Review
 ```
-**Co-occurrences**: Spirit, Zebra, Logos, Jesus, Kingdom, Fish, Well, Golden, World, Golden Fish, Earth, After, Light, Divine, Part, Their, More, Heaven, Universe, Will, Things, German, Upper, Dead, Human, Lower
+**Co-occurrences**: Zebra, Spirit, Logos, Jesus, Kingdom, Fish, Well, Golden, World, Golden Fish, Earth
 
 ---
 ### Line 7952-7960 (Match: 'Boehme')
@@ -87,7 +87,7 @@ Last edit almost 3 years ago by svayambhu108
 
 86
 ```
-**Co-occurrences**: Christ, Logos, Sophia, Paul, Perhaps, Like, World, Only, Time, Urgrund, Light, Even, Gestalt, Yang, Could, Does, Something, Reality, Self, Divine, Himself, Nothing, Still, Before, Universe, Will, Have, Trinity, Greater, Lower
+**Co-occurrences**: Sophia, Time, Linear, Christ, Logos, Paul, Perhaps, Like, World, Only
 
 ---
 ### Line 7957-7965 (Match: 'Boehme')
@@ -103,7 +103,7 @@ Last edit almost 3 years ago by svayambhu108
 87
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Zebra, Holy Spirit, Father, Only, Cosmic, Light, Again, Being, Divine, Himself, Part, Through, Will, Would, Were, Have, Absolute, Upper, Lower, Salvation
+**Co-occurrences**: Zebra, Christ, Spirit, Holy, Holy Spirit, Father, Only
 
 ---
 ### Line 7963-7971 (Match: 'Boehme')
@@ -120,7 +120,7 @@ Last edit almost 3 years ago by svayambhu108
 88
 Needs Review
 ```
-**Co-occurrences**: Spirit, Zebra, Xerox, Well, Gnosticism, Perhaps, Father, Maybe, World, Only, After, Urgrund, Light, Even, Just, Realm, Being, Divine, Zoroastrian, Another, Most, Such, Revelation, Will, Things, Life, Memory, Wise, Greater, Sons
+**Co-occurrences**: Gnosticism, Zebra, Spirit, Xerox, Well, Perhaps, Father, Maybe, World, Only
 
 ---
 ### Line 7975-7983 (Match: 'Jakob Boehme')
@@ -137,7 +137,7 @@ totally benign, + I saw that material universe being what I call "transubstantia
 
 Last edit almost 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Thomas, Zebra, Gnostic, World, Therefore, Could, Just, Once, Reality, Being, Everything, Divine, Himself, Creator, Such, Actually, Revelation, Universe, Back, Have, Wise, Evil, Dead
+**Co-occurrences**: Thomas, Zebra, Gnostic, World, Therefore
 
 ---
 ### Line 7985-7993 (Match: 'Boehme')
@@ -154,7 +154,7 @@ was totally transmuted. This is Taoistic. (+ didn't Hera‐ Clogus teach this un
 
 Last edit almost 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Fall, Therefore, Urgrund, Good, Light, Even, Could, Does, Something, Reality, Self, Divine, Such, Universe, Deity, Other, Somehow, Back, Have, Freedom, Wise, Evil, Knowledge, Lower
+**Co-occurrences**: Christ, Spirit, Fall, Therefore
 
 ---
 ### Line 8021-8029 (Match: 'Boehme')
@@ -170,7 +170,7 @@ Last edit almost 3 years ago by svayambhu108
 97
 Needs Review
 ```
-**Co-occurrences**: Christ, Plato, World, Fall, Earth, Could, Reality, Although, Xenophanes, Heaven, Real, Will, Deity, Would, Other, Were, Many, Upper, Lower
+**Co-occurrences**: Christ, Plato, World, Fall, Earth
 
 ---
 ### Line 8047-8055 (Match: 'Jakob Boehme')
@@ -187,7 +187,7 @@ Last edit almost 3 years ago by svayambhu108
 
 101
 ```
-**Co-occurrences**: Ubik, Like, Gnosis, Only, Just, Something, Being, Divine, Himself, Grace, Through, Revelation, Would, Other, Were, Whether, Truth, Salvation
+**Co-occurrences**: Ubik, Like, Gnosis, Only
 
 ---
 ### Line 8085-8093 (Match: 'Boehme')
@@ -203,7 +203,7 @@ Last edit almost 3 years ago by svayambhu108
 107
 Needs Review
 ```
-**Co-occurrences**: Christ, Logos, Complete, Sophia, Only, Time, Light, Self, Himself, Most, Before, Zoroastrianism, Back, Many, Have, Evil, Dialectic, Human, Salvation
+**Co-occurrences**: Sophia, Time, Dialectic, Christ, Logos, Complete, Only
 
 ---
 ### Line 8091-8099 (Match: 'Boehme')
@@ -220,7 +220,7 @@ Last edit almost 3 years ago by svayambhu108
 108
 Needs Review
 ```
-**Co-occurrences**: Christ, Advent, World, Parmenides, Therefore, Only, Does, Shiva, Zagreus, Being, Christi, Self, Corpus, Nothing, More, Corpus Christi, Living, Real, Universe, Finally, Will, Back, Many, Until
+**Co-occurrences**: Christ, Advent, World, Parmenides, Therefore, Only
 
 ---
 ### Line 8097-8105 (Match: 'Bohme')
@@ -237,7 +237,7 @@ view Xenophanes was essentially correct in his of God, except he did not see it 
 
 Last edit almost 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Complete, Holy Spirit, Like, World, Cosmic, Urgrund, Divine, Part, More, Xenophanes, Real, Will, Judge, Frozen, Life, Evil, Except, Dialectic, Answer
+**Co-occurrences**: Dialectic, Christ, Spirit, Holy, Complete, Holy Spirit, Like, World
 
 ---
 ### Line 8153-8161 (Match: 'Bohme')
@@ -254,7 +254,7 @@ As 2 Calit Rome i
 
 Last edit almost 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Thomas, Rome, Lord, Advent, World, Because, Gospel, Both, Divine, Himself, Gods, Paracelsus, Through, Messenger, Angel, Clearly, Freedom, Suddenly, Evidently
+**Co-occurrences**: Thomas, Christ, Rome, Lord, Advent, World, Because
 
 ---
 ### Line 8181-8189 (Match: 'Bohme')
@@ -271,7 +271,7 @@ which is why it needs the empirical world as a reflection by which t to "see" it
 
 artifact to continue to project an evolving reality until finally
 ```
-**Co-occurrences**: Plato, Gnostic, Well, Like, World, Only, Urgrund, Something, Reality, Being, Self, House, Santa, Without, Still, Living, Actually, Finally, Other, Were, Artifact, Knowledge, Track, Until
+**Co-occurrences**: Gnostic, Plato, Well, Like, World, Only
 
 ---
 ### Line 8393-8401 (Match: 'Bohme')
@@ -287,7 +287,7 @@ As to our reality being a projected framework -- it appears to be a projection b
 
 The birth looked forward to is the birth of the Urgrund in humans first of all, and finally the assimilation of the universe in its totality, in a single sharp instant. The former is already occurring; the latter will come at some later unexpected time. Reality must be regarded as process. However, although there is acute suffering by living creatures who must undergo this process, without understanding why, there is occasional merciful intervention by the Urgrund overruling or overriding the cause-and-effect chains of the artifact. Perhaps this salvific intervention results from a birth of the Urgrund in the person. One should note that the actual historic meaning of the term "salvation" is "liberation," and that of "sinful" or "fallen" is "enslaved." It is a priori possible, given this model, to imagine a freeing of a human from the control of the artifact, however good, useful, and purposeful the activity of the artifact may be. It is obviously capable of error, as well as imperfection. An override is obviously sometimes essential, given this model. Just as obviously, it would be the primal maker or ground of being that would possess the wisdom and power to do so. Nothing within, or stemming from, the artifact or the projected world, would suffice.
 ```
-**Co-occurrences**: Christ, Christian, Zebra, Plato, Gnostic, Brahman, Well, However, Wisdom, Perhaps, Like, World, Since, Therefore, Only, Time, Urgrund, Good, Mind, Light, Could, Just, Something, Once, Both, Maya, Reality, Being, March, Obviously, Atman, Although, Self, Fate, Without, Nothing, Part, More, Another, Soul, Most, Living, Ground, Real, Actually, True, Universe, Finally, Will, Deity, Would, Other, Hindu, Very, Beyond, Have, Artifact, Life, Body, Later, Testament, Evil, Having, Knowledge, During, Otherwise, Human, Salvation, Final, Until
+**Co-occurrences**: Zebra, Gnostic, Time, Christ, Christian, Plato, Brahman, Well, However, Wisdom, Perhaps, Like, World, Since, Therefore, Only
 
 ---
 ### Line 8431-8439 (Match: 'Bohme')
@@ -304,7 +304,7 @@ Urgrund creates artifact which projects universe which gives rise to life forms 
 
 This reflects the sequence of stages envisioned in the Hindu religion. First there is creation by Brahma, then Vishnu sustains the universe; then Shiva destroys it, which should be understood as receiving it back into its origin. A full cycle of birth, life, and then return is enacted. When the universe has reached the evolutionary stage where it can faithfully replicate the Urgrund, it is ready to be absorbed back. Thus I say, the deity that reigns now is Shiva/Dionysos/Cernunnos/Christ, who restores us to our Urgrund or Father: our source of being. That Shiva the destroyer god is now active signals the fact that the cycle of creation has returned to its source, or rather, that the life forms of it are ready to return to their source. Shiva possesses a third or Ajna eye, which, when turned inwardly, gives him understanding to an absolute degree; when turned outward, it destroys. The manifestation of Shiva (of the Hindu system) is equated with the Day of Wrath in the Christian systern. What must be understood about this world-destroying deity is that it is also the herdsman of souls. With one of his four hands, Shiva is shown expressing reassurance that he will not harm the virtuous man. The same is true of Christ as Lord and Judge of the Universe. Although the world (the spurious projection of the artifact) is to be abolished, the good man need fear nothing. Nonetheless, judgment is being pronounced. The division of mankind into two parts by Christ is taking place. These are the same divisions expressed in the Egyptian system (as ruled by Osiris and Ma'at) and in the Iranian (by the Wise Mind). Through the total insight given him by his Ajna eye, Shiva the destroyer perceives that which he must destroy in the service of justice. Through that total insight he also perceives those whom he must protect. Thus he has a dual nature: destroyer of the wicked, protector of the weak, the victims of the world, the helpless. Christ possesses precisely these two natures, as Divine Judge and Good Shepherd. Cernunnos is both a warrior god and a healer god. It is difficult for humans to comprehend how these apparently opposite qualities can be combined into one deity. However, if attention is turned to the situation, it can be understood. The artifact's projected world has begun to serve its final and sole real purpose. Now, with the artifact about to be destroyed, that world will end; it was never real in the first place. (This reflects the quality of destroyer assigned to Christ/Shiva/Dionysos.) But the elements of the world that have done their task will be selected out -- that is saved -- exactly as Dionysos is depicted as the protector of small, helpless wild animals. Dionysos is the destroyer of prisons, of tyrannical rulers, and the savior of the small, the weak. These attributes are assigned to Shiva/Cernunnos/Christ/Dionysos because of the nature of the task now required: a twin task, one of destroying, one of saving.
 ```
-**Co-occurrences**: Christ, Christian, Indexed, Rome, Form, Gnostic, Well, However, Dionysos, Lord, These, Perhaps, Godhead, Father, Like, World, Since, Because, Time, Earth, After, Noos, Savior, Urgrund, Good, Mind, Hermetic, Even, Could, Does, Zebrapedia, Just, Again, Shiva, Suppose, Both, Reality, Being, Christi, Although, Self, Orphic, Divine, Himself, Corpus, Either, Viewed, Nothing, Those, Part, Their, Bruno, Another, Through, Corpus Christi, Living, Xenophanes, Heaven, Real, Nonetheless, Such, Actually, Secret, Before, True, Death, Universe, Finally, Will, Deity, Would, Other, Creation, Somehow, Judge, Hindu, Back, Egyptian, Many, Have, Artifact, Judgment, Life, Absolute, Body, Apparently, Justice, Memory, Wise, Aphrodite, Remember, Except, West, Human, Syria, Evidently, Final
+**Co-occurrences**: Gnostic, Time, Hermetic, Zebrapedia, Christ, Christian, Indexed, Rome, Form, Well, However, Dionysos, Lord, These, Perhaps, Godhead, Father, Like, World, Since, Because, Earth
 
 ---
 ### Line 8451-8459 (Match: 'Bohme')
@@ -321,7 +321,7 @@ They do not belong to the world any more than I belong to the world. [John 17:14
 
 If the world hates you, remember that it hated me before you. If you belonged to the world the world would love you as its own; but because you do not belong to the world, because my choice withdrew you from the world, therefore the world hates you. [John 15:18-19]
 ```
-**Co-occurrences**: Christ, Christian, Brahman, Fish, Golden, Advent, World, Since, Because, Therefore, Golden Fish, John, Urgrund, Mind, Once, Both, Being, Nothing, Those, More, Most, Real, Upon, Love, Before, Revelation, Universe, Will, Deity, Would, Other, Were, Many, Have, Things, Remember, Suddenly
+**Co-occurrences**: Christ, Christian, Brahman, Fish, Golden, Advent, World, Since, Because, Therefore, Golden Fish, John
 
 ---
 ### Line 8469-8477 (Match: 'Bohme')
@@ -338,6 +338,6 @@ Last edit 7 months ago by Zebrapedia
 
 1
 ```
-**Co-occurrences**: Christ, Tears, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Kingdom, Gnostic, King, Paul, Well, However, Wisdom, Dionysos, These, Perhaps, Advent, Godhead, Elijah, Father, Maybe, Like, World, Since, Fall, Because, Therefore, Prison, Only, Time, After, Noos, Cosmic, Faith, Savior, Urgrund, Good, Even, Gestalt, Gospel, Yang, Could, Does, Zebrapedia, Just, Something, Once, Realm, Shiva, Suppose, Both, Reality, Luke, Being, March, Hegel, Although, Self, Everything, Divine, Himself, Either, Great, Bacchae, Gods, Probably, Viewed, Anamnesis, Without, Nothing, Creator, Those, Still, Part, Their, More, Another, Through, Soul, Most, Living, Heaven, Ground, Real, Such, Upon, Actually, Certainly, Secret, Before, Revelation, Mother, True, Whitehead, Death, Universe, Finally, Will, Deity, Would, Other, Creation, Somehow, Were, Very, Back, Under, Meanwhile, Many, Further, Have, Artifact, Clearly, Things, Life, Absolute, Apparently, Dark, Memory, Neither, Evil, Having, Remember, God Himself, Except, Knowledge, Elisha, Israel, Dialectic, Greater, During, Human, Salvation, Doesn, Pleroma, Final, Right, Answer, Pilate, Until
+**Co-occurrences**: Gnostic, Time, Zebrapedia, Hegel, Anamnesis, Dialectic, Pleroma, Christ, Tears, Christian, Spirit, Holy, Jesus, Holy Spirit, Form, Kingdom, King, Paul, Well, However, Wisdom, Dionysos, These, Perhaps, Advent, Godhead, Elijah, Father, Maybe, Like, World, Since, Fall, Because, Therefore, Prison, Only
 
 ---

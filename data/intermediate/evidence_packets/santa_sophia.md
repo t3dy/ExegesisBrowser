@@ -20,7 +20,7 @@ The "Dec N T" says that this time Christ won't appear in the form of one single 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Fish, Bible, Parousia, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1108-1116 (Match: 'Santa Sophia')
@@ -37,7 +37,7 @@ My whole God is identified with a vitilizing (or revitalizing) life-giving princ
 
 This beats the Greek idea of God as Mind which does nothing but think. Or know. How is it to know, if there is nothing to know? I conceive of it as a builder, an artificer, who creates, in conformity to its Plan: the Logos (I conceive of Logos and blueprint of something to be actualized). The Greek prejudice against the manual arts/the mere crafts prevented them from seeing this quality of God.
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Complete, Form, Sophia, Paul, Greek, Maybe, Like, Savior, Mind, Light, Firebright, Could, Does, Just, Something, Santa, Without, Nothing, Still, Mother, Life, Body, Human
+**Co-occurrences**: Sophia, Firebright, Christ, Logos, Jesus, Complete, Form, Paul, Greek, Maybe, Like
 
 ---
 ### Line 1136-1144 (Match: 'Santa Sophia')
@@ -54,7 +54,7 @@ In my dreams last night: Nick was jolted to discover that I had discerned patter
 
 But I am still in touch with him. He is, however, now in this world. I guess again (after a time dysjunction). (I.E. There was a period when he wasn't.)
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Holy Spirit, Form, Sophia, King, However, Elijah, Father, Maybe, Like, World, Only, Time, Harpax, After, Firebright, Okay, Look, Again, Both, Zagreus, March, Runciter, Santa, Those, Still, More, Another, Through, Actually, Will, Calvin, Would, Kingship, Back, Life, Justice, Spring, Wise, Testament, Passover, Truth, Dream
+**Co-occurrences**: Sophia, Time, Firebright, Christ, Christian, Spirit, Holy, Holy Spirit, Form, King, However, Elijah, Father, Maybe, Like, World, Only
 
 ---
 ### Line 1156-1164 (Match: 'Santa Sophia')
@@ -71,7 +71,7 @@ Last edit over 5 years ago by Harpax
 
 81
 ```
-**Co-occurrences**: Christ, Spirit, Logos, Sophia, However, Wisdom, These, Perhaps, Maybe, Since, Prison, Only, John, Earth, Harpax, Could, Anyhow, Philo, Just, Something, Again, Being, Although, Christos, Santa, Without, Nothing, Brain, Those, Part, More, Another, Heaven, Such, Certainly, Before, Consider, True, Will, Would, Other, Messiah, Were, Back, Whatever, Have, Later, Having, Knowledge, Suddenly, Dream, Free, Right, Mary
+**Co-occurrences**: Sophia, Philo, Decoded, Christ, Spirit, Logos, However, Wisdom, These, Perhaps, Maybe, Since, Prison, Only, John, Earth
 
 ---
 ### Line 1161-1169 (Match: 'Santa Sophia')
@@ -87,7 +87,7 @@ Anyhow, this has been recast by God. The silence is broken. And I felt it that d
 
 . .
 ```
-**Co-occurrences**: Christ, Logos, Sophia, Wisdom, Perhaps, Fall, Because, Harpax, After, Mind, Light, Does, Anyhow, Both, Palm, Santa, Creator, Kathy, More, Certainly, Universe, Would, Other, Have, Body, Spring
+**Co-occurrences**: Sophia, Christ, Logos, Wisdom, Perhaps, Fall, Because
 
 ---
 ### Line 1163-1171 (Match: 'Santa Sophia')
@@ -103,7 +103,7 @@ Anyhow, this has been recast by God. The silence is broken. And I felt it that d
 
 Here is something hard to express, but important. Going back to Plato and Neoplatonists. If the soul remembered each life, and if there is reincarnation, and if the soul acquired wisdom each time around, THEN what I experienced (anamnesis) is exactly the breadth and magnitude of wisdom commensurate with these many live, and of the quality which this and only this wisdom -- acquired this long, laborious way-- could consist of, could have gathered. What I saw (space and time), what I understood (how the universe worked), my total awareness, is exactly understood commensurate with the Platonist and Neoplatonism (and Pythagorian) idea of rising each time, rising but forgetting, and the value of anamnesis, the removal of amnesis. What was remembered was the wisdom and understanding that was the aggerate of all these lives, and proportionate thereto (consider how many...perhaps thousands). Nothing else really was retained (although the dreams show local details sufficiently).
 ```
-**Co-occurrences**: Christ, Logos, Sophia, Plato, Wisdom, These, Perhaps, Plotinus, Fall, Because, Only, Time, Platonist, After, Mind, Light, Could, Does, Anyhow, Something, Both, Although, Palm, Santa, Anamnesis, Nothing, Creator, Kathy, More, Soul, Certainly, Consider, Universe, Would, Other, Back, Many, Have, Life, Body, Spring
+**Co-occurrences**: Plotinus, Sophia, Time, Anamnesis, Christ, Logos, Plato, Wisdom, These, Perhaps, Fall, Because, Only, Platonist
 
 ---
 ### Line 1408-1416 (Match: 'Santa Sophia')
@@ -120,7 +120,7 @@ Last edit over 5 years ago by Harpax
 99
 Needs Review
 ```
-**Co-occurrences**: Tears, Christian, Logos, Xerox, Rome, Sophia, King, Well, Parousia, Like, World, Since, Because, Nixon, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Secret, Before, True, Finally, Will, Somehow, Back, Have, Tree, Things, Justice, Freedom, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+**Co-occurrences**: Sophia, Tears, Christian, Logos, Xerox, Rome, King, Well, Parousia, Like, World, Since, Because, Nixon
 
 ---
 ### Line 1542-1550 (Match: 'Santa Sophia')
@@ -137,7 +137,7 @@ Last edit over 5 years ago by Harpax
 110
 Needs Review
 ```
-**Co-occurrences**: Tears, Logos, Jesus, Form, Sophia, Kingdom, Paul, Well, However, Maybe, Like, World, Time, Harpax, After, Book, Even, Gospel, Could, Does, Anyhow, Again, Kingdom of God, Both, Reality, Being, Obviously, Everything, Divine, Great, Probably, Santa, Kathy, Still, Their, Another, Through, Most, Certainly, Before, Universe, Finally, Will, Other, Were, Very, Back, Beyond, Many, Absolute, Evil, Socrates, Government, Except
+**Co-occurrences**: Sophia, Time, Tears, Logos, Jesus, Form, Kingdom, Paul, Well, However, Maybe, Like, World
 
 ---
 ### Line 1635-1643 (Match: 'Santa Sophia')
@@ -154,7 +154,7 @@ Last edit over 5 years ago by Harpax
 
 116
 ```
-**Co-occurrences**: Logos, Sophia, Kingdom, Paul, Golden, However, Wisdom, Like, World, Fall, Because, Therefore, Only, Harpax, After, Savior, Light, Pinky, Once, Again, Kingdom of God, Reality, Kosmos, Santa, Their, More, Most, Love, Universe, Would, Back, Have, Absolute, Cross, Greater, Dream, Right
+**Co-occurrences**: Sophia, Logos, Kingdom, Paul, Golden, However, Wisdom, Like, World, Fall, Because, Therefore, Only
 
 ---
 ### Line 1694-1702 (Match: 'Santa Sophia')
@@ -171,7 +171,7 @@ Would this be the Parousia? The dream in TEARS suggests it, as did all my dreams
 
 Also, "The Buddha is in the park."
 ```
-**Co-occurrences**: Tears, Holy, Sophia, King, Well, Bible, Parousia, Wisdom, Lord, Maybe, Like, World, Buddha, Holy Wisdom, Good, Book, Could, Does, Again, Santa, More, Before, Will, Would, Were, Have, Spring, Having, Israel, Dead, Dream, Salvation, Doesn
+**Co-occurrences**: Sophia, Saint Sophia, Tears, Holy, King, Well, Bible, Parousia, Wisdom, Lord, Maybe, Like, World
 
 ---
 ### Line 1710-1718 (Match: 'Santa Sophia')
@@ -188,7 +188,7 @@ I was in Rome (c. 100 AD) but I was among Greek-speaking people. This makes sens
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore, Time, Harpax, After, Savior, Mind, Even, Could, Anyhow, Hebrew, Something, Once, Both, Obviously, Although, Probably, Viewed, Santa, Still, Part, Their, Another, Pike, Such, Voice, Secret, Jim Pike, Will, Would, Other, Somehow, Were, Attic, Back, Have, Life, Information, Later, Testament, Knowledge, Dead, During, Whereas
+**Co-occurrences**: Sophia, Time, Information, Tears, Acts, Christian, Spirit, Holy, Rome, Holy Spirit, Paul, Fish, Greek, Well, Bible, Roman, Perhaps, Advent, Like, World, Since, Therefore
 
 ---
 ### Line 1759-1767 (Match: 'Santa Sophia')
@@ -205,7 +205,7 @@ I realized this when I saw him more recently in my dreams, sterner and older; pe
 
 . . . Regarding the M. Mission's contention that the Holy Spirit left around 150 AD -- this is not in accord with what Jesus said, about sending us another helper who would be with us always (or however it's put in John). Who will remain with you, and "it's better for you that I do leave so it can come." It is not reasonable that a Comforter would be sent, and arrive, and then either leave or be withdrawn. Why would God withdraw it? If temporary, it would be of little use; Christ stressed the value of it in terms of it abiding with us. This is all just to assign no worth to 2000 years of the Roman Catholic Church, the "dry period." I am finally led back, by logic and analysis and study as rigorous as that of Thomas Acquinas, to othodox Trinitarianism.
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, King, Roman, However, Perhaps, Like, World, John, Time, After, Does, Just, Heraclitus, Catholic, Either, Probably, Santa, More, Church, Another, Finally, Will, Would, Other, Mission, Back, Things, Life, Spring, Wise, Comforter, Dream, Salvation
+**Co-occurrences**: Thomas, Sophia, Time, Christ, Tears, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Roman, However, Perhaps, Like, World, John
 
 ---
 ### Line 1884-1892 (Match: 'Santa Sophia')
@@ -221,7 +221,7 @@ Last edit over 5 years ago by Harpax
 137
 Needs Review
 ```
-**Co-occurrences**: Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Sophia, Fish, Greek, These, Perhaps, Maybe, World, Because, John, Time, Harpax, After, Buddha, Good, Even, Just, Being, Fate, Palm, Santa, Those, Part, Egypt, Pike, Real, Such, Actually, Before, Consider, Jim Pike, True, Universe, Finally, Would, Other, Angel, Were, Back, Beyond, Under, Have, Except, During, Human, Dream, Evidently, Right
+**Co-occurrences**: Sophia, Time, Christian, Spirit, Holy, Jesus, Christianity, Holy Spirit, Fish, Greek, These, Perhaps, Maybe, World, Because, John
 
 ---
 ### Line 1981-1989 (Match: 'Santa Sophia')
@@ -238,7 +238,7 @@ The crucifixion and resurrection was a demonstration of exactly what the writer 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, Sophia, However, Wisdom, These, World, Because, Only, Time, Harpax, After, Cosmic, Paraclete, Good, Could, Once, Being, Although, Himself, Either, Santa, Without, Those, Part, Their, More, Another, Soul, Such, Would, Somehow, Very, Back, Have, Life, Body, Luther, Comforter, During, Human, Evidently, White
+**Co-occurrences**: Sophia, Time, Saint Sophia, Christ, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, However, Wisdom, These, World, Because, Only
 
 ---
 ### Line 1983-1991 (Match: 'Santa Sophia')
@@ -255,7 +255,7 @@ Last edit over 5 years ago by Harpax
 
 146
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, Sophia, However, Wisdom, These, World, Because, Only, Time, Harpax, After, Cosmic, Paraclete, Good, Could, Once, Being, Although, Himself, Either, Santa, Without, Those, Part, Their, More, Another, Soul, Such, Would, Somehow, Very, Back, Have, Life, Body, Luther, Comforter, During, Human, Evidently, White
+**Co-occurrences**: Sophia, Time, Saint Sophia, Christ, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, However, Wisdom, These, World, Because, Only
 
 ---
 ### Line 1998-2006 (Match: 'Santa Sophia')
@@ -272,7 +272,7 @@ Conclusion: Christ did not come here to suffer. His suffering was also not for t
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Christianity, Holy Spirit, Sophia, Paul, Greek, However, Wisdom, World, Since, Because, Only, Earth, Harpax, Good, Book, Even, Could, Does, Anyhow, Just, Both, Although, Probably, Santa, Nothing, Those, Another, Through, Most, Actually, Secret, Death, Will, Would, Other, Beyond, Whatever, Under, Many, Have, Things, Body, Truth, Human, Doesn
+**Co-occurrences**: Thomas, Sophia, Christ, Christian, Spirit, Holy, Logos, Christianity, Holy Spirit, Paul, Greek, However, Wisdom, World, Since, Because, Only, Earth
 
 ---
 ### Line 2000-2008 (Match: 'Santa Sophia')
@@ -289,7 +289,7 @@ Last edit over 5 years ago by Harpax
 147
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Christianity, Holy Spirit, Sophia, Paul, Greek, However, Wisdom, World, Because, Only, Earth, Harpax, Good, Book, Even, Could, Does, Anyhow, Just, Both, Although, Probably, Santa, Nothing, Those, Another, Most, Actually, Secret, Death, Will, Would, Other, Beyond, Whatever, Under, Many, Have, Things, Body, Truth, Human, Doesn
+**Co-occurrences**: Thomas, Sophia, Christ, Christian, Spirit, Holy, Logos, Christianity, Holy Spirit, Paul, Greek, However, Wisdom, World, Because, Only, Earth
 
 ---
 ### Line 2014-2022 (Match: 'Santa Sophia')
@@ -306,7 +306,7 @@ Last edit over 5 years ago by Harpax
 148
 Needs Review
 ```
-**Co-occurrences**: Jesus, Sophia, Like, World, Iron, Only, Earth, Harpax, Good, Light, Yang, Just, Something, Empedocles, Everything, Santa, Darkness, Another, True, Have, Artifact, Absolute, Justice, Evil, Having, Knowledge, Greater, Sons
+**Co-occurrences**: Sophia, Jesus, Like, World, Iron, Only, Earth
 
 ---
 ### Line 2175-2183 (Match: 'Santa Sophia')
@@ -323,7 +323,7 @@ The expression of God's creative force is visible as the universe itself; but Hi
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Sophia, Plato, Fish, Greek, Wisdom, These, James, Like, World, Therefore, Only, Time, Harpax, Buddha, Savior, Light, Anyhow, Something, Again, Self, Daniel, Probably, Palm, Santa, Without, Creator, Still, Their, More, Another, Through, Most, Real, Voice, Before, Universe, Will, Would, Were, Back, Beyond, Further, Have, Tree, Later, Days, Cross, Otherwise, Dream, Right
+**Co-occurrences**: Sophia, Time, Christ, Plato, Fish, Greek, Wisdom, These, James, Like, World, Therefore, Only
 
 ---
 ### Line 2512-2520 (Match: 'Santa Sophia')
@@ -340,6 +340,6 @@ in human civilization ahead (first Earth Mother; then masculine Solar Deities; n
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Xerox, Rome, Christianity, Holy Spirit, Form, Sophia, King, Well, Empire, Wisdom, These, Perhaps, Advent, Father, Maybe, Like, World, Fall, Because, Time, Earth, Harpax, Good, Hermetic, Just, Again, Being, Girl, Great, Gods, Sibyl, Santa, Nothing, Part, Their, More, Egypt, Living, Heaven, Certainly, Love, Before, Mother, Greece, Macro, Universe, Will, Would, Other, Creation, Judge, Very, Back, Egyptian, Surely, Whatever, Have, Judgment, Justice, Information, Trinity, Evil, Hermes, Human, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Hermetic, Information, Hermes, Saint Sophia, Christ, Christian, Spirit, Holy, Logos, Xerox, Rome, Christianity, Holy Spirit, Form, King, Well, Empire, Wisdom, These, Perhaps, Advent, Father, Maybe, Like, World, Fall, Because, Earth
 
 ---

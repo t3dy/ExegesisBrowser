@@ -20,7 +20,7 @@ If this is so, then we must consider that for a moment Dr. Kozyrev [libereted] u
 
 See what you think: as you read his paper consider what I've told you about my experiences, and see if you don't agree that here-with may exist a theoretical possibility to account as to why I had these experiences (I am what might be [x] called "a sensitive" re time fields). Well, jeez; I am so excited. In his paper he says just about what would fit my theory (except that I think either there is a retrograde time, which he expressly denies, or temporarily he allowed a retrograde time to take place, a sort of backlash, due to his experiments; maybe he so to speak created retrograde time.
 ```
-**Co-occurrences**: Xerox, Well, These, Perhaps, Maybe, Time, Even, Just, March, Either, More, Consider, Universe, Would, Claudia, Except
+**Co-occurrences**: Time, Xerox, Well, These, Perhaps, Maybe
 
 ---
 ### Line 561-569 (Match: 'Information')
@@ -37,7 +37,7 @@ The fish symbol didn't perhaps "disinhibit" me, i.e. act as a disinhibiting stim
 
 It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dreaming; it awoke. I awoke. It restored. It gave me back my freedom. It gave me back my sight, restored it. Began a restoring throughout. How come?
 ```
-**Co-occurrences**: Logos, Gnostic, Fish, However, These, Perhaps, Plotinus, World, Because, Therefore, Only, Time, Harpax, Does, Reality, Being, Anamnesis, More, Most, Certainly, Universe, Back, Freedom, Info, Human
+**Co-occurrences**: Plotinus, Gnostic, Time, Anamnesis, Logos, Fish, However, These, Perhaps, World, Because, Therefore, Only
 
 ---
 ### Line 655-663 (Match: 'Information')
@@ -53,7 +53,7 @@ UBIK does indeed to resemble Dr. NK's time theory that one knowing his time theo
 
 However, it is equally probable that in March 1974 an actual concerted telepathic transmission effort was made in Leningrad vis-a-vis me and my ideas, perhaps to test out and see if I was telepathically sensitive.
 ```
-**Co-occurrences**: Ubik, Logos, Christianity, However, These, Perhaps, Time, Harpax, Even, Could, Does, Philo, Being, March, Probably, Their, Would, Back, Many, Life, Later, Knowledge, Salvation, Evidently
+**Co-occurrences**: Time, Philo, Ubik, Logos, Christianity, However, These, Perhaps
 
 ---
 ### Line 661-669 (Match: 'Information')
@@ -70,7 +70,7 @@ Last edit over 5 years ago by Harpax
 42
 Needs Review
 ```
-**Co-occurrences**: Ubik, Logos, However, Perhaps, Maybe, Time, Harpax, Good, Even, Could, Does, Anyhow, Soviet, Again, Both, Being, March, Probably, Part, Their, More, Another, Such, Would, Beyond, Under, Have, Life, Later, Knowledge, Dead, Salvation, Evidently
+**Co-occurrences**: Time, Linear, Ubik, Logos, However, Perhaps, Maybe
 
 ---
 ### Line 669-677 (Match: 'Information')
@@ -87,7 +87,7 @@ or;
 
 (2) My experience is a result (a causal connection) of the experiments and truth of his work; the difference being that it is possible that any major telepathic reception would induce the massive time dysfunction I experienced, for the reason given in Dr. HK's theory; in which case no matter who transmitted to me, including the Logos --instinct-- itself, I'd sense the time transformations involved.
 ```
-**Co-occurrences**: Logos, Time, Once, Being, Will, Would, Truth
+**Co-occurrences**: Time, Logos
 
 ---
 ### Line 675-683 (Match: 'Information')
@@ -104,7 +104,7 @@ All this indicates that (1) Telepathic transmission to me of info was the goal; 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Ubik, Logos, Like, Since, Time, Harpax, Even, Anyhow, Being, Great, Probably, Their, More, Finally, Will, Would, Other, Were, Back, Surely, Under, Further, Have, Info, Having, Truth, Someone
+**Co-occurrences**: Time, Ubik, Logos, Like, Since
 
 ---
 ### Line 685-693 (Match: 'Information')
@@ -121,7 +121,7 @@ This is a description of the Logos.
 
 Energy plus information which is everywhere.
 ```
-**Co-occurrences**: Spirit, Logos, Lord, Father, Like, Therefore, Time, Even, Reality, Being, Everything, Divine, Probably, Through, Living, Such, Will, Were, Justice, Knowledge, Truth, Human, Dream, Salvation
+**Co-occurrences**: Time, Spirit, Logos, Lord, Father, Like, Therefore
 
 ---
 ### Line 689-697 (Match: 'Information')
@@ -138,7 +138,7 @@ That's Mr. Runciter plus the spraycan of Ubik.
 
 If we [c]an see identity between Dr. NK's "Time" and the "Logos, the Word of God," then there is no problem in explaining the entry (even a preemptive entry) into any successful time-density activity by the Logos, outsmarting long in advance man's own personal plan. By definition, by affecting a massive density in time they are involving the Logos, which is already informed (i.e. whatever information might be "artificially" transferred telepathically, this it the normal method used by the Logos to assist and inform living creatures anyhow; the "artificial" information would simply enter as portion of a vaster, older stream).
 ```
-**Co-occurrences**: Ubik, Logos, Therefore, Time, Even, Anyhow, Runciter, Everything, Probably, Living, Such, Would, Whatever, Knowledge
+**Co-occurrences**: Time, Ubik, Logos, Therefore
 
 ---
 ### Line 693-701 (Match: 'Information')
@@ -155,7 +155,7 @@ It could not be otherwise. Not unless (1) Dr. NK is wrong; and (2) My experience
 
 QED, because I was not familiar with his paper; and I was not telepathically affected then (i.e. not artificially).
 ```
-**Co-occurrences**: Ubik, Logos, Because, Time, Even, Could, Anyhow, Being, March, Obviously, Runciter, Living, True, Would, Whatever, Unless, Otherwise
+**Co-occurrences**: Time, Ubik, Logos, Because
 
 ---
 ### Line 699-707 (Match: 'Information')
@@ -172,7 +172,7 @@ Last edit over 5 years ago by Harpax
 44
 Needs Review
 ```
-**Co-occurrences**: Ubik, Logos, These, Because, Time, Harpax, Could, Reality, Being, March, Obviously, True, Universe, Unless, Otherwise
+**Co-occurrences**: Time, Ubik, Logos, These, Because
 
 ---
 ### Line 707-715 (Match: 'Information')
@@ -189,7 +189,7 @@ We still serve our ex-employer, Mr. Runciter; and he still assists and advises u
 
 Dr. Kozyrev speaks of Time informing all biological entities simultaneously on an instinctive basis, by telepathy; this is fine, but where does this information originate? Can Time think? It is evident that Immanent Mind is equal to Time, possessing the same qualities, both of them. The Plan, being pressed onto us, is thought of separately (as Logos). This is an inference on the part of Dr. NK; Time informs, but it must know in order to inform (or anyhow be in possession of what it informs with). He is so close to attributing knowing to it that he might as well speak of it as knowing what to inform each species with, and when (as well as where from). I think anybody reading his paper would eventually wonder the same things I am wondering, even without my experience. I point out: that God's thoughts and will and plans are not separate, as they are in us (v. Hericlitus, Avicenna, Isa.). There is mind but no brain, just as He is aware without eyes, etc. Time seems according to Dr. NK to be capable of all these simultaneously -- without lag or distinction, as is found in us.
 ```
-**Co-occurrences**: Logos, Well, These, Father, Time, Mind, Even, Could, Does, Anyhow, Just, Both, Being, Runciter, Without, Nothing, Brain, Those, Still, Part, Their, More, Through, Most, Before, Will, Would, Illustration, Beyond, Things, Instead, Info
+**Co-occurrences**: Time, Logos, Well, These, Father
 
 ---
 ### Line 711-719 (Match: 'Information')
@@ -206,7 +206,7 @@ Ad I found today in Psychology Today: The New Testament De-coded. "Jesus taught 
 
 The part of Dr. NK's paper which would theoretically account for my writing UBIK (i.e. independently thinking us his revolutionary ideas) is the sentence about "all biological entities are perhaps informed telepathically by and via Time." He might even be willing to say he himself was informed this way. Also, they would transmit more energy (time made dense) than information -- that alone would be helpful to the receiving organism; it would be strengthened with or without any information.
 ```
-**Co-occurrences**: Ubik, Logos, Jesus, Well, These, Perhaps, Because, Time, Mind, Even, Could, Does, Anyhow, Just, Again, Both, Being, Runciter, Self, Himself, Without, Nothing, Brain, Those, Still, Part, Their, More, Through, Most, Before, Will, Would, Illustration, Beyond, Have, Things, Info, Testament, Knowledge, Today, During
+**Co-occurrences**: Time, Ubik, Logos, Jesus, Well, These, Perhaps, Because
 
 ---
 ### Line 715-723 (Match: 'Information')
@@ -223,7 +223,7 @@ Last edit over 5 years ago by Harpax
 45
 Needs Review
 ```
-**Co-occurrences**: Ubik, Logos, Jesus, Well, These, Perhaps, Because, Time, Harpax, Mind, Even, Does, Anyhow, Just, Again, Both, Being, Self, Himself, Without, Brain, Part, More, Will, Would, Beyond, Have, Things, Testament, Knowledge, Today, During
+**Co-occurrences**: Time, Ubik, Logos, Jesus, Well, These, Perhaps, Because
 
 ---
 ### Line 723-731 (Match: 'Information')
@@ -240,7 +240,7 @@ Voila! For Magdeburg jars read moist soul-dry soul (and the related external wor
 
 How? The "Selectric rotating ball lens filter" system.
 ```
-**Co-occurrences**: Tears, Logos, Perhaps, Like, Time, Mind, Even, Could, Just, Being, March, Self, Soul, Most, Heaven, Would, Many, Having
+**Co-occurrences**: Time, Tears, Logos, Perhaps, Like
 
 ---
 ### Line 1014-1022 (Match: 'Information')
@@ -257,7 +257,7 @@ Last edit over 5 years ago by Harpax
 69
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Certainly, Before, Doris, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Except, Dead, Today, Otherwise, Human, Doesn, Right
+**Co-occurrences**: Time, Christ, Spirit, Jesus, Form, Well, Roman, However, These, Father, Since, Because, Only
 
 ---
 ### Line 1059-1067 (Match: 'Information')
@@ -274,7 +274,7 @@ Last edit over 5 years ago by Harpax
 73
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World, Time, Harpax, Cosmic, Even, Gospel, Yang, Firebright, Does, Just, Something, Again, Reality, Zagreus, Being, Jesus Christ, Great, Those, Still, More, Zeus, Most, Upon, Certainly, Love, Before, Doris, True, Death, Universe, Deity, Would, Were, Very, Back, Whatever, Have, Things, Life, Justice, Spring, Fake, Freedom, Days, Sturgeon, Knowledge, Truth, Today, Human, Dream, Crete, Right, Mary
+**Co-occurrences**: Time, Firebright, Christ, Christian, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Form, Father, Like, World
 
 ---
 ### Line 1230-1238 (Match: 'Information')
@@ -290,7 +290,7 @@ Joseph Campball makes this startling point: the Indus civilization identified wi
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christianity, Form, Brahman, Well, Like, Parmenides, Because, Time, Harpax, Good, Mind, Even, Does, Realm, Again, Zagreus, Obviously, Atman, Although, Buddhism, Either, Great, Christos, Brain, Part, Such, Certainly, Death, Macro, Will, Deity, Would, Were, Very, Whatever, Many, Campbell, Have, Memory, Instead, Form One, Except, Joseph, Dream
+**Co-occurrences**: Time, Christ, Christianity, Form, Brahman, Well, Like, Parmenides, Because
 
 ---
 ### Line 1294-1302 (Match: 'Information')
@@ -307,7 +307,7 @@ Ah! I can now separate it on a new, better basis: into two entirely different pa
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Form, Roman, Maybe, Like, World, Only, Time, Harpax, Even, Could, Anyhow, Once, Being, Everything, Himself, Nothing, More, Real, Such, Actually, Certainly, Before, Revelation, Other, Were, Back, Have, Instead, Having, Except, Greater
+**Co-occurrences**: Time, Christ, Ubik, Form, Roman, Maybe, Like, World, Only
 
 ---
 ### Line 1296-1304 (Match: 'Information')
@@ -324,7 +324,7 @@ Last edit over 5 years ago by Harpax
 
 91
 ```
-**Co-occurrences**: Ubik, Form, Roman, Maybe, Like, World, Only, Time, Harpax, Could, Once, Being, Himself, Nothing, More, Real, Such, Certainly, Before, Revelation, Other, Were, Have, Instead, Except, Greater
+**Co-occurrences**: Time, Ubik, Form, Roman, Maybe, Like, World, Only
 
 ---
 ### Line 1453-1461 (Match: 'Information')
@@ -341,6 +341,6 @@ Last edit over 5 years ago by Harpax
 103
 Needs Review
 ```
-**Co-occurrences**: Tears, Jesus, Form, King, Father, Maybe, John, Earth, Harpax, After, Even, Both, Everything, Without, Still, Part, Another, Most, Voice, Fullerton, Finally, Will, Very, Back, Have, Things, Life, Absolute, Wise, Later, Knowledge, Truth, Suddenly, Today, Comforter, Dream, Evidently
+**Co-occurrences**: Tears, Jesus, Form, King, Father, Maybe, John, Earth
 
 ---

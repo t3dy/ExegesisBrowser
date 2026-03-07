@@ -20,7 +20,7 @@ The absolute height of wisdom and the goal of its search would be this computer 
 
 It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese States of America" dream is typical. I dreamed all manner of explicit alchemical symbols (the homonculus, the retorts interwoven...flask of Hermes, the fish, etc.), out of Jung's description of the self in the process of psychic integration experiencing noetically these prior consciously arrived at symbols (prior in terms of centuries -- thus his theory of the Collective Unconscious, that such symbols could arise in a modern man who did not know them, who had no way of knowing them -- like me with the Greek. But this
 ```
-**Co-occurrences**: Complete, Fish, Greek, Wisdom, These, Plotinus, Maybe, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, America, Magic, Hermes, Human, Dream, Someone
+**Co-occurrences**: Plotinus, Hermes, Complete, Fish, Greek, Wisdom, These, Maybe, Like, World, Earth
 
 ---
 ### Line 580-588 (Match: 'Gnosticism')
@@ -37,7 +37,7 @@ V. Tagomi in the park. Was there anything special about Mr. Tagomi? He was inten
 
 He was not a great man.
 ```
-**Co-occurrences**: Christianity, Fish, Plotinus, World, Gnosis, Only, Even, Could, Just, Reality, Although, Orphic, Great, Anamnesis, Grace, Part, Will, Other, Have, Tagomi, Knowledge, Human, Free
+**Co-occurrences**: Plotinus, Anamnesis, Christianity, Fish, World, Gnosis, Only
 
 ---
 ### Line 1043-1051 (Match: 'Gnosticism')
@@ -53,7 +53,7 @@ You are to be "meek," i.e. Yinnish, humble, receptive, but what overpowers you (
 
 This borders on the Sufi: becoming God. One does "become" God while he possesses you, but then he leaves. But -- well, it's like poor Leda. Vide Yeat's poem. But look at the progeny: Helen of Troy.
 ```
-**Co-occurrences**: Christianity, Form, Well, Dionysos, Plotinus, Elijah, Father, Like, Time, Harpax, After, Cosmic, Savior, Good, Light, Firebright, Okay, Could, Does, Just, Something, Look, Being, Self, Orphic, Divine, Himself, Sibyl, Viewed, Grace, More, Orphism, Such, Certainly, True, Would, Other, Were, Beyond, Have, Life, Body, Justice, Truth, Human, Doesn
+**Co-occurrences**: Plotinus, Time, Firebright, Decoded, Christianity, Form, Well, Dionysos, Elijah, Father, Like
 
 ---
 ### Line 3057-3065 (Match: 'Gnosticism')
@@ -70,7 +70,7 @@ Last edit almost 5 years ago by svayambhu108
 234
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Xerox, Sophia, Gnostic, Greek, Wisdom, Perhaps, World, Cosmic, Could, Once, Great, Sibyl, Jewish, Creator, Still, Part, Living, Voice, Before, True, Will, Would, Other, Were, Very, Back, Have, Body, Information, Wise, Aphrodite, Socrates, During, Dream, Evidently, Free, Pleroma
+**Co-occurrences**: Sophia, Gnostic, Information, Pleroma, Christ, Tears, Christian, Ubik, Spirit, Xerox, Greek, Wisdom, Perhaps, World
 
 ---
 ### Line 3063-3071 (Match: 'Gnosticism')
@@ -87,7 +87,7 @@ Pantocrator: ruler of the universe. Creator and Savior com¬ bined. Also judge. 
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Orphic, Covenant, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Journey, Things, Body, Memory, Jungian, Truth, Magus, Doesn, Pleroma, Answer, Simon Magus
+**Co-occurrences**: Thomas, Sophia, Gnostic, Time, Anamnesis, Pleroma, Christ, Christian, Spirit, Holy, Logos, Complete, Christianity, Plato, Kingdom, Paul, Greek, Well, Bible, Wisdom, Godhead, Father, Like, World, Fall
 
 ---
 ### Line 3065-3073 (Match: 'Gnosticism')
@@ -104,7 +104,7 @@ Last edit almost 5 years ago by svayambhu108
 235
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Logos, Complete, Christianity, Sophia, Plato, Kingdom, Gnostic, Paul, Greek, Well, Bible, Wisdom, Godhead, Father, Like, World, Fall, Time, After, Savior, Holy Wisdom, Good, Book, Gospel, Anyhow, Just, Once, Simon, Adam, Kingdom of God, Both, Being, Obviously, Orphic, Covenant, Either, Anamnesis, Creator, Their, Pantocrator, Through, Real, Before, Revelation, Mother, Death, Universe, Finally, Would, Judge, Were, Back, Many, Journey, Things, Body, Memory, Jungian, Truth, Magus, Doesn, Pleroma, Answer, Simon Magus
+**Co-occurrences**: Thomas, Sophia, Gnostic, Time, Anamnesis, Pleroma, Christ, Christian, Spirit, Holy, Logos, Complete, Christianity, Plato, Kingdom, Paul, Greek, Well, Bible, Wisdom, Godhead, Father, Like, World, Fall
 
 ---
 ### Line 3574-3582 (Match: 'Gnosticism')
@@ -121,7 +121,7 @@ Last edit almost 5 years ago by svayambhu108
 288
 Needs Review
 ```
-**Co-occurrences**: Christian, Christianity, Fish, Greek, These, Perhaps, Plotinus, Parmenides, Time, After, Platonism, Mind, Light, Gestalt, Could, Bardo, Just, Soviet, Thodol, Bardo Thodol, Reality, Empedocles, Girl, Divine, Probably, Jewish, Nothing, Brain, Those, Still, Dokos, More, Another, Through, Real, Gold, Such, Kant, Love, Before, Easter, Universe, Would, Were, Very, Under, Many, Have, Mani, Journey, Things, Life, Absolute, Aphrodite, Later, Passover, Suddenly, Human, Right, Answer
+**Co-occurrences**: Plotinus, Time, Kant, Christian, Christianity, Fish, Greek, These, Perhaps, Parmenides
 
 ---
 ### Line 4033-4041 (Match: 'Gnosticism')
@@ -138,7 +138,7 @@ What I'm faced with at this point is the realization that I cannot really explai
 
 In answer to "what happened in 3-74?" the I Ching gives me #46: ascending, promoting, + comments, "the weak ascend." Interestingly this hex[agram] has to do - not with expansion - but with vertical ascent: "direct rises from obscurity + lowliness to power + influence." ALSO, it is pushing upward associated with effort +: "one pushes upward by steps," meaning: "one achieves one's will completely." Each line suggests a better pushing up, + this line is the culmination (the top is bad - but 5 is the ruler).
 ```
-**Co-occurrences**: Indexed, Perhaps, Like, World, Because, Garden, Platonism, Zebrapedia, Once, Divine, Probably, Anamnesis, Another, Will, Other, Ching, Back, Things, Memory, Jungian, India, Salvation, Evidently, Answer
+**Co-occurrences**: Zebrapedia, Anamnesis, Indexed, Perhaps, Like, World, Because
 
 ---
 ### Line 4539-4547 (Match: 'Gnosticism')
@@ -155,7 +155,7 @@ Zebra has invaded our world replacing merciless determinism with its own loving 
 
 Last edit less than 10 seconds ago by Gabriel Mckee
 ```
-**Co-occurrences**: Zebra, Christianity, Fish, World, Iron, Prison, Only, Time, Black, Gabriel, Mckee, Gabriel Mckee, Christi, Black Iron Prison, Corpus, Great, Corpus Christi, Living, Gold, True, Have, Body, Memory, Magic, Iron Prison, Salvation, White
+**Co-occurrences**: Zebra, Time, Christianity, Fish, World, Iron, Prison, Only
 
 ---
 ### Line 4575-4583 (Match: 'Gnosticism')
@@ -172,7 +172,7 @@ Needs Review
 
 2) the creator of this world doesnt care what happens to us, and kills and maims us recklessly.
 ```
-**Co-occurrences**: Acts, Zebra, Gnostic, However, World, Since, Because, Iron, Prison, Only, Black, Savior, Good, Just, Everything, Black Iron Prison, Without, Creator, Through, Certainly, Secret, Revelation, True, Will, Would, Other, Creation, Very, Meanwhile, Have, Freedom, Evil, Knowledge, Dialectic, Otherwise, Iron Prison, Salvation, Whereas, Free
+**Co-occurrences**: Zebra, Gnostic, Dialectic, Acts, However, World, Since, Because, Iron, Prison, Only
 
 ---
 ### Line 4616-4624 (Match: 'Gnosticism')
@@ -189,7 +189,7 @@ Last edit over 3 years ago by etherfire
 24
 Needs Review
 ```
-**Co-occurrences**: Ubik, Zebra, Xerox, Maybe, World, Since, Fall, Because, After, Book, Even, Soviet, Being, Self, Divine, Great, Anamnesis, More, Secret, Before, Consider, Would, Have, Memory, Truth, Evidently, Answer
+**Co-occurrences**: Zebra, Anamnesis, Ubik, Xerox, Maybe, World, Since, Fall, Because
 
 ---
 ### Line 4622-4630 (Match: 'Gnosticism')
@@ -206,7 +206,7 @@ Last edit almost 3 years ago by svayambhu108
 25
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Zebra, Jesus, Gnostic, Brahman, However, Lord, Plotinus, Maybe, World, Since, Prison, Only, After, Savior, Even, Yang, Just, Shiva, Maya, Reality, Being, Although, Divine, Creator, Most, Certainly, Secret, Before, Revelation, Universe, Creation, Have, Clearly, Later, Knowledge, Dialectic, Dead, Comforter, Impostor, Right, Until
+**Co-occurrences**: Plotinus, Zebra, Gnostic, Dialectic, Christ, Tears, Ubik, Jesus, Brahman, However, Lord, Maybe, World, Since, Prison, Only
 
 ---
 ### Line 4633-4641 (Match: 'Gnosticism')
@@ -222,7 +222,7 @@ Last edit almost 3 years ago by svayambhu108
 27
 Needs Review
 ```
-**Co-occurrences**: Christ, Zebra, Gnostic, Bible, World, Because, Only, Even, Just, Look, Again, Both, Reality, Being, Great, Nothing, Dokos, More, Real, Such, True, Universe, Would, Creation, Back, Life, Body, Fake, Later, Human
+**Co-occurrences**: Zebra, Gnostic, Christ, Bible, World, Because, Only
 
 ---
 ### Line 4639-4647 (Match: 'Gnosticism')
@@ -239,7 +239,6 @@ Last edit over 4 years ago by green.daisy
 28
 Needs Review
 ```
-**Co-occurrences**: Could, Without, Later
 
 ---
 ### Line 4691-4699 (Match: 'Gnosticism')
@@ -255,7 +254,7 @@ Last edit almost 3 years ago by svayambhu108
 37
 Needs Review
 ```
-**Co-occurrences**: Christ, Christianity, Kingdom, Gnostic, Like, World, Since, Time, Good, Even, Yang, Just, Suppose, Being, Runciter, Jewish, Most, Secret, Revelation, Consider, Will, Deity, Very, Back, Beyond, Life, Wise, Info, Evil, Having, Unless, Knowledge
+**Co-occurrences**: Gnostic, Time, Linear, Christ, Christianity, Kingdom, Like, World, Since
 
 ---
 ### Line 5696-5704 (Match: 'Gnosticism')
@@ -272,7 +271,7 @@ Last edit over 5 years ago by Toso
 5
 Indexed
 ```
-**Co-occurrences**: Christ, Toso, Indexed, Logos, Plato, Fish, Golden, Wisdom, Perhaps, Plotinus, World, Because, Golden Fish, Faith, Pythagoras, Light, Maya, Kosmos, Heraclitus, Daniel, Grace, Darkness, Dokos, Soul, Babylon, Most, Real, Have, Life, Neither, Trinity, Evidently
+**Co-occurrences**: Plotinus, Christ, Toso, Indexed, Logos, Plato, Fish, Golden, Wisdom, Perhaps, World, Because, Golden Fish
 
 ---
 ### Line 5760-5768 (Match: 'Gnosticism')
@@ -289,7 +288,7 @@ Last edit over 5 years ago by Toso
 
 1
 ```
-**Co-occurrences**: Christ, Toso, Indexed, Spirit, Paul, World, Because, Prison, Only, Time, Being, Fate, Nothing, Their, More, Holt, Olive, Olive Holt, Were, Back, Have, Days, Free
+**Co-occurrences**: Time, Christ, Toso, Indexed, Spirit, Paul, World, Because, Prison, Only
 
 ---
 ### Line 5956-5964 (Match: 'Gnosticism')
@@ -305,7 +304,7 @@ Last edit almost 3 years ago by svayambhu108
 7
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Zebra, Logos, Holy Spirit, Paul, Fish, Bible, Golden, World, Gnosis, Golden Fish, Only, Time, Cosmic, Gabriel, Mckee, Gabriel Mckee, Cosmic Christ, Just, Reality, Either, Another, Through, Soul, Real, Secret, Death, Were, Life, Instead, Human, Salvation
+**Co-occurrences**: Zebra, Time, Christ, Christian, Spirit, Holy, Logos, Holy Spirit, Paul, Fish, Bible, Golden, World, Gnosis, Golden Fish, Only
 
 ---
 ### Line 6003-6011 (Match: 'Gnosticism')
@@ -322,7 +321,7 @@ Last edit almost 3 years ago by svayambhu108
 15
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Fish, Golden, Perhaps, World, Gnosis, Fall, Golden Fish, Time, Even, Could, Pinky, Something, Realm, Again, Although, Buddhism, Divine, Probably, Part, Another, Through, Babylon, Real, Upon, Revelation, True, Will, Would, Other, Have, Life, Instead, Later, Having, Knowledge, Pleroma
+**Co-occurrences**: Sophia, Time, Pleroma, Christ, Christian, Spirit, Holy, Rome, Holy Spirit, Fish, Golden, Perhaps, World, Gnosis, Fall, Golden Fish
 
 ---
 ### Line 6020-6028 (Match: 'Gnosticism')
@@ -339,6 +338,6 @@ Last edit almost 3 years ago by svayambhu108
 18
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Zebra, Holy Spirit, Sophia, Bible, Parousia, Like, World, Because, Prison, Only, Time, Garden, St Sophia, Could, Does, Just, Something, Everything, Corpus, Probably, Those, Still, More, Church, Ground, Real, Such, Before, True, Would, Mission, Were, Very, Back, Evil, Having, Knowledge
+**Co-occurrences**: Zebra, Sophia, Time, St Sophia, Christ, Christian, Spirit, Holy, Holy Spirit, Bible, Parousia, Like, World, Because, Prison, Only
 
 ---

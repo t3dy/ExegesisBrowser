@@ -20,7 +20,7 @@ I saw the Final Things (eschatology). There, all forms including us, including m
 
 I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Maybe, Iron, Time, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Time, Linear, Ubik, Spirit, Holy, Holy Spirit, Form, Kingdom, Maybe, Iron
 
 ---
 ### Line 26-34 (Match: 'Parousia')
@@ -37,7 +37,7 @@ It has happened, the Prince of this World fell.
 
 This all has been an unfolding process. A revealing or disclosing of Being.
 ```
-**Co-occurrences**: Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, These, Like, World, Only, Time, Nixon, Even, Being, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, These, Like, World, Only, Nixon
 
 ---
 ### Line 32-40 (Match: 'Parousia')
@@ -54,7 +54,7 @@ Time didn't reach its completion as an entelechy does; it was pierced -- breache
 
 Yes, I see -- that rat was the instrument of saving me; I died with it, and I prayed for it when I killed it; and it's been transformed...in Rog's story, the rat operated a humanoid robot, an android; it could manage to say, "Mama" and "papa" and could recognize the two people who were testing it, the android. It worked pedals. When the boys removed it, it was trying to work the pedals, now gone, and Rog said, It was as if it were praying. I'm sorry, poor rat; Rog is dead; the rat is dead, and I must stop typing or Tessa will get me.
 ```
-**Co-occurrences**: Tears, King, World, Time, Could, Does, Just, Being, March, Great, Tessa, Part, Through, Dick, Before, Death, Will, Christopher, Were, Under, Things, Dead, Dream, Final, White
+**Co-occurrences**: Time, Linear, Tears, King, World
 
 ---
 ### Line 68-76 (Match: 'Parousia')
@@ -71,7 +71,7 @@ This is why (uniquely for me) my thoughts and phosphene activity speeded up in M
 
 Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
 ```
-**Co-occurrences**: Ubik, Complete, Rome, Form, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Time, Ubik, Complete, Rome, Form, Father, World, Since, Because, Only
 
 ---
 ### Line 107-115 (Match: 'Parousia')
@@ -88,7 +88,7 @@ Forms have a point of completion. Like a novel. They don’t go on and on. That 
 
 And yet we experience it backward. It was, as you put it, our childhood. “We see – the universe – as by reflection from the bottom of a burnished metal pan, but now directly for a moment,” said St. Paul. This is all a flashback: our life, a post vitam. Like the squib, the interoffice memo before THREE STIGMATA which is the novel, and what takes place “after” it is really what took place before it, which is there to explain it. I, the little boy like Christopher; that’s me completed.
 ```
-**Co-occurrences**: Complete, Form, Paul, Like, Time, After, Stigmata, Zebrapedia, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life
+**Co-occurrences**: Time, Zebrapedia, Complete, Form, Paul, Like
 
 ---
 ### Line 438-446 (Match: 'Parousia')
@@ -105,7 +105,7 @@ Last edit almost 3 years ago by twsullivan
 28
 Complete
 ```
-**Co-occurrences**: Acts, Thomas, Holy, Jesus, Complete, Form, Bible, These, World, Because, Iron, Earth, Mind, Zagreus, Self, Anamnesis, Essene, Their, Zeus, Such, Secret, Will, Would, Other, Erasmus, Back, Life, Testament, Days, Suddenly, Qumran, Final, Until
+**Co-occurrences**: Thomas, Anamnesis, Acts, Holy, Jesus, Complete, Form, Bible, These, World, Because, Iron, Earth
 
 ---
 ### Line 571-579 (Match: 'Parousia')
@@ -122,7 +122,7 @@ Last edit over 5 years ago by Harpax
 
 36
 ```
-**Co-occurrences**: Christ, Christian, Logos, Form, Fish, Father, Because, Time, Harpax, Savior, Does, Something, Girl, Nothing, Through, Were, Very, Many
+**Co-occurrences**: Time, Christ, Christian, Logos, Form, Fish, Father, Because
 
 ---
 ### Line 782-790 (Match: 'Parousia')
@@ -139,7 +139,7 @@ Last edit over 5 years ago by Harpax
 50
 Needs Review
 ```
-**Co-occurrences**: Christian, Logos, Jesus, Well, These, Perhaps, James, Like, World, Since, Only, Time, Harpax, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Nothing, Still, Their, More, Church, Most, Real, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+**Co-occurrences**: Time, Linear, Christian, Logos, Jesus, Well, These, Perhaps, James, Like, World, Since, Only
 
 ---
 ### Line 790-798 (Match: 'Parousia')
@@ -156,7 +156,7 @@ My original dreams back in 3 and 4 1975 indictated ETI more than anything else (
 
 Also, I could be pre-coging the Parousia, and they will manifest themselves as ETI, from the "bright, morning star." So both could be true. (But the previous dream about "Vinland" suggests explorers (Norsemen, the first whites to come here to the New World. Albemuth could represent Nova Albion.) In which case, "scouts" are scouting parties from another star, the first to land or to have already landed. They seem most like concerned scientific teams exploring a backward region that lacks medical and other help it needs.
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Like, World, Only, Time, Earth, After, Savior, Could, Both, March, Sibyl, More, Another, Star, Most, True, Will, Other, Back, Have, Dream, Doesn
+**Co-occurrences**: Time, Spirit, Holy, Holy Spirit, Like, World, Only, Earth
 
 ---
 ### Line 794-802 (Match: 'Parousia')
@@ -173,7 +173,7 @@ Dear Claudia,
 
 Here are some more notes......are you getting tired of all this? I do think (see the 10 pages supra) that something is at hand -- something good for us which'll help us.
 ```
-**Co-occurrences**: Like, World, Time, Earth, Good, Could, Something, Both, Sibyl, More, Another, Star, Most, True, Will, Other, Back, Have, Claudia, Dream
+**Co-occurrences**: Time, Like, World, Earth
 
 ---
 ### Line 837-845 (Match: 'Parousia')
@@ -190,7 +190,7 @@ Let us consider the miracle involved. When God enters time, when he pierces our 
 
 I am a child trying to understand adult concepts.
 ```
-**Co-occurrences**: Christ, Jesus, Paul, Lord, Perhaps, Maybe, World, Since, Because, John, Time, Good, Light, Does, Just, Once, Again, Both, Kosmos, Being, March, Everything, Divine, Viewed, Still, Living, Such, Love, Consider, True, Death, Will, Other, Were, Very, Back, Have, Judgment, Later, Whether, Cross, Suddenly
+**Co-occurrences**: Time, Christ, Jesus, Paul, Lord, Perhaps, Maybe, World, Since, Because, John
 
 ---
 ### Line 1024-1032 (Match: 'Parousia')
@@ -207,7 +207,7 @@ Is it food for a seed already there? A seed which was never germinated? Been fed
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, However, Elijah, Father, Like, Fall, Because, Time, Harpax, After, Something, Once, Adam, Again, Zagreus, Being, Empedocles, Divine, Himself, Anamnesis, Without, More, Another, Upon, Actually, Fullerton, Certainly, Death, Universe, Would, Were, Back, Things, Life, Memory, Freedom, Jungian, Having, Remember, Unless, Dead, Suddenly, Mary
+**Co-occurrences**: Time, Anamnesis, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, However, Elijah, Father, Like, Fall, Because
 
 ---
 ### Line 1087-1095 (Match: 'Parousia')
@@ -224,7 +224,7 @@ In connection with this, I wasn't just back in Rome; I was aware of two portions
 
 The "Dec N T" says that this time Christ won't appear in the form of one single man (as he did as Jesus before), because if he does, then they'll get him again and it'll be a failure again; therefore, as I understand it, this is what all this solar spermatika, the seeds, etc. talk has to do with; there will be many implantations, of persons already alive and walking around "at their regular tasks," and the births will be plural, and inside peoples' heads, and not out of a womb, as with Mary's. Gee, I finally understood it. There will be no one Savior born this time, but a different system. Vide St. Teresa of Avilia. "Now, Christ has no body but yours." Is before (at the First Advent) implantation will be done by the same spirit, the Holy Spirit, supra, and the same issue will occur: the Son, which explains Jesus' cryptic remarks about where the Kingdom would be (not here, not there, and Christ not here, not there). But: in you and among you. Yes indeed! Kingship, then, within given persons; the assumption of rule (this duplex personality) within various persons; this is the Second Advent, and not a mere anticipation, a la Elijah. This is the Second Coming itself, this Firebright implantations. I mean, these, not this. My God -- what happened to me (sic: to me) in 3 74 was the Second Advent, one of them, anyhow. Guess who Firebright is, viewed this way. This now resolves one mystery (mystery to me, anyhow): the relationship between Elijah and the Holy Spirit. What Malachi said would come back was the Spirit of Elijah (if you read about Elisha this is clear). Surely it wasn't the physical man. The Spirit of Elijah is the Old Testament Hebrew concept for the Christian Holy Spirit (remember, the Jews were absolute monotheists).
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Kingdom, Fish, Bible, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only, Time, Harpax, After, Savior, Firebright, Does, Anyhow, Hebrew, Just, Again, Although, Great, Viewed, Santa, Without, Those, Still, Jews, Part, Their, Such, Actually, Fullerton, Certainly, Before, Santa Sophia, Finally, Will, Would, Kingship, Were, Very, Back, Surely, Many, Have, Absolute, Body, Neither, Later, Testament, Having, Remember, Elisha, During, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Firebright, Santa Sophia, Christ, Christian, Spirit, Holy, Jesus, Rome, Christianity, Holy Spirit, Form, Kingdom, Fish, Bible, Roman, These, Perhaps, Advent, Elijah, Because, Therefore, Only
 
 ---
 ### Line 1096-1104 (Match: 'Parousia')
@@ -240,7 +240,7 @@ Of course, their old actual bodies didn't reappear. My experience is that of how
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Roman, Lord, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Empire, Bible, Roman, Lord, Elijah, Father, Like, World, Fall
 
 ---
 ### Line 1315-1323 (Match: 'Parousia')
@@ -257,7 +257,7 @@ That was as supernatural as anything -- evil. But it signalled the ushering-in o
 
 I keep forgetting the dream of the king on horseback in TEARS; all the Pauline material in TEARS, which was published just as this hit me, these sequences of Parousia experiences! I forever think of my "toiling in the vinyard of the Lord" as starting with my letters of 3 & 4 74; but TEARS! What about TEARS? Was that not that I most of all did, and somehow knew it all the time? As important as the letters may have been (or may not), the book certainly was/is.
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Lord, These, Advent, Elijah, Maybe, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Just, Once, Again, Reality, Being, Himself, Essene, More, Through, Most, Certainly, Death, Macro, Will, Would, Other, Mission, Somehow, Judge, Were, Very, Back, Have, Judgment, Testament, Evil, Pauline, Human, Sons, Dream, Lamb
+**Co-occurrences**: Time, Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Lord, These, Advent, Elijah, Maybe, Like, World, Only
 
 ---
 ### Line 1317-1325 (Match: 'Parousia')
@@ -274,7 +274,7 @@ I keep forgetting the dream of the king on horseback in TEARS; all the Pauline m
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Lord, These, Advent, Elijah, Maybe, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Just, Once, Again, Reality, Being, Himself, Essene, More, Through, Most, Certainly, Death, Macro, Will, Would, Other, Mission, Somehow, Judge, Were, Very, Back, Have, Judgment, Testament, Evil, Pauline, Human, Sons, Dream, Lamb
+**Co-occurrences**: Time, Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Lord, These, Advent, Elijah, Maybe, Like, World, Only
 
 ---
 ### Line 1319-1327 (Match: 'Parousia')
@@ -291,7 +291,7 @@ Last edit over 5 years ago by Harpax
 93
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Lord, These, Advent, Elijah, Maybe, Like, World, Only, Time, Harpax, Book, Even, Could, Anyhow, Just, Once, Again, Reality, Being, Himself, Essene, More, Through, Most, Certainly, Death, Macro, Will, Would, Other, Mission, Somehow, Judge, Were, Very, Back, Have, Judgment, Testament, Evil, Pauline, Human, Sons, Dream, Lamb
+**Co-occurrences**: Time, Christ, Tears, Spirit, Rome, Kingdom, King, Satan, Lord, These, Advent, Elijah, Maybe, Like, World, Only
 
 ---
 ### Line 1325-1333 (Match: 'Parousia')
@@ -308,7 +308,7 @@ In rereading the Brit 3 article on "Jesus Christ" I'm reminded that although the
 
 When I compare "Hamlet," "The Bacchae," and the Gospel which tell of Jesus' life, I get a single impression, one story underlying all, but not that visible until all 3 are compared. It is the story of a kingdom where reg[n]icide took place; the throne is occupied by a ursurper; now the rightful heir has returned (the stranger, Hamlet, Jesus), and holds no power, but speaks in strange riddle. The brutal ursurpacious ruler has him imprisoned and possibly killed; nonetheless the young stranger
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Kingdom, Felix, Satan, Perhaps, Advent, Father, Maybe, Since, Only, John, Time, Harpax, After, Savior, Good, Book, Gospel, Could, Does, Pinky, Something, Both, Being, Jesus Christ, Although, Everything, Himself, Bacchae, Without, Wait, More, Real, Nonetheless, Certainly, Secret, True, Easter, Will, Would, Hamlet, Kingship, Very, Campbell, Have, Journey, Life, Absolute, Body, Truth, Whereas, Until, Grail
+**Co-occurrences**: Time, Christ, Logos, Jesus, Kingdom, Felix, Satan, Perhaps, Advent, Father, Maybe, Since, Only, John
 
 ---
 ### Line 1380-1388 (Match: 'Parousia')
@@ -325,7 +325,7 @@ Anamnesis such as mine must be the pay-off stage. What follows now is immediatel
 
 What I experienced was not so much an acausal timelessness, but cause operating along "spacial" lines, that is, simultaneous causes, rather than moving along before-after temporal lines. It is as if I saw causes, mutually interacting, manifest (the jungle gym model of the universe). All which produced effects (i.e. all causes) were present and perceptible. All reality lay in the present, the Augenblick. There was still cause; this wasn't acausality, like synchronicity. It was almost a pushrod system, except that much was done through signalling. It was an intricate series of mutually adjusting elements producing together a harmony. It was all mutual and reciprocal.
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Well, Like, Only, John, Time, After, Just, Reality, Zagreus, Empedocles, Girl, Everything, Either, Great, Anamnesis, Nothing, Darkness, Those, Still, Zeus, Through, Real, Such, Actually, Before, Messenger, Death, Universe, Finally, Would, Other, Creation, Somehow, Were, Back, Have, Dark, Memory, Remember, Except, Magic, Dream
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Jesus, Well, Like, Only, John
 
 ---
 ### Line 1404-1412 (Match: 'Parousia')
@@ -342,6 +342,6 @@ This really is a prime discovery, because it vitally assists me in understanding
 
 . . . The Rome which I saw in 3 74 was like the world of FLOW MY TEARS. But that is like GULOG. Did I see Gulog, then, in 3 74? The "Rome" tyranny is soviet and it is here? (How could what I saw be all there things? Roma circa 45 AD, Gulog, TEARS? Somehow they are the same -- in essence, in ontology, not accidentals. Was what I saw not a domestic tyranny, or rather, our domestic tyranny --I mean the Nixon regime-- was it in fact soviet? After all, the immediate threat to me was Soviet...I mean, the immediate threat was Nixon CIA anti-soviet[,] I mean both. I mean I saw them as the same. Another case of "either A or not-A" transcended, a sort of evil version of the "Secret Partnership," in which that which is absolutely opposed here is together as partners in the next level up, and you see the latter suddenly instead of the former. Glak. That certainly makes TEARS a remarkable book: it present a true picture of the essence of the US, a police state, but the paradigm is obviously not anti-soviet but soviet. What are we to make of this? US imperialism and soviet leftest tyranny are twin branches from the same tree, and that tree's name is Imperial Rome. Tweedledum and Tweedledee. (The archetypal from is identical for both.) (Thus in my dream I see Agent Payne as soviet KGB cop.) You have to strip away all the accretions, get it back to Roma c 45 AD to see the ontological identity. Wow, what a realization! No wonder I kicked ass re both groups. No wonder I feel the same way toward both soviet and US fuzz. Well, this always was at work in producing my worldview in 3 74, the fact that TEARS had just been released. I waited for the stealthy enemy to surface; he did: as the US Army (the 232 copies of TEARS they bought) and the Xerox KGB letter. I had to pass retrograde layer after layer to receive an outright vision of this, that I could then understand (i.e. understand what I had written & its meaning). The real meaning: Imperial Rome is back -- back here, back in the USSR. The true enemy is this, and our friend is the same Friend: the Christian underground, which is why I sent that $5. This is the what that I saw; the Who [W]hich showed it to me is God Himself (the Logos) (the Savior). But there was for sure a second vision one year later: positive: "Santa Sophia will be reborn; she was nor acceptable before." And the beautiful Levantime scene of palm trees and open places, and Springtime (ending with the dythramb and Rightful King returning).
 ```
-**Co-occurrences**: Tears, Christian, Logos, Xerox, Rome, Sophia, King, Well, Like, World, Since, Because, Nixon, Harpax, After, Savior, Book, Light, Even, Could, Just, Soviet, Both, Obviously, Although, Himself, Either, Palm, Santa, Zoroaster, Those, More, Another, Most, Real, Certainly, Secret, Before, True, Santa Sophia, Finally, Will, Somehow, Back, Have, Tree, Things, Justice, Freedom, Instead, Later, Evil, God Himself, Truth, Suddenly, Dream, Right
+**Co-occurrences**: Sophia, Santa Sophia, Tears, Christian, Logos, Xerox, Rome, King, Well, Like, World, Since, Because, Nixon
 
 ---

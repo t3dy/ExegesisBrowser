@@ -20,7 +20,7 @@ Cordially,
 
 Philip K. Dick 1405 Cameo Lane 4 Fullerton Calif 92631
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Rome, Christianity, Form, Roman, Dionysos, These, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Philip, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Dick, Fullerton, Calif, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Philip, Christian, Jesus, Rome, Christianity, Form, Roman, Dionysos, These, James, Like, World, Because, Iron, Only, John
 
 ---
 ### Line 537-545 (Match: 'Wisdom')
@@ -37,7 +37,7 @@ It all fits. "Talking head" equals AI teletype sender-receiver. (My "Portuguese 
 
 Last edit over 2 years ago by ratatosk
 ```
-**Co-occurrences**: Fish, Greek, Gnosticism, These, Plotinus, Maybe, Like, World, Earth, After, Mind, Could, Something, Simon, Again, Reality, Being, Self, Grace, Jung, Gold, Such, Actually, Certainly, True, Would, Were, Very, Under, Many, Have, Life, Absolute, Info, America, Magic, Hermes, Human, Dream, Someone
+**Co-occurrences**: Gnosticism, Plotinus, Hermes, Fish, Greek, These, Maybe, Like, World, Earth
 
 ---
 ### Line 1156-1164 (Match: 'Wisdom')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by Harpax
 
 81
 ```
-**Co-occurrences**: Christ, Spirit, Logos, Sophia, However, These, Perhaps, Maybe, Since, Prison, Only, John, Earth, Harpax, Could, Anyhow, Philo, Just, Something, Again, Being, Although, Christos, Santa, Without, Nothing, Brain, Those, Part, More, Another, Heaven, Such, Certainly, Before, Consider, True, Santa Sophia, Will, Would, Other, Messiah, Were, Back, Whatever, Have, Later, Having, Knowledge, Suddenly, Dream, Free, Right, Mary
+**Co-occurrences**: Sophia, Philo, Santa Sophia, Decoded, Christ, Spirit, Logos, However, These, Perhaps, Maybe, Since, Prison, Only, John, Earth
 
 ---
 ### Line 1161-1169 (Match: 'Wisdom')
@@ -70,7 +70,7 @@ Anyhow, this has been recast by God. The silence is broken. And I felt it that d
 
 . .
 ```
-**Co-occurrences**: Christ, Logos, Sophia, Perhaps, Fall, Because, Harpax, After, Mind, Light, Does, Anyhow, Both, Palm, Santa, Creator, Kathy, More, Certainly, Santa Sophia, Universe, Would, Other, Have, Body, Spring
+**Co-occurrences**: Sophia, Santa Sophia, Christ, Logos, Perhaps, Fall, Because
 
 ---
 ### Line 1167-1175 (Match: 'Wisdom')
@@ -87,7 +87,7 @@ But of all that I understood, a union with God by means of the Logos meant most 
 
 I think that my seeing the Levant in Feb 1975 is as important, although less striking, as my seeing Rome in March 1974. In both cases, the thrall of time was removed, disclosing the eternal world, in Dante's sense. A transition had been made in that world (it is hard for someone unacquainted with Medieval thought to understand progression in eternity, but the basis would be a progression or procession of Platonic archetypes[.] The archetype in March 1974 was Rome and Iron and Slavery, with a corresponding need to fight for freedom, truth and justice; however, a year
 ```
-**Co-occurrences**: Logos, Rome, Sophia, Plato, However, These, Perhaps, Plotinus, World, Iron, Only, Time, Platonist, Light, Could, Anyhow, Something, Both, March, Although, Dante, Platonic, Palm, Santa, Anamnesis, Nothing, Kathy, Soul, Most, Consider, Santa Sophia, Universe, Would, Erasmus, Back, Many, Have, Life, Body, Justice, Spring, Freedom, Truth, Someone
+**Co-occurrences**: Plotinus, Sophia, Time, Anamnesis, Santa Sophia, Logos, Rome, Plato, However, These, Perhaps, World, Iron, Only, Platonist
 
 ---
 ### Line 1437-1445 (Match: 'Wisdom')
@@ -103,7 +103,7 @@ One question I haven't seen any answer to is, How does the Cosmic Christ after t
 
 Once the paradigm of Rome had been superimposed on the reality of 1974 I could see that it fitted perfectly -- also I could see that the world of TEARS equally applied to our world and to Rome; hence when the superimposition was gone my recognition of the congruency has continued. What was happening under Nixon was a worsening of the persecutory aspects --Christians in 60 A.D., anti-war dissidents in 1970-- and intervention was required & on the way if the modern Christian remnant was to be saved. What was done, though, was not done in 60 A.D., which is to say, the removal of the tyrant; so there has now been this decisive difference. It was the hope and prayer of the first century Christians that precisely this would happen; this is what the Jews hoped, too, but especially the Jewish Christians (and Zealots, including the Essenes); this time it did happen; which makes me this that the Rome Paradigm was them replaced (in the real world of forms) by another paradigm; perhaps the palm tree world. We are talking about deliverance from the oppressors. Since Rome was/is the adversary of Christianity (witness the beast in Revelation which equals Rome) then this is the triumph, long awaited, of Christianity. Since the cosmic Christ led the assault (as I know from my "theolepsy") then in what way is this not the Parousia and the battle described therein, as well as in Daniel -- the feet of clay thing?
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Sophia, Plato, Well, Parousia, However, Lord, Perhaps, Plotinus, Like, World, Since, Time, Nixon, After, Cosmic, Holy Wisdom, Cosmic Christ, Could, Does, Anyhow, Just, Once, Reality, Nous, Daniel, Palm, Jewish, Essene, Jews, Their, More, Pantocrator, Another, Soul, Real, Nonetheless, Revelation, Universe, Would, Under, Have, Tree, Trinity, Evidently, Whereas, Answer
+**Co-occurrences**: Plotinus, Sophia, Time, Christ, Tears, Acts, Christian, Holy, Rome, Christianity, Form, Plato, Well, Parousia, However, Lord, Perhaps, Like, World, Since, Nixon
 
 ---
 ### Line 1530-1538 (Match: 'Wisdom')
@@ -120,7 +120,7 @@ To clarify, then, each of us is not immortal, but partly immortal; parts do die 
 
 . . . Meaning RM about the Will. It was not that my will was replaced by another or another's, but that my passive, willness, learned-helplessness was replaced by a Will, but not mine; from the unconscious, whatever and wherever that is...also, it not only decisively chose, but it chose and [?] before the danger (which had to be responded to) arrived; which alone disclosed its supernatural quality. That this will was in me but not mem that it came "trailing clouds of glory," that it was as the daimon of the Greeks is described --an indwelling guardian deity or mediator between man and the gods-- shows me my own nature: that although I don't have any true will, there resides in me a very powerful true will and it acts to preserve, guard and protect me; so I am very [?] as possible. Certainly few men know this about themselves, and their condition. I am not alone. This entity, whether as the [?] Greeks believed it is a shade of one who lived during the "Golden Age" (i.e. in my case Brasmus) or actually, Dionysos -- the fact remains that it is armed with total knowledge and total wisdom. It is indeed god-like, even if it was once a mortal (again eg Brasmus). Now it is not mortal; it is bonded to God just as it is bonded, evidently, to me (the mediator, as described). To lose contact with either me or with God would be for it to lose its role as mediator; it must link up at both ends, upper and lower. It is either divine or semi-divine; I certainly knew this about it at once. It partakes of God's vision; I knew this at once, hence I thought it might be Elijah. But Rollo May causes me to examine the fact that it is my will, the only will I have, and it is not me; it is superior to me, for which I rejoice. I think that the pure bubbling joy I felt several times (e.g. when I was loaded, when I heard it laughing, the whole springtime vision) indicates it to be Eros, who brought life, motion and joy to the world; certainly, when not acting as pure will (during the original crisis danger threat situation) it is joyful, even playful. Perhaps more important than it being my will (although that does maintain my life, especially in crisis), (and perhaps underlies all my writing, which is from my unconscious and involves my will, or rather it, its will) is the fact that it is my [G]round of being with whom I can engage in dialog. (Ala Buber.) I have touched my ontological nature, here. Nietzsche is right; the will is the ground of being. And the will is superpersonal or transcendent. I will never be able to view myself as I did before: the weak, puny mortal at the mercy of all the forces of his society & universe. It is
 ```
-**Co-occurrences**: Acts, Spirit, Sophia, Greek, Golden, Dionysos, Perhaps, Elijah, Like, World, Since, Only, Time, Harpax, Even, Does, Just, Once, Again, Both, Being, Although, Everything, Dante, Divine, Aristotle, Either, Gods, Anamnesis, Part, Their, More, Another, Soul, Ground, Actually, Certainly, Before, Consider, Greece, True, Universe, Will, Deity, Would, Very, Attic, Whatever, Have, Life, Body, Memory, Whether, Knowledge, Upper, During, Human, Lower, Evidently, Right
+**Co-occurrences**: Sophia, Time, Anamnesis, Acts, Spirit, Greek, Golden, Dionysos, Perhaps, Elijah, Like, World, Since, Only
 
 ---
 ### Line 1534-1542 (Match: 'Wisdom')
@@ -137,7 +137,7 @@ Last edit over 5 years ago by Harpax
 109
 Needs Review
 ```
-**Co-occurrences**: Acts, Spirit, Sophia, Greek, Golden, Dionysos, Perhaps, Elijah, Like, World, Since, Only, Time, Harpax, Even, Does, Just, Once, Again, Both, Being, Although, Everything, Dante, Divine, Aristotle, Either, Gods, Anamnesis, Part, Their, More, Another, Soul, Ground, Actually, Certainly, Before, Consider, Greece, True, Universe, Will, Deity, Would, Very, Attic, Whatever, Have, Life, Body, Memory, Whether, Knowledge, Upper, During, Human, Lower, Evidently, Right
+**Co-occurrences**: Sophia, Time, Anamnesis, Acts, Spirit, Greek, Golden, Dionysos, Perhaps, Elijah, Like, World, Since, Only
 
 ---
 ### Line 1559-1567 (Match: 'Wisdom')
@@ -153,7 +153,7 @@ There is one more possibility...perhaps for instance the records of the 17th cen
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Holy Spirit, Well, However, These, Perhaps, Elijah, Maybe, World, Since, Because, Only, Harpax, Mind, Book, Even, Could, Anyhow, Just, Something, Look, Being, Himself, Either, Without, Still, More, Another, Through, Most, Heaven, Such, Greece, Will, Other, Mission, Somehow, Were, Attic, Back, Under, Many, Have, Life, Neither, Evil, Socrates, Having, Reformers, Human, Doesn, Until
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Holy Spirit, Well, However, These, Perhaps, Elijah, Maybe, World, Since, Because, Only
 
 ---
 ### Line 1635-1643 (Match: 'Wisdom')
@@ -170,7 +170,7 @@ Last edit over 5 years ago by Harpax
 
 116
 ```
-**Co-occurrences**: Logos, Sophia, Kingdom, Paul, Golden, However, Like, World, Fall, Because, Therefore, Only, Harpax, After, Savior, Light, Pinky, Once, Again, Kingdom of God, Reality, Kosmos, Santa, Their, More, Most, Love, Santa Sophia, Universe, Would, Back, Have, Absolute, Cross, Greater, Dream, Right
+**Co-occurrences**: Sophia, Santa Sophia, Logos, Kingdom, Paul, Golden, However, Like, World, Fall, Because, Therefore, Only
 
 ---
 ### Line 1690-1698 (Match: 'Wisdom')
@@ -187,7 +187,7 @@ That promise could be more important? We are herewith assured of salvation -- th
 
 I used to think, How come God doesn't talk to us like he used to in the Bible? He does. If I were to go out into the world with a message, based on this 14 months of colloquy with God, it would be that Santa Sophia will be reborn, she not having been acceptable before, as God told me; this would be the good news as it was given to me. So I would have a wonderful positive message, rather than one of gloom and doom. I sort of said this in my U.K. speech as well as the Arcade Comics piece, small as they were. Maybe I can say it again and better and more fully in TO SCARE THE DEAD. "Hear ye, Israel. Hear what the Lord of saying." This is the same news which appears apocalyptically and ominously (or rather frighteningly) in the dream in TEARS; this, too, is the news in the dancing Spring King and the dythramb.
 ```
-**Co-occurrences**: Tears, Holy, Sophia, King, Well, Bible, Lord, Elijah, Maybe, Like, World, Holy Wisdom, Good, Could, Does, Again, Santa, Those, More, Most, Before, Santa Sophia, Death, Will, Would, Were, Have, Spring, Wise, Having, Israel, Dead, Dream, Salvation, Doesn
+**Co-occurrences**: Sophia, Santa Sophia, Saint Sophia, Tears, Holy, King, Well, Bible, Lord, Elijah, Maybe, Like, World
 
 ---
 ### Line 1700-1708 (Match: 'Wisdom')
@@ -204,7 +204,7 @@ Last edit over 5 years ago by Harpax
 120
 Needs Review
 ```
-**Co-occurrences**: Tears, Form, Parousia, Like, World, Harpax, Buddha, Good, Book, Anyhow, More, Star, Before, Will, Would, Very, Back, Have, Dream, Final, Until
+**Co-occurrences**: Tears, Form, Parousia, Like, World
 
 ---
 ### Line 1743-1751 (Match: 'Wisdom')
@@ -221,7 +221,7 @@ The above problem could be resolved this way: the Holy Spirit came to remind men
 
 . . . It is evident that the Holy Spirit could induce remembrance where formal knowledge, buy the person, was absent; i.e. to perform the mass one has formal knowledge. But suppose no mass is performed and no formal knowledge (memory of as handed down in traditional ways) remains? The el[l]ipsis can be abolished by the Holy Spirit, who informs inwardly of what has been totally and truly forgotten; the break is healed. Remembrance out of nothing, so to speak; it teaches what is not known. Does, sui generis, the work --efficacy-- of the mass; this could be for other cultures who never knew of or heard of Christ (which explains my original obsession with the realization, my recognition of its overwhelming importance, that a priori I had discovered the forms of a religion, Christianity, which seemed impossible. "As if a native of South America had begun carving crucifixes," I kept saying, "and talking about Galgotha." Without having any way of ever having heard of Galgotha, etc. What a miracle -- how extraordinary, opening up a totally new view of the universe, that these forms and this knowledge could arise a priori in a human mind as a category of thought.
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Sophia, Roman, These, Perhaps, Like, World, Because, Only, John, Harpax, Faith, Good, Mind, Could, Does, Anyhow, Suppose, Luke, Being, Either, Without, Nothing, Those, Their, Church, Another, Through, Secret, Love, Universe, Finally, Other, Mission, Were, Very, Have, Memory, America, Having, Unless, Knowledge, Human, Free, Right
+**Co-occurrences**: Sophia, Saint Sophia, Christ, Spirit, Holy, Logos, Rome, Christianity, Holy Spirit, Form, Roman, These, Perhaps, Like, World, Because, Only, John
 
 ---
 ### Line 1745-1753 (Match: 'Wisdom')
@@ -238,7 +238,7 @@ The above problem could be resolved this way: the Holy Spirit came to remind men
 
 Thus I have arrived at the same results, by the direct proof (it evidently was/is the Holy Spirit) and indirectly: what one would experience if the Holy Spirit descended and filled one, and I get identical results; also, I have now excluded everything else I can think of or have heard of. They key is in John, where he quotes Jesus saying that the Holy Spirit (the Comforter) will bring remembrance -- which for us means of a time 2000 years ago, in a province of Rome.
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Christianity, Holy Spirit, Form, Sophia, Roman, These, Perhaps, Like, World, Because, Only, John, Time, Faith, Good, Mind, Could, Does, Anyhow, Suppose, Luke, Being, Everything, Either, Without, Nothing, Those, Their, Church, Another, Through, Secret, Love, Universe, Finally, Will, Would, Other, Mission, Were, Very, Have, Memory, America, Having, Unless, Knowledge, Comforter, Human, Evidently, Free, Right
+**Co-occurrences**: Sophia, Time, Saint Sophia, Christ, Spirit, Holy, Logos, Jesus, Rome, Christianity, Holy Spirit, Form, Roman, These, Perhaps, Like, World, Because, Only, John
 
 ---
 ### Line 1777-1785 (Match: 'Wisdom')
@@ -255,7 +255,7 @@ So what I've done (supra) is change the question from, How come I could experien
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Ubik, Thomas, Spirit, Holy, Logos, Jesus, Holy Spirit, Sophia, Kingdom, However, Perhaps, Like, World, Parmenides, Fall, Therefore, Only, Harpax, Paraclete, Book, Light, Could, Again, Kingdom of God, Reality, Kosmos, Being, Although, Great, Viewed, Without, Still, Their, More, Through, Most, Living, Heaven, Real, Actually, Before, Will, Would, Other, Somehow, Back, Many, Campbell, Have, Body, Instead, Having, Joseph, Dead, During, Human, Joseph Campbell, Right, Answer
+**Co-occurrences**: Thomas, Sophia, Saint Sophia, Christ, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, Kingdom, However, Perhaps, Like, World, Parmenides, Fall, Therefore, Only
 
 ---
 ### Line 1786-1794 (Match: 'Wisdom')
@@ -271,7 +271,7 @@ It's possible rather than severa[l] light bodies more likely there is an aggrega
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Roman, Because, Only, Harpax, Faith, Light, Even, Could, Kingdom of God, Being, Everything, Either, Without, Still, Their, More, Through, Such, True, Death, Would, Mission, Were, Attic, Back, Have, Life, Body, Trinity, Comforter, Otherwise, Human, Evidently, Free
+**Co-occurrences**: Christ, Christian, Spirit, Holy, Jesus, Rome, Holy Spirit, Form, Kingdom, King, Greek, Roman, Because, Only
 
 ---
 ### Line 1835-1843 (Match: 'Wisdom')
@@ -287,7 +287,7 @@ Without proof of this Inward Light there could be no rational justification for 
 
 Perhaps a sign of its proximity will be a growing difficulty by the authorities throughout the world in governing. And a positive decentralization of power and authority. The causes may be dreadful, intrinsically (breakdowns, etc); but, unrecognized, they would lead to excellent results, someday. . . This would have enormous important for characterization in TO SCARE THE DEAD. . . If I had to account "rationally" for the Inward Voice (Holy Spirit) I could offer Dr. Buck's duplex mind which appears with cosmic consciousness, and link it to the Ornstein two-brain material: the appositional mind. Outside of this, with the addition of the Bergson notion of the brain as transformer (and maybe including the pineal) I would be defenseless in rational argument. But all these are within reason, plus Jung's collective repository. My right h. emerges when my left has painted itself into a desperate corner and its rat-like linear thinking has bogged down, leaving a vacuum.
 ```
-**Co-occurrences**: Spirit, Holy, Logos, Holy Spirit, Kingdom, Greek, Well, These, Perhaps, Maybe, Like, World, Since, Because, Time, Cosmic, Good, Mind, Light, Could, Does, Anyhow, Something, Kingdom of God, Reality, Without, Beethoven, Brain, Kathy, Jung, Through, Real, Voice, Will, Would, Other, Very, Attic, Beyond, Have, Instead, Knowledge, Dead, Right
+**Co-occurrences**: Time, Linear, Spirit, Holy, Logos, Holy Spirit, Kingdom, Greek, Well, These, Perhaps, Maybe, Like, World, Since, Because
 
 ---
 ### Line 1924-1932 (Match: 'Wisdom')
@@ -304,7 +304,7 @@ Last edit over 5 years ago by Harpax
 
 141
 ```
-**Co-occurrences**: Christ, Tears, Holy, Jesus, Xerox, King, Well, These, Maybe, World, Because, Therefore, Time, Harpax, After, Good, Could, Does, Just, Again, Being, Obviously, Although, Everything, Himself, Either, Still, Wait, More, Another, Through, Ground, Real, Such, Voice, Before, Will, Would, Judge, Very, Back, Under, Have, Life, Spring, Wise, Trinity, God Himself, Greater, Otherwise, Dream, Whereas, Doesn, Someone, Answer, Until, White
+**Co-occurrences**: Time, Christ, Tears, Holy, Jesus, Xerox, King, Well, These, Maybe, World, Because, Therefore
 
 ---
 ### Line 1931-1939 (Match: 'Wisdom')
@@ -320,7 +320,7 @@ In that case, the gnosis or sophia aspect would predominate; I can see all three
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Logos, Xerox, Rome, Christianity, Sophia, Kingdom, Fish, Well, Parousia, Perhaps, Like, Since, Gnosis, Only, Time, Earth, Harpax, Savior, Book, Even, Does, Pinky, Look, Being, Although, Himself, Daniel, More, Another, Most, Heaven, Real, Such, Actually, Love, Revelation, Consider, Death, Finally, Would, Other, Mission, Were, Have, Life, Justice, Spring, Freedom, Instead, Having, God Himself, Truth, Greater, Lamb, Until
+**Co-occurrences**: Sophia, Time, Christ, Christian, Spirit, Logos, Xerox, Rome, Christianity, Kingdom, Fish, Well, Parousia, Perhaps, Like, Since, Gnosis, Only, Earth
 
 ---
 ### Line 1981-1989 (Match: 'Wisdom')
@@ -337,6 +337,6 @@ The crucifixion and resurrection was a demonstration of exactly what the writer 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, Sophia, However, These, World, Because, Only, Time, Harpax, After, Cosmic, Paraclete, Good, Could, Once, Being, Although, Himself, Either, Santa, Without, Those, Part, Their, More, Another, Soul, Such, Santa Sophia, Would, Somehow, Very, Back, Have, Life, Body, Luther, Comforter, During, Human, Evidently, White
+**Co-occurrences**: Sophia, Time, Santa Sophia, Saint Sophia, Christ, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, However, These, World, Because, Only
 
 ---

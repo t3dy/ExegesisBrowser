@@ -20,7 +20,7 @@ It has happened, the Prince of this World fell.
 
 This all has been an unfolding process. A revealing or disclosing of Being.
 ```
-**Co-occurrences**: Christ, Ubik, Indexed, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Time, Nixon, Even, Being, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Indexed, Rome, Form, Kingdom, Parousia, These, Like, World, Only, Nixon
 
 ---
 ### Line 176-184 (Match: 'Jesus')
@@ -37,7 +37,7 @@ From then on: dead winter 100 AD to 1970 AD
 
 Rebirth These are not metaphoric or poetic analogs - but simply that this "year" or cycle was what Jesus taught & I meant: he has not been dead, but sleeping, during this 2000 year winter, under the "snow"
 ```
-**Co-occurrences**: Roman, These, Earth, Greco, Greece, Attic, Under, Spring, Dead, During
+**Co-occurrences**: Roman, These, Earth
 
 ---
 ### Line 180-188 (Match: 'Jesus')
@@ -54,7 +54,7 @@ Locale: the earth
 
 "and when I, the root of the vine, slumbering under the snow of winter, seemingly dead - when I return to life, you who follow me (are me, possessed by me) - while that spring day (- you will return to life with me + share the spring with me. My endless rebirth will be yours too - through the flood [...]
 ```
-**Co-occurrences**: Roman, These, Earth, Greco, Through, Greece, Will, Attic, Under, Life, Spring, Dead, During
+**Co-occurrences**: Roman, These, Earth
 
 ---
 ### Line 327-335 (Match: 'Jesus')
@@ -70,7 +70,7 @@ This is what I saw; what I saw rolled back was the "snow" of that long winter. B
 
 I saw that it can melt away in an instant, and reveal the original "season" or being or reality.
 ```
-**Co-occurrences**: These, Like, Only, Earth, Reality, Zagreus, Being, True, Back, Under, Spring, Dead
+**Co-occurrences**: These, Like, Only, Earth
 
 ---
 ### Line 347-355 (Match: 'Jesus')
@@ -87,7 +87,7 @@ In March it took me over totally; I was a spectator to my dream in waking life, 
 
 If you read the New Testament, one in understanding all this would have to say, "It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant seeds into life; who has voice (words or Logos) and power (power to give new life). I can say, Claudia, I know; he does exist. Zagreus is the closest name we have. He is a shower of sparks (probably tracings of fast velosity subatomic particles or air ions, etc.) I saw him and he posessed me and he is no ghost; this is not the occult (vide Lem's article in SFS). Is Runciter a ghost? I had thought so, but no; in real life, "Runciter" is no ghost because he is an energy life, a plasma, not a shade.
 ```
-**Co-occurrences**: Christ, Logos, Complete, Paul, These, Because, Only, After, Could, Does, Again, Zagreus, March, Runciter, Probably, Those, More, Another, Living, Real, Voice, Death, Will, Deity, Would, Were, Have, Tree, Life, Claudia, Testament, Dream
+**Co-occurrences**: Christ, Logos, Complete, Paul, These, Because, Only
 
 ---
 ### Line 436-444 (Match: 'Jesus')
@@ -104,7 +104,7 @@ The [Quamran] personality, who, for fictional purposes, I call Thomas, gradually
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Acts, Thomas, Holy, Form, Well, Bible, Parousia, These, World, Because, Iron, Earth, Mind, Book, Zagreus, Self, Anamnesis, Essene, Their, Zeus, Most, Such, Secret, Will, Would, Other, Erasmus, Back, Have, Life, Testament, Days, Dead, Suddenly, Qumran, Final, Until
+**Co-occurrences**: Thomas, Anamnesis, Acts, Holy, Form, Well, Bible, Parousia, These, World, Because, Iron, Earth
 
 ---
 ### Line 444-452 (Match: 'Jesus')
@@ -121,7 +121,7 @@ But in this novel, Thomas says, "The Final Days have come. The overthrown of the
 
 During Winter, it was believed that Dionysos, the god of the vine plant, of vegetation, of the crop, slumbered. It was known that no matter how dead he seemed (James Joyce's FINNIGANS WAKE is a wonderful acount of this) he was actually alive, though you'd never know it. And then, --not to the surprise of those who understood him and believed in him-- he was reborn. His followers knew he would be. We are speaking here of the mystery religions, all of them -- including Christianity. Our God has been sleeping, during the long winter of the human culture ([x] not for one year's rotational cycle of seasons, but from 45 A.D. through the centuries of mental winter to now); just when Winter holds all in its grip, the snow of despair and defeat (in our case, political chaos, moral ruin, economic ruin -- the winter of our planet, our world, our civilization) then the vine, which was gnarled and old and seemingly dead, breaks into new life, and our God is reborn -- not outside us as such, but in each of us. Slumbering not under the snow over the ground-surface but within the right hemispheres of our brains. We have been waiting, we didn't know what for. This is it: this is Spring for our planet, in a deeper more fundamental way. The cold chains of iron are being thrown off, but by what a miracle. As with my character, Nicholas Brady -- I've had Zagreus awaken in my right hemisphere, and felt the flooding of renewed life, his vigor, his personality, and his godlike wisdom: he hated the injustice he saw around him, and remembered "the dear lone lands untroubled by men, where amid the shadowy green / The little ones of the forest live unseen." (Eurypides) Dr. Ornstein, thank you for helping bring Winter to an end, and ushering in --not just Spring-- but the living life of Spring alive but [xl] asleep inside us.
 ```
-**Co-occurrences**: Christian, Thomas, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Christian, Complete, Rome, Christianity, Form, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John
 
 ---
 ### Line 470-478 (Match: 'Jesus')
@@ -138,7 +138,7 @@ In a dream I was shown that the word "Jesus" is a code, a word made up and not a
 
 "Of all the trees that are He hath his flock, and feedeth root by root, The Joy-god Dionysos, the pure star That shines amid the gathering of the fruit." (In Pindar, a favorite of Plutarch.)
 ```
-**Co-occurrences**: However, Dionysos, These, Perhaps, Maybe, After, Book, Once, Zagreus, Himself, Nothing, Those, Still, Zeus, Star, Most, Revelation, Universe, Would, Erasmus, Dream, Right
+**Co-occurrences**: However, Dionysos, These, Perhaps, Maybe
 
 ---
 ### Line 472-480 (Match: 'Jesus')
@@ -155,7 +155,7 @@ In a dream I was shown that the word "Jesus" is a code, a word made up and not a
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: However, Dionysos, These, Book, Once, Zagreus, Himself, Those, Zeus, Star, Most, Revelation, Would, Erasmus, Dream, Right
+**Co-occurrences**: However, Dionysos, These
 
 ---
 ### Line 480-488 (Match: 'Jesus')
@@ -172,7 +172,7 @@ Dionysos appeared to the Greeks in vegetable form (root, tree, vine) and animal 
 
 And then later, "...He is drunken with music, not with wine." (Jane Harrision.) By stealthy degrees Dionysos became Zagreus and then Orpheus. The trouble with Jesus is that he isn't musical. I guess they could use lipsynch, but the fact is, Jesus is Orpheus, and Christianity is the next mirthful dodge which the Loving Dodger has worked on us, those whom he loves. I have this vision of Him: much like the Hurdy-Gurdy Man: I see Him invisible to us behind us as the flock moves on, and I see small stragglers and old stragglers and stupid stragglers and sick stragglers and stragglers in general who have given up hope or lost energy and have given up to perish as the flock or pack or herd or culture or race marches on, without a look back. And sparkling with light and silently, He emerges and without breaking stride gathers up all the stragglers.
 ```
-**Co-occurrences**: Complete, Christianity, Form, Greek, Well, Dionysos, These, Like, Time, Light, Could, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Back, Egyptian, Have, Tree, Later, Human
+**Co-occurrences**: Time, Complete, Christianity, Form, Greek, Well, Dionysos, These, Like
 
 ---
 ### Line 484-492 (Match: 'Jesus')
@@ -189,7 +189,7 @@ Since the flock never looks back or turns back it never sees Him. This is why Lu
 
 Now, did Dionysos let me know this because he has taken me, or did Erasmus whisper this to me in dreams because he was such a wise Christian divine and had his own theories, and I'm fronting for him? I know I'm fronting for someone. God or wise old man.
 ```
-**Co-occurrences**: Christian, Christianity, Form, Greek, Well, Dionysos, These, Like, Since, Because, Time, Light, Could, Just, Look, Zagreus, Being, Divine, Himself, Without, Those, More, Star, Such, Death, Universe, Erasmus, Very, Back, Egyptian, Have, Tree, Wise, Later, Luther, Human, Lamb, Someone, Sacred
+**Co-occurrences**: Time, Christian, Christianity, Form, Greek, Well, Dionysos, These, Like, Since, Because
 
 ---
 ### Line 713-721 (Match: 'Jesus')
@@ -206,7 +206,7 @@ The part of Dr. NK's paper which would theoretically account for my writing UBIK
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Ubik, Logos, Well, These, Perhaps, Because, Time, Harpax, Mind, Even, Does, Anyhow, Just, Again, Both, Being, Runciter, Self, Himself, Without, Nothing, Brain, Still, Part, More, Through, Before, Will, Would, Beyond, Have, Things, Information, Info, Testament, Knowledge, Today, During
+**Co-occurrences**: Time, Information, Ubik, Logos, Well, These, Perhaps, Because
 
 ---
 ### Line 778-786 (Match: 'Jesus')
@@ -223,7 +223,7 @@ But regarding possible time dysfunctions (due either to experiments at e.g. Pulk
 
 It's as if the merely potential (i.e. discarded at one or more critical junctions along the linear time-line) has come into a periodic shimmering realization, along side what is actual (vide William James on the sea of potential facts around each actualized fact -- each that, so to speak, makes it). Like in my story "The Commuter." Also, there is to me the real thought that adjustments (ala "Adjustment Team") are being made in our past, which are to an ever increasing degree making a certain "alternate present" (or time line) actual -- in place of the one we have, not along side it. I sense a series of minute tinkerings going on (vide Peter Mann's conversation with me recently on that idea). They are realigning our reality so it will conform to what the Plan (Logos) called for, thus losing the error fact, finally, which crept in. I suppose they could be making be making this critical correction back as far as 100 A.D. Just for story purposes, let us suppose a time-traveling team from our future has gone back to 45 A.D. to see to it that Jesus is not crucified. When the Parousia are finished with, the time line we have will not even be remembered; our memories will be retaped to fit our newly made past, as well as present, and, as in "Commuter," we will be relieved that "nothing has changed after all" (sic). I guess the realigned-correctly world will have California still the property of Spain-Mexico. Portugal will retain its States of America. The Catholi[c] Church will not have been re[?]nt asunder by the Reformers; this world will have only one huge Christian church/body, for all...
 ```
-**Co-occurrences**: Christian, Logos, Well, Parousia, These, Perhaps, James, Like, World, Since, Only, Time, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Nothing, Still, Their, More, Church, Most, Real, Voice, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+**Co-occurrences**: Time, Linear, Christian, Logos, Well, Parousia, These, Perhaps, James, Like, World, Since, Only
 
 ---
 ### Line 782-790 (Match: 'Jesus')
@@ -240,7 +240,7 @@ Last edit over 5 years ago by Harpax
 50
 Needs Review
 ```
-**Co-occurrences**: Christian, Logos, Well, Parousia, These, Perhaps, James, Like, World, Since, Only, Time, Harpax, After, Even, Could, Pinky, Just, Suppose, Both, Reality, Being, March, Himself, Either, Great, Probably, Tessa, Nothing, Still, Their, More, Church, Most, Real, Love, Before, Finally, Will, Other, Were, Back, Whatever, Have, Body, America, Reformers, Human, Dream, Lamb
+**Co-occurrences**: Time, Linear, Christian, Logos, Well, Parousia, These, Perhaps, James, Like, World, Since, Only
 
 ---
 ### Line 803-811 (Match: 'Jesus')
@@ -256,7 +256,7 @@ That this has happened I am positive. That so little has changed shows how sligh
 
 We have a concentric-ring society, and the innermost ring has been burned off by the fire, has now been replaced by light, by God, and this is parallelled by a discernment outside, by those on the rim, that the Lord of Hosts has in fact suddenly come to his temple, announced by the messenger of the covenant whom we delight in...as Malachi put it. There was a swift arrival (mainly by Elijah), a swift victory over the darkness, a tossing down of the tyranny, and then the enormous judging and destroying power was withdrawn and replaced by an assisting and healing power. Advocacy for the weak and oppressed is no longer necessary, now that God rules. Healing (as if after a battle which was won) has been in order, and so done. Finally, the freeing of the many
 ```
-**Co-occurrences**: King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+**Co-occurrences**: Time, King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only
 
 ---
 ### Line 805-813 (Match: 'Jesus')
@@ -272,7 +272,7 @@ We have a concentric-ring society, and the innermost ring has been burned off by
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+**Co-occurrences**: Time, King, Paul, Empire, Lord, Elijah, Like, World, Since, Because, Only
 
 ---
 ### Line 837-845 (Match: 'Jesus')
@@ -289,7 +289,7 @@ Let us consider the miracle involved. When God enters time, when he pierces our 
 
 I am a child trying to understand adult concepts.
 ```
-**Co-occurrences**: Christ, Paul, Parousia, Lord, Perhaps, Maybe, World, Since, Because, John, Time, Good, Light, Does, Just, Once, Again, Both, Kosmos, Being, March, Everything, Divine, Viewed, Still, Living, Such, Love, Consider, True, Death, Will, Other, Were, Very, Back, Have, Judgment, Later, Whether, Cross, Suddenly
+**Co-occurrences**: Time, Christ, Paul, Parousia, Lord, Perhaps, Maybe, World, Since, Because, John
 
 ---
 ### Line 990-998 (Match: 'Jesus')
@@ -305,7 +305,7 @@ Not the physical sun that day had done out (had it, as in an eclipse, I wouldn't
 
 But more: what Laura and I saw must have been what Jesus himself, on the cross, saw: the Other Sun had gone out (time dysfunction). We saw what we saw. And He died, because of that darkness. When Laura and I saw that certainly not Laura and not me either could have understood the significance of what we saw; I mean, this is not faked, because for us to see that rushing band of darkness, and lacking on back our parts the highly sophisticated knowledge I now have, we did not see it because we "expected" to see it. That was around 1962. It has taken 13 or so years for me to understand what that meant, which certifies to the genuineness of the experience. Then indeed, as related in the Bible, the sun did go out that day on Calvery. The sun went out. Then, as in 1962. This proves the connection between Christ or anyhow Christ's power or origin and the sun, as stated in the "Decoded." I am witness to what must consist of a valid (scientifically valid) proof of this. And, just as Isa had the book dream and healing dream here, Laura was witness with me then. In each case a daughter of mine was witness, without comprehension ("a little child shall lead them," because it can't fake it).
 ```
-**Co-occurrences**: Christ, Holy, Well, Bible, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Certainly, Doris, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+**Co-occurrences**: Time, Decoded, Christ, Holy, Well, Bible, Maybe, Because
 
 ---
 ### Line 994-1002 (Match: 'Jesus')
@@ -322,7 +322,7 @@ Last edit over 5 years ago by Harpax
 67
 Needs Review
 ```
-**Co-occurrences**: Christ, Holy, Well, Bible, Maybe, Because, Time, Harpax, Good, Book, Light, Even, Could, Anyhow, Just, Both, Eldritch, Himself, Palmer, Either, Palm, Santa, Without, Palmer Eldritch, Darkness, More, Another, Real, Laura, Certainly, Doris, Death, Universe, Friday, Would, Other, Back, Have, Fake, Knowledge, Cross, Dead, Suddenly, During, Dream
+**Co-occurrences**: Time, Decoded, Christ, Holy, Well, Bible, Maybe, Because
 
 ---
 ### Line 1012-1020 (Match: 'Jesus')
@@ -339,6 +339,6 @@ It doesn't seem to me that it's just speculation that it was my pineal gland to 
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Form, Well, Roman, However, These, Father, Since, Because, Only, Time, Harpax, Light, Even, Gospel, Could, Does, Anyhow, Just, Both, Being, March, Catholic, Divine, Himself, Probably, Without, Brain, Still, Part, Their, Most, Such, Certainly, Before, Doris, Mother, True, Will, Would, Other, Were, Hindu, Back, Under, Body, Information, Except, Dead, Today, Otherwise, Human, Doesn, Right
+**Co-occurrences**: Time, Information, Christ, Spirit, Form, Well, Roman, However, These, Father, Since, Because, Only
 
 ---

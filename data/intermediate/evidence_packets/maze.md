@@ -20,7 +20,7 @@ Last edit over 5 years ago by Harpax
 
 66
 ```
-**Co-occurrences**: Christ, Ubik, Holy, Rome, Form, Sophia, Kingdom, Greek, However, Father, Like, Because, Only, Time, Harpax, Faith, Stigmata, Savior, Light, Even, Firebright, Could, Does, Once, Zagreus, Being, Eldritch, Palmer, Anamnesis, Palmer Eldritch, Essene, Darkness, Still, Most, Real, Such, True, Death, Somehow, Kingship, Were, Very, Back, Beyond, Many, Life, Body, Spring, Having, Remember, Unless, Greater, During, Someone
+**Co-occurrences**: Sophia, Time, Firebright, Anamnesis, Christ, Ubik, Holy, Rome, Form, Kingdom, Greek, However, Father, Like, Because, Only
 
 ---
 ### Line 1067-1075 (Match: 'Maze')
@@ -37,7 +37,7 @@ I guess you could say, the total family is, God (JHWH), his impregnating self wh
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Father, Earth, Harpax, After, Mind, Light, Could, Does, Anyhow, Just, Zagreus, Being, Self, Great, Probably, Part, More, Church, Star, Through, Most, Certainly, Mother, Death, Universe, Deity, Would, Other, Were, Very, Many, Body, Testament, Trinity, Except, Human, Doesn, Right, Someone, Answer, Mary, Until
+**Co-occurrences**: Decoded, Christ, Spirit, Holy, Holy Spirit, Form, Well, Bible, Father, Earth
 
 ---
 ### Line 1430-1438 (Match: 'Maze')
@@ -54,7 +54,7 @@ Last edit over 5 years ago by svayambhu108
 
 101
 ```
-**Co-occurrences**: Christ, Form, Well, Perhaps, Maybe, Like, World, Because, Only, Time, After, Good, Light, Could, Anyhow, Just, Something, Again, Being, Self, Himself, Anamnesis, Grace, Those, Still, Wait, Nonetheless, Death, Universe, Finally, Would, Very, Surely, Many, Have, Clearly, Life, Body, Having, Remember, Cross, Dead
+**Co-occurrences**: Time, Anamnesis, Christ, Form, Well, Perhaps, Maybe, Like, World, Because, Only
 
 ---
 ### Line 1601-1609 (Match: 'Maze')
@@ -71,7 +71,7 @@ It still does not compute; I still don't have it. There is no reason why in leap
 
 This points so to the past, to the time of Socrates. To his daimon -- there, I said it; my daimon, maybe all of them, are his, specifically his, a Greek-speaking (originally) one. Attic Greece is somehow the core, the matrix, for all this -- WHY?
 ```
-**Co-occurrences**: Holy, Greek, Well, Perhaps, Maybe, Like, Time, After, Does, Anyhow, Just, Himself, Probably, Still, Another, Phil, Voice, Greece, True, Other, Somehow, Very, Attic, Back, Have, Socrates, Doesn, Someone
+**Co-occurrences**: Time, Phil, Holy, Greek, Well, Perhaps, Maybe, Like
 
 ---
 ### Line 2791-2799 (Match: 'Maze')
@@ -88,7 +88,7 @@ Last edit almost 5 years ago by svayambhu108
 213
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Clearly, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Genesis, Final, White
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth
 
 ---
 ### Line 3431-3439 (Match: 'Maze')
@@ -105,7 +105,7 @@ Last edit almost 5 years ago by svayambhu108
 272
 Needs Review
 ```
-**Co-occurrences**: Christ, Kingdom, Perhaps, Advent, Father, Like, World, Since, John, Time, After, Good, Mind, Light, Could, Reality, Although, Daniel, Without, Darkness, Those, More, Another, Through, Real, Before, True, Will, Would, Somehow, Were, Biblical, Very, Back, Beyond, Under, Have, Things, Judgment, Knowledge, During, Evidently, Final, Until
+**Co-occurrences**: Time, Linear, Christ, Kingdom, Perhaps, Advent, Father, Like, World, Since, John
 
 ---
 ### Line 3492-3500 (Match: 'Maze')
@@ -122,7 +122,7 @@ Last edit almost 5 years ago by svayambhu108
 280
 Needs Review
 ```
-**Co-occurrences**: Acts, Xerox, Rome, Greek, Bible, Maybe, World, Because, Only, Time, Even, Could, Just, Something, Once, Reality, Being, Obviously, Self, Everything, Probably, Anamnesis, Those, Dokos, Another, Brahmanism, Real, Actually, Calif, True, Will, Other, Biblical, Very, Back, Have, Things, Judgment, Life, Absolute, Later, Having, Remember, Truth, Suddenly
+**Co-occurrences**: Time, Anamnesis, Acts, Xerox, Rome, Greek, Bible, Maybe, World, Because, Only
 
 ---
 ### Line 3787-3795 (Match: 'Maze')
@@ -139,7 +139,7 @@ Last edit almost 5 years ago by svayambhu108
 
 311
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth, After, Book, Even, Could, Just, Something, Although, Girl, Frolix, Daniel, Deus, Those, More, Living, Real, Secret, Revelation, Irae, Death, Other, Biblical, Back, Under, Many, Have, Clearly, Judgment, Life, Body, Later, Evil, Deus Irae, Dream, Evidently, Genesis, Final, White
+**Co-occurrences**: Christ, Tears, Christian, Ubik, Spirit, Holy, Logos, Jesus, Holy Spirit, King, Paul, Fish, Felix, Well, Bible, Parousia, Golden, Perhaps, Scanner, World, Because, Golden Fish, Only, Earth
 
 ---
 ### Line 3885-3893 (Match: 'Maze')
@@ -156,7 +156,7 @@ which is "elsewhere. Meaning unsuspected, different Am I really in Rome C. AD 70
 
 Last edit almost 3 years ago by svayambhu108
 ```
-**Co-occurrences**: Ubik, Rome, Wisdom, Maybe, James, World, Gnosis, Iron, Prison, Only, Time, Black, Stigmata, Savior, Good, Does, Anyhow, Just, Maya, Being, Self, Real, Such, Actually, True, Death, Deity, Were, Back, Information, Unless, Dead, Iron Prison, Dream, Pleroma
+**Co-occurrences**: Time, Information, Pleroma, Ubik, Rome, Wisdom, Maybe, James, World, Gnosis, Iron, Prison, Only
 
 ---
 ### Line 3922-3930 (Match: 'Maze')
@@ -173,7 +173,7 @@ Last edit almost 3 years ago by svayambhu108
 19
 Needs Review
 ```
-**Co-occurrences**: Tears, Ubik, Xerox, Brahman, Well, Like, World, Only, Time, Stigmata, Mind, Book, Could, Just, Once, Being, Girl, Through, Such, Secret, Before, True, Deity, Information, Likewise, Truth, Impostor, Evidently, Ptath, Right
+**Co-occurrences**: Time, Information, Tears, Ubik, Xerox, Brahman, Well, Like, World, Only
 
 ---
 ### Line 4147-4155 (Match: 'Maze')
@@ -189,7 +189,7 @@ Last edit almost 3 years ago by svayambhu108
 52
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Ubik, Xerox, Gnostic, Felix, Roman, Like, World, Because, Iron, Only, Nixon, Black, Faith, Stigmata, Good, Mind, Book, Just, Soviet, Something, Suppose, Self, Divine, Without, Creator, Those, Still, Another, Most, Real, Secret, Revelation, Universe, Would, Other, Creation, Were, Back, Whatever, Absolute, Truth, Dream, Evidently
+**Co-occurrences**: Gnostic, Christ, Tears, Christian, Ubik, Xerox, Felix, Roman, Like, World, Because, Iron, Only, Nixon
 
 ---
 ### Line 4260-4268 (Match: 'Maze')
@@ -206,7 +206,7 @@ Last edit almost 3 years ago by svayambhu108
 
 71
 ```
-**Co-occurrences**: Tears, Christian, Ubik, Xerox, Book, Himself, Such, Secret
+**Co-occurrences**: Tears, Christian, Ubik, Xerox
 
 ---
 ### Line 4331-4339 (Match: 'Maze')
@@ -223,7 +223,7 @@ Last edit almost 3 years ago by svayambhu108
 83
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Spirit, Form, However, World, Because, Iron, Prison, Time, Black, Faith, Could, Just, Both, Self, Girl, Black Iron Prison, Part, Dokos, More, Another, Certainly, Before, Will, Were, Very, Have, Memory, Remember, Impostor, Human, Iron Prison, Dream, Right, Answer, Until
+**Co-occurrences**: Time, Christ, Tears, Spirit, Form, However, World, Because, Iron, Prison
 
 ---
 ### Line 4508-4516 (Match: 'Maze')
@@ -240,7 +240,7 @@ Last edit almost 5 years ago by svayambhu108
 13
 Needs Review
 ```
-**Co-occurrences**: Tears, Ubik, Zebra, Fish, These, Like, Only, Time, Good, Even, Could, Just, Runciter, Brain, Still, Through, Gold, Would, Other, Were, Later, Magic, Evidently, Right
+**Co-occurrences**: Zebra, Time, Tears, Ubik, Fish, These, Like, Only
 
 ---
 ### Line 4953-4961 (Match: 'Maze')
@@ -257,7 +257,7 @@ Needs Review
 
 Were they trying to induce that? Somehow connected with the forthcoming resurrection in the final days?
 ```
-**Co-occurrences**: Zebra, Xerox, Perhaps, Like, Time, Even, Could, Both, Being, Self, More, Through, Certainly, Before, Other, Somehow, Judge, Were, Very, Whatever, Have, Memory, Days, Final
+**Co-occurrences**: Zebra, Time, Xerox, Perhaps, Like
 
 ---
 ### Line 4955-4963 (Match: 'Maze')
@@ -274,7 +274,7 @@ Were they trying to induce that? Somehow connected with the forthcoming resurrec
 
 [It very?] well may be that the enormous breathe of knowledge + vision (perception + r-p) may have derived fast as a dearest revelAtion. Bute were the “Thomas” personality’s- in which case He was an extraordinary, unique person, I know that he was A Christian of the apostolic age, persecuted by Romans. could he have been one of those at peters last to where the Holy Spirit (ie Christ) came + entered? Thus he was a God Like being himself. What a mind to be taken over by!
 ```
-**Co-occurrences**: Christ, Christian, Thomas, Spirit, Holy, Zebra, Xerox, Holy Spirit, Well, Roman, Perhaps, Like, Time, Mind, Even, Could, Both, Being, Self, Himself, Those, More, Through, Certainly, Before, Revelation, Other, Somehow, Judge, Were, Very, Whatever, Have, Memory, Days, Knowledge, Final
+**Co-occurrences**: Thomas, Zebra, Time, Christ, Christian, Spirit, Holy, Xerox, Holy Spirit, Well, Roman, Perhaps, Like
 
 ---
 ### Line 4982-4990 (Match: 'Maze')
@@ -291,7 +291,7 @@ Last edit almost 3 years ago by svayambhu108
 23
 Needs Review
 ```
-**Co-occurrences**: Thomas, Xerox, Perhaps, Like, Since, Because, Only, Time, Mind, Book, Does, Both, Reality, Although, Everything, Still, Before, Would, Very, Back, Memory, Days
+**Co-occurrences**: Thomas, Time, Xerox, Perhaps, Like, Since, Because, Only
 
 ---
 ### Line 5599-5607 (Match: 'Maze')
@@ -308,7 +308,7 @@ I wasn't just extricated from a trap in 3-74; rather, I was taken over [my?] the
 
 Last edit over 5 years ago by wtutwiler70
 ```
-**Co-occurrences**: Tears, Xerox, Father, Like, Time, Nixon, Faith, Stigmata, Good, Mind, Book, Just, Although, Frolix, House, Without, Part, Their, More, Pike, Before, Jim Pike, Death, Would, Very, Back, Have, Fake, Evil, Impostor, Right
+**Co-occurrences**: Time, Tears, Xerox, Father, Like, Nixon
 
 ---
 ### Line 5795-5803 (Match: 'Maze')
@@ -325,7 +325,7 @@ I have already revealed the Gnosis (facts of the matter - i.e. truth) in my writ
 
 This circular time, as it sp sweeps out again & again, must differ in details, & this, these accum[ulative] bits of change, give rise to the idea of [...]
 ```
-**Co-occurrences**: Tears, Ubik, Xerox, However, These, World, Gnosis, Prison, Only, Time, Stigmata, Good, Book, Does, Once, Again, Being, Eldritch, Palmer, Viewed, Palmer Eldritch, Grace, Tessa, Part, Through, Living, Certainly, Before, Will, Would, Have, Life, Information, Electric, Truth, Impostor, Electric Ant, Until
+**Co-occurrences**: Time, Information, Tears, Ubik, Xerox, However, These, World, Gnosis, Prison, Only
 
 ---
 ### Line 5832-5840 (Match: 'Maze')
@@ -342,6 +342,6 @@ Last edit almost 3 years ago by svayambhu108
 10
 Needs Review
 ```
-**Co-occurrences**: Ubik, Rome, King, Maybe, World, Since, Because, Therefore, Time, After, Savior, Could, Does, Philo, Something, Once, Again, Being, Runciter, Himself, Those, Before, True, Death, Macro, Would, Were, Meanwhile, Have, Memory, Information, Having, Truth
+**Co-occurrences**: Time, Philo, Information, Ubik, Rome, King, Maybe, World, Since, Because, Therefore
 
 ---

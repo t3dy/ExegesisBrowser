@@ -20,7 +20,7 @@ Last edit almost 5 years ago by svayambhu108
 288
 Needs Review
 ```
-**Co-occurrences**: Christian, Christianity, Fish, Greek, Gnosticism, These, Perhaps, Plotinus, Parmenides, Time, After, Platonism, Mind, Light, Gestalt, Could, Bardo, Just, Soviet, Thodol, Bardo Thodol, Reality, Empedocles, Girl, Divine, Probably, Jewish, Nothing, Brain, Those, Still, Dokos, More, Another, Through, Real, Gold, Such, Love, Before, Easter, Universe, Would, Were, Very, Under, Many, Have, Mani, Journey, Things, Life, Absolute, Aphrodite, Later, Passover, Suddenly, Human, Right, Answer
+**Co-occurrences**: Gnosticism, Plotinus, Time, Christian, Christianity, Fish, Greek, These, Perhaps, Parmenides
 
 ---
 ### Line 4355-4363 (Match: 'Kant')
@@ -37,7 +37,7 @@ Last edit less than 10 seconds ago by Gabriel Mckee
 
 86
 ```
-**Co-occurrences**: Form, However, World, Parmenides, Because, Gabriel, Mckee, Gabriel Mckee, Good, Could, Does, Being, Without, Part, Real, Voice, Actually, Would, Other, Very, Have, Things, Life, Except, Knowledge
+**Co-occurrences**: Form, However, World, Parmenides, Because
 
 ---
 ### Line 5083-5091 (Match: 'Kant')
@@ -54,7 +54,7 @@ Last edit almost 3 years ago by svayambhu108
 40
 Needs Review
 ```
-**Co-occurrences**: Zebra, Greek, Well, World, Because, Therefore, Only, Noos, Mind, Just, Being, Divine, Himself, Great, Viewed, Living, Certainly, Whitehead, Very, Have, Body
+**Co-occurrences**: Zebra, Greek, Well, World, Because, Therefore, Only
 
 ---
 ### Line 11672-11680 (Match: 'Kant')
@@ -71,7 +71,7 @@ Christ as he ascends through the realms, strips the old powers of their authorit
 
 ----------
 ```
-**Co-occurrences**: Christ, Complete, Christianity, Form, Gnostic, Paul, Well, World, Parmenides, Mind, Realm, Reality, Heraclitus, Himself, Viewed, Without, Their, Through, Most, Such, Would
+**Co-occurrences**: Gnostic, Christ, Complete, Christianity, Form, Paul, Well, World, Parmenides
 
 ---
 ### Line 11966-11974 (Match: 'Kant')
@@ -87,7 +87,7 @@ Last edit almost 3 years ago by svayambhu108
 42
 Complete
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Complete, Form, Felix, World, Because, Anamnesis, Nothing, More, Actually, Were, Many, Have, Truth, Human, Dream
+**Co-occurrences**: Anamnesis, Christ, Tears, Ubik, Complete, Form, Felix, World, Because
 
 ---
 ### Line 13987-13995 (Match: 'Kant')
@@ -104,9 +104,7 @@ Last edit about 9 years ago by Toso
 
 folder 02 - 031
 ```
-**Co-occurrences**: Acts, Christian, Toso, Thomas, Indexed, Roman, Maze, These, World, Time, Folder, Could, Joint, Does, Just, Obviously, Self, Everything, Toso
-Folder, House, Indexed
-Folder, Real, Secret, Finally, Would, Other, Were, Meanwhile, Have, Judgment, Absolute, Knowledge, Whereas
+**Co-occurrences**: Thomas, Time, Acts, Christian, Toso, Indexed, Roman, Maze, These, World
 
 ---
 ### Line 14010-14018 (Match: 'Kant')
@@ -123,9 +121,7 @@ Last edit over 9 years ago by Toso
 folder 02 - 035
 Complete
 ```
-**Co-occurrences**: Toso, Indexed, Zebra, Complete, These, World, Only, Time, Folder, Does, Something, Reality, Toso
-Folder, Probably, Indexed
-Folder, Real, Actually, Hindu, Things, German, Knowledge
+**Co-occurrences**: Zebra, Time, Kantian, Toso, Indexed, Complete, These, World, Only
 
 ---
 ### Line 14033-14041 (Match: 'Kant')
@@ -142,9 +138,7 @@ Last edit over 9 years ago by Toso
 folder 02 - 039
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Zebra, Plato, These, Like, World, Only, After, Folder, Mind, Reality, Kosmos, Being, Toso
-Folder, Indexed
-Folder, Brain, Those, Leibnitz, Brahmanism, Such, Voice, Before, True, Many, Have, Info
+**Co-occurrences**: Zebra, Toso, Indexed, Plato, These, Like, World, Only
 
 ---
 ### Line 14212-14220 (Match: 'Kant')
@@ -161,8 +155,7 @@ Last edit over 9 years ago by Toso
 
 folder 02 - 061
 ```
-**Co-occurrences**: Toso, Complete, However, Like, World, Because, Therefore, Noos, Folder, Could, Does, Something, Diagram, Reality, Being, Toso
-Folder, Viewed, Brain, Another, Through, Flux, Universe, Would, Very, Life
+**Co-occurrences**: Toso, Complete, However, Like, World, Because, Therefore
 
 ---
 ### Line 14859-14867 (Match: 'Kant')
@@ -179,9 +172,7 @@ Last edit about 7 years ago by Toso
 Folder 03 - 053
 Indexed
 ```
-**Co-occurrences**: Ubik, Toso, Indexed, Plato, Well, However, World, Since, Time, Folder, Stigmata, Even, Realm, Maya, Obviously, Toso
-Folder, Without, Indexed
-Folder, Beethoven, Brain, Part, More, Through, Most, Real, Such, True, Would, Somehow, Very, Things, Caesar, Dialectic, Upper, During, Lower
+**Co-occurrences**: Time, Dialectic, Ubik, Toso, Indexed, Plato, Well, However, World, Since
 
 ---
 ### Line 14984-14992 (Match: 'Kant')
@@ -198,9 +189,7 @@ Last edit over 5 years ago by Toso
 Folder 03 - 069
 Complete
 ```
-**Co-occurrences**: Christ, Tears, Acts, Ubik, Toso, Indexed, Holy, Zebra, Logos, Complete, Form, Kingdom, Well, Wisdom, These, World, Since, Because, Platonist, Folder, Holy Wisdom, Could, Just, Realm, Heraclitus, Being, Obviously, Self, Toso
-Folder, Either, Indexed
-Folder, Bruno, Another, Most, Real, Have, Absolute, Magic
+**Co-occurrences**: Zebra, Christ, Tears, Acts, Ubik, Toso, Indexed, Holy, Logos, Complete, Form, Kingdom, Well, Wisdom, These, World, Since, Because, Platonist
 
 ---
 ### Line 17824-17832 (Match: 'Kant')
@@ -217,8 +206,7 @@ This is how Thomas can be in my head but be in another space + time from me. His
 
 Last edit about 8 years ago by Toso
 ```
-**Co-occurrences**: Toso, Thomas, Indexed, World, Time, Folder, Good, Reality, Indexed
-Folder, Creator, Another, Through, Such, Were, Illustration, Have, Whether, Right
+**Co-occurrences**: Thomas, Time, Toso, Indexed, World
 
 ---
 ### Line 17834-17842 (Match: 'Kant')
@@ -235,9 +223,7 @@ Last edit about 8 years ago by Toso
 folder 21 - 120
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Gnostic, World, Since, Because, Prison, Folder, Mind, Anyhow, Reality, Obviously, Although, Toso
-Folder, Without, Indexed
-Folder, Other, Mani, Berkeley, Whether, Right
+**Co-occurrences**: Gnostic, Toso, Indexed, World, Since, Because, Prison
 
 ---
 ### Line 20340-20348 (Match: 'Kant')
@@ -254,7 +240,7 @@ The outside world is a copy of people's minds, the neumenal or real world lies -
 
 So not only only did I (after long rejecting the irreal "external" universe) find the real, inner one, but I found the "Kingdom of Heaven" where Christ rules. In story upon novel I dematerialize the outer universe - until at last into the vacuum there flooded all at once the truly real, made up of boundless vast spacial geometric conceptions, wisdom, + ancient eternal healing entities.
 ```
-**Co-occurrences**: Christ, Plato, Kingdom, Wisdom, World, Only, After, Cosmic, Cosmic Christ, Once, Self, Corpus, Another, Living, Heaven, Real, Upon, Universe, Have, Dead, Until
+**Co-occurrences**: Christ, Plato, Kingdom, Wisdom, World, Only
 
 ---
 ### Line 20898-20906 (Match: 'Kant')
@@ -271,7 +257,7 @@ Last edit almost 3 years ago by svayambhu108
 
 41
 ```
-**Co-occurrences**: Christ, Thomas, Spirit, Holy, Holy Spirit, Kingdom, Perhaps, Maybe, Like, Paraclete, Just, Again, Kingdom of God, Reality, Divine, Gods, Viewed, Brain, Still, Through, Heaven, Voice, Would, Other, Very, Back, Have, Absolute, Magic, Right
+**Co-occurrences**: Thomas, Christ, Spirit, Holy, Holy Spirit, Kingdom, Perhaps, Maybe, Like
 
 ---
 ### Line 22227-22235 (Match: 'Kant')
@@ -288,7 +274,7 @@ Last edit over 4 years ago by Ernieglz
 53
 Complete
 ```
-**Co-occurrences**: Valis, Ubik, Complete, Form, Perhaps, Like, World, Fall, Because, Only, Time, Light, Even, Does, Just, Look, Once, Adam, Reality, Being, Runciter, Part, Leibnitz, Brahmanism, Most, Real, Actually, Somehow, Were, Back, Life, Information, Truth, Right
+**Co-occurrences**: Valis, Time, Information, Ubik, Complete, Form, Perhaps, Like, World, Fall, Because, Only
 
 ---
 ### Line 30288-30296 (Match: 'Kant')
@@ -305,8 +291,7 @@ Last edit almost 9 years ago by Toso
 folder 82 - 004
 Indexed
 ```
-**Co-occurrences**: Toso, Indexed, Form, These, Like, World, Since, Because, Only, Folder, Mind, Hermetic, Even, Could, Does, Reality, Toso
-Folder, Probably, Nothing, Brain, Such, True, Universe, Other, Under, Have, Greater, Human
+**Co-occurrences**: Hermetic, Toso, Indexed, Form, These, Like, World, Since, Because, Only
 
 ---
 ### Line 34632-34640 (Match: 'Kant')
@@ -323,7 +308,7 @@ In that case, each given system is in itself part of the enslaving snare of delu
 
 10-24-80 6
 ```
-**Co-occurrences**: Tears, Acts, Christian, Complete, Bible, Gnosticism, However, Spinoza, Perhaps, Like, World, Parmenides, Since, Only, Folder, Hermetic, Could, Does, Something, Look, Realm, Again, Reality, Being, Everything, Either, Great, Daniel, Part, More, Real, Such, Revelation, True, Will, Would, Other, Schopenhauer, Many, Have, Truth, Dream, Answer
+**Co-occurrences**: Gnosticism, Hermetic, Tears, Acts, Christian, Complete, Bible, However, Spinoza, Perhaps, Like, World, Parmenides, Since, Only
 
 ---
 ### Line 35182-35190 (Match: 'Kant')
@@ -340,7 +325,7 @@ into fragmentation by time; but time is irreal (cf Plato and Kant). So it only a
 
 11-7-80 6
 ```
-**Co-occurrences**: Valis, Acts, Plato, Brahman, Well, Wisdom, Perhaps, World, Because, Only, Time, Platonist, Cosmic, Folder, Even, Could, Realm, Reality, Great, Real, Actually, Certainly, Before, Finally, Creation, Were, Very, Back, Beyond, Have, Except, Knowledge, West, Until
+**Co-occurrences**: Valis, Time, Acts, Plato, Brahman, Well, Wisdom, Perhaps, World, Because, Only, Platonist
 
 ---
 ### Line 36777-36785 (Match: 'Kant')
@@ -357,6 +342,6 @@ Last edit almost 6 years ago by Toso
 69
 Indexed
 ```
-**Co-occurrences**: Valis, Toso, Indexed, Logos, Form, Plato, Gnostic, These, World, Only, Time, Pythagoras, Mind, Does, Philo, Kosmos, Nous, Everything, Nothing, More, Real, Flux, Universe, Would, Were, Further, Life, Information, Whether, Remember, Human, Doesn, Right
+**Co-occurrences**: Valis, Gnostic, Time, Philo, Information, Toso, Indexed, Logos, Form, Plato, These, World, Only
 
 ---

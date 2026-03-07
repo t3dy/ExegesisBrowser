@@ -20,7 +20,7 @@ We already pointed this axis out --the one he sees in UBIK-- as the orthogonal o
 
 This "decay" is the same direction the Holy Spirit (or whatever you wish to deem it) was moving. Backward vis-a-vis our own time. So Joe Chip isn't seeing the anti-eidos. He is seeing the natural process of the other time exposed. Its normal motion under normal conditions leads back from rocketship to Corvette to La Salle to Model T. I mean, isn't this important, to realize this? He has already seen it decay via a different axis (the Platonic forms); but he still calls it decay and imagines that what he sees is a reversal of its normal growth direction.
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Time, Just, Platonic, Still, Other, Back, Whatever, Under, Claudia, Chip
+**Co-occurrences**: Time, Ubik, Spirit, Holy, Holy Spirit
 
 ---
 ### Line 6-14 (Match: 'Forms')
@@ -37,7 +37,7 @@ Maybe not. Maybe this is the counter time needed to create parity. I guess I sai
 
 I saw the Final Things (eschatology). There, all forms including us, including me, we have our completion. The other way...
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Kingdom, Parousia, Maybe, Iron, Time, Savior, Just, March, Platonic, Great, Still, Their, Heaven, Would, Other, Back, Whatever, Under, Have, Things, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Time, Linear, Ubik, Spirit, Holy, Holy Spirit, Kingdom, Parousia, Maybe, Iron
 
 ---
 ### Line 8-16 (Match: 'Form')
@@ -54,7 +54,7 @@ I saw the Final Things (eschatology). There, all forms including us, including m
 
 I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. And I saw the "hotel" register in which my name was carefully written. Claudia, honey, I saw time rush through to completion, down that orthogonal axis, which I know to be the true axis.
 ```
-**Co-occurrences**: Ubik, Spirit, Holy, Holy Spirit, Kingdom, Parousia, Maybe, Iron, Time, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Time, Linear, Ubik, Spirit, Holy, Holy Spirit, Kingdom, Parousia, Maybe, Iron
 
 ---
 ### Line 10-18 (Match: 'Forms')
@@ -71,7 +71,7 @@ I lived through the Final Things, coming out finally in the Perfect Kingdom: moo
 
 I never noticed this parallel:
 ```
-**Co-occurrences**: Spirit, Holy, Holy Spirit, Kingdom, Parousia, Maybe, Iron, Time, Savior, Could, March, Platonic, Great, Still, Their, Through, Heaven, True, Finally, Would, Other, Back, Whatever, Under, Have, Things, Claudia, Justice, Freedom, Truth, Chip, Final
+**Co-occurrences**: Time, Linear, Spirit, Holy, Holy Spirit, Kingdom, Parousia, Maybe, Iron
 
 ---
 ### Line 16-24 (Match: 'Form')
@@ -88,7 +88,7 @@ But this isn't "reversion"; it is completion. Actually I had
 
 Last edit over 5 years ago by Toso
 ```
-**Co-occurrences**: Toso, Rome, Kingdom, Time, Could, Again, Through, Actually, True, Finally, Things, Claudia, Chip, Final
+**Co-occurrences**: Time, Toso, Rome, Kingdom
 
 ---
 ### Line 24-32 (Match: 'Forms')
@@ -105,7 +105,7 @@ I saw the Parousia, and I couldn't have unless they actually took place (I didn'
 
 It has happened, the Prince of this World fell.
 ```
-**Co-occurrences**: Christ, Ubik, Toso, Indexed, Jesus, Rome, Kingdom, Parousia, These, Like, World, Only, Time, Nixon, Even, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Toso, Indexed, Jesus, Rome, Kingdom, Parousia, These, Like, World, Only, Nixon
 
 ---
 ### Line 68-76 (Match: 'Form')
@@ -122,7 +122,7 @@ This is why (uniquely for me) my thoughts and phosphene activity speeded up in M
 
 Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
 ```
-**Co-occurrences**: Ubik, Complete, Rome, Parousia, Father, World, Since, Because, Only, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Time, Ubik, Complete, Rome, Parousia, Father, World, Since, Because, Only
 
 ---
 ### Line 107-115 (Match: 'Forms')
@@ -139,7 +139,7 @@ Forms have a point of completion. Like a novel. They don’t go on and on. That 
 
 And yet we experience it backward. It was, as you put it, our childhood. “We see – the universe – as by reflection from the bottom of a burnished metal pan, but now directly for a moment,” said St. Paul. This is all a flashback: our life, a post vitam. Like the squib, the interoffice memo before THREE STIGMATA which is the novel, and what takes place “after” it is really what took place before it, which is there to explain it. I, the little boy like Christopher; that’s me completed.
 ```
-**Co-occurrences**: Complete, Paul, Parousia, Like, Time, After, Stigmata, Zebrapedia, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life
+**Co-occurrences**: Time, Zebrapedia, Complete, Paul, Parousia, Like
 
 ---
 ### Line 109-117 (Match: 'Forms')
@@ -156,7 +156,7 @@ And yet we experience it backward. It was, as you put it, our childhood. “We s
 
 Oh God, Claudia; the “explosion” is throwing is throwing us backward into lineal time away from the moment of completion/perfection of each of us. What age do you guess? The Savior didn’t say “babies.” I think about 3 or 4 years old, maybe up to 6.
 ```
-**Co-occurrences**: Complete, Paul, Parousia, Maybe, Like, Time, After, Stigmata, Savior, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life, Claudia
+**Co-occurrences**: Time, Complete, Paul, Parousia, Maybe, Like
 
 ---
 ### Line 226-234 (Match: 'Form')
@@ -173,7 +173,7 @@ Yes, CONFESSIONS OF A CRAP ARTIST is a fine novel, and I think Paul and David kn
 
 Tessa says in her raspy way,
 ```
-**Co-occurrences**: Tears, Paul, However, Like, Tessa, Will, Other, Back, Have, Electric, Dead, Dream
+**Co-occurrences**: Tears, Paul, However, Like
 
 ---
 ### Line 308-316 (Match: 'Form')
@@ -190,7 +190,7 @@ Last edit over 5 years ago by Siegman
 20
 Complete
 ```
-**Co-occurrences**: Christ, Thomas, Complete, Well, However, Dionysos, Perhaps, Since, Therefore, Only, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Thomas, Time, Christ, Complete, Well, However, Dionysos, Perhaps, Since, Therefore, Only
 
 ---
 ### Line 355-363 (Match: 'Form')
@@ -207,7 +207,7 @@ Last edit over 5 years ago by Siegman
 23
 Complete
 ```
-**Co-occurrences**: Logos, Complete, Because, Only, After, Book, Even, Does, Something, Once, Both, Zagreus, Runciter, Although, Probably, More, Living, Real, Voice, True, Deity, Would, Were, Very, Have, Life, Claudia, Later, Testament, Right
+**Co-occurrences**: Logos, Complete, Because, Only
 
 ---
 ### Line 373-381 (Match: 'Form')
@@ -224,7 +224,7 @@ Now, Ursula, this is the dream-universe cast over us perhaps,
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Perhaps, Like, World, Does, Something, Once, Reality, Dick, Universe, Page, Were, Under, During, Dream, Someone
+**Co-occurrences**: Perhaps, Like, World
 
 ---
 ### Line 381-389 (Match: 'Forms')
@@ -241,7 +241,7 @@ Our reality can be manipulated retroactively; that is, our past can be rewoven, 
 
 A certain portion of the phenomenal world which we encounter is hologram-like, projected and false, to fill in missing spaces, as in the time extension, missing elements are filling in along similar lines. Therefore we see total continuity in both extensions, time and space, without awareness of dysfunction or rupture. But in truth, there are dysfunctions which (to return to my former term) the Dreamer causes us to gloss over, or allows us to -- perhaps it is less a manipulation that a permission, if you see what I mean.
 ```
-**Co-occurrences**: Complete, These, Perhaps, Like, World, Therefore, Only, Time, Does, Just, Both, Reality, Although, Without, Still, True, Will, Memory, Truth, Dream
+**Co-occurrences**: Time, Complete, These, Perhaps, Like, World, Therefore, Only
 
 ---
 ### Line 432-440 (Match: 'Form')
@@ -258,7 +258,7 @@ Nicholas Brady, an ordinary American citizen with contemporary worldly values an
 
 Studying the Bible, along with this [Quamran] personality, Brady finds that the New Testament is in cypher. The [Quamran] personality can read it. "Jesus" is really Zagreus-Zeus, taking two forms, one mild, the other utterly powerful, on which his followers can draw when in need.
 ```
-**Co-occurrences**: Acts, Holy, Jesus, Well, Bible, World, Since, Because, Iron, Good, Mind, Book, Zagreus, Tony, Self, Essene, Brain, Their, Zeus, Most, Such, Secret, Would, Other, Back, Have, Life, Testament, Having, Dead, Suddenly, Qumran, Right, Until
+**Co-occurrences**: Acts, Holy, Jesus, Well, Bible, World, Since, Because, Iron
 
 ---
 ### Line 436-444 (Match: 'Forms')
@@ -275,7 +275,7 @@ The [Quamran] personality, who, for fictional purposes, I call Thomas, gradually
 
 Last edit almost 3 years ago by twsullivan
 ```
-**Co-occurrences**: Acts, Thomas, Holy, Jesus, Well, Bible, Parousia, These, World, Because, Iron, Earth, Mind, Book, Zagreus, Self, Anamnesis, Essene, Their, Zeus, Most, Such, Secret, Will, Would, Other, Erasmus, Back, Have, Life, Testament, Days, Dead, Suddenly, Qumran, Final, Until
+**Co-occurrences**: Thomas, Anamnesis, Acts, Holy, Jesus, Well, Bible, Parousia, These, World, Because, Iron, Earth
 
 ---
 ### Line 444-452 (Match: 'Form')
@@ -292,7 +292,7 @@ But in this novel, Thomas says, "The Final Days have come. The overthrown of the
 
 During Winter, it was believed that Dionysos, the god of the vine plant, of vegetation, of the crop, slumbered. It was known that no matter how dead he seemed (James Joyce's FINNIGANS WAKE is a wonderful acount of this) he was actually alive, though you'd never know it. And then, --not to the surprise of those who understood him and believed in him-- he was reborn. His followers knew he would be. We are speaking here of the mystery religions, all of them -- including Christianity. Our God has been sleeping, during the long winter of the human culture ([x] not for one year's rotational cycle of seasons, but from 45 A.D. through the centuries of mental winter to now); just when Winter holds all in its grip, the snow of despair and defeat (in our case, political chaos, moral ruin, economic ruin -- the winter of our planet, our world, our civilization) then the vine, which was gnarled and old and seemingly dead, breaks into new life, and our God is reborn -- not outside us as such, but in each of us. Slumbering not under the snow over the ground-surface but within the right hemispheres of our brains. We have been waiting, we didn't know what for. This is it: this is Spring for our planet, in a deeper more fundamental way. The cold chains of iron are being thrown off, but by what a miracle. As with my character, Nicholas Brady -- I've had Zagreus awaken in my right hemisphere, and felt the flooding of renewed life, his vigor, his personality, and his godlike wisdom: he hated the injustice he saw around him, and remembered "the dear lone lands untroubled by men, where amid the shadowy green / The little ones of the forest live unseen." (Eurypides) Dr. Ornstein, thank you for helping bring Winter to an end, and ushering in --not just Spring-- but the living life of Spring alive but [xl] asleep inside us.
 ```
-**Co-occurrences**: Christian, Thomas, Jesus, Complete, Rome, Christianity, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John, After, Just, Again, Zagreus, Being, Sibyl, Those, Their, More, Another, Through, Living, Ground, Real, Such, Upon, Actually, Revelation, Would, Were, Back, Under, Have, Life, Spring, Later, Days, Knowledge, Dead, During, Human, Final, Right
+**Co-occurrences**: Thomas, Christian, Jesus, Complete, Rome, Christianity, Roman, Wisdom, Dionysos, These, James, Like, World, Because, Iron, Only, John
 
 ---
 ### Line 482-490 (Match: 'Form')
@@ -309,7 +309,7 @@ And then later, "...He is drunken with music, not with wine." (Jane Harrision.) 
 
 Since the flock never looks back or turns back it never sees Him. This is why Luther accurately called our God the "God of the very desperate." This is why the image of the flock and the lamb which has wandered off appear in our sacred writings, and others which refer to this archtypal rescue in stealth. Because of course if the flock knew, they'd stop trudging along and just stand or go back. They're not to know.
 ```
-**Co-occurrences**: Jesus, Complete, Christianity, Greek, Well, Dionysos, These, Like, Since, Because, Time, Light, Could, Just, Look, Zagreus, Being, Himself, Without, Those, More, Star, Death, Universe, Very, Back, Egyptian, Have, Tree, Later, Luther, Human, Lamb, Sacred
+**Co-occurrences**: Time, Jesus, Complete, Christianity, Greek, Well, Dionysos, These, Like, Since, Because
 
 ---
 ### Line 503-511 (Match: 'Forms')
@@ -326,7 +326,7 @@ That which is moving toward form, or completion of form, is moving against disor
 
 Therefore since the [univer] is moving toward disorder (away from form, in lineal time) then that which is moving toward form is moving in an orthogonal or even possible opposite direction from the universe --as such-- and is picking up heat as well as form; i.e. moving toward less disorder, hence more energy.
 ```
-**Co-occurrences**: Well, Since, Therefore, Time, Even, More, Such, Universe
+**Co-occurrences**: Time, Entropy, Well, Since, Therefore
 
 ---
 ### Line 505-513 (Match: 'Form')
@@ -343,6 +343,6 @@ Therefore since the [univer] is moving toward disorder (away from form, in linea
 
 It cannot be that to move toward completion of form is to move toward disorder; hence movement toward form means to gain life, or energy. (V. Kozyrev's theory of left spin as life or energy gaining, right as losing, and that our universe is left spin hence must be moving, ala Bergson, toward energy acquiring, not losing, toward form.)
 ```
-**Co-occurrences**: Well, Since, Therefore, Time, Even, More, Such, Universe, Life, Right
+**Co-occurrences**: Time, Entropy, Well, Since, Therefore
 
 ---

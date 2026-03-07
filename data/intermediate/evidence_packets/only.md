@@ -20,7 +20,7 @@ It has happened, the Prince of this World fell.
 
 This all has been an unfolding process. A revealing or disclosing of Being.
 ```
-**Co-occurrences**: Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Time, Nixon, Even, Being, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, Like, World, Nixon
 
 ---
 ### Line 56-64 (Match: 'Only')
@@ -37,7 +37,7 @@ I forgot; only after that did I see anything else (e.g. Dionysos). My experience
 
 Yes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh.
 ```
-**Co-occurrences**: Rome, Kingdom, Well, Dionysos, Elijah, Like, Because, Iron, Time, After, Just, Again, Kingdom of God, March, Great, House, Before, Kingship, Were, Have, Tree, Dead
+**Co-occurrences**: Time, Rome, Kingdom, Well, Dionysos, Elijah, Like, Because, Iron
 
 ---
 ### Line 68-76 (Match: 'Only')
@@ -54,7 +54,7 @@ This is why (uniquely for me) my thoughts and phosphene activity speeded up in M
 
 Time had to run out for me before the Final Things could take place. I at last reached God: the beautific Void. I think He gave me a guide to replace Pinky; he gave me Erasmus the way he gave Dante Virgil. I did and do have a guide. Erasmus is my guide now. I guess I am in need of that; I remember the other night (Feb 25) when I got so loaded...as I prayed I remember I said, "I am so lonely. Give me [understand?]. Why is it? I don't undersand." Late I did understand: that it was because I still missed my father, god bless him whom I'll never see again. But God gave me (1) a friend (v. last line in Grey's "Elegy": "And found in heaven a friend," which always appealed to me); God gave me as of my prayer on the 25th (2) understanding, that I missed my father; (3) He also gave me the only absolutely Platonic ideal perfect stoned out trip of my life. And most of all, as I sat praying, (4) I realized that Erasmus was with me and had been. I need not be lonely any more. Erasmus replaces my father; I haven't been alone since March 1974.
 ```
-**Co-occurrences**: Ubik, Complete, Rome, Form, Parousia, Father, World, Since, Because, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Time, Ubik, Complete, Rome, Form, Parousia, Father, World, Since, Because
 
 ---
 ### Line 70-78 (Match: 'Only')
@@ -71,7 +71,7 @@ Time had to run out for me before the Final Things could take place. I at last r
 
 The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat I tossed the St. Christopher's medal into his grave with him, poor rat who only wanted to live. But you see how I had been educated by that dreadful morning: the rat had to be killed because of my little girls. It was a lesson for me, uniquely my lesson: that death was unavoidable in more than the descriptive way: that creatures do die. I saw that day that sometimes they should die; that it was of a moral necessity that I literally kill that rat. I never had that rat's
 ```
-**Co-occurrences**: Ubik, Spirit, Complete, Rome, Form, Parousia, Father, World, Since, Because, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Time, Ubik, Spirit, Complete, Rome, Form, Parousia, Father, World, Since, Because
 
 ---
 ### Line 72-80 (Match: 'Only')
@@ -88,7 +88,7 @@ The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat 
 
 Last edit over 5 years ago by A23
 ```
-**Co-occurrences**: Ubik, Spirit, Rome, Form, Parousia, Father, World, Since, Because, Time, After, Book, Light, Could, Pinky, Something, Once, Again, Both, Being, March, Dante, Platonic, Either, Those, Still, More, Most, Heaven, Real, Before, Irae, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Dead, Chip, Final, White
+**Co-occurrences**: Time, Ubik, Spirit, Rome, Form, Parousia, Father, World, Since, Because
 
 ---
 ### Line 74-82 (Match: 'Only')
@@ -105,7 +105,7 @@ Last edit over 5 years ago by A23
 5
 Complete
 ```
-**Co-occurrences**: Spirit, Complete, Father, Since, Because, Time, Light, Could, Pinky, Once, Again, March, Dante, Platonic, Still, More, Most, Heaven, Real, Before, Death, Christopher, Other, Erasmus, Beyond, Under, Have, Things, Judgment, Life, Later, Days, Remember, Final, White
+**Co-occurrences**: Time, Spirit, Complete, Father, Since, Because
 
 ---
 ### Line 82-90 (Match: 'Only')
@@ -122,7 +122,7 @@ I didn't draw a personal lesson though that I should shape up or ship outl my le
 
 I think that in 1974 my entelechy was completed, but I never heard of anyone having his entelechy completed (watch it, Claudia), be-cause this means that the time has ended, not by God intervening, but because the last frames ran through the film ended naturally. Well, see, here is your clue: when the last frames of my film (entelechy) passed faster and faster through the projector, I wasn't perfect; I'm still full of alll
 ```
-**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Through, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Claudia, Instead, Later, Having, Except, During
+**Co-occurrences**: Time, Philip, Phil, Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Like, Since, Because, Therefore
 
 ---
 ### Line 115-123 (Match: 'Only')
@@ -139,7 +139,7 @@ Yes, maybe so, Claudia; while the teacher was still the universe. I remember how
 
 The drawing your parent an archetype
 ```
-**Co-occurrences**: King, Paul, Fish, Maybe, Like, World, Time, After, Stigmata, Savior, Book, Could, Being, Great, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Christopher, Under, Life, Body, Claudia, Later, Remember, Truth, Dream
+**Co-occurrences**: Time, King, Paul, Fish, Maybe, Like, World
 
 ---
 ### Line 121-129 (Match: 'Only')
@@ -156,7 +156,7 @@ And the beautiful cruel queen is Tessa, of course. That story,
 
 Last edit over 5 years ago by Zebrapedia
 ```
-**Co-occurrences**: King, Fish, Well, Maybe, Like, Savior, Mind, Book, Zebrapedia, Being, Great, Tessa, Still, Through, Living, Such, Actually, True, Death, Universe, Will, Christopher, Other, Under, Have, Things, Body, Claudia, Wise, Later, Remember, Truth, During, Dream
+**Co-occurrences**: Zebrapedia, King, Fish, Well, Maybe, Like
 
 ---
 ### Line 131-139 (Match: 'Only')
@@ -173,7 +173,7 @@ The moral of the novel was that you can be different and the King will understan
 
 Rose: “Stephen, how come I can do magic and I’m living here in Fullerton like everyone else, eating at McDonald’s and knowing Willis McNelly.”
 ```
-**Co-occurrences**: Spirit, Complete, King, Well, Dionysos, Like, World, Because, Time, Book, Could, Does, Anyhow, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Claudia, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+**Co-occurrences**: Time, Spirit, Complete, King, Well, Dionysos, Like, World, Because
 
 ---
 ### Line 147-155 (Match: 'Only')
@@ -190,7 +190,7 @@ These are maypole and mayday rite anyhow: the flower garland, winding it around 
 
 Taking a leaf from Marlo Thomas – the best thing a child’s book can do is teach what the child may be and do. Which he otherwise never would have thought of (the worst is to say, no you can’t do or be that. To limit him). Did THE RED FEATHER teach me something our people have forgotten they can do? I leaned otherwise?
 ```
-**Co-occurrences**: Ubik, Thomas, However, These, Perhaps, Like, Since, Because, Good, Book, Even, Anyhow, Just, Something, Once, Being, Obviously, Great, Nothing, Those, Still, Phil, Real, Greece, Death, Deity, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+**Co-occurrences**: Thomas, Phil, Ubik, However, These, Perhaps, Like, Since, Because
 
 ---
 ### Line 248-256 (Match: 'Only')
@@ -207,7 +207,7 @@ We used to play poker. Tony loved opera and poker and science fiction and myster
 
 Last edit over 5 years ago by Zebrapedia
 ```
-**Co-occurrences**: Roman, These, Maybe, Like, World, Since, Fall, Because, Time, After, Good, Light, Even, Could, Zebrapedia, Just, Something, Once, Catholic, Tony, Although, Still, More, Through, Real, Love, Before, True, Universe, Will, Many, Tree, Remember, Electric, Sturgeon, Dead, Human, Right, Answer, Until
+**Co-occurrences**: Time, Zebrapedia, Roman, These, Maybe, Like, World, Since, Fall, Because
 
 ---
 ### Line 250-258 (Match: 'Only')
@@ -224,7 +224,7 @@ Last edit over 5 years ago by Zebrapedia
 15
 Indexed
 ```
-**Co-occurrences**: Indexed, Roman, These, Maybe, Like, Since, Fall, Because, Time, After, Good, Even, Could, Zebrapedia, Just, Something, Once, Catholic, Tony, Although, Still, More, Through, Love, Before, True, Universe, Will, Many, Remember, Electric, Sturgeon, Dead, Human, Right, Answer, Until
+**Co-occurrences**: Time, Zebrapedia, Indexed, Roman, These, Maybe, Like, Since, Fall, Because
 
 ---
 ### Line 260-268 (Match: 'Only')
@@ -241,7 +241,7 @@ I hadn’t realized Pinky was Tony Boucher, served up by the universe again, unt
 16
 Also, the day Pinky died, at the vet’s, that evening as I stood in the bathroom I felt my wife put her hand on my shoulder, firmly, to console me. Turning, I saw no one. I also dreamed this dream: I had the album notes for “Don Pasquale” and at the end the conductor had added a note: five string of cat gut, like a stave. It was a final hello from Pinky who was Tony Boucher; in the dram the album was an old 78 one, a favorite of Tony’s.
 ```
-**Co-occurrences**: Greek, However, Maybe, Like, Because, After, Light, Could, Pinky, Anyhow, Just, Something, Once, Again, Tony, Himself, Great, Those, Still, Living, Love, Universe, Will, Would, Other, Were, Very, Back, Under, Have, Days, Except, Sturgeon, Suddenly, Dream, Final, Until
+**Co-occurrences**: Greek, However, Maybe, Like, Because
 
 ---
 ### Line 306-314 (Match: 'Only')
@@ -258,7 +258,7 @@ When Zagreus or the Essene Thomas is born within him, or reborn, then Nicholas B
 
 Last edit over 5 years ago by Siegman
 ```
-**Co-occurrences**: Christ, Thomas, Form, Well, However, Dionysos, Perhaps, Like, Since, Therefore, Time, Book, Could, Does, Just, Something, Once, Zagreus, Although, Self, Himself, Great, Christos, Essene, More, Another, Real, Death, Finally, Will, Deity, Would, Other, Page, Were, Further, Life, Body, Spring, Fake, Government, Dead, Suddenly, During, Dream, Someone
+**Co-occurrences**: Thomas, Time, Christ, Form, Well, However, Dionysos, Perhaps, Like, Since, Therefore
 
 ---
 ### Line 314-322 (Match: 'Only')
@@ -275,7 +275,7 @@ Claudia, you must read THE LATHE OF HEAVEN of Ursula le Guin. It is evident that
 
 That the "dream universe moving to become the actual" is a true process actually taking place -- this concept would be frightening, except that we must realize the intent of the Dreamer Who dreams us: He is waking us, now; it is a voice still within the dream, much like Glen Runciter's, which is saying, "Rouse yourself and be warm; spring is here."
 ```
-**Co-occurrences**: Complete, Like, Book, Being, Runciter, Still, Wait, Star, Heaven, Ground, Voice, Actually, True, Universe, Would, Whatever, Have, Claudia, Spring, Except, Dream, Until
+**Co-occurrences**: Complete, Like
 
 ---
 ### Line 316-324 (Match: 'Only')
@@ -292,7 +292,7 @@ That the "dream universe moving to become the actual" is a true process actually
 
 (Claudia, if I don't write much for the next month or so it is because we are moving to our new house. You understand. Did I tell you I wrote Ornstein? Did I tell you my blood pressure is down finally and that the doctor said flat out that he think it's so elevated when I come in for my test because of the pretty little blonde nurse who takes it? When she takes it, the top reading is 220; when he takes it, ten minutes later, it's only 170. I gave the nurse yesterday a little ivory cross. She's moving to Oregon, to get away from the density of population here. To get out of her apartment. The receptionist said to me, with maybe more truth than wit: "Well when Anne takes your blood presit's so high you have to keep coming back in; that's the way we keep our patients coming in." The other side of that is that unconsciously I've had a vested interest in needing to come in for being tested. They all kid me there about my crush on Ann Darling (what a name for a little blonde nurse, right?) When I call in and ask if I can talk to one of Dr. Morrison's nurses, they say, "Oh it's you; yes we'll get ann to the phone." Odd as it sounds, there may be truth in this; Ann was the only person who sent us a congratulation card when Christopher was born, and there is so much mobility in Orange County that she was (alas, was) one of the few people I could count on seeing. Her and Carol, my therapist, who is still injured physically and not at her desk due to showing a patient how to work out ones hostility harmlessly.
 ```
-**Co-occurrences**: Complete, Well, Maybe, Like, Because, Book, Could, Being, Runciter, House, Still, Wait, More, Star, Heaven, Ground, Voice, Actually, True, Universe, Finally, Christopher, Would, Other, Back, Whatever, Have, Claudia, Spring, Later, Except, Cross, Blood, Truth, Dream, Right, Until
+**Co-occurrences**: Complete, Well, Maybe, Like, Because
 
 ---
 ### Line 320-328 (Match: 'Only')
@@ -309,7 +309,7 @@ The vernal equinox is almost here. Pretty girls are everywhere, and the buds are
 
 Last edit over 5 years ago by Siegman
 ```
-**Co-occurrences**: Well, Maybe, Like, World, Because, Book, Could, Being, Runciter, House, Creator, Still, More, Star, Heaven, Voice, Actually, True, Universe, Finally, Christopher, Would, Other, Back, Whatever, Have, Life, Claudia, Spring, Later, Except, Cross, Blood, Truth, Dream, Right
+**Co-occurrences**: Well, Maybe, Like, World, Because
 
 ---
 ### Line 329-337 (Match: 'Only')
@@ -325,7 +325,7 @@ I saw that it can melt away in an instant, and reveal the original "season" or b
 
 Look: the seeds, dormant, slumbering in the winter of their species, are helpless and need the protection of concealment. They are pressed down into the snow (the manifold Maya) which camoflauges them, and protects them. They lie unknown even to themselves, mixed with the "tares" sewn there along with them, indistinguishable until all sprout -- wheat and tares together (we must wait, and then divide). Until that day, they cannot be discerned, found, discovered, destroyed; mimicry and concealment, during 2000 year winter of their half-life slumber. Then, in Spring (which has now come) those real wheat seeds here the voice calling them (from the bright morning star) and come to life. Are revealed suddenly (the cuckoo egg in the nest) but, at the moment revealed suddenly, then simultaneously now safe; by virtue of the power remembered (anamnesis). They are Zagreus or can call on him; he will answer his "flock." They know him/ he knows them.
 ```
-**Co-occurrences**: Jesus, These, Like, Earth, Even, Look, Maya, Reality, Zagreus, Being, Anamnesis, Those, Their, Wait, Star, Real, Voice, True, Will, Back, Under, Life, Spring, Dead, Suddenly, During, Answer, Until
+**Co-occurrences**: Anamnesis, Jesus, These, Like, Earth
 
 ---
 ### Line 351-359 (Match: 'Only')
@@ -342,6 +342,6 @@ Please get the book A GOD WHITHIN by René DuBois (Scribner's). He discusses thi
 
 i must tell you if I didn't already; the Brit 3 says that belief in and research about the Logos surfaced around 1055 in Europe (it had been a long dormant doctrine in both theology and philosophy) when explorers reported that culture after culture, which had had no contact with Christiantity, had obvious analogs of our religion to which they gave credence. The doctrine of the Logos, which imprinted the form of our omnicultural religion on all men caised this revival; it would explain why in all cultures similar ideas exist; the Brit 3 gives a few and I must admit, it is too close to be a coincidence. Even if our religion is "true" there remains the need to explain how each tiny tribe everywhere possesses the essence of it, although names differ. I think the Logos doctrine is the best theoretical explanation for this (take me; I am a very small tribe: I, and Tess and Chris; yet we were imprinted by Something, and at once I noetically knew the formularies of the sacrament of the Feast of Agaboe, and acted it out. Later, reading up on it, I found I had gotten it right, the very minor points even. You see?)
 ```
-**Co-occurrences**: Christ, Logos, Jesus, Form, Paul, These, Because, After, Book, Even, Could, Does, Something, Once, Again, Both, Zagreus, March, Runciter, Although, Probably, More, Another, Living, Real, Voice, True, Death, Will, Deity, Would, Were, Very, Have, Tree, Life, Claudia, Later, Testament, Dream, Right
+**Co-occurrences**: Christ, Logos, Jesus, Form, Paul, These, Because
 
 ---

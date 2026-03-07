@@ -20,7 +20,7 @@ I saw the Parousia, and I couldn't have unless they actually took place (I didn'
 
 It has happened, the Prince of this World fell.
 ```
-**Co-occurrences**: Christ, Ubik, Toso, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, World, Only, Time, Nixon, Even, Jesus Christ, Those, Part, Through, Real, Actually, Certainly, Macro, Have, Unless, Crete
+**Co-occurrences**: Time, Christ, Ubik, Toso, Indexed, Jesus, Rome, Form, Kingdom, Parousia, These, World, Only, Nixon
 
 ---
 ### Line 52-60 (Match: 'Like')
@@ -37,7 +37,7 @@ God has returned. Resumed his Kingship (the Kingdom of God has been restored, he
 
 I forgot; only after that did I see anything else (e.g. Dionysos). My experience wouldkn't have been possible in our lineal time prior to March 1974. (He wasn't here.) And He remains; hence they can reoccur.
 ```
-**Co-occurrences**: Tears, Kingdom, Dionysos, These, Because, Only, Time, After, Again, Kingdom of God, March, Great, House, Without, Tessa, Before, Easter, Parsifal, Kingship, Were, Have, Tree, Life, Dead
+**Co-occurrences**: Time, Tears, Kingdom, Dionysos, These, Because, Only
 
 ---
 ### Line 54-62 (Match: 'Like')
@@ -54,7 +54,7 @@ I forgot; only after that did I see anything else (e.g. Dionysos). My experience
 
 (N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.
 ```
-**Co-occurrences**: Rome, Kingdom, Well, Dionysos, These, Because, Iron, Only, Time, After, Just, Again, Kingdom of God, March, Great, House, Without, Tessa, Before, Kingship, Were, Have, Tree, Dead
+**Co-occurrences**: Time, Rome, Kingdom, Well, Dionysos, These, Because, Iron, Only
 
 ---
 ### Line 62-70 (Match: 'Like')
@@ -71,7 +71,7 @@ Last edit almost 3 years ago by jhordan
 4
 Complete
 ```
-**Co-occurrences**: Christ, Logos, Complete, Rome, Well, These, Elijah, Iron, Time, Just, Look, Being, March, More, Real, Upon, Universe, Creation
+**Co-occurrences**: Time, Linear, Christ, Logos, Complete, Rome, Well, These, Elijah, Iron
 
 ---
 ### Line 80-88 (Match: 'Like')
@@ -88,7 +88,7 @@ If the fucking rat had only left the house I would have spared it. Thus we too, 
 
 I didn't draw a personal lesson though that I should shape up or ship outl my lesson was one regarding the universe, outside me: that death was required, as a deliberate thing. It was a terrible shock to me. I was anti-war, a passifist, raised as a Quaker. Now, having read Empedocles, I see that strife or disunion must be present in the univese to balance love or harmony; together they keep changing going. I always succumbed rather than struggled. Strugge is strife and strife is war and war leads to deliberate killing. Last night on the phone, though, I called Laura again, and got my former wife Anne. I had the opportunity to share some of my thoughts with her, about working out the ionosphere plasmic entity theory about the Holy Spirit, where upon Anne said, "Well, that's the sin of pride, what you're doing; that is hubris To think that you, Philip K. Dick, can figure out God -- that is a sin." Instead of feeling bad I pointed out that judgment had been rendered on us all already, by the Divine Judge; whereupon Anne belatedly recalled that "he who is without sin" and so forth and apologized. But I didn't say, "The Divine Judge has arrogated this to him and will judge," I said that He had. Now, you can regard this as my saying that He was/is/always will be, or you can think to your-self, Maybe Phil said what is so: the Day of Judgment came and went, and hardly anybody noticed. Except they noticed something. Straaaaange things went on during 1974.
 ```
-**Co-occurrences**: Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Since, Therefore, Only, Time, Karma, Could, Something, Again, Reality, Empedocles, Self, Divine, Philip, House, Without, Still, Their, Phil, Upon, Dick, Laura, Love, Death, Universe, Will, Would, Judge, Back, Have, Things, Judgment, Life, Instead, Later, Having, Except, During
+**Co-occurrences**: Time, Philip, Phil, Spirit, Holy, Complete, Holy Spirit, Well, Father, Maybe, Since, Therefore, Only
 
 ---
 ### Line 91-99 (Match: 'Like')
@@ -104,7 +104,7 @@ I do not see where I am changed, but I was spared the Wrath and I was of use (ag
 
 Hey, I figured out (you laughed) Nixon is the best – beast.
 ```
-**Co-occurrences**: Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, World, Time, Nixon, After, Black, Even, Could, Both, Being, Either, Without, Grace, Those, Still, Zeus, Living, Voice, Fullerton, Before, Will, Would, Were, Erasmus, Back, Have, Things, Caesar, Claudia, Suddenly, During, Final, Right, Until
+**Co-occurrences**: Time, Tears, Spirit, Holy, Complete, Holy Spirit, Kingdom, Well, Maybe, World, Nixon
 
 ---
 ### Line 101-109 (Match: 'Like')
@@ -121,7 +121,7 @@ Last edit over 5 years ago by Zebrapedia
 7
 Complete
 ```
-**Co-occurrences**: Complete, Bible, Nixon, Good, Anyhow, Zebrapedia, Just, Something, Look, Tessa, Wait, Dick, Universe, Will, Other, Page, Erasmus, Have
+**Co-occurrences**: Zebrapedia, Complete, Bible, Nixon
 
 ---
 ### Line 109-117 (Match: 'Like')
@@ -138,7 +138,7 @@ And yet we experience it backward. It was, as you put it, our childhood. “We s
 
 Oh God, Claudia; the “explosion” is throwing is throwing us backward into lineal time away from the moment of completion/perfection of each of us. What age do you guess? The Savior didn’t say “babies.” I think about 3 or 4 years old, maybe up to 6.
 ```
-**Co-occurrences**: Complete, Form, Paul, Parousia, Maybe, Time, After, Stigmata, Savior, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life, Claudia
+**Co-occurrences**: Time, Complete, Form, Paul, Parousia, Maybe
 
 ---
 ### Line 111-119 (Match: 'Like')
@@ -155,7 +155,7 @@ Oh God, Claudia; the “explosion” is throwing is throwing us backward into li
 
 One could say, Before the World took the little child and taught it to see and think only its small way.
 ```
-**Co-occurrences**: Form, Paul, Parousia, Maybe, World, Only, Time, After, Stigmata, Savior, Could, Just, Reality, Without, Before, True, Universe, Will, Christopher, Have, Life, Claudia
+**Co-occurrences**: Time, Form, Paul, Parousia, Maybe, World, Only
 
 ---
 ### Line 117-125 (Match: 'Like')
@@ -172,7 +172,7 @@ The drawing your parent an archetype
 
 The mind receives so well during young childhood. It was wonderful, enchantment, when things spoke, pictures and bugs. Well, God spoke through them via, by means of, them. Utilized them as conduits of resemblances; there we encountered the Queen, the King – and the pieces of the chessboard. I realized the other night, And now, that Christopher is born, I am the wise old king. I will never find him; I can only become him. Bummer. Sad. But I looked at my great arms (I have great arms) and I thought, One must eventually become ones own parent.
 ```
-**Co-occurrences**: King, Fish, Well, Maybe, World, Only, Time, Savior, Mind, Book, Could, Being, Great, Still, Through, Living, Such, Actually, Before, True, Death, Universe, Will, Christopher, Other, Under, Have, Things, Body, Claudia, Wise, Later, Remember, Truth, During, Dream
+**Co-occurrences**: Time, King, Fish, Well, Maybe, World, Only
 
 ---
 ### Line 133-141 (Match: 'Like')
@@ -189,7 +189,7 @@ Rose: “Stephen, how come I can do magic and I’m living here in Fullerton lik
 
 Stephen: (MYSTEROUSLY, BUT AMUSED) “I can’t tell you yet, Rose, or Mary, or Rosemary, whaterver.” (EROTIC INTERCHANGE OF GLANCES BETWEENB THEM: SHE FALLS FOR HIM. HE IS A NEAT DUE, SHARP DRESSER, ETC. OLDER)
 ```
-**Co-occurrences**: Spirit, King, Well, Dionysos, World, Because, Only, Time, Book, Could, Does, Anyhow, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Claudia, Spring, Wise, Later, Remember, Magic, During, Final, Mary, Until
+**Co-occurrences**: Time, Spirit, King, Well, Dionysos, World, Because, Only
 
 ---
 ### Line 135-143 (Match: 'Like')
@@ -206,7 +206,7 @@ Stephen: (MYSTEROUSLY, BUT AMUSED) “I can’t tell you yet, Rose, or Mary, or 
 
 Last edit over 5 years ago by Zebrapedia
 ```
-**Co-occurrences**: Spirit, King, Well, Dionysos, World, Because, Only, Book, Could, Does, Anyhow, Zebrapedia, Just, Girl, Their, Living, Fullerton, Will, Other, Erasmus, Back, Life, Body, Claudia, Spring, Wise, Later, Remember, Magic, During, Mary
+**Co-occurrences**: Zebrapedia, Spirit, King, Well, Dionysos, World, Because, Only
 
 ---
 ### Line 143-151 (Match: 'Like')
@@ -223,7 +223,7 @@ Magic equals life equals warmth equals poppies. Now, poppies are an exotic flowe
 
 Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman’s neck). And then poppies, in a rope, came to life, fell to the snow and sizzled; I still remember that touch – what verisimilitude that gave… I felt those hot flowers sizzle, and who ever heard of flowers, even in spring, being hot? See how much is conveyed?
 ```
-**Co-occurrences**: Ubik, Indexed, However, Perhaps, Since, Because, Only, Good, Book, Even, Zebrapedia, Just, Something, Once, Being, Obviously, Nothing, Those, Still, Phil, Real, Greece, Death, Would, Other, Were, Very, Have, Clearly, Life, Spring, Days, Having, Remember, Truth, Magic, Otherwise, Doesn
+**Co-occurrences**: Zebrapedia, Phil, Ubik, Indexed, However, Perhaps, Since, Because, Only
 
 ---
 ### Line 157-165 (Match: 'Like')
@@ -240,7 +240,7 @@ Ground equals WHERE Set equals WHAT
 
 The WHAT is Final Reckoning Time or Out-of-Time, and after accounts are settled, we get to go to the seashore. Okay? But first the poor rat has to die; poor creature; and then we’re released.
 ```
-**Co-occurrences**: Indexed, Bible, Since, Time, After, Book, Okay, Zebrapedia, Ground, Will, Claudia, Testament, Chip, Final
+**Co-occurrences**: Time, Zebrapedia, Indexed, Bible, Since
 
 ---
 ### Line 200-208 (Match: 'Like')
@@ -257,7 +257,7 @@ You’ll note that I’m living in Southern California now, “north of Disneyla
 
 I’ve enclosed two or three pictures of us… I do hope all goes well with you, and I would so much enjoy hearing from you, and knowing about you these days. I’m into screenplay writing now… also Rolling Stone is doing a long article/interview with me, and, at long last, an experimental S-F novel of mine is coming out. But I will not go Vonnegut’s route and deny s-f if I make it literarily-experimentally; even my experimental novel, CONFESSIONS OF A CRAP ARTIST, is in the broadest sense, science-fiction. Dear Phyllis. How are you?
 ```
-**Co-occurrences**: Well, These, World, Since, Fall, Good, Even, Just, Both, Tony, Although, Tessa, Still, Through, Living, Real, Such, Love, Will, Christopher, Would, Very, Have, Memory, Days, Having
+**Co-occurrences**: Well, These, World, Since, Fall
 
 ---
 ### Line 216-224 (Match: 'Like')
@@ -274,7 +274,7 @@ Enclosed is the piece I’ve been working my ass off for The Real World. I’m g
 
 (two) Okay – on my MS page 6: you could end the piece after line 10. (Final printed sentence: “That was my friend.”) But it’s a different piece this way, with the Day of Wrath scene missing; much limiteder, more milder.
 ```
-**Co-occurrences**: Tears, Indexed, World, Because, After, Okay, Could, Anyhow, Just, Tony, Tessa, More, Through, Real, Page, Today, Final
+**Co-occurrences**: Tears, Indexed, World, Because
 
 ---
 ### Line 222-230 (Match: 'Like')
@@ -291,7 +291,7 @@ Glad you and Paul potlacked eached other into getting tubby. I feel everyone sho
 
 Yes, CONFESSIONS OF A CRAP ARTIST is a fine novel, and I think Paul and David know what they are doing. I shorten the form by which I refer to my novels in business letters, and in conversations (e.g. FLOW MY TEARS, THE POLICEMAN SAID becomes TEARS; and of course DO ANDROIDS DREAM OF ELECTRIC SHEEP? Is referred to back and forth by me and my agent et al as SHEEP or sometimes, in error, ANDROIDS. I know find myself saying, however, caught in a matrix of my own devising:
 ```
-**Co-occurrences**: Tears, Form, Paul, However, Because, After, Okay, Could, Anyhow, Just, More, Other, Page, Back, Have, Electric, Dead, Dream, Final
+**Co-occurrences**: Tears, Form, Paul, However, Because
 
 ---
 ### Line 246-254 (Match: 'Like')
@@ -308,7 +308,7 @@ Tony loved the universe and the universe frightened him, and I think I know wher
 
 We used to play poker. Tony loved opera and poker and science fiction and mystery stories. He had a little writing class – this was after he was famous and edited F&SF – and he charged on dollar a night when you showed up. He read your whole manuscript. He told you how rotten it was, and you sent away and wrote something good. I never figured out how he accomplished that. Criticisim like that is supposed to crush you. “Maybe it’s because when Tony reads your story it’s like he’s reading it in Latin,” somebody said. A whole dollar it cost. He taught me to write, and my first sale was to him. I still can remember that nobody understood the story but him, even after it was printed. Now it’s in a college-level s-f course manual put out by Ginn and Company. There’s only about 300 words to the story. After the printing of the story, Ginn and Company prints an impromptu discussion I had with a high school class about the story. All the kids understand the story. It’s about how a dog sees garbagemen coming to steal the precious food that the family stores up every day until the heavily constructed repository is full and then these Roogs come and steal the
 ```
-**Co-occurrences**: Indexed, Roman, These, Maybe, World, Since, Fall, Because, Only, Time, After, Good, Light, Even, Could, Just, Something, Once, Catholic, Tony, Although, Still, More, Through, Real, Love, Before, True, Universe, Will, Many, Tree, Remember, Electric, Sturgeon, Dead, Human, Right, Answer, Until
+**Co-occurrences**: Time, Indexed, Roman, These, Maybe, World, Since, Fall, Because, Only
 
 ---
 ### Line 250-258 (Match: 'Like')
@@ -325,7 +325,7 @@ Last edit over 5 years ago by Zebrapedia
 15
 Indexed
 ```
-**Co-occurrences**: Indexed, Roman, These, Maybe, Since, Fall, Because, Only, Time, After, Good, Even, Could, Zebrapedia, Just, Something, Once, Catholic, Tony, Although, Still, More, Through, Love, Before, True, Universe, Will, Many, Remember, Electric, Sturgeon, Dead, Human, Right, Answer, Until
+**Co-occurrences**: Time, Zebrapedia, Indexed, Roman, These, Maybe, Since, Fall, Because, Only
 
 ---
 ### Line 256-264 (Match: 'Like')
@@ -342,6 +342,6 @@ However, Tony is still alive, I discovered last year. My cat had begun to behave
 
 I hadn’t realized Pinky was Tony Boucher, served up by the universe again, until I had this dream about Tony the Tiger – the cereal box character who offers you cocoa puffs. In my dream I stood at the one end of a light-struck glade, and at the other a great tiger came out slowly, with delight, and I knew we were together again, Tony the Tiger and me. My joy was unbounded. When I woke up I tried to think who I knew named Tony. I had other strange experiences after Pink died. I dreamed about “Mrs. Donlevy” who was incredibly tall – I could see only her feet and ankles – and she was serving me a place of milk on the back porch ? there was a vacant lot where I could roam at will, forever. It was ? Elysian Vacant Lot, which the Greeks believed in, but just my size.
 ```
-**Co-occurrences**: Indexed, Greek, However, Maybe, Because, Only, After, Light, Could, Pinky, Anyhow, Zebrapedia, Just, Something, Once, Again, Tony, Himself, Great, Those, Still, Living, Love, Universe, Will, Would, Other, Were, Very, Back, Under, Have, Days, Except, Sturgeon, Suddenly, Dream, Until
+**Co-occurrences**: Zebrapedia, Indexed, Greek, However, Maybe, Because, Only
 
 ---

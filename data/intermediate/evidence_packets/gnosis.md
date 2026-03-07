@@ -19,7 +19,7 @@ The latter against all Neoplatonism and ever gnosticism, although less so. And a
 
 V. Tagomi in the park. Was there anything special about Mr. Tagomi? He was intensely human, and in need.
 ```
-**Co-occurrences**: Christianity, Fish, Gnosticism, Plotinus, World, Only, Even, Could, Just, Reality, Although, Orphic, Anamnesis, Grace, Part, Will, Other, Have, Tagomi, Knowledge, Human, Free
+**Co-occurrences**: Gnosticism, Plotinus, Anamnesis, Christianity, Fish, World, Only
 
 ---
 ### Line 1931-1939 (Match: 'Gnosis')
@@ -35,7 +35,7 @@ In that case, the gnosis or sophia aspect would predominate; I can see all three
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Logos, Xerox, Rome, Christianity, Sophia, Kingdom, Fish, Well, Parousia, Wisdom, Perhaps, Like, Since, Only, Time, Earth, Harpax, Savior, Book, Even, Does, Pinky, Look, Being, Although, Himself, Daniel, More, Another, Most, Heaven, Real, Such, Actually, Love, Revelation, Consider, Death, Finally, Would, Other, Mission, Were, Have, Life, Justice, Spring, Freedom, Instead, Having, God Himself, Truth, Greater, Lamb, Until
+**Co-occurrences**: Sophia, Time, Christ, Christian, Spirit, Logos, Xerox, Rome, Christianity, Kingdom, Fish, Well, Parousia, Wisdom, Perhaps, Like, Since, Only, Earth
 
 ---
 ### Line 3071-3079 (Match: 'Gnosis')
@@ -52,7 +52,7 @@ The best statement I ever recall reading about the Kingdom was when Christ said 
 
 If it was myself (who assumed control in 3-74) then I am an immortal entity, stretching back thousands of years into the past, originally from another star, lasting on into the future, possessing the knowledge of the secrets of the universe, loyal to God and in touch with him, being mostly in eternity already, having been present near or around Christ as well as the great culture of Greece L Rome, one of the great healers and wise men of this race. How can that be? "For this mortal must put on immortality..."
 ```
-**Co-occurrences**: Christ, Tears, Rome, Kingdom, Gnostic, King, Greek, Well, Bible, Parousia, Advent, Plotinus, Like, World, Since, Only, Time, After, Could, Does, Bardo, Anyhow, Just, Thodol, Again, Suppose, Bardo Thodol, Being, Obviously, Himself, Great, Nothing, Their, More, Another, Star, Through, Love, Before, Greece, True, Death, Universe, Will, Would, Other, Mission, Were, Back, Have, Things, Wise, Having, God Himself, Except, Knowledge, Otherwise, Dream, Evidently, Doesn, Pleroma, Crete, Until
+**Co-occurrences**: Plotinus, Gnostic, Time, Pleroma, Christ, Tears, Rome, Kingdom, King, Greek, Well, Bible, Parousia, Advent, Like, World, Since, Only
 
 ---
 ### Line 3184-3192 (Match: 'Gnosis')
@@ -69,7 +69,7 @@ The 3-74 experience was "vaster than empires"; the exegesis which uncovered the 
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Spirit, Holy, Christianity, Plato, Greek, Well, Bible, However, Wisdom, Perhaps, Elijah, World, Since, Only, Time, Faith, Holy Wisdom, Good, Even, Could, Everything, Divine, Aristotle, Probably, Deus, Nothing, Still, Part, Through, Soul, Such, Voice, Love, Before, True, Irae, Universe, Will, Would, Other, Beyond, Surely, Whatever, Have, Life, Absolute, Memory, Information, Deus Irae, Today, During, Salvation, Someone, Answer
+**Co-occurrences**: Time, Information, Spirit, Holy, Christianity, Plato, Greek, Well, Bible, However, Wisdom, Perhaps, Elijah, World, Since, Only
 
 ---
 ### Line 3592-3600 (Match: 'Gnosis')
@@ -86,7 +86,7 @@ Last edit almost 5 years ago by svayambhu108
 290
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, Sophia, Paul, Greek, Wisdom, Dionysos, These, Perhaps, Advent, World, Since, Paraclete, Holy Wisdom, Mind, Even, Does, Again, Both, Although, Probably, Sibyl, Without, Part, Another, Most, Secret, Before, Revelation, Universe, Will, Would, Other, Very, Under, Have, Clearly, Life, Absolute, Body, Knowledge, Human, Dream, Right, Answer, Sacred
+**Co-occurrences**: Sophia, Christ, Christian, Spirit, Holy, Logos, Jesus, Christianity, Holy Spirit, Form, Paul, Greek, Wisdom, Dionysos, These, Perhaps, Advent, World, Since
 
 ---
 ### Line 3827-3835 (Match: 'Gnosis')
@@ -103,7 +103,7 @@ Last edit almost 3 years ago by svayambhu108
 4
 Needs Review
 ```
-**Co-occurrences**: Logos, Brahman, Well, Like, World, Therefore, After, Buddha, Even, Does, Just, Look, Maya, Atman, Divine, Anamnesis, Part, Brahmanism, Real, Such, Upon, True, Death, Will, Other, Hindu, Back, Have, Life, Knowledge
+**Co-occurrences**: Anamnesis, Logos, Brahman, Well, Like, World, Therefore
 
 ---
 ### Line 3887-3895 (Match: 'Gnosis')
@@ -120,7 +120,7 @@ Last edit almost 3 years ago by svayambhu108
 13
 Needs Review
 ```
-**Co-occurrences**: Ubik, Rome, Maze, Wisdom, Maybe, James, World, Iron, Prison, Only, Time, Black, Stigmata, Savior, Good, Does, Anyhow, Just, Maya, Being, Self, Real, Such, Actually, True, Death, Deity, Were, Back, Information, Unless, Dead, Iron Prison, Dream, Pleroma
+**Co-occurrences**: Time, Information, Pleroma, Ubik, Rome, Maze, Wisdom, Maybe, James, World, Iron, Prison, Only
 
 ---
 ### Line 3905-3913 (Match: 'Gnosis')
@@ -137,7 +137,7 @@ Last edit almost 3 years ago by svayambhu108
 
 16
 ```
-**Co-occurrences**: Tears, Ubik, World, Because, Iron, Prison, Time, Black, Stigmata, Just, Both, Reality, Being, Black Iron Prison, Corpus, Through, Secret, Before, True, Other, Life, Fake, Having, Likewise, Knowledge, Iron Prison, Evidently
+**Co-occurrences**: Time, Tears, Ubik, World, Because, Iron, Prison
 
 ---
 ### Line 3916-3924 (Match: 'Gnosis')
@@ -154,7 +154,7 @@ Last edit over 4 years ago by dstoerger
 18
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Xerox, Sophia, Paul, Well, Maybe, Since, Therefore, Time, After, Book, Even, Gospel, Could, Look, Being, Himself, Through, Voice, Secret, Before, Revelation, True, Finally, Will, Other, Were, Back, Under, Many, Have, Remember, Knowledge, Otherwise, Dream, Evidently, Pentecost
+**Co-occurrences**: Sophia, Time, Christ, Christian, Ubik, Xerox, Paul, Well, Maybe, Since, Therefore
 
 ---
 ### Line 3928-3936 (Match: 'Gnosis')
@@ -171,7 +171,7 @@ Last edit almost 3 years ago by svayambhu108
 20
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Spirit, Xerox, Form, Roman, World, Iron, Prison, Only, Nixon, Black, Cosmic, Book, Gospel, Christi, Although, Self, Corpus, Probably, Church, Through, Corpus Christi, Real, Secret, True, Would, Back, Body, Truth, Today, During
+**Co-occurrences**: Christ, Tears, Christian, Spirit, Xerox, Form, Roman, World, Iron, Prison, Only, Nixon
 
 ---
 ### Line 3934-3942 (Match: 'Gnosis')
@@ -188,7 +188,7 @@ Last edit almost 3 years ago by svayambhu108
 
 21
 ```
-**Co-occurrences**: Christ, Christian, Jesus, Rome, Gnostic, Paul, Greek, Roman, World, Only, Time, After, Gospel, Could, Just, Again, Suppose, Himself, Corpus, Great, Probably, Anamnesis, Church, Another, Fullerton, Secret, True, Were, Back, Information, Later, Remember, Knowledge, During
+**Co-occurrences**: Gnostic, Time, Anamnesis, Information, Christ, Christian, Jesus, Rome, Paul, Greek, Roman, World, Only
 
 ---
 ### Line 3951-3959 (Match: 'Gnosis')
@@ -205,7 +205,7 @@ Last edit almost 3 years ago by svayambhu108
 24
 Needs Review
 ```
-**Co-occurrences**: Christ, Kingdom, Like, World, Since, Because, Only, Time, Mind, Even, Gospel, Could, Does, Again, Kingdom of God, Being, Everything, Part, Their, Ground, Nonetheless, True, Universe, Will, Would, Have, Judgment, Berkeley, Whether, Knowledge, Human
+**Co-occurrences**: Time, Christ, Kingdom, Like, World, Since, Because, Only
 
 ---
 ### Line 4553-4561 (Match: 'Gnosis')
@@ -222,7 +222,7 @@ Without Zebra we are programmed reflex machines - slaves to engramming - i.e. in
 
 Last edit 4 days ago by Gabriel Mckee
 ```
-**Co-occurrences**: Christ, Zebra, Xerox, Rome, Gnostic, World, Iron, Prison, Time, Black, Gabriel, Mckee, Gabriel Mckee, Could, Anyhow, Black Iron Prison, Palm, Without, Part, Revelation, Universe, Other, Were, Tree, Things, Days, Iron Prison, Evidently, Right
+**Co-occurrences**: Zebra, Gnostic, Time, Christ, Xerox, Rome, World, Iron, Prison
 
 ---
 ### Line 4720-4728 (Match: 'Gnosis')
@@ -238,7 +238,7 @@ Last edit almost 3 years ago by svayambhu108
 42
 Needs Review
 ```
-**Co-occurrences**: Sophia, Lord, Father, Like, Since, Fall, Only, Time, Good, Reality, Great, More, Through, Real, Before, True, Death, Universe, Other, Judge, Back, Journey, Life, Unless, Truth, Right
+**Co-occurrences**: Sophia, Time, Lord, Father, Like, Since, Fall, Only
 
 ---
 ### Line 5785-5793 (Match: 'Gnosis')
@@ -255,7 +255,7 @@ Last edit 9 minutes ago by Gabriel Mckee
 5
 Complete
 ```
-**Co-occurrences**: Christ, Ubik, Thomas, Complete, Rome, Wisdom, These, Like, World, Only, Time, Gabriel, Mckee, Gabriel Mckee, Faith, Just, Something, Again, Diagram, Reality, Being, Runciter, Self, Great, Probably, Part, More, Another, Through, Real, Secret, Love, True, Back, Under, Evil, Knowledge, Truth, Human, Dream, Right, Someone
+**Co-occurrences**: Thomas, Time, Christ, Ubik, Complete, Rome, Wisdom, These, Like, World, Only
 
 ---
 ### Line 5797-5805 (Match: 'Gnosis')
@@ -272,7 +272,7 @@ This circular time, as it sp sweeps out again & again, must differ in details, &
 
 Last edit less than 20 seconds ago by Gabriel Mckee
 ```
-**Co-occurrences**: Tears, Ubik, Xerox, However, Maze, These, World, Prison, Only, Time, Gabriel, Mckee, Gabriel Mckee, Stigmata, Good, Book, Does, Once, Again, Being, Eldritch, Palmer, Viewed, Palmer Eldritch, Part, Through, Before, Have, Information, Electric, Truth, Impostor, Electric Ant
+**Co-occurrences**: Time, Information, Tears, Ubik, Xerox, However, Maze, These, World, Prison, Only
 
 ---
 ### Line 5956-5964 (Match: 'Gnosis')
@@ -288,7 +288,7 @@ Last edit almost 3 years ago by svayambhu108
 7
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Zebra, Logos, Holy Spirit, Paul, Fish, Bible, Gnosticism, Golden, World, Golden Fish, Only, Time, Cosmic, Gabriel, Mckee, Gabriel Mckee, Cosmic Christ, Just, Reality, Either, Another, Through, Soul, Real, Secret, Death, Were, Life, Instead, Human, Salvation
+**Co-occurrences**: Gnosticism, Zebra, Time, Christ, Christian, Spirit, Holy, Logos, Holy Spirit, Paul, Fish, Bible, Golden, World, Golden Fish, Only
 
 ---
 ### Line 5962-5970 (Match: 'Gnosis')
@@ -305,7 +305,7 @@ Last edit almost 3 years ago by svayambhu108
 8
 Needs Review
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Rome, Holy Spirit, Form, Gnostic, Bible, Wisdom, World, Since, Fall, Prison, Only, Time, After, Black, Paraclete, Good, Book, Just, Look, Reality, Obviously, Christi, Himself, Most, Heaven, Real, Calif, Certainly, True, Death, Will, Would, Other, Many, Have, Life, Evil, Knowledge, Salvation
+**Co-occurrences**: Gnostic, Time, Christ, Spirit, Holy, Rome, Holy Spirit, Form, Bible, Wisdom, World, Since, Fall, Prison, Only
 
 ---
 ### Line 5968-5976 (Match: 'Gnosis')
@@ -322,7 +322,7 @@ Last edit almost 3 years ago by svayambhu108
 9
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Ubik, Thomas, Complete, Rome, Christianity, Gnostic, Brahman, Roman, Like, World, Only, Time, After, Savior, Both, Reality, Being, Divine, Anamnesis, Essene, More, Brahmanism, Through, Soul, Babylon, Most, Secret, Revelation, True, Death, Will, Would, Buddhist, Back, Have, Judgment, Life, Memory, Instead, Having, Knowledge, Dead, Salvation, Pleroma
+**Co-occurrences**: Thomas, Gnostic, Time, Anamnesis, Pleroma, Christ, Christian, Ubik, Complete, Rome, Christianity, Brahman, Roman, Like, World, Only
 
 ---
 ### Line 6003-6011 (Match: 'Gnosis')
@@ -339,6 +339,6 @@ Last edit almost 3 years ago by svayambhu108
 15
 Needs Review
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Rome, Holy Spirit, Sophia, Fish, Gnosticism, Golden, Perhaps, World, Fall, Golden Fish, Time, Even, Could, Pinky, Something, Realm, Again, Although, Buddhism, Divine, Probably, Part, Another, Through, Babylon, Real, Upon, Revelation, True, Will, Would, Other, Have, Life, Instead, Later, Having, Knowledge, Pleroma
+**Co-occurrences**: Gnosticism, Sophia, Time, Pleroma, Christ, Christian, Spirit, Holy, Rome, Holy Spirit, Fish, Golden, Perhaps, World, Fall, Golden Fish
 
 ---

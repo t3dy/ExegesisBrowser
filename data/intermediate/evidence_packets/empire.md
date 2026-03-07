@@ -19,7 +19,7 @@ We have a concentric-ring society, and the innermost ring has been burned off by
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Jesus, King, Paul, Lord, Elijah, Like, World, Since, Because, Only, Time, Harpax, After, Good, Light, Could, Does, Suppose, Reality, Obviously, Although, Covenant, Nothing, Darkness, Those, Still, Another, Most, Real, Before, True, Messenger, Death, Finally, Would, Other, Kingship, Were, Back, Under, Many, Further, Have, Things, Body, Justice, Fake, Later, Having, Except, Truth, Suddenly, Whereas
+**Co-occurrences**: Time, Jesus, King, Paul, Lord, Elijah, Like, World, Since, Because, Only
 
 ---
 ### Line 1096-1104 (Match: 'Empire')
@@ -35,7 +35,7 @@ Of course, their old actual bodies didn't reappear. My experience is that of how
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall, Time, Harpax, After, Savior, Good, Mind, Book, Could, Does, Thodol, Both, March, Great, Probably, Anamnesis, Essene, Part, Their, More, Most, Living, Real, Nonetheless, Before, True, Death, Will, Somehow, Very, Whatever, Have, Judgment, Life, Body, Spring, Evil, Except, Dead, Human, Dream, Evidently, Chardin, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Christian, Spirit, Holy, Logos, Jesus, Holy Spirit, Form, Paul, Bible, Parousia, Roman, Lord, Elijah, Father, Like, World, Fall
 
 ---
 ### Line 1481-1489 (Match: 'Empire')
@@ -52,7 +52,7 @@ Logos as the two men working a two-man saw: [i]scillation back and forth -- pali
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Elijah, Father, Maybe, Iron, John, Time, Harpax, After, Book, Could, Anyhow, Just, Something, Once, Again, Kingdom of God, Although, Divine, Either, Great, Daniel, Probably, Anamnesis, Part, More, Phil, Gold, Such, Voice, Western, Will, Other, Creation, Very, Back, Beyond, Have, Later, America, Eastern, Truth, Today, Evidently
+**Co-occurrences**: Time, Anamnesis, Phil, Christ, Spirit, Holy, Logos, Jesus, Rome, Holy Spirit, Kingdom, King, Fish, Elijah, Father, Maybe, Iron, John
 
 ---
 ### Line 1963-1971 (Match: 'Empire')
@@ -69,7 +69,7 @@ This would explain the "Is but is not" as follows: the tangible secular evil was
 
 . . . Now I know the meaning of my dream of the old encyclopedias, as Kleo's family's house. In them there had been the speeches of General Sherman in which he set forth the (new) Roman totalitarianism. In my dream it was said that "Andrew Jackson," dated 1837, hadn't ever actually dies, was in fact still alive. This meant still alive are the ideas of Sherman; and those ideas are a radical, vicious romanism-centralism. It was then, in 1863 or so, that the rebirth of Rome took place; here, then carried to Germany. This was the same Washington government and same army generals who exterminated the Indians. This can now be seen to dovetail with my dreams of the sibyl and other Roman constructs. There dreams, and my experience, let me in on the (mystical, metaphysical) Secret (about the world; as said regarding Gibbon: "Rome never really did fall. To think it fell is an error."). The Secret: we are in a Roman prison. And help is on the way. This is the meaning behind the idea of the Kingdom of Heaven --the return of the rightful King-- to suddenly come. First, you must understand our desperate situation.
 ```
-**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Roman, World, Fall, Because, Prison, Only, Earth, House, Sibyl, Those, Still, Their, Most, Heaven, Real, Actually, Secret, Would, Other, Have, Evil, Government, Truth, Suddenly, Human, Dream, Until
+**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Roman, World, Fall, Because, Prison, Only, Earth
 
 ---
 ### Line 1965-1973 (Match: 'Empire')
@@ -86,7 +86,7 @@ This would explain the "Is but is not" as follows: the tangible secular evil was
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Roman, World, Fall, Because, Prison, Only, Earth, Harpax, House, Sibyl, Those, Still, Their, Heaven, Real, Actually, Secret, Would, Other, Have, Evil, Government, Truth, Suddenly, Dream, Until
+**Co-occurrences**: Xerox, Rome, Form, Kingdom, King, Roman, World, Fall, Because, Prison, Only, Earth
 
 ---
 ### Line 2512-2520 (Match: 'Empire')
@@ -103,7 +103,7 @@ in human civilization ahead (first Earth Mother; then masculine Solar Deities; n
 
 Last edit over 5 years ago by Harpax
 ```
-**Co-occurrences**: Christ, Christian, Spirit, Holy, Logos, Xerox, Rome, Christianity, Holy Spirit, Form, Sophia, King, Well, Wisdom, These, Perhaps, Advent, Father, Maybe, Like, World, Fall, Because, Time, Earth, Harpax, Good, Hermetic, Just, Again, Being, Girl, Great, Gods, Sibyl, Santa, Nothing, Part, Their, More, Egypt, Living, Heaven, Certainly, Love, Before, Mother, Greece, Santa Sophia, Macro, Universe, Will, Would, Other, Creation, Judge, Very, Back, Egyptian, Surely, Whatever, Have, Judgment, Justice, Information, Trinity, Evil, Hermes, Human, Dream, Crete, Mary
+**Co-occurrences**: Sophia, Time, Hermetic, Santa Sophia, Information, Hermes, Saint Sophia, Christ, Christian, Spirit, Holy, Logos, Xerox, Rome, Christianity, Holy Spirit, Form, King, Well, Wisdom, These, Perhaps, Advent, Father, Maybe, Like, World, Fall, Because, Earth
 
 ---
 ### Line 2530-2538 (Match: 'Empire')
@@ -120,7 +120,7 @@ Last edit over 5 years ago by Harpax
 
 191
 ```
-**Co-occurrences**: Christ, Tears, Ubik, Rome, Form, Kingdom, King, Dionysos, These, Like, World, Iron, Prison, Only, Time, Nixon, Harpax, After, Light, Does, Anyhow, Just, Something, Kingdom of God, Both, Being, Runciter, Without, Their, More, Through, Voice, Before, Death, Would, Hamlet, Were, Back, Surely, Have, Clearly, Life, Body, Spring, Pentheus, Instead, Days, Dead, Human, Iron Prison, Dream, Salvation
+**Co-occurrences**: Time, Christ, Tears, Ubik, Rome, Form, Kingdom, King, Dionysos, These, Like, World, Iron, Prison, Only, Nixon
 
 ---
 ### Line 3098-3106 (Match: 'Empire')
@@ -137,7 +137,7 @@ Last edit almost 5 years ago by svayambhu108
 239
 Needs Review
 ```
-**Co-occurrences**: Christ, Xerox, Golden, Maybe, Like, World, Because, Therefore, Only, Time, Cosmic, Mind, Light, Firebright, Could, Does, Just, Once, Again, Reality, Being, Self, Everything, Orphic, Divine, Himself, Great, Probably, Without, Zeus, Through, Soul, Such, Before, Death, Will, Would, Were, Very, Back, Life, Information, Remember, Knowledge, Greater, During, Right, White
+**Co-occurrences**: Time, Firebright, Information, Christ, Xerox, Golden, Maybe, Like, World, Because, Therefore, Only
 
 ---
 ### Line 3108-3116 (Match: 'Empire')
@@ -154,7 +154,7 @@ Well, in 3-74 He came & healed up my head, withdrew my projec¬ tions and caused
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Holy, Jesus, Rome, Holy Spirit, King, Well, These, Father, Maybe, Like, World, Since, Fall, Because, Iron, Only, Time, Cosmic, Mind, Book, Cosmic Christ, Even, Could, Just, Look, Again, Orphic, Either, Great, Daniel, Anamnesis, Without, Nothing, Still, Jung, Soul, Certainly, Before, Mother, Will, Would, Were, Back, Life, Absolute, During, Human, Evidently, Right
+**Co-occurrences**: Time, Anamnesis, Christ, Spirit, Holy, Jesus, Rome, Holy Spirit, King, Well, These, Father, Maybe, Like, World, Since, Fall, Because, Iron, Only
 
 ---
 ### Line 3122-3130 (Match: 'Empire')
@@ -171,7 +171,7 @@ Last edit almost 5 years ago by svayambhu108
 
 241
 ```
-**Co-occurrences**: Christ, Spirit, Sophia, King, Well, Bible, Parousia, Wisdom, Lord, Advent, Father, Maybe, World, Since, Because, Iron, Only, Time, After, Cosmic, Faith, Mind, Cosmic Christ, Pinky, Anyhow, Something, Divine, Bacchae, Daniel, Probably, Anamnesis, Those, Another, Through, Most, Heaven, Such, Actually, Certainly, Before, Revelation, Consider, Death, Will, Would, Hamlet, Angel, Judge, Were, Back, Further, Justice, Evil, Suddenly, Whereas, Chardin, Pleroma, Right
+**Co-occurrences**: Sophia, Time, Anamnesis, Pleroma, Christ, Spirit, King, Well, Bible, Parousia, Wisdom, Lord, Advent, Father, Maybe, World, Since, Because, Iron, Only
 
 ---
 ### Line 3212-3220 (Match: 'Empire')
@@ -188,7 +188,7 @@ I, too, had the spirit not opened my eyes; I realize that. I saw only because it
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Tears, Acts, Spirit, Holy, King, Satan, Well, Bible, Parousia, These, Perhaps, Like, World, Fall, Because, Only, John, Time, Earth, After, Book, Even, Could, Does, Pinky, Anyhow, Being, Either, Great, Daniel, House, Nothing, Jews, More, Through, Egypt, Babylon, Most, Heaven, Real, Such, Greece, Will, Would, Other, Judge, Were, Surely, Many, Have, Clearly, Judgment, Life, Memory, Later, Whether, Except, Dream, Evidently, Final, Right, Answer
+**Co-occurrences**: Time, Christ, Tears, Acts, Spirit, Holy, King, Satan, Well, Bible, Parousia, These, Perhaps, Like, World, Fall, Because, Only, John, Earth
 
 ---
 ### Line 3245-3253 (Match: 'Empire')
@@ -205,7 +205,7 @@ Last edit almost 5 years ago by svayambhu108
 253
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Spirit, Rome, Christianity, Form, King, Satan, Well, Bible, Parousia, Lord, Perhaps, Like, World, Only, Time, Nixon, After, Good, Even, Could, Does, Anyhow, Soviet, Again, Self, Himself, Either, Probably, Without, Those, Through, Most, Real, Such, Secret, Before, Revelation, Death, Will, Would, Were, Very, Beyond, Further, Have, Life, Absolute, Memory, Evil, Government, Greater, Evidently, Right
+**Co-occurrences**: Time, Christ, Tears, Christian, Spirit, Rome, Christianity, Form, King, Satan, Well, Bible, Parousia, Lord, Perhaps, Like, World, Only, Nixon
 
 ---
 ### Line 3255-3263 (Match: 'Empire')
@@ -222,7 +222,7 @@ Last edit almost 5 years ago by svayambhu108
 254
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Rome, Form, King, Well, Parousia, Maybe, Like, Since, Only, Time, After, Cosmic, Mind, Cosmic Christ, Light, Even, Could, Pinky, Anyhow, Just, Soviet, Again, Being, Himself, Great, Daniel, Without, Tessa, Nothing, Those, Still, Their, Another, Heaven, Such, Actually, Certainly, Before, Revelation, Doris, True, Death, Will, Calvin, Would, Angel, Were, Back, Meanwhile, Things, Judgment, Body, Whether, During, Dream, Evidently, Final, Right, Answer, Until, White
+**Co-occurrences**: Time, Christ, Tears, Christian, Rome, Form, King, Well, Parousia, Maybe, Like, Since, Only
 
 ---
 ### Line 3294-3302 (Match: 'Empire')
@@ -239,7 +239,7 @@ The parameters are visible now of the struggle, and where God stands in the stru
 
 Last edit almost 5 years ago by svayambhu108
 ```
-**Co-occurrences**: Christ, Spirit, Rome, Christianity, Form, Satan, Well, Roman, John, Earth, Nixon, Being, Bacchae, Palm, Still, Most, Will, Justice, Freedom, Cross, Truth, During
+**Co-occurrences**: Christ, Spirit, Rome, Christianity, Form, Satan, Well, Roman, John, Earth, Nixon
 
 ---
 ### Line 3349-3357 (Match: 'Empire')
@@ -256,7 +256,7 @@ Last edit almost 5 years ago by svayambhu108
 263
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Acts, Form, Sophia, King, Greek, Parousia, Roman, Since, Because, Only, Cosmic, Good, Buckman, Book, Cosmic Christ, Taverner, Does, Something, Again, Both, Everything, Either, Great, Viewed, Those, Dokos, More, Pantocrator, Through, Most, Living, Such, Certainly, Love, Before, Universe, Were, Very, Have, Things, Justice, Wise, Evil, Pauline
+**Co-occurrences**: Sophia, Christ, Tears, Acts, Form, King, Greek, Parousia, Roman, Since, Because, Only
 
 ---
 ### Line 3357-3365 (Match: 'Empire')
@@ -273,7 +273,7 @@ Last edit almost 5 years ago by svayambhu108
 264
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Christian, Logos, Christianity, Sophia, King, Well, Parousia, Roman, Maybe, World, Since, Because, Prison, Earth, Does, Anyhow, Once, Realm, Again, Catholic, Great, Daniel, Nothing, Kathy, Their, More, Another, Through, Most, Love, Revelation, Will, Would, Other, Were, Beyond, Have, Clearly, Judgment, Life, Body, Justice, Wise, Days, Evil, Knowledge, Dream, Until
+**Co-occurrences**: Sophia, Decoded, Christ, Tears, Christian, Logos, Christianity, King, Well, Parousia, Roman, Maybe, World, Since, Because, Prison, Earth
 
 ---
 ### Line 3410-3418 (Match: 'Empire')
@@ -290,7 +290,7 @@ Last edit almost 5 years ago by svayambhu108
 270
 Needs Review
 ```
-**Co-occurrences**: Christian, Rome, Kingdom, Satan, Bible, Parousia, Roman, These, Like, Prison, Only, John, Time, Earth, Just, Being, Great, Without, Nothing, Those, Their, More, Most, Such, Revelation, True, Angel, Back, Under, Have, Judgment, Body, Dream, Evidently, Lamb
+**Co-occurrences**: Time, Linear, Christian, Rome, Kingdom, Satan, Bible, Parousia, Roman, These, Like, Prison, Only, John, Earth
 
 ---
 ### Line 3560-3568 (Match: 'Empire')
@@ -306,7 +306,7 @@ Evidently what I had been shown was, first, a vision of the obscure oppression d
 
 Another mystery revealed to me, most vastly fascinating, was the continual game between the Wise Kind and the Dark Counterplayer, out of whose plays against each other all change comes The Dark Counterplayer has immense physical power, but it is blind; the Wise Hind sees everything, past present and future, and knows exactly how to play its hand. The goal of the game is a contest for the souls of living creatures; when the Wise (or Good) Mind acquires them —and it wins every trick-- they are, in the popular language of Christianity saved. It was made clear to me that in spite of the enormous power of the Dark Counterplayer, it never wins a trick; i.e. a living soul. We are sought for by the God of life, and he never lets us go. Whatever temporary circumstances seem to prevail, the God of Life, through his agents, always wins. By the absolute wisdom of his thoughts he is able to load the Dark Counterplayer into assisting in Sin evolving universe, playing an unwilling part in the continual creation which the logos is furiously weaving. The colors of the logos are red and gold. The color ox the Savior is blue. But all three members of the Trinity are one; they simply display one aspect at a time, with the other two always present. I saw this as the greatest mystery of all. And, I think, the most beautiful.
 ```
-**Co-occurrences**: Christ, Holy, Logos, Rome, Christianity, Kingdom, Greek, Bible, However, Wisdom, World, Iron, Only, Time, Garden, Savior, Good, Mind, Book, Does, Reality, Although, Everything, Daniel, Palm, Deus, Part, Dokos, Another, Through, Soul, Most, Living, Gold, Revelation, Irae, Universe, Will, Other, Creation, Page, Biblical, Whatever, Eden, Things, Life, Absolute, Dark, Wise, Trinity, Evil, Deus Irae, During, Evidently, Final
+**Co-occurrences**: Time, Christ, Holy, Logos, Rome, Christianity, Kingdom, Greek, Bible, However, Wisdom, World, Iron, Only
 
 ---
 ### Line 3974-3982 (Match: 'Empire')
@@ -323,7 +323,7 @@ Last edit almost 3 years ago by svayambhu108
 28
 Needs Review
 ```
-**Co-occurrences**: Xerox, Rome, Roman, However, Maybe, World, Because, Iron, Prison, Time, Black, Could, Just, Both, Being, Divine, Black Iron Prison, Either, Palm, Viewed, Without, Part, More, Real, True, Would, Somehow, Tree, Neither, Whether, Iron Prison
+**Co-occurrences**: Time, Xerox, Rome, Roman, However, Maybe, World, Because, Iron, Prison
 
 ---
 ### Line 5023-5031 (Match: 'Empire')
@@ -340,6 +340,6 @@ Last edit almost 3 years ago by svayambhu108
 30
 Needs Review
 ```
-**Co-occurrences**: Christ, Tears, Acts, Christian, Rome, Kingdom, King, Well, Parousia, Perhaps, Elijah, Iron, Time, Mind, Book, Even, Could, Does, Again, Reality, March, Great, Daniel, Those, Their, Through, Before, Were, Very, Whatever, Many, Have, Days, West, Human, Dream, August
+**Co-occurrences**: Time, Christ, Tears, Acts, Christian, Rome, Kingdom, King, Well, Parousia, Perhaps, Elijah, Iron
 
 ---
