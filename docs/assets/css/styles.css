@@ -47,7 +47,7 @@ main {
     margin-bottom: 3rem;
 }
 
-#entrySearch {
+#term-search {
     width: 100%;
     padding: 1rem 1.5rem;
     background: var(--card-bg);
@@ -58,7 +58,7 @@ main {
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-#entrySearch:focus {
+#term-search:focus {
     outline: none;
     border-color: var(--accent-color);
     box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
@@ -81,7 +81,6 @@ main {
     display: flex;
     flex-direction: column;
     aspect-ratio: 1 / 1;
-    /* Force square aspect ratio */
     overflow: hidden;
     position: relative;
 }
@@ -96,7 +95,7 @@ main {
     font-size: 0.7rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: var(--highlight);
+    color: var(--accent-color);
     margin-bottom: 0.4rem;
 }
 
@@ -115,7 +114,6 @@ main {
     overflow: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 4;
-    /* Limit description further for smaller squares */
     -webkit-box-orient: vertical;
 }
 
@@ -130,34 +128,6 @@ main {
     gap: 0.5rem;
 }
 
-.card-page {
-    max-width: 850px;
-    margin: 2rem auto;
-    padding: 3rem;
-    background: var(--card-bg);
-    border-radius: 20px;
-    border: 1px solid var(--border-color);
-}
-
-.back-link {
-    color: var(--accent-color);
-    text-decoration: none;
-    margin-bottom: 2rem;
-    display: inline-block;
-    font-weight: 500;
-}
-
-.category {
-    background: rgba(59, 130, 246, 0.1);
-    color: var(--accent-color);
-    padding: 0.3rem 0.8rem;
-    border-radius: 99px;
-    font-size: 0.75rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-}
-
 section {
     margin-top: 3rem;
 }
@@ -170,22 +140,8 @@ h2 {
     padding-bottom: 0.75rem;
 }
 
-.passage-frame {
-    width: 100%;
-    height: 400px;
-    border: 1px solid var(--border-color);
-    border-radius: 12px;
-    background: var(--bg-color);
-}
-
-.exegesis-link {
-    color: var(--accent-color);
-    text-decoration: underline;
-    text-underline-offset: 4px;
-}
-
 /* Tabs Navigation */
-.tab-nav {
+.tab-container {
     display: flex;
     justify-content: center;
     gap: 1rem;
@@ -224,7 +180,6 @@ h2 {
     border-bottom: none;
     margin-top: 0;
     text-align: center;
-    font-family: 'Georgia', serif;
 }
 
 .scholarly-intro p {
@@ -241,24 +196,17 @@ h2 {
     display: block !important;
 }
 
-/* Specific view overrides */
 #cards-view.view-active {
-    display: grid !important;
-}
-
-#graph-view.view-active {
     display: block !important;
 }
 
 /* Graph Container */
-#graph-view {
+#cy {
     width: 100%;
-    height: calc(100vh - 250px);
+    height: 600px;
     background: #05070a;
     border: 1px solid var(--border-color);
     border-radius: 16px;
-    position: relative;
-    overflow: hidden;
 }
 
 /* --- ANALYTICS DASHBOARD --- */
@@ -271,82 +219,119 @@ h2 {
 
 .analytics-card {
     background: var(--card-bg);
-    border: 1px solid var(--border);
+    border: 1px solid var(--border-color);
     border-radius: 12px;
     padding: 1.5rem;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-    transition: transform 0.3s ease;
-}
-
-.analytics-card:hover {
-    transform: translateY(-5px);
-    border-color: var(--highlight);
 }
 
 .analytics-card h3 {
     margin-top: 0;
     margin-bottom: 1.5rem;
     font-size: 1.1rem;
-    color: var(--highlight);
+    color: var(--accent-color);
     text-transform: uppercase;
     letter-spacing: 1px;
-    border-bottom: 1px solid var(--border);
-    padding-bottom: 0.5rem;
 }
 
-canvas {
-    max-height: 350px;
-    width: 100% !important;
-}
-
-/* --- GRAPH VIEW (PHASE 10) --- */
-#cy {
-    width: 100%;
-    height: 100%;
-}
-
-.graph-overlay {
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-    z-index: 10;
-    background: rgba(11, 14, 20, 0.8);
-    padding: 1rem;
-    border-radius: 8px;
+/* --- SOURCE BROWSER (SCHOLARLY UPGRADE) --- */
+.source-browser {
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    gap: 2rem;
+    height: 700px;
+    background: var(--card-bg);
     border: 1px solid var(--border-color);
-    font-size: 0.85rem;
-    backdrop-filter: blur(4px);
+    border-radius: 16px;
+    overflow: hidden;
 }
 
-.graph-legend {
+.segment-sidebar {
+    background: rgba(0, 0, 0, 0.2);
+    border-right: 1px solid var(--border-color);
+    padding: 1.5rem;
+    overflow-y: auto;
+}
+
+#segment-list {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
-    margin-top: 0.5rem;
 }
 
-.legend-item {
+.segment-item {
+    padding: 0.75rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+    border: 1px solid transparent;
+}
+
+.segment-item:hover {
+    background: var(--hover-bg);
+}
+
+.segment-item.active {
+    background: var(--accent-color);
+    color: white;
+}
+
+.seg-type {
+    display: block;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    opacity: 0.7;
+}
+
+.segment-content {
+    padding: 2.5rem;
+    overflow-y: auto;
+}
+
+.scholarly-box {
+    background: rgba(59, 130, 246, 0.05);
+    border-left: 4px solid var(--accent-color);
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    font-style: italic;
+    color: #f3f4f6;
+}
+
+.scholarly-meta {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.meta-section h4 {
+    color: var(--accent-color);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.anchor-box {
+    background: #05070a;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    border: 1px solid var(--border-color);
+}
+
+#segment-detail-placeholder {
+    height: 100%;
     display: flex;
     align-items: center;
-    gap: 0.5rem;
-}
-
-.dot {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-}
-
-.dot.term {
-    background: #3b82f6;
-}
-
-.dot.passage {
-    background: #10b981;
+    justify-content: center;
+    color: var(--meta-color);
+    font-style: italic;
 }
 
 /* Filter Bar */
-.filter-bar {
+#filter-bar {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
@@ -368,23 +353,6 @@ canvas {
 .filter-tag.active {
     background: var(--accent-color);
     color: white;
-}
-
-/* Node Info Panel */
-#nodeInfo {
-    position: fixed;
-    bottom: 2rem;
-    right: 2rem;
-    width: 350px;
-    max-height: 400px;
-    background: var(--card-bg);
-    border: 1px solid var(--accent-color);
-    padding: 1.5rem;
-    border-radius: 16px;
-    z-index: 100;
-    overflow-y: auto;
-    display: none;
-    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
 }
 
 footer {

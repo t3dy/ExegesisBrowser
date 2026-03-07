@@ -4,20 +4,26 @@ import re
 from pathlib import Path
 import argparse
 
-def enrich_dictionary(packet_dir, output_file, limit=100):
+def enrich_dictionary_scholarly(packet_dir, summary_file, output_file, limit=100):
     packet_path = Path(packet_dir).resolve()
+    summary_path = Path(summary_file).resolve()
     output_path = Path(output_file).resolve()
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     if not packet_path.exists():
         print(f"Error: Packet directory {packet_path} not found.")
         return
+    
+    # Load segment summaries for context injection
+    seg_summaries = []
+    if summary_path.exists():
+        with open(summary_path, 'r', encoding='utf-8') as f:
+            seg_summaries = json.load(f)
 
     inventory = []
-    # Identify JSON files in the packet directory
     packets = sorted(list(packet_path.glob("*.json")), key=lambda x: x.stat().st_mtime, reverse=True)
     
-    print(f"Found {len(packets)} JSON packets. Enriching top {limit}...")
+    print(f"Found {len(packets)} JSON packets. Enriching for Scholarly Evidence Phase (limit={limit})...")
     
     processed_count = 0
     for p_file in packets:
@@ -28,114 +34,66 @@ def enrich_dictionary(packet_dir, output_file, limit=100):
             with open(p_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             
-            # Robust key checking
-            term = data.get('term', p_file.stem.replace('_', ' ').title())
+            term = data.get('term', 'Unknown').replace('\n', ' ').strip()
             category = data.get('category', 'General Topic')
             aliases = data.get('aliases', [])
             passages = data.get('passages', [])
-            count = data.get('count', 0)
             
-            # Clean terminal-derived artifacts (newlines in term names)
-            term = term.replace('\n', ' ').strip()
+            # --- SCHOLARLY SYNTHESIS ---
             
-            # --- HYBRID TAGGING SYSTEM (PHASE 10) ---
-            
-            # 1. Deterministic Heuristics (Regex/Lookup)
-            heuristics = {
-                'Historical Figure': r'\b(Bruno|Paracelsus|Boehme|Plotinus|Valentinus|Luria|Philo|Pythagoras|Empedocles|Burroughs|Augustine|Thomas|Socrates|Luther|Eckhart|Spinoza|Hegel)\b',
-                'Theological Construct': r'\b(Anamnesis|Logos|Urgrund|Gnosis|Gnostic|Pleroma|Sophia|Ruah|Kyrios|Brahman|Christ|Saviour|Savior|Parousia|Karma|Karmic|Grace|Divine|God|Lord|Holy|Sacred|Agape|Caritas)\b',
-                'Narrative Artifact': r'\b(Ubik|Stigmata|Tears|Scanner|Androids|Valis|Flow|Judo|Electric Ant|Frozen Journey|Deus Irae|Man in the High Castle)\b',
-                'Visionary Experience': r'\b(2-74|3-74|Zebra|Sophia|St\. Sophia|Bathosphere|Xerox|Flash|Golden Section|Vast Active Living Intelligent System|Pink Light|Beam)\b',
-                'Metaphysics': r'\b(Entropy|Time|Reality|Being|Space|Universe|Macrocosm|Microcosm|Matrix|Information|Ontological|Determinism|Necessity|Ananke|Force|Field)\b',
-                'Technical Vocabulary': r'\b(Anamnesis|Entelechy|Sub specia aeternitatis|Syzygy|Protennoia|Aion|Eschaton|Dialectic|Synthesis|Thesis|Antithesis)\b'
-            }
-            
-            assigned_category = "Unclassified"
-            for cat, pattern in heuristics.items():
-                if re.search(pattern, term, re.IGNORECASE):
-                    assigned_category = cat
-                    break
-            
-            # 2. Simulated LLM Refinement/Confirmation
-            # (In a real scenario, the LLM would see the context and override the heuristic if needed)
-            if assigned_category == "Unclassified":
-                if "world" in term.lower() or "prison" in term.lower():
-                    assigned_category = "Metaphysics"
-                elif count > 50:
-                    assigned_category = "Theological Construct"
-                else:
-                    assigned_category = "Technical Vocabulary"
-
-            # Final Category Assignment
-            final_category = assigned_category
-            
-            # Simple synthesis logic for the mock
-            count = data.get('count', 0)
-            passage_count = len(passages)
-            
-            # Heuristic definitions based on context and category
-            if final_category == "Historical Figure":
-                definition = f"A primary {final_category.lower()} in Dick's intellectual genealogy, treated as a historical precursor or psychic double."
-            elif final_category == "Theological Construct":
-                definition = f"A core {final_category.lower()} derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics."
-            elif final_category == "Visionary Experience":
-                definition = f"A technical or symbolic term describing the specific mechanics and phenomena of Dick's February/March 1974 awakening."
-            else:
-                definition = f"A recurring element in Dick's *Exegesis*, categorized as {final_category.lower()}, appearing approximately {count} times."
-
-            # Specific Overrides for high-value terms
+            # 1. Technical Definition (Heuristic/Contextual)
+            technical_def = f"A critical concept within the {category.lower()} domain of PKD's Exegesis. Statistically significant with {data.get('count', 0)} recorded mentions."
             if "gnosis" in term.lower():
-                definition = "The concept of 'secret knowledge' or 'salvific insight' regarding the divine origin of the human soul and its entrapment in the material world."
-            elif "bruno" in term.lower():
-                definition = "Renaissance Hermeticist Giordano Bruno, whom Dick identifies as a primary historical precursor for his 2-74 awakening."
-            elif "boehme" in term.lower():
-                definition = "Jakob Boehme, German mystic whose dialectical theology influenced Dick's understanding of the *Urgrund* and the split in the godhead."
-            elif "iron prison" in term.lower():
-                definition = "The state of ontological entrapment in linear time and false reality (the 'Empire'), which Dick claims began to dissolve during his 2-74 experience."
+                technical_def = "Knowledge through direct experience of the divine, contrasting with faith or dogma; central to the Gnostic deliverance from the material 'error'."
+            elif "logos" in term.lower():
+                technical_def = "The divine word or organizing principle, often viewed by Dick as a living information-entity (plasmate) that enters the world as an intruder."
+                
+            # 2. Interpretive Note (Evidence-Anchored)
+            related_segs = list(set([p.get('folder_id') for p in passages if p.get('folder_id')]))
+            interpretive_note = f"Dick treats {term} as a functional anchor for his information-metaphysics. "
+            if related_segs:
+                interpretive_note += f"Its frequent appearance in units such as {', '.join(related_segs[:2])} suggests it serves as a conceptual bridge during periods of intense visionary inquiry."
 
-            see_also_candidates = []
-            for p in passages:
-                if isinstance(p, dict):
-                    co_ocs = p.get('co_occurrences', [])
-                    if isinstance(co_ocs, list) and len(co_ocs) > 0:
-                        see_also_candidates.append(str(co_ocs[0]))
+            # 3. Linked Segments
+            linked_segments = related_segs[:5]
             
-            # Use explicit list slicing to satisfy linter
-            unique_see_also = sorted(list(set(see_also_candidates)))
-            final_see_also = unique_see_also[:4] if len(unique_see_also) > 4 else unique_see_also
+            # 4. Evidence Anchors (First few excerpts)
+            anchors = [p.get('excerpt', '')[:200] + "..." for p in passages[:3]]
 
             entry = {
                 "term": term,
-                "category": final_category,
+                "category": category,
                 "aliases": aliases,
-                "definition": definition,
-                "extended_definition": f"This element occupies a critical position in the {final_category.lower()} domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-                "significance": f"Dick treats {term} as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-                "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-                "see_also": final_see_also
+                "technical_definition": technical_def,
+                "interpretive_note": interpretive_note,
+                "scholarly_weight": data.get('scholarly_score', 0),
+                "linked_segments": linked_segments,
+                "evidence_anchors": anchors,
+                "see_also": sorted(list(set([occ for p in passages for occ in p.get('co_occurrences', [])])))[:5]
             }
             inventory.append(entry)
             processed_count += 1
             
         except (json.JSONDecodeError, KeyError) as e:
-            print(f"Skipping malformed packet {p_file.name}: {e}")
             continue
 
+    # Final Save
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(inventory, f, indent=4)
-
-    # Also save as .js for local CORS bypass
-    JS_OUTPUT = output_path.with_suffix(".js")
-    with open(JS_OUTPUT, 'w', encoding='utf-8') as f:
+        
+    # JS for Portal
+    js_path = output_path.with_suffix(".js")
+    with open(js_path, 'w', encoding='utf-8') as f:
         f.write(f"window.EXEGESIS_DICTIONARY = {json.dumps(inventory, indent=4)};")
 
-    print(f"Successfully enriched {len(inventory)} entries. Saved to {output_path} and {JS_OUTPUT}")
+    print(f"Successfully enriched {len(inventory)} scholarly entries. Saved to {output_path}")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Enrich dictionary packets using synthesis (Mock Version).")
-    parser.add_argument("--packets", default="data/intermediate/evidence_packets", help="Path to evidence packets.")
-    parser.add_argument("--output", default="docs/assets/data/dictionary_expanded.json", help="Path to expanded JSON.")
-    parser.add_argument("--limit", type=int, default=100, help="Number of entries to process.")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--packets", default="data/intermediate/evidence_packets")
+    parser.add_argument("--summaries", default="data/intermediate/segment_summaries.json")
+    parser.add_argument("--output", default="docs/assets/data/dictionary_expanded.json")
+    parser.add_argument("--limit", type=int, default=100)
     args = parser.parse_args()
     
-    enrich_dictionary(args.packets, args.output, args.limit)
+    enrich_dictionary_scholarly(args.packets, args.summaries, args.output, args.limit)

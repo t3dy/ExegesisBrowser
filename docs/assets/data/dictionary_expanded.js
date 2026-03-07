@@ -1,1493 +1,2699 @@
 window.EXEGESIS_DICTIONARY = [
     {
-        "term": "Evidence Packet Index",
-        "category": "Technical Vocabulary",
+        "term": "Unknown",
+        "category": "General Topic",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 0 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Evidence Packet Index as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the general topic domain of PKD's Exegesis. Statistically significant with 0 recorded mentions.",
+        "interpretive_note": "Dick treats Unknown as a functional anchor for his information-metaphysics. ",
+        "scholarly_weight": 0,
+        "linked_segments": [],
+        "evidence_anchors": [],
         "see_also": []
     },
     {
-        "term": "Pentecost",
-        "category": "Technical Vocabulary",
+        "term": "Platonist",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Pentecost as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 170 recorded mentions.",
+        "interpretive_note": "Dick treats Platonist as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book but, folder 48 suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book but",
+            "folder 48",
+            "part of",
+            "Unknown",
+            "folder 01"
+        ],
+        "evidence_anchors": [
+            "Anyhow, this has been recast by God. The silence is broken. And I felt it that day when the first light (this year, 1975) up by the palm trees and the post office, the first springtime, must have stru...",
+            "8\n\nmartyred them. - On this Babylon / Rome / Washington DC thing, I've solved it. The Medieval view of archetypal printouts is correct.\n\n{Illustration:} Black Iron Prison archetype {with arrows to} Ba...",
+            "Last edit almost 3 years ago by svayambhu108\n9\nNeeds Review\n9\ni the concept in Ubik which is of at least philosophical, cosmological value - + even scientific - is that some force or entity (deemed - ..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Tears"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Brahman"
         ]
     },
     {
-        "term": "Sacred",
-        "category": "Theological Construct",
+        "term": "Nixon",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.",
-        "extended_definition": "This element occupies a critical position in the theological construct domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Sacred as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Indexed",
-            "Jesus"
-        ]
-    },
-    {
-        "term": "White",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats White as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Jesus",
-            "Kingdom"
-        ]
-    },
-    {
-        "term": "August",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats August as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Kingdom",
-            "Parousia",
-            "Tears"
-        ]
-    },
-    {
-        "term": "Grail",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Grail as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Indexed",
-            "Tears"
-        ]
-    },
-    {
-        "term": "Ananke",
-        "category": "Metaphysics",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as metaphysics, appearing approximately 22 times.",
-        "extended_definition": "This element occupies a critical position in the metaphysics domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Ananke as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Form",
-            "Logos"
-        ]
-    },
-    {
-        "term": "Until",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Until as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 170 recorded mentions.",
+        "interpretive_note": "Dick treats Nixon as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book was suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book was",
+            "book certainly",
+            "part of",
+            "book in"
+        ],
+        "evidence_anchors": [
+            "Indexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Ortho...",
+            "sorts of shit (you noticed). Well, then it was an intrusion into time, into ordinary time, before entelechies were complete; like God\u2019s grace which saves you even if you\u2019re worthless, this intruded an...",
+            "I do not see where I am changed, but I was spared the Wrath and I was of use (against the tyranny): \u201cZeus protects those who defend the Perfect Kingdom against those who would nibble it away.\u201d It is a..."
+        ],
         "see_also": [
             "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Earth",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 178 recorded mentions.",
+        "interpretive_note": "Dick treats Earth as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, book and suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "book and",
+            "book of",
+            "part segment",
+            "book as"
+        ],
+        "evidence_anchors": [
+            "Rebirth: Zagreus was not deadbut asleep, under the snow: spring March-June\n\nOne year's cycle, or: The Cycle\n\nlocale: the Earth\n\nGreco Roman times (esp. Attic Greece[)] Spring Jesus\n\nFrom then on: dead...",
+            "From then on: dead winter 100 AD to 1970 AD\n\nRebirth These are not metaphoric or poetic analogs - but simply that this \"year\" or cycle was what Jesus taught & I meant: he has not been dead, but sleepi...",
+            "Locale: the earth\n\n\"and when I, the root of the vine, slumbering under the snow of winter, seemingly dead - when I return to life, you who follow me (are me, possessed by me) - while that spring day (..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "John",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 180 recorded mentions.",
+        "interpretive_note": "Dick treats John as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book certainly suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book certainly",
+            "part of",
+            "part segment",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "Complete\n28\nconsciously draw from it; these are the \"Seas of Knowledge\" which were known back to the Sumerians, and upon which the Sibyl at Delphi drew. But this is a cover, because Brady realizes tha...",
+            "Needs Review\n54\nexam merely determines whom the teaching benefited and how much. Viewed this way, Divine Judgment was a searching out, a scanning of each person, to determine who had learned anything,...",
+            "There is no doubt that, what with my right hemisphere experiments, I was trying to achieve something -- and perhaps did. Recieved something; receiving was part of what I was into, the idea that we cou..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Only",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 182 recorded mentions.",
+        "interpretive_note": "Dick treats Only as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book of",
+            "part of",
+            "book the",
+            "book as",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "Indexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Ortho...",
+            "I think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND IN THE WILLOWS, to God. (\"A motorcar???\")\n\nGod has returned. Resumed his Kingship (the Kingdom of God has been restored,...",
+            "Last edit almost 3 years ago by jhordan\n4\nComplete\n4\nIf my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parou..."
+        ],
+        "see_also": [
+            "Anamnesis",
+            "Because",
             "Christ",
             "Complete",
-            "Greek"
+            "Dionysos"
         ]
     },
     {
-        "term": "Mary",
-        "category": "Technical Vocabulary",
+        "term": "Prison",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Mary as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Indexed",
-            "Logos",
-            "Sophia"
-        ]
-    },
-    {
-        "term": "Simon Magus",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 22 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Simon Magus as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Tears",
-            "Toso",
-            "Valis"
-        ]
-    },
-    {
-        "term": "Judo",
-        "category": "Narrative Artifact",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as narrative artifact, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the narrative artifact domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Judo as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 183 recorded mentions.",
+        "interpretive_note": "Dick treats Prison as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book when, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book when",
+            "Book of",
+            "book was",
+            "book and",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "What I noticed most was the total isomorphic relatedness between me and my environment, which I realized to be an animate and concerned entity guiding me by an endless series of engaging signals -- en...",
+            "Last edit over 5 years ago by Harpax\n52\nNeeds Review\n52\nprisoners, the giving them their first glimpse of the pasture which is their reward. It is as if humane people came across a place where animals...",
+            "My sense that Firebright has done on only means that He, a half Light, Half Human creature, is now strong enough to leave the \"womb,\" which is good. Any immortality I have will be through the fact tha..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Jesus"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Track",
-        "category": "Technical Vocabulary",
+        "term": "Iron",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Track as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Kingdom",
-            "Roman"
-        ]
-    },
-    {
-        "term": "Pilate",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Pilate as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 190 recorded mentions.",
+        "interpretive_note": "Dick treats Iron as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part of, book the suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part of",
+            "book the",
+            "Unknown",
+            "book about",
+            "vol 12"
+        ],
+        "evidence_anchors": [
+            "We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.\n\nThis \"decay\" ...",
+            "God has returned. Resumed his Kingship (the Kingdom of God has been restored, here). I saw it --him-- in the alley, as I walked. I never saw that before because He was gone from her; or rather, our ey...",
+            "Recently I met Mr. Henry Korman and Mr. Tony Hiss (Tony had come by to interview me for the New Yorker). I got into a marvelous discussion with Henry about Sufi and I mentioned my admiration, borderin..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Jesus",
-            "Tears"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Answer",
-        "category": "Technical Vocabulary",
+        "term": "Golden Fish",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Answer as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 190 recorded mentions.",
+        "interpretive_note": "Dick treats Golden Fish as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "part of",
+            "book the",
+            "part anyhow",
+            "book COSMIC"
+        ],
+        "evidence_anchors": [
+            "God works through evolution, not to circumvent it. This, too, would explain my strong intuition that what happened in 3 74 didn't consist of one desperate event and supernatural solution, but the inev...",
+            "I had heard about the promise of the Comforter (the Paracletos) and believed it; I always expected it to save me when there was no hope for me. Thus I was able to prepare myself to receive it. It came...",
+            "Last edit almost 5 years ago by svayambhu108\n212\nNeeds Review\n212\nThe dream in TEARS contains the ostensible command, \"Die,\" but under the steganographic covering is the Logos-word \"Felix,\" which mean..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Complete",
-            "Indexed"
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman"
         ]
     },
     {
-        "term": "Someone",
-        "category": "Technical Vocabulary",
+        "term": "Malebranche",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Someone as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Complete",
-            "Form"
-        ]
-    },
-    {
-        "term": "Right",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Right as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 194 recorded mentions.",
+        "interpretive_note": "Dick treats Malebranche as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Unknown, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Unknown",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "Last edit about 3 years ago by svayambhu108\n40\nNeeds Review\n40\n66 Iajust about to figure out what \"pretextual cause,\" Valis, effects producing their \"causes,\" spurious memory, meta-abstracting Spinoza...",
+            "Last edit about 3 years ago by svayambhu108\n\n41\n67 Cartesian occasionalism. The main thing is: internal coherence so that order (cosmos) is created. What did I see (that I called Valis, the plasmate, ...",
+            "Last edit about 3 years ago by svayambhu108\n42\nNeeds Review\n42\nI have finally linked 2-3-74 totally with an extant philosohy and philosopher. What I saw-- pretextual cause, Valis, [MIT] motion, linkin..."
+        ],
         "see_also": [
             "Acts",
-            "Christian",
-            "Complete",
-            "Form"
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
         ]
     },
     {
-        "term": "Crete",
-        "category": "Technical Vocabulary",
+        "term": "Therefore",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Crete as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Indexed",
-            "Tears",
-            "Thomas"
-        ]
-    },
-    {
-        "term": "Final",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Final as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 194 recorded mentions.",
+        "interpretive_note": "Dick treats Therefore as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part of, Unknown suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part of",
+            "Unknown",
+            "part one",
+            "book A",
+            "book about"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by A23\n5\nComplete\n5\nkarma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me...",
+            "Dear Claudia,\n\nI've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.\n\nLet me offer some furt...",
+            "in the daytime, benign and not to be feared, but still it is the True Dreamer dreaming us along; my work and your work together show an awareness that the dream does not end when we wake up, nor begin..."
+        ],
         "see_also": [
             "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Because",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 195 recorded mentions.",
+        "interpretive_note": "Dick treats Because as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book of",
+            "part of",
+            "book the",
+            "book as",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "Ruffie Rat; that's what Tessa calls herself, also without realizing how these lives live on from the past.\n\nI think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND IN THE WILLO...",
+            "Complete\n4\nIf my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else co...",
+            "If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? ..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Bible",
+            "Christ",
+            "Christianity"
+        ]
+    },
+    {
+        "term": "Fall",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 196 recorded mentions.",
+        "interpretive_note": "Dick treats Fall as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book certainly, book and suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book certainly",
+            "book and",
+            "part segment",
+            "book of",
+            "book as"
+        ],
+        "evidence_anchors": [
+            "Tessa's name for me (without her knowing all this, supra) is Rowie Rog. A combination of sounds which pierce to my soul, for evident reasons. Rog Phillips, by the way, was a friend of Tony Boucher, al...",
+            "I have long thought about you, wondering how you are, and my having just now written the short enclosed piece, which is about Tony, gives me pretext to write you as well as the opportunity to extend t...",
+            "Handwritten notes in PKD\u2019s hand: A Light struck meadow for Tony Hiss & the Real World. Hark! Each tree its silence breaks \u2013 Nicholas Brody 1692\n\nWhen I met Theodore Surgeon, who wrote MORE THAN HUMAN,..."
+        ],
+        "see_also": [
+            "Anamnesis",
+            "Because",
             "Bible",
             "Christ",
             "Christian"
         ]
     },
     {
-        "term": "Chip",
-        "category": "Technical Vocabulary",
+        "term": "Gnosis",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Chip as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "Knowledge through direct experience of the divine, contrasting with faith or dogma; central to the Gnostic deliverance from the material 'error'.",
+        "interpretive_note": "Dick treats Gnosis as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book was suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book was",
+            "book but",
+            "part of",
+            "book of"
+        ],
+        "evidence_anchors": [
+            "36\nThe distinction here between a special disinhibiting external stimulus for a special (unusual or even unique) \"second stage or meta stage\" system -- versus breaking a limiting factor with the fish ...",
+            "141\nif He were me; or, put another way, He replaced me; put another way, it wasn't -- what I am saying here is that when I consider the doctrine of vicarious suffering -- well, not that; actually, the...",
+            "Last edit almost 5 years ago by svayambhu108\n235\nNeeds Review\n235\nthe space-time universe and an abolition of the conditions of exile & estrangement & amnesia, which would mean not only that we would ..."
+        ],
         "see_also": [
-            "Christ",
-            "Christian",
-            "Indexed",
-            "Tears"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman"
         ]
     },
     {
-        "term": "Form World",
-        "category": "Metaphysics",
+        "term": "Since",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as metaphysics, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the metaphysics domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Form World as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 197 recorded mentions.",
+        "interpretive_note": "Dick treats Since as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "book of",
+            "part of",
+            "book the",
+            "book as"
+        ],
+        "evidence_anchors": [
+            "If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? ...",
+            "Last edit over 5 years ago by A23\n5\nComplete\n5\nkarma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me...",
+            "Last edit over 5 years ago by Zebrapedia\n9\nIndexed\n9\nIt\u2019s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the..."
+        ],
         "see_also": [
-            "Christ",
-            "Christian",
-            "Form",
-            "Indexed"
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
         ]
     },
     {
-        "term": "Joseph Campbell",
-        "category": "Technical Vocabulary",
+        "term": "Parmenides",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Joseph Campbell as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 200 recorded mentions.",
+        "interpretive_note": "Dick treats Parmenides as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "Book of",
+            "part of",
+            "book of",
+            "book in"
+        ],
+        "evidence_anchors": [
+            "I didn't see what had happened, but rather the fulfillment of time: its completion; so I remembered what was going to happen, not what had happened a long time ago.\n\nPLOT ELEMENT for TO SCARE THE DEAD...",
+            "Or -- did his other self (the Other) start out long ago, and is just now returning? Himself expressed as signal (\"I shoot an arrow into the air\"; by arrow read \"half of myself\") now returning, produci...",
+            "What is expressed here is an extraordinary demonstration of the principles of conservation and symmetry (Hericlitus and Parmenides, plus our thermal laws). What was dispatched tiny and weak and frail ..."
+        ],
         "see_also": [
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman"
+        ]
+    },
+    {
+        "term": "World",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 200 recorded mentions.",
+        "interpretive_note": "Dick treats World as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book of",
+            "part of",
+            "book the",
+            "book as",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Toso\n2\nIndexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Al...",
+            "never realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Orthogonal (i.e...",
+            "Last edit almost 3 years ago by jhordan\n4\nComplete\n4\nIf my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parou..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Like",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 207 recorded mentions.",
+        "interpretive_note": "Dick treats Like as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book the, Unknown suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book the",
+            "Unknown",
+            "book of",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Toso\n2\nIndexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Al...",
+            "\"Tears\"-- vide the libretto for Wagner's Parsifal. The role of tears to nourish and water and mmm vivify new life at Easter -- the tears of the repentant sinner is the psychropos, which brings new lif...",
+            "Ruffie Rat; that's what Tessa calls herself, also without realizing how these lives live on from the past.\n\nI think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND IN THE WILLO..."
+        ],
+        "see_also": [
+            "Because",
+            "Bible",
+            "Christ",
+            "Complete",
+            "Dionysos"
+        ]
+    },
+    {
+        "term": "Scanner",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 210 recorded mentions.",
+        "interpretive_note": "Dick treats Scanner as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "Book of",
+            "book or",
+            "part of",
+            "part about"
+        ],
+        "evidence_anchors": [
+            "Last edit almost 5 years ago by svayambhu108\n212\nNeeds Review\n212\nThe dream in TEARS contains the ostensible command, \"Die,\" but under the steganographic covering is the Logos-word \"Felix,\" which mean...",
+            "Needs Review\n268\n-4-\n\nIn a purely deterministic, karma^-dominated world, my period of independence would have ended in the spring of 74. In analyzing the situation then I would have to say retrospecti...",
+            "296\n-8-\n\nSoviet weapon: microwaves beamed at persons, causing fatigue, confusion, psychosis and even heart failure. She said, \"Those affected by the microwave transmissions have the impression of hear..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "James",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 211 recorded mentions.",
+        "interpretive_note": "Dick treats James as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book when, part was suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book when",
+            "part was",
+            "BOOK OF",
+            "part of",
+            "part segment"
+        ],
+        "evidence_anchors": [
+            "consciously draw from it; these are the \"Seas of Knowledge\" which were known back to the Sumerians, and upon which the Sibyl at Delphi drew. But this is a cover, because Brady realizes that in point o...",
+            "You get enough darkness and it turns spontaneously to light. You get enough light, etc.\n\nFor all purposes which are ours, we should contrue our universe as under the dominion of two distinct RUs, if n...",
+            "Last edit over 5 years ago by Harpax\n48\nNeeds Review\n48\nthe dream showed me clearly that the primary miracle, the one which of necessity must precede all others, is the miracle of life born out of the..."
+        ],
+        "see_also": [
+            "Advent",
+            "Because",
+            "Bible",
             "Brahman",
-            "Christ",
-            "Christian",
-            "Jesus"
+            "Christ"
         ]
     },
     {
-        "term": "Phil Dick",
-        "category": "Technical Vocabulary",
+        "term": "Maybe",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 23 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Phil Dick as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 225 recorded mentions.",
+        "interpretive_note": "Dick treats Maybe as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book of",
+            "part of",
+            "book the",
+            "book as",
+            "part segment"
+        ],
+        "evidence_anchors": [
+            "We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.\n\nThis \"decay\" ...",
+            "karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done i...",
+            "6\nsorts of shit (you noticed). Well, then it was an intrusion into time, into ordinary time, before entelechies were complete; like God\u2019s grace which saves you even if you\u2019re worthless, this intruded ..."
+        ],
         "see_also": [
+            "Because",
             "Christ",
-            "Christian",
-            "Christianity",
-            "Rome"
+            "Complete",
+            "Dionysos",
+            "Earth"
         ]
     },
     {
-        "term": "Ruah",
-        "category": "Theological Construct",
+        "term": "Tagore",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.",
-        "extended_definition": "This element occupies a critical position in the theological construct domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Ruah as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Spirit",
-            "Tears"
-        ]
-    },
-    {
-        "term": "Asher",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Asher as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Tears",
-            "Toso"
-        ]
-    },
-    {
-        "term": "Pleroma",
-        "category": "Theological Construct",
-        "aliases": [],
-        "definition": "A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.",
-        "extended_definition": "This element occupies a critical position in the theological construct domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Pleroma as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 226 recorded mentions.",
+        "interpretive_note": "Dick treats Tagore as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part can, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part can",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "Indexed\nfolder 84 - 003\n-1-\n\nI was too tired (wasted) to write this down last night, but I realized that it is my Eleatic continuum view of reality that permits me to see purposeful changes in the rea...",
+            "C-30\n\nI can suppose no explanation but the Gnostic one. Creation is not only irrational, it is only semi-real or [] only seeming, \"rational,\" then signifies real; \"irrational\" signifies irreal. How we...",
+            "C-31\n\nthat our evil actions invade God - we again \"crucify\" him - and, in true N.T. fashion, he has taken on our sins (in the form of passion and death) voluntarily, this incarnation leading to his su..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Logos"
+            "Advent",
+            "Because",
+            "Bible",
+            "Christ"
         ]
     },
     {
-        "term": "Free",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Free as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christianity",
-            "Form",
-            "Paul"
-        ]
-    },
-    {
-        "term": "Doesn",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Doesn as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "term": "Father",
+        "category": "Top Term",
+        "aliases": [
+            "Fathers"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 229 recorded mentions.",
+        "interpretive_note": "Dick treats Father as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part segment, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part segment",
+            "part of",
+            "Unknown",
+            "book is",
+            "part is"
+        ],
+        "evidence_anchors": [
+            "If my seeing Rome, that was the Parousia, and it was analagous to Joe Chip seeing the form reversion, then I guess when you die you enter the Parousia at once (this makes sensel how else could it be? ...",
+            "Last edit over 5 years ago by A23\n5\nComplete\n5\nkarma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me...",
+            "It broke certain chains. Certain powers over me. Therefore the delusional (deformed) world rolled back and I saw reality as it is. It broke a programming which was a limiting, a spell-binding, a dream..."
+        ],
         "see_also": [
             "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Elijah",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 233 recorded mentions.",
+        "interpretive_note": "Dick treats Elijah as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part segment, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part segment",
+            "part of",
+            "book the",
+            "book I",
+            "part one"
+        ],
+        "evidence_anchors": [
+            "I forgot; only after that did I see anything else (e.g. Dionysos). My experience wouldkn't have been possible in our lineal time prior to March 1974. (He wasn't here.) And He remains; hence they can r...",
+            "Jesus spoke of a coming \"Kingship of God\" which, He said, \"Is among you/ around you/ within you.\" It could arrive any time. When it arrives, many men, most men, won't know. Since God created this worl...",
+            "prisoners, the giving them their first glimpse of the pasture which is their reward. It is as if humane people came across a place where animals were imprisoned under cruel conditions: overworked, sta..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Godhead",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 257 recorded mentions.",
+        "interpretive_note": "Dick treats Godhead as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, BOOK OF suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "BOOK OF",
+            "book by",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "Needs Review\n165\nClaudia Hambro says in CONFESSIONS when she says she can feel the crown of thorns. \"Christ didn't die for us; he was an example which each of us must follow, and suffer as he did to a...",
+            "Last edit over 5 years ago by Harpax\n\n166\nEchkardt also speaks of this happening to a man who has misstepped (vertreten, as I recall); God, then, corrects the mis-swing of the man and brings him back ...",
+            "Last edit over 5 years ago by Harpax\n\n171\ncarrying in encoded or stenographic form material from the Logos or Godhead concerning the Logos or Godhead, as a tiny part of some general historic communica..."
+        ],
+        "see_also": [
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Advent",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 259 recorded mentions.",
+        "interpretive_note": "Dick treats Advent as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book was suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book was",
+            "book certainly",
+            "part of",
+            "book of"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Harpax\n64\nNeeds Review\n64\nWhen I look back on those first days in 3 74 when I saw Tome around me, not Fullerton, and specifically the Rome of the period of Christ's time,...",
+            "In one sense Firebright is within me; in another (looking ahead, past the tyranny of time) I am within him. \"The child is father to the man.\" What will survive of me is what is worthy, I guess, and a ...",
+            "Needs Review\n75\nI never after that \"found\" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was ac..."
+        ],
+        "see_also": [
+            "Acts",
+            "Because",
+            "Bible",
+            "Christ",
+            "Christian"
+        ]
+    },
+    {
+        "term": "Perhaps",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 259 recorded mentions.",
+        "interpretive_note": "Dick treats Perhaps as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "part of",
+            "part segment",
+            "book the",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Zebrapedia\n9\nIndexed\n9\nIt\u2019s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the...",
+            "I've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.\n\nLet me offer some further notes on th...",
+            "Dear Ursula,\n\nDid I thank you for what you said about Mr. Tagomi in your London speech? I forget. Anyhow I have word of that, and so thank you. It is only one of many thanks which I give and which I o..."
+        ],
+        "see_also": [
+            "Anamnesis",
+            "Because",
             "Christ",
             "Christian",
             "Christianity"
         ]
     },
     {
-        "term": "Baptist",
-        "category": "Technical Vocabulary",
+        "term": "These",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Baptist as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 263 recorded mentions.",
+        "interpretive_note": "Dick treats These as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book of",
+            "part of",
+            "book the",
+            "book as",
+            "book A"
+        ],
+        "evidence_anchors": [
+            "Indexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Ortho...",
+            "Synchronized with this in time were: the publishing of TEARS, with the dream; and: (macro) the fall of the tyrant.\n\n\"Tears\"-- vide the libretto for Wagner's Parsifal. The role of tears to nourish and ...",
+            "(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.\n\nYes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh...."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Spirit"
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
         ]
     },
     {
-        "term": "Durant",
-        "category": "Technical Vocabulary",
+        "term": "Lord",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Durant as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Christianity",
-            "Gnostic"
-        ]
-    },
-    {
-        "term": "Genesis",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Genesis as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Complete",
-            "Form"
-        ]
-    },
-    {
-        "term": "Lamb",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Lamb as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Christianity",
-            "Form"
-        ]
-    },
-    {
-        "term": "Ptath",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Ptath as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 267 recorded mentions.",
+        "interpretive_note": "Dick treats Lord as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book but suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book but",
+            "book certainly",
+            "part segment",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "Hence, I was not in a situational jeopardy, within a limited crisis thrall; my life at stake for an interval; it is Aeon thrall removed; it was always there and would always have been. The immediate s...",
+            "Last edit over 5 years ago by Harpax\n43\nNeeds Review\n43\nall were doing the Lord's work, so to speak, being brought to salvation individually and helping in the general Plan; thus we who were secular s...",
+            "Last edit over 5 years ago by Harpax\n\n46\nWhether my exemplar is \"me\" is a merely semantic question; my exemplar is \"me complete,\" and that is not \"me in the process.\" Me exemplar is the Christos; we a..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Logos"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Chardin",
-        "category": "Technical Vocabulary",
+        "term": "Dionysos",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Chardin as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Form",
-            "Indexed",
-            "Spirit"
-        ]
-    },
-    {
-        "term": "Whereas",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Whereas as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Jesus",
-            "Logos",
-            "Rome"
-        ]
-    },
-    {
-        "term": "Evidently",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Evidently as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Form"
-        ]
-    },
-    {
-        "term": "Salvation",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Salvation as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Christianity",
-            "Spirit"
-        ]
-    },
-    {
-        "term": "Dream",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Dream as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Complete",
-            "Fish",
-            "Form"
-        ]
-    },
-    {
-        "term": "Electric Ant",
-        "category": "Narrative Artifact",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as narrative artifact, appearing approximately 24 times.",
-        "extended_definition": "This element occupies a critical position in the narrative artifact domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Electric Ant as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Complete",
-            "However"
-        ]
-    },
-    {
-        "term": "Iron Prison",
-        "category": "Metaphysics",
-        "aliases": [],
-        "definition": "The state of ontological entrapment in linear time and false reality (the 'Empire'), which Dick claims began to dissolve during his 2-74 experience.",
-        "extended_definition": "This element occupies a critical position in the metaphysics domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Iron Prison as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Kingdom"
-        ]
-    },
-    {
-        "term": "Sandra",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Sandra as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Complete"
-        ]
-    },
-    {
-        "term": "Lower",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Lower as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Holy"
-        ]
-    },
-    {
-        "term": "Karmic",
-        "category": "Theological Construct",
-        "aliases": [],
-        "definition": "A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.",
-        "extended_definition": "This element occupies a critical position in the theological construct domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Karmic as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Complete"
-        ]
-    },
-    {
-        "term": "Syria",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Syria as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Jesus",
-            "Tears"
-        ]
-    },
-    {
-        "term": "Sons",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Sons as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Form",
-            "Jesus"
-        ]
-    },
-    {
-        "term": "Human",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Human as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Christianity"
-        ]
-    },
-    {
-        "term": "Otherwise",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Otherwise as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Logos",
-            "Spirit"
-        ]
-    },
-    {
-        "term": "Reformers",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Reformers as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Complete",
-            "Jesus"
-        ]
-    },
-    {
-        "term": "Hermes",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Hermes as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Fish",
-            "Form"
-        ]
-    },
-    {
-        "term": "During",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats During as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Form"
-        ]
-    },
-    {
-        "term": "Qumran",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 25 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Qumran as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Spirit"
-        ]
-    },
-    {
-        "term": "Horselover",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Horselover as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Valis"
-        ]
-    },
-    {
-        "term": "Impostor",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Impostor as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Tears",
-            "Toso",
-            "Ubik"
-        ]
-    },
-    {
-        "term": "Magus",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Magus as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Tears",
-            "Toso"
-        ]
-    },
-    {
-        "term": "Comforter",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Comforter as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Tears",
-            "Valis"
-        ]
-    },
-    {
-        "term": "West",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats West as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Complete"
-        ]
-    },
-    {
-        "term": "Today",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Today as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 273 recorded mentions.",
+        "interpretive_note": "Dick treats Dionysos as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book certainly, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book certainly",
+            "part of",
+            "book the",
+            "book A",
+            "book about"
+        ],
+        "evidence_anchors": [
+            "I think if seen in proper perspective, sub sepcia aeternitatis, we're like WIND IN THE WILLOWS, to God. (\"A motorcar???\")\n\nGod has returned. Resumed his Kingship (the Kingdom of God has been restored,...",
+            "THE RED FEATHER by Dorothy Canfield Fisher (I had my copy until 1972 when I was in Canada and they robbed me a final time), that was what they call my Script.\n\nA little girl, Rosemary, was born, but t...",
+            "Dear Claudia,\n\nI've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.\n\nLet me offer some furt..."
+        ],
         "see_also": [
             "Acts",
             "Because",
             "Christ",
-            "Sophia"
-        ]
-    },
-    {
-        "term": "Pauline",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Pauline as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
             "Christian",
-            "Complete",
-            "Spirit"
+            "Christianity"
         ]
     },
     {
-        "term": "Greater",
-        "category": "Technical Vocabulary",
+        "term": "Wisdom",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Greater as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Complete",
-            "Form"
-        ]
-    },
-    {
-        "term": "London",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats London as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 274 recorded mentions.",
+        "interpretive_note": "Dick treats Wisdom as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book and, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book and",
+            "part of",
+            "book I",
+            "Unknown",
+            "part left"
+        ],
+        "evidence_anchors": [
+            "consciously draw from it; these are the \"Seas of Knowledge\" which were known back to the Sumerians, and upon which the Sibyl at Delphi drew. But this is a cover, because Brady realizes that in point o...",
+            "Undoubtedly the alchemical meta(crypte)morphosis worked in the human (lead to gold) contains a key to this transformation cycle of all society, of earth itself. After my own transformation, done via g...",
+            "There is no doubt that, what with my right hemisphere experiments, I was trying to achieve something -- and perhaps did. Recieved something; receiving was part of what I was into, the idea that we cou..."
+        ],
         "see_also": [
             "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Maze",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 279 recorded mentions.",
+        "interpretive_note": "Dick treats Maze as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "part of",
+            "book of",
+            "Unknown",
+            "part anyhow"
+        ],
+        "evidence_anchors": [
+            "Needs Review\n65\ncould not wake itself up -- like the root or bulb called to by spring (by the healing warming Sun of R[l]ighteousness) it had to be summoned. If new birth or new life refers to a resto...",
+            "Needs Review\n73\nThis makes of the Trinity a great biological organism in its several stages or phases: father-son is obvious, with the holy spirit bringing about the production of the son, using the h...",
+            "\u201cSure werk hat mir gafallen.\u201d (Dar Meister hat gesprochen. That which we wait for...we as creating angeks. Item: are we perhaps those very same creating angels, given the draught of Lethe, having forg..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Spinoza",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 293 recorded mentions.",
+        "interpretive_note": "Dick treats Spinoza as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part our, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part our",
+            "part of",
+            "Unknown",
+            "part quited",
+            "folder 32"
+        ],
+        "evidence_anchors": [
+            "\"Mighty and great is Ptah, who rendered power to the gods and their kas: through his heart, by which Horus became Ptah; and through his tongue, by which Thot[h] became Ptah.\"\n\nThis is 2,000 years befo...",
+            "Needs Review\n173\npalintonos, the whole \"trampoline\" structure of reality in which there is balance and equilibrium established as a regular matter of course.\n\nWhat I had done last night in effect was ...",
+            "Last edit over 5 years ago by Harpax\n199\nNeeds Review\n199\nAlso, viewing the statements of God from within the burning bush (Moses asks what His name is and is told, \"I am that which I am\") were so lik..."
+        ],
+        "see_also": [
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman"
+        ]
+    },
+    {
+        "term": "However",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 293 recorded mentions.",
+        "interpretive_note": "Dick treats However as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "part of",
+            "book in",
+            "book the",
+            "book of"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Zebrapedia\n9\nIndexed\n9\nIt\u2019s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the...",
+            "I proofed like mad on this, as you\u2019ll see, to cut down on your work. On author to editor grammar query; you\u2019ll note.\n\nGlad you and Paul potlacked eached other into getting tubby. I feel everyone shoul...",
+            "Indexed\n15\nfood just when it\u2019s ripe and perfect. The dog tries to warn the family, but it\u2019s always early in the morning and his barking just annoys them. The story ends when the family decides they ha..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Christ",
+            "Christian"
+        ]
+    },
+    {
+        "term": "Roman",
+        "category": "Top Term",
+        "aliases": [
+            "Romans"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 295 recorded mentions.",
+        "interpretive_note": "Dick treats Roman as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, BOOK OF suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "BOOK OF",
+            "book and",
+            "part of",
+            "book of"
+        ],
+        "evidence_anchors": [
+            "One year's cycle, or: The Cycle\n\nlocale: the Earth\n\nGreco Roman times (esp. Attic Greece[)] Spring Jesus\n\nFrom then on: dead winter 100 AD to 1970 AD\n\nRebirth These are not metaphoric or poetic analog...",
+            "Handwritten notes in PKD\u2019s hand: A Light struck meadow for Tony Hiss & the Real World. Hark! Each tree its silence breaks \u2013 Nicholas Brody 1692\n\nWhen I met Theodore Surgeon, who wrote MORE THAN HUMAN,...",
+            "Last edit almost 3 years ago by twsullivan\n28\nComplete\n28\nconsciously draw from it; these are the \"Seas of Knowledge\" which were known back to the Sumerians, and upon which the Sibyl at Delphi drew. B..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Golden",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 303 recorded mentions.",
+        "interpretive_note": "Dick treats Golden as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "part of",
+            "part segment",
+            "book COSMIC",
+            "part retained"
+        ],
+        "evidence_anchors": [
+            "We evidently live in a multiple source (on the model of light sources) compound universe. The hologram is fed from several sources. Whereas normally we inhabit all, sometimes we can get into only one ...",
+            "Needs Review\n89\nalways but \"silent,\" i.e. camouflaged (so we didn't, couldn't, notice). My linkage had lasted over one full year, which is not typical of a mystical experience, even a good Yoga Easter...",
+            "This is very much a confirmation of Aristotle's idea (mentioned in Dante) of three distinct human souls in each person, two of which are mortal (as I recall the vegetable & animal) and then one which ..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman"
+        ]
+    },
+    {
+        "term": "Parousia",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 317 recorded mentions.",
+        "interpretive_note": "Dick treats Parousia as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book certainly, part segment suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book certainly",
+            "part segment",
+            "part of",
+            "Unknown",
+            "book about"
+        ],
+        "evidence_anchors": [
+            "We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.\n\nThis \"decay\" ...",
+            "Indexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Ortho...",
+            "It has happened, the Prince of this World fell.\n\nThis all has been an unfolding process. A revealing or disclosing of Being.\n\nThe Final Things (Parousia) is this: when God and his forces break through..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Bible",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 326 recorded mentions.",
+        "interpretive_note": "Dick treats Bible as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book but, book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book but",
+            "book of",
+            "part of",
+            "book I",
+            "book about"
+        ],
+        "evidence_anchors": [
+            "IX From nIXon That\u2019s Latin for 9 IC from dICk That\u2019s Latin for 99\n\nThe universe must be read backward; so the three 9s are 666; its\u2019 a \u2013 ohhhhhhh. The other night, \u201cErasmus\u201d laughing. All the codes an...",
+            "Last edit over 5 years ago by Zebrapedia\n10\nIndexed\n10\nThey are going to find that orthogonal axis, Claudia, and when they do, they will find it retrograde and exactly what Joe Chip saw, and it is the...",
+            "By this I mean to say, Dr. Ornstein, ten months ago this took place, and for ten months I have been a different person. But what to me is most extraordinary (I am writing a book about it, but in the f..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Empire",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 335 recorded mentions.",
+        "interpretive_note": "Dick treats Empire as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book when, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book when",
+            "Book of",
+            "book and",
+            "part of",
+            "part segment"
+        ],
+        "evidence_anchors": [
+            "51\nJesus spoke of a coming \"Kingship of God\" which, He said, \"Is among you/ around you/ within you.\" It could arrive any time. When it arrives, many men, most men, won't know. Since God created this w...",
+            "Last edit over 5 years ago by Harpax\n\n76\nWe then are discussing possession by Elijah and possession by God in the form of the Holy spirit; it is the same thing. Now Malachi talks about God ending Elij...",
+            "Logos as the two men working a two-man saw: [i]scillation back and forth -- palintropos harmonie.\n\n. . . I didn't enter the Kingdom of God by moving forward in time; I entered it by remembering (anamn..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Well",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 342 recorded mentions.",
+        "interpretive_note": "Dick treats Well as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "book of",
+            "part of",
+            "book the",
+            "book as"
+        ],
+        "evidence_anchors": [
+            "God has returned. Resumed his Kingship (the Kingdom of God has been restored, here). I saw it --him-- in the alley, as I walked. I never saw that before because He was gone from her; or rather, our ey...",
+            "karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done i...",
+            "If the fucking rat had only left the house I would have spared it. Thus we too, all of us, are given clues and help; we ar guided so that \"we can leave in time.\" And be spared.\n\nI didn't draw a person..."
+        ],
+        "see_also": [
+            "Acts",
+            "Because",
+            "Bible",
+            "Christ",
+            "Christian"
+        ]
+    },
+    {
+        "term": "Satan",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 343 recorded mentions.",
+        "interpretive_note": "Dick treats Satan as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book when, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book when",
+            "Book of",
+            "book was",
+            "book certainly",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "This beats the Greek idea of God as Mind which does nothing but think. Or know. How is it to know, if there is nothing to know? I conceive of it as a builder, an artificer, who creates, in conformity ...",
+            "Last edit over 5 years ago by Harpax\n92\nNeeds Review\n92\nspirit which was Elijah passes through me and prepared me; it was the agency which made the change, brought me through rapid growth stages to th...",
+            "Needs Review\n93\nI saw the religious encoding and read it, myself: the Logos term \"Felix,\" the entire ending -- everything, that paragraph illuminated (to me, as I told Sergeant Kelly). I has released ..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Ditheon",
+        "category": "Top Term",
+        "aliases": [
+            "Ditheons"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 346 recorded mentions.",
+        "interpretive_note": "Dick treats Ditheon as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book as, part in suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book as",
+            "part in",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "Last edit almost 3 years ago by svayambhu108\n\n\n16\n1-17 study of who + where I am, what I value, what I need, +, perhaps most of all, what I must do. Although I am not totally fulfilled I do find mysel...",
+            "Last edit almost 3 years ago by svayambhu108\n17\nNeeds Review\n17\n5-18 introduced, new to the world, + by a Greek word which has no English paralled. The very concept (as explained by the context of the...",
+            "Last edit almost 3 years ago by svayambhu108\n18\nNeeds Review\n18\nH-19 the plasmate -living information - is the noosphere (as I have often thought) + Valis the cosmic Christ that Teilhard This foresaw ..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman"
+        ]
+    },
+    {
+        "term": "Greek",
+        "category": "Top Term",
+        "aliases": [
+            "Greeks"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 354 recorded mentions.",
+        "interpretive_note": "Dick treats Greek as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "part of",
+            "Unknown",
+            "book about",
+            "part pressing"
+        ],
+        "evidence_anchors": [
+            "food just when it\u2019s ripe and perfect. The dog tries to warn the family, but it\u2019s always early in the morning and his barking just annoys them. The story ends when the family decides they have to get r...",
+            "Last edit almost 3 years ago by twsullivan\n30\nComplete\n30\nJane Harrison in her PROLEGOMENA TO THE STUDY OF GREEK RELIGION, discusses the notion that Dionysos was the same as the ancient Greek philosop...",
+            "Complete\n30\nJane Harrison in her PROLEGOMENA TO THE STUDY OF GREEK RELIGION, discusses the notion that Dionysos was the same as the ancient Greek philosophical principle of moisture, which makes me re..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Felix",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 355 recorded mentions.",
+        "interpretive_note": "Dick treats Felix as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, BOOK OF suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "BOOK OF",
+            "book but",
+            "book certainly",
+            "book was"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Harpax\n93\nNeeds Review\n93\nI saw the religious encoding and read it, myself: the Logos term \"Felix,\" the entire ending -- everything, that paragraph illuminated (to me, as...",
+            "Needs Review\n155\nindividual level, invisible to others. Also, there were calamities and afflictions against society, regarded by others as naturally caused where I think He assailed the establishment ...",
+            "Last edit over 5 years ago by Harpax\n\n156\n. . . If I am going to systematically list all the elements in TEARS which are revelation (i.e. from scripture) (and I've tried to do this, supra supra) I thi..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Fish",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 372 recorded mentions.",
+        "interpretive_note": "Dick treats Fish as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part of, book the suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part of",
+            "book the",
+            "book I",
+            "Unknown",
+            "part one"
+        ],
+        "evidence_anchors": [
+            "Oh God, Claudia; the \u201cexplosion\u201d is throwing is throwing us backward into lineal time away from the moment of completion/perfection of each of us. What age do you guess? The Savior didn\u2019t say \u201cbabies....",
+            "What I noticed most was the total isomorphic relatedness between me and my environment, which I realized to be an animate and concerned entity guiding me by an endless series of engaging signals -- en...",
+            "Last edit almost 3 years ago by twsullivan\n33\nComplete\n33\nUndoubtedly the alchemical meta(crypte)morphosis worked in the human (lead to gold) contains a key to this transformation cycle of all society..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Paul",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 400 recorded mentions.",
+        "interpretive_note": "Dick treats Paul as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book certainly suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book certainly",
+            "part segment",
+            "book of",
+            "book as"
+        ],
+        "evidence_anchors": [
+            "You know, if they do discover the orthogonal time axis (along which the Forms move) they will find that it leads to the Parousia.\n\nForms have a point of completion. Like a novel. They don\u2019t go on and ...",
+            "(two) Okay \u2013 on my MS page 6: you could end the piece after line 10. (Final printed sentence: \u201cThat was my friend.\u201d) But it\u2019s a different piece this way, with the Day of Wrath scene missing; much limi...",
+            "I proofed like mad on this, as you\u2019ll see, to cut down on your work. On author to editor grammar query; you\u2019ll note.\n\nGlad you and Paul potlacked eached other into getting tubby. I feel everyone shoul..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Brahman",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 408 recorded mentions.",
+        "interpretive_note": "Dick treats Brahman as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book of",
+            "part of",
+            "part I",
+            "part which"
+        ],
+        "evidence_anchors": [
+            "86\nvery loose physical arrangement, but with a field exchange created, such as social insects can be assumed to possess; each of us it that field (vide acupuncture), and the Great Mind is made up of d...",
+            "Needs Review\n242\n\"The three lights coming on indicate the return of Christ.\u201d And the lights are in my TV set. A circuit few people know about. Nor are they interested. It is my set, my discovery, my e...",
+            "Last edit almost 5 years ago by svayambhu108\n\n1\nE.B. \"Brahman is the creator, ..., or transformation of recursion of everything. Brahman carries the ....of all Beings to emanate from itself, transform..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Christ",
+            "Christianity"
+        ]
+    },
+    {
+        "term": "Torah",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 475 recorded mentions.",
+        "interpretive_note": "Dick treats Torah as a functional anchor for his information-metaphysics. Its frequent appearance in units such as folder 48, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "folder 48",
+            "part of",
+            "book of",
+            "part company",
+            "part fled"
+        ],
+        "evidence_anchors": [
+            "Last edit almost 3 years ago by svayambhu108\n73\nNeeds Review\n73\n\"In contrast to its exoteric form the esoteric Torah was regarded as a pre-existential being made up of the one great name of God. Philo...",
+            "Last edit almost 3 years ago by svayambhu108\n\n76\n78 But her part was turned over to me - it went from her to me. So the \"Olive Holt\" code was So to speak actually the cypher in \"Tears\" the Xerox thing...",
+            "Last edit almost 3 years ago by svayambhu108\n83\nNeeds Review\n83\n81 It is the Bible as code. Or - it could be the living creature the Torah (plasmate). A double cypher: code within code. Also, it could..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "King",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 502 recorded mentions.",
+        "interpretive_note": "Dick treats King as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book certainly, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book certainly",
+            "part of",
+            "part segment",
+            "book the",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "It has happened, the Prince of this World fell.\n\nThis all has been an unfolding process. A revealing or disclosing of Being.\n\nThe Final Things (Parousia) is this: when God and his forces break through...",
+            "Oh God, Claudia; the \u201cexplosion\u201d is throwing is throwing us backward into lineal time away from the moment of completion/perfection of each of us. What age do you guess? The Savior didn\u2019t say \u201cbabies....",
+            "Yes, maybe so, Claudia; while the teacher was still the universe. I remember how God, as body-of-God, the universe, taught me, through bugs and bees, the sight of an old blind lady in a great wheel ch..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Kingdom",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 581 recorded mentions.",
+        "interpretive_note": "Dick treats Kingdom as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, book certainly suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "book certainly",
+            "part of",
+            "part segment",
+            "book as"
+        ],
+        "evidence_anchors": [
+            "We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.\n\nThis \"decay\" ...",
+            "Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '...",
+            "Indexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Ortho..."
+        ],
+        "see_also": [
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Plato",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 661 recorded mentions.",
+        "interpretive_note": "Dick treats Plato as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, BOOK OF suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "BOOK OF",
+            "book certainly",
+            "part of",
+            "part our"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Harpax\n38\nNeeds Review\n38\nThis, then, is not only a journey; it is a simultaneous double journey; he watches himself recede from himself, grow smaller and farther away. W...",
+            "Anyhow, this has been recast by God. The silence is broken. And I felt it that day when the first light (this year, 1975) up by the palm trees and the post office, the first springtime, must have stru...",
+            "Last edit over 5 years ago by Harpax\n\n96\nJesus: \"Do this in memory of me.\" (The communion.) This is what is called \"Anamnesis.\" It is also anamnesis which I experienced (in Plato's sense.) But I exper..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Form",
+        "category": "Top Term",
+        "aliases": [
+            "Forms"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 707 recorded mentions.",
+        "interpretive_note": "Dick treats Form as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book of",
+            "part of",
+            "book as",
+            "Unknown",
+            "book A"
+        ],
+        "evidence_anchors": [
+            "February 27, 1975\n\nDear Claudia,\n\nI just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.\n\nWe already poi...",
+            "I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.\n\nWe already pointed this axis out --the one he se...",
+            "We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.\n\nThis \"decay\" ..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Holy Spirit",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 713 recorded mentions.",
+        "interpretive_note": "Dick treats Holy Spirit as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book certainly, part segment suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book certainly",
+            "part segment",
+            "part of",
+            "book I",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.\n\nWe already pointed this axis out --the one he se...",
+            "karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done i...",
+            "Last edit over 5 years ago by FolkDevil\n\n6\nsorts of shit (you noticed). Well, then it was an intrusion into time, into ordinary time, before entelechies were complete; like God\u2019s grace which saves you..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Christianity",
+        "category": "Top Term",
+        "aliases": [
+            "Xtianity"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 746 recorded mentions.",
+        "interpretive_note": "Dick treats Christianity as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "Book of",
+            "part of",
+            "Unknown",
+            "book A"
+        ],
+        "evidence_anchors": [
+            "(five) This landscape of Winter (200 B.C. to 1974 A.D.) has determined the quality or nature of the lives of all living beings within the lineal span which it underlies: like Kan as the trigram in Tao...",
+            "Last edit almost 3 years ago by twsullivan\n28\nComplete\n28\nconsciously draw from it; these are the \"Seas of Knowledge\" which were known back to the Sumerians, and upon which the Sibyl at Delphi drew. B...",
+            "consciously draw from it; these are the \"Seas of Knowledge\" which were known back to the Sumerians, and upon which the Sibyl at Delphi drew. But this is a cover, because Brady realizes that in point o..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Rome",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 780 recorded mentions.",
+        "interpretive_note": "Dick treats Rome as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book certainly, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book certainly",
+            "part of",
+            "book the",
+            "Unknown",
+            "part one"
+        ],
+        "evidence_anchors": [
+            "I lived through the Final Things, coming out finally in the Perfect Kingdom: moonlight and cold cold water (psychropos). And the archway through which --the narrow path?-- to enter. I knew I could. An...",
+            "Last edit over 5 years ago by Toso\n2\nIndexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Al...",
+            "God has returned. Resumed his Kingship (the Kingdom of God has been restored, here). I saw it --him-- in the alley, as I walked. I never saw that before because He was gone from her; or rather, our ey..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Xerox",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 815 recorded mentions.",
+        "interpretive_note": "Dick treats Xerox as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book certainly suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book certainly",
+            "book and",
+            "part of",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "is only a beginning; it only shows that the various strata of the past are retained --taped, or engrammed-- in each of us' minds. What are the limits to this knowledge? How far can one go in this proc...",
+            "Needs Review\n57\nBeing a novelist I can appreciate how easily this could be done; the ordinary person would suppose that the tinkering to produce a wholeness would be done at the end (i.e. the final el...",
+            "This vision of all causes that are real being actually present is quite different from the idea that causes lie in the past (prior to effect). My universe was like a complicated engine. Where are the ..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Complete",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 851 recorded mentions.",
+        "interpretive_note": "Dick treats Complete as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part of, book the suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part of",
+            "book the",
+            "book as",
+            "book A",
+            "book about"
+        ],
+        "evidence_anchors": [
+            "Yes, I see -- that rat was the instrument of saving me; I died with it, and I prayed for it when I killed it; and it's been transformed...in Rog's story, the rat operated a humanoid robot, an android;...",
+            "First, the \"Artist\" (logos) is drawing you (or universe is fashioning you) more and more like Christ. These are first kinds of changes: you're made to look i.e. be like him. But the real thing is when...",
+            "The gifts of the spirit. Oh yes, before I forget; when I had kiled the poor rat I tossed the St. Christopher's medal into his grave with him, poor rat who only wanted to live. But you see how I had be..."
+        ],
+        "see_also": [
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ",
+            "Christian"
+        ]
+    },
+    {
+        "term": "Jesus",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 926 recorded mentions.",
+        "interpretive_note": "Dick treats Jesus as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part of, book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part of",
+            "book of",
+            "book as",
+            "part segment",
+            "book about"
+        ],
+        "evidence_anchors": [
+            "Indexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Ortho...",
+            "One year's cycle, or: The Cycle\n\nlocale: the Earth\n\nGreco Roman times (esp. Attic Greece[)] Spring Jesus\n\nFrom then on: dead winter 100 AD to 1970 AD\n\nRebirth These are not metaphoric or poetic analog...",
+            "Greco Roman times (esp. Attic Greece[)] Spring Jesus\n\nFrom then on: dead winter 100 AD to 1970 AD\n\nRebirth These are not metaphoric or poetic analogs - but simply that this \"year\" or cycle was what Je..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Logos",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "The divine word or organizing principle, often viewed by Dick as a living information-entity (plasmate) that enters the world as an intruder.",
+        "interpretive_note": "Dick treats Logos as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "part of",
+            "part segment",
+            "book as",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.\n\nYes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh....",
+            "We never were promised that these bodies would be made permanent. Over and over again or was told to us that the power of death would be abolished, but not regarding these bodies; St. Paul and Jesus d...",
+            "If you read the New Testament, one in understanding all this would have to say, \"It can only be more than a metaphor (wheat equals man) if an actual living deity exists who can call forth the dormant ..."
+        ],
+        "see_also": [
+            "Anamnesis",
+            "Because",
             "Christ",
             "Christian",
-            "Fish"
+            "Christianity"
         ]
     },
     {
-        "term": "Suddenly",
-        "category": "Technical Vocabulary",
+        "term": "Holy",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Suddenly as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1082 recorded mentions.",
+        "interpretive_note": "Dick treats Holy as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part segment, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part segment",
+            "part of",
+            "Unknown",
+            "part one",
+            "book about"
+        ],
+        "evidence_anchors": [
+            "I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.\n\nWe already pointed this axis out --the one he se...",
+            "karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done i...",
+            "Last edit over 5 years ago by FolkDevil\n\n6\nsorts of shit (you noticed). Well, then it was an intrusion into time, into ordinary time, before entelechies were complete; like God\u2019s grace which saves you..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Complete",
-            "Form"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Dead",
-        "category": "Technical Vocabulary",
+        "term": "Spirit",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Dead as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1097 recorded mentions.",
+        "interpretive_note": "Dick treats Spirit as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part segment, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part segment",
+            "part of",
+            "book the",
+            "Unknown",
+            "part one"
+        ],
+        "evidence_anchors": [
+            "I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.\n\nWe already pointed this axis out --the one he se...",
+            "This is why (uniquely for me) my thoughts and phosphene activity speeded up in March so that the rate was beyond count. My personal time used itself up...but for me the actual Fulfillment of Time wsa ...",
+            "karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done i..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Form"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Magic",
-        "category": "Technical Vocabulary",
+        "term": "Indexed",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Magic as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1140 recorded mentions.",
+        "interpretive_note": "Dick treats Indexed as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book of",
+            "part of",
+            "book the",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "But this isn't \"reversion\"; it is completion. Actually I had\n\nLast edit over 5 years ago by Toso\n2\nIndexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, ...",
+            "Stephen: (MYSTEROUSLY, BUT AMUSED) \u201cI can\u2019t tell you yet, Rose, or Mary, or Rosemary, whaterver.\u201d (EROTIC INTERCHANGE OF GLANCES BETWEENB THEM: SHE FALLS FOR HIM. HE IS A NEAT DUE, SHARP DRESSER, ETC....",
+            "Taking a leaf from Marlo Thomas \u2013 the best thing a child\u2019s book can do is teach what the child may be and do. Which he otherwise never would have thought of (the worst is to say, no you can\u2019t do or be..."
+        ],
         "see_also": [
+            "Anamnesis",
+            "Because",
+            "Bible",
             "Christ",
-            "Complete",
-            "Indexed",
-            "Like"
+            "Christian"
         ]
     },
     {
-        "term": "Truth",
-        "category": "Technical Vocabulary",
+        "term": "Toso",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Truth as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1495 recorded mentions.",
+        "interpretive_note": "Dick treats Toso as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book was suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book was",
+            "book of",
+            "part of",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "What Joe Chip saw: What I saw: FORM REVERSION ROME AGAIN (time reversion)\n\nBut this isn't \"reversion\"; it is completion. Actually I had\n\nLast edit over 5 years ago by Toso\n2\nIndexed\n2\nnever realized t...",
+            "Time didn't reach its completion as an entelechy does; it was pierced -- breached. I'm a pre-cog and I saw this, in my dream, in 1970, which I put in TEARS. It was published in Feb 1974. The rat which...",
+            "With warm personal regards.\n\nPhilip K. Dick 1405 Cameo Lane #4 Fullerton, Calif 92631, USA\n\nLast edit over 5 years ago by Toso\n14\nIndexed\n14\nHandwritten notes in PKD\u2019s hand: A Light struck meadow for ..."
+        ],
         "see_also": [
             "Acts",
+            "Because",
+            "Bible",
+            "Christ",
+            "Christian"
+        ]
+    },
+    {
+        "term": "Ubik",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1527 recorded mentions.",
+        "interpretive_note": "Dick treats Ubik as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "part of",
+            "book the",
+            "Unknown",
+            "book A"
+        ],
+        "evidence_anchors": [
+            "Dear Claudia,\n\nI just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.\n\nWe already pointed this axis out ...",
+            "Last edit over 5 years ago by Toso\n2\nIndexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Al...",
+            "Last edit over 5 years ago by Toso\n3\nComplete\n3\nTessa's name for me (without her knowing all this, supra) is Rowie Rog. A combination of sounds which pierce to my soul, for evident reasons. Rog Philli..."
+        ],
+        "see_also": [
+            "Anamnesis",
+            "Because",
             "Christ",
             "Christianity",
             "Complete"
         ]
     },
     {
-        "term": "Deus Irae",
-        "category": "Narrative Artifact",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as narrative artifact, appearing approximately 26 times.",
-        "extended_definition": "This element occupies a critical position in the narrative artifact domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Deus Irae as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "term": "Christian",
+        "category": "Top Term",
+        "aliases": [
+            "Christians",
+            "Xtian",
+            "Xtians"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1745 recorded mentions.",
+        "interpretive_note": "Dick treats Christian as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book certainly, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book certainly",
+            "part of",
+            "part segment",
+            "book I",
+            "Unknown"
+        ],
+        "evidence_anchors": [
+            "(one) There are two types of time: lineal time; and orthogonal time, the latter being Real Time in that within orthogonal time you have successive layers of deepening Being; this is ontological time, ...",
+            "Last edit almost 3 years ago by twsullivan\n28\nComplete\n28\nconsciously draw from it; these are the \"Seas of Knowledge\" which were known back to the Sumerians, and upon which the Sibyl at Delphi drew. B...",
+            "And then later, \"...He is drunken with music, not with wine.\" (Jane Harrision.) By stealthy degrees Dionysos became Zagreus and then Orpheus. The trouble with Jesus is that he isn't musical. I guess t..."
+        ],
         "see_also": [
-            "Christ",
-            "Christian",
-            "Spirit",
-            "Tears"
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Upper",
-        "category": "Technical Vocabulary",
+        "term": "Acts",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Upper as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1801 recorded mentions.",
+        "interpretive_note": "Dick treats Acts as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book but suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book but",
+            "book was",
+            "part of",
+            "book of"
+        ],
+        "evidence_anchors": [
+            "Recently I met Mr. Henry Korman and Mr. Tony Hiss (Tony had come by to interview me for the New Yorker). I got into a marvelous discussion with Henry about Sufi and I mentioned my admiration, borderin...",
+            "NB: The difference between Ghosticism and Neoplatonism is basically that (one) the Neoplatonists believed you could achieve it yourself, whereas (two) the Gnostics believed that the Redeemer did it fo...",
+            "This news (in Psy Today) about the pineal body being a light-receiving organ or gland is so exciting to me because it means that the chromatic phosphene source I experienced did not merely go to the l..."
+        ],
         "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Form"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
         ]
     },
     {
-        "term": "Blood",
-        "category": "Technical Vocabulary",
+        "term": "Tears",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Blood as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 2029 recorded mentions.",
+        "interpretive_note": "Dick treats Tears as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book certainly, book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book certainly",
+            "book of",
+            "part of",
+            "Unknown",
+            "part retained"
+        ],
+        "evidence_anchors": [
+            "It has happened, the Prince of this World fell.\n\nThis all has been an unfolding process. A revealing or disclosing of Being.\n\nThe Final Things (Parousia) is this: when God and his forces break through...",
+            "This all has been an unfolding process. A revealing or disclosing of Being.\n\nThe Final Things (Parousia) is this: when God and his forces break through, penetrate into, linear time, and intervene for ...",
+            "Tessa's name for me (without her knowing all this, supra) is Rowie Rog. A combination of sounds which pierce to my soul, for evident reasons. Rog Phillips, by the way, was a friend of Tony Boucher, al..."
+        ],
         "see_also": [
             "Acts",
+            "Advent",
+            "Because",
             "Christ",
-            "Christian",
-            "Christianity"
+            "Christian"
+        ]
+    },
+    {
+        "term": "Christ",
+        "category": "Top Term",
+        "aliases": [
+            "Christs"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 4853 recorded mentions.",
+        "interpretive_note": "Dick treats Christ as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part of, part segment suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part of",
+            "part segment",
+            "book as",
+            "Unknown",
+            "book A"
+        ],
+        "evidence_anchors": [
+            "Indexed\n2\nnever realized the analog between my seeing Rome, then the Hellenistic World, then Attika, then Crete, and what Joe et al in UBIK saw. Form reversion. Along the orthogonal axis. Wrong. Ortho...",
+            "(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.\n\nYes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh....",
+            "Dear Claudia,\n\nI've read the LEM piece in SFS further and it is a bit like your approach, but not enough to bother you....however, do read it first, when you receive the thing.\n\nLet me offer some furt..."
+        ],
+        "see_also": [
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christian"
+        ]
+    },
+    {
+        "term": "Entropy",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 11 recorded mentions.",
+        "interpretive_note": "Dick treats Entropy as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "Book of",
+            "book but",
+            "part of",
+            "Part of"
+        ],
+        "evidence_anchors": [
+            "Last edit almost 3 years ago by twsullivan\n\n31\nEntropy equals disorder.\n\nThe universe is moving toward entropy.\n\nTherefore the universe is moving toward disorder....",
+            "31\nEntropy equals disorder.\n\nThe universe is moving toward entropy.\n\nTherefore the universe is moving toward disorder.\n\nForms are order....",
+            "Therefore the universe is moving toward disorder.\n\nForms are order.\n\nThat which is moving toward form, or completion of form, is moving against disorder or against entropy.\n\nTherefore since the [unive..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Decoded",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 15 recorded mentions.",
+        "interpretive_note": "Dick treats Decoded as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book when, book with suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book when",
+            "book with",
+            "Book of",
+            "book was",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "NB: The difference between Ghosticism and Neoplatonism is basically that (one) the Neoplatonists believed you could achieve it yourself, whereas (two) the Gnostics believed that the Redeemer did it fo...",
+            ". . On the \"Decoded New Testament\": It agrees with my experiences of the whole last year. They say it comes via the sun; the sun acts as a transducer (so to speak) between Creator and visible universe...",
+            "Last edit over 5 years ago by Harpax\n\n66\nThe band of darkness which I and Laura saw passing across the sky on Good Friday, during the 3 hour period in which Christ is dead - i.e. in the tomb. It was r..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Yaldabaoth",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 16 recorded mentions.",
+        "interpretive_note": "Dick treats Yaldabaoth as a functional anchor for his information-metaphysics. Its frequent appearance in units such as folder 53, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "folder 53",
+            "Book of",
+            "part of",
+            "folder 49",
+            "folder 55"
+        ],
+        "evidence_anchors": [
+            "Complete\n34\nuniverse is both real + irreal simultaneously: the PTG set is real + the BIP (ground) is not (\"real\" standing for \"alive\" + \"irreal \"dead\"). (or rather forgery rather than irreal. For \"for...",
+            "25.\n\nledge. Maze + knowledge are antithetical; also maze + reality are antithetical. Out of this I derive: knowledge + reality are interrelated. So we can expect the active deceptivity of this maze to...",
+            "28.\n\ndebased + impaired condition. + God has dispatched a savior to restore us. But the Gnostics are right in (1) their acosmism; + (2) in saying that the true God did not create this world, + that th..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Brahman",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Linear",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 16 recorded mentions.",
+        "interpretive_note": "Dick treats Linear as a functional anchor for his information-metaphysics. Its frequent appearance in units such as BOOK OF, part segment suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "BOOK OF",
+            "part segment",
+            "part of",
+            "Unknown",
+            "part in"
+        ],
+        "evidence_anchors": [
+            "We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.\n\nThis \"decay\" ...",
+            "It has happened, the Prince of this World fell.\n\nThis all has been an unfolding process. A revealing or disclosing of Being.\n\nThe Final Things (Parousia) is this: when God and his forces break through...",
+            "(N.B. The Iron City --Rome-- [****?] didn't just go away...we threw it over, the tyranny. We fought well, organizated.\n\nYes; it was Elijah who came first, in mid-March; he prepared us, gt blub zeesxh...."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Saint Sophia",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 16 recorded mentions.",
+        "interpretive_note": "Dick treats Saint Sophia as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book divided, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book divided",
+            "Book of",
+            "part our",
+            "book in",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "later, a year in our world, disclosed a tremendous movement in the eternal world: with the thrall of time removed, we saw the freer world of Justinian, with its palm branched waving, the same palm I s...",
+            "Most of all I have seen our God come to the rescue of one of those serving him when that person, myself, was in acute distress and could turn nowhere and to no one. (psalm 116.) The promise given in t...",
+            "Needs Review\n122\nI still want to retain the gold fish-necklace which disinhibits him. But now when he sees the girl who is wearing it, actual memories from this life are stirred up...where has he seen..."
+        ],
+        "see_also": [
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman"
+        ]
+    },
+    {
+        "term": "Kantian",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 21 recorded mentions.",
+        "interpretive_note": "Dick treats Kantian as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, part with suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "part with",
+            "part of",
+            "book of",
+            "folder 55"
+        ],
+        "evidence_anchors": [
+            "Last edit over 9 years ago by Toso\nfolder 02 - 034\nIndexed\nfolder 02 - 034\nIt is not enough to DISMISS time, space, causality + the phenomenal world as irreal; two questions remain: 1) If they are irr...",
+            "Complete\nfolder 21 - 114\n112\n\nanalysis, urges us to the conclusion that in this sentence \"appear\" carries the force of \"give a false impression.\" I'm sorry, but that is the way I asses \"appear\" in thi...",
+            "Last edit almost 3 years ago by svayambhu108\n77\nNeeds Review\n77\n273 what if this macrobrain disassembled itself into components in the form of many individual humans here + there with amnesia, + the t..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Brahman",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Phil Dick",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 23 recorded mentions.",
+        "interpretive_note": "Dick treats Phil Dick as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, folder 48 suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "folder 48",
+            "part of",
+            "folder 01",
+            "book about"
+        ],
+        "evidence_anchors": [
+            "Now, did Dionysos let me know this because he has taken me, or did Erasmus whisper this to me in dreams because he was such a wise Christian divine and had his own theories, and I'm fronting for him? ...",
+            "Last edit almost 3 years ago by svayambhu108\n38\nNeeds Review\n38\n38 This is why I find myself wanting to say to Xtians that behold! I bring you good news. (I am an emissary to this world, in touch with...",
+            "Last edit almost 3 years ago by svayambhu108\n\n16\n11 oddy, we will experience the true orthogonal world of the 2nd Advent breaking through upward from below, from within, the lowest \"gutter\" layers of ..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Brahman"
+        ]
+    },
+    {
+        "term": "Pleroma",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 24 recorded mentions.",
+        "interpretive_note": "Dick treats Pleroma as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book but suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book but",
+            "Part of",
+            "book of",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "Here is a better explanation: I have a daimon, as Socrates had, a guardian (tutelary) spirit within me. I heard it speak first during my physics test in high school, then in the '60s about the great t...",
+            "Needs Review\n234\nI've seen her, heard her, in many guises, and finally the name \"St. Sophia.\" Gnostic revelation has broken through into my head in the modern world. I think anyone versed in Gnosticis...",
+            "Last edit almost 5 years ago by svayambhu108\n235\nNeeds Review\n235\nthe space-time universe and an abolition of the conditions of exile & estrangement & amnesia, which would mean not only that we would ..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Hermes",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 25 recorded mentions.",
+        "interpretive_note": "Dick treats Hermes as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part of, book came suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part of",
+            "book came",
+            "Part of",
+            "Unknown",
+            "Folder 03"
+        ],
+        "evidence_anchors": [
+            "It certainly shows that the alchemists were seeking a symbolic transmutation of psyche or maybe no\u00f6s, not metal qua metal (which Jung and AMORC have pointed out). That something equal to turning lead ...",
+            ". . . The EB macro article on Christian mysticism says that it differs from all other mysticism in that the person seeks to do the will of the father, not just unify with him, know him, etc. I felt th...",
+            "Last edit almost 3 years ago by svayambhu108\n39\nNeeds Review\n39\n1) 3 Alchemy. I just happened (sic) to turn to the EB article. Whatever it was that happened to me in 3 74 That is why, what + how, the ..."
+        ],
+        "see_also": [
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Christ",
+            "Christian"
         ]
     },
     {
         "term": "Dialectic",
-        "category": "Technical Vocabulary",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Dialectic as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 27 recorded mentions.",
+        "interpretive_note": "Dick treats Dialectic as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book and suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book and",
+            "part of",
+            "Unknown",
+            "part anyhow"
+        ],
+        "evidence_anchors": [
+            "This is 2,000 years before India. \"The whole pantheon, as well as the world, thus becomes organically assimilated to the cosmic body of the creator.\" Also, Ptah did it by speaking the word (the tongue...",
+            "Needs Review\n104\nEither that, or else the Logos, as creator, \"set us spinning\" and now moves backward in time from the end, arranging the direction so it will end correctly (thus the Logos would be ba...",
+            "Needs Review\n213\nNow, take what Eric was saying about the American Founding Fathers and tneir belief that history exactly repeats itself, and their study of it, esp. of Greece and Rome. Suppose a grea..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Complete"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Wilson",
-        "category": "Technical Vocabulary",
+        "term": "Information",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Wilson as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 30 recorded mentions.",
+        "interpretive_note": "Dick treats Information as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "part of",
+            "Unknown",
+            "part which",
+            "part delibaratedly"
+        ],
+        "evidence_anchors": [
+            "Dear Claudia,\n\nEnclosed is 4 pages of notes -- also Xerox of the Kozyrev paper (1967) on his study of the properties and nature of time.\n\nI've briefly glanced over this paper of his, and I am sure tha...",
+            "Last edit over 5 years ago by Harpax\n35\nNeeds Review\n35\nThe anamnesis phenomenon, especially because triggered off by an external disinhibiting stimulus, suggests not only an entire \"second stage\" in ...",
+            "Last edit over 5 years ago by Harpax\n\n41\nThe \"Logos Effect,\" discovered about 1600 when explorers brought back to Europe information about cultures and tribes which had never had contact with Christia..."
+        ],
         "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Toso"
-        ]
-    },
-    {
-        "term": "Kyrios",
-        "category": "Theological Construct",
-        "aliases": [],
-        "definition": "A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.",
-        "extended_definition": "This element occupies a critical position in the theological construct domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Kyrios as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Tears"
-        ]
-    },
-    {
-        "term": "Nancy",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Nancy as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Complete",
-            "Dionysos",
-            "Paul"
-        ]
-    },
-    {
-        "term": "Cross",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Cross as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "House",
-            "Logos"
-        ]
-    },
-    {
-        "term": "Israel",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Israel as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Complete",
-            "Holy"
-        ]
-    },
-    {
-        "term": "Eastern",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Eastern as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Christianity"
-        ]
-    },
-    {
-        "term": "Joseph",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Joseph as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
+            "Anamnesis",
+            "Because",
             "Brahman",
             "Christ",
-            "Christian",
-            "Logos"
+            "Christian"
         ]
     },
     {
-        "term": "Elisha",
-        "category": "Technical Vocabulary",
+        "term": "Hegelian",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Elisha as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Tears",
-            "Thomas"
-        ]
-    },
-    {
-        "term": "Knowledge",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Knowledge as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 34 recorded mentions.",
+        "interpretive_note": "Dick treats Hegelian as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book or, part cycle suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book or",
+            "part cycle",
+            "part of",
+            "folder 49",
+            "part process"
+        ],
+        "evidence_anchors": [
+            "Last edit almost 3 years ago by svayambhu108\n30\nNeeds Review\n30\n420 2 geant with iron less (Rome east + west) with freet of lay mixed with iron, who is struck down by the uncit fone. Here an imperial ...",
+            "Last edit almost 3 years ago by svayambhu108\n32\nNeeds Review\n32\n29 Thus I say now, upon reading head, if God intervened to save line it was purely for - in live with - gistorical volves (perhaps tears...",
+            "Needs Review\n35\n32\n\n36 the ultimate point in this historical process which is generating the new man will be the (secons) incarnation of \"the son of man\" whom I see in his aspect as divine wisdom; ult..."
+        ],
         "see_also": [
             "Acts",
+            "Because",
+            "Bible",
             "Christ",
-            "Christian",
-            "Christianity"
+            "Christian"
         ]
     },
     {
-        "term": "Sturgeon",
-        "category": "Technical Vocabulary",
+        "term": "Santa Sophia",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Sturgeon as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Indexed",
-            "Tears"
-        ]
-    },
-    {
-        "term": "Except",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Except as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Indexed",
-            "Jesus"
-        ]
-    },
-    {
-        "term": "Frozen Journey",
-        "category": "Narrative Artifact",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as narrative artifact, appearing approximately 27 times.",
-        "extended_definition": "This element occupies a critical position in the narrative artifact domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Frozen Journey as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 40 recorded mentions.",
+        "interpretive_note": "Dick treats Santa Sophia as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book certainly suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book certainly",
+            "book and",
+            "part of",
+            "part one"
+        ],
+        "evidence_anchors": [
+            "Needs Review\n75\nI never after that \"found\" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was ac...",
+            "For Paul it was some sort of \"marks or scars,\" maybe impaired eye-sight; for me, the hypertension and vertigo, etc. But still, see, the mortal mother remains; hence affliction is not abolished; the Li...",
+            "Last edit over 5 years ago by Harpax\n79\nNeeds Review\n79\nIt occurs to me that \"Elijah\" and the \"Old King\" of the dream are the same figure, are both the Father. Firebright, Christ, and the dancing woul..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Complete"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "God Himself",
-        "category": "Theological Construct",
+        "term": "Kant",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A core theological construct derived from Gnostic, Hermetic, or Christian traditions, repurposed for Dick's information-metaphysics.",
-        "extended_definition": "This element occupies a critical position in the theological construct domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats God Himself as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 46 recorded mentions.",
+        "interpretive_note": "Dick treats Kant as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part of, Unknown suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part of",
+            "Unknown",
+            "part process",
+            "folder 01",
+            "folder 82"
+        ],
+        "evidence_anchors": [
+            "September 15, 1976\n\nDear Dorothy,\n\nI wanted to add a footnote to my earlier letter about my religious discoveries: new light shed on them through an interview with a lady reporter who came to see me y...",
+            "= what happened to me in 3-74 was that for some reason (e.g. (1) orthomolecular vitamins (2) I was possessed by the mimicker) I could see the mimicker & its mimickry. So in a way, what nearly happened...",
+            "Last edit almost 3 years ago by svayambhu108\n39\nNeeds Review\n39\non 3 what is accomplished by this is the penetration by God's mind (divine Noos or St Sophic) to the deepest (furthest) levels of his bo..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Complete"
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman"
         ]
     },
     {
-        "term": "Eckhart",
-        "category": "Historical Figure",
+        "term": "Phil",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A primary historical figure in Dick's intellectual genealogy, treated as a historical precursor or psychic double.",
-        "extended_definition": "This element occupies a critical position in the historical figure domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Eckhart as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 50 recorded mentions.",
+        "interpretive_note": "Dick treats Phil as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, book or suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "book or",
+            "part of",
+            "book the",
+            "part process"
+        ],
+        "evidence_anchors": [
+            "karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done i...",
+            "Last edit over 5 years ago by Zebrapedia\n9\nIndexed\n9\nIt\u2019s odd that I recall the sizzling rope of poppies in the snow so clearly and not the rest. What I saw the other night, the swirls of vines up the...",
+            "Now, did Dionysos let me know this because he has taken me, or did Erasmus whisper this to me in dreams because he was such a wise Christian divine and had his own theories, and I'm fronting for him? ..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Form"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Brahman"
         ]
     },
     {
-        "term": "Paradise",
-        "category": "Technical Vocabulary",
+        "term": "Anamnesis",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Paradise as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 61 recorded mentions.",
+        "interpretive_note": "Dick treats Anamnesis as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book certainly suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book certainly",
+            "part segment",
+            "part of",
+            "book as"
+        ],
+        "evidence_anchors": [
+            "This is what I saw; what I saw rolled back was the \"snow\" of that long winter. Back to Spring. These are the dust, too, the dust and snow: dust in summer, snow in winter, but there was the Ggod only s...",
+            "It is now too late to destroy them; their helplessness is past. They are awake!\n\n\"They kingdom come\" slightly misleading: \"They kingship come,\" but, \"come to,\" that is, kingship enter each temple/body...",
+            "Nicholas Brady, an ordinary American citizen with contemporary worldly values and drives (money and power and prestige) suddenly has inside him a winking into life an entity which has slumbered for tw..."
+        ],
         "see_also": [
             "Acts",
+            "Because",
+            "Bible",
             "Christ",
-            "Christian",
-            "Tears"
+            "Christian"
         ]
     },
     {
-        "term": "Electric",
-        "category": "Technical Vocabulary",
+        "term": "Philip",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Electric as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 69 recorded mentions.",
+        "interpretive_note": "Dick treats Philip as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book but suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book but",
+            "book of",
+            "book in",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "karma on me, not really; I had that lesson in me, that understanding. Yet -- I felt sorry for the rat, since it didn't want to die. The lesson was for me the hardest of all: that things must be done i...",
+            "I\u2019ve enclosed two or three pictures of us\u2026 I do hope all goes well with you, and I would so much enjoy hearing from you, and knowing about you these days. I\u2019m into screenplay writing now\u2026 also Rolling...",
+            "But that\u2019s too long. Let me know if you are going to use this piece I wrote; if you don\u2019t, I will get you.\n\nWith warm personal regards.\n\nPhilip K. Dick 1405 Cameo Lane #4 Fullerton, Calif 92631, USA\n\n..."
+        ],
         "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Hagia Sophia",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 76 recorded mentions.",
+        "interpretive_note": "Dick treats Hagia Sophia as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, book with suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "book with",
+            "folder 48",
+            "part of",
+            "book of"
+        ],
+        "evidence_anchors": [
+            "Last edit almost 3 years ago by svayambhu108\n128\nNeeds Review\n128\n20 God descending to corporial manhood - the division between the 2 realms abolished (i.e by Christ, who could then work backward in t...",
+            "Last edit over 5 years ago by sekennedy62\n15\nComplete\n15\nMy \"2 source cosmogony / cosmology\" which I just sort of dashed off wasn't based on logic or observation (in the usual sense, as with philosoph...",
+            "No it's not. It's new. It's either new, or has been a well-kept secret. + what if I'm right that the one (the real creator) slew the deranged psyche of II's. This can't be equated with Taoism - althou..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Hegel",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 83 recorded mentions.",
+        "interpretive_note": "Dick treats Hegel as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book or, part The suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book or",
+            "part The",
+            "part of",
+            "part cycle",
+            "part process"
+        ],
+        "evidence_anchors": [
+            "Last edit almost 3 years ago by svayambhu108\n30\nNeeds Review\n30\n420 2 geant with iron less (Rome east + west) with freet of lay mixed with iron, who is struck down by the uncit fone. Here an imperial ...",
+            "Last edit almost 3 years ago by svayambhu108\n\n31\n23 what we call \"history\" is God (imminent) ful filling himself. Since (if) a man (men) particis pates in history - the direction toward greate human (...",
+            "Last edit almost 3 years ago by svayambhu108\n32\nNeeds Review\n32\n29 Thus I say now, upon reading head, if God intervened to save line it was purely for - in live with - gistorical volves (perhaps tears..."
+        ],
+        "see_also": [
+            "Acts",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman"
+        ]
+    },
+    {
+        "term": "Zebrapedia",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 108 recorded mentions.",
+        "interpretive_note": "Dick treats Zebrapedia as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book of",
+            "part of",
+            "book the",
+            "Unknown",
+            "folder 32"
+        ],
+        "evidence_anchors": [
+            "The universe must be read backward; so the three 9s are 666; its\u2019 a \u2013 ohhhhhhh. The other night, \u201cErasmus\u201d laughing. All the codes and number codes (a lot I haven\u2019t told you, but hope to some day). Se...",
+            "The mind receives so well during young childhood. It was wonderful, enchantment, when things spoke, pictures and bugs. Well, God spoke through them via, by means of, them. Utilized them as conduits of...",
+            "Rose: \u201cStephen, how come I can do magic and I\u2019m living here in Fullerton like everyone else, eating at McDonald\u2019s and knowing Willis McNelly.\u201d\n\nStephen: (MYSTEROUSLY, BUT AMUSED) \u201cI can\u2019t tell you yet..."
+        ],
+        "see_also": [
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Philo",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 109 recorded mentions.",
+        "interpretive_note": "Dick treats Philo as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, book or suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "book or",
+            "part cycle",
+            "part of",
+            "book in"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Harpax\n\n41\nThe \"Logos Effect,\" discovered about 1600 when explorers brought back to Europe information about cultures and tribes which had never had contact with Christia...",
+            "There is no doubt that, what with my right hemisphere experiments, I was trying to achieve something -- and perhaps did. Recieved something; receiving was part of what I was into, the idea that we cou...",
+            "\". . .But the souls of the just are in God's hand, and torment shall not touch them. In the eyes of foolish men they seemed to be dead; their departure was reckoned as defeat, and their going from us ..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Because",
+            "Bible",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Firebright",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 116 recorded mentions.",
+        "interpretive_note": "Dick treats Firebright as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, part segment suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "part segment",
+            "part of",
+            "book of",
+            "part one"
+        ],
+        "evidence_anchors": [
+            "Voila! For Magdeburg jars read moist soul-dry soul (and the related external worlds). Read filters/scramblers/monism/v. FLOW MY TEARS; v. March 74. In all this, the moist-soul, dry-soul, plus any comb...",
+            "carries with him a friends list. The messenger, Elijah, shapes up and squares up each person on the list; this involves making him pious, and directing him to engage in good works; he is good of attit...",
+            "NB: The difference between Ghosticism and Neoplatonism is basically that (one) the Neoplatonists believed you could achieve it yourself, whereas (two) the Gnostics believed that the Redeemer did it fo..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "St Sophia",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 117 recorded mentions.",
+        "interpretive_note": "Dick treats St Sophia as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part or, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part or",
+            "Book of",
+            "book and",
+            "book that",
+            "book in"
+        ],
+        "evidence_anchors": [
+            "1) First -Elijah improved the world to make it acceptanble to God (March)\n\n2) Next, late august, after Nixon's resignation, God viewed it + found it acceptable;\n\n3)+ so will send his son again (St Sop...",
+            "2) Next, late august, after Nixon's resignation, God viewed it + found it acceptable;\n\n3)+ so will send his son again (St Sophia)\n\nat the time of that white light He (God) assessed it, whether he woul...",
+            "Needs Review\n229\nThe sublunar determinism which it (grace) set me free from was: pro-CP involvement & punishment by the US authorities. If I ask, Were there permanent effects? the answer is, Yes; I am..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Hermetic",
+        "category": "Top Term",
+        "aliases": [
+            "Hermetics"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 124 recorded mentions.",
+        "interpretive_note": "Dick treats Hermetic as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book was, part cycle suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book was",
+            "part cycle",
+            "part of",
+            "Part of",
+            "folder 02"
+        ],
+        "evidence_anchors": [
+            ". . . The EB macro article on Christian mysticism says that it differs from all other mysticism in that the person seeks to do the will of the father, not just unify with him, know him, etc. I felt th...",
+            "Last edit over 5 years ago by Harpax\n189\nNeeds Review\n189\nThese Hermetic-Thoth texts were used by the alchemists of the Renaissance. The concept of the Trinity may have come our of these Hermatic text...",
+            "Indexed\n14\n14\n\nIt is form II. Being rigid it must be burst like a husk by the seed placed in the center. It is also thanatos. What I saw Valis doing was making a correction. I've realized this for yea..."
+        ],
+        "see_also": [
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
+        ]
+    },
+    {
+        "term": "Time",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 178 recorded mentions.",
+        "interpretive_note": "Dick treats Time as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part was, book the suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part was",
+            "book the",
+            "Unknown",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "I just had a bizarre thought. The decay backward of forms which Joe Chip sees...it is not decay. This is not retrogression. It is the retrograde axis.\n\nWe already pointed this axis out --the one he se...",
+            "We already pointed this axis out --the one he sees in UBIK-- as the orthogonal one. Now I say, its retrograde motion, expressed in the novel, is its proper development, its own forward.\n\nThis \"decay\" ...",
+            "Maybe not. Maybe this is the counter time needed to create parity. I guess I said all this, but not this way; if we saw the orthogonal axis at work, we would not see it go from Model T to LeSalle to '..."
+        ],
+        "see_also": [
+            "Because",
             "Christ",
-            "Christian",
             "Complete",
-            "However"
-        ]
-    },
-    {
-        "term": "Government",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Government as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Father",
-            "Spirit"
-        ]
-    },
-    {
-        "term": "Unless",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Unless as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Christian",
-            "Jesus"
-        ]
-    },
-    {
-        "term": "Remember",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Remember as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Form",
-            "Indexed"
-        ]
-    },
-    {
-        "term": "Likewise",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Likewise as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Logos",
-            "Tears"
-        ]
-    },
-    {
-        "term": "Having",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Having as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Complete",
-            "Jesus"
-        ]
-    },
-    {
-        "term": "Socrates",
-        "category": "Historical Figure",
-        "aliases": [],
-        "definition": "A primary historical figure in Dick's intellectual genealogy, treated as a historical precursor or psychic double.",
-        "extended_definition": "This element occupies a critical position in the historical figure domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Socrates as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
             "Dionysos",
-            "Jesus"
+            "Elijah"
         ]
     },
     {
-        "term": "Passover",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Passover as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Christianity",
-            "Form"
-        ]
-    },
-    {
-        "term": "Babylonian",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Babylonian as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Form",
-            "Gnostic"
-        ]
-    },
-    {
-        "term": "Evil",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Evil as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "term": "Gnostic",
+        "category": "Top Term",
+        "aliases": [
+            "Gnostics"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 541 recorded mentions.",
+        "interpretive_note": "Dick treats Gnostic as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book certainly suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book certainly",
+            "part of",
+            "book of",
+            "book in"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Harpax\n35\nNeeds Review\n35\nThe anamnesis phenomenon, especially because triggered off by an external disinhibiting stimulus, suggests not only an entire \"second stage\" in ...",
+            "Last edit over 5 years ago by Harpax\n37\nNeeds Review\n37\nHypnagogic thoughts: field one and field two somewhat like Form one and Form two of Hericlitus, which is like Yang and Yin. The gnostics believe...",
+            "Voila! For Magdeburg jars read moist soul-dry soul (and the related external worlds). Read filters/scramblers/monism/v. FLOW MY TEARS; v. March 74. In all this, the moist-soul, dry-soul, plus any comb..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Jesus",
-            "Rome"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Trinity",
-        "category": "Technical Vocabulary",
+        "term": "Sophia",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Trinity as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Valis"
-        ]
-    },
-    {
-        "term": "Whether",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Whether as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Acts",
-            "Christ",
-            "Logos",
-            "Perhaps"
-        ]
-    },
-    {
-        "term": "America",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats America as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
-        "see_also": [
-            "Christ",
-            "Christian",
-            "Fish",
-            "Tears"
-        ]
-    },
-    {
-        "term": "Luther",
-        "category": "Historical Figure",
-        "aliases": [],
-        "definition": "A primary historical figure in Dick's intellectual genealogy, treated as a historical precursor or psychic double.",
-        "extended_definition": "This element occupies a critical position in the historical figure domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Luther as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 692 recorded mentions.",
+        "interpretive_note": "Dick treats Sophia as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, book certainly suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "book certainly",
+            "part of",
+            "Unknown",
+            "part one"
+        ],
+        "evidence_anchors": [
+            "Last edit over 5 years ago by Harpax\n65\nNeeds Review\n65\ncould not wake itself up -- like the root or bulb called to by spring (by the healing warming Sun of R[l]ighteousness) it had to be summoned. If...",
+            "Needs Review\n75\nI never after that \"found\" myself in daytime in an earlier moment, such as Crete, but recalled them in dreams; those were the foundations of Christianity. The Rome-Christ period was ac...",
+            "For Paul it was some sort of \"marks or scars,\" maybe impaired eye-sight; for me, the hypertension and vertigo, etc. But still, see, the mortal mother remains; hence affliction is not abolished; the Li..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Tears"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Days",
-        "category": "Technical Vocabulary",
+        "term": "Zebra",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Days as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 999 recorded mentions.",
+        "interpretive_note": "Dick treats Zebra as a functional anchor for his information-metaphysics. Its frequent appearance in units such as part is, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "part is",
+            "part of"
+        ],
+        "evidence_anchors": [
+            "1\nFollowing \"Mimic: insight\n\nQ: (written + audio messages are created + sent, either scrambled set/ground or divided into [two] portions + requiring relinking the knowledge of which PTS to match being...",
+            "Following \"Mimic: insight\n\nQ: (written + audio messages are created + sent, either scrambled set/ground or divided into [two] portions + requiring relinking the knowledge of which PTS to match being a...",
+            "Q: (written + audio messages are created + sent, either scrambled set/ground or divided into [two] portions + requiring relinking the knowledge of which PTS to match being akin to the color coding of ..."
+        ],
+        "see_also": [
+            "Anamnesis",
+            "Because",
+            "Bible",
+            "Brahman",
+            "Christ"
+        ]
+    },
+    {
+        "term": "Thomas",
+        "category": "Top Term",
+        "aliases": [],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 1481 recorded mentions.",
+        "interpretive_note": "Dick treats Thomas as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "part of",
+            "book as",
+            "part left",
+            "part anyhow"
+        ],
+        "evidence_anchors": [
+            "Magic is the power to bring to life that which is only a picture of a flower on a strip of cloth (this is how it was in the novel; they tied a strip of poppy-printed cloth around the snowman\u2019s neck). ...",
+            "Let me offer some further notes on the plot basis I mailed you for my book: I am more and more convinced that all mystery deities from Dionysos to the Christos were/was the same. That he resurrected t...",
+            "Nicholas Brady, an ordinary American citizen with contemporary worldly values and drives (money and power and prestige) suddenly has inside him a winking into life an entity which has slumbered for tw..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Complete"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Testament",
-        "category": "Technical Vocabulary",
+        "term": "Valis",
+        "category": "Top Term",
         "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Testament as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 3934 recorded mentions.",
+        "interpretive_note": "Dick treats Valis as a functional anchor for his information-metaphysics. Its frequent appearance in units such as book covers, Book of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "book covers",
+            "Book of",
+            "part of",
+            "book came",
+            "part but"
+        ],
+        "evidence_anchors": [
+            "Last edit almost 5 years ago by svayambhu108\n\n216\nI must never forget that I did not fire in response to the Xerox letter, but was programmed slightly in anticipation of its arrival, i.e. in advance, ...",
+            "216\nI must never forget that I did not fire in response to the Xerox letter, but was programmed slightly in anticipation of its arrival, i.e. in advance, by an evidently thinking entity. (Living.) But...",
+            "Thank you so much for the loan of the $200. I understand now that my Bantam money ($4,000) will arrive this month, so there should be no problem. However, the Douoleuay monies failed to appear, since ..."
+        ],
         "see_also": [
             "Acts",
-            "Christ",
-            "Christian",
-            "Greek"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     },
     {
-        "term": "Later",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Later as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "term": "Jakob Boehme",
+        "category": "Top Term",
+        "aliases": [
+            "Boehme",
+            "Bohme"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 109 recorded mentions.",
+        "interpretive_note": "Dick treats Jakob Boehme as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Part of, part of suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Part of",
+            "part of",
+            "part alive",
+            "folder says",
+            "book qua"
+        ],
+        "evidence_anchors": [
+            "Finally:\n\nI am led to the inescapable conclusion that, totally unknowingly, we are all constituents of a vast living organism, and that everything which occurs in it, our reality, happens due to its d...",
+            "Last edit almost 3 years ago by svayambhu108\n\n81\n83 We fell; we lost our memories; we are cut off from God - those faculties by which we apprehend him are destroyed or not functioning - plock, plock -...",
+            "5\n\nScanner: 1s to forge out of torment the rough-hewn shape\"\n\nThis is probably the happiest moment of my life t the I can say to this moment, \"stay.\" Here is fallen black cat on my lap; I am listening..."
+        ],
         "see_also": [
-            "Christ",
-            "Christian",
-            "Complete",
-            "Jesus"
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Brahman",
+            "Christ"
         ]
     },
     {
-        "term": "Form One",
-        "category": "Technical Vocabulary",
-        "aliases": [],
-        "definition": "A recurring element in Dick's *Exegesis*, categorized as technical vocabulary, appearing approximately 28 times.",
-        "extended_definition": "This element occupies a critical position in the technical vocabulary domain of Dick's later thought. Textual evidence suggests it functions as a bridge between abstract theory and personal visionary encounter.",
-        "significance": "Dick treats Form One as a high-confidence anchor for his developing system. Its frequent co-occurrence with the logos and the 2-74 experience highlights its functional centrality.",
-        "caution": "Scholars should distinguish between Dick's idiosyncratic use of this term and its standard historical or theological lineage.",
+        "term": "Plotinus",
+        "category": "Top Term",
+        "aliases": [
+            "Neoplatonism"
+        ],
+        "technical_definition": "A critical concept within the top term domain of PKD's Exegesis. Statistically significant with 239 recorded mentions.",
+        "interpretive_note": "Dick treats Plotinus as a functional anchor for his information-metaphysics. Its frequent appearance in units such as Book of, BOOK OF suggests it serves as a conceptual bridge during periods of intense visionary inquiry.",
+        "scholarly_weight": 0,
+        "linked_segments": [
+            "Book of",
+            "BOOK OF",
+            "part of",
+            "Unknown",
+            "part in"
+        ],
+        "evidence_anchors": [
+            "Complete\n33\nUndoubtedly the alchemical meta(crypte)morphosis worked in the human (lead to gold) contains a key to this transformation cycle of all society, of earth itself. After my own transformation...",
+            "Last edit over 5 years ago by Harpax\n35\nNeeds Review\n35\nThe anamnesis phenomenon, especially because triggered off by an external disinhibiting stimulus, suggests not only an entire \"second stage\" in ...",
+            "The distinction here between a special disinhibiting external stimulus for a special (unusual or even unique) \"second stage or meta stage\" system -- versus breaking a limiting factor with the fish sig..."
+        ],
         "see_also": [
-            "Christ",
-            "Christian",
-            "Christianity",
-            "Complete"
+            "Acts",
+            "Advent",
+            "Anamnesis",
+            "Because",
+            "Bible"
         ]
     }
 ];

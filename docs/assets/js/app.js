@@ -7,6 +7,8 @@ const state = {
     dictionary: window.EXEGESIS_DICTIONARY || [],
     analyticsData: window.EXEGESIS_ANALYTICS || null,
     graphData: window.EXEGESIS_GRAPH || null,
+    sourceStructure: window.EXEGESIS_STRUCTURE || [],
+    segmentSummaries: window.EXEGESIS_SUMMARIES || [],
     cy: null,
     charts: {}
 };
@@ -45,7 +47,8 @@ function initUI() {
             const query = e.target.value.toLowerCase().trim();
             const filtered = state.dictionary.filter(item =>
                 item.term.toLowerCase().includes(query) ||
-                item.definition.toLowerCase().includes(query)
+                (item.definition && item.definition.toLowerCase().includes(query)) ||
+                (item.technical_definition && item.technical_definition.toLowerCase().includes(query))
             );
             renderCards(filtered);
         });
@@ -88,7 +91,7 @@ function renderCards(entries) {
             <div class="card" data-category="${entry.category}">
                 <span class="category">${entry.category}</span>
                 <h3>${entry.term}</h3>
-                <p>${entry.definition}</p>
+                <p>${entry.technical_definition || (entry.definition ? entry.definition.substring(0, 100) + '...' : 'Entry in the PKD Exegesis network.')}</p>
                 <a href="cards/${slug}.html" class="portal-btn">View Portal &rarr;</a>
             </div>
         `;
@@ -100,14 +103,13 @@ window.switchTab = function (tab) {
     // Update buttons
     document.querySelectorAll('.tab-btn').forEach(btn => {
         btn.classList.remove('active');
-        // Match either by data-tab or simple inclusion of the tab name in onclick
         if (btn.getAttribute('onclick')?.includes(`'${tab}'`)) {
             btn.classList.add('active');
         }
     });
 
     // Toggle views
-    const views = ['cards', 'analytics', 'graph'];
+    const views = ['cards', 'analytics', 'graph', 'source'];
     views.forEach(v => {
         const el = document.getElementById(`${v}-view`);
         if (el) {
@@ -121,16 +123,59 @@ window.switchTab = function (tab) {
         initGraph();
     } else if (tab === 'analytics') {
         initAnalytics();
+    } else if (tab === 'source') {
+        initSourceBrowser();
     }
 };
+
+function initSourceBrowser() {
+    const list = document.getElementById('segment-list');
+    if (!list || list.children.length > 0) return;
+
+    list.innerHTML = state.sourceStructure.map(seg => `
+        <div class="segment-item" data-id="${seg.segment_id}">
+            <span class="seg-type">${seg.type}</span>
+            <span class="seg-val">${seg.value}</span>
+        </div>
+    `).join('');
+
+    list.querySelectorAll('.segment-item').forEach(item => {
+        item.addEventListener('click', () => {
+            list.querySelectorAll('.segment-item').forEach(i => i.classList.remove('active'));
+            item.classList.add('active');
+            renderSegmentDetail(item.dataset.id);
+        });
+    });
+}
+
+function renderSegmentDetail(segId) {
+    const detail = document.getElementById('segment-detail');
+    const placeholder = document.getElementById('segment-detail-placeholder');
+    const summary = state.segmentSummaries.find(s => s.segment_id === segId);
+
+    if (!summary) return;
+
+    placeholder.classList.add('view-hidden');
+    detail.classList.remove('view-hidden');
+
+    document.getElementById('seg-title').textContent = summary.title;
+    document.getElementById('seg-summary').textContent = summary.summary_200_400_words;
+
+    document.getElementById('seg-theses').innerHTML = summary.core_theses.map(t => `<li>${t}</li>`).join('');
+    document.getElementById('seg-peaks').innerHTML = (summary.visionary_peaks || []).map(p => `<li>${p}</li>`).join('');
+
+    const anchors = document.getElementById('seg-anchors');
+    anchors.innerHTML = summary.evidence_anchors.map(a => `
+        <div class="anchor-box">
+            <p>"${a}"</p>
+        </div>
+    `).join('');
+}
 
 // --- ANALYTICS LOGIC ---
 function initAnalytics() {
     console.log("Initializing Analytics Dashboard...");
-    if (!state.analyticsData) {
-        console.warn("Analytics data missing from state (window.EXEGESIS_ANALYTICS).");
-        return;
-    }
+    if (!state.analyticsData) return;
 
     const configs = [
         { id: 'chart-top-terms', type: 'bar', data: state.analyticsData.top_overall, title: 'Mentions' },
@@ -139,18 +184,13 @@ function initAnalytics() {
         { id: 'chart-themes', type: 'bar', data: state.analyticsData.top_themes, title: 'Mentions' }
     ];
 
-    // Destroy existing charts to allow re-render if needed
     Object.values(state.charts).forEach(c => c.destroy());
     state.charts = {};
 
-    // Small timeout to ensure DOM visibility before Chart.js measurements
     setTimeout(() => {
         configs.forEach(conf => {
             const canvas = document.getElementById(conf.id);
-            if (!canvas) {
-                console.error(`Canvas not found: ${conf.id}`);
-                return;
-            }
+            if (!canvas) return;
 
             const ctx = canvas.getContext('2d');
             try {
@@ -170,21 +210,19 @@ function initAnalytics() {
                     options: {
                         responsive: true,
                         maintainAspectRatio: false,
-                        animation: { duration: 500 },
                         plugins: {
                             legend: {
                                 display: conf.type !== 'bar',
                                 position: 'bottom',
-                                labels: { color: '#e0e0e0', font: { family: 'Inter' } }
+                                labels: { color: '#e0e0e0' }
                             }
                         },
                         scales: conf.type === 'bar' ? {
-                            y: { beginAtZero: true, ticks: { color: '#888' }, grid: { color: '#333' } },
-                            x: { ticks: { color: '#888', font: { size: 10 } }, grid: { display: false } }
+                            y: { beginAtZero: true, ticks: { color: '#888' } },
+                            x: { ticks: { color: '#888', font: { size: 10 } } }
                         } : {}
                     }
                 });
-                console.log(`Successfully rendered ${conf.id}`);
             } catch (err) {
                 console.error(`Error rendering ${conf.id}:`, err);
             }
@@ -235,20 +273,11 @@ function initGraph() {
                     'curve-style': 'haystack',
                     'opacity': 0.2
                 }
-            },
-            {
-                selector: 'edge[type="similarity"]',
-                style: {
-                    'line-style': 'dashed',
-                    'line-color': '#9ca3af',
-                    'opacity': 0.1
-                }
             }
         ],
         layout: {
             name: 'cose',
-            animate: false,
-            nodeRepulsion: 4000
+            animate: false
         }
     });
 

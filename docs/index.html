@@ -1,6 +1,6 @@
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,106 +9,147 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.26.0/cytoscape.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
+
 <body>
     <header>
         <h1>Exegesis Knowledge Portal</h1>
         <p>A computational commentary on Philip K. Dick's intellectual network.</p>
     </header>
-    
+
     <main>
         <!-- Scholarly Introduction -->
         <section class="scholarly-intro">
             <h2>The Information Metaphysics of Philip K. Dick</h2>
             <p>
-                This portal provides a deterministic, evidence-backed reference system for Philip K. Dick's 
-                <em>Exegesis</em>. Our methodology prioritizes strict corpus hygiene—enforcing SHA256-verified 
-                whitelisting of source texts—and models Dick's thought not merely as a collection of terms, 
+                This portal provides a deterministic, evidence-backed reference system for Philip K. Dick's
+                <em>Exegesis</em>. Our methodology prioritizes strict corpus hygiene—enforcing SHA256-verified
+                whitelisting of source texts—and models Dick's thought not merely as a collection of terms,
                 but as a bidirectional network of passages and conceptual unit.
             </p>
             <p>
-                Dick's later work represents a radical synthesis of Hermetic initiation, Boehmean theosophy, 
-                Neoplatonic participation, and 20th-century information theory. By modeling these relations 
-                spatially, we reveal the "hinge passages" where these disparate traditions collide to form 
+                Dick's later work represents a radical synthesis of Hermetic initiation, Boehmean theosophy,
+                Neoplatonic participation, and 20th-century information theory. By modeling these relations
+                spatially, we reveal the "hinge passages" where these disparate traditions collide to form
                 his idiosyncratic visionary cosmology.
             </p>
         </section>
 
         <!-- Tab Navigation -->
-    <div class="tab-container">
-        <button class="tab-btn active" onclick="switchTab('cards')">Relational Cards</button>
-        <button class="tab-btn" onclick="switchTab('analytics')">Analytics Dashboard</button>
-        <button class="tab-btn" onclick="switchTab('graph')">Knowledge Graph (Experimental)</button>
-    </div>
+        <div class="tab-container">
+            <button class="tab-btn active" onclick="switchTab('cards')">Relational Cards</button>
+            <button class="tab-btn" onclick="switchTab('source')">Source Structure</button>
+            <button class="tab-btn" onclick="switchTab('analytics')">Analytics Dashboard</button>
+            <button class="tab-btn" onclick="switchTab('graph')">Knowledge Graph (Experimental)</button>
+        </div>
 
-    <!-- RELATIONAL CARDS VIEW -->
-    <div id="cards-view" class="view-active">
-        <div id="filter-bar">
-            <!-- Filter tags will be injected here -->
-        </div>
-        
-        <div class="search-container">
-            <input type="text" id="term-search" placeholder="Search concepts, figures, systems...">
-        </div>
-        
-        <div class="cards-grid" id="cards-grid">
-            <!-- Cards will be injected here -->
-        </div>
-    </div>
+        <!-- RELATIONAL CARDS VIEW -->
+        <div id="cards-view" class="view-active">
+            <div id="filter-bar">
+                <!-- Filter tags will be injected here -->
+            </div>
 
-    <!-- ANALYTICS VIEW -->
-    <div id="analytics-view" class="view-hidden">
-        <div class="analytics-container">
-            <div class="analytics-card">
-                <h3>Top 10 Most Frequent Concepts</h3>
-                <canvas id="chart-top-terms"></canvas>
+            <div class="search-container">
+                <input type="text" id="term-search" placeholder="Search concepts, figures, systems...">
             </div>
-            <div class="analytics-card">
-                <h3>Domain Distribution</h3>
-                <canvas id="chart-categories"></canvas>
-            </div>
-            <div class="analytics-card">
-                <h3>Key Historical Figures</h3>
-                <canvas id="chart-figures"></canvas>
-            </div>
-            <div class="analytics-card">
-                <h3>Theological / Metaphysical Themes</h3>
-                <canvas id="chart-themes"></canvas>
+
+            <div class="cards-grid" id="cards-grid">
+                <!-- Cards will be injected here -->
             </div>
         </div>
-    </div>
 
-    <!-- GRAPH VIEW -->
-    <div id="graph-view" class="view-hidden">
-        <div class="graph-explorer">
-            <div class="graph-legend">
-                <h4>Relational Explorer</h4>
-                <div class="legend-item"><span class="node-color concept"></span> Concept</div>
-                <div class="legend-item"><span class="node-color passage"></span> Passage Unit</div>
-                <div class="legend-info">Scroll to zoom • Drag to pan • Click to pivot</div>
-                
-                <div class="graph-categories">
-                    <h5>Categories</h5>
-                    <div id="graph-category-list"></div>
+        <!-- SOURCE STRUCTURE VIEW -->
+        <div id="source-view" class="view-hidden">
+            <div class="source-browser">
+                <aside class="segment-sidebar">
+                    <h3>Segments</h3>
+                    <div id="segment-list"></div>
+                </aside>
+                <section class="segment-content">
+                    <div id="segment-detail-placeholder">
+                        <p>Select a segment to view scholarly analysis and evidence anchors.</p>
+                    </div>
+                    <div id="segment-detail" class="view-hidden">
+                        <h2 id="seg-title"></h2>
+                        <div class="scholarly-box">
+                            <p id="seg-summary"></p>
+                        </div>
+                        <div class="scholarly-meta">
+                            <div class="meta-section">
+                                <h4>Core Theses</h4>
+                                <ul id="seg-theses"></ul>
+                            </div>
+                            <div class="meta-section">
+                                <h4>Visionary Peaks</h4>
+                                <ul id="seg-peaks"></ul>
+                            </div>
+                        </div>
+                        <h4>Evidence Anchors</h4>
+                        <div id="seg-anchors"></div>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+        <!-- ANALYTICS VIEW -->
+        <div id="analytics-view" class="view-hidden">
+            <div class="analytics-container">
+                <div class="analytics-card">
+                    <h3>Top 10 Most Frequent Concepts</h3>
+                    <canvas id="chart-top-terms"></canvas>
+                </div>
+                <div class="analytics-card">
+                    <h3>Domain Distribution</h3>
+                    <canvas id="chart-categories"></canvas>
+                </div>
+                <div class="analytics-card">
+                    <h3>Key Historical Figures</h3>
+                    <canvas id="chart-figures"></canvas>
+                </div>
+                <div class="analytics-card">
+                    <h3>Theological / Metaphysical Themes</h3>
+                    <canvas id="chart-themes"></canvas>
                 </div>
             </div>
-            <div id="cy"></div>
-            <div id="node-info" class="node-info-panel view-hidden">
-                <button class="close-btn" onclick="document.getElementById('node-info').classList.add('view-hidden')">&times;</button>
-                <div id="node-info-content"></div>
+        </div>
+
+        <!-- GRAPH VIEW -->
+        <div id="graph-view" class="view-hidden">
+            <div class="graph-explorer">
+                <div class="graph-legend">
+                    <h4>Relational Explorer</h4>
+                    <div class="legend-item"><span class="node-color concept"></span> Concept</div>
+                    <div class="legend-item"><span class="node-color passage"></span> Passage Unit</div>
+                    <div class="legend-info">Scroll to zoom • Drag to pan • Click to pivot</div>
+
+                    <div class="graph-categories">
+                        <h5>Categories</h5>
+                        <div id="graph-category-list"></div>
+                    </div>
+                </div>
+                <div id="cy"></div>
+                <div id="node-info" class="node-info-panel view-hidden">
+                    <button class="close-btn"
+                        onclick="document.getElementById('node-info').classList.add('view-hidden')">&times;</button>
+                    <div id="node-info-content"></div>
+                </div>
             </div>
         </div>
-    </div>
 
-    <footer>
-        <p>&copy; 2026 Exegesis Semantic Browser • Powered by Cytoscape.js & Chart.js • <a href="https://github.com/t3dy/ExegesisBrowser" style="color:var(--highlight); text-decoration:none;">GitHub Repository</a></p>
-    </footer>
+        <footer>
+            <p>&copy; 2026 Exegesis Semantic Browser • Powered by Cytoscape.js & Chart.js • <a
+                    href="https://github.com/t3dy/ExegesisBrowser"
+                    style="color:var(--highlight); text-decoration:none;">GitHub Repository</a></p>
+        </footer>
 
-    <!-- Data Scripts (Fallback for local CORS) -->
-    <script src="assets/data/dictionary_expanded.js"></script>
-    <script src="assets/data/analytics_summary.js"></script>
-    <script src="assets/data/graph_data.js"></script>
+        <!-- Data Scripts (Fallback for local CORS) -->
+        <script src="assets/data/dictionary_expanded.js"></script>
+        <script src="assets/data/analytics_summary.js"></script>
+        <script src="assets/data/graph_data.js"></script>
+        <script src="assets/data/source_structure.js"></script>
+        <script src="assets/data/segment_summaries.js"></script>
 
-    <!-- App Logic -->
-    <script src="assets/js/app.js"></script>
+        <!-- App Logic -->
+        <script src="assets/js/app.js"></script>
 </body>
+
 </html>
