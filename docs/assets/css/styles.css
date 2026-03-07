@@ -64,16 +64,16 @@ main {
     box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
 }
 
-.grid {
+.cards-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
 }
 
 .card {
     background: var(--card-bg);
     border: 1px solid var(--border-color);
-    padding: 1.5rem;
+    padding: 1.25rem;
     border-radius: 12px;
     transition: transform 0.2s, border-color 0.2s;
     display: flex;
@@ -91,29 +91,29 @@ main {
 }
 
 .card .category {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--highlight);
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.4rem;
 }
 
 .card h3 {
-    margin: 0 0 0.75rem;
-    font-size: 1.25rem;
+    margin: 0 0 0.5rem;
+    font-size: 1.1rem;
     color: #f3f4f6;
     line-height: 1.2;
 }
 
 .card p {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     color: var(--meta-color);
-    line-height: 1.5;
+    line-height: 1.4;
     flex-grow: 1;
     overflow: hidden;
     display: -webkit-box;
-    -webkit-line-clamp: 6;
-    /* Limit description length in square */
+    -webkit-line-clamp: 4;
+    /* Limit description further for smaller squares */
     -webkit-box-orient: vertical;
 }
 
