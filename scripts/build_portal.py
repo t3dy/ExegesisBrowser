@@ -14,6 +14,59 @@ def run_step(cmd):
     print(result.stdout)
     return True
 
+def generate_passage_fragments(data_dir, docs_dir):
+    """Converts JSON evidence packets into HTML fragments for iframes."""
+    packets_path = Path("data/intermediate/evidence_packets")
+    passages_docs_path = Path(docs_dir) / 'passages'
+    passages_docs_path.mkdir(parents=True, exist_ok=True)
+
+    if not packets_path.exists():
+        print(f"Warning: Evidence packets directory {packets_path} not found.")
+        return
+
+    passage_template = """
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="../assets/css/styles.css">
+    <style>
+        body {{ background: transparent !important; color: #ccc; font-family: 'Inter', sans-serif; padding: 0; margin: 0; }}
+        .passage-item {{ background: #1a1a1a; border-left: 3px solid var(--highlight); padding: 1rem; margin-bottom: 1.5rem; border-radius: 4px; }}
+        .passage-meta {{ font-size: 0.8rem; color: #888; margin-bottom: 0.5rem; font-family: monospace; }}
+        pre {{ white-space: pre-wrap; word-wrap: break-word; font-size: 0.9rem; line-height: 1.5; color: #e0e0e0; }}
+        .co-occurrences {{ margin-top: 0.5rem; font-size: 0.8rem; font-style: italic; color: #555; }}
+    </style>
+</head>
+<body>
+    {content}
+</body>
+</html>
+"""
+
+    for json_file in packets_path.glob("*.json"):
+        if json_file.name == "evidence_packet_index.json": continue
+        
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        content_html = ""
+        if not data.get('passages'):
+            content_html = "<p>No direct evidence passages found for this term.</p>"
+        else:
+            for p in data['passages']:
+                co_html = f'<div class="co-occurrences">Co-occurrences: {", ".join(p["co_occurrences"])}</div>' if p.get('co_occurrences') else ""
+                content_html += f"""
+                <div class="passage-item">
+                    <div class="passage-meta">Line {p['line_start']}-{p['line_end']} | {p['folder_id']} | Match: '{p['matched_alias']}'</div>
+                    <pre>{p['excerpt']}</pre>
+                    {co_html}
+                </div>
+                """
+        
+        slug = json_file.stem
+        with open(passages_docs_path / f"{slug}.html", 'w', encoding='utf-8') as f:
+            f.write(passage_template.format(content=content_html))
+
 def build_static_site(data_dir, docs_dir):
     expanded_json = Path(data_dir) / 'dictionary_expanded.json'
     docs_path = Path(docs_dir)
@@ -25,8 +78,16 @@ def build_static_site(data_dir, docs_dir):
         print(f"Error: Dictionary {expanded_json} not found. Run enrichment first.")
         return
 
+    # Generate Passage Fragments First
+    print("Generating evidence passage fragments...")
+    generate_passage_fragments(data_dir, docs_dir)
+
     with open(expanded_json, 'r', encoding='utf-8') as f:
         entries = json.load(f)
+
+    # Blacklist internal terms
+    blacklist = ["Evidence Packet Index", "Indexed Folder", "Toso Folder"]
+    entries = [e for e in entries if e['term'] not in blacklist]
 
     # Base Template
     card_template = """
